@@ -6,8 +6,11 @@
   <meta name="description" content="Family recipe from MomMom's Kitchen">
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
   <meta name="googlebot" content="noindex, nofollow">
+
+  <!-- SHARED STYLES FROM HUB - includes auth gate, nav, mobile responsive -->
+  <link rel="stylesheet" href="https://jsschrstrcks1.github.io/Grandmasrecipes/styles.css">
+
   <title>Recipe - MomMom's Kitchen</title>
-  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <!-- Authentication Gate -->
@@ -24,8 +27,57 @@
     </div>
   </div>
 
+  <!-- Authentication Script - MUST use exact key for cross-site auth -->
+  <script>
+    (function() {
+      const AUTH_KEY = 'grandmas-kitchen-auth';
+      const CORRECT_ANSWER = 'Baker';
+
+      function checkAuth() {
+        return localStorage.getItem(AUTH_KEY) === 'true';
+      }
+
+      function showSite() {
+        document.getElementById('auth-gate').style.display = 'none';
+        document.getElementById('site-content').style.display = 'block';
+      }
+
+      function showGate() {
+        document.getElementById('auth-gate').style.display = 'flex';
+        document.getElementById('site-content').style.display = 'none';
+      }
+
+      if (checkAuth()) {
+        showSite();
+      } else {
+        showGate();
+      }
+
+      document.getElementById('auth-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        const answer = document.getElementById('auth-answer').value;
+        if (answer === CORRECT_ANSWER) {
+          localStorage.setItem(AUTH_KEY, 'true');
+          showSite();
+        } else {
+          document.getElementById('auth-error').style.display = 'block';
+          document.getElementById('auth-answer').value = '';
+          document.getElementById('auth-answer').focus();
+        }
+      });
+    })();
+  </script>
+
   <!-- Site Content (hidden until authenticated) -->
   <div id="site-content" style="display: none;">
+
+  <header class="site-header">
+    <div class="container">
+      <h1><a href="index.html">MomMom's Kitchen</a></h1>
+      <p class="tagline">Family recipes passed down through generations</p>
+      <p class="tagline" style="font-size: 0.9rem; opacity: 0.8;">Soli Deo Gloria</p>
+    </div>
+  </header>
 
   <!-- Family Collections Navigation -->
   <nav class="family-collections">
@@ -37,13 +89,6 @@
       <a href="https://jsschrstrcks1.github.io/Allrecipes/">Other Recipes</a>
     </div>
   </nav>
-
-  <header class="site-header">
-    <div class="container">
-      <h1><a href="index.html">MomMom's Kitchen</a></h1>
-      <p class="tagline">Family recipes passed down through generations</p>
-    </div>
-  </header>
 
   <nav class="site-nav">
     <div class="container">
