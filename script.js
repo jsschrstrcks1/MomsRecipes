@@ -62,6 +62,60 @@ function escapeAttr(value) {
 }
 
 // =============================================================================
+// Authentication Gate
+// =============================================================================
+
+// MUST use this exact key for cross-site auth across all family recipe sites
+const AUTH_KEY = 'grandmas-kitchen-auth';
+const CORRECT_ANSWER = 'Baker';  // Grandma's last name
+
+function checkAuth() {
+  return localStorage.getItem(AUTH_KEY) === 'true';
+}
+
+function showSite() {
+  const authGate = document.getElementById('auth-gate');
+  const siteContent = document.getElementById('site-content');
+  if (authGate) authGate.style.display = 'none';
+  if (siteContent) siteContent.style.display = 'block';
+}
+
+function showGate() {
+  const authGate = document.getElementById('auth-gate');
+  const siteContent = document.getElementById('site-content');
+  if (authGate) authGate.style.display = 'flex';
+  if (siteContent) siteContent.style.display = 'none';
+}
+
+// Initialize auth check immediately when script loads
+(function initAuth() {
+  if (checkAuth()) {
+    showSite();
+  } else {
+    showGate();
+  }
+
+  // Setup auth form handler when DOM is ready
+  document.addEventListener('DOMContentLoaded', function() {
+    const authForm = document.getElementById('auth-form');
+    if (authForm) {
+      authForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const answer = document.getElementById('auth-answer').value;
+        if (answer === CORRECT_ANSWER) {
+          localStorage.setItem(AUTH_KEY, 'true');
+          showSite();
+        } else {
+          document.getElementById('auth-error').style.display = 'block';
+          document.getElementById('auth-answer').value = '';
+          document.getElementById('auth-answer').focus();
+        }
+      });
+    }
+  });
+})();
+
+// =============================================================================
 // Application Code
 // =============================================================================
 

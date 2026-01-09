@@ -10,6 +10,34 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Authentication Gate -->
+  <div id="auth-gate" class="auth-gate">
+    <div class="auth-container">
+      <h1>Grandma's Kitchen</h1>
+      <p>This is a private family recipe archive.</p>
+      <form id="auth-form">
+        <label for="auth-answer">What is Grandma's last name?</label>
+        <input type="text" id="auth-answer" autocomplete="off" required>
+        <button type="submit" class="btn btn-primary">Enter</button>
+        <p id="auth-error" class="auth-error" style="display: none;">Incorrect. Please try again.</p>
+      </form>
+    </div>
+  </div>
+
+  <!-- Site Content (hidden until authenticated) -->
+  <div id="site-content" style="display: none;">
+
+  <!-- Family Collections Navigation -->
+  <nav class="family-collections">
+    <div class="container">
+      <span class="nav-label">Family Collections:</span>
+      <a href="https://jsschrstrcks1.github.io/Grandmasrecipes/">Grandma</a>
+      <a href="https://jsschrstrcks1.github.io/MomsRecipes/" class="active">MomMom</a>
+      <a href="https://jsschrstrcks1.github.io/Grannysrecipes/">Granny</a>
+      <a href="https://jsschrstrcks1.github.io/Allrecipes/">Other Recipes</a>
+    </div>
+  </nav>
+
   <header class="site-header">
     <div class="container">
       <h1>MomMom's Kitchen</h1>
@@ -163,5 +191,7 @@
       window.recipes = recipes;
     };
   </script>
+
+  </div><!-- End #site-content -->
 </body>
 </html>
