@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Image Safeguards for Grandma's Recipe Archive
+Image Safeguards for MomMom's Kitchen (Standalone Collection)
 
 This module provides safeguards to prevent broken images from crashing
 AI processing sessions. It creates a processing manifest that tracks:
@@ -18,6 +18,8 @@ The manifest file (image_manifest.json) can be used by AI assistants to:
 - Skip known broken images
 - Resume from where processing left off
 - Track which images need human intervention
+
+Part of the Family Recipe Archive - Standalone Collection Repository
 """
 
 import json
@@ -38,11 +40,11 @@ except ImportError:
 MANIFEST_FILE = "image_manifest.json"
 MAX_DIMENSION = 2000
 
+# Standalone collection configuration
+COLLECTION_ID = "mommom"
+COLLECTION_NAME = "MomMom Baker"
 COLLECTIONS = {
-    "grandma": {"path": "", "prefix": "Grandmas-recipes"},
-    "mommom": {"path": "mom/", "prefix": "Moms Recipes"},
-    "granny": {"path": "granny/", "prefix": "Granny"},
-    "reference": {"path": "all/", "prefix": "IMG_"}
+    "mommom": {"path": "", "prefix": "Moms Recipes"}
 }
 
 # Image statuses

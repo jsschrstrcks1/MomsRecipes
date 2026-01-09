@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 """
-Image Optimization Script for Grandma's Recipe Archive
+Image Optimization Script for MomMom's Kitchen (Standalone Collection)
 
 Reduces repository bloat by optimizing JPEG quality while maintaining
-human readability. Scanner images (Grandma's) are often saved at 100%
-quality and can be reduced 80-90% with no visible quality loss.
+human readability. iPhone photos can often be reduced 30%+ with no
+visible quality loss.
 
 Usage:
     python scripts/optimize_images.py --dry-run          # Preview changes
-    python scripts/optimize_images.py --collection grandma  # Optimize one collection
-    python scripts/optimize_images.py                    # Optimize all collections
+    python scripts/optimize_images.py                    # Optimize all images
     python scripts/optimize_images.py --quality 80       # Custom quality (default: 85)
     python scripts/optimize_images.py --backup           # Keep .original files
 
@@ -19,6 +18,8 @@ Key features:
 - Creates backup on first run (can be disabled)
 - Skips already-optimized images
 - Tracks optimization in manifest
+
+Part of the Family Recipe Archive - Standalone Collection Repository
 """
 
 import json
@@ -42,10 +43,11 @@ except ImportError:
 DEFAULT_QUALITY = 85  # Excellent quality, major size reduction
 MIN_SAVINGS_PERCENT = 10  # Skip if savings < 10%
 
+# Standalone collection configuration
+COLLECTION_ID = "mommom"
+COLLECTION_NAME = "MomMom Baker"
 COLLECTIONS = {
-    "grandma": {"path": "", "expected_savings": 0.85},
-    "mommom": {"path": "mom/", "expected_savings": 0.30},
-    "granny": {"path": "granny/", "expected_savings": 0.50}
+    "mommom": {"path": "", "expected_savings": 0.30}
 }
 
 
@@ -329,13 +331,7 @@ def print_summary(results: Dict):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Optimize recipe archive images to reduce repository size"
-    )
-    parser.add_argument(
-        '--collection', '-c',
-        choices=['grandma', 'mommom', 'granny', 'all'],
-        default='all',
-        help="Collection to optimize (default: all)"
+        description=f"Optimize {COLLECTION_NAME}'s recipe images to reduce repository size"
     )
     parser.add_argument(
         '--quality', '-q',
@@ -379,11 +375,8 @@ def main():
     if args.dry_run:
         print("\n*** DRY RUN MODE - No files will be modified ***\n")
 
-    # Run optimization
-    if args.collection == 'all':
-        results = optimizer.optimize_all()
-    else:
-        results = {args.collection: optimizer.optimize_collection(args.collection)}
+    # Run optimization (standalone mode)
+    results = {COLLECTION_ID: optimizer.optimize_collection(COLLECTION_ID)}
 
     # Save manifest (unless dry run)
     if not args.dry_run:
