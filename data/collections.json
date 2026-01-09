@@ -1,0 +1,12 @@
+{
+  "collection": {
+    "id": "mommom",
+    "display_name": "MomMom Baker",
+    "description": "Family recipes passed down through generations",
+    "image_folder": "data/",
+    "processed_folder": "data/processed/"
+  },
+  "version": "2.0.0",
+  "standalone": true,
+  "aggregator_compatible": true
+}

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Image Processing Script for Grandma's Recipe Archive
+Image Processing Script for MomMom's Kitchen (Standalone Collection)
 
 Handles:
 1. Images larger than 2000px in any dimension (resizes for AI processing)
@@ -9,10 +9,11 @@ Handles:
 4. Non-destructive processing (creates optimized copies)
 
 Usage:
-    python scripts/process_images.py                    # Process all collections
-    python scripts/process_images.py --collection mom   # Process MomMom's images only
+    python scripts/process_images.py                    # Process all images
     python scripts/process_images.py --dry-run          # Preview without changes
     python scripts/process_images.py --fix-broken       # Attempt recovery of broken images
+
+Part of the Family Recipe Archive - Standalone Collection Repository
 """
 
 import json
@@ -38,12 +39,11 @@ MAX_DIMENSION = 2000  # Maximum pixels in any dimension
 JPEG_QUALITY = 92     # Quality for resized images (high quality for OCR)
 PROCESSED_FOLDER = "processed"  # Subfolder for resized images
 
-# Collection paths relative to data/
+# Standalone collection configuration
+COLLECTION_ID = "mommom"
+COLLECTION_NAME = "MomMom Baker"
 COLLECTIONS = {
-    "grandma": "",           # data/*.jpeg
-    "mommom": "mom/",        # data/mom/*.jpeg
-    "granny": "granny/",     # data/granny/*.jpeg (future)
-    "reference": "all/"      # data/all/*.PNG (Kindle screenshots)
+    "mommom": ""  # data/*.jpeg (standalone mode - images at root of data/)
 }
 
 
@@ -428,13 +428,7 @@ def print_summary(results: Dict):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Process recipe archive images for AI-friendly dimensions"
-    )
-    parser.add_argument(
-        '--collection', '-c',
-        choices=['grandma', 'mommom', 'granny', 'reference', 'all'],
-        default='all',
-        help="Collection to process (default: all)"
+        description=f"Process {COLLECTION_NAME}'s recipe images for AI-friendly dimensions"
     )
     parser.add_argument(
         '--dry-run', '-n',
@@ -462,11 +456,8 @@ def main():
     if args.dry_run:
         print("\n*** DRY RUN MODE - No files will be modified ***\n")
 
-    # Process collections
-    if args.collection == 'all':
-        results = processor.process_all_collections()
-    else:
-        results = {args.collection: processor.process_collection(args.collection)}
+    # Process the collection (standalone mode)
+    results = {COLLECTION_ID: processor.process_collection(COLLECTION_ID)}
 
     # Print summary
     print_summary(results)
