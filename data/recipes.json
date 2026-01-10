@@ -29073,6 +29073,1456 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "libbys-easy-pumpkin-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Easy Pumpkin Pie",
+      "category": "desserts",
+      "attribution": "Libby's",
+      "source_note": "Product label from Libby's Easy Pumpkin Pie Mix",
+      "description": "Simple pumpkin pie using Libby's Easy Pumpkin Pie Mix with evaporated milk.",
+      "servings_yield": "10 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "65-75 minutes",
+      "total_time": "About 3 hours (including cooling)",
+      "ingredients": [
+        {
+          "item": "Libby's Easy Pumpkin Pie Mix",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "30 oz."
+        },
+        {
+          "item": "Carnation Evaporated Milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": "5 fl.-oz. can"
+        },
+        {
+          "item": "large eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "unbaked deep-dish pie shell",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "9-inch, 4-cup volume"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix pumpkin pie mix, evaporated milk and eggs in large bowl."
+        },
+        {
+          "step": 2,
+          "text": "Pour into pie shell."
+        },
+        {
+          "step": 3,
+          "text": "Bake in preheated 425\u00b0F (220\u00b0C) oven for 15 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Reduce temperature to 350\u00b0F (175\u00b0C); bake for 50-60 minutes or until knife inserted near center comes out clean."
+        },
+        {
+          "step": 5,
+          "text": "Cool on wire rack for 2 hours. Serve immediately or refrigerate."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C) then 350\u00b0F (175\u00b0C)",
+      "pan_size": "9-inch deep-dish pie plate",
+      "notes": [
+        "Do not freeze, as this will cause the crust to separate from the filling.",
+        "See inside label for Pie Baking Tips and Tricks."
+      ],
+      "tags": [
+        "dessert",
+        "pie",
+        "pumpkin",
+        "holiday",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "apple-mincemeat-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple-Mincemeat Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Magazine clipping",
+      "description": "Orange liqueur, walnuts and mincemeat give this apple pie real holiday personality.",
+      "servings_yield": "10 servings",
+      "prep_time": "40 minutes",
+      "cook_time": "50 minutes",
+      "total_time": "3 hours (including chilling and cooling)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 1/4",
+          "unit": "cups",
+          "prep_note": "for pastry"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "6 tbsp + 2 tsp",
+          "unit": "",
+          "prep_note": "chilled"
+        },
+        {
+          "item": "vegetable shortening",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chilled"
+        },
+        {
+          "item": "ice water",
+          "quantity": "1/4 cup + 2 tbsp",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "apples (such as Granny Smith)",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "about 3 lbs., peeled, cored and cut into 1\" pieces (about 6 cups)"
+        },
+        {
+          "item": "mincemeat",
+          "quantity": "1",
+          "unit": "jar",
+          "prep_note": "14.5 oz."
+        },
+        {
+          "item": "walnuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "coarsely chopped"
+        },
+        {
+          "item": "orange liqueur, orange juice or rum",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for brushing"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for sprinkling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For pastry, in bowl combine flour with salt. With pastry blender or two knives, cut in butter and shortening until mixture resembles coarse crumbs."
+        },
+        {
+          "step": 2,
+          "text": "Stir in ice water, 1 tbsp at a time, until dough just starts to form. Divide dough in half; shape into 2 disks. Wrap and refrigerate at least 30 minutes."
+        },
+        {
+          "step": 3,
+          "text": "For filling, preheat oven to 375\u00b0F (190\u00b0C). In bowl combine apples, mincemeat, walnuts and liqueur. Stir in brown sugar and cornstarch. Let stand 10 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, on lightly floured surface roll out 1 disk of dough to fit 9\" pie pan; transfer to pan. Roll out remaining dough into 10\" circle."
+        },
+        {
+          "step": 5,
+          "text": "With pastry wheel or knife cut dough into 1/2\"-wide strips."
+        },
+        {
+          "step": 6,
+          "text": "Spoon apple mixture into pie shell; arrange dough strips over filling in lattice pattern."
+        },
+        {
+          "step": 7,
+          "text": "Trim and flute edges. Brush milk over dough; sprinkle with granulated sugar. Transfer pie to foil-lined baking sheet."
+        },
+        {
+          "step": 8,
+          "text": "Bake 50 minutes or until crust is golden brown and filling is bubbling. Cool completely on wire rack."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "9-inch pie pan",
+      "notes": [],
+      "tags": [
+        "dessert",
+        "pie",
+        "apple",
+        "holiday",
+        "lattice crust"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 463,
+          "protein": "7 g",
+          "fat": "21 g",
+          "cholesterol": "21 mg",
+          "carbohydrates": "65 g",
+          "sodium": "403 mg"
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Per original recipe clipping"
+        ]
+      }
+    },
+    {
+      "id": "holiday-brandy-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Holiday Brandy Bread",
+      "category": "breads",
+      "attribution": "Woman's World",
+      "source_note": "Magazine clipping from Woman's World 1/26/96 - title page missing",
+      "description": "Sweet yeast bread shaped into half-moons and brushed with brandy butter, dusted with confectioners' sugar.",
+      "servings_yield": "6 loaves (6 servings per loaf)",
+      "prep_time": "35 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "5 hours 45 minutes (including rising)",
+      "ingredients": [
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "pkgs",
+          "prep_note": "1/4 oz. each"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "1 cup + 1 tbsp",
+          "unit": "",
+          "prep_note": "divided"
+        },
+        {
+          "item": "warm milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "105\u00b0F-115\u00b0F"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": "melted, divided"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "10-11",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "brandy",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brushing"
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for dusting"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "[Beginning of instructions missing from clipping]"
+        },
+        {
+          "step": 2,
+          "text": "Roll dough into 1/2\"-thick ovals. Fold dough over to form half-moon shapes."
+        },
+        {
+          "step": 3,
+          "text": "Return to buttered baking sheets. Let rise in warm place until almost doubled in bulk, about 1 1/2 hours."
+        },
+        {
+          "step": 4,
+          "text": "Preheat oven to 350\u00b0F (175\u00b0C)."
+        },
+        {
+          "step": 5,
+          "text": "Bake 30 minutes or until loaves are lightly browned and sound hollow when tapped on bottom."
+        },
+        {
+          "step": 6,
+          "text": "Transfer to wire racks set over baking sheets. In bowl combine remaining brandy and butter; brush over hot loaves."
+        },
+        {
+          "step": 7,
+          "text": "Cool completely. Sprinkle heavily with confectioners' sugar."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking sheets",
+      "notes": [
+        "Beginning of recipe missing from clipping - may need additional instructions for dough preparation"
+      ],
+      "tags": [
+        "bread",
+        "holiday",
+        "yeast bread",
+        "sweet bread"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Beginning of recipe missing - title and initial instructions unknown"
+        ]
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 179,
+          "protein": "6 g",
+          "fat": "10 g",
+          "cholesterol": "43 mg",
+          "carbohydrates": "51 g",
+          "sodium": "193 mg"
+        },
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "pfeffernusse-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pfeffern\u00fcsse (German Pepper Cookies)",
+      "category": "desserts",
+      "attribution": "Woman's World",
+      "source_note": "Magazine clipping from Woman's World 1/26/96, page 27",
+      "description": "Traditional German pepper cookies named for the pepper in every bite. Adjust pepper to suit your taste.",
+      "servings_yield": "About 70 cookies",
+      "prep_time": "25 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "40 minutes + 3 days (for cookies to harden)",
+      "ingredients": [
+        {
+          "item": "pepper",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for rolling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "[Mix ingredients and refrigerate dough overnight - beginning of instructions partially obscured]"
+        },
+        {
+          "step": 2,
+          "text": "Preheat oven to 350\u00b0F (175\u00b0C)."
+        },
+        {
+          "step": 3,
+          "text": "Bake 10 minutes or until tops crack."
+        },
+        {
+          "step": 4,
+          "text": "Roll hot cookies in confectioners' sugar."
+        },
+        {
+          "step": 5,
+          "text": "Cool completely. Store uncovered 1 week or until cookies harden."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking sheets",
+      "notes": [
+        "Traditional German Christmas cookie",
+        "Store uncovered to allow cookies to harden",
+        "Flour amount missing from clipping - likely 2-3 cups"
+      ],
+      "tags": [
+        "cookies",
+        "German",
+        "holiday",
+        "Christmas",
+        "pepper"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Partial ingredients - flour amount missing",
+          "Beginning of instructions partially obscured"
+        ]
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 39,
+          "protein": "1 g",
+          "fat": "2 g",
+          "cholesterol": "5 mg",
+          "carbohydrates": "6 g",
+          "sodium": "8 mg"
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Per cookie"
+        ]
+      }
+    },
+    {
+      "id": "tortilla-casserole-chicken-black-beans",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tortilla Casserole with Chicken and Black Beans",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Newspaper/magazine clipping",
+      "description": "Layered tortilla casserole with chicken, black beans, enchilada sauce, and cheese.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "About 1 hour",
+      "ingredients": [
+        {
+          "item": "non-stick cooking spray",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "roasted chicken",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "about 1 1/2 pounds"
+        },
+        {
+          "item": "low-sodium peeled and diced tomatoes",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "14 1/2 ounces, undrained"
+        },
+        {
+          "item": "mild or medium enchilada sauce",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "10 ounces"
+        },
+        {
+          "item": "low-sodium black beans",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "15 ounces"
+        },
+        {
+          "item": "chopped green chilies",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "4 ounces"
+        },
+        {
+          "item": "green onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "flour tortillas",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced black olives",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "2.25 ounces, drained"
+        },
+        {
+          "item": "shredded Mexican cheese blend",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "or substitute cheddar or jack cheese"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Spray a 9- by 13-inch baking dish with cooking spray and set aside. Heat oven to 350\u00b0F (175\u00b0C)."
+        },
+        {
+          "step": 2,
+          "text": "Remove skin from chicken. Cut the meat from the bones and dice. (You should have 1 1/2 - 2 cups.)"
+        },
+        {
+          "step": 3,
+          "text": "Combine the tomatoes and enchilada sauce. Drain the black beans, rinse and drain again. Combine with the chilies and green onions."
+        },
+        {
+          "step": 4,
+          "text": "Spread a thin layer of the tomato sauce in the bottom of the prepared dish. Tear two of the tortillas in ragged pieces and spread in the pan. Top with the bean mixture. Drizzle with about 1/4 cup tomato sauce."
+        },
+        {
+          "step": 5,
+          "text": "Tear another two tortillas and place on top of the beans. Spread chicken on top and sprinkle with 1/2 cup cheese. Drizzle with 1/4 cup sauce."
+        },
+        {
+          "step": 6,
+          "text": "Tear the remaining 2 tortillas and place on top. Sprinkle with the olives. Pour remaining sauce over the casserole and sprinkle with remaining cheese."
+        },
+        {
+          "step": 7,
+          "text": "Bake on center oven rack 35 minutes. Set aside 5 minutes before serving."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x13-inch baking dish",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "chicken",
+        "Mexican",
+        "black beans",
+        "easy dinner"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 326,
+          "protein": "25.8 g",
+          "fat": "11.5 g",
+          "carbohydrates": "30.5 g",
+          "sodium": "863 mg",
+          "saturated_fat": "4.7 g",
+          "monounsaturated_fat": "2.9 g",
+          "polyunsaturated_fat": "1.5 g",
+          "cholesterol": "51.5 mg"
+        },
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "italian-chicken-soup-partial",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Italian Chicken Soup",
+      "category": "soups",
+      "attribution": "",
+      "source_note": "Newspaper/magazine clipping - incomplete, only beginning visible",
+      "description": "Italian-style chicken soup.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "olive oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "[INCOMPLETE]",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "remaining ingredients cut off"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "[INCOMPLETE - instructions cut off from clipping]"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Recipe incomplete - only first few ingredients visible in clipping"
+      ],
+      "tags": [
+        "soup",
+        "chicken",
+        "Italian"
+      ],
+      "confidence": {
+        "overall": "low",
+        "flags": [
+          "Recipe incomplete - most of recipe cut off from clipping"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "banana-bran-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Banana Bran Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Fragmented newspaper/magazine clipping",
+      "description": "Moist banana muffins with whole bran.",
+      "servings_yield": "About 10 muffins",
+      "prep_time": "15 minutes",
+      "cook_time": "20-25 minutes",
+      "total_time": "About 40 minutes",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sifted"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "[amount unclear from clipping]"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole bran",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "well-beaten"
+        },
+        {
+          "item": "ripe banana",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "mashed"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil or melted shortening",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sift together flour, sugar, baking powder, and salt. Stir in bran."
+        },
+        {
+          "step": 2,
+          "text": "Mix remaining ingredients (egg, banana, milk, oil); add all at once to flour mixture, stirring just to moisten."
+        },
+        {
+          "step": 3,
+          "text": "Fill greased muffin pans 2/3 full."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 400\u00b0F (200\u00b0C) for 20 to 25 minutes."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "Muffin tin",
+      "notes": [
+        "Sugar amount unclear from fragmented clipping - likely 1/4 to 1/3 cup"
+      ],
+      "tags": [
+        "muffins",
+        "banana",
+        "bran",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Sugar amount unclear from fragmented clipping"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "perfect-corn-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Perfect Corn Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Newspaper/magazine clipping",
+      "description": "Classic corn bread with variation for corn sticks.",
+      "servings_yield": "9x9-inch pan",
+      "prep_time": "10 minutes",
+      "cook_time": "20-25 minutes",
+      "total_time": "About 35 minutes",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sifted"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "yellow cornmeal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sift flour with sugar, baking powder and salt; stir in cornmeal."
+        },
+        {
+          "step": 2,
+          "text": "Add eggs and shortening. Beat with rotary beater till just smooth. (Do not overmix.)"
+        },
+        {
+          "step": 3,
+          "text": "Pour into greased 9x9x2-inch pan."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 425\u00b0F (220\u00b0C) for 20 to 25 minutes."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "9x9x2-inch pan",
+      "notes": [
+        "For Corn Sticks: Spoon batter into corn-stick pans, filling 2/3 full. Bake at 425\u00b0F for 12 to 15 minutes."
+      ],
+      "tags": [
+        "bread",
+        "corn bread",
+        "side dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "spoon-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spoon Bread",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Newspaper/magazine clipping",
+      "description": "Soft, souffle-like Southern corn bread served with butter.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "plus 1 cup more"
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "egg whites",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "stiffly beaten"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir 2 cups milk into 1 cup cornmeal to the consistency of mush."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat; add 1 cup milk, 2 tablespoons butter, 1 teaspoon each baking powder and salt."
+        },
+        {
+          "step": 3,
+          "text": "Stir a moderate amount into egg yolks; return to mixture and fold in stiffly beaten egg whites."
+        },
+        {
+          "step": 4,
+          "text": "Pour into 2-quart casserole. Bake at 325\u00b0F (165\u00b0C)."
+        },
+        {
+          "step": 5,
+          "text": "Serve with butter."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "2-quart casserole",
+      "notes": [
+        "Bake time not specified in clipping - typically 45-60 minutes until set"
+      ],
+      "tags": [
+        "bread",
+        "corn",
+        "Southern",
+        "side dish"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Baking time and exact egg amounts not specified in clipping"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cindy-baker-fruit-salad",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cindy's Fruit Salad (Ambrosia)",
+      "category": "desserts",
+      "attribution": "Mrs Cindy Baker",
+      "source_note": "Handwritten recipe card on Christmas card",
+      "description": "Creamy fruit salad with tropical fruits, coconut, and pecans.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "pineapple tidbits",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "20 ounce"
+        },
+        {
+          "item": "mandarin oranges",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "15 ounce"
+        },
+        {
+          "item": "maraschino cherries",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "drained"
+        },
+        {
+          "item": "heavy whipping cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "light sour cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sweetened shredded coconut",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "pecans",
+          "quantity": "3 1/2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green grapes",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "[Instructions not written on card - typical preparation: Drain canned fruits. Whip cream with sugar and vanilla. Fold in sour cream. Combine all fruits, coconut, and pecans. Fold in cream mixture. Refrigerate before serving.]"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Family recipe from Mrs Cindy Baker",
+        "Christmas card notation: 'Bringing the hope of Jesus to light at Christmas'"
+      ],
+      "tags": [
+        "fruit salad",
+        "ambrosia",
+        "holiday",
+        "Christmas",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Instructions not written on original card - inferred from standard ambrosia preparation",
+          "Some ingredient quantities difficult to read in handwriting"
+        ]
+      },
+      "image_refs": [
+        "IMG_5092 Large.jpeg"
+      ]
+    },
+    {
+      "id": "strawberry-jam-dandies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Strawberry Jam Dandies",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Cookbook/magazine page",
+      "description": "Delicious sandwich cookie flavored with ground almonds, layered with lemon icing, filled with strawberry preserves.",
+      "servings_yield": "About 20 cookies",
+      "prep_time": "3 hours ahead",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blanched whole almonds",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "4 1/2-ounce, very finely ground"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "almond extract",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for icing"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for icing"
+        },
+        {
+          "item": "strawberry preserves",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large bowl, measure almonds, flour, butter, almond extract, and confectioners' sugar. Mix until well blended."
+        },
+        {
+          "step": 2,
+          "text": "Shape into ball, wrap and refrigerate 2 hours or until dough is firm enough to handle."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 375\u00b0F. On lightly floured surface, roll half of dough 1/8\" thick. Cut into rectangles, keeping remaining dough refrigerated."
+        },
+        {
+          "step": 4,
+          "text": "Place rectangles on cookie sheet, 1/2 inch apart. Bake 10 minutes or until golden. Remove to wire racks to cool completely."
+        },
+        {
+          "step": 5,
+          "text": "In small bowl, stir lemon juice and confectioners' sugar until smooth. Spread thin layer of icing on cookies without cut-out centers; top each with a cookie with cut-out center."
+        },
+        {
+          "step": 6,
+          "text": "Fill each of the cut-out centers with strawberry preserves, gently smoothing to edge of the centers."
+        },
+        {
+          "step": 7,
+          "text": "Store in tightly covered container; use up within 2 days. Just before serving, sprinkle cookies with confectioners' sugar."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Cookie sheets",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "sandwich cookies",
+        "almond",
+        "strawberry",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 40
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Per cookie"
+        ]
+      }
+    },
+    {
+      "id": "sugar-cookies-classic",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sugar Cookies",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Cookbook/magazine page",
+      "description": "Classic rolled sugar cookies decorated with cream and nonpareils.",
+      "servings_yield": "About 72 cookies",
+      "prep_time": "6 hours ahead",
+      "cook_time": "8 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "heavy or whipping cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brushing"
+        },
+        {
+          "item": "nonpareils or other decorations",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large bowl, measure first 8 ingredients. With mixer at medium speed, beat until well mixed, occasionally scraping bowl."
+        },
+        {
+          "step": 2,
+          "text": "Shape into ball; wrap; refrigerate 3 hours, until easy to handle. Preheat oven to 400\u00b0F."
+        },
+        {
+          "step": 3,
+          "text": "Grease cookie sheets. On floured surface, roll half of dough; refrigerate rest. For crisp cookies, roll paper thin; for soft cookies, roll 1/4-inch thick."
+        },
+        {
+          "step": 4,
+          "text": "With floured cookie cutters, cut dough into shapes; reroll trimmings and cut more shapes."
+        },
+        {
+          "step": 5,
+          "text": "Place 1/2 inch apart on cookie sheets. Brush tops with cream; sprinkle with choice of toppings; bake 8 minutes or until very light brown. With pancake turner remove to racks; cool."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "Cookie sheets",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "sugar cookies",
+        "holiday",
+        "decorated"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 70
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Per cookie"
+        ]
+      }
+    },
+    {
+      "id": "dutch-butter-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dutch Butter Cookies",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Cookbook/magazine page",
+      "description": "Buttery slice-and-bake cookies topped with candied ginger.",
+      "servings_yield": "About 72 cookies",
+      "prep_time": "2 hours to 1 week ahead",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "candied ginger",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large bowl, measure first 7 ingredients. With mixer at low speed, beat until blended."
+        },
+        {
+          "step": 2,
+          "text": "With hands, on waxed paper, roll into three 6-inch-long rolls. Flatten each slightly to shape into a bar. Wrap; refrigerate 2 hours or up to 1 week."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 350\u00b0F. Grease cookie sheets. In cup with fork, beat yolk with water. Slice one roll of dough at a time crosswise into 1/4-inch-thick slices. Place, 1 inch apart, on cookie sheets."
+        },
+        {
+          "step": 4,
+          "text": "Brush each cookie with egg-yolk mixture and press chopped ginger into tops."
+        },
+        {
+          "step": 5,
+          "text": "Bake 10 minutes, until lightly browned. With spatula remove to wire racks to cool."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Cookie sheets",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "butter cookies",
+        "Dutch",
+        "ginger",
+        "slice-and-bake"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 54
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Per cookie"
+        ]
+      }
     }
   ],
   "version": "2.79.0"
