@@ -62790,6 +62790,119 @@
       "tags": ["salmon", "fish", "seafood", "pasta", "one-pot", "skillet", "easy", "quick"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5339 Large.jpeg"]
+    },
+    {
+      "id": "macadamia-meltaways",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Macadamia Meltaways",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Good Housekeeping cookbook, page 351",
+      "description": "Buttery cookies with macadamia nuts that melt in your mouth.",
+      "servings_yield": "60 cookies",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "macadamia nuts", "quantity": "2", "unit": "7-oz jars", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "confectioners' sugar", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "butter or margarine", "quantity": "1", "unit": "cup", "prep_note": "softened"},
+        {"item": "almond extract", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In blender at medium speed, blend 1 cup nuts until finely ground; place in large bowl. Reserve remaining nuts for tops."},
+        {"step": 2, "text": "Into bowl with ground nuts, measure remaining ingredients. Knead until blended and dough holds together. Preheat oven to 300°F."},
+        {"step": 3, "text": "With hands, shape scant tablespoonfuls of dough into balls. Place 1 inch apart on ungreased cookie sheets; press reserved nuts into tops."},
+        {"step": 4, "text": "Bake 12 to 15 minutes, until lightly browned. Remove to wire racks; cool."}
+      ],
+      "temperature": "300°F (150°C)",
+      "pan_size": "cookie sheets",
+      "notes": [
+        "96 cals per cookie",
+        "Begin 2 hrs or up to 1 wk ahead"
+      ],
+      "tags": ["cookies", "macadamia", "nuts", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5164 Large.jpeg"]
+    },
+    {
+      "id": "poppy-seed-pinwheels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poppy-Seed Pinwheels",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Good Housekeeping cookbook, page 351",
+      "description": "Elegant pinwheel cookies with a poppy seed filling.",
+      "servings_yield": "55 cookies",
+      "prep_time": "45 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "2 hours (including refrigeration)",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "butter or margarine", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1-3/4", "unit": "cups", "prep_note": ""},
+        {"item": "vanilla extract", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "poppy seeds", "quantity": "1/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In large bowl with mixer at high speed, beat sugar and butter until light and fluffy. Add flour, vanilla, salt, and egg; beat until well blended, occasionally scraping bowl with rubber spatula."},
+        {"step": 2, "text": "Shape into ball, wrap and refrigerate 1 hour, until firm enough to handle."},
+        {"step": 3, "text": "Meanwhile, stir remaining ingredients and 4 tablespoons butter until dough mixed."},
+        {"step": 4, "text": "On waxed paper, roll half of dough into an 8\" rectangle; spread with half poppy-seed filling. Starting at narrow side, roll jelly-roll fashion; wrap and refrigerate 1 hour, until firm."},
+        {"step": 5, "text": "Repeat with remaining dough and filling."},
+        {"step": 6, "text": "Preheat oven to 375°F. Slice one 1/2 inch apart onto ungreased cookie sheets; place 1 inch apart on ungreased cookie sheets; bake 10 to 12 minutes, until lightly browned. Cool on wire rack; repeat with remaining roll."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "cookie sheets",
+      "notes": [
+        "65 cals per cookie",
+        "Begin early in day"
+      ],
+      "tags": ["cookies", "poppy-seed", "pinwheel", "rolled", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5164 Large.jpeg"]
+    },
+    {
+      "id": "filbert-cookie-rafts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Filbert Cookie Rafts",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Good Housekeeping cookbook, page 351",
+      "description": "Delicate hazelnut cookies shaped like rafts with decorative lines.",
+      "servings_yield": "32 cookies",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "filberts (hazelnuts)", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1-1/4", "unit": "cups", "prep_note": ""},
+        {"item": "vanilla extract", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "butter or margarine", "quantity": "1/2", "unit": "cup", "prep_note": "softened"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In blender at medium speed, blend filberts and 2 tablespoons sugar until very finely ground."},
+        {"step": 2, "text": "Into medium bowl, measure remaining ingredients, 2 tablespoons sugar, and ground filberts. Knead until blended and dough holds together."},
+        {"step": 3, "text": "Preheat oven to 325°F. On waxed paper with floured rolling pin, roll out half dough into a 6\" by 6\" square. Cut into sixteen 1-1/2\" by 1-1/2\" squares."},
+        {"step": 4, "text": "With metal spatula, place on ungreased cookie sheet. With dull edge of knife, lightly mark each with three parallel lines. Bake 12 to 15 minutes, until lightly browned. Remove to wire racks; cool. Repeat with remaining dough."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "cookie sheets",
+      "notes": [
+        "53 cals per cookie",
+        "Begin 1-1/2 hrs or up to 2 wks ahead"
+      ],
+      "tags": ["cookies", "filbert", "hazelnut", "nuts", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5164 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
