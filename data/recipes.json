@@ -43796,6 +43796,1338 @@
       "image_refs": [
         "IMG_5186 Large.jpeg"
       ]
+    },
+    {
+      "id": "oysters-rockefeller",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oysters Rockefeller",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic baked oysters with spinach topping.",
+      "servings_yield": "8 servings (24 oysters)",
+      "prep_time": "30 minutes",
+      "cook_time": "10-12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh spinach",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "oysters in shells",
+          "quantity": "24",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "snipped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "hot pepper sauce",
+          "quantity": "",
+          "unit": "several drops",
+          "prep_note": ""
+        },
+        {
+          "item": "fine dry seasoned bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "rock salt",
+          "quantity": "",
+          "unit": "for baking pan",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan cook spinach and onion in a small amount of boiling water for 2 to 3 minutes or till tender. Drain; press out excess moisture."
+        },
+        {
+          "step": 2,
+          "text": "Thoroughly wash oysters. Open shells with an oyster knife or other blunt-tipped knife. Remove oysters and dry. Discard flat top shells; wash deep bottom shells. Place each oyster in a shell."
+        },
+        {
+          "step": 3,
+          "text": "Combine spinach mixture, 2 tablespoons of margarine, parsley, garlic, hot sauce, and dash pepper. Spoon 1 teaspoon atop each oyster."
+        },
+        {
+          "step": 4,
+          "text": "Toss together crumbs and remaining margarine. Sprinkle over spinach-topped oysters."
+        },
+        {
+          "step": 5,
+          "text": "Line a shallow baking pan with rock salt to about 1/2-inch depth. (Or, use crumpled foil to keep shells from tipping.) Arrange oysters atop."
+        },
+        {
+          "step": 6,
+          "text": "Bake in a 425\u00b0 oven 10 to 12 minutes or till edges of oysters begin to curl."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "shallow baking pan",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "oysters",
+        "seafood",
+        "elegant",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5187 Large.jpeg"
+      ]
+    },
+    {
+      "id": "shrimp-cocktail-classic",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shrimp Cocktail",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic appetizer with chilled shrimp and cocktail sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen peeled shrimp",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "cooked, deveined, and chilled"
+        },
+        {
+          "item": "lettuce",
+          "quantity": "",
+          "unit": "for lining",
+          "prep_note": ""
+        },
+        {
+          "item": "cocktail sauce",
+          "quantity": "6",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon wedges",
+          "quantity": "",
+          "unit": "for serving",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Arrange shrimp in six lettuce-lined cocktail cups or glasses."
+        },
+        {
+          "step": 2,
+          "text": "Spoon 1 tablespoon of the Cocktail Sauce over each. Serve with lemon."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Fruit Shrimp Cocktail: Add 1 sectioned orange, 1 sectioned grapefruit, and 1 seeded, peeled, sliced avocado.",
+        "Crab Cocktail: Substitute two 6-oz packages frozen crabmeat, thawed, and 2 cups finely chopped celery for the shrimp."
+      ],
+      "tags": [
+        "appetizer",
+        "shrimp",
+        "seafood",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5187 Large.jpeg"
+      ]
+    },
+    {
+      "id": "salmon-mousse",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmon Mousse",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Elegant chilled salmon mousse served with crackers.",
+      "servings_yield": "24 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "",
+      "total_time": "4-24 hours chilling",
+      "ingredients": [
+        {
+          "item": "boneless, skinless salmon",
+          "quantity": "1",
+          "unit": "6 1/2-oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "unflavored gelatin",
+          "quantity": "1",
+          "unit": "envelope",
+          "prep_note": ""
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chili sauce",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "hard-cooked eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "green onion",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "chives",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "snipped"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain salmon, reserving liquid. Add water to liquid to make 1/2 cup. In saucepan sprinkle gelatin over reserved liquid. Let stand 5 minutes. Heat and stir till gelatin dissolves. Remove from heat."
+        },
+        {
+          "step": 2,
+          "text": "Mix mayonnaise, chili sauce, and lemon juice. Stir into gelatin. Chill till partially set (consistency of unbeaten egg whites)."
+        },
+        {
+          "step": 3,
+          "text": "Fold in salmon, eggs, celery, onion, chives, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 4,
+          "text": "Beat cream till soft peaks form. Fold into gelatin mixture."
+        },
+        {
+          "step": 5,
+          "text": "Pour into a 3 1/2- or 4-cup mold. Chill 4 to 24 hours."
+        },
+        {
+          "step": 6,
+          "text": "Unmold on lettuce-lined serving platter. Serve with crackers."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "3 1/2- or 4-cup mold",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "salmon",
+        "mousse",
+        "seafood",
+        "elegant",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5187 Large.jpeg"
+      ]
+    },
+    {
+      "id": "codfish-balls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Codfish Balls",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Traditional New England-style fried cod and potato balls.",
+      "servings_yield": "15 balls",
+      "prep_time": "30 minutes (plus 4-24 hours soaking)",
+      "cook_time": "2 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "salt cod",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "potatoes",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "chopped, peeled"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "snipped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "2",
+          "unit": "inches",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak cod in water to cover for 4 to 24 hours; change water often. Drain; cut into small pieces."
+        },
+        {
+          "step": 2,
+          "text": "Cook cod, potatoes, and onion in boiling water about 10 minutes or till tender; drain."
+        },
+        {
+          "step": 3,
+          "text": "Beat mixture till combined. Beat in egg, cheese, parsley, margarine, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 4,
+          "text": "In a heavy saucepan or deep-fat fryer heat 2 inches of melted shortening or oil to 375\u00b0."
+        },
+        {
+          "step": 5,
+          "text": "Drop cod mixture by heaping tablespoons, a few at a time, into hot fat. Fry about 2 minutes or till golden."
+        },
+        {
+          "step": 6,
+          "text": "Drain on paper towels. Serve with tartar or cocktail sauce, if desired."
+        }
+      ],
+      "temperature": "375\u00b0F oil",
+      "pan_size": "heavy saucepan or deep-fat fryer",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "cod",
+        "seafood",
+        "fried",
+        "new england"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5187 Large.jpeg"
+      ]
+    },
+    {
+      "id": "batter-fried-vegetables",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Batter-Fried Vegetables",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Bottled buttermilk salad dressing or sweet-and-sour sauce also make flavorful dipping sauces.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "2-3 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "ice water, cold milk, or cold beer",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "assorted vegetables",
+          "quantity": "5",
+          "unit": "cups",
+          "prep_note": "mushrooms, cauliflower, broccoli, peppers, onion rings, green beans, asparagus, sweet potato, eggplant"
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "2",
+          "unit": "inches",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For batter, in a medium mixing bowl stir together egg and ice water, milk, or beer. Add flour all at once. Beat with a rotary beater or wire whisk till mixture is smooth. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "Rinse vegetables under cold water; drain. Pat dry with paper towels. Set aside."
+        },
+        {
+          "step": 3,
+          "text": "In a heavy saucepan or deep-fat fryer, heat 2 inches of melted shortening or cooking oil to 375\u00b0."
+        },
+        {
+          "step": 4,
+          "text": "Dip vegetables, a few at a time, into the batter, swirling to coat. Fry for 2 to 3 minutes or till light golden brown."
+        },
+        {
+          "step": 5,
+          "text": "Drain vegetables on paper towels. Keep warm in a 300\u00b0 oven. Repeat with remaining vegetables."
+        },
+        {
+          "step": 6,
+          "text": "Serve with individual bowls of Dipping Sauce."
+        }
+      ],
+      "temperature": "375\u00b0F oil, 300\u00b0F oven for keeping warm",
+      "pan_size": "heavy saucepan or deep-fat fryer",
+      "notes": [
+        "Dipping Sauce: Combine 1 cup water, 1/4 cup dry sherry, 1/4 cup soy sauce, 1 tsp grated gingerroot. Heat to boiling. Makes 1 1/2 cups."
+      ],
+      "tags": [
+        "appetizer",
+        "vegetables",
+        "fried",
+        "tempura-style",
+        "asian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5188 Large.jpeg"
+      ]
+    },
+    {
+      "id": "fried-cheese-sticks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Cheese",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Seasoned crumbs keep the melted cheese inside.",
+      "servings_yield": "about 20 pieces",
+      "prep_time": "20 minutes (plus 2-4 hours chilling)",
+      "cook_time": "30-45 seconds per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cheddar or Swiss cheese",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "cornflake crumbs",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fines herbes",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "2",
+          "unit": "inches",
+          "prep_note": "for deep-fat frying"
+        },
+        {
+          "item": "taco sauce",
+          "quantity": "",
+          "unit": "optional for serving",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut the cheese into 2 1/2 x 1/2 x 1/2-inch sticks."
+        },
+        {
+          "step": 2,
+          "text": "Combine crumbs and fines herbes. Dip cheese sticks into egg, then roll in crumb mixture, coating evenly. Dip cheese into egg and crumbs again. (Be sure cheese is completely coated with crumbs.)"
+        },
+        {
+          "step": 3,
+          "text": "Chill 2 to 4 hours to set the coating."
+        },
+        {
+          "step": 4,
+          "text": "In a heavy saucepan or a deep-fat fryer heat 2 inches of melted shortening or cooking oil to 375\u00b0."
+        },
+        {
+          "step": 5,
+          "text": "Fry the cheese sticks, a few at a time, for 30 to 45 seconds or till golden. Drain on paper towels."
+        },
+        {
+          "step": 6,
+          "text": "Keep warm in a 300\u00b0 oven while frying the remainder. Serve warm with taco sauce, if desired."
+        }
+      ],
+      "temperature": "375\u00b0F oil, 300\u00b0F oven for keeping warm",
+      "pan_size": "heavy saucepan or deep-fat fryer",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "cheese",
+        "fried",
+        "party"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5188 Large.jpeg"
+      ]
+    },
+    {
+      "id": "stuffed-cherry-tomatoes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Cherry Tomatoes",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "The refreshing herb-cheese filling brings out the best in these tiny tomatoes.",
+      "servings_yield": "24 to 26 pieces",
+      "prep_time": "30 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cherry tomatoes",
+          "quantity": "24 to 26",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "1",
+          "unit": "8-oz package",
+          "prep_note": "softened"
+        },
+        {
+          "item": "fresh or dried chives",
+          "quantity": "1 tbsp fresh or 1 tsp dried",
+          "unit": "",
+          "prep_note": "snipped"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Slice a thin layer off top of each tomato. Using a small spoon, carefully scoop out and discard pulp. Invert tomatoes; drain on paper towels."
+        },
+        {
+          "step": 2,
+          "text": "For filling, in a small bowl combine cream cheese, chives, milk, basil, pepper, and garlic powder. Beat till smooth."
+        },
+        {
+          "step": 3,
+          "text": "Spoon or pipe the filling into tomatoes. Serve immediately or chill up to 8 hours."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "tomatoes",
+        "cream cheese",
+        "party",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5188 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chicken-liver-pate",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Liver P\u00e2t\u00e9",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Smooth and savory chicken liver spread for crackers.",
+      "servings_yield": "1 cup (8 servings)",
+      "prep_time": "20 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "3-24 hours chilling",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken livers",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "milk",
+          "quantity": "2 to 3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg or allspice",
+          "quantity": "1/4 tsp nutmeg or 1/8 tsp allspice",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook bacon till crisp. Remove bacon from skillet, reserving 2 tablespoons of drippings. Drain and crumble bacon; set aside."
+        },
+        {
+          "step": 2,
+          "text": "Add chicken livers, onion, and garlic to reserved drippings. Cook over medium heat, stirring constantly, about 5 minutes or till livers are no longer pink. Cool slightly."
+        },
+        {
+          "step": 3,
+          "text": "In a blender container or food processor bowl place 2 tablespoons milk, salt, nutmeg or allspice, pepper, chicken liver mixture, and bacon. Cover and blend or process till well combined. (Add 1 tablespoon milk if mixture appears stiff.)"
+        },
+        {
+          "step": 4,
+          "text": "Line a 1 1/2-cup mold or small bowl with plastic wrap. Spoon mixture into mold. Cover; chill 3 to 24 hours."
+        },
+        {
+          "step": 5,
+          "text": "To serve, unmold and remove wrap. Serve with crackers."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "1 1/2-cup mold",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "pate",
+        "chicken liver",
+        "spread",
+        "elegant"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5189 Large.jpeg"
+      ]
+    },
+    {
+      "id": "marinated-cheese-and-olives",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Cheese And Olives",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "The cheese takes on a trio of Mediterranean flavors: lemon, garlic, and fennel.",
+      "servings_yield": "4 cups (16 servings)",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "up to 3 days marinating",
+      "ingredients": [
+        {
+          "item": "cheddar, Colby, Edam, Gouda, or Monterey Jack cheese",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "pepperoni or salami",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "olive oil or salad oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fennel seed",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pitted ripe olives",
+          "quantity": "1",
+          "unit": "6-oz can",
+          "prep_note": "drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut cheese and pepperoni or salami into 1/2-inch pieces."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl combine oil, lemon juice, garlic, fennel seed, and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Stir in cheese, pepperoni or salami, and olives. Cover and chill up to 3 days, stirring occasionally."
+        },
+        {
+          "step": 4,
+          "text": "Let stand 30 minutes at room temperature before serving. Serve with toothpicks."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "EASY recipe"
+      ],
+      "tags": [
+        "appetizer",
+        "cheese",
+        "olives",
+        "marinated",
+        "mediterranean",
+        "easy",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5189 Large.jpeg"
+      ]
+    },
+    {
+      "id": "lemon-and-herb-mushrooms",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon and Herb Mushrooms",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Oregano and thyme add zest to these tangy mouthfuls.",
+      "servings_yield": "1 1/2 cups (6 servings)",
+      "prep_time": "15 minutes",
+      "cook_time": "6 minutes",
+      "total_time": "4-24 hours marinating",
+      "ingredients": [
+        {
+          "item": "small fresh whole mushrooms",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "about 3 cups"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salad oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "coarse ground black pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried thyme",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "small onion",
+          "quantity": "1/3",
+          "unit": "",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Halve any large mushrooms. In a medium saucepan cook mushrooms in boiling water 1 minute. Drain and rinse with cold water. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "For marinade, in a small saucepan combine lemon juice, salad oil, sugar, garlic, salt, pepper, oregano, and thyme. Cook till boiling. Reduce heat and simmer, uncovered, for 5 minutes."
+        },
+        {
+          "step": 3,
+          "text": "In a medium mixing bowl combine drained mushrooms, hot marinade, and sliced onion."
+        },
+        {
+          "step": 4,
+          "text": "Cover and chill 4 to 24 hours, stirring occasionally."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions available"
+      ],
+      "tags": [
+        "appetizer",
+        "mushrooms",
+        "marinated",
+        "lemon",
+        "herbs"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5189 Large.jpeg"
+      ]
+    },
+    {
+      "id": "melon-and-prosciutto",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Melon and Prosciutto",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Spicy prosciutto, a thinly sliced Italian ham, meshes perfectly with cool crisp melon.",
+      "servings_yield": "about 36 pieces",
+      "prep_time": "20 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "large cantaloupe or honeydew melon",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "or half of each melon"
+        },
+        {
+          "item": "very thinly sliced prosciutto or fully cooked ham",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut cantaloupe or honeydew melon in half and remove seeds. Use a melon baller to scoop out pulp, or cut pulp into bite-size cubes."
+        },
+        {
+          "step": 2,
+          "text": "Cut prosciutto or ham into 1-inch-wide strips."
+        },
+        {
+          "step": 3,
+          "text": "Wrap one strip of prosciutto or ham around each melon ball. Fasten with a toothpick."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "EASY recipe"
+      ],
+      "tags": [
+        "appetizer",
+        "melon",
+        "prosciutto",
+        "italian",
+        "easy",
+        "elegant"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5189 Large.jpeg"
+      ]
+    },
+    {
+      "id": "dessert-coffee-variations",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dessert Coffee",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Hot coffee with flavored liqueurs for after-dinner enjoyment.",
+      "servings_yield": "1 serving (6 ounces)",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "hot strong coffee",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "desired coffee flavoring",
+          "quantity": "",
+          "unit": "see variations",
+          "prep_note": ""
+        },
+        {
+          "item": "whipped cream",
+          "quantity": "",
+          "unit": "optional",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon or nutmeg",
+          "quantity": "",
+          "unit": "optional",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together hot coffee and desired flavoring."
+        },
+        {
+          "step": 2,
+          "text": "Top with a dollop of whipped cream and sprinkle with cinnamon or nutmeg, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Chocolate-Orange: Add 1 tbsp chocolate syrup + 1 tbsp orange liqueur",
+        "Mocha: Add 1 tbsp chocolate syrup + 1 tbsp coffee liqueur",
+        "Irish: Add 1 tbsp Irish whiskey + 1 tsp brown sugar",
+        "Amaretto: Add 1 tbsp amaretto or hazelnut liqueur",
+        "Chocolate-Mint: Add 1 tbsp chocolate-mint liqueur",
+        "Chocolate-Cream: Add 2 tbsp chocolate-cream liqueur"
+      ],
+      "tags": [
+        "beverage",
+        "coffee",
+        "dessert",
+        "alcohol",
+        "after-dinner"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5192 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cappuccino-homemade",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cappuccino",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Brew finely ground espresso in an ordinary coffeepot, or use instant.",
+      "servings_yield": "6 servings (about 3 ounces each)",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "hot espresso",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange peel",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "finely shredded"
+        },
+        {
+          "item": "cinnamon sticks",
+          "quantity": "",
+          "unit": "optional for stirrers",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brew finely ground espresso in an ordinary coffeepot. Or prepare instant espresso according to package directions."
+        },
+        {
+          "step": 2,
+          "text": "In a small mixing bowl beat whipping cream and powdered sugar till soft peaks form (tips curl)."
+        },
+        {
+          "step": 3,
+          "text": "Pour 2 cups hot espresso into six 4-ounce cups."
+        },
+        {
+          "step": 4,
+          "text": "Add a large spoonful of whipped cream mixture to each cup. Sprinkle with finely shredded orange peel. Gently stir to combine."
+        },
+        {
+          "step": 5,
+          "text": "Serve with cinnamon-stick stirrers, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "beverage",
+        "coffee",
+        "cappuccino",
+        "italian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5192 Large.jpeg"
+      ]
+    },
+    {
+      "id": "eggnog-classic",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Eggnog",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Always a hit at our annual staff Christmas party.",
+      "servings_yield": "10 servings (4 ounces each)",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "4-24 hours chilling",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "divided (1/3 cup for custard, 2 tbsp for cream)"
+        },
+        {
+          "item": "light rum",
+          "quantity": "2 to 4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bourbon",
+          "quantity": "2 to 4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "",
+          "unit": "for garnish",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large heavy saucepan mix eggs, milk, and 1/3 cup sugar. Cook and stir over medium heat till mixture coats a metal spoon. Remove from heat."
+        },
+        {
+          "step": 2,
+          "text": "Cool quickly by placing pan in a sink or bowl of ice water and stirring 1 to 2 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Stir in rum, bourbon, and vanilla. Chill 4 to 24 hours."
+        },
+        {
+          "step": 4,
+          "text": "At serving time, in a bowl whip cream and 2 tablespoons sugar till soft peaks form."
+        },
+        {
+          "step": 5,
+          "text": "Transfer chilled egg mixture to a punch bowl. Fold in whipped cream mixture."
+        },
+        {
+          "step": 6,
+          "text": "Serve at once. Sprinkle each serving with nutmeg."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "punch bowl",
+      "notes": [
+        "Chocolate Eggnog: Stir 1/4 to 1/3 cup chocolate-flavored syrup into egg mixture before chilling",
+        "Nonalcoholic Eggnog: Omit rum and bourbon. Increase milk to 2 1/4 to 2 1/2 cups"
+      ],
+      "tags": [
+        "beverage",
+        "eggnog",
+        "christmas",
+        "holiday",
+        "party"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5192 Large.jpeg"
+      ]
     }
   ],
   "version": "2.79.0"
