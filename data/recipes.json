@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 821
+    "total_recipes": 824
   },
   "recipes": [
     {
@@ -62012,6 +62012,124 @@
       "tags": ["fish", "seafood", "cream-cheese", "crescent-rolls", "baked"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "broccoli-stuffed-sole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broccoli-Stuffed Sole",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "description": "Delicate sole fillets rolled around a broccoli and Parmesan cheese filling.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen skinless sole fillets", "quantity": "4", "unit": "", "prep_note": "4 ounces each, about 1/4 inch thick"},
+        {"item": "frozen cut broccoli", "quantity": "1", "unit": "cup", "prep_note": "thawed"},
+        {"item": "grated Parmesan cheese", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "soft-style cream cheese with chives and onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "pine nuts", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "white wine or dry sherry", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen."},
+        {"step": 2, "text": "For filling, combine broccoli, Parmesan cheese, cream cheese, and pine nuts."},
+        {"step": 3, "text": "Place about 1/4 cup filling on one end of each fillet. Roll up fillets."},
+        {"step": 4, "text": "Secure rolls with wooden picks. Place in a baking dish. Drizzle with wine."},
+        {"step": 5, "text": "Bake in a 350°F oven for 30 to 35 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "baking dish",
+      "notes": [
+        "Microwave directions: Assemble fish rolls, omitting wine. Place in a microwave-safe dish. Cover with vented plastic wrap. Microwave on 100% power (high) for 3 to 5 minutes or till fish flakes easily, giving dish a half-turn once."
+      ],
+      "tags": ["sole", "fish", "seafood", "stuffed", "broccoli", "parmesan", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5333 Large.jpeg"]
+    },
+    {
+      "id": "baked-fish-with-mushrooms",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Fish with Mushrooms",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "description": "Quick baked fish fillets topped with sauteed mushrooms and green onions.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets or steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1/2 to 3/4 inch thick"},
+        {"item": "sliced fresh mushrooms", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "dried tarragon", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "paprika", "quantity": "", "unit": "", "prep_note": "for sprinkling"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Arrange fish in a 12x7-1/2x2-inch baking dish, turning under thin edges. Sprinkle with salt."},
+        {"step": 2, "text": "Cook mushrooms, onion, and tarragon in margarine till tender. Spoon over fish."},
+        {"step": 3, "text": "Sprinkle with paprika. Bake, covered, in a 450°F oven for 6 to 10 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "450°F (230°C)",
+      "pan_size": "12x7-1/2x2-inch baking dish",
+      "notes": [
+        "Marked as FAST in cookbook"
+      ],
+      "tags": ["fish", "seafood", "mushrooms", "baked", "fast", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5333 Large.jpeg"]
+    },
+    {
+      "id": "wild-rice-stuffed-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild-Rice-Stuffed Fish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "description": "Whole dressed fish stuffed with a wild rice, mushroom, and vegetable mixture.",
+      "servings_yield": "4 to 5 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "90 minutes (including rice)",
+      "total_time": "2 hours",
+      "ingredients": [
+        {"item": "fresh or frozen dressed whitefish or other fish", "quantity": "2", "unit": "", "prep_note": "1-1/2 pounds each"},
+        {"item": "wild rice", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "sliced fresh mushrooms", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped celery", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "chicken broth", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "finely chopped pimiento", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "dry sherry", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon peel", "quantity": "1/2", "unit": "tsp", "prep_note": "finely shredded"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Rinse rice thoroughly."},
+        {"step": 2, "text": "Cook mushrooms, celery, onion, and garlic in margarine till tender."},
+        {"step": 3, "text": "Stir in broth and wild rice. Cover and simmer 45 to 50 minutes till rice is tender and liquid is absorbed."},
+        {"step": 4, "text": "Stir in pimiento, sherry, parsley, and lemon peel."},
+        {"step": 5, "text": "Spoon stuffing into fish cavities, pressing lightly with back of spoon so fish lies flat."},
+        {"step": 6, "text": "Place stuffed fish in a large baking dish. Cover loosely with foil."},
+        {"step": 7, "text": "Bake in a 350°F oven for 30 to 40 minutes or till fish flakes easily with a fork. Use two large spatulas to transfer fish to serving platter."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "large baking dish",
+      "notes": [
+        "Tip: Spoon stuffing into fish, then press lightly with the back of the spoon so the fish lies flat",
+        "Use two large spatulas for transferring the stuffed fish"
+      ],
+      "tags": ["whitefish", "fish", "seafood", "stuffed", "wild-rice", "baked", "elegant"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5333 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
