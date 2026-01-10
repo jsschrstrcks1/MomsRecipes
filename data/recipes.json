@@ -40297,7 +40297,7 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": ["IMG_5167 Large.jpeg"]
+      "image_refs": ["IMG_5167 Large.jpeg", "IMG_5170 Large.jpeg"]
     },
     {
       "id": "candy-apples-classic",
@@ -40395,7 +40395,8 @@
       "image_refs": [
         "IMG_5167 Large.jpeg",
         "IMG_5168 Large.jpeg",
-        "IMG_5169 Large.jpeg"
+        "IMG_5169 Large.jpeg",
+        "IMG_5170 Large.jpeg"
       ]
     },
     {
@@ -56207,7 +56208,7 @@
       ],
       "tags": ["candy", "dessert", "chocolate", "fruit"],
       "confidence": {"overall": "high", "flags": []},
-      "image_refs": []
+      "image_refs": ["IMG_5170 Large.jpeg"]
     },
     {
       "id": "fondant",
