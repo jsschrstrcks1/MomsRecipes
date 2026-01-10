@@ -23,14 +23,26 @@ This audit reviewed the GitHub file history, processed images, and recipe data t
 
 ## Statistics Overview
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Total recipes | 796 | 794 |
-| Duplicate entries removed | - | 2 |
-| Handwritten recipes with technique tips | 0 | 1 |
-| Tips captured in tips.json | 86 | 86 |
-| Images in data/ folder | 116 | 116 |
-| BHG cookbook recipes with empty notes | 124 | 124 (lower priority) |
+| Metric | Before | After | Latest |
+|--------|--------|-------|--------|
+| Total recipes | 796 | 794 | **801** |
+| Duplicate entries removed | - | 2 | 2 |
+| Handwritten recipes with technique tips | 0 | 1 | 1 |
+| Tips captured in tips.json | 86 | 86 | **104** |
+| Images in data/ folder | 116 | 116 | 116 |
+| New recipes added from BHG images | - | - | **7** |
+
+### Latest Changes (Phase 2):
+- **7 new recipes** added from unprocessed BHG cookbook images:
+  - Venison Pot Roast (IMG_5400)
+  - Marinated Venison Chops (IMG_5400)
+  - Beer-Braised Rabbit (IMG_5400)
+  - Veal Marsala (IMG_5380)
+  - Beef Fajitas (IMG_5380)
+  - Pastitsio (IMG_5410)
+  - Tomato Juice Cocktail (IMG_5360)
+- **18 new tips** added to tips.json (shellfish, freezing, marinating, wild game, canning)
+- **Image refs** added to Cheese-Stuffed Manicotti (IMG_5321)
 
 ---
 

@@ -4,8 +4,8 @@
     "description": "A family collection of treasured recipes from Grandma Baker, MomMom Baker, and Granny Hudson - preserved with love",
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
-    "version": "3.0.1",
-    "total_recipes": 794
+    "version": "3.0.2",
+    "total_recipes": 801
   },
   "recipes": [
     {
@@ -60946,7 +60946,302 @@
       ],
       "tags": ["pasta", "manicotti", "cheese", "italian", "stuffed"],
       "confidence": {"overall": "high", "flags": []},
-      "image_refs": []
+      "image_refs": ["IMG_5321 Large.jpeg"]
+    },
+    {
+      "id": "venison-pot-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Pot Roast",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 240",
+      "description": "A hearty braised venison roast with vegetables, perfect for wild game.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1.5-2 hours",
+      "total_time": "2-2.5 hours",
+      "ingredients": [
+        {"item": "venison shoulder or rump roast", "quantity": "2-3", "unit": "lb", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "onion", "quantity": "3/4", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "carrot", "quantity": "1/2", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "plain yogurt or beef bouillon", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "hot beef broth", "quantity": "1/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a Dutch oven brown meat on all sides in hot oil. Drain fat."},
+        {"step": 2, "text": "Add onion and carrot. Cover and simmer for 1-1/2 to 2 hours or till meat is tender."},
+        {"step": 3, "text": "Remove meat from pan. For sauce, stir flour into pan juices. Add broth. Cook and stir till thickened and bubbly."},
+        {"step": 4, "text": "Stir in yogurt. Heat through but do not boil. Slice meat and serve with sauce."}
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [
+        "Wild game tip: Venison can be gamey - marinating overnight helps mellow the flavor",
+        "Serve with mashed potatoes or egg noodles"
+      ],
+      "tags": ["venison", "game", "pot-roast", "braised", "wild-game"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5400 Large.jpeg"]
+    },
+    {
+      "id": "marinated-venison-chops",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Venison Chops",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 240",
+      "description": "Tender venison chops marinated in a savory oil and vinegar mixture.",
+      "servings_yield": "4 servings",
+      "prep_time": "6-24 hours (marinating)",
+      "cook_time": "7 minutes",
+      "total_time": "6-24 hours",
+      "ingredients": [
+        {"item": "venison chops or steaks", "quantity": "4", "unit": "", "prep_note": "single or 2 double, cut 3/4 inch thick (about 1-1/2 lb)"},
+        {"item": "cooking oil", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "vinegar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "2", "unit": "cloves", "prep_note": "minced"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "", "unit": "", "prep_note": "optional, for garnish"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Place chops or steaks in a plastic bag set into a shallow dish. For marinade, combine oil, vinegar, Worcestershire sauce, garlic, salt, and pepper."},
+        {"step": 2, "text": "Pour over meat; close bag. Marinate in refrigerator for 6 to 24 hours, turning bag occasionally."},
+        {"step": 3, "text": "Remove venison from bag, reserving marinade. Place meat on unheated rack of a broiler pan."},
+        {"step": 4, "text": "Broil 3 inches from heat for 7 minutes, turning and brushing with marinade once."},
+        {"step": 5, "text": "Garnish with snipped parsley if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Marinating tip: The meat stays in the marinade bag making it easy to turn and rearrange. Cleanup is easy too - just toss the bag.",
+        "For medium-rare, broil until internal temperature reaches 145°F"
+      ],
+      "tags": ["venison", "game", "chops", "marinated", "broiled", "wild-game"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5400 Large.jpeg"]
+    },
+    {
+      "id": "beer-braised-rabbit",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beer-Braised Rabbit",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 240",
+      "description": "Tender braised rabbit with potatoes, carrots, and a savory beer sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "35-45 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "domestic rabbit", "quantity": "2.5-3", "unit": "lb", "prep_note": "cut up"},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "medium potatoes", "quantity": "4", "unit": "", "prep_note": "quartered"},
+        {"item": "medium carrots", "quantity": "4", "unit": "", "prep_note": "cut into 1/2-inch pieces"},
+        {"item": "medium onion", "quantity": "1", "unit": "", "prep_note": "sliced and separated"},
+        {"item": "beer or apple juice", "quantity": "12", "unit": "oz", "prep_note": "1 can or 1-1/2 cups"},
+        {"item": "cold water", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "chili sauce", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a 12-inch skillet brown rabbit with salt and pepper in hot oil. Drain fat."},
+        {"step": 2, "text": "Add potatoes, carrots, and onion to skillet. Bring to boil."},
+        {"step": 3, "text": "Pour beer, chili sauce, and salt over rabbit and vegetables in skillet."},
+        {"step": 4, "text": "Cover and cook on high heat; reduce heat. Cover rabbit and vegetables and simmer for 35 to 45 minutes or till tender. Remove rabbit and vegetables."},
+        {"step": 5, "text": "For sauce, skim fat from pan juices. If necessary, add water to juices to equal 1-1/2 cups. Return to skillet."},
+        {"step": 6, "text": "Combine cold water and flour; stir into pan juices. Cook and stir till thickened and bubbly. Cook and stir for 1 minute more."},
+        {"step": 7, "text": "Serve sauce with rabbit and vegetables."}
+      ],
+      "temperature": "",
+      "pan_size": "12-inch skillet",
+      "notes": [
+        "Substitution: Apple juice can be used instead of beer for a family-friendly version",
+        "Rabbit is a lean, mild-tasting meat similar to chicken"
+      ],
+      "tags": ["rabbit", "game", "braised", "beer", "one-pot"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5400 Large.jpeg"]
+    },
+    {
+      "id": "veal-marsala",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Veal Marsala",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 220",
+      "description": "Classic Italian veal cutlets in a rich Marsala wine sauce with mushrooms.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "boneless veal leg top round steak or sirloin steak or pork tenderloin", "quantity": "1", "unit": "lb", "prep_note": "cut 1/4 inch thick"},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "sliced fresh mushrooms", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "dry sherry or dry Marsala", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "instant chicken bouillon granules", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "snipped fresh parsley", "quantity": "1", "unit": "tbsp", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cut veal into 4 pieces. With a meat mallet, pound each piece to 1/8 inch thickness. If desired, sprinkle with salt and pepper."},
+        {"step": 2, "text": "In a large skillet cook half of the veal over medium-high heat in hot oil about 1 tablespoon of the oil for 2 minutes, turning once. Remove from skillet; keep warm. Repeat with remaining veal and oil."},
+        {"step": 3, "text": "Add mushrooms to skillet. Cook and stir for 1 minute. Add sherry and bouillon granules. Bring to boiling."},
+        {"step": 4, "text": "Return veal to skillet. Heat through. Serve immediately. If desired, sprinkle with snipped parsley."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Variation: Pork tenderloin can be substituted for veal",
+        "For best results, pound the meat thin and cook quickly over high heat"
+      ],
+      "tags": ["veal", "marsala", "italian", "mushrooms", "wine-sauce", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5380 Large.jpeg"]
+    },
+    {
+      "id": "beef-fajitas",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beef Fajitas",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 220",
+      "description": "Sizzling beef strips with peppers and onions, served in warm tortillas with toppings.",
+      "servings_yield": "4 servings",
+      "prep_time": "6-24 hours (marinating)",
+      "cook_time": "15 minutes",
+      "total_time": "6-24 hours",
+      "ingredients": [
+        {"item": "boneless beef plate skirt steak or flank steak", "quantity": "3/4", "unit": "lb", "prep_note": ""},
+        {"item": "Italian salad dressing", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "Salsa", "quantity": "1/2", "unit": "cup", "prep_note": "(see recipe, page 368)"},
+        {"item": "lime or lemon juice", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "medium onion", "quantity": "1", "unit": "", "prep_note": "thinly sliced"},
+        {"item": "medium green or sweet red or yellow pepper", "quantity": "1", "unit": "", "prep_note": "cut into thin strips"},
+        {"item": "flour tortillas", "quantity": "8", "unit": "", "prep_note": "7-inch"},
+        {"item": "Guacamole", "quantity": "1", "unit": "cup", "prep_note": "(see recipe, page 13) or avocado dip"},
+        {"item": "dairy sour cream", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "shredded cheddar or Monterey Jack cheese", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "Salsa", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Partially freeze beef. Thinly slice across the grain into bite-size strips. Place strips in a plastic bag set into a deep bowl."},
+        {"step": 2, "text": "For marinade, in a mixing bowl stir together dressing, the 1/2 cup Salsa, lime juice, and Worcestershire sauce."},
+        {"step": 3, "text": "Pour over meat. Seal bag. Marinate in the refrigerator for 6 to 24 hours, stirring occasionally."},
+        {"step": 4, "text": "Wrap tortillas in foil. Seal bag. Meanwhile, in a 350° oven a large skillet on high heat, add oil. Cook and stir meat and onion for 1-1/2 minutes or till meat is no longer pink. Add pepper strips; cook about 1-1/2 minutes more."},
+        {"step": 5, "text": "Remove meat and vegetables from skillet. Add peppers and onion; cook and stir for 2 to 3 minutes or till crisp-tender."},
+        {"step": 6, "text": "Remove all beef and vegetables. Return all beef and vegetables to skillet. Add remaining beef and vegetables."},
+        {"step": 7, "text": "To serve, immediately fill tortillas with beef-vegetable mixture. If desired, add Guacamole, sour cream, cheese, and additional Salsa. Roll up."}
+      ],
+      "temperature": "350°F",
+      "pan_size": "large skillet",
+      "notes": [
+        "Tip: Partially freezing the beef makes it easier to slice thinly",
+        "For chicken fajitas, substitute 3/4 lb boneless skinless chicken breast",
+        "Serve with warm tortillas wrapped in foil in a 350° oven for 10 minutes"
+      ],
+      "tags": ["beef", "fajitas", "mexican", "tex-mex", "skillet", "tortillas"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5380 Large.jpeg"]
+    },
+    {
+      "id": "pastitsio",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pastitsio",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 250",
+      "description": "Classic Greek casserole with seasoned meat, pasta, and creamy béchamel sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "30-35 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {"item": "ground lamb, ground beef, or ground pork", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "tomato sauce", "quantity": "8", "unit": "oz", "prep_note": "1 can"},
+        {"item": "dry red wine", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried oregano", "quantity": "1/2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "ground cinnamon", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "elbow macaroni", "quantity": "1-1/2", "unit": "cups", "prep_note": "cooked and drained"},
+        {"item": "milk", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "eggs", "quantity": "3", "unit": "", "prep_note": "beaten individually"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "1/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large skillet cook meat, onion, and garlic till meat is brown. Drain fat. Stir in tomato sauce, wine, parsley, oregano, cinnamon, and salt."},
+        {"step": 2, "text": "Bring to boiling; reduce heat. Simmer for 10 minutes or till most of liquid is absorbed. Gradually stir mixture into one of the beaten eggs; set aside."},
+        {"step": 3, "text": "For sauce, in a medium saucepan heat margarine till melted. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."},
+        {"step": 4, "text": "Gradually stir half of the hot mixture into remaining 2 beaten eggs. Return all of the egg mixture to saucepan. Stir in Parmesan cheese."},
+        {"step": 5, "text": "To assemble Pastitsio, in an 8x8x2-inch baking dish layer half of the macaroni, all of the meat mixture, remaining macaroni, and all of the sauce."},
+        {"step": 6, "text": "Bake in a 350° oven for 30 to 35 minutes or till set. Let stand 5 minutes before serving."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "8x8x2-inch baking dish",
+      "notes": [
+        "Greek comfort food - similar to lasagna but with macaroni",
+        "Ground lamb is traditional but beef works well too",
+        "Can be assembled ahead and refrigerated; add 10-15 minutes to baking time if cold"
+      ],
+      "tags": ["greek", "casserole", "lamb", "beef", "pasta", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5410 Large.jpeg"]
+    },
+    {
+      "id": "tomato-juice-cocktail",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tomato Juice Cocktail",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 199 (Freezing & Canning section)",
+      "description": "Homemade tomato juice cocktail seasoned with celery, onion, and spices. Can be canned or frozen.",
+      "servings_yield": "Makes about 4 pints",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {"item": "ripe tomatoes", "quantity": "8", "unit": "lb", "prep_note": ""},
+        {"item": "chopped celery", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "prepared horseradish", "quantity": "1-2", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "bottled hot pepper sauce", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thoroughly wash tomatoes. Remove stems. Cut tomatoes into pieces. In an 8- or 10-quart kettle or Dutch oven combine tomatoes, celery, and onion."},
+        {"step": 2, "text": "Bring to boiling, stirring frequently. Cover and simmer about 15 minutes or till soft, stirring often."},
+        {"step": 3, "text": "Press through a food mill or sieve to extract juice. Discard solids. Return juice to kettle."},
+        {"step": 4, "text": "Stir in lemon juice, sugar, Worcestershire sauce, horseradish, salt, and hot pepper sauce. Bring to boiling."},
+        {"step": 5, "text": "Pour hot juice into hot, clean pint jars, leaving 1/2-inch headspace."}
+      ],
+      "temperature": "",
+      "pan_size": "8- or 10-quart kettle",
+      "notes": [
+        "Pressure Canning: Process pints for 15 minutes at 10 pounds pressure (adjust for altitude)",
+        "Freezing: Cool juice. Pour into wide-top freezer containers, leaving 1/2-inch headspace. Process pints for 15 minutes. Seal, label, and freeze.",
+        "Note: Tomatoes should be ripe but still firm. Start with the smaller amount of horseradish and add more until you get the zest you like."
+      ],
+      "tags": ["tomato", "juice", "beverage", "canning", "freezing", "preserving"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5360 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
