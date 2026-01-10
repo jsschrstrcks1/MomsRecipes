@@ -60799,6 +60799,209 @@
       "tags": ["breakfast", "brunch", "eggs", "tortillas", "cheese", "make-ahead"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "fettuccine-with-cheese-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fettuccine with Cheese Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Elegant for entertaining.",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "packaged fettuccine, linguine, or egg noodles", "quantity": "8", "unit": "oz", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1-2", "unit": "cloves", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "instant chicken bouillon granules", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/8", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "shredded process Swiss, Gruyère, or American cheese", "quantity": "1-1/2", "unit": "cups", "prep_note": "6 ounces"},
+        {"item": "snipped parsley", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "freshly ground pepper", "quantity": "", "unit": "", "prep_note": "for serving"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook fettuccine according to package directions. Drain; keep warm."},
+        {"step": 2, "text": "For cheese sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour, bouillon granules, and the 1/8 teaspoon pepper. Add milk all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."},
+        {"step": 3, "text": "Stir in cheese. Cook and stir till cheese melts. Stir in parsley. If cheese sauce is too thick, stir in 1 to 2 tablespoons additional milk."},
+        {"step": 4, "text": "Serve cheese sauce over hot cooked pasta. Sprinkle with freshly ground pepper."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: Cook fettuccine as above. For cheese sauce, in a 4-cup measure micro-cook onion, garlic, and margarine or butter on 100% power (high) for 1-1/2 to 2 minutes or till onion is tender. Stir in flour, bouillon granules, and the 1/8 teaspoon pepper. Add milk. Stir to combine. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every minute till the sauce starts to thicken, then every 30 seconds. Cook for 30 seconds more. Add cheese; stir till melted. If necessary, cook on high for 15 to 30 seconds or till cheese melts. Serve as above.",
+        "Fettuccine with Broccoli and Cheese Sauce: Prepare as above, except add one 10-ounce package frozen chopped broccoli to pasta after it has simmered for 5 minutes.",
+        "Fettuccine with Asparagus and Swiss Cheese Sauce: Prepare as above, except add one 10-ounce package frozen cut asparagus to pasta after it has simmered for 5 minutes. For sauce, use the process Swiss cheese. Substitute 2 tablespoons toasted sliced almonds for the freshly ground pepper."
+      ],
+      "tags": ["pasta", "cheese", "elegant", "entertaining"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "cheese-fondue",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Fondue",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Also makes a great appetizer.",
+      "servings_yield": "Makes 5 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "coarsely shredded Gruyère or Swiss cheese", "quantity": "3", "unit": "cups", "prep_note": "12 ounces"},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "halved"},
+        {"item": "dry white wine", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "kirsch or dry sherry", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "cubed French or Italian bread or raw vegetables", "quantity": "", "unit": "", "prep_note": "for dipping"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Bring shredded cheese to room temperature. Toss flour with cheese; set aside."},
+        {"step": 2, "text": "Rub inside of a fondue pot with garlic halves; discard garlic. Set pot aside."},
+        {"step": 3, "text": "In medium saucepan heat wine over medium heat till small bubbles rise to surface. Just before wine boils, reduce heat to low and stir in cheese mixture, a little at a time, stirring constantly and making sure cheese melts before adding more. Stir till mixture bubbles gently."},
+        {"step": 4, "text": "Stir in kirsch or sherry, nutmeg, and pepper."},
+        {"step": 5, "text": "Transfer cheese mixture to the fondue pot; keep mixture bubbling gently over a fondue burner. Serve with bread cubes or raw vegetables."}
+      ],
+      "temperature": "",
+      "pan_size": "fondue pot",
+      "notes": [
+        "Onion-Cheese Fondue: Prepare as above, except stir 1/2 cup sliced green onion and 1/2 cup shredded carrot into the cheese mixture with the kirsch or sherry.",
+        "For a milder flavor, substitute 1/4 cup chicken broth or water for 1/4 cup of the wine."
+      ],
+      "tags": ["appetizer", "fondue", "cheese", "fast", "swiss", "party"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "creamy-cheese-fondue",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Cheese Fondue",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "If you don't have a fondue pot, just serve this creamy fondue from a casserole dish.",
+      "servings_yield": "Serves 3",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "dry white wine or apple juice", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "shredded American cheese", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "dry mustard", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "cream cheese with chives", "quantity": "1", "unit": "3-oz package", "prep_note": "softened"},
+        {"item": "dippers (breadsticks, cubed French bread, fruit wedges, or vegetables)", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan heat wine or juice just till bubbling. Add American cheese and mustard, stirring till smooth and bubbly."},
+        {"step": 2, "text": "Stir in cream cheese; cook and stir over low heat till smooth."},
+        {"step": 3, "text": "Transfer mixture to a fondue pot. If desired, keep cheese mixture bubbling gently over a fondue burner. Serve with dippers."}
+      ],
+      "temperature": "",
+      "pan_size": "fondue pot",
+      "notes": [
+        "Microwave directions: In 1-quart casserole mix 1/2 cup wine or juice, American cheese, mustard, and cream cheese. Micro-cook on 100% power (high) for 4 to 5 minutes or till melted and bubbly; stir every minute. Serve as above."
+      ],
+      "tags": ["appetizer", "fondue", "cheese", "creamy", "party"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "cheese-strata",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Strata",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "prep_time": "",
+      "cook_time": "45-50 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "bread", "quantity": "6", "unit": "slices", "prep_note": "halved diagonally"},
+        {"item": "American or Swiss cheese", "quantity": "5", "unit": "1-oz slices", "prep_note": ""},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": ""},
+        {"item": "milk", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "prepared mustard or Dijon-style mustard", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "paprika", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves."},
+        {"step": 2, "text": "Beat eggs; stir in milk, onion, mustard, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Pour over bread and cheese layers. Sprinkle with paprika."},
+        {"step": 3, "text": "Cover; chill in the refrigerator for 2 to 24 hours."},
+        {"step": 4, "text": "Bake, uncovered, in a 325° oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes."}
+      ],
+      "temperature": "325°F",
+      "pan_size": "8x8x2-inch baking dish",
+      "notes": [
+        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices.",
+        "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
+      ],
+      "tags": ["breakfast", "brunch", "strata", "cheese", "make-ahead", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "cheese-stuffed-manicotti",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese-Stuffed Manicotti",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "35-40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "manicotti shells", "quantity": "8", "unit": "", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "shredded process Swiss cheese", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "dry white wine", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "ricotta cheese", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "shredded mozzarella cheese", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "finely shredded lemon peel", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook manicotti according to package directions; drain."},
+        {"step": 2, "text": "For sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine; stir till cheese melts."},
+        {"step": 3, "text": "In a bowl stir together egg, ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, lemon peel, and nutmeg. Fill manicotti with ricotta mixture."},
+        {"step": 4, "text": "Arrange in a 12x7-1/2x2-inch baking dish. Pour sauce over filled shells."},
+        {"step": 5, "text": "Cover and bake in a 350° oven for 35 to 40 minutes or till hot."}
+      ],
+      "temperature": "350°F",
+      "pan_size": "12x7-1/2x2-inch baking dish",
+      "notes": [
+        "Microwave directions: Cook manicotti as above. For sauce, in a 4-cup measure combine onion, garlic, and margarine. Micro-cook on 100% power (high) for 1-1/2 to 2-1/2 minutes or till onion is tender. Stir in flour. Add 1 cup milk. Stir. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every minute till sauce starts to thicken, then every 30 seconds. Add Swiss cheese and wine; stir till cheese melts. Fill manicotti as above. Pour sauce atop. Cook, covered with vented clear plastic wrap, on high for 4 to 6 minutes or till heated through, turning dish once.",
+        "Spinach Manicotti: Prepare as above, except reduce ricotta to 1/2 cup. Omit mozzarella and parsley. Add 1/2 cup crumbled feta cheese and one 10-ounce package frozen chopped spinach, thawed and drained, to ricotta mixture.",
+        "Creamy Lasagna: Prepare as above, except substitute 8 lasagna noodles for the manicotti. Spread 1/4 cup ricotta mixture over each cooked lasagna noodle. Roll up noodles and place, seam side down, in an 8x8x2-inch baking dish."
+      ],
+      "tags": ["pasta", "manicotti", "cheese", "italian", "stuffed"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
