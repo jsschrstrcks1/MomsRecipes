@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 834
+    "total_recipes": 836
   },
   "recipes": [
     {
@@ -62545,6 +62545,97 @@
       "tags": ["tuna", "fish", "seafood", "creamed", "comfort-food", "quick", "classic"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "tuna-noodle-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Noodle Casserole",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 176",
+      "description": "Home-style cooking at its best - classic creamy tuna casserole with noodles.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "medium noodles or elbow macaroni", "quantity": "3", "unit": "cups", "prep_note": "4 ounces"},
+        {"item": "chopped celery", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "condensed cream of mushroom or celery soup", "quantity": "1", "unit": "can", "prep_note": "10.75 oz"},
+        {"item": "milk", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "chopped pimiento", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "tuna", "quantity": "1", "unit": "9.25 oz can", "prep_note": "drained and flaked (or two 6.5 oz cans)"},
+        {"item": "grated Parmesan cheese", "quantity": "1", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook noodles or macaroni according to package directions; drain."},
+        {"step": 2, "text": "In a saucepan cook celery and onion in margarine till tender."},
+        {"step": 3, "text": "Stir in soup, milk, pimiento, and tuna. Add cooked noodles; mix well."},
+        {"step": 4, "text": "Transfer to a 1-1/2 quart casserole. Sprinkle with Parmesan cheese."},
+        {"step": 5, "text": "Bake, covered, in a 375°F oven for 25 to 30 minutes or till heated through."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "1-1/2 quart casserole",
+      "notes": [
+        "Marked as EASY in cookbook - Home-style cooking at its best",
+        "Vegetable variation: Stir in 2 cups cooked vegetables with the noodles",
+        "Extra-Creamy variation: Substitute one 8-oz container sour cream or yogurt for the condensed soup",
+        "Microwave directions: Cook noodles according to package. In 2-quart casserole, microwave celery and onion in margarine, covered, on high 3 to 5 minutes. Stir in soup, milk, pimiento, tuna, and noodles. Microwave uncovered on high 3-1/2 to 5-1/2 minutes till hot and bubbly."
+      ],
+      "tags": ["tuna", "fish", "seafood", "casserole", "noodles", "comfort-food", "easy", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5338 Large.jpeg"]
+    },
+    {
+      "id": "tuna-broccoli-crepes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Broccoli Crepes",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 176",
+      "description": "Elegant crepes filled with tuna and broccoli in a creamy cheese sauce - special enough for company.",
+      "servings_yield": "6 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        {"item": "frozen chopped broccoli", "quantity": "10", "unit": "oz", "prep_note": "1 package"},
+        {"item": "chopped onion", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "prepared mustard", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "shredded American cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "tuna or salmon", "quantity": "6.5", "unit": "oz can", "prep_note": "drained and broken into chunks (or 7.5 oz salmon, skin and bones removed)"},
+        {"item": "crepes", "quantity": "12", "unit": "", "prep_note": "see recipe page 72"},
+        {"item": "paprika", "quantity": "", "unit": "", "prep_note": "for garnish"},
+        {"item": "sliced or slivered almonds", "quantity": "", "unit": "", "prep_note": "optional, toasted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook broccoli according to package directions. Drain. Cut up any large pieces. Set aside."},
+        {"step": 2, "text": "For cheese sauce, in a medium saucepan cook onion in margarine till tender but not brown."},
+        {"step": 3, "text": "Stir in flour, salt, and pepper. Add milk all at once. Cook and stir till thickened and bubbly."},
+        {"step": 4, "text": "Add cheese. Cook and stir till cheese melts. Remove from heat."},
+        {"step": 5, "text": "Combine broccoli, tuna, and 3/4 cup of the cheese sauce."},
+        {"step": 6, "text": "Spoon about 3 tablespoons of the tuna mixture onto each crepe. Roll up."},
+        {"step": 7, "text": "Place crepes seam side down in a 12x7-1/2x2-inch baking dish."},
+        {"step": 8, "text": "Bake, covered, in a 375°F oven for 20 to 25 minutes or till heated through."},
+        {"step": 9, "text": "Reheat remaining cheese sauce, adding milk if needed. Spoon over crepes. Sprinkle with paprika and almonds."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "12x7-1/2x2-inch baking dish",
+      "notes": [
+        "Special enough for company",
+        "Can substitute salmon for tuna"
+      ],
+      "tags": ["tuna", "salmon", "fish", "seafood", "crepes", "broccoli", "cheese", "elegant", "entertaining"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5338 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
