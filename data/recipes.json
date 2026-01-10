@@ -27869,6 +27869,1210 @@
         "continues_from": "",
         "continues_to": ""
       }
+    },
+    {
+      "id": "grilled-meat-tacos-partial",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grilled Meat Burritos",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Digital recipe printout (page 32 of 40 - partial)",
+      "description": "Grilled meat tacos with pinto beans, served in large flour tortillas with a fresh salsa.",
+      "servings_yield": "",
+      "prep_time": "1-2 hours (marinating)",
+      "cook_time": "8-9 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "minced red onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cilantro",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "fresh lime juice",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Serrano chiles",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "freshly ground"
+        },
+        {
+          "item": "flour tortillas",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "large 13-inch, warmed"
+        },
+        {
+          "item": "canned pinto beans",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "drained and warmed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare the marinade, then mix all the ingredients in a large bowl. Add the meat in a small dish. Set aside for one or two hours."
+        },
+        {
+          "step": 2,
+          "text": "To prepare the salsa, add all the ingredients in a bowl and mix well. Put the meat in a pot and cook."
+        },
+        {
+          "step": 3,
+          "text": "Heat grill to 450-550\u00b0F. Roast the meat for about 8-9 minutes. Remove when done, place on board and cut into smaller pieces."
+        },
+        {
+          "step": 4,
+          "text": "Assemble the burritos by placing the tortilla on a flat surface. At the center of the tortilla, place 3/4 cup of beans, 1/2 cup of meat and 1/3 cup of salsa. Roll the burrito up, and fold the sides to seal in the fillings. Repeat with each burrito. Serve while warm."
+        }
+      ],
+      "temperature": "450-550\u00b0F (230-290\u00b0C)",
+      "pan_size": "",
+      "notes": [
+        "This recipe was captured from a digital source (page 32 of 40) and may be incomplete",
+        "The specific meat type is not specified in this page - likely beef or chicken based on context"
+      ],
+      "tags": [
+        "tacos",
+        "mexican",
+        "grilled",
+        "beef",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          {
+            "field": "ingredients",
+            "issue": "Partial recipe - meat type and full marinade not specified",
+            "candidates": []
+          }
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pork-belly-burrito",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pork Belly Burrito",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Digital recipe printout (page 33+ of 40)",
+      "description": "The pork belly burrito is probably the best accident to have ever occurred. Very easy to prepare with easily available ingredients.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "2 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "crushed garlic",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for pork belly"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Sriracha",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "apple cider vinegar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "plus more to taste"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "plus more to taste"
+        },
+        {
+          "item": "pork belly",
+          "quantity": "1 1/2",
+          "unit": "lb",
+          "prep_note": "cut into 1/2-inch thick slices"
+        },
+        {
+          "item": "white rice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for the rice"
+        },
+        {
+          "item": "cilantro",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped, for the rice"
+        },
+        {
+          "item": "limes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "for the rice"
+        },
+        {
+          "item": "canned refried beans",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for the burrito"
+        },
+        {
+          "item": "flour tortillas",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "large"
+        },
+        {
+          "item": "salsa",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 275\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "In a large bowl, combine all seven marinade ingredients (garlic, soy sauce, Sriracha, brown sugar, apple cider vinegar, pepper, salt). Add the pork belly and season with additional salt and pepper. Cook in the oven for one hour."
+        },
+        {
+          "step": 3,
+          "text": "After one hour, increase oven temperature to 300\u00b0F and cook for another hour. Stir the pork occasionally to ensure even roasting. The pork will be ready after the second hour."
+        }
+      ],
+      "temperature": "275\u00b0F then 300\u00b0F (135\u00b0C then 150\u00b0C)",
+      "pan_size": "",
+      "notes": [
+        "Pages 35-36 were not captured, but core recipe is complete"
+      ],
+      "tags": [
+        "burrito",
+        "pork",
+        "pork belly",
+        "asian-fusion",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "kale-brown-rice-burrito-feta",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kale & Brown Rice Burrito with Feta",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Digital recipe printout (page 37 of 40)",
+      "description": "A healthy vegetarian burrito with saut\u00e9ed kale, brown rice, beans, and crumbled feta cheese.",
+      "servings_yield": "2 burritos",
+      "prep_time": "",
+      "cook_time": "6-7 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "red onion",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "kale",
+          "quantity": "1",
+          "unit": "bunch",
+          "prep_note": "torn into 2-3 inch pieces"
+        },
+        {
+          "item": "cayenne",
+          "quantity": "1",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "flour tortillas",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "8-inch, or spinach tortillas, steamed lightly"
+        },
+        {
+          "item": "brown rice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "cooked"
+        },
+        {
+          "item": "feta cheese",
+          "quantity": "2-4",
+          "unit": "tbsp",
+          "prep_note": "crumbled"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan, heat the beans over low heat. Add salt and some water."
+        },
+        {
+          "step": 2,
+          "text": "In another saucepan, heat oil over medium heat. Add the red onion and cook until browned, about 6-7 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add the kale and stir while the mixture cooks. Cook until kale starts to wilt. Finish with a seasoning of cayenne."
+        },
+        {
+          "step": 4,
+          "text": "On the tortilla, put a spoonful of rice, kale, onions and beans at the center. Top with feta and seal."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can use spinach tortillas as an alternative to flour"
+      ],
+      "tags": [
+        "burrito",
+        "vegetarian",
+        "kale",
+        "healthy",
+        "brown rice",
+        "feta"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "easy-tuscan-pasta-salad",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Easy Tuscan Pasta Salad",
+      "category": "salads",
+      "attribution": "Magazine/product clipping",
+      "source_note": "Printed recipe clipping featuring ATHENOS and GOOD SEASONS products",
+      "description": "A quick and easy pasta salad with Mediterranean flavors - cherry tomatoes, feta cheese, and sun-dried tomato vinaigrette.",
+      "servings_yield": "4 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "penne pasta",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "hot cooked"
+        },
+        {
+          "item": "cherry tomatoes",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "feta cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "4 oz, traditional crumbled"
+        },
+        {
+          "item": "sun dried tomato vinaigrette with roasted red pepper dressing",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh basil leaves",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "loosely packed, cut into strips"
+        },
+        {
+          "item": "red onions",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients."
+        },
+        {
+          "step": 2,
+          "text": "Serve immediately, or cover and refrigerate until ready to serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "MAKE IT A MEAL: Add 2 boneless skinless chicken breast halves, grilled or broiled, cut into 1/4 inch slices"
+      ],
+      "tags": [
+        "pasta salad",
+        "salad",
+        "tuscan",
+        "italian",
+        "quick",
+        "easy",
+        "feta",
+        "vegetarian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "athenos-greek-salad",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Athenos Greek Salad",
+      "category": "salads",
+      "attribution": "Magazine/product clipping",
+      "source_note": "Printed recipe clipping featuring ATHENOS and KRAFT products",
+      "description": "A classic Greek salad with mixed greens, olives, tomatoes, cucumber, and feta cheese.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "mixed salad greens",
+          "quantity": "1",
+          "unit": "bag",
+          "prep_note": "10 oz"
+        },
+        {
+          "item": "ripe olives",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "pitted"
+        },
+        {
+          "item": "plum tomatoes",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "cut into wedges"
+        },
+        {
+          "item": "red onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "thinly sliced"
+        },
+        {
+          "item": "cucumber",
+          "quantity": "1/2",
+          "unit": "medium",
+          "prep_note": "peeled, cut into wedges"
+        },
+        {
+          "item": "Greek vinaigrette dressing",
+          "quantity": "1/2",
+          "unit": "pkg",
+          "prep_note": "4 oz"
+        },
+        {
+          "item": "feta cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "traditional crumbled"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toss greens, olives, tomatoes, onion and cucumber in large bowl."
+        },
+        {
+          "step": 2,
+          "text": "Drizzle with dressing; toss to coat. Sprinkle with cheese."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "salad",
+        "greek",
+        "vegetarian",
+        "quick",
+        "easy",
+        "feta",
+        "olives"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "greek-salsa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Greek Salsa",
+      "category": "appetizers",
+      "attribution": "Athenos/Churny Company, 2007",
+      "source_note": "Printed recipe clipping from ATHENOS product packaging",
+      "description": "A Mediterranean-style salsa dip with feta, olives, cucumber, and roasted red peppers. Served with pita chips.",
+      "servings_yield": "2 cups (16 servings, 2 tbsp each)",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "feta cheese",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "3.5 oz, crumbled reduced fat"
+        },
+        {
+          "item": "kalamata olives",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "halved"
+        },
+        {
+          "item": "red onions",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "mint leaves",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "cucumbers",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "roasted red peppers",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "Greek vinaigrette dressing",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "light, with oregano and feta"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients until well blended."
+        },
+        {
+          "step": 2,
+          "text": "Serve with pita chips."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "dip",
+        "salsa",
+        "greek",
+        "mediterranean",
+        "feta",
+        "vegetarian",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "seven-layer-taco-dip",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "7-Layer Taco Dip",
+      "category": "appetizers",
+      "attribution": "Bob Evans Farms, 2011",
+      "source_note": "Printed recipe card from Bob Evans",
+      "description": "A hearty layered taco dip with sausage, beans, sour cream, salsa, and all the fixings. Perfect for game day.",
+      "servings_yield": "8 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "roll sausage",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "original"
+        },
+        {
+          "item": "refried beans",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "16 oz"
+        },
+        {
+          "item": "taco seasoning mix",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "1.25 oz"
+        },
+        {
+          "item": "shredded Mexican cheese blend",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "8 oz"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "container",
+          "prep_note": "16 oz"
+        },
+        {
+          "item": "chopped green chilies",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "4.5 oz"
+        },
+        {
+          "item": "tomato",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "diced"
+        },
+        {
+          "item": "sliced black olives",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "6 oz"
+        },
+        {
+          "item": "green onions",
+          "quantity": "1",
+          "unit": "bunch",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salsa",
+          "quantity": "1",
+          "unit": "jar",
+          "prep_note": "11 oz"
+        },
+        {
+          "item": "tortilla chips",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large skillet over medium heat, crumble and cook sausage until browned."
+        },
+        {
+          "step": 2,
+          "text": "Stir in beans, chilies and taco seasoning mix."
+        },
+        {
+          "step": 3,
+          "text": "Spread sausage mix into 7\" x 11\" serving dish."
+        },
+        {
+          "step": 4,
+          "text": "Top with sour cream, then salsa."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle olives, tomato and onion on top. Cover with cheese."
+        },
+        {
+          "step": 6,
+          "text": "Serve immediately with chips. Refrigerate leftovers."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "7\" x 11\" serving dish",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "dip",
+        "taco",
+        "mexican",
+        "game day",
+        "party",
+        "sausage"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bisquick-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bisquick Muffins",
+      "category": "breads",
+      "attribution": "Bisquick box recipe",
+      "source_note": "Printed recipe from Bisquick baking mix box",
+      "description": "Simple, quick muffins made with Bisquick baking mix.",
+      "servings_yield": "12 muffins",
+      "prep_time": "5 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "Bisquick baking mix",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water or milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 400\u00b0F. Grease bottoms of 12 medium muffin cups."
+        },
+        {
+          "step": 2,
+          "text": "Mix ingredients; beat vigorously 30 seconds."
+        },
+        {
+          "step": 3,
+          "text": "Fill muffin cups 2/3 full."
+        },
+        {
+          "step": 4,
+          "text": "Bake until golden brown, about 15 minutes."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "12-cup muffin tin",
+      "notes": [
+        "HIGH ALTITUDE: Heat oven to 425\u00b0F instead of 400\u00b0F"
+      ],
+      "tags": [
+        "muffins",
+        "quick bread",
+        "bisquick",
+        "easy",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bisquick-dumplings",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bisquick Dumplings",
+      "category": "sides",
+      "attribution": "Bisquick box recipe",
+      "source_note": "Printed recipe from Bisquick baking mix box",
+      "description": "Simple drop dumplings to add to soups and stews.",
+      "servings_yield": "10-12 dumplings",
+      "prep_time": "5 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "Bisquick baking mix",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix ingredients until soft dough forms."
+        },
+        {
+          "step": 2,
+          "text": "Drop by spoonfuls onto boiling stew."
+        },
+        {
+          "step": 3,
+          "text": "Cook uncovered over low heat 10 minutes; cover and cook 10 more minutes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "HIGH ALTITUDE: No adjustments needed"
+      ],
+      "tags": [
+        "dumplings",
+        "bisquick",
+        "side dish",
+        "comfort food",
+        "stew"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bisquick-drop-biscuits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bisquick Drop Biscuits",
+      "category": "breads",
+      "attribution": "Bisquick box recipe",
+      "source_note": "Bisquick box recipe with family handwritten copy",
+      "description": "Quick and easy drop biscuits with several variations including no-cholesterol, water-only, and rolled versions.",
+      "servings_yield": "10 biscuits",
+      "prep_time": "5 minutes",
+      "cook_time": "8-10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "Bisquick baking mix",
+          "quantity": "2 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 450\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Mix ingredients until dough forms; beat 30 seconds."
+        },
+        {
+          "step": 3,
+          "text": "Drop by spoonfuls onto ungreased cookie sheet."
+        },
+        {
+          "step": 4,
+          "text": "Bake until golden brown, 8 to 10 minutes."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "cookie sheet",
+      "notes": [
+        "NO-CHOLESTEROL BISCUITS: Mix 2 1/3 cups baking mix and 2/3 cup skim milk or cold water until dough forms; beat 30 sec. Continue as directed.",
+        "WATER RECIPE: Mix 2 1/3 cups baking mix and 2/3 cup cold water until dough forms; beat 30 sec. Continue as directed.",
+        "ROLLED BISCUITS: After beating, if dough is too sticky, gradually mix in enough baking mix (up to 1/4 cup) to make dough easy to handle. Turn onto surface well dusted with baking mix; gently roll in baking mix to coat. Shape into ball; knead 10 times. Roll 1/2\" thick. Cut with 2\" cutter dipped in baking mix. Bake on ungreased cookie sheet as directed. 10 to 12 biscuits.",
+        "HIGH ALTITUDE: Heat oven to 475\u00b0F. If using water, increase baking mix to 2 1/2 cups.",
+        "Family handwritten copy of this recipe exists"
+      ],
+      "tags": [
+        "biscuits",
+        "bisquick",
+        "bread",
+        "quick bread",
+        "breakfast",
+        "side dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5074 Large.jpeg"
+      ]
+    },
+    {
+      "id": "country-clay-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Country Clay Bread",
+      "category": "breads",
+      "attribution": "Linda Wasserstein",
+      "source_note": "Printed recipe clipping by Linda Wasserstein",
+      "description": "A soft, homemade yeast bread baked in a clay bread pan. Uses honey or sugar for a slightly sweet flavor.",
+      "servings_yield": "1 loaf",
+      "prep_time": "20 minutes",
+      "cook_time": "40-50 minutes",
+      "total_time": "3-4 hours (including rising)",
+      "ingredients": [
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "110\u00b0-115\u00b0F"
+        },
+        {
+          "item": "granulated sugar or honey",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3-3 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dissolve the yeast in 1/2 cup of warm milk in a large bowl and let stand for 5 minutes. Blend in sugar or honey, salt, melted butter and remaining milk."
+        },
+        {
+          "step": 2,
+          "text": "Stir in flour, one cup at a time, until ingredients are thoroughly blended and will separate easily from sides of bowl."
+        },
+        {
+          "step": 3,
+          "text": "Turn dough out onto a floured board, lightly coat with flour. Take care not to use too much flour. Knead for 8 to 10 minutes until dough is soft, satiny and no longer sticky."
+        },
+        {
+          "step": 4,
+          "text": "Place dough in a lightly oiled bowl and turn dough so all sides are coated with oil. Cover bowl with plastic wrap and place in a warm, draft-free location. Allow to rise for 1 1/2 to 2 hours."
+        },
+        {
+          "step": 5,
+          "text": "Punch down the dough and turn it out onto the board. Dust dough sparingly with flour and knead for 1 to 2 minutes. Shape into a loaf."
+        },
+        {
+          "step": 6,
+          "text": "Brush loaf lightly with oil and place in 1 1/2 quart bread pan. Cover with plastic wrap and allow to rise until dough is 1 inch above top of pan (40-60 minutes)."
+        },
+        {
+          "step": 7,
+          "text": "Pre-heat oven to 350\u00b0F. Bake for 40 to 50 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Remove from oven and run a knife or spatula around inside edges of bread pan. Cool loaf on a wire rack."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "1 1/2 quart bread pan",
+      "notes": [
+        "Originally designed for Copco Country Clay bread pan",
+        "Can use honey instead of sugar for slightly different flavor"
+      ],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "loaf",
+        "clay pan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "handwritten-biscuits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Biscuits",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Handwritten family recipe",
+      "description": "Classic homemade biscuits with shortening.",
+      "servings_yield": "",
+      "prep_time": "15 minutes",
+      "cook_time": "13-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Whisk together flour, baking powder, salt, and sugar."
+        },
+        {
+          "step": 2,
+          "text": "Cut in shortening until you have coarse meal."
+        },
+        {
+          "step": 3,
+          "text": "Slowly stir in milk until the dough pulls away from side of bowl."
+        },
+        {
+          "step": 4,
+          "text": "Put on floured surface, knead 15 to 20 times."
+        },
+        {
+          "step": 5,
+          "text": "Pat into a circle about 1/2 inch thick."
+        },
+        {
+          "step": 6,
+          "text": "Cut into biscuits with a glass or biscuit cutter dipped in flour."
+        },
+        {
+          "step": 7,
+          "text": "Bake at 425\u00b0F for 13-15 minutes until edges are brown."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "biscuits",
+        "bread",
+        "quick bread",
+        "handwritten",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5077 Large.jpeg",
+        "IMG_5078 Large.jpeg"
+      ]
+    },
+    {
+      "id": "homemade-pie-crust",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Pie Crust",
+      "category": "desserts",
+      "attribution": "Libby's",
+      "source_note": "Printed from Libby's Pumpkin Pie Mix packaging",
+      "description": "A basic homemade pie crust recipe for a single 9-inch deep-dish pie.",
+      "servings_yield": "1 nine-inch deep-dish pie crust",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable shortening",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "2-3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine flour and salt in medium bowl."
+        },
+        {
+          "step": 2,
+          "text": "Cut in vegetable shortening with pastry blender or two knives until mixture is crumbly."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle with water; blend until mixture holds together."
+        },
+        {
+          "step": 4,
+          "text": "Shape dough into ball; place on lightly floured surface."
+        },
+        {
+          "step": 5,
+          "text": "Roll out dough to 1/8-inch thickness."
+        },
+        {
+          "step": 6,
+          "text": "Line pie plate with pastry. Turn edge under; crimp edge as desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "To make two crusts, double all ingredients and divide dough in half"
+      ],
+      "tags": [
+        "pie crust",
+        "pastry",
+        "dessert",
+        "pie"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
