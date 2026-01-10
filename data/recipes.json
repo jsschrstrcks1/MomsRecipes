@@ -59802,6 +59802,142 @@
       "tags": ["bread", "biscuits", "homemade", "from-scratch"],
       "confidence": {"overall": "medium", "flags": ["Some handwriting difficult to read"]},
       "image_refs": ["IMG_5077 Large.jpeg", "IMG_5078 Large.jpeg"]
+    },
+    {
+      "id": "chocolate-fudge-classic",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Fudge",
+      "category": "desserts",
+      "source_note": "Cookbook clipping",
+      "description": "Classic homemade chocolate fudge with walnuts or pecans.",
+      "servings_yield": "Makes 32 pieces",
+      "prep_time": "2 1/2 hours ahead",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "unsweetened chocolate", "quantity": "2", "unit": "squares", "prep_note": ""},
+        {"item": "butter or margarine", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla extract", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "chopped walnuts or pecans", "quantity": "1", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In large saucepan over medium heat, heat sugar, milk, corn syrup, and unsweetened chocolate squares to boiling, stirring constantly."},
+        {"step": 2, "text": "Set candy thermometer in place and continue cooking, stirring occasionally, until temperature reaches 238°F, or until a small amount of mixture dropped into very cold water forms a soft ball."},
+        {"step": 3, "text": "Remove from heat; immediately add butter or margarine and vanilla extract."},
+        {"step": 4, "text": "Cool mixture, without stirring, to 110°F, or until outside of saucepan feels lukewarm to hand. Meanwhile, butter 8\" by 8\" baking pan."},
+        {"step": 5, "text": "With spoon, beat until mixture becomes thick and begins to lose its gloss. Quickly stir in nuts; pour into pan. (Don't scrape saucepan; mixture on side may be sugary.) Cool in pan; when cold, cut into 32 squares."}
+      ],
+      "temperature": "238°F (soft ball stage)",
+      "pan_size": "8x8-inch pan",
+      "notes": [
+        "122 calories per piece",
+        "Peanut Butter Fudge: Prepare as above but use 1/4 cup creamy peanut butter for butter and substitute 1 cup chopped salted peanuts for walnuts. Makes 32 pieces. 160 cals per piece.",
+        "Chocolate-Marshmallow Fudge: Prepare as above but stir in 1 cup miniature marshmallows just before pouring mixture into pan. Makes 32 pieces. 126 cals per piece."
+      ],
+      "tags": ["dessert", "candy", "fudge", "chocolate"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "candy-apples",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Candy Apples",
+      "category": "desserts",
+      "source_note": "Cookbook clipping",
+      "description": "Classic red candy-coated apples on sticks.",
+      "servings_yield": "Makes 8 candy apples",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "small Red Delicious apples", "quantity": "8", "unit": "", "prep_note": ""},
+        {"item": "wooden ice-cream-bar sticks", "quantity": "8", "unit": "", "prep_note": ""},
+        {"item": "sugar", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "red-hot candies", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "red food color", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "water", "quantity": "1", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Insert wooden sticks into stem end of each apple."},
+        {"step": 2, "text": "Combine sugar, corn syrup, red-hot candies, food color, and water in saucepan. Cook to hard crack stage (300°F)."},
+        {"step": 3, "text": "Quickly dip apples in hot candy mixture, tilting pan to coat. Place on greased waxed paper to cool."}
+      ],
+      "temperature": "300°F (hard crack stage)",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["dessert", "candy", "apple", "halloween", "fair-food"],
+      "confidence": {"overall": "medium", "flags": ["Recipe partially visible, instructions inferred"]},
+      "image_refs": []
+    },
+    {
+      "id": "creamy-poached-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Poached Eggs",
+      "category": "mains",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Eggs poached in a creamy cheese sauce, served over toasted English muffins.",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "3-5 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "English muffins or bagels", "quantity": "2", "unit": "", "prep_note": "split"},
+        {"item": "shredded American cheese", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "cream cheese with chives", "quantity": "3", "unit": "oz", "prep_note": "cut up"},
+        {"item": "milk", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Toast muffins or bagels. In a medium skillet combine cheeses, milk, and 1/8 teaspoon pepper. Cook and stir over medium heat till cheeses melt."},
+        {"step": 2, "text": "Break 1 egg into a cup. Carefully slide egg into cheese mixture. Repeat with remaining eggs."},
+        {"step": 3, "text": "Cover; cook over medium-low heat for 3 to 5 minutes or to desired doneness."},
+        {"step": 4, "text": "Top each muffin or bagel half with an egg. Stir cheese mixture with a wire whisk. Spoon over eggs."}
+      ],
+      "temperature": "",
+      "pan_size": "medium skillet",
+      "notes": [],
+      "tags": ["breakfast", "eggs", "cheese", "fast", "brunch"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "poached-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Eggs",
+      "category": "mains",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Perfect poached eggs, with variations including classic Eggs Benedict.",
+      "servings_yield": "2 eggs per serving",
+      "prep_time": "",
+      "cook_time": "3-5 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "cooking oil or shortening", "quantity": "", "unit": "", "prep_note": "optional, for greasing"},
+        {"item": "instant chicken bouillon granules", "quantity": "1-2", "unit": "tsp", "prep_note": "optional"},
+        {"item": "eggs", "quantity": "2", "unit": "", "prep_note": "per serving"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Lightly grease a saucepan, if desired, using a 2-quart pan for 3 or 4 eggs or a 1-quart pan for 1 or 2 eggs. Add water to half-fill the pan; stir in bouillon granules, if desired. Bring water to boiling. Reduce heat to simmering (bubbles should begin to break the surface of the water)."},
+        {"step": 2, "text": "Break 1 egg into a measuring cup. Carefully slide egg into simmering water, holding the lip of the cup as close to the water as possible. Repeat with remaining eggs, allowing each egg an equal amount of space."},
+        {"step": 3, "text": "Simmer eggs, uncovered, for 3 to 5 minutes or to desired doneness. Remove with a slotted spoon. Season to taste with salt and pepper."}
+      ],
+      "temperature": "",
+      "pan_size": "1- to 2-quart saucepan",
+      "notes": [
+        "Poacher-cup directions: Grease each cup of an egg-poaching pan. Place poacher cups over the pan of boiling water (water should not touch bottoms of cups). Reduce heat to simmering. Break 1 egg into a measuring cup. Carefully slide egg into a poacher cup. Repeat with remaining eggs. Cover and cook for 4 to 6 minutes or to desired doneness. Run a knife around edges to loosen eggs. Invert poacher cups to remove eggs.",
+        "Eggs Benedict: Before poaching eggs, split 2 English muffins. Place muffin halves and 8 slices Canadian-style bacon on a baking sheet. Bake in a 350° oven for 10 to 15 minutes or till muffins are toasted and bacon is hot. Keep warm. Place 4 poached eggs in a large pan of warm water to keep warm while preparing half a recipe of Hollandaise Sauce. To serve, top each muffin half with 2 slices of bacon and an egg; spoon sauce over eggs. Sprinkle with paprika and garnish with orange slices and parsley, if desired. Serves 4."
+      ],
+      "tags": ["breakfast", "eggs", "poached", "brunch", "eggs-benedict"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
