@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 808
+    "total_recipes": 810
   },
   "recipes": [
     {
@@ -61517,6 +61517,80 @@
       "tags": ["burritos", "beans", "cheese", "mexican", "tex-mex", "vegetarian"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5325 Large.jpeg"]
+    },
+    {
+      "id": "marinated-salmon-steaks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Salmon Steaks",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 167",
+      "description": "Salmon or halibut steaks marinated in a tangy lemon and herb mixture, then grilled or broiled.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "8-12 minutes",
+      "total_time": "2 hours 30 minutes (including marinating)",
+      "ingredients": [
+        {"item": "fresh or frozen salmon or halibut steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "green onions", "quantity": "1/3", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "lemon juice or lime juice", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil or olive oil", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon-pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "dried rosemary or thyme", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut steaks into serving-size portions."},
+        {"step": 2, "text": "For marinade, in a shallow dish combine onion, lemon or lime juice, oil, Worcestershire sauce, lemon-pepper, rosemary or thyme, and garlic."},
+        {"step": 3, "text": "Add fish to marinade, turning to coat. Cover and marinate in refrigerator for 2 hours, turning occasionally."},
+        {"step": 4, "text": "Drain fish, reserving marinade. Place fish on greased unheated rack of broiler pan. Broil 4 inches from heat for 5 minutes. Brush with marinade."},
+        {"step": 5, "text": "Turn fish over. Brush with marinade. Broil 3 to 7 minutes more or till fish flakes easily with a fork."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Marked as EASY in cookbook",
+        "Grill directions: Marinate the fish as above. Drain fish, reserving marinade. Place fish steaks on a greased grill rack. Grill, uncovered, directly over medium-hot coals for 5 minutes. Using a wide spatula, carefully turn fish over. Brush with marinade. Grill for 3 to 7 minutes more or till fish flakes easily with a fork."
+      ],
+      "tags": ["salmon", "halibut", "fish", "seafood", "grilled", "broiled", "marinated", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5329 Large.jpeg"]
+    },
+    {
+      "id": "herbed-sauce-for-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herbed Sauce for Fish",
+      "category": "sauces",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 167",
+      "description": "A quick herbed butter sauce to brush over fish during baking or broiling.",
+      "servings_yield": "1/4 cup sauce (enough for 1 pound fillets)",
+      "prep_time": "5 minutes",
+      "cook_time": "2 minutes",
+      "total_time": "7 minutes",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried dillweed, basil, rosemary, or oregano", "quantity": "1/2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "pepper", "quantity": "1", "unit": "dash", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan melt margarine or butter."},
+        {"step": 2, "text": "Stir in lemon juice, dried herb of choice (crushed), and pepper."},
+        {"step": 3, "text": "Brush over fish during baking or broiling (see fish cooking chart, page 185)."}
+      ],
+      "temperature": "",
+      "pan_size": "small saucepan",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "Choose your herb based on the fish: dillweed pairs well with salmon, basil with white fish, rosemary with heartier fish"
+      ],
+      "tags": ["sauce", "fish", "seafood", "butter-sauce", "herb", "quick", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5329 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
