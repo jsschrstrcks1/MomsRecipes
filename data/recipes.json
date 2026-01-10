@@ -40193,7 +40193,7 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": ["IMG_5166 Large.jpeg"]
     },
     {
       "id": "chocolate-fudge-classic",
@@ -40297,7 +40297,7 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": ["IMG_5167 Large.jpeg"]
     },
     {
       "id": "candy-apples-classic",
@@ -40393,7 +40393,9 @@
         "flags": []
       },
       "image_refs": [
-        "IMG_5168 Large.jpeg"
+        "IMG_5167 Large.jpeg",
+        "IMG_5168 Large.jpeg",
+        "IMG_5169 Large.jpeg"
       ]
     },
     {
@@ -62992,6 +62994,54 @@
       "tags": ["cookies", "christmas", "holiday", "snowmen", "decorated", "oatmeal", "dessert"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5165 Large.jpeg"]
+    },
+    {
+      "id": "cookie-chalets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cookie Chalets",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Good Housekeeping cookbook, page 353",
+      "description": "Tiny house-shaped spiced cookies decorated with almond roofs and red-hot cinnamon doors.",
+      "servings_yield": "24 cookies",
+      "prep_time": "30 minutes",
+      "cook_time": "6 minutes",
+      "total_time": "3 hours (including refrigeration)",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "shortening", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "light molasses", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "3/4", "unit": "tsp", "prep_note": ""},
+        {"item": "baking powder", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "ground ginger", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "baking soda", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground cloves", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "sliced blanched almonds", "quantity": "", "unit": "", "prep_note": "for decoration"},
+        {"item": "cinnamon red-hot candies", "quantity": "", "unit": "", "prep_note": "for decoration"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Into large bowl, measure all the ingredients except almonds and candies. With mixer at low speed, beat ingredients until well blended, occasionally scraping bowl with rubber spatula. Shape the dough into a ball, wrap with plastic wrap or foil and refrigerate 1 hour or until dough is firm enough to handle. (Or, place dough in freezer 30 minutes.)"},
+        {"step": 2, "text": "Meanwhile, from cardboard, with scissors, cut a 2-1/2\" by 1-1/2\" house-shaped pattern."},
+        {"step": 3, "text": "On lightly floured surface with lightly floured rolling pin, gently roll out half of dough to 1/4-inch thick."},
+        {"step": 4, "text": "Using pattern, cut as many cookie houses as possible. With pancake turner, place cookies on ungreased cookie sheet, about 1/2 inch apart."},
+        {"step": 5, "text": "Press almonds along top of each cookie to resemble a roof."},
+        {"step": 6, "text": "Press cinnamon red-hot candies into each cookie to resemble a door. Bake cookies 5 to 6 minutes or until set (do not overbake or candies will melt). With pancake turner or metal spatula, remove cookies to wire racks to cool. Repeat with the remaining dough, trimmings, almonds, and candies. Store cookies in tightly-covered container to use up within 1 week."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "cookie sheets",
+      "notes": [
+        "125 cals per cookie",
+        "Begin 3 hrs before serving",
+        "These tiny houses are fun to decorate with almond roofs and red-hot cinnamon doors"
+      ],
+      "tags": ["cookies", "christmas", "holiday", "spiced", "molasses", "gingerbread", "decorated", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5166 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
