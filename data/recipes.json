@@ -58700,6 +58700,445 @@
       "tags": ["spread", "strawberry", "butter", "breakfast"],
       "confidence": {"overall": "medium", "flags": ["Instructions incomplete - recipe continued on next page"]},
       "image_refs": []
+    },
+    {
+      "id": "lemon-pudding-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Pudding Cake",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Tastes like lemon meringue pie.",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "finely shredded lemon peel", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine", "quantity": "2", "unit": "tbsp", "prep_note": "melted"},
+        {"item": "egg yolks", "quantity": "2", "unit": "", "prep_note": "slightly beaten"},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "egg whites", "quantity": "2", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Combine sugar and flour. Stir in lemon peel, juice, and melted margarine. Combine yolks and milk. Add to flour mixture; stir just till combined."},
+        {"step": 2, "text": "Beat egg whites till stiff peaks form (tips stand straight). Gently fold egg whites into lemon batter."},
+        {"step": 3, "text": "Transfer batter to a 1-quart casserole. Place in a larger pan on oven rack. Add hot water to larger pan to a depth of 1 inch."},
+        {"step": 4, "text": "Bake in a 350° oven about 40 minutes or till golden and top springs back. Serve warm."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "1-quart casserole",
+      "notes": [],
+      "tags": ["dessert", "lemon", "pudding", "cake"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-mousse-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate-Mousse Cake",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich chocolate mousse cake with a pecan-graham crust.",
+      "servings_yield": "Serves 16",
+      "prep_time": "",
+      "cook_time": "55 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "toasted pecans", "quantity": "1", "unit": "cup", "prep_note": "coarsely ground"},
+        {"item": "graham cracker crumbs", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": "melted"},
+        {"item": "sugar", "quantity": "2", "unit": "tbsp", "prep_note": "for crust"},
+        {"item": "semisweet chocolate", "quantity": "16", "unit": "oz", "prep_note": "cut up"},
+        {"item": "whipping cream", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "eggs", "quantity": "6", "unit": "", "prep_note": "beaten"},
+        {"item": "sugar", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1/3", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For crust, combine ground nuts, cracker crumbs, margarine, and the 2 tablespoons sugar. Press onto bottom and about 1 1/4 inches up sides of a greased 9-inch springform pan. Set aside."},
+        {"step": 2, "text": "Cook and stir chocolate and cream over low heat till chocolate melts. Transfer to a large bowl."},
+        {"step": 3, "text": "Combine eggs, the 3/4 cup sugar, and flour; beat 10 minutes or till thick and lemon colored."},
+        {"step": 4, "text": "Fold one-fourth of the egg mixture into the chocolate mixture, then fold chocolate mixture into remaining egg mixture. Pour into crust-lined pan."},
+        {"step": 5, "text": "Bake in a 325° oven 55 minutes or till puffed around edge and halfway to center (center will be slightly soft). Cool 20 minutes. Remove sides of pan. Cool for 4 hours. Serve with whipped cream, if desired. Chill leftovers."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "9-inch springform pan",
+      "notes": [],
+      "tags": ["dessert", "chocolate", "mousse", "cake"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "plum-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Plum Pudding",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Traditional English steamed pudding with dried fruits and spices, served with Hard Sauce.",
+      "servings_yield": "Makes 8 to 10 servings",
+      "prep_time": "",
+      "cook_time": "2 1/2 to 3 hours",
+      "total_time": "",
+      "ingredients": [
+        {"item": "white bread", "quantity": "3", "unit": "slices", "prep_note": "torn into pieces"},
+        {"item": "evaporated milk", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "beef suet or shortening", "quantity": "1/3", "unit": "cup", "prep_note": "ground"},
+        {"item": "packed brown sugar", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "finely shredded orange peel", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "orange juice or rum", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "raisins", "quantity": "1 1/2", "unit": "cups", "prep_note": ""},
+        {"item": "snipped pitted whole dates", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "diced mixed candied fruits and peels", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "chopped walnuts", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "1 1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "baking soda", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground cloves", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "ground mace or nutmeg", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "rum", "quantity": "1/4", "unit": "cup", "prep_note": "optional, for flambé"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl soak the bread in evaporated milk about 3 minutes or till softened. Beat lightly to break up. Stir in suet or shortening, brown sugar, egg, orange peel, and orange juice. Stir in raisins, dates, fruits and peels, and nuts."},
+        {"step": 2, "text": "Stir together flour, cinnamon, baking soda, cloves, and mace. Add to fruit mixture; stir till combined."},
+        {"step": 3, "text": "Transfer mixture to a well-greased 6-cup tower mold. Cover with foil, pressing foil tightly against the rim of mold."},
+        {"step": 4, "text": "Place on a rack in a deep kettle. Add boiling water till water reaches 1 inch above the bottom of the mold. Cover kettle. Bring to a gentle boil. Steam for 2 1/2 to 3 hours or till a toothpick inserted near center comes out clean, adding more boiling water, if necessary."},
+        {"step": 5, "text": "Cool 10 minutes; remove mold. Serve immediately. (Or, wrap and store in the refrigerator up to 2 weeks; reheat before serving.) If desired, heat rum till hot. Ignite with a match and pour over pudding. Serve with Hard Sauce."}
+      ],
+      "temperature": "",
+      "pan_size": "6-cup tower mold",
+      "notes": [
+        "To reheat: Wrap pudding in foil and place on a baking sheet. Bake in a 350° oven for 30 to 40 minutes or till heated through."
+      ],
+      "tags": ["dessert", "pudding", "steamed", "christmas", "english", "holiday"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "vanilla-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vanilla Pudding",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich and creamy homemade pudding.",
+      "servings_yield": "Makes 6 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "cornstarch or all-purpose flour", "quantity": "3 tbsp or 1/3 cup", "unit": "", "prep_note": ""},
+        {"item": "milk", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "egg yolks or whole eggs", "quantity": "4 yolks or 2 eggs", "unit": "", "prep_note": "beaten"},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1 1/2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy medium saucepan combine sugar and cornstarch or flour. Stir in milk. Cook and stir over medium heat till mixture is thickened and bubbly. Cook and stir for 2 minutes more."},
+        {"step": 2, "text": "Remove from heat. Gradually stir about 1 cup of the hot mixture into beaten egg yolks or eggs."},
+        {"step": 3, "text": "Return all of the egg mixture to the saucepan. If using egg yolks, bring to a gentle boil; if using whole eggs, cook till nearly bubbly, but do not boil. Reduce heat. Cook and stir for 2 minutes more."},
+        {"step": 4, "text": "Remove from heat. Stir in margarine and vanilla. Pour pudding into a bowl. Cover the surface with clear plastic wrap. Chill. Do not stir."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 1 1/2-quart casserole combine sugar and flour or cornstarch. Stir in milk. Micro-cook, uncovered, on 100% power (high) for 8 to 10 minutes or till thickened and bubbly, stirring every 2 minutes till slightly thickened, then every 30 seconds. Cook for 1 minute more. Gradually stir about 1 cup of the hot mixture into beaten egg yolks or eggs. Return all the egg mixture to casserole. Cook on high for 1 to 2 minutes or till bubbly around the edges, stirring every 30 seconds. Cook for 30 seconds more. Stir in margarine and vanilla. Cover the surface with clear plastic wrap. Chill. Do not stir.",
+        "Chocolate Pudding: Prepare as above, except add 1/3 cup unsweetened cocoa powder to sugar. Use 2 tablespoons cornstarch or 1/4 cup all-purpose flour, 2 2/3 cups milk, and egg yolks (not whole eggs).",
+        "Tangy Vanilla Pudding: Prepare as above, except omit margarine or butter. After chilling, stir in one 8-ounce carton dairy sour cream or plain yogurt.",
+        "Brandied Pudding: Prepare as above, except substitute 1 to 2 tablespoons brandy, amaretto, coffee liqueur, or orange liqueur for vanilla.",
+        "Cover the pudding with plastic wrap to prevent a skin from forming on its surface."
+      ],
+      "tags": ["dessert", "pudding", "vanilla", "homemade"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "cream-puffs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Puffs",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Light, airy pastry shells filled with pudding, whipped cream, or ice cream.",
+      "servings_yield": "Makes 10",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "water", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": ""},
+        {"item": "pudding, whipped cream, ice cream, sherbet, or fresh fruit", "quantity": "", "unit": "", "prep_note": "for filling"},
+        {"item": "powdered sugar", "quantity": "", "unit": "", "prep_note": "optional, for topping"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan combine margarine or butter, 1 cup water, and 1/4 teaspoon salt. Bring to boiling."},
+        {"step": 2, "text": "Add flour all at once, stirring vigorously. Cook and stir till mixture forms a ball that doesn't separate. Remove from heat. Cool 10 minutes."},
+        {"step": 3, "text": "Add eggs, one at a time, beating with a wooden spoon after each addition till smooth."},
+        {"step": 4, "text": "Drop batter by heaping tablespoonfuls, 3 inches apart, onto a greased baking sheet."},
+        {"step": 5, "text": "Bake in a 400° oven for 30 to 35 minutes or till golden. Cool on a wire rack."},
+        {"step": 6, "text": "Split puffs and remove any soft dough from inside. Fill with the pudding, whipped cream, ice cream, sherbet, or fruit. Replace tops. Lightly sift powdered sugar over tops, if desired."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Éclairs: Prepare as above, except spoon batter into a pastry tube fitted with a Number 10 or larger tip. Slowly pipe strips of batter onto a greased baking sheet, making each strip about 4 inches long, 3/4 inch wide, and 1 inch high. Bake, split, and cool as above. Fill with pudding or whipped cream. Frost with Chocolate Glaze. Makes 12."
+      ],
+      "tags": ["dessert", "pastry", "cream-puff", "french", "choux"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-pots-de-creme",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Pots de Crème",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Savor pot de crème (poh-duh-KREM), a very rich dessert, in small portions.",
+      "servings_yield": "Makes 4 or 6 servings",
+      "prep_time": "",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "light cream", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "German sweet chocolate", "quantity": "4", "unit": "oz", "prep_note": "coarsely chopped"},
+        {"item": "sugar", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "egg yolks", "quantity": "3", "unit": "", "prep_note": "beaten"},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "whipped cream", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy small saucepan combine light cream, chocolate, and sugar. Cook and stir over medium heat about 10 minutes or till mixture comes to a full boil and thickens."},
+        {"step": 2, "text": "Gradually stir about half of the hot mixture into beaten egg yolks; return yolk mixture to saucepan. Cook and stir over low heat for 2 minutes more."},
+        {"step": 3, "text": "Remove from heat. Stir in vanilla. Pour into 4 or 6 pot de crème cups or small dessert dishes."},
+        {"step": 4, "text": "Cover and chill for 2 to 24 hours. Serve with whipped cream, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "pot de crème cups",
+      "notes": [],
+      "tags": ["dessert", "chocolate", "french", "custard", "make-ahead"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "cream-cheese-hearts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Cheese Hearts",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "End a meal in style with these creamy, rich treats.",
+      "servings_yield": "Serves 6 or 8",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "cheesecloth squares", "quantity": "6-8", "unit": "6-inch", "prep_note": ""},
+        {"item": "cream cheese", "quantity": "8", "unit": "oz", "prep_note": "softened"},
+        {"item": "vanilla or almond or lemon extract", "quantity": "1/2 tsp or few drops", "unit": "", "prep_note": ""},
+        {"item": "sifted powdered sugar", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "whipping cream", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "Fruit Sauce or fresh fruit", "quantity": "", "unit": "", "prep_note": "for serving"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Line six 1/2-cup or eight 1/3-cup heart-shape or other molds with damp cheesecloth squares, allowing the cheesecloth to hang over edges."},
+        {"step": 2, "text": "Beat cream cheese and vanilla with an electric mixer on medium speed till combined. Gradually add powdered sugar, beating till fluffy. Set aside."},
+        {"step": 3, "text": "In another bowl beat whipping cream till soft peaks form. Fold into the cream cheese mixture."},
+        {"step": 4, "text": "Spoon into the prepared molds. Cover and chill for 6 to 24 hours."},
+        {"step": 5, "text": "To serve, invert molds onto a serving plate. Holding onto cheesecloth ends, lift molds from cheesecloth. Peel cheesecloth from shapes. Serve with Fruit Sauce or fruit."}
+      ],
+      "temperature": "",
+      "pan_size": "heart-shape molds",
+      "notes": [],
+      "tags": ["dessert", "cream-cheese", "molded", "romantic", "valentine"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "baked-custards",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Custards",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic creamy baked custard, served warm or chilled.",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "30-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "eggs", "quantity": "3", "unit": "", "prep_note": "beaten"},
+        {"item": "milk", "quantity": "1 1/2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg or cinnamon", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Combine eggs, milk, sugar, and vanilla. Beat till well combined but not foamy."},
+        {"step": 2, "text": "Place four 6-ounce custard cups or one 3 1/2-cup soufflé dish in an 8x8x2-inch baking dish on an oven rack. Pour egg mixture into custard cups or dish. Sprinkle with nutmeg or cinnamon, if desired."},
+        {"step": 3, "text": "Pour boiling water into the baking dish around custard cups or dish to a depth of 1 inch."},
+        {"step": 4, "text": "Bake in a 325° oven for 30 to 45 minutes for custard cups (50 to 60 minutes for dish) or till a knife inserted near the center or centers comes out clean."},
+        {"step": 5, "text": "Serve warm or chilled. If desired, loosen edges of individual custards with a spatula or knife, slipping point of spatula down sides to let air in; invert onto dessert plates."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "custard cups or soufflé dish",
+      "notes": [
+        "Microwave directions: In a 4-cup measure micro-cook milk, sugar, and vanilla, uncovered, on 100% power (high) for 3 to 5 minutes or till steaming and foamy but not boiling, stirring once. Stir milk mixture into beaten eggs. Pour into the custard cups in the baking dish. (Do not use soufflé dish.) Pour 2 1/2 cups boiling water into the baking dish around the custard cups. Cook, uncovered, on high for 3 minutes, giving the dish a quarter-turn every minute. Rotate cups. Cook for 1 to 3 minutes more or till edges are set but centers still quiver. After 1 minute, check for doneness every 15 seconds, turning custards as necessary. Remove each when done.",
+        "Caramel Flan: Prepare as above, except in a heavy saucepan cook 1/3 cup sugar over medium-high heat (do not stir) till sugar begins to melt; shake saucepan occasionally. Reduce heat to low and cook till sugar is golden brown; stir frequently. Divide sugar mixture among custard cups. Tilt to coat bottoms. Let stand for 10 minutes. Add egg mixture. Bake individual custards as above. Remove from custard cups to serve.",
+        "Baked Rice Pudding: Prepare as above, except stir 1 cup cooked rice and 1/3 cup raisins into egg mixture. Pour into a 1 1/4-quart casserole. Bake as above for 45 to 55 minutes, stirring after 30 minutes. Makes 6 servings. Do not use the microwave directions."
+      ],
+      "tags": ["dessert", "custard", "baked", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "bread-pudding-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bread Pudding",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic comfort dessert with dried bread cubes and raisins.",
+      "servings_yield": "Makes 6 servings",
+      "prep_time": "",
+      "cook_time": "35-40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": "beaten"},
+        {"item": "milk", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "dry bread cubes", "quantity": "3", "unit": "cups", "prep_note": "about 4 slices"},
+        {"item": "raisins or other snipped dried fruit", "quantity": "1/2", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl beat together eggs, milk, sugar, cinnamon, and vanilla."},
+        {"step": 2, "text": "Place dry bread cubes in an 8x1 1/2-inch round baking dish. Sprinkle raisins or dried fruit over bread. Pour egg mixture over all."},
+        {"step": 3, "text": "Bake in a 325° oven for 35 to 40 minutes or till a knife inserted near the center comes out clean. Cool slightly. Serve warm with Whiskey Sauce, if desired."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "8x1 1/2-inch round baking dish",
+      "notes": [
+        "To dry bread cubes, bake them in a 300° oven about 15 minutes. Or, cut toasted bread slices into 1-inch cubes.",
+        "Coconut Bread Pudding: Prepare as above, except sprinkle 1/4 cup coconut over the raisins or dried fruit."
+      ],
+      "tags": ["dessert", "pudding", "bread", "comfort-food"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "stirred-custard",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stirred Custard",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Serve this custard as a rich sauce over fresh fruit or cake.",
+      "servings_yield": "Makes 3 cups (6 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "eggs", "quantity": "3", "unit": "", "prep_note": "beaten"},
+        {"item": "milk or light cream", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "sponge cake or fresh fruit", "quantity": "", "unit": "", "prep_note": "for serving"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy medium saucepan combine eggs, milk or light cream, and sugar. Cook and stir over medium heat. Continue cooking egg mixture till it just coats a metal spoon."},
+        {"step": 2, "text": "Remove from heat. Stir in vanilla. Quickly cool the custard by placing the saucepan in a sink or bowl of ice water for 1 to 2 minutes, stirring constantly."},
+        {"step": 3, "text": "Pour custard mixture into a bowl. Cover surface with clear plastic wrap. Chill till serving time. Serve over cake slices or fruit."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Amaretto Stirred Custard: Prepare as above, except substitute 2 to 3 tablespoons amaretto, orange liqueur, coffee liqueur, rum, or brandy for the vanilla."
+      ],
+      "tags": ["dessert", "custard", "sauce"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "stirred-rice-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stirred Rice Pudding",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Creamy stovetop rice pudding with raisins.",
+      "servings_yield": "Serves 5 or 6",
+      "prep_time": "",
+      "cook_time": "30-40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "milk", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "long grain rice", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "raisins", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy medium saucepan bring milk to boiling; stir in uncooked rice and raisins."},
+        {"step": 2, "text": "Cover; cook over low heat, stirring occasionally, for 30 to 40 minutes or till most of the milk is absorbed. (Mixture may appear curdled.)"},
+        {"step": 3, "text": "Stir in sugar and vanilla. Spoon into dessert dishes. Sprinkle with nutmeg. Serve warm or chilled."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["dessert", "pudding", "rice", "comfort-food"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "trifle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Trifle",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Save a step and use a bakery sponge cake or ladyfingers for the base.",
+      "servings_yield": "Serves 8",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "Stirred Custard", "quantity": "", "unit": "", "prep_note": "see recipe"},
+        {"item": "Hot-Milk Sponge Cake or bakery sponge cake", "quantity": "5", "unit": "cups cubed", "prep_note": ""},
+        {"item": "cream sherry or brandy", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "strawberry preserves or currant jelly", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "cut-up peeled peaches, kiwi, strawberries, raspberries, or blueberries", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "toasted sliced almonds", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "whipping cream", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Prepare Stirred Custard and cool. Cut cake into 1-inch cubes (you should have 5 cups). Reserve remaining cake for another use."},
+        {"step": 2, "text": "In a 2-quart serving bowl layer half of the cake cubes. Sprinkle with half of the sherry. Dot with half of the preserves. Top with half of the fruit and half of the almonds. Pour half of the Stirred Custard over all."},
+        {"step": 3, "text": "Repeat layers. Cover and chill for 3 to 24 hours."},
+        {"step": 4, "text": "To serve, beat whipping cream, sugar, and vanilla till soft peaks form. Spread over trifle."}
+      ],
+      "temperature": "",
+      "pan_size": "2-quart serving bowl",
+      "notes": [
+        "Shortcut Trifle: Prepare as above, except substitute one 4-serving-size package instant vanilla pudding mix, prepared according to package directions, for the Stirred Custard; one 3-ounce package (12) ladyfingers for the cake; and half of a 4-ounce container frozen whipped dessert topping, thawed, for the whipping cream, sugar, and vanilla. Chill up to 4 hours."
+      ],
+      "tags": ["dessert", "trifle", "english", "layered", "make-ahead"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
