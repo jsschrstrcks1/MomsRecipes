@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 817
+    "total_recipes": 821
   },
   "recipes": [
     {
@@ -61858,6 +61858,160 @@
       "tags": ["cod", "fish", "seafood", "smoked", "grilled", "dill", "wood-smoked"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5331 Large.jpeg"]
+    },
+    {
+      "id": "fish-with-beer-cheese-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish with Beer-Cheese Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Baked fish fillets topped with a creamy beer and American cheese sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets or steaks", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "milk", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "shredded American cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "beer", "quantity": "1/3", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Place fish in a greased baking dish. Bake in a 450°F oven till fish flakes easily with a fork (allow 4 to 6 minutes per 1/2-inch thickness, tucking under thin edges)."},
+        {"step": 3, "text": "Meanwhile, for sauce, cook green onion in margarine till tender. Stir in flour."},
+        {"step": 4, "text": "Add milk all at once. Cook and stir till thickened and bubbly. Cook 1 minute more."},
+        {"step": 5, "text": "Add cheese and beer. Cook and stir till cheese melts. Spoon sauce over fish."}
+      ],
+      "temperature": "450°F (230°C)",
+      "pan_size": "baking dish",
+      "notes": [
+        "Marked as FAST in cookbook"
+      ],
+      "tags": ["fish", "seafood", "cheese", "beer", "sauce", "baked", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "citrus-baked-halibut",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Citrus Baked Halibut",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Baked halibut steaks topped with a citrus and herb mixture.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen halibut steaks", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "onion", "quantity": "1/4", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "1-1/2", "unit": "tbsp", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon peel", "quantity": "1/2", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "orange juice", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "dried dillweed", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Arrange in an 8x8-inch baking dish."},
+        {"step": 2, "text": "Cook onion and garlic in margarine till tender. Stir in parsley, lemon peel, and orange juice."},
+        {"step": 3, "text": "Spread mixture over fish. Sprinkle with dillweed."},
+        {"step": 4, "text": "Bake in a 400°F oven for 15 to 20 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "8x8-inch baking dish",
+      "notes": [
+        "Microwave directions: Arrange fish in an 8x8x2-inch microwave-safe baking dish. Cook onion, garlic, and margarine on 100% power (high) for 1 to 2 minutes. Stir in parsley, lemon peel, and orange juice. Spread over fish. Sprinkle with dillweed. Cover with vented plastic wrap. Cook on high for 7 to 9 minutes, giving dish a half-turn once."
+      ],
+      "tags": ["halibut", "fish", "seafood", "citrus", "orange", "lemon", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "fish-potpies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish Potpies",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Individual fish potpies with vegetables and Swiss cheese in marinara sauce, topped with pastry.",
+      "servings_yield": "4 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen haddock, cod, or orange roughy fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "marinara sauce", "quantity": "15", "unit": "oz", "prep_note": "1 can"},
+        {"item": "frozen mixed vegetables", "quantity": "1", "unit": "cup", "prep_note": "thawed"},
+        {"item": "shredded carrot", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "shredded Swiss cheese", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "chopped pimiento", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "refrigerated pie crust", "quantity": "1/2", "unit": "", "prep_note": "of a 15 oz package"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. In saucepan combine marinara sauce, vegetables, carrot, cheese, parsley, and pimiento. Cook and stir till thickened and bubbly."},
+        {"step": 2, "text": "Cut fish into four pieces; stir into cheese mixture."},
+        {"step": 3, "text": "Spoon into four greased 8 or 10-ounce casseroles."},
+        {"step": 4, "text": "Cut pastry into 4 wedges. Place one pastry wedge on each casserole. Trim to fit. Cut slits into pastry."},
+        {"step": 5, "text": "Place on a baking sheet. Bake in a 400°F oven for 20 to 25 minutes or till golden brown. Let stand 10 minutes before serving."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "four 8-10 oz individual casseroles",
+      "notes": [],
+      "tags": ["fish", "seafood", "potpie", "casserole", "pastry", "comfort-food"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "fish-stacks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish Stacks",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Fish fillets topped with creamy vegetable mixture and crescent roll dough.",
+      "servings_yield": "4 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "frozen fish fillets", "quantity": "16", "unit": "oz", "prep_note": "1 package, thawed"},
+        {"item": "chopped onion", "quantity": "1", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "shredded carrot", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sliced fresh mushrooms", "quantity": "1", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "soft-style cream cheese", "quantity": "4", "unit": "oz", "prep_note": "half of an 8 oz container"},
+        {"item": "dried dillweed", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "refrigerated crescent rolls", "quantity": "1", "unit": "package", "prep_note": "8 oz"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish fillets. Cut into 4x3-inch portions. Place in a shallow baking dish."},
+        {"step": 2, "text": "Cook onion, carrot, and mushrooms in margarine, covered, about 5 minutes. Uncover; simmer 2 to 4 minutes more or till excess liquid evaporates."},
+        {"step": 3, "text": "Remove from heat. Stir in cream cheese, dillweed, and pepper. Spoon vegetable mixture over each fish portion."},
+        {"step": 4, "text": "Separate crescent rolls into 2 rectangles. Pinch perforations to seal. Cut each rectangle in half."},
+        {"step": 5, "text": "Place one rectangle atop each fish portion. Brush dough with milk, if desired."},
+        {"step": 6, "text": "Bake in a 350°F oven for 20 to 25 minutes or till fish is done and dough is golden."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "shallow baking dish",
+      "notes": [
+        "The cream cheese and vegetable topping keeps the fish moist"
+      ],
+      "tags": ["fish", "seafood", "cream-cheese", "crescent-rolls", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
