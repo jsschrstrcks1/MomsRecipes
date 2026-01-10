@@ -59454,6 +59454,291 @@
       "tags": ["dessert", "ice-cream", "chocolate", "no-churn", "easy"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "fruit-sauce-dessert",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Sweeten to taste with 1 to 2 tablespoons sugar. Serve over ice cream, cake, cheesecake, or crepes.",
+      "servings_yield": "Makes 1 1/2 cups (6 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "finely shredded orange peel", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "orange juice", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "canned or frozen fruit", "quantity": "8-10", "unit": "oz", "prep_note": "apricot halves, cherries, fruit cocktail, peach slices, pear slices, pineapple, raspberries, strawberries"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan mix orange peel, orange juice, cornstarch, and cinnamon. Stir in undrained fruit."},
+        {"step": 2, "text": "Cook and stir till bubbly. Cook and stir 2 minutes more. Serve over ice cream, cake, cheesecake, or crepes."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 4-cup measure mix orange peel and juice, cornstarch, and cinnamon. Stir in undrained fruit. Micro-cook, uncovered, on 100% power (high) for 3 to 5 minutes or till bubbly; stir every minute till slightly thickened, then every 30 seconds. Cook 30 seconds more."
+      ],
+      "tags": ["sauce", "fruit", "dessert-topping"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "orange-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Orange Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Tastes great with gingerbread or ice cream.",
+      "servings_yield": "Makes 3/4 cup (serves 4 to 6)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "finely shredded orange peel", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "orange juice", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan combine sugar, cornstarch, and orange peel. Stir in orange juice. Cook and stir till thickened and bubbly."},
+        {"step": 2, "text": "Cook and stir 2 minutes more. Remove from heat; stir in margarine or butter. Serve warm."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 2-cup measure mix sugar, cornstarch, and orange peel. Stir in orange juice. Micro-cook, uncovered, on 100% power (high) for 2 to 3 minutes or till bubbly; stir once. Stir in margarine. Serve warm.",
+        "Lemon Sauce: Prepare as above, except substitute lemon peel for the orange peel and 1/2 cup water plus 1 tablespoon lemon juice for the orange juice. Makes 2/3 cup (4 servings)."
+      ],
+      "tags": ["sauce", "orange", "dessert-topping"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "caramel-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich caramel sauce for ice cream, fruit, cheesecake, or cake.",
+      "servings_yield": "Makes 1 cup (8 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "packed brown sugar", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "water", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "light cream", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy saucepan mix sugar and cornstarch. Stir in 1/4 cup water. Stir in cream and corn syrup."},
+        {"step": 2, "text": "Cook and stir till bubbly (mixture may appear curdled). Cook and stir for 2 minutes more."},
+        {"step": 3, "text": "Remove from heat; stir in margarine and vanilla. Serve warm or cool over ice cream, fruit, cheesecake, or cake."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 2-cup measure mix sugar and cornstarch. Stir in 1/4 cup water, then cream and corn syrup. Micro-cook, uncovered, on 100% power (high) for 2 to 3 minutes or till bubbly, stirring every minute till slightly thickened, then every 30 seconds. Stir in margarine and vanilla. Serve as above."
+      ],
+      "tags": ["sauce", "caramel", "dessert-topping"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "hot-fudge-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Fudge Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich chocolate sauce for ice cream. To reheat 1/2 cup in your microwave oven, allow 15 to 30 seconds on high power.",
+      "servings_yield": "Makes about 1 1/2 cups (8 servings)",
+      "prep_time": "",
+      "cook_time": "8 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "semisweet chocolate pieces", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "evaporated milk", "quantity": "2/3", "unit": "cup", "prep_note": "5-oz can"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy small saucepan melt chocolate pieces and margarine or butter. Add the sugar; gradually stir in milk."},
+        {"step": 2, "text": "Bring to boiling, reduce heat. Boil gently over low heat for 8 minutes, stirring frequently."},
+        {"step": 3, "text": "Remove from heat. Serve warm over ice cream."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Peanut-Butter Fudge Sauce: Prepare as above, except, after cooking 8 minutes, stir in 1/4 cup peanut butter. Then remove from heat."
+      ],
+      "tags": ["sauce", "chocolate", "fudge", "dessert-topping"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "rhubarb-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rhubarb Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Sweet-tart rhubarb sauce for cake or ice cream.",
+      "servings_yield": "Makes 2 cups (8 servings)",
+      "prep_time": "",
+      "cook_time": "5 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1/2-2/3", "unit": "cup", "prep_note": ""},
+        {"item": "water", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "orange peel strip", "quantity": "1", "unit": "", "prep_note": "optional"},
+        {"item": "rhubarb", "quantity": "3", "unit": "cups", "prep_note": "1/2-inch slices"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan mix sugar, water, and, if desired, orange peel strip. Bring to boiling."},
+        {"step": 2, "text": "Add rhubarb slices. Reduce heat. Cover and simmer about 5 minutes or till rhubarb is tender."},
+        {"step": 3, "text": "Remove peel. Serve over cake or ice cream."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["sauce", "rhubarb", "dessert-topping", "spring"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "vanilla-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vanilla Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Delicious with fresh or poached fruit.",
+      "servings_yield": "Makes 1 1/2 cups (12 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "egg yolks", "quantity": "2", "unit": "", "prep_note": "beaten"},
+        {"item": "milk or light cream", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "whipping cream", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan combine yolks, milk, and sugar. Cook and stir till mixture is thickened and bubbly. Remove from heat. Cool, then chill."},
+        {"step": 2, "text": "To serve, whip cream and vanilla to soft peaks. Fold into yolk mixture."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["sauce", "vanilla", "dessert-topping", "custard"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "whiskey-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whiskey Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Southerners traditionally ladle this sauce over bread pudding.",
+      "servings_yield": "Makes 2/3 cup (8 servings)",
+      "prep_time": "",
+      "cook_time": "5-6 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "egg yolk", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "water", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "bourbon", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan melt margarine or butter. Stir in sugar, egg yolk, and water."},
+        {"step": 2, "text": "Cook and stir constantly over medium-low heat for 5 to 6 minutes or till sugar dissolves and mixture boils."},
+        {"step": 3, "text": "Remove from heat and stir in bourbon. Serve warm."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["sauce", "bourbon", "dessert-topping", "southern", "bread-pudding"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "whipped-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whipped Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Basic sweetened whipped cream for desserts.",
+      "servings_yield": "Makes 2 cups (8 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "whipping cream", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a chilled bowl combine whipping cream, sugar, and vanilla. Beat with chilled beaters of an electric mixer on medium speed till soft peaks form."},
+        {"step": 2, "text": "Serve with pie, fruit desserts, cake, cream puffs, and hot drinks."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Flavored Whipped Cream: Prepare as above, except add one of the following with the vanilla: 2 tablespoons unsweetened cocoa powder plus 1 tablespoon additional sugar; 2 tablespoons amaretto, coffee, hazelnut, orange, or praline liqueur; 1 teaspoon instant coffee crystals; 1/2 teaspoon almond extract; 1/4 teaspoon finely shredded lemon, orange, or lime peel; or 1/4 teaspoon ground cinnamon, nutmeg, or ginger."
+      ],
+      "tags": ["dessert", "whipped-cream", "topping", "basic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "hard-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hard Sauce",
+      "category": "sauces",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Traditionally served with steamed puddings and warm gingerbread.",
+      "servings_yield": "Makes 2/3 cup (10 to 12 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": "softened"},
+        {"item": "sifted powdered sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small mixer bowl beat together softened margarine or butter and powdered sugar with an electric mixer on medium speed for 3 to 5 minutes or till mixture is well combined."},
+        {"step": 2, "text": "Beat in vanilla. Spoon into serving bowl. Chill to harden."},
+        {"step": 3, "text": "Serve with plum pudding or warm gingerbread."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Brandy Hard Sauce: Prepare as above, except substitute 1 tablespoon brandy or rum for the vanilla.",
+        "Orange Hard Sauce: Prepare as above, except substitute 1/4 teaspoon finely shredded orange peel and 1 tablespoon orange juice or orange liqueur for the vanilla."
+      ],
+      "tags": ["sauce", "hard-sauce", "dessert-topping", "christmas", "gingerbread"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
