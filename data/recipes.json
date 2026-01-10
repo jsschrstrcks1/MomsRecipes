@@ -4,8 +4,8 @@
     "description": "A family collection of treasured recipes from Grandma Baker, MomMom Baker, and Granny Hudson - preserved with love",
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
-    "version": "3.0.1",
-    "total_recipes": 794
+    "version": "3.0.2",
+    "total_recipes": 840
   },
   "recipes": [
     {
@@ -60946,7 +60946,1850 @@
       ],
       "tags": ["pasta", "manicotti", "cheese", "italian", "stuffed"],
       "confidence": {"overall": "high", "flags": []},
-      "image_refs": []
+      "image_refs": ["IMG_5321 Large.jpeg"]
+    },
+    {
+      "id": "venison-pot-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Pot Roast",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 240",
+      "description": "A hearty braised venison roast with vegetables, perfect for wild game.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1.5-2 hours",
+      "total_time": "2-2.5 hours",
+      "ingredients": [
+        {"item": "venison shoulder or rump roast", "quantity": "2-3", "unit": "lb", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "onion", "quantity": "3/4", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "carrot", "quantity": "1/2", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "plain yogurt or beef bouillon", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "hot beef broth", "quantity": "1/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a Dutch oven brown meat on all sides in hot oil. Drain fat."},
+        {"step": 2, "text": "Add onion and carrot. Cover and simmer for 1-1/2 to 2 hours or till meat is tender."},
+        {"step": 3, "text": "Remove meat from pan. For sauce, stir flour into pan juices. Add broth. Cook and stir till thickened and bubbly."},
+        {"step": 4, "text": "Stir in yogurt. Heat through but do not boil. Slice meat and serve with sauce."}
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [
+        "Wild game tip: Venison can be gamey - marinating overnight helps mellow the flavor",
+        "Serve with mashed potatoes or egg noodles"
+      ],
+      "tags": ["venison", "game", "pot-roast", "braised", "wild-game"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5400 Large.jpeg"]
+    },
+    {
+      "id": "marinated-venison-chops",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Venison Chops",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 240",
+      "description": "Tender venison chops marinated in a savory oil and vinegar mixture.",
+      "servings_yield": "4 servings",
+      "prep_time": "6-24 hours (marinating)",
+      "cook_time": "7 minutes",
+      "total_time": "6-24 hours",
+      "ingredients": [
+        {"item": "venison chops or steaks", "quantity": "4", "unit": "", "prep_note": "single or 2 double, cut 3/4 inch thick (about 1-1/2 lb)"},
+        {"item": "cooking oil", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "vinegar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "2", "unit": "cloves", "prep_note": "minced"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "", "unit": "", "prep_note": "optional, for garnish"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Place chops or steaks in a plastic bag set into a shallow dish. For marinade, combine oil, vinegar, Worcestershire sauce, garlic, salt, and pepper."},
+        {"step": 2, "text": "Pour over meat; close bag. Marinate in refrigerator for 6 to 24 hours, turning bag occasionally."},
+        {"step": 3, "text": "Remove venison from bag, reserving marinade. Place meat on unheated rack of a broiler pan."},
+        {"step": 4, "text": "Broil 3 inches from heat for 7 minutes, turning and brushing with marinade once."},
+        {"step": 5, "text": "Garnish with snipped parsley if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Marinating tip: The meat stays in the marinade bag making it easy to turn and rearrange. Cleanup is easy too - just toss the bag.",
+        "For medium-rare, broil until internal temperature reaches 145°F"
+      ],
+      "tags": ["venison", "game", "chops", "marinated", "broiled", "wild-game"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5400 Large.jpeg"]
+    },
+    {
+      "id": "beer-braised-rabbit",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beer-Braised Rabbit",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 240",
+      "description": "Tender braised rabbit with potatoes, carrots, and a savory beer sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "35-45 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "domestic rabbit", "quantity": "2.5-3", "unit": "lb", "prep_note": "cut up"},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "medium potatoes", "quantity": "4", "unit": "", "prep_note": "quartered"},
+        {"item": "medium carrots", "quantity": "4", "unit": "", "prep_note": "cut into 1/2-inch pieces"},
+        {"item": "medium onion", "quantity": "1", "unit": "", "prep_note": "sliced and separated"},
+        {"item": "beer or apple juice", "quantity": "12", "unit": "oz", "prep_note": "1 can or 1-1/2 cups"},
+        {"item": "cold water", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "chili sauce", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a 12-inch skillet brown rabbit with salt and pepper in hot oil. Drain fat."},
+        {"step": 2, "text": "Add potatoes, carrots, and onion to skillet. Bring to boil."},
+        {"step": 3, "text": "Pour beer, chili sauce, and salt over rabbit and vegetables in skillet."},
+        {"step": 4, "text": "Cover and cook on high heat; reduce heat. Cover rabbit and vegetables and simmer for 35 to 45 minutes or till tender. Remove rabbit and vegetables."},
+        {"step": 5, "text": "For sauce, skim fat from pan juices. If necessary, add water to juices to equal 1-1/2 cups. Return to skillet."},
+        {"step": 6, "text": "Combine cold water and flour; stir into pan juices. Cook and stir till thickened and bubbly. Cook and stir for 1 minute more."},
+        {"step": 7, "text": "Serve sauce with rabbit and vegetables."}
+      ],
+      "temperature": "",
+      "pan_size": "12-inch skillet",
+      "notes": [
+        "Substitution: Apple juice can be used instead of beer for a family-friendly version",
+        "Rabbit is a lean, mild-tasting meat similar to chicken"
+      ],
+      "tags": ["rabbit", "game", "braised", "beer", "one-pot"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5400 Large.jpeg"]
+    },
+    {
+      "id": "veal-marsala",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Veal Marsala",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 220",
+      "description": "Classic Italian veal cutlets in a rich Marsala wine sauce with mushrooms.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "boneless veal leg top round steak or sirloin steak or pork tenderloin", "quantity": "1", "unit": "lb", "prep_note": "cut 1/4 inch thick"},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "sliced fresh mushrooms", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "dry sherry or dry Marsala", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "instant chicken bouillon granules", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "snipped fresh parsley", "quantity": "1", "unit": "tbsp", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cut veal into 4 pieces. With a meat mallet, pound each piece to 1/8 inch thickness. If desired, sprinkle with salt and pepper."},
+        {"step": 2, "text": "In a large skillet cook half of the veal over medium-high heat in hot oil about 1 tablespoon of the oil for 2 minutes, turning once. Remove from skillet; keep warm. Repeat with remaining veal and oil."},
+        {"step": 3, "text": "Add mushrooms to skillet. Cook and stir for 1 minute. Add sherry and bouillon granules. Bring to boiling."},
+        {"step": 4, "text": "Return veal to skillet. Heat through. Serve immediately. If desired, sprinkle with snipped parsley."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Variation: Pork tenderloin can be substituted for veal",
+        "For best results, pound the meat thin and cook quickly over high heat"
+      ],
+      "tags": ["veal", "marsala", "italian", "mushrooms", "wine-sauce", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5380 Large.jpeg"]
+    },
+    {
+      "id": "beef-fajitas",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beef Fajitas",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 220",
+      "description": "Sizzling beef strips with peppers and onions, served in warm tortillas with toppings.",
+      "servings_yield": "4 servings",
+      "prep_time": "6-24 hours (marinating)",
+      "cook_time": "15 minutes",
+      "total_time": "6-24 hours",
+      "ingredients": [
+        {"item": "boneless beef plate skirt steak or flank steak", "quantity": "3/4", "unit": "lb", "prep_note": ""},
+        {"item": "Italian salad dressing", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "Salsa", "quantity": "1/2", "unit": "cup", "prep_note": "(see recipe, page 368)"},
+        {"item": "lime or lemon juice", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "medium onion", "quantity": "1", "unit": "", "prep_note": "thinly sliced"},
+        {"item": "medium green or sweet red or yellow pepper", "quantity": "1", "unit": "", "prep_note": "cut into thin strips"},
+        {"item": "flour tortillas", "quantity": "8", "unit": "", "prep_note": "7-inch"},
+        {"item": "Guacamole", "quantity": "1", "unit": "cup", "prep_note": "(see recipe, page 13) or avocado dip"},
+        {"item": "dairy sour cream", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "shredded cheddar or Monterey Jack cheese", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "Salsa", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Partially freeze beef. Thinly slice across the grain into bite-size strips. Place strips in a plastic bag set into a deep bowl."},
+        {"step": 2, "text": "For marinade, in a mixing bowl stir together dressing, the 1/2 cup Salsa, lime juice, and Worcestershire sauce."},
+        {"step": 3, "text": "Pour over meat. Seal bag. Marinate in the refrigerator for 6 to 24 hours, stirring occasionally."},
+        {"step": 4, "text": "Wrap tortillas in foil. Seal bag. Meanwhile, in a 350° oven a large skillet on high heat, add oil. Cook and stir meat and onion for 1-1/2 minutes or till meat is no longer pink. Add pepper strips; cook about 1-1/2 minutes more."},
+        {"step": 5, "text": "Remove meat and vegetables from skillet. Add peppers and onion; cook and stir for 2 to 3 minutes or till crisp-tender."},
+        {"step": 6, "text": "Remove all beef and vegetables. Return all beef and vegetables to skillet. Add remaining beef and vegetables."},
+        {"step": 7, "text": "To serve, immediately fill tortillas with beef-vegetable mixture. If desired, add Guacamole, sour cream, cheese, and additional Salsa. Roll up."}
+      ],
+      "temperature": "350°F",
+      "pan_size": "large skillet",
+      "notes": [
+        "Tip: Partially freezing the beef makes it easier to slice thinly",
+        "For chicken fajitas, substitute 3/4 lb boneless skinless chicken breast",
+        "Serve with warm tortillas wrapped in foil in a 350° oven for 10 minutes"
+      ],
+      "tags": ["beef", "fajitas", "mexican", "tex-mex", "skillet", "tortillas"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5380 Large.jpeg"]
+    },
+    {
+      "id": "pastitsio",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pastitsio",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 250",
+      "description": "Classic Greek casserole with seasoned meat, pasta, and creamy béchamel sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "30-35 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {"item": "ground lamb, ground beef, or ground pork", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "tomato sauce", "quantity": "8", "unit": "oz", "prep_note": "1 can"},
+        {"item": "dry red wine", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried oregano", "quantity": "1/2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "ground cinnamon", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "elbow macaroni", "quantity": "1-1/2", "unit": "cups", "prep_note": "cooked and drained"},
+        {"item": "milk", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "eggs", "quantity": "3", "unit": "", "prep_note": "beaten individually"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "1/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large skillet cook meat, onion, and garlic till meat is brown. Drain fat. Stir in tomato sauce, wine, parsley, oregano, cinnamon, and salt."},
+        {"step": 2, "text": "Bring to boiling; reduce heat. Simmer for 10 minutes or till most of liquid is absorbed. Gradually stir mixture into one of the beaten eggs; set aside."},
+        {"step": 3, "text": "For sauce, in a medium saucepan heat margarine till melted. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."},
+        {"step": 4, "text": "Gradually stir half of the hot mixture into remaining 2 beaten eggs. Return all of the egg mixture to saucepan. Stir in Parmesan cheese."},
+        {"step": 5, "text": "To assemble Pastitsio, in an 8x8x2-inch baking dish layer half of the macaroni, all of the meat mixture, remaining macaroni, and all of the sauce."},
+        {"step": 6, "text": "Bake in a 350° oven for 30 to 35 minutes or till set. Let stand 5 minutes before serving."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "8x8x2-inch baking dish",
+      "notes": [
+        "Greek comfort food - similar to lasagna but with macaroni",
+        "Ground lamb is traditional but beef works well too",
+        "Can be assembled ahead and refrigerated; add 10-15 minutes to baking time if cold"
+      ],
+      "tags": ["greek", "casserole", "lamb", "beef", "pasta", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5410 Large.jpeg"]
+    },
+    {
+      "id": "tomato-juice-cocktail",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tomato Juice Cocktail",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 199 (Freezing & Canning section)",
+      "description": "Homemade tomato juice cocktail seasoned with celery, onion, and spices. Can be canned or frozen.",
+      "servings_yield": "Makes about 4 pints",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {"item": "ripe tomatoes", "quantity": "8", "unit": "lb", "prep_note": ""},
+        {"item": "chopped celery", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "prepared horseradish", "quantity": "1-2", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "bottled hot pepper sauce", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thoroughly wash tomatoes. Remove stems. Cut tomatoes into pieces. In an 8- or 10-quart kettle or Dutch oven combine tomatoes, celery, and onion."},
+        {"step": 2, "text": "Bring to boiling, stirring frequently. Cover and simmer about 15 minutes or till soft, stirring often."},
+        {"step": 3, "text": "Press through a food mill or sieve to extract juice. Discard solids. Return juice to kettle."},
+        {"step": 4, "text": "Stir in lemon juice, sugar, Worcestershire sauce, horseradish, salt, and hot pepper sauce. Bring to boiling."},
+        {"step": 5, "text": "Pour hot juice into hot, clean pint jars, leaving 1/2-inch headspace."}
+      ],
+      "temperature": "",
+      "pan_size": "8- or 10-quart kettle",
+      "notes": [
+        "Pressure Canning: Process pints for 15 minutes at 10 pounds pressure (adjust for altitude)",
+        "Freezing: Cool juice. Pour into wide-top freezer containers, leaving 1/2-inch headspace. Process pints for 15 minutes. Seal, label, and freeze.",
+        "Note: Tomatoes should be ripe but still firm. Start with the smaller amount of horseradish and add more until you get the zest you like."
+      ],
+      "tags": ["tomato", "juice", "beverage", "canning", "freezing", "preserving"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5360 Large.jpeg"]
+    },
+    {
+      "id": "macaroni-and-cheese-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Macaroni and Cheese (BHG)",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 160",
+      "description": "Classic baked macaroni and cheese with shredded American cheese.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "25-30 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "elbow macaroni", "quantity": "1", "unit": "cup", "prep_note": "4 ounces"},
+        {"item": "chopped onion", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "milk", "quantity": "1-3/4", "unit": "cups", "prep_note": ""},
+        {"item": "shredded American cheese", "quantity": "2", "unit": "cups", "prep_note": "8 ounces"},
+        {"item": "medium tomato", "quantity": "1", "unit": "", "prep_note": "sliced, optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook macaroni according to package directions (see chart, page 278); drain well."},
+        {"step": 2, "text": "Meanwhile, for cheese sauce, in a saucepan cook onion in margarine or butter till tender but not brown. Stir in flour and pepper. Add milk all at once. Cook and stir till slightly thickened and bubbly. Add shredded cheese; stir till melted."},
+        {"step": 3, "text": "Stir macaroni into cheese sauce. Transfer to a 1-quart casserole. Bake, uncovered, in a 350° oven for 25 to 30 minutes or till bubbly. During the last 5 minutes of baking, arrange tomato slices atop macaroni, if desired. Let stand 10 minutes."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "1-quart casserole",
+      "notes": [
+        "Microwave directions: Cook macaroni as above. For cheese sauce, in a 1-1/2-quart casserole micro-cook onion and margarine or butter on 100% power (high) for 1 to 2 minutes or till onion is tender. Stir in flour and pepper. Stir in milk. Cook on high for 3 to 5 minutes or till slightly thickened and bubbly, stirring every minute. Stir till cheese melts. Stir in cooked macaroni. Cook on high for 2-1/2 to 3-1/2 minutes or till heated through, stirring once. If desired, place tomato slices atop macaroni during the last minute of cooking. Let stand 10 minutes.",
+        "Vegetable Macaroni and Cheese: Prepare as above, except stir 2 cups frozen mixed vegetables, thawed, or one 16-ounce can mixed vegetables, drained, into cheese sauce with macaroni. Transfer to a 2-1/2-quart casserole.",
+        "Shortcut Macaroni and Cheese: Prepare as above, except immediately return the drained macaroni to the saucepan it was cooked in. Pour the cheese sauce over the macaroni; mix well. Cook over low heat for 3 to 5 minutes or till heated through, stirring frequently. Let stand for 10 minutes."
+      ],
+      "tags": ["pasta", "cheese", "casserole", "comfort-food", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5322 Large.jpeg"]
+    },
+    {
+      "id": "welsh-rarebit-breakfast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Welsh Rarebit Breakfast",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 160",
+      "description": "Tangy cheese sauce served over English muffins with bacon or eggs - good for brunch, cauliflower, and burgers.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "English muffins", "quantity": "2", "unit": "", "prep_note": "split and toasted, or 4 slices bread, toasted"},
+        {"item": "Canadian-style bacon", "quantity": "4", "unit": "slices", "prep_note": "warmed, or 4 poached eggs (see recipe, page 144)"},
+        {"item": "tomato", "quantity": "4", "unit": "slices", "prep_note": ""},
+        {"item": "shredded cheddar or American cheese", "quantity": "1-1/2", "unit": "cups", "prep_note": "6 ounces"},
+        {"item": "milk", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "dry mustard", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground red pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For English muffin or toast stacks, place muffin halves or toast slices on plates. Top each with a slice of Canadian-style bacon, then a tomato slice; or, if using poached eggs, top muffins or toast with tomato slices, then eggs. Set aside."},
+        {"step": 2, "text": "For cheese sauce, in a heavy medium saucepan combine cheese, milk, mustard, Worcestershire sauce, and red pepper. Cook over low heat, stirring constantly, till cheese melts."},
+        {"step": 3, "text": "Slowly stir about half of the hot cheese sauce into beaten egg; return all to the saucepan. Cook and stir over low heat till cheese sauce thickens slightly and just bubbles."},
+        {"step": 4, "text": "Spoon cheese sauce immediately over English muffin or toast stacks."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: Assemble English muffin or toast stacks as above. For sauce, in a 1-quart casserole combine cheese, milk, mustard, Worcestershire sauce, and red pepper. Micro-cook, covered, on 100% power (high) for 3 to 4 minutes or till cheese melts, stirring every minute. Slowly stir about half of the hot cheese mixture into beaten egg; return all to casserole. Cook on 50% power (medium) for 1 to 3 minutes or till mixture thickens slightly and just bubbles, stirring every 30 seconds. Serve as above.",
+        "Bacon Rarebit: Prepare as above, except substitute 8 slices crisp-cooked bacon, drained and halved crosswise, for the Canadian-style bacon or poached eggs. Substitute beer for the milk."
+      ],
+      "tags": ["breakfast", "brunch", "cheese", "eggs", "english-muffin"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5322 Large.jpeg"]
+    },
+    {
+      "id": "meatless-red-beans-and-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meatless Red Beans and Rice",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 161 (Legumes section)",
+      "description": "Adjust the amount of ground red pepper to give this dish the zing you like.",
+      "servings_yield": "4 servings",
+      "prep_time": "6-8 hours (soaking) or overnight",
+      "cook_time": "2.5-3 hours",
+      "total_time": "9-11 hours",
+      "ingredients": [
+        {"item": "dry red beans or dry red kidney beans", "quantity": "1-1/3", "unit": "cups", "prep_note": "1/2 pound"},
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "2", "unit": "cloves", "prep_note": "minced"},
+        {"item": "bay leaf", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "salt", "quantity": "3/4", "unit": "tsp", "prep_note": ""},
+        {"item": "fennel seed", "quantity": "1/2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "ground red pepper", "quantity": "1/4-1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "hot cooked rice", "quantity": "2", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse beans. In a large saucepan combine beans and 3 cups water. Bring to boiling; reduce heat. Simmer for 2 minutes. Remove from heat. Cover and let stand 1 hour. (Or, soak by placing beans and 3 cups water in a bowl. Cover and set in a cool place for 6 to 8 hours or overnight.)"},
+        {"step": 2, "text": "Drain beans in a colander and rinse. Return beans to the saucepan. Stir in onion, garlic, bay leaf, salt, fennel seed, red pepper, and 3 cups fresh water."},
+        {"step": 3, "text": "Bring to boiling; reduce heat. Cover and simmer about 2-1/2 hours or till beans are tender, adding more water, if necessary, and stirring occasionally."},
+        {"step": 4, "text": "Uncover and simmer, stirring occasionally, for 15 to 20 minutes more or till a thick gravy forms. Discard bay leaf. Serve over rice."}
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [
+        "Meaty Red Beans and Rice: Prepare as above, except omit salt and fennel seed. Add 1/2 pound smoked pork hocks or meaty ham bone with onion. When beans are tender, remove hocks or ham bone. Cut meat from bones or bone. Discard bones or bone and return meat to bean mixture along with 1/2 pound smoked sausage, cut into bite-size pieces.",
+        "Red Beans and Corn Bread: Prepare as above, except omit rice and spoon bean mixture over squares of corn bread."
+      ],
+      "tags": ["beans", "rice", "vegetarian", "meatless", "cajun", "southern", "legumes"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5323 Large.jpeg"]
+    },
+    {
+      "id": "meatless-tacos",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meatless Tacos",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 162",
+      "description": "Hearty lentil-based tacos with tofu, a vegetarian alternative to traditional tacos.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "lentils", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "tomato sauce", "quantity": "8", "unit": "oz", "prep_note": "1 can"},
+        {"item": "taco seasoning mix", "quantity": "1/2", "unit": "", "prep_note": "of a 1-1/4 or 1-1/2-ounce envelope (5 teaspoons)"},
+        {"item": "tofu (fresh bean curd)", "quantity": "8", "unit": "oz", "prep_note": "drained and finely chopped"},
+        {"item": "taco shells", "quantity": "8", "unit": "", "prep_note": "warmed"},
+        {"item": "shredded lettuce", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "medium tomato", "quantity": "1", "unit": "", "prep_note": "chopped"},
+        {"item": "shredded cheddar cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "Salsa", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse lentils; drain. In a medium saucepan combine lentils, onion, and 1/2 cup water. Bring to boiling; reduce heat. Cover and simmer about 30 minutes or till tender and liquid is absorbed."},
+        {"step": 2, "text": "Stir tomato sauce and seasoning mix into lentils. Simmer, uncovered, for 5 minutes. Stir in tofu; heat through."},
+        {"step": 3, "text": "Spoon into taco shells. Top with lettuce, tomato, cheese, and salsa."}
+      ],
+      "temperature": "",
+      "pan_size": "medium saucepan",
+      "notes": [
+        "Bulgur Tacos: Prepare as above, except substitute bulgur for lentils. Cover and simmer bulgur, onion, and 3/4 cup water about 10 minutes or till tender and liquid is absorbed."
+      ],
+      "tags": ["tacos", "vegetarian", "meatless", "lentils", "tofu", "mexican"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5325 Large.jpeg"]
+    },
+    {
+      "id": "garbanzo-sandwich-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Garbanzo Sandwich Spread",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 162",
+      "description": "Serve this spread for lunch in pita bread or on bagels, or as appetizer on party rye bread.",
+      "servings_yield": "Makes about 1-1/2 cups (5 servings)",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "15 minutes (plus 2-24 hours chilling)",
+      "ingredients": [
+        {"item": "garbanzo beans", "quantity": "15", "unit": "oz", "prep_note": "1 can, drained"},
+        {"item": "tahini (sesame seed paste)", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "olive or salad oil", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "2", "unit": "cloves", "prep_note": "quartered"},
+        {"item": "paprika", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "diced pimiento", "quantity": "2", "unit": "oz", "prep_note": "1 jar, drained"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a blender container or food processor bowl combine beans, tahini, juice, oil, garlic, paprika, and 1/4 teaspoon salt. Cover; blend or process till smooth, scraping sides as necessary. Transfer to a bowl."},
+        {"step": 2, "text": "Stir in parsley and pimiento. Cover; chill 2 to 24 hours."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Mediterranean Sandwich Spread: Spread about 1/3 cup cold Garbanzo Sandwich Spread on 1 slice whole wheat bread. Top with 2 tomato slices, 1 slice Swiss or brick cheese, and another slice bread. Makes 1 serving.",
+        "Tahini Substitute: Stir together 3 tablespoons creamy peanut butter and 1 tablespoon sesame oil till well combined. Makes 1/4 cup."
+      ],
+      "tags": ["spread", "sandwich", "garbanzo", "chickpea", "hummus", "vegetarian", "appetizer"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5325 Large.jpeg"]
+    },
+    {
+      "id": "fried-rice-supper",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried-Rice Supper",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 162",
+      "description": "The rice is chilled to keep it from sticking. A quick and easy one-pan meal.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "green onions", "quantity": "5", "unit": "", "prep_note": "sliced (1/2 cup)"},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "cooked brown rice", "quantity": "1-1/2", "unit": "cups", "prep_note": "chilled"},
+        {"item": "dark red kidney beans", "quantity": "15", "unit": "oz", "prep_note": "1 can, drained"},
+        {"item": "soy sauce", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "dry sherry", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "sesame oil", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "ground red pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "coarsely chopped peanuts", "quantity": "1/3", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large skillet melt the 1 teaspoon margarine. Add beaten egg. Cook egg without stirring till set. Invert skillet to remove egg; cut into strips."},
+        {"step": 2, "text": "In the skillet cook onions and garlic in the 1 tablespoon margarine till tender. Add rice; cook and stir for 3 minutes."},
+        {"step": 3, "text": "Stir in beans, soy sauce, sherry, oil, and red pepper. Cook and stir till heated through."},
+        {"step": 4, "text": "Toss with nuts and egg strips."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Tip: Chilling the rice keeps it from sticking and clumping when stir-fried",
+        "Quick meal - marked as FAST in cookbook"
+      ],
+      "tags": ["rice", "fried-rice", "asian", "beans", "quick", "one-pan", "vegetarian"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5325 Large.jpeg"]
+    },
+    {
+      "id": "bean-and-cheese-burritos",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bean and Cheese Burritos",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 162",
+      "description": "Easy baked burritos filled with refried beans and cheddar cheese.",
+      "servings_yield": "3 servings (6 burritos)",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "flour tortillas", "quantity": "6", "unit": "", "prep_note": "8-inch"},
+        {"item": "chopped onion", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "refried beans", "quantity": "16", "unit": "oz", "prep_note": "1 can"},
+        {"item": "shredded cheddar cheese", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "shredded lettuce", "quantity": "", "unit": "", "prep_note": ""},
+        {"item": "salsa", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Stack six 8-inch flour tortillas and wrap in foil. Heat in a 350° oven for 10 minutes to soften."},
+        {"step": 2, "text": "In a skillet cook 1 cup chopped onion in 1 tablespoon cooking oil till tender. Add one 16-ounce can refried beans. Cook and stir till heated through."},
+        {"step": 3, "text": "Spoon about 1/4 cup bean mixture onto each tortilla just below center. Divide 1-1/2 cups shredded cheddar cheese among tortillas."},
+        {"step": 4, "text": "Fold edge nearest filling up and over just till mixture is covered. Fold in 2 sides just till they meet; roll up."},
+        {"step": 5, "text": "Place on a baking sheet. Bake in a 350° oven about 10 minutes or till heated through. Serve with shredded lettuce and salsa."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Bean and Cheese Chimichangas: Prepare as above, except use 10-inch flour tortillas and omit baking. Secure rolled-up tortillas with wooden toothpicks. In a 3-quart saucepan fry tortillas, 2 or 3 at a time, in 1 inch hot cooking oil (375°) about 1 minute on each side or till golden. Drain. Keep warm in a 300° oven. Remove picks. Pass dairy sour cream and guacamole."
+      ],
+      "tags": ["burritos", "beans", "cheese", "mexican", "tex-mex", "vegetarian"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5325 Large.jpeg"]
+    },
+    {
+      "id": "marinated-salmon-steaks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Salmon Steaks",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 167",
+      "description": "Salmon or halibut steaks marinated in a tangy lemon and herb mixture, then grilled or broiled.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "8-12 minutes",
+      "total_time": "2 hours 30 minutes (including marinating)",
+      "ingredients": [
+        {"item": "fresh or frozen salmon or halibut steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "green onions", "quantity": "1/3", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "lemon juice or lime juice", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil or olive oil", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon-pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "dried rosemary or thyme", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut steaks into serving-size portions."},
+        {"step": 2, "text": "For marinade, in a shallow dish combine onion, lemon or lime juice, oil, Worcestershire sauce, lemon-pepper, rosemary or thyme, and garlic."},
+        {"step": 3, "text": "Add fish to marinade, turning to coat. Cover and marinate in refrigerator for 2 hours, turning occasionally."},
+        {"step": 4, "text": "Drain fish, reserving marinade. Place fish on greased unheated rack of broiler pan. Broil 4 inches from heat for 5 minutes. Brush with marinade."},
+        {"step": 5, "text": "Turn fish over. Brush with marinade. Broil 3 to 7 minutes more or till fish flakes easily with a fork."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Marked as EASY in cookbook",
+        "Grill directions: Marinate the fish as above. Drain fish, reserving marinade. Place fish steaks on a greased grill rack. Grill, uncovered, directly over medium-hot coals for 5 minutes. Using a wide spatula, carefully turn fish over. Brush with marinade. Grill for 3 to 7 minutes more or till fish flakes easily with a fork."
+      ],
+      "tags": ["salmon", "halibut", "fish", "seafood", "grilled", "broiled", "marinated", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5329 Large.jpeg"]
+    },
+    {
+      "id": "herbed-sauce-for-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herbed Sauce for Fish",
+      "category": "sauces",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 167",
+      "description": "A quick herbed butter sauce to brush over fish during baking or broiling.",
+      "servings_yield": "1/4 cup sauce (enough for 1 pound fillets)",
+      "prep_time": "5 minutes",
+      "cook_time": "2 minutes",
+      "total_time": "7 minutes",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried dillweed, basil, rosemary, or oregano", "quantity": "1/2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "pepper", "quantity": "1", "unit": "dash", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan melt margarine or butter."},
+        {"step": 2, "text": "Stir in lemon juice, dried herb of choice (crushed), and pepper."},
+        {"step": 3, "text": "Brush over fish during baking or broiling (see fish cooking chart, page 185)."}
+      ],
+      "temperature": "",
+      "pan_size": "small saucepan",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "Choose your herb based on the fish: dillweed pairs well with salmon, basil with white fish, rosemary with heartier fish"
+      ],
+      "tags": ["sauce", "fish", "seafood", "butter-sauce", "herb", "quick", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5329 Large.jpeg"]
+    },
+    {
+      "id": "halibut-with-sherry-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Halibut with Sherry Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Broiled halibut steaks with a creamy sherry and onion sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen halibut or other fish steaks", "quantity": "1-1/2 to 2", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "green onions", "quantity": "2", "unit": "", "prep_note": "sliced (1/4 cup)"},
+        {"item": "margarine or butter", "quantity": "4", "unit": "tbsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "dry sherry", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon-pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "chicken broth", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "heavy cream", "quantity": "1/2", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Place on the greased unheated rack of a broiler pan. Brush with half of the melted margarine. Sprinkle with pepper."},
+        {"step": 2, "text": "Broil 4 inches from heat 5 minutes, turn fish. Brush with remaining margarine, broil 3 to 7 more minutes or till fish flakes easily with a fork."},
+        {"step": 3, "text": "Meanwhile, cook onions and garlic in butter until tender. Add sherry, parsley, lemon-pepper. Cook and stir till reduced by about half."},
+        {"step": 4, "text": "Add cream. Cook and stir till mixture thickens slightly. Spoon sauce over fish."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Marked as FAST in cookbook"
+      ],
+      "tags": ["halibut", "fish", "seafood", "sherry", "cream-sauce", "broiled", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "teriyaki-shark",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Teriyaki Shark",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Shark or tuna steaks marinated in a sweet teriyaki glaze, then broiled.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "50 minutes to 2 hours 20 minutes (including marinating)",
+      "ingredients": [
+        {"item": "fresh or frozen shark or tuna steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "soy sauce", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "brown sugar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "dry sherry", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "grated gingerroot", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. For marinade, combine soy sauce, brown sugar, oil, sherry, gingerroot, and garlic."},
+        {"step": 2, "text": "Place fish in shallow dish. Pour marinade over fish. Cover and marinate for 30 minutes to 2 hours, turning occasionally."},
+        {"step": 3, "text": "Drain fish, reserving marinade. Place fish on greased unheated rack of broiler pan."},
+        {"step": 4, "text": "Broil 4 inches from heat for 5 minutes. Brush with marinade. Turn fish."},
+        {"step": 5, "text": "Broil 3 to 7 minutes more or till fish flakes easily with a fork, brushing with remaining marinade."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Shark's firm texture holds up well to marinating and grilling"
+      ],
+      "tags": ["shark", "tuna", "fish", "seafood", "teriyaki", "asian", "broiled", "marinated"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "dijon-mustard-fish-fillets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dijon-Mustard Fish Fillets",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Broiled fish fillets topped with a creamy Dijon mustard sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "dairy sour cream", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "Dijon-style mustard", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "snipped chives", "quantity": "2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Place fish on unheated rack of broiler pan. Broil 4 inches from heat till fish flakes easily with a fork. Allow 4 to 6 minutes per 1/2-inch thickness. Turn once if more than 1 inch thick."},
+        {"step": 3, "text": "Meanwhile, in small saucepan stir together sour cream, milk, mustard, and chives."},
+        {"step": 4, "text": "Cook and stir over low heat till heated through (do not boil). Spoon sauce over fish."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "Do not boil the sauce or it may curdle"
+      ],
+      "tags": ["fish", "seafood", "dijon", "mustard", "cream-sauce", "broiled", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "swordfish-kabobs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Swordfish Kabobs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Marinated swordfish, tuna, or shark cubes on skewers with mushrooms and green onions.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "1 hour (including 30 min marinating)",
+      "ingredients": [
+        {"item": "fresh or frozen swordfish, tuna, or shark", "quantity": "3/4", "unit": "lb", "prep_note": "cut into 1 inch cubes"},
+        {"item": "medium fresh mushrooms", "quantity": "16", "unit": "", "prep_note": ""},
+        {"item": "large green onions", "quantity": "4", "unit": "", "prep_note": "cut into 2-inch lengths"},
+        {"item": "cooking oil", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "dry white wine", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "orange peel", "quantity": "1/4", "unit": "cup", "prep_note": "finely shredded"},
+        {"item": "pepper", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "cherry tomatoes", "quantity": "8", "unit": "", "prep_note": "optional, for grilling"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut into 1 inch cubes. Place fish, mushrooms, and onions in a plastic bag set in a bowl."},
+        {"step": 2, "text": "Combine oil, wine, garlic, orange peel, 1/4 teaspoon salt, and pepper. Add to bag. Seal bag and marinate at room temperature for 30 minutes (or in refrigerator for 2 hours), turning occasionally."},
+        {"step": 3, "text": "Drain fish cubes, reserving marinade. On eight 12-inch skewers, alternately thread fish cubes, mushrooms, and onion pieces."},
+        {"step": 4, "text": "Place on greased unheated rack of broiler pan. Broil 4 inches from heat for 4 to 5 minutes. Turn kabobs. Brush with marinade."},
+        {"step": 5, "text": "Broil 4 to 5 minutes more or till fish flakes easily with a fork."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan, 12-inch skewers",
+      "notes": [
+        "Swordfish's firm flesh makes it ideal for kabobs",
+        "Grill directions: Assemble and marinate kabobs as above. Add a cherry tomato to each skewer. Grill, uncovered, directly over medium-hot coals for 8 to 12 minutes, turning once."
+      ],
+      "tags": ["swordfish", "tuna", "shark", "fish", "seafood", "kabobs", "grilled", "broiled", "skewers"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "sweet-and-sour-fish-kabobs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet-and-Sour Fish Kabobs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 169",
+      "description": "Colorful fish kabobs with pineapple chunks and green pepper in a tangy sweet-and-sour sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "32 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen swordfish, sea bass, shark, or tuna steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "pineapple chunks", "quantity": "8", "unit": "oz", "prep_note": "1 can, drained, reserve juice"},
+        {"item": "medium green pepper", "quantity": "1", "unit": "", "prep_note": "cut into 1-inch pieces"},
+        {"item": "pineapple preserves", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "rice vinegar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "soy sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut fish into 1-inch cubes."},
+        {"step": 2, "text": "For sauce, in a small saucepan combine pineapple preserves, reserved pineapple juice, rice vinegar, soy sauce, and cornstarch. Cook and stir till thickened and bubbly. Cook 2 minutes more."},
+        {"step": 3, "text": "On four 12-inch skewers, alternately thread fish cubes, pineapple chunks, and green pepper pieces, leaving about 1/4 inch between pieces."},
+        {"step": 4, "text": "Place kabobs on greased unheated rack of broiler pan. Broil 4 inches from heat for 5 minutes. Turn kabobs over. Broil 4 to 5 minutes more or till fish flakes easily with a fork, brushing with sauce during last 2 minutes."},
+        {"step": 5, "text": "Brush again with sauce before serving."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan, 12-inch skewers",
+      "notes": [
+        "Grill directions: Prepare sauce and assemble kabobs as above. Place kabobs on a greased grill rack. Grill, uncovered, directly over medium-hot coals for 4 to 6 minutes. Turn kabobs. Grill for 4 to 6 minutes more or till fish flakes easily with a fork, brushing with sauce during last 2 minutes of grilling."
+      ],
+      "tags": ["fish", "seafood", "kabobs", "sweet-and-sour", "pineapple", "asian", "grilled", "broiled"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5331 Large.jpeg"]
+    },
+    {
+      "id": "blackened-thai-catfish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackened Thai Catfish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 169",
+      "description": "Cajun-spiced catfish fillets cooked in a very hot cast-iron skillet until blackened.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "8 minutes",
+      "total_time": "18 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen catfish fillets", "quantity": "4", "unit": "", "prep_note": "4 ounces each"},
+        {"item": "garlic powder", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground white pepper", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground red pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "dried thyme", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Combine garlic powder, white pepper, red pepper, thyme, and 1/4 teaspoon salt. Sprinkle spice mixture evenly on both sides of fish fillets."},
+        {"step": 3, "text": "In a 12-inch cast-iron or heavy skillet, melt 1 tablespoon margarine over medium-high heat."},
+        {"step": 4, "text": "Add fish fillets. Cook 3 to 4 minutes per side for 1/2-inch thick fillets (or 4 to 5 minutes per side for thicker fillets) or till fish flakes easily with a fork."},
+        {"step": 5, "text": "Add remaining margarine during cooking. Drizzle melted margarine over fish before serving."}
+      ],
+      "temperature": "High heat",
+      "pan_size": "12-inch cast-iron skillet",
+      "notes": [
+        "Stand back! This Cajun specialty really smokes up as it cooks. That's why it's best to grill.",
+        "To cook outdoors: Turn on exhaust fan or cook outside. Place a cast-iron skillet on the grill rack directly over hot coals. Heat until drops of water sizzle."
+      ],
+      "tags": ["catfish", "fish", "seafood", "cajun", "blackened", "spicy", "cast-iron"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5331 Large.jpeg"]
+    },
+    {
+      "id": "dill-smoked-cod",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dill Smoked Cod",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 169",
+      "description": "Whole dressed cod slow-smoked on the grill with dill and wood chips.",
+      "servings_yield": "6 to 8 servings",
+      "prep_time": "1 hour 15 minutes (including soaking wood chips)",
+      "cook_time": "50-60 minutes",
+      "total_time": "2 hours 15 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen dressed cod or other fish", "quantity": "3 to 4", "unit": "lb", "prep_note": ""},
+        {"item": "cherry or apple wood chips", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "fresh dillweed", "quantity": "1", "unit": "tsp", "prep_note": "snipped (or 1/2 tsp dried)"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Soak wood chips in enough water to cover for 1 hour."},
+        {"step": 2, "text": "Meanwhile, cut 1/2-inch-deep diagonal slits 1 inch apart into both sides of fish."},
+        {"step": 3, "text": "Rub oil into slits. Then press a piece of dillweed into each slit. Use wooden toothpicks to hold fish together if needed."},
+        {"step": 4, "text": "Drain chips. In a covered grill, arrange preheated coals around a foil drip pan. Test for medium coals."},
+        {"step": 5, "text": "Place chips on coals. Place foil on rack above drip pan. Place the fish on foil."},
+        {"step": 6, "text": "Grill fish, covered, 50 to 60 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "Medium coals (indirect heat)",
+      "pan_size": "covered grill with drip pan",
+      "notes": [
+        "Cherry or apple wood chips add a mild, sweet smoke flavor",
+        "The diagonal slits help the dill flavor penetrate the fish"
+      ],
+      "tags": ["cod", "fish", "seafood", "smoked", "grilled", "dill", "wood-smoked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5331 Large.jpeg"]
+    },
+    {
+      "id": "fish-with-beer-cheese-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish with Beer-Cheese Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Baked fish fillets topped with a creamy beer and American cheese sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets or steaks", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "milk", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "shredded American cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "beer", "quantity": "1/3", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Place fish in a greased baking dish. Bake in a 450°F oven till fish flakes easily with a fork (allow 4 to 6 minutes per 1/2-inch thickness, tucking under thin edges)."},
+        {"step": 3, "text": "Meanwhile, for sauce, cook green onion in margarine till tender. Stir in flour."},
+        {"step": 4, "text": "Add milk all at once. Cook and stir till thickened and bubbly. Cook 1 minute more."},
+        {"step": 5, "text": "Add cheese and beer. Cook and stir till cheese melts. Spoon sauce over fish."}
+      ],
+      "temperature": "450°F (230°C)",
+      "pan_size": "baking dish",
+      "notes": [
+        "Marked as FAST in cookbook"
+      ],
+      "tags": ["fish", "seafood", "cheese", "beer", "sauce", "baked", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "citrus-baked-halibut",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Citrus Baked Halibut",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Baked halibut steaks topped with a citrus and herb mixture.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen halibut steaks", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "onion", "quantity": "1/4", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "1-1/2", "unit": "tbsp", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon peel", "quantity": "1/2", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "orange juice", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "dried dillweed", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Arrange in an 8x8-inch baking dish."},
+        {"step": 2, "text": "Cook onion and garlic in margarine till tender. Stir in parsley, lemon peel, and orange juice."},
+        {"step": 3, "text": "Spread mixture over fish. Sprinkle with dillweed."},
+        {"step": 4, "text": "Bake in a 400°F oven for 15 to 20 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "8x8-inch baking dish",
+      "notes": [
+        "Microwave directions: Arrange fish in an 8x8x2-inch microwave-safe baking dish. Cook onion, garlic, and margarine on 100% power (high) for 1 to 2 minutes. Stir in parsley, lemon peel, and orange juice. Spread over fish. Sprinkle with dillweed. Cover with vented plastic wrap. Cook on high for 7 to 9 minutes, giving dish a half-turn once."
+      ],
+      "tags": ["halibut", "fish", "seafood", "citrus", "orange", "lemon", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "fish-potpies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish Potpies",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Individual fish potpies with vegetables and Swiss cheese in marinara sauce, topped with pastry.",
+      "servings_yield": "4 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen haddock, cod, or orange roughy fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "marinara sauce", "quantity": "15", "unit": "oz", "prep_note": "1 can"},
+        {"item": "frozen mixed vegetables", "quantity": "1", "unit": "cup", "prep_note": "thawed"},
+        {"item": "shredded carrot", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "shredded Swiss cheese", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "chopped pimiento", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "refrigerated pie crust", "quantity": "1/2", "unit": "", "prep_note": "of a 15 oz package"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. In saucepan combine marinara sauce, vegetables, carrot, cheese, parsley, and pimiento. Cook and stir till thickened and bubbly."},
+        {"step": 2, "text": "Cut fish into four pieces; stir into cheese mixture."},
+        {"step": 3, "text": "Spoon into four greased 8 or 10-ounce casseroles."},
+        {"step": 4, "text": "Cut pastry into 4 wedges. Place one pastry wedge on each casserole. Trim to fit. Cut slits into pastry."},
+        {"step": 5, "text": "Place on a baking sheet. Bake in a 400°F oven for 20 to 25 minutes or till golden brown. Let stand 10 minutes before serving."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "four 8-10 oz individual casseroles",
+      "notes": [],
+      "tags": ["fish", "seafood", "potpie", "casserole", "pastry", "comfort-food"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "fish-stacks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish Stacks",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "description": "Fish fillets topped with creamy vegetable mixture and crescent roll dough.",
+      "servings_yield": "4 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "frozen fish fillets", "quantity": "16", "unit": "oz", "prep_note": "1 package, thawed"},
+        {"item": "chopped onion", "quantity": "1", "unit": "cup", "prep_note": "finely chopped"},
+        {"item": "shredded carrot", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sliced fresh mushrooms", "quantity": "1", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "soft-style cream cheese", "quantity": "4", "unit": "oz", "prep_note": "half of an 8 oz container"},
+        {"item": "dried dillweed", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "refrigerated crescent rolls", "quantity": "1", "unit": "package", "prep_note": "8 oz"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish fillets. Cut into 4x3-inch portions. Place in a shallow baking dish."},
+        {"step": 2, "text": "Cook onion, carrot, and mushrooms in margarine, covered, about 5 minutes. Uncover; simmer 2 to 4 minutes more or till excess liquid evaporates."},
+        {"step": 3, "text": "Remove from heat. Stir in cream cheese, dillweed, and pepper. Spoon vegetable mixture over each fish portion."},
+        {"step": 4, "text": "Separate crescent rolls into 2 rectangles. Pinch perforations to seal. Cut each rectangle in half."},
+        {"step": 5, "text": "Place one rectangle atop each fish portion. Brush dough with milk, if desired."},
+        {"step": 6, "text": "Bake in a 350°F oven for 20 to 25 minutes or till fish is done and dough is golden."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "shallow baking dish",
+      "notes": [
+        "The cream cheese and vegetable topping keeps the fish moist"
+      ],
+      "tags": ["fish", "seafood", "cream-cheese", "crescent-rolls", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5332 Large.jpeg"]
+    },
+    {
+      "id": "broccoli-stuffed-sole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broccoli-Stuffed Sole",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "description": "Delicate sole fillets rolled around a broccoli and Parmesan cheese filling.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen skinless sole fillets", "quantity": "4", "unit": "", "prep_note": "4 ounces each, about 1/4 inch thick"},
+        {"item": "frozen cut broccoli", "quantity": "1", "unit": "cup", "prep_note": "thawed"},
+        {"item": "grated Parmesan cheese", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "soft-style cream cheese with chives and onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "pine nuts", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "white wine or dry sherry", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen."},
+        {"step": 2, "text": "For filling, combine broccoli, Parmesan cheese, cream cheese, and pine nuts."},
+        {"step": 3, "text": "Place about 1/4 cup filling on one end of each fillet. Roll up fillets."},
+        {"step": 4, "text": "Secure rolls with wooden picks. Place in a baking dish. Drizzle with wine."},
+        {"step": 5, "text": "Bake in a 350°F oven for 30 to 35 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "baking dish",
+      "notes": [
+        "Microwave directions: Assemble fish rolls, omitting wine. Place in a microwave-safe dish. Cover with vented plastic wrap. Microwave on 100% power (high) for 3 to 5 minutes or till fish flakes easily, giving dish a half-turn once."
+      ],
+      "tags": ["sole", "fish", "seafood", "stuffed", "broccoli", "parmesan", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5333 Large.jpeg"]
+    },
+    {
+      "id": "baked-fish-with-mushrooms",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Fish with Mushrooms",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "description": "Quick baked fish fillets topped with sauteed mushrooms and green onions.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets or steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1/2 to 3/4 inch thick"},
+        {"item": "sliced fresh mushrooms", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "dried tarragon", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "paprika", "quantity": "", "unit": "", "prep_note": "for sprinkling"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Arrange fish in a 12x7-1/2x2-inch baking dish, turning under thin edges. Sprinkle with salt."},
+        {"step": 2, "text": "Cook mushrooms, onion, and tarragon in margarine till tender. Spoon over fish."},
+        {"step": 3, "text": "Sprinkle with paprika. Bake, covered, in a 450°F oven for 6 to 10 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "450°F (230°C)",
+      "pan_size": "12x7-1/2x2-inch baking dish",
+      "notes": [
+        "Marked as FAST in cookbook"
+      ],
+      "tags": ["fish", "seafood", "mushrooms", "baked", "fast", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5333 Large.jpeg"]
+    },
+    {
+      "id": "wild-rice-stuffed-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild-Rice-Stuffed Fish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "description": "Whole dressed fish stuffed with a wild rice, mushroom, and vegetable mixture.",
+      "servings_yield": "4 to 5 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "90 minutes (including rice)",
+      "total_time": "2 hours",
+      "ingredients": [
+        {"item": "fresh or frozen dressed whitefish or other fish", "quantity": "2", "unit": "", "prep_note": "1-1/2 pounds each"},
+        {"item": "wild rice", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "sliced fresh mushrooms", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped celery", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "chicken broth", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "finely chopped pimiento", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "dry sherry", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon peel", "quantity": "1/2", "unit": "tsp", "prep_note": "finely shredded"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Rinse rice thoroughly."},
+        {"step": 2, "text": "Cook mushrooms, celery, onion, and garlic in margarine till tender."},
+        {"step": 3, "text": "Stir in broth and wild rice. Cover and simmer 45 to 50 minutes till rice is tender and liquid is absorbed."},
+        {"step": 4, "text": "Stir in pimiento, sherry, parsley, and lemon peel."},
+        {"step": 5, "text": "Spoon stuffing into fish cavities, pressing lightly with back of spoon so fish lies flat."},
+        {"step": 6, "text": "Place stuffed fish in a large baking dish. Cover loosely with foil."},
+        {"step": 7, "text": "Bake in a 350°F oven for 30 to 40 minutes or till fish flakes easily with a fork. Use two large spatulas to transfer fish to serving platter."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "large baking dish",
+      "notes": [
+        "Tip: Spoon stuffing into fish, then press lightly with the back of the spoon so the fish lies flat",
+        "Use two large spatulas for transferring the stuffed fish"
+      ],
+      "tags": ["whitefish", "fish", "seafood", "stuffed", "wild-rice", "baked", "elegant"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5333 Large.jpeg"]
+    },
+    {
+      "id": "fish-en-papillote",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish en Papillote",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 172",
+      "description": "Elegant French technique of baking fish in parchment paper packets with a creamy vegetable sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen skinless flounder, perch, sole, or pompano fillets", "quantity": "4", "unit": "", "prep_note": "3 ounces each, about 1/4 inch thick"},
+        {"item": "parchment paper or brown paper", "quantity": "4", "unit": "pieces", "prep_note": "cut into heart shapes, 12 inches wide and 9 inches long"},
+        {"item": "water", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "lemon slices", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "bay leaf", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "instant chicken bouillon granules", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "medium carrot", "quantity": "1", "unit": "", "prep_note": "coarsely shredded"},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "Dijon-style mustard", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1/2", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut 4 pieces of parchment paper into heart shapes, 12 inches wide and 9 inches long."},
+        {"step": 2, "text": "In a large skillet bring water, lemon slices, bay leaf, and bouillon granules to boiling. Add fish."},
+        {"step": 3, "text": "Simmer, covered, for 4 to 6 minutes or till fish flakes easily with a fork. Using a slotted spoon, remove fish. Reserve 1/2 cup cooking liquid."},
+        {"step": 4, "text": "In same skillet cook carrots and onion in margarine till tender. Stir in flour and mustard."},
+        {"step": 5, "text": "Add reserved liquid and milk. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."},
+        {"step": 6, "text": "To assemble, place one fillet on one half of each parchment heart. Top with one fourth of the sauce."},
+        {"step": 7, "text": "Fold the other half of the heart over fillet. Starting at the top, seal tightly by turning up edges and folding in twice. At bottom, twist the tip of heart to seal."},
+        {"step": 8, "text": "Place packets on a large baking sheet. Bake in a 400°F oven for 10 to 12 minutes or till slightly puffed."},
+        {"step": 9, "text": "Transfer to dinner plates. To serve, cut an X in top of each packet. Pull back the paper."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "large baking sheet",
+      "notes": [
+        "En papillote (pah-pee-YOHT) is French for 'in paper' - a simple yet elegant way to cook fish",
+        "The packets puff up as steam forms inside, creating a dramatic presentation"
+      ],
+      "tags": ["fish", "seafood", "french", "papillote", "parchment", "elegant", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5334 Large.jpeg"]
+    },
+    {
+      "id": "chilled-salmon-steaks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chilled Salmon Steaks with Tarragon Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 173",
+      "description": "Poached salmon steaks served chilled with a tangy tarragon dressing.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "32 minutes plus chilling",
+      "ingredients": [
+        {"item": "fresh or frozen salmon steaks", "quantity": "4", "unit": "", "prep_note": "cut 1 to 1-1/2 inches thick"},
+        {"item": "Court Bouillon or water", "quantity": "1/2", "unit": "lb", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chicken broth", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried tarragon", "quantity": "2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "ground mustard", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw salmon, if frozen."},
+        {"step": 2, "text": "In large skillet bring water or Court Bouillon to boiling. Add salmon steaks. Return to boiling; reduce heat."},
+        {"step": 3, "text": "Simmer, covered, 8 to 12 minutes or till fish flakes easily with a fork."},
+        {"step": 4, "text": "Remove fish; cool. Remove skin. Cover and chill up to 24 hours."},
+        {"step": 5, "text": "For dressing, in a jar combine onion, broth, oil, tarragon, parsley, mustard, sugar, and pepper. Shake well."},
+        {"step": 6, "text": "Pour dressing over chilled salmon and serve."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Perfect for warm weather entertaining",
+        "Can be chilled up to 24 hours ahead"
+      ],
+      "tags": ["salmon", "fish", "seafood", "chilled", "cold", "tarragon", "make-ahead"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5335 Large.jpeg"]
+    },
+    {
+      "id": "poached-fish-with-dill-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Fish with Dill Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 173",
+      "description": "Whole poached fish served with a creamy dill sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "40 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen dressed fish", "quantity": "3", "unit": "lb", "prep_note": ""},
+        {"item": "water", "quantity": "", "unit": "", "prep_note": "enough to almost reach rack"},
+        {"item": "bay leaf", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "dried tarragon", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "lemon slices", "quantity": "3", "unit": "", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried dillweed", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "reserved cooking liquid", "quantity": "1/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen."},
+        {"step": 2, "text": "In a fish poacher or large roasting pan with a wire rack with handles, add enough water to almost reach the rack. Add bay leaf, tarragon, and lemon slices."},
+        {"step": 3, "text": "Place fish on rack. Lower into pan. Simmer, covered, 35 to 40 minutes or till fish flakes easily with a fork."},
+        {"step": 4, "text": "Remove fish; keep warm. Reserve 1/4 cup cooking liquid."},
+        {"step": 5, "text": "For sauce, in a saucepan melt margarine. Stir in flour and dillweed. Add reserved liquid and milk. Cook and stir till thickened and bubbly. Cook 1 minute more."},
+        {"step": 6, "text": "Serve sauce over fish."}
+      ],
+      "temperature": "",
+      "pan_size": "fish poacher or large roasting pan",
+      "notes": [
+        "Use a fish poacher with rack for easy removal of whole fish"
+      ],
+      "tags": ["fish", "seafood", "poached", "dill", "sauce", "whole-fish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5335 Large.jpeg"]
+    },
+    {
+      "id": "vegetable-topped-fillets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetable-Topped Fillets",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 173",
+      "description": "Colorful fish fillets topped with sauteed summer squash, zucchini, and tomatoes.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen skinless sole or other white fish fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "zucchini", "quantity": "1/2", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "yellow summer squash", "quantity": "1/2", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "cherry tomatoes", "quantity": "1", "unit": "cup", "prep_note": "halved"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried basil", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Place fish in a greased baking dish. Bake in a 450°F oven till fish flakes easily (4 to 6 minutes per 1/2-inch thickness)."},
+        {"step": 3, "text": "Meanwhile, in a skillet cook zucchini, summer squash, and garlic in margarine till nearly tender."},
+        {"step": 4, "text": "Add tomatoes and basil. Cook and stir 2 minutes more."},
+        {"step": 5, "text": "Spoon vegetable mixture over baked fish."}
+      ],
+      "temperature": "450°F (230°C)",
+      "pan_size": "baking dish",
+      "notes": [
+        "A colorful, healthy topping for mild white fish",
+        "Microwave directions: Cook vegetables in margarine in a microwave-safe dish on high for 4 to 5 minutes, stirring once. Add tomatoes and basil; cook 1 minute more."
+      ],
+      "tags": ["fish", "seafood", "vegetables", "zucchini", "squash", "tomatoes", "healthy", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5335 Large.jpeg"]
+    },
+    {
+      "id": "trout-amandine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Trout Amandine",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 174",
+      "description": "Classic French preparation of pan-fried trout topped with buttery toasted almonds.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen pan-dressed trout or other fish", "quantity": "4", "unit": "", "prep_note": "about 8 ounces each"},
+        {"item": "all-purpose flour", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "milk", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "sliced almonds", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "", "unit": "", "prep_note": "for frying"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon slices", "quantity": "4", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Bone fish, if desired."},
+        {"step": 2, "text": "Combine flour and 1/4 teaspoon salt. Stir together egg and milk."},
+        {"step": 3, "text": "Dip fish in flour mixture to coat, then in egg mixture."},
+        {"step": 4, "text": "In a 12-inch skillet heat oil. Fry fish in hot oil for 5 to 6 minutes on each side or till golden and fish flakes easily with a fork."},
+        {"step": 5, "text": "Remove fish and keep warm."},
+        {"step": 6, "text": "In a medium saucepan melt margarine. Cook sliced almonds till golden."},
+        {"step": 7, "text": "Place fish on a serving platter. Spoon almond mixture over fish. Garnish with lemon slices."}
+      ],
+      "temperature": "",
+      "pan_size": "12-inch skillet",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "The perfect recipe for freshly caught fish - 'It's in your pan, but your catch of the day!'"
+      ],
+      "tags": ["trout", "fish", "seafood", "amandine", "almonds", "french", "fried", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5336 Large.jpeg"]
+    },
+    {
+      "id": "pan-fried-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pan-Fried Fish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 174",
+      "description": "Classic cornmeal-crusted pan-fried fish fillets with crispy coating.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets", "quantity": "1", "unit": "lb", "prep_note": "1/4 to 1 inch thick"},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "water", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "cornmeal or fine dry bread crumbs", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "salt", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "shortening or cooking oil", "quantity": "", "unit": "", "prep_note": "for frying"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish. Cut into serving-size portions. Pat dry."},
+        {"step": 2, "text": "In a shallow dish combine egg and 2 tablespoons water."},
+        {"step": 3, "text": "In another dish, mix cornmeal or bread crumbs, salt, and pepper."},
+        {"step": 4, "text": "Dip fish into egg mixture, then coat with cornmeal mixture."},
+        {"step": 5, "text": "Fry the fish in hot oil on one side till golden. Turn and cook on the other side (3 to 4 minutes per side for 1/4-inch-thick fillets, longer for thicker fish)."}
+      ],
+      "temperature": "Oven 300°F to keep warm",
+      "pan_size": "skillet",
+      "notes": [
+        "The crispy coating seals in the fresh fish flavor",
+        "Oven-Chip Pan-Fried Fish: Substitute 1/4 cup crushed potato chips or salted crackers for the cornmeal",
+        "Curried Pan-Fried Fish: Add 1 tablespoon lemon or lime juice to egg mixture, add 2 teaspoons curry powder to cornmeal mixture. Serve with chutney."
+      ],
+      "tags": ["fish", "seafood", "fried", "cornmeal", "crispy", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5336 Large.jpeg"]
+    },
+    {
+      "id": "sweet-and-sour-stir-fried-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet-and-Sour Stir-Fried Fish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Quick stir-fried fish with pineapple and sweet peppers in a tangy sauce, served over rice.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen monkfish, sea bass, or pike", "quantity": "1", "unit": "lb", "prep_note": "cut into 1-inch pieces"},
+        {"item": "pineapple chunks (juice pack)", "quantity": "8", "unit": "oz", "prep_note": "drained, reserve juice"},
+        {"item": "packed brown sugar", "quantity": "1-1/2", "unit": "tbsp", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "rice vinegar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "soy sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "sweet pepper", "quantity": "1", "unit": "", "prep_note": "cut into strips"},
+        {"item": "cooking oil", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "hot cooked rice", "quantity": "2", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut into 1-inch pieces."},
+        {"step": 2, "text": "For sauce, combine reserved pineapple juice, brown sugar, cornstarch, rice vinegar, and soy sauce."},
+        {"step": 3, "text": "Heat wok or large skillet over high heat. Add 1 tablespoon oil. Stir-fry green onion and sweet pepper 2 to 3 minutes or till crisp-tender. Remove."},
+        {"step": 4, "text": "Add remaining oil. Stir-fry fish for 5 minutes or till fish flakes easily. Remove."},
+        {"step": 5, "text": "Stir sauce; add to wok. Cook and stir till bubbly."},
+        {"step": 6, "text": "Stir in pineapple, fish, and vegetables. Cook and stir till heated through. Serve over rice."}
+      ],
+      "temperature": "High heat",
+      "pan_size": "wok or large skillet",
+      "notes": [],
+      "tags": ["fish", "seafood", "stir-fry", "sweet-and-sour", "asian", "pineapple", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "fish-and-chips",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish and Chips",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Classic British pub-style deep-fried fish in beer batter served with homemade chips.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "medium potatoes", "quantity": "3", "unit": "", "prep_note": "peeled, cut into 3/8-inch sticks"},
+        {"item": "shortening or cooking oil", "quantity": "2", "unit": "inches", "prep_note": "for deep-fat frying"},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "beer or milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "malt or cider vinegar", "quantity": "", "unit": "", "prep_note": "for serving"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen."},
+        {"step": 2, "text": "For chips, cut potatoes into lengthwise 3/8-inch-wide sticks. Pat dry."},
+        {"step": 3, "text": "In a heavy saucepan or deep-fat fryer heat shortening or oil to 375°F."},
+        {"step": 4, "text": "Fry potatoes, about one-third at a time, for 4 to 6 minutes or till light brown. Remove and drain on paper towels. Keep warm in a 300°F oven."},
+        {"step": 5, "text": "Cut fish into serving-size pieces. For batter, combine flour and salt. Add beer or milk; beat till smooth."},
+        {"step": 6, "text": "Dip fish into batter. Fry fish in hot fat, 2 or 3 pieces at a time, about 2 minutes on each side or till golden brown."},
+        {"step": 7, "text": "Drain and keep warm in oven while frying remaining fish. Serve with malt or cider vinegar."}
+      ],
+      "temperature": "375°F (190°C) for frying, 300°F oven to keep warm",
+      "pan_size": "deep-fat fryer or heavy saucepan",
+      "notes": [
+        "Beer gives a lighter, crispier batter; milk works well too",
+        "Classic British pub fare"
+      ],
+      "tags": ["fish", "seafood", "british", "fried", "chips", "fries", "pub-food", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "hot-tuna-cups",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Tuna Cups",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Creamy tuna filling baked in biscuit cups topped with cheese and tomato.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "14 minutes",
+      "total_time": "34 minutes",
+      "ingredients": [
+        {"item": "refrigerated biscuits", "quantity": "1", "unit": "package (6)", "prep_note": ""},
+        {"item": "sliced celery", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "prepared mustard or salad dressing", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "shredded cheddar cheese", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "tuna (water pack)", "quantity": "2", "unit": "6.5 oz cans", "prep_note": "drained and flaked"},
+        {"item": "cooked peas", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "tomato slices", "quantity": "6", "unit": "", "prep_note": "thin"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Separate biscuits. Grease the outside of six 6-ounce custard cups."},
+        {"step": 2, "text": "Press one biscuit over bottom and halfway down sides of each custard cup."},
+        {"step": 3, "text": "Place cups, dough side up, on a 15x10x1-inch baking pan. Bake in a 400°F oven 7 minutes or till lightly browned. Remove biscuits from cups immediately."},
+        {"step": 4, "text": "Meanwhile, cook celery and onion in margarine till tender. Stir in mustard, tuna, peas, and half of the cheese."},
+        {"step": 5, "text": "Spoon tuna mixture into biscuit cups. Top with tomato slices and remaining cheese."},
+        {"step": 6, "text": "Return to oven and bake 7 minutes or till cheese melts."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "6 custard cups (6-ounce), 15x10x1-inch baking pan",
+      "notes": [
+        "A creative way to serve tuna salad in edible biscuit cups"
+      ],
+      "tags": ["tuna", "fish", "seafood", "biscuits", "cheese", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "creamed-tuna",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamed Tuna",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Creamy tuna in white sauce served over toasted English muffins or noodles.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "sliced green onion", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "dry white wine or milk", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "tuna (water pack)", "quantity": "2", "unit": "6.5 oz cans", "prep_note": "drained and flaked"},
+        {"item": "English muffins", "quantity": "2", "unit": "", "prep_note": "split and toasted"},
+        {"item": "sliced almonds", "quantity": "2", "unit": "tbsp", "prep_note": "toasted, optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan cook green onion in margarine till tender."},
+        {"step": 2, "text": "Stir in flour and dash pepper. Add wine and milk all at once."},
+        {"step": 3, "text": "Cook and stir till thickened and bubbly. Cook and stir 1 minute more."},
+        {"step": 4, "text": "Stir in tuna; heat through."},
+        {"step": 5, "text": "Serve over toasted English muffin halves. Sprinkle with almonds, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Try this over toasted biscuits or cooked noodles",
+        "A comforting classic - perfect for a quick weeknight dinner"
+      ],
+      "tags": ["tuna", "fish", "seafood", "creamed", "comfort-food", "quick", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "tuna-noodle-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Noodle Casserole",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 176",
+      "description": "Home-style cooking at its best - classic creamy tuna casserole with noodles.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "medium noodles or elbow macaroni", "quantity": "3", "unit": "cups", "prep_note": "4 ounces"},
+        {"item": "chopped celery", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "condensed cream of mushroom or celery soup", "quantity": "1", "unit": "can", "prep_note": "10.75 oz"},
+        {"item": "milk", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "chopped pimiento", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "tuna", "quantity": "1", "unit": "9.25 oz can", "prep_note": "drained and flaked (or two 6.5 oz cans)"},
+        {"item": "grated Parmesan cheese", "quantity": "1", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook noodles or macaroni according to package directions; drain."},
+        {"step": 2, "text": "In a saucepan cook celery and onion in margarine till tender."},
+        {"step": 3, "text": "Stir in soup, milk, pimiento, and tuna. Add cooked noodles; mix well."},
+        {"step": 4, "text": "Transfer to a 1-1/2 quart casserole. Sprinkle with Parmesan cheese."},
+        {"step": 5, "text": "Bake, covered, in a 375°F oven for 25 to 30 minutes or till heated through."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "1-1/2 quart casserole",
+      "notes": [
+        "Marked as EASY in cookbook - Home-style cooking at its best",
+        "Vegetable variation: Stir in 2 cups cooked vegetables with the noodles",
+        "Extra-Creamy variation: Substitute one 8-oz container sour cream or yogurt for the condensed soup",
+        "Microwave directions: Cook noodles according to package. In 2-quart casserole, microwave celery and onion in margarine, covered, on high 3 to 5 minutes. Stir in soup, milk, pimiento, tuna, and noodles. Microwave uncovered on high 3-1/2 to 5-1/2 minutes till hot and bubbly."
+      ],
+      "tags": ["tuna", "fish", "seafood", "casserole", "noodles", "comfort-food", "easy", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5338 Large.jpeg"]
+    },
+    {
+      "id": "tuna-broccoli-crepes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Broccoli Crepes",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 176",
+      "description": "Elegant crepes filled with tuna and broccoli in a creamy cheese sauce - special enough for company.",
+      "servings_yield": "6 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        {"item": "frozen chopped broccoli", "quantity": "10", "unit": "oz", "prep_note": "1 package"},
+        {"item": "chopped onion", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "prepared mustard", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "shredded American cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "tuna or salmon", "quantity": "6.5", "unit": "oz can", "prep_note": "drained and broken into chunks (or 7.5 oz salmon, skin and bones removed)"},
+        {"item": "crepes", "quantity": "12", "unit": "", "prep_note": "see recipe page 72"},
+        {"item": "paprika", "quantity": "", "unit": "", "prep_note": "for garnish"},
+        {"item": "sliced or slivered almonds", "quantity": "", "unit": "", "prep_note": "optional, toasted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook broccoli according to package directions. Drain. Cut up any large pieces. Set aside."},
+        {"step": 2, "text": "For cheese sauce, in a medium saucepan cook onion in margarine till tender but not brown."},
+        {"step": 3, "text": "Stir in flour, salt, and pepper. Add milk all at once. Cook and stir till thickened and bubbly."},
+        {"step": 4, "text": "Add cheese. Cook and stir till cheese melts. Remove from heat."},
+        {"step": 5, "text": "Combine broccoli, tuna, and 3/4 cup of the cheese sauce."},
+        {"step": 6, "text": "Spoon about 3 tablespoons of the tuna mixture onto each crepe. Roll up."},
+        {"step": 7, "text": "Place crepes seam side down in a 12x7-1/2x2-inch baking dish."},
+        {"step": 8, "text": "Bake, covered, in a 375°F oven for 20 to 25 minutes or till heated through."},
+        {"step": 9, "text": "Reheat remaining cheese sauce, adding milk if needed. Spoon over crepes. Sprinkle with paprika and almonds."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "12x7-1/2x2-inch baking dish",
+      "notes": [
+        "Special enough for company",
+        "Can substitute salmon for tuna"
+      ],
+      "tags": ["tuna", "salmon", "fish", "seafood", "crepes", "broccoli", "cheese", "elegant", "entertaining"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5338 Large.jpeg"]
+    },
+    {
+      "id": "tuna-biscuit-casseroles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Biscuit Casseroles",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "Individual casseroles with creamy tuna and vegetables topped with biscuits.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "32 minutes",
+      "ingredients": [
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "dried thyme", "quantity": "2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "chicken broth", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "tuna", "quantity": "2", "unit": "6.5 oz cans", "prep_note": "drained and flaked"},
+        {"item": "frozen mixed vegetables", "quantity": "1", "unit": "cup", "prep_note": "thawed"},
+        {"item": "snipped parsley", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "refrigerated biscuits", "quantity": "1", "unit": "package", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook onion and garlic in margarine till tender."},
+        {"step": 2, "text": "Stir in flour, thyme, and 1/4 teaspoon pepper. Add broth and milk."},
+        {"step": 3, "text": "Cook and stir till thickened and bubbly."},
+        {"step": 4, "text": "Stir in tuna, vegetables, and parsley."},
+        {"step": 5, "text": "Divide mixture among four to six 10- to 12-ounce casseroles. Top each with a biscuit."},
+        {"step": 6, "text": "Bake in a 400°F oven 10 to 12 minutes or till biscuits are lightly browned."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "four to six 10-12 oz individual casseroles",
+      "notes": [
+        "Marked as EASY in cookbook",
+        "Biscuits are the topping for these individual casseroles"
+      ],
+      "tags": ["tuna", "fish", "seafood", "casserole", "biscuits", "individual", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
+    },
+    {
+      "id": "salmon-loaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmon Loaf",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "Classic salmon loaf with dill, optionally topped with cheese sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "finely chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "dried dillweed", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "slightly beaten"},
+        {"item": "milk", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "soft bread crumbs", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "canned pink salmon", "quantity": "15.5", "unit": "oz", "prep_note": "bones removed (or two 6.5 oz cans tuna, drained)"},
+        {"item": "Cheese Sauce or American cheese slices", "quantity": "2", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan cook onion, dillweed, and a dash pepper in margarine till onion is tender."},
+        {"step": 2, "text": "Combine egg, bread crumbs, milk, and onion mixture."},
+        {"step": 3, "text": "Add salmon; mix well."},
+        {"step": 4, "text": "Shape into a 6x3-inch loaf in a greased shallow baking pan."},
+        {"step": 5, "text": "Bake in a 350°F oven for 30 to 35 minutes."},
+        {"step": 6, "text": "Top with Cheese Sauce (see page 361) or cheese slices, if desired."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "shallow baking pan",
+      "notes": [
+        "No time for the sauce? Cook a 10-ounce package frozen creamed peas and onions to ladle over the loaf"
+      ],
+      "tags": ["salmon", "tuna", "fish", "seafood", "loaf", "baked", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
+    },
+    {
+      "id": "fast-fish-fix-ups",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fast Fish Fix-Ups (Quick Sauces)",
+      "category": "sauces",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "Three quick sauces to dress up baked fish fillets, fish portions, or fish sticks.",
+      "servings_yield": "about 1 cup each sauce",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        {"item": "Note: Choose one of the three sauce recipes below", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "DILLY-BUTTER SAUCE: Melt 1/4 cup margarine or butter in a saucepan. Stir in 1 tablespoon flour and 1/4 teaspoon dried dillweed. Add 3/4 cup milk. Cook and stir till thickened and bubbly. Stir in one 2-1/2 oz jar shredded process Swiss cheese. Makes 1 cup."},
+        {"step": 2, "text": "TEX-MEX SAUCE: Cook one 8-oz can tomato sauce, one 4-oz can diced green chili peppers, 1/2 teaspoon ground coriander, a pinch of sugar, and 1/4 teaspoon bottled hot pepper sauce till heated through."},
+        {"step": 3, "text": "SWEET-SOUR SAUCE: Cook one 10-oz can pineapple tidbits, one 8-oz jar sweet-sour sauce, and half of a green or sweet red pepper (cut into strips) till heated through."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "For a delicious dinner in a hurry, put frozen breaded fish portions or fish sticks in the oven and top with one of these easy sauces"
+      ],
+      "tags": ["sauce", "fish", "seafood", "quick", "fast", "dill", "tex-mex", "sweet-sour"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
+    },
+    {
+      "id": "salmon-pasta-skillet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmon-Pasta Skillet",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "One-skillet meal with salmon, pasta shells, and vegetables in a creamy mustard sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "chicken broth", "quantity": "1-1/4", "unit": "cups", "prep_note": ""},
+        {"item": "frozen mixed vegetables", "quantity": "10", "unit": "oz", "prep_note": "1 package"},
+        {"item": "shell macaroni", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "small bow noodles", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "prepared mustard", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "canned salmon", "quantity": "7.5", "unit": "oz", "prep_note": "drained, flaked, skin and bones removed"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In large skillet bring chicken broth to boiling."},
+        {"step": 2, "text": "Add vegetables and pasta. Return to boiling; reduce heat."},
+        {"step": 3, "text": "Simmer, covered, for 15 to 20 minutes or till pasta is tender."},
+        {"step": 4, "text": "Stir in cheese and mustard."},
+        {"step": 5, "text": "Gently fold in salmon. Cook till heated through."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Marked as EASY in cookbook",
+        "A complete one-skillet meal"
+      ],
+      "tags": ["salmon", "fish", "seafood", "pasta", "one-pot", "skillet", "easy", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
