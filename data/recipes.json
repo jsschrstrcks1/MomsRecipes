@@ -55877,6 +55877,841 @@
       "tags": ["candy", "dessert", "caramel", "apple", "fall"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "saltwater-taffy",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Saltwater Taffy",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Be sure to recruit some help when it's time to pull this tasty taffy.",
+      "servings_yield": "About 1½ pounds (48 servings)",
+      "prep_time": "",
+      "cook_time": "40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "water", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "salt", "quantity": "1½", "unit": "tsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "peppermint extract, rum flavoring, or oil of cinnamon", "quantity": "¼", "unit": "tsp", "prep_note": "optional"},
+        {"item": "food coloring", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Butter a 15x10x1-inch baking pan; set aside. Butter the sides of a heavy 2-quart saucepan."},
+        {"step": 2, "text": "In saucepan combine sugar, corn syrup, 1 cup water, and 1½ teaspoons salt. Cook and stir over medium-high heat to boiling. Clip candy thermometer to side of pan."},
+        {"step": 3, "text": "Cook over medium heat, without stirring, to 265°, hard-ball stage (about 40 minutes). Remove saucepan from heat."},
+        {"step": 4, "text": "Stir in margarine. Stir in flavoring and coloring, if desired. Pour into prepared pan. Cool for 15 to 20 minutes or till easy to handle."},
+        {"step": 5, "text": "Butter hands; divide candy into four pieces. Twist and pull each piece till it turns a creamy color (about 10 minutes). Candy is ready if it cracks when tapped on counter."},
+        {"step": 6, "text": "With buttered scissors, snip taffy into bite-size pieces. Wrap in clear plastic wrap."}
+      ],
+      "temperature": "265°F (hard-ball stage)",
+      "pan_size": "15x10x1-inch baking pan",
+      "notes": [],
+      "tags": ["candy", "dessert", "taffy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "pralines",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pralines",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic Southern pecan candy.",
+      "servings_yield": "About 36 pieces",
+      "prep_time": "",
+      "cook_time": "16-18 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "light cream", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "pecan halves", "quantity": "2", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Butter sides of a heavy 2-quart saucepan. In it, combine sugars and cream. Cook and stir over medium-high heat to boiling. Clip candy thermometer to side of pan."},
+        {"step": 2, "text": "Cook and stir over medium-low heat to 234°, soft-ball stage (16 to 18 minutes). Remove from heat."},
+        {"step": 3, "text": "Add margarine, but do not stir. Cool, without stirring, to 150° (about 30 minutes)."},
+        {"step": 4, "text": "Stir in nuts. Beat till candy just begins to thicken but is still glossy (about 3 minutes)."},
+        {"step": 5, "text": "Drop by spoonfuls onto waxed paper. If candy becomes too stiff, stir in a few drops hot water. Store tightly covered."}
+      ],
+      "temperature": "234°F (soft-ball stage)",
+      "pan_size": "",
+      "notes": [
+        "Chocolate Pralines: Prepare as above, except add 2 squares (2 ounces) finely chopped unsweetened chocolate with the margarine."
+      ],
+      "tags": ["candy", "dessert", "praline", "pecan", "southern"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "divinity",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Divinity",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Light, fluffy candy that melts in your mouth.",
+      "servings_yield": "About 40 pieces",
+      "prep_time": "",
+      "cook_time": "10-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "2½", "unit": "cups", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "water", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "egg whites", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "food coloring", "quantity": "1 or 2", "unit": "drops", "prep_note": "optional"},
+        {"item": "chopped candied fruit or nuts", "quantity": "½", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy 2-quart saucepan mix sugar, corn syrup, and ½ cup water. Cook and stir over medium-high heat to boiling. Clip candy thermometer to pan."},
+        {"step": 2, "text": "Cook over medium heat, without stirring, to 260°, hard-ball stage (10 to 15 minutes). Remove from heat. Remove candy thermometer."},
+        {"step": 3, "text": "In a large mixing bowl, beat egg whites with a sturdy, freestanding electric mixer on medium speed till stiff peaks form (tips stand straight)."},
+        {"step": 4, "text": "Gradually pour hot mixture in a thin stream over whites, beating on high about 3 minutes; scrape bowl. Add vanilla and, if desired, food coloring."},
+        {"step": 5, "text": "Continue beating on high just till candy starts to lose its gloss. When beaters are lifted, mixture should fall in a ribbon that mounds on itself. This final beating should take 5 to 6 minutes."},
+        {"step": 6, "text": "Drop a spoonful of candy mixture onto waxed paper. If it stays mounded, the mixture has been beaten sufficiently. Immediately stir in fruit or nuts."},
+        {"step": 7, "text": "Quickly drop remaining mixture from a teaspoon onto waxed paper. If mixture flattens out, beat ½ to 1 minute more; check again. If mixture is too stiff to spoon, beat in a few drops hot water till candy is a softer consistency. Store tightly covered."}
+      ],
+      "temperature": "260°F (hard-ball stage)",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["candy", "dessert", "divinity"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "nut-brittle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nut Brittle",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic crunchy peanut or nut brittle.",
+      "servings_yield": "About 2¼ pounds (72 servings)",
+      "prep_time": "",
+      "cook_time": "45-50 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "water", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "raw peanuts or other coarsely chopped nuts", "quantity": "2½", "unit": "cups", "prep_note": ""},
+        {"item": "baking soda", "quantity": "1½", "unit": "tsp", "prep_note": "sifted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Butter 2 large baking sheets; set aside. Butter sides of a heavy 3-quart saucepan."},
+        {"step": 2, "text": "In saucepan combine sugar, corn syrup, margarine, and ¼ cup water. Cook and stir over medium-high heat to boiling. Clip candy thermometer to side of pan."},
+        {"step": 3, "text": "Cook and stir over medium-low heat to 275°, soft-crack stage (about 30 minutes). Add nuts; cook and stir to 295°, hard-crack stage (15 to 20 minutes more)."},
+        {"step": 4, "text": "Remove saucepan from heat; remove thermometer. Quickly sprinkle soda over mixture, stirring constantly."},
+        {"step": 5, "text": "Immediately pour onto prepared baking sheets. Cool; break into pieces. Store tightly covered."}
+      ],
+      "temperature": "295°F (hard-crack stage)",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["candy", "dessert", "brittle", "peanut"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "toffee-butter-crunch",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Toffee Butter Crunch",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Butter is a must for top-notch toffee flavor.",
+      "servings_yield": "About 1½ pounds (48 servings)",
+      "prep_time": "",
+      "cook_time": "15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "toasted almonds or pecans", "quantity": "½", "unit": "cup", "prep_note": "coarsely chopped"},
+        {"item": "butter", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "water", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "semisweet chocolate pieces", "quantity": "¾", "unit": "cup", "prep_note": ""},
+        {"item": "toasted almonds or pecans", "quantity": "½", "unit": "cup", "prep_note": "finely chopped"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Line a 13x9x2-inch baking pan with foil, extending foil over edges. Sprinkle the ½ cup coarsely chopped nuts in pan. Butter sides of a heavy 2-quart saucepan."},
+        {"step": 2, "text": "In saucepan melt butter. Add sugar, corn syrup, and 3 tablespoons water. Cook and stir over medium-high heat to boiling. Clip candy thermometer to pan."},
+        {"step": 3, "text": "Cook and stir over medium heat to 290°, soft-crack stage (about 15 minutes). Watch carefully after 280° to prevent scorching."},
+        {"step": 4, "text": "Remove saucepan from heat; remove thermometer. Pour mixture into prepared pan. Let stand 5 minutes or till firm; sprinkle with chocolate pieces."},
+        {"step": 5, "text": "Let stand 1 to 2 minutes. When softened, spread chocolate over mixture. Sprinkle with finely chopped nuts. Chill till firm."},
+        {"step": 6, "text": "Lift candy out of pan; break into pieces. Store tightly covered."}
+      ],
+      "temperature": "290°F (soft-crack stage)",
+      "pan_size": "13x9x2-inch baking pan",
+      "notes": [],
+      "tags": ["candy", "dessert", "toffee", "chocolate"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "glazed-nuts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Glazed Nuts",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Cashews, peanuts, whole almonds, or pecan halves all taste great in this crunchy candy.",
+      "servings_yield": "About 10 ounces (12 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "raw or roasted nuts", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "½", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Line a baking sheet with foil. Butter the foil; set aside."},
+        {"step": 2, "text": "In a heavy 10-inch skillet combine nuts, sugar, margarine or butter, and vanilla. Cook over medium-high heat, shaking skillet occasionally, till sugar begins to melt. Do not stir."},
+        {"step": 3, "text": "Reduce heat to low and cook till sugar is golden brown, stirring occasionally. Remove skillet from heat."},
+        {"step": 4, "text": "Pour onto prepared baking sheet. Cool completely. Break candy into clusters. Store tightly covered."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["candy", "dessert", "nuts", "glazed"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "caramel-corn",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel Corn",
+      "category": "snacks",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "This sweet snack is oven-baked for extra crunch.",
+      "servings_yield": "About 9 cups (9 servings)",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "popped popcorn", "quantity": "8", "unit": "cups", "prep_note": "about ⅓ to ½ cup unpopped"},
+        {"item": "packed brown sugar", "quantity": "¾", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "baking soda", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "¼", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Remove all unpopped kernels from popped corn. Place popcorn in a greased 17x12x2-inch baking pan. Keep popcorn warm in a 300° oven while making caramel mixture."},
+        {"step": 2, "text": "Butter the sides of a heavy 1½-quart saucepan. In saucepan combine brown sugar, margarine or butter, and corn syrup. Cook and stir over medium heat to boiling. Clip candy thermometer to side of pan."},
+        {"step": 3, "text": "Cook and stir over medium heat to 255°, hard-ball stage (about 4 minutes)."},
+        {"step": 4, "text": "Remove saucepan from heat. Stir in baking soda and vanilla; pour over popcorn. Stir gently to coat."},
+        {"step": 5, "text": "Bake in a 300° oven for 15 minutes; stir. Bake 5 minutes more."},
+        {"step": 6, "text": "Transfer popcorn mixture to a large piece of foil; cool completely. Break into clusters. Store tightly covered."}
+      ],
+      "temperature": "300°F",
+      "pan_size": "17x12x2-inch baking pan",
+      "notes": [
+        "Nutty Caramel Corn: Prepare as above, except add 1½ cups peanuts, walnut halves, cashews, or pecan halves to caramel-coated corn before baking. Toss gently. Makes about 10½ cups (10 servings)."
+      ],
+      "tags": ["snack", "dessert", "popcorn", "caramel"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-covered-cherries",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate-Covered Cherries",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic homemade chocolate-covered cherries with creamy fondant centers.",
+      "servings_yield": "About 60 pieces",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "maraschino cherries with stems", "quantity": "60", "unit": "", "prep_note": "about three 10-ounce jars"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": "softened"},
+        {"item": "light corn syrup", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "2", "unit": "cups", "prep_note": "sifted"},
+        {"item": "chocolate-flavored confectioners' coating", "quantity": "1", "unit": "lb", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Drain cherries thoroughly on paper towels for several hours. Combine margarine and corn syrup. Stir in powdered sugar; knead mixture till smooth (chill if too soft to handle)."},
+        {"step": 2, "text": "Shape about ½ teaspoon powdered sugar mixture around each cherry. Place coated cherries upright on a baking sheet lined with waxed paper, chill about 1 hour or till firm (do not chill too long or sugar mixture will begin to dissolve)."},
+        {"step": 3, "text": "Melt confectioners' coating (see tip, opposite). Holding cherries by stems, dip into coating. (Be sure to completely seal cherries in coating to prevent cherry juice from leaking.) Let excess coating drip off cherries."},
+        {"step": 4, "text": "Place cherries, stem side up, on a baking sheet lined with waxed paper. Chill till coating is firm. Store in refrigerator in a tightly covered container."},
+        {"step": 5, "text": "Let candies ripen in refrigerator for 1 to 2 weeks before serving. (Ripening allows powdered sugar mixture around cherries to soften and liquefy.)"}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Ripening for 1-2 weeks is essential for the fondant center to liquefy properly"
+      ],
+      "tags": ["candy", "dessert", "chocolate", "cherries"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-dipped-fruit",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate-Dipped Fruit",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Fresh or canned fruit dipped in chocolate coating for an elegant treat.",
+      "servings_yield": "About 50 pieces",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "fresh strawberries, maraschino cherries, canned pineapple chunks, or mandarin orange sections", "quantity": "2½", "unit": "cups", "prep_note": "or a combination"},
+        {"item": "chocolate- or vanilla-flavored confectioners' coating", "quantity": "8", "unit": "oz", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Drain fruit on paper towels for several hours."},
+        {"step": 2, "text": "Melt confectioners' coating. Holding fruit by one end, dip a portion into melted coating. (Or, to completely cover the fruit, drop one piece at a time into melted coating. Use a fork to lift fruit out of coating.)"},
+        {"step": 3, "text": "Let excess coating drip off fruit; place on a baking sheet lined with waxed paper. Let dry."},
+        {"step": 4, "text": "If desired, drizzle with additional melted coating. Serve fruit the same day it is dipped."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Serve the same day as dipped for best results"
+      ],
+      "tags": ["candy", "dessert", "chocolate", "fruit"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "fondant",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fondant",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic creamy fondant candy that can be formed into balls or dipped in chocolate.",
+      "servings_yield": "About ¾ pound (24 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "light corn syrup", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Butter sides of a heavy 1½-quart saucepan. In saucepan combine sugar, corn syrup, and 1½ cups water. Cook and stir over medium-high heat to boiling. Cover and cook 45 seconds more."},
+        {"step": 2, "text": "Uncover; clip candy thermometer to pan. Cook over medium-low heat, without stirring, to 240°, soft-ball stage (35 to 45 minutes). Pour mixture onto a 12-inch platter. Do not scrape pan."},
+        {"step": 3, "text": "Cool, without stirring, till slightly warm to the touch (about 50 minutes)."},
+        {"step": 4, "text": "Using a wooden spoon or a heavy-duty rubber spatula, beat vigorously till candy is white and firm (about 10 minutes). Knead till smooth, about 5 minutes."},
+        {"step": 5, "text": "Form into a ball. Wrap in clear plastic wrap; let ripen at room temperature for 24 hours. (Ripening is necessary for smooth and creamy fondant.)"},
+        {"step": 6, "text": "If desired, use fondant to stuff whole pitted dates, prunes, or dried figs. Or, shape into ¾-inch balls and dip into melted confectioners' coating."}
+      ],
+      "temperature": "240°F (soft-ball stage)",
+      "pan_size": "",
+      "notes": [
+        "Ripening for 24 hours is necessary for smooth and creamy fondant",
+        "Mint Patties: Prepare as above, except heat and stir ripened fondant in top of a double boiler over hot, not boiling, water till melted. Remove pan from heat, but leave fondant over hot water. Stir in 1 tablespoon softened margarine, 2 to 3 drops oil of peppermint or oil of cinnamon, and a few drops food coloring. Drop from a teaspoon onto waxed paper, swirling tops. Let stand till set. Cover to store. Makes 30 to 36 (1½-inch) patties."
+      ],
+      "tags": ["candy", "dessert", "fondant"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "truffles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Truffles",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich chocolate truffles with liqueur that can be rolled in cocoa powder, chocolate sprinkles, or chopped nuts.",
+      "servings_yield": "About 32 pieces",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "semisweet chocolate", "quantity": "6", "unit": "squares (6 ounces)", "prep_note": "coarsely chopped"},
+        {"item": "margarine or butter", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "whipping cream", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "egg yolk", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "rum, whiskey, brandy, coffee liqueur, or orange liqueur", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "chocolate-flavored confectioners' coating", "quantity": "12", "unit": "oz", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy 2-quart saucepan combine semisweet chocolate, margarine or butter, and whipping cream. Cook and stir over low heat till chocolate melts (about 10 minutes). Remove saucepan from heat."},
+        {"step": 2, "text": "Gradually stir about half of the hot mixture into the beaten egg yolk. Return the mixture to the saucepan. Cook and stir over medium heat till the mixture is slightly thickened. Remove saucepan from heat."},
+        {"step": 3, "text": "Stir in rum, whiskey, brandy, or coffee or orange liqueur. Transfer mixture to a small mixing bowl. Cover and chill till completely cool and smooth, stirring occasionally (about 1½ hours)."},
+        {"step": 4, "text": "Beat chilled mixture with an electric mixer on medium speed till slightly fluffy (about 2 minutes). Chill till mixture holds its shape (10 to 15 minutes)."},
+        {"step": 5, "text": "Drop mixture by well-rounded teaspoons onto a baking sheet lined with waxed paper. Chill till firm (about 30 minutes). If desired, gently shape into balls."},
+        {"step": 6, "text": "Melt chocolate-flavored confectioners' coating. Dip candy into melted confectioners' coating; let excess coating drip off candy."},
+        {"step": 7, "text": "Place dipped candy on a baking sheet lined with waxed paper; let stand till coating is dry. Store tightly covered in a cool, dry place up to 2 weeks."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Instead of dipping them into coating, roll these nuggets in cocoa powder, chocolate sprinkles, or chopped nuts"
+      ],
+      "tags": ["candy", "dessert", "chocolate", "truffles"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "peanut-butter-balls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Balls",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Fun for kids to make and eat. Easy no-cook peanut butter candy dipped in chocolate.",
+      "servings_yield": "About 30 pieces",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "peanut butter", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": "softened"},
+        {"item": "powdered sugar", "quantity": "1", "unit": "cup", "prep_note": "sifted"},
+        {"item": "chocolate-flavored confectioners' coating", "quantity": "8", "unit": "oz", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Stir together peanut butter and margarine. Gradually add sugar, stirring till combined."},
+        {"step": 2, "text": "Shape into 1-inch balls; place on waxed paper. Let stand till dry (about 20 minutes)."},
+        {"step": 3, "text": "Melt confectioners' coating. Cool slightly. Dip balls into melted coating; let excess drip off."},
+        {"step": 4, "text": "Place on waxed paper; let stand till coating is dry."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Fun activity to make with kids"
+      ],
+      "tags": ["candy", "dessert", "peanut butter", "chocolate", "easy", "no-bake", "kid-friendly"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "peanut-clusters",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Clusters",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Easy chocolate-coated nut clusters. To keep the chocolate firm, remove only a few clusters at a time from the refrigerator.",
+      "servings_yield": "About 36 pieces",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "vanilla-flavored confectioners' coating", "quantity": "½", "unit": "lb", "prep_note": "cut up"},
+        {"item": "semisweet chocolate pieces", "quantity": "1", "unit": "6-ounce package (1 cup)", "prep_note": ""},
+        {"item": "peanuts or cashews", "quantity": "2", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a heavy medium saucepan melt confectioners' coating and chocolate pieces over low heat, stirring constantly."},
+        {"step": 2, "text": "Stir in peanuts or cashews. Drop mixture from a teaspoon onto a baking sheet lined with waxed paper."},
+        {"step": 3, "text": "Chill till firm (about 30 minutes). Store tightly covered in the refrigerator."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a medium bowl micro-cook confectioners' coating and chocolate pieces, uncovered, on 100% power (high) for 2½ to 3 minutes or till mixture becomes smooth when stirred. Stir in nuts. Continue as above."
+      ],
+      "tags": ["candy", "dessert", "peanuts", "chocolate", "easy", "no-bake"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "rocky-road-candy",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rocky Road",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Marshmallows and chopped nuts are the rocks in this delicious chocolate road. Fast to make.",
+      "servings_yield": "About 36 pieces",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "milk chocolate bars", "quantity": "2", "unit": "8-ounce", "prep_note": "broken up"},
+        {"item": "tiny marshmallows", "quantity": "2½", "unit": "cups", "prep_note": ""},
+        {"item": "coarsely chopped nuts", "quantity": "1", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Line an 8x8x2-inch baking pan with foil, extending foil over edges of pan. Butter foil; set aside."},
+        {"step": 2, "text": "In a medium saucepan slowly melt chocolate over low heat, stirring constantly. Remove from heat."},
+        {"step": 3, "text": "Stir in marshmallows and nuts. Spread into prepared pan. Chill till firm (at least 1 hour)."},
+        {"step": 4, "text": "Use foil to lift candy out of pan; cut into squares. Store in the refrigerator."}
+      ],
+      "temperature": "",
+      "pan_size": "8x8x2-inch pan",
+      "notes": [
+        "Microwave directions: Line pan and butter foil as above. In a medium bowl micro-cook chocolate, uncovered, on 100% power (high) for 1½ to 2¼ minutes or till chocolate becomes smooth when stirred. Stir in marshmallows and nuts. Spread into prepared pan. Chill till firm. Lift candy from the pan and cut into squares. Store in the refrigerator."
+      ],
+      "tags": ["candy", "dessert", "chocolate", "marshmallow", "nuts", "fast", "no-bake"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "caramel-snappers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel Snappers",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Layers of toasted pecans, chewy caramel, and creamy chocolate make an irresistible candy.",
+      "servings_yield": "About 30 pieces",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "pecan halves", "quantity": "90", "unit": "", "prep_note": "about 1½ cups"},
+        {"item": "vanilla caramels", "quantity": "½", "unit": "of a 14-ounce package (about 25)", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "semisweet chocolate pieces", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "shortening", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Spread pecans into a single layer in a shallow baking pan. Bake in a 350° oven about 10 minutes or till toasted, stirring occasionally."},
+        {"step": 2, "text": "Line a baking sheet with foil. Butter the foil. On foil, arrange pecans in groups of 3, flat side down."},
+        {"step": 3, "text": "In a heavy saucepan combine caramels and margarine. Cook and stir over low heat till melted and smooth. Remove from heat."},
+        {"step": 4, "text": "Drop about 1 teaspoon melted caramel mixture onto each group of pecans. Let caramel pieces stand till firm (about 20 minutes)."},
+        {"step": 5, "text": "In a small saucepan heat chocolate pieces and shortening over low heat, stirring constantly, till melted and smooth. Remove from heat."},
+        {"step": 6, "text": "With a narrow spatula, spread a small amount of melted chocolate mixture over the top of each caramel piece. Let stand till firm. Remove from baking sheet. Store tightly covered."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["candy", "dessert", "pecans", "caramel", "chocolate"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "cream-cheese-mints",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Cheese Mints",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Make these rich-tasting mints ahead, then store them in the freezer for up to 1 month.",
+      "servings_yield": "48 to 60 mints",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "cream cheese", "quantity": "1", "unit": "3-ounce package", "prep_note": "softened"},
+        {"item": "peppermint extract", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "3", "unit": "cups", "prep_note": "sifted"},
+        {"item": "food coloring", "quantity": "", "unit": "", "prep_note": "few drops"},
+        {"item": "sugar", "quantity": "", "unit": "", "prep_note": "for rolling"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small mixing bowl stir together softened cream cheese and peppermint extract."},
+        {"step": 2, "text": "Gradually add powdered sugar, stirring till mixture is smooth. (Knead in the last of the powdered sugar with your hands.) Add food coloring. Knead till food coloring is evenly distributed."},
+        {"step": 3, "text": "Form cream cheese mixture into ¾-inch balls. Roll each ball in sugar; place on waxed paper."},
+        {"step": 4, "text": "Flatten each ball with the bottom of a juice glass or with the tines of a fork. (Or, sprinkle small candy molds lightly with sugar. Press about ¾ to 1 teaspoon cream cheese mixture into each mold. Remove from molds.)"},
+        {"step": 5, "text": "Cover mints with paper towels; let dry overnight. Store tightly covered in the refrigerator."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can be frozen for up to 1 month"
+      ],
+      "tags": ["candy", "dessert", "mints", "cream cheese", "no-bake"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "lemon-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Bars",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic lemon bars with a shortbread crust and tangy lemon filling.",
+      "servings_yield": "Makes 20",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "eggs", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": "for filling"},
+        {"item": "lemon peel", "quantity": "2", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "lemon juice", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "baking powder", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Beat margarine with an electric mixer on medium to high speed for 30 seconds. Add ¼ cup of the sugar. Beat till combined. Beat in the 1 cup flour till crumbly."},
+        {"step": 2, "text": "Press into the bottom of an ungreased 8x8x2-inch baking pan. Bake in a 350° oven for 15 to 18 minutes or just till golden."},
+        {"step": 3, "text": "Meanwhile, combine eggs, the remaining sugar, the 2 tablespoons flour, lemon peel, juice, and baking powder. Beat for 2 minutes or till thoroughly combined. Pour over hot baked layer."},
+        {"step": 4, "text": "Bake in a 350° oven about 20 minutes more or till lightly browned around the edges and center is set. Cool on a wire rack."},
+        {"step": 5, "text": "If desired, sift powdered sugar over top. Cut into bars."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "8x8x2-inch pan",
+      "notes": [],
+      "tags": ["cookie", "bars", "dessert", "lemon"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "crispy-cereal-squares",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crispy Cereal Squares",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Fast no-bake treats. Make these in the microwave, too.",
+      "servings_yield": "Makes 25",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "light corn syrup", "quantity": "⅔", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "peanut butter", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "crisp rice cereal", "quantity": "4", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan combine light corn syrup and packed brown sugar. Cook and stir till mixture comes to a full rolling boil."},
+        {"step": 2, "text": "Remove saucepan from heat and stir in 1 cup peanut butter and ½ teaspoon vanilla. Stir in 4 cups crisp rice cereal."},
+        {"step": 3, "text": "Press into an ungreased 9x9x2-inch pan. Chill about 1 hour or till firm. Cut into bars."}
+      ],
+      "temperature": "",
+      "pan_size": "9x9x2-inch pan",
+      "notes": [
+        "Microwave directions: In a 2-quart casserole micro-cook corn syrup, brown sugar, peanut butter, and vanilla on 100% power (high) for 2 to 3 minutes or till bubbly over entire surface, stirring twice. Stir in cereal. Continue as above."
+      ],
+      "tags": ["cookie", "bars", "dessert", "no-bake", "peanut butter", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "granola-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Granola Bars",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "This soft, moist, and chewy bar cookie is loaded with granola and oats.",
+      "servings_yield": "Makes 24",
+      "prep_time": "",
+      "cook_time": "30 to 35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "granola", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "quick-cooking rolled oats", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "chopped nuts", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "raisins or mixed dried fruit bits", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "honey", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "½", "unit": "tsp", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Line an 8x8x2-inch baking pan with foil. Grease the foil; set pan aside."},
+        {"step": 2, "text": "In a mixing bowl combine granola, oats, nuts, flour, and raisins. Stir in egg, honey, oil, brown sugar, and, if desired, cinnamon. Press evenly into the prepared pan."},
+        {"step": 3, "text": "Bake in a 325° oven for 30 to 35 minutes or till lightly browned around the edges."},
+        {"step": 4, "text": "Cool. Use foil to remove from pan. Cut into bars."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "8x8x2-inch pan",
+      "notes": [],
+      "tags": ["cookie", "bars", "dessert", "granola", "oats", "healthy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "fruit-filled-oatmeal-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit-Filled Oatmeal Bars",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Oatmeal crumb bars with choice of fruit fillings. Need a shortcut? Substitute a 10-ounce jar of preserves for the homemade filling.",
+      "servings_yield": "Makes 25",
+      "prep_time": "",
+      "cook_time": "30 to 35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "quick-cooking rolled oats", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "⅔", "unit": "cup", "prep_note": ""},
+        {"item": "baking soda", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "Raisin Filling, Apple-Cinnamon Filling, or Apricot-Coconut Filling", "quantity": "", "unit": "", "prep_note": "see notes"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl combine flour, oats, brown sugar, and baking soda. Cut in margarine or butter till mixture resembles coarse crumbs."},
+        {"step": 2, "text": "Reserve ¾ cup of the flour mixture. Press remaining flour mixture into the bottom of an ungreased 9x9x2-inch baking pan. Spread with desired filling. Sprinkle with reserved flour mixture."},
+        {"step": 3, "text": "Bake in a 350° oven for 30 to 35 minutes or till the top is golden. Cool in the pan on a wire rack. Cut into bars."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "9x9x2-inch pan",
+      "notes": [
+        "Shortcut: Substitute a 10-ounce jar of preserves for the homemade filling.",
+        "Raisin Filling: In a medium saucepan combine ½ cup water, 2 tablespoons sugar, and 2 teaspoons cornstarch. Add 1 cup raisins. Cook and stir till thickened and bubbly.",
+        "Apple-Cinnamon Filling: Peel, core, and chop 2 medium apples (about 10 ounces). In a medium saucepan combine apples, 2 tablespoons water, 1 tablespoon lemon juice, ½ teaspoon ground cinnamon, and a dash ground cloves. Bring apple mixture to boiling; reduce heat. Simmer for 8 to 10 minutes or till apples are very tender.",
+        "Apricot-Coconut Filling: In a medium saucepan combine 1 cup snipped dried apricots and ¾ cup water. Bring apricot mixture to boiling; reduce heat. Cover and simmer for 5 minutes. Meanwhile, combine ¼ cup sugar and 1 tablespoon all-purpose flour. Stir into apricot mixture. Cook and stir about 1 minute more or till very thick. Stir in ½ cup coconut."
+      ],
+      "tags": ["cookie", "bars", "dessert", "oatmeal", "fruit"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "orange-date-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Orange-Date Bars",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Moist bars with orange, dates, and walnuts.",
+      "servings_yield": "Makes 24",
+      "prep_time": "",
+      "cook_time": "25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "orange peel", "quantity": "1", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "orange juice", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "baking powder", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "baking soda", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "chopped walnuts", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "chopped pitted dates", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For batter, in a mixing bowl beat margarine or butter with an electric mixer on medium to high speed for 30 seconds. Add about half of the flour, the brown sugar, orange peel, half of the orange juice, the egg, baking powder, and baking soda."},
+        {"step": 2, "text": "Beat till thoroughly combined. Beat in remaining flour and orange juice. Stir in walnuts and dates."},
+        {"step": 3, "text": "Spread batter into an ungreased 11x7x1½-inch baking pan. Bake in a 350° oven about 25 minutes or till a toothpick inserted near the center comes out clean."},
+        {"step": 4, "text": "Cool in the pan on a wire rack. Sift powdered sugar over the top. Cut into bars."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "11x7x1½-inch pan",
+      "notes": [
+        "Microwave directions: Prepare batter as above. Spread batter into an ungreased 8x8x2-inch baking dish. Micro-cook, uncovered, on 50% power (medium) for 11 minutes, giving the dish a quarter-turn every 3 minutes. If not done, cook on 100% power (high) for 30 seconds to 2 minutes more or till the surface is nearly dry. Cool; sprinkle with the powdered sugar. Cut into bars.",
+        "Spicy Prune Bars: Prepare as above, except add ½ teaspoon ground cinnamon and dash ground cloves with the first half of flour, and substitute snipped dried pitted prunes for dates.",
+        "Cranberry-Pecan Bars: Prepare as above, except substitute chopped pecans for the walnuts and chopped cranberries for the dates."
+      ],
+      "tags": ["cookie", "bars", "dessert", "orange", "dates", "walnuts"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "pumpkin-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pumpkin Bars",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Easy spiced pumpkin bars with cream cheese frosting.",
+      "servings_yield": "Makes 48",
+      "prep_time": "",
+      "cook_time": "25 to 30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "baking powder", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "baking soda", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "ground cloves", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": "beaten"},
+        {"item": "canned pumpkin", "quantity": "1", "unit": "16-ounce can", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "Cream Cheese Frosting", "quantity": "½", "unit": "recipe", "prep_note": "see recipe, page 88"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Combine flour, sugar, baking powder, cinnamon, soda, salt, and cloves. Stir in eggs, pumpkin, and cooking oil till thoroughly combined."},
+        {"step": 2, "text": "Spread batter into an ungreased 15x10x1-inch baking pan."},
+        {"step": 3, "text": "Bake in a 350° oven for 25 to 30 minutes or till a toothpick inserted near the center comes out clean."},
+        {"step": 4, "text": "Cool on a wire rack. Frost with Cream Cheese Frosting. Cut into bars."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "15x10x1-inch pan",
+      "notes": [
+        "Applesauce Bars: Prepare as above, except substitute applesauce for the pumpkin."
+      ],
+      "tags": ["cookie", "bars", "dessert", "pumpkin", "spice", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "peanut-butter-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Bars",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Chewy oat bars with peanut butter frosting.",
+      "servings_yield": "Makes 20",
+      "prep_time": "",
+      "cook_time": "15 to 18 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "⅔", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "peanut butter", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "shortening", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "baking soda", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "quick-cooking rolled oats", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "Peanut-Butter Frosting", "quantity": "½", "unit": "recipe", "prep_note": "see recipe, page 89"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Combine about half of the flour, the brown sugar, peanut butter, shortening, egg, milk, vanilla, and soda. Beat with an electric mixer on medium to high speed till thoroughly combined."},
+        {"step": 2, "text": "Beat in remaining flour. Stir in oats. Spread batter into an ungreased 8x8x2-inch baking pan."},
+        {"step": 3, "text": "Bake in a 375° oven for 15 to 18 minutes or till a toothpick inserted near the center comes out clean."},
+        {"step": 4, "text": "Cool in pan on a wire rack. Frost with Peanut-Butter Frosting. Cut into bars."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "8x8x2-inch pan",
+      "notes": [],
+      "tags": ["cookie", "bars", "dessert", "peanut butter", "oats"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
