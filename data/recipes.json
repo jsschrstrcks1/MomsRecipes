@@ -52147,6 +52147,855 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "cocoa-ripple-ring",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cocoa Ripple Ring",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "16 servings",
+      "prep_time": "",
+      "cook_time": "30 to 35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u2154",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "presweetened cocoa powder (not low calorie)",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Powdered Sugar Glaze",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe below"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine first 3 ingredients. Add milk and oil; beat with an electric mixer on low speed till blended. Beat on high for 2 minutes. Add eggs; beat 2 minutes. Pour \u2154 cup batter into a greased and floured 6-cup fluted tube pan or 6\u00bd-cup ring mold."
+        },
+        {
+          "step": 2,
+          "text": "Mix cocoa powder and nuts; sprinkle half of mixture over batter in pan. Repeat layers. Bake in a 350\u00b0 oven for 30 to 35 minutes or till a toothpick inserted near the center comes out clean. Cool 5 minutes. Remove from pan. Drizzle with Powdered Sugar Glaze."
+        }
+      ],
+      "temperature": "350\u00b0F",
+      "pan_size": "6-cup fluted tube pan or 6\u00bd-cup ring mold",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "chocolate",
+        "cocoa",
+        "ring"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "berry-coffee-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Berry Coffee Cake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "20 to 25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "1",
+          "unit": "3-ounce package",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "packaged biscuit mix or Easy Biscuit Mix",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raspberry, strawberry, or peach preserves",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Powdered Sugar Glaze",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut cream cheese and margarine into biscuit mix till crumbly. Add milk; stir till mixed."
+        },
+        {
+          "step": 2,
+          "text": "On lightly floured surface, knead dough 10 to 12 strokes. On waxed paper, roll or pat dough into a 12x8-inch rectangle. Invert onto a greased baking sheet; remove paper. Spread preserves down center of dough. Make 2\u00bd-inch cuts from long sides toward the center at 1-inch intervals. Fold strips alternately over filling."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 375\u00b0 oven for 20 to 25 minutes or till golden. Drizzle with Powdered Sugar Glaze. Serve warm."
+        },
+        {
+          "step": 4,
+          "text": "Powdered Sugar Glaze: In a bowl stir together \u00bd cup sifted powdered sugar, \u00bc teaspoon vanilla, and enough milk to make of drizzling consistency (1 to 2 teaspoons)."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "baking sheet",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "coffee cake",
+        "berry",
+        "easy",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "nutty-sticky-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nutty Sticky Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Eat these rolls with a fork so you won't miss a bite of the maple, orange, or chocolate topping",
+      "servings_yield": "12 rolls",
+      "prep_time": "",
+      "cook_time": "about 25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "light corn syrup or maple-flavored syrup",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "coarsely chopped pecans or walnuts",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00be",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u2154",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": "for filling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan combine syrup, brown sugar, the 2 tablespoons margarine, and the water. Cook and stir over low heat just till margarine or butter melts; do not boil. Spread onto the bottom of a 9x9x2-inch baking pan. Sprinkle nuts over syrup mixture."
+        },
+        {
+          "step": 2,
+          "text": "In a mixing bowl stir together flour, baking powder, and salt. Cut in \u2153 cup shortening, margarine, or butter till mixture resembles coarse crumbs. Make a well in center. Add milk all at once, stirring just till dough clings together."
+        },
+        {
+          "step": 3,
+          "text": "On a lightly floured surface, knead dough gently for 15 to 20 strokes. Roll dough into a 12x10-inch rectangle. Combine \u00bc cup sugar and the cinnamon; sprinkle over dough. Roll up from one of the long sides. Slice into 1-inch pieces. Place, cut side down, atop nuts in the baking pan."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 425\u00b0 oven about 25 minutes or till golden. Immediately loosen sides and invert onto a serving plate. Spoon any topping in pan over rolls. Serve warm."
+        }
+      ],
+      "temperature": "425\u00b0F",
+      "pan_size": "9x9x2-inch baking pan",
+      "notes": [
+        "Orange Sticky Rolls: Prepare as above, except, in the syrup mixture, substitute 1 tablespoon orange juice for the water and add 1 teaspoon finely shredded orange peel. Add 1 teaspoon additional finely shredded orange peel to dough with the milk.",
+        "Chocolate Sticky Rolls: Prepare as above, except, in the syrup mixture, omit the 2 tablespoons margarine or butter and add \u00bc cup miniature semisweet chocolate pieces; cook and stir till melted. After sprinkling rolled dough with cinnamon-sugar mixture, sprinkle with \u00bc cup additional miniature semisweet chocolate pieces."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "rolls",
+        "sticky buns",
+        "cinnamon",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "biscuits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Biscuits",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "For different shapes, use a sharp knife to cut the rolled dough into squares, triangles, or strips. Plain Biscuits are pictured on page 33.",
+      "servings_yield": "10 biscuits",
+      "prep_time": "",
+      "cook_time": "10 to 12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u2154",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl stir together flour, baking powder, sugar, cream of tartar, and salt. Cut in shortening, margarine, or butter till mixture resembles coarse crumbs. Make a well in the center; add milk all at once. Stir just till dough clings together."
+        },
+        {
+          "step": 2,
+          "text": "On a lightly floured surface, knead dough gently for 10 to 12 strokes. Roll or pat dough to \u00bd-inch thickness. Cut with a 2\u00bd-inch biscuit cutter, dipping cutter into flour between cuts."
+        },
+        {
+          "step": 3,
+          "text": "Transfer biscuits to a baking sheet. Bake in a 450\u00b0 oven for 10 to 12 minutes or till golden. Serve warm."
+        }
+      ],
+      "temperature": "450\u00b0F",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Buttermilk Biscuits: Prepare as above, except stir \u00bc teaspoon baking soda into flour mixture and substitute \u00be cup buttermilk for the milk.",
+        "Cornmeal Biscuits: Prepare as above, except reduce flour to 1\u00bd cups and add \u00bd cup cornmeal to flour mixture.",
+        "Garden Biscuits: Prepare as above, except add 2 tablespoons finely shredded carrot, 1 tablespoon finely snipped parsley, and 1 tablespoon finely chopped green onion to flour mixture with the milk.",
+        "Sour Cream Biscuits: Prepare as above, except reduce milk to \u00bc cup and add \u00bd cup dairy sour cream to flour mixture with the milk.",
+        "Cheese Biscuits: Prepare as above, except add \u00bd cup shredded cheddar cheese to the flour mixture with the milk.",
+        "Cajun-Style Biscuits: Prepare as above, except stir \u00bc teaspoon ground red pepper and \u00bc teaspoon black pepper into flour mixture.",
+        "Drop Biscuits: Prepare as above, except increase milk to 1 cup. Do not knead, roll, or cut dough. Drop dough from a tablespoon onto a greased baking sheet. Makes 10 to 12."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "biscuits",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "easy-biscuit-mix",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Easy Biscuit Mix",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Use shortening that does not require refrigeration for this handy mix",
+      "servings_yield": "about 12 cups mix",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour, or all-purpose flour and whole wheat flour",
+          "quantity": "10 cups (or 6 cups + 4 cups)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl stir together flour, baking powder, sugar, and 2 teaspoons salt. Cut in shortening till mixture resembles coarse crumbs. Store in an airtight container for up to 6 weeks at room temperature or for up to 6 months in the freezer. Use to make Easy Biscuits, Easy Muffins, Easy Pancakes, or Easy Beer-Cheese Triangles."
+        },
+        {
+          "step": 2,
+          "text": "To use, spoon mixture lightly into a measuring cup; level off with a straight-edged spatula. (If frozen, bring mix to room temperature.)"
+        }
+      ],
+      "temperature": "450\u00b0 or 400\u00b0F (varies)",
+      "pan_size": "",
+      "notes": [
+        "Easy Biscuits: Place 1 cup Easy Biscuit Mix in a bowl; make a well in the center. Add \u00bc cup milk. Stir with a fork just till dough clings together. On a lightly floured surface, knead dough gently for 10 to 12 strokes. Roll or pat to \u00bd-inch thickness. Cut with a 2\u00bd-inch biscuit cutter, dipping cutter into flour between cuts. Place on a baking sheet. Bake in a 450\u00b0 oven for 8 to 10 minutes or till golden. Serve warm. Makes 4.",
+        "Easy Muffins: In a mixing bowl combine 1 cup Easy Biscuit Mix and 1 to 3 tablespoons sugar. Combine 1 beaten egg and \u00bc cup milk; add all at once to biscuit mixture. Stir just till moistened (should be lumpy). Fill greased muffin cups \u2154 full. Bake in a 400\u00b0 oven for 15 to 20 minutes or till golden. Serve warm. Makes 6.",
+        "Easy Pancakes: Place 1 cup Easy Biscuit Mix in a bowl. Add 1 beaten egg and \u00be cup milk all at once to biscuit mix, stirring with a whisk till well blended. For each pancake, pour about \u00bc cup batter onto a hot, lightly greased griddle or heavy skillet. Cook till golden brown, turning to cook second side when pancake has a bubbly surface and slightly dry edges. Makes 6.",
+        "Easy Beer-Cheese Triangles: In a bowl combine 1 cup Easy Biscuit Mix and \u00bc cup shredded cheddar cheese. Make a well in the center. Add \u00bc cup beer or milk. Stir just till dough clings together. On a lightly floured surface, knead gently for 12 strokes. Pat dough into a 6-inch circle. Cut into 8 wedges. Place on a baking sheet. Bake in a 450\u00b0 oven for 8 to 10 minutes or till golden. Serve warm. Makes 8."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "biscuit mix",
+        "make-ahead",
+        "pantry staple"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pecan-biscuit-spirals",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pecan Biscuit Spirals",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "15 spirals",
+      "prep_time": "",
+      "cook_time": "8 to 10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "finely chopped pecans",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine flour, 2 tablespoons sugar, the baking powder, and \u00bc teaspoon salt. Cut in \u00bd cup margarine or butter till mixture resembles coarse crumbs. Make a well in the center. Combine egg and milk; add all at once to flour mixture. Stir just till dough clings together."
+        },
+        {
+          "step": 2,
+          "text": "On a floured surface, knead gently for 15 strokes. Roll dough into a 15x8-inch rectangle. Melt 1 tablespoon margarine; brush on dough. Combine nuts and brown sugar; sprinkle over dough. Fold dough in half lengthwise. Cut into fifteen 1-inch-wide strips."
+        },
+        {
+          "step": 3,
+          "text": "Holding a strip at both ends, carefully twist in opposite directions twice. Place on a lightly greased baking sheet, pressing both ends down. Repeat. Bake in a 450\u00b0 oven for 8 to 10 minutes or till golden. Serve warm."
+        }
+      ],
+      "temperature": "450\u00b0F",
+      "pan_size": "baking sheet",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "biscuits",
+        "pecans",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "apple-cheese-biscuits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple-Cheese Biscuits",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "18 biscuits",
+      "prep_time": "",
+      "cook_time": "25 to 30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": "for coating"
+        },
+        {
+          "item": "finely chopped walnuts",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": "for coating"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": "for coating"
+        },
+        {
+          "item": "packaged biscuit mix or Easy Biscuit Mix",
+          "quantity": "1\u00be",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "\u00be",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "medium apple",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "peeled, cored, and finely chopped (about \u00be cup)"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": "melted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine sugar, nuts, and cinnamon. Set aside. In a bowl combine biscuit mix, cheese, and apple. Make a well in the center. Add \u2153 cup water all at once. Stir just till mixture forms a ball. Divide into 18 pieces. Shape each piece into a ball."
+        },
+        {
+          "step": 2,
+          "text": "Roll balls in melted margarine, then in the sugar mixture. Arrange in a single layer in a greased 9x1\u00bd-inch round baking pan. Bake in a 400\u00b0 oven for 25 to 30 minutes or till golden. Cool for 5 minutes. Remove from the pan; serve warm."
+        }
+      ],
+      "temperature": "400\u00b0F",
+      "pan_size": "9x1\u00bd-inch round baking pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "biscuits",
+        "apple",
+        "cheese",
+        "easy",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "irish-soda-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Irish Soda Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "16 servings",
+      "prep_time": "",
+      "cook_time": "about 35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "buttermilk or sour milk",
+          "quantity": "\u00be",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten, for brushing"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, baking powder, baking soda, and \u00bc teaspoon salt. Cut in margarine till mixture resembles coarse crumbs. Combine 1 egg and buttermilk; add to flour mixture. Stir just till moistened."
+        },
+        {
+          "step": 2,
+          "text": "On a lightly floured surface, knead gently for 12 strokes. On a greased baking sheet, shape dough into a 6-inch-round loaf. Cut a 4-inch cross, \u00bc inch deep, on the top. Brush with 1 beaten egg."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 375\u00b0 oven about 35 minutes or till golden. Cool on a rack."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Brown Irish Soda Bread: Prepare as above, except reduce all-purpose flour to 1 cup and add 1 cup whole wheat flour.",
+        "Sweet-Raisin Irish Soda Bread: Prepare as above, except add 2 tablespoons brown sugar to the flour mixture and \u2153 cup raisins or currants to the buttermilk mixture."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "Irish",
+        "soda bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "oatmeal-raisin-scones",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oatmeal-Raisin Scones",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "12 scones",
+      "prep_time": "",
+      "cook_time": "10 to 12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "quick-cooking rolled oats",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins, coarsely chopped; currants; or miniature semisweet chocolate pieces",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brushing"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, sugar, baking powder, and cinnamon. Cut in margarine till mixture resembles coarse crumbs. Stir in oats and raisins, currants, or chocolate pieces."
+        },
+        {
+          "step": 2,
+          "text": "Combine egg and \u00bc cup milk; add to flour mixture. Stir just till moistened (will be sticky). On a lightly floured surface, pat dough into a 7-inch circle. Cut into 12 wedges; place on a baking sheet. Brush with milk."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 400\u00b0 oven for 10 to 12 minutes or till light brown. Serve warm."
+        }
+      ],
+      "temperature": "400\u00b0F",
+      "pan_size": "baking sheet",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "scones",
+        "oatmeal",
+        "raisins",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
