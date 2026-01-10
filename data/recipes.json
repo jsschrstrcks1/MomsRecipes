@@ -32001,6 +32001,762 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "carries-honey-wheat-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Carrie's Honey Wheat Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Carrie",
+      "source_note": "Bread machine recipe book, page 23",
+      "description": "Hearty honey wheat bread with wheat flakes and bran for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "9-10",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "3 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "wheat flakes",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "wheat bran",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "wheat bread",
+        "honey",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "chads-summer-wheat-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chad's Summer Wheat Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Chad",
+      "source_note": "Bread machine recipe book, page 23",
+      "description": "Light whole wheat bread with molasses for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "11-12",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "whole wheat",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "danas-cracked-wheat-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dana's Cracked Wheat Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Dana",
+      "source_note": "Bread machine recipe book, page 24",
+      "description": "Hearty cracked wheat bread with honey for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "11-12",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "2 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cracked wheat",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "cracked wheat",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "heathers-100-whole-wheat-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Heather's 100% Whole Wheat Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Heather",
+      "source_note": "Bread machine recipe book, page 24",
+      "description": "100% whole wheat bread with vital gluten and molasses for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "12-13",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vital gluten",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "whole wheat",
+        "100% whole wheat",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sourdough-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sourdough Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 25",
+      "description": "Tangy sourdough bread using homemade starter for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sourdough starter",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": "see Sourdough Starter recipe"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "5-6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Basic setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic Setting - Timer OK",
+        "Requires Sourdough Starter (see companion recipe)"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "sourdough"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sourdough-starter",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sourdough Starter",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 25",
+      "description": "Homemade sourdough starter for bread machine baking.",
+      "servings_yield": "About 2+ cups starter",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "2-3 days to develop",
+      "ingredients": [
+        {
+          "item": "active dry yeast",
+          "quantity": "2 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a 2 or 3 quart glass bowl, using a wooden or nylon spoon, mix yeast and warm water; let stand 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Add flour; mix until thick batter forms. Batter need not be smooth."
+        },
+        {
+          "step": 3,
+          "text": "Cover loosely with cheesecloth, lightweight kitchen towel or plastic wrap; let stand in warm place for 24 hours."
+        },
+        {
+          "step": 4,
+          "text": "Stir; cover loosely. Place starter in a warm place for 2 to 3 days or until it bubbles and smells sour; stir once a day."
+        },
+        {
+          "step": 5,
+          "text": "Cover loosely with plastic wrap or plastic cover; refrigerate."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "2-3 quart glass bowl",
+      "notes": [
+        "To replenish starter: After using a portion, replenish with equal amounts of flour and warm water. Let stand in warm place until bubbly (3-5 hours), then refrigerate.",
+        "If not used at the end of one week, remove 1 cup starter and discard; then replenish with equal amounts of flour and warm water."
+      ],
+      "tags": [
+        "sourdough",
+        "starter",
+        "basics",
+        "bread making"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pumpernickel-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pumpernickel Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 27",
+      "description": "Dark pumpernickel bread with rye flour and molasses for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "6-7",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "rye flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cocoa",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "optional - for color"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Basic or Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic or Whole Wheat Setting - Not for Timer",
+        "All ingredients except milk should be at room temperature"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "pumpernickel",
+        "rye"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "tracis-oatmeal-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Traci's Oatmeal Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Traci",
+      "source_note": "Bread machine recipe book, page 27",
+      "description": "Hearty oatmeal bread with honey and oat bran for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "10-11",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "3 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oat bran",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "quick cook oats",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Basic setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "oatmeal bread",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
