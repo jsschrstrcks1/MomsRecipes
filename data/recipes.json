@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 825
+    "total_recipes": 828
   },
   "recipes": [
     {
@@ -62178,6 +62178,129 @@
       "tags": ["fish", "seafood", "french", "papillote", "parchment", "elegant", "baked"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5334 Large.jpeg"]
+    },
+    {
+      "id": "chilled-salmon-steaks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chilled Salmon Steaks with Tarragon Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 173",
+      "description": "Poached salmon steaks served chilled with a tangy tarragon dressing.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "32 minutes plus chilling",
+      "ingredients": [
+        {"item": "fresh or frozen salmon steaks", "quantity": "4", "unit": "", "prep_note": "cut 1 to 1-1/2 inches thick"},
+        {"item": "Court Bouillon or water", "quantity": "1/2", "unit": "lb", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chicken broth", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried tarragon", "quantity": "2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "ground mustard", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/4", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw salmon, if frozen."},
+        {"step": 2, "text": "In large skillet bring water or Court Bouillon to boiling. Add salmon steaks. Return to boiling; reduce heat."},
+        {"step": 3, "text": "Simmer, covered, 8 to 12 minutes or till fish flakes easily with a fork."},
+        {"step": 4, "text": "Remove fish; cool. Remove skin. Cover and chill up to 24 hours."},
+        {"step": 5, "text": "For dressing, in a jar combine onion, broth, oil, tarragon, parsley, mustard, sugar, and pepper. Shake well."},
+        {"step": 6, "text": "Pour dressing over chilled salmon and serve."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Perfect for warm weather entertaining",
+        "Can be chilled up to 24 hours ahead"
+      ],
+      "tags": ["salmon", "fish", "seafood", "chilled", "cold", "tarragon", "make-ahead"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5335 Large.jpeg"]
+    },
+    {
+      "id": "poached-fish-with-dill-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Fish with Dill Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 173",
+      "description": "Whole poached fish served with a creamy dill sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "40 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen dressed fish", "quantity": "3", "unit": "lb", "prep_note": ""},
+        {"item": "water", "quantity": "", "unit": "", "prep_note": "enough to almost reach rack"},
+        {"item": "bay leaf", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "dried tarragon", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "lemon slices", "quantity": "3", "unit": "", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried dillweed", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "reserved cooking liquid", "quantity": "1/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen."},
+        {"step": 2, "text": "In a fish poacher or large roasting pan with a wire rack with handles, add enough water to almost reach the rack. Add bay leaf, tarragon, and lemon slices."},
+        {"step": 3, "text": "Place fish on rack. Lower into pan. Simmer, covered, 35 to 40 minutes or till fish flakes easily with a fork."},
+        {"step": 4, "text": "Remove fish; keep warm. Reserve 1/4 cup cooking liquid."},
+        {"step": 5, "text": "For sauce, in a saucepan melt margarine. Stir in flour and dillweed. Add reserved liquid and milk. Cook and stir till thickened and bubbly. Cook 1 minute more."},
+        {"step": 6, "text": "Serve sauce over fish."}
+      ],
+      "temperature": "",
+      "pan_size": "fish poacher or large roasting pan",
+      "notes": [
+        "Use a fish poacher with rack for easy removal of whole fish"
+      ],
+      "tags": ["fish", "seafood", "poached", "dill", "sauce", "whole-fish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5335 Large.jpeg"]
+    },
+    {
+      "id": "vegetable-topped-fillets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetable-Topped Fillets",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 173",
+      "description": "Colorful fish fillets topped with sauteed summer squash, zucchini, and tomatoes.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen skinless sole or other white fish fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "zucchini", "quantity": "1/2", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "yellow summer squash", "quantity": "1/2", "unit": "cup", "prep_note": "thinly sliced"},
+        {"item": "cherry tomatoes", "quantity": "1", "unit": "cup", "prep_note": "halved"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "dried basil", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Place fish in a greased baking dish. Bake in a 450°F oven till fish flakes easily (4 to 6 minutes per 1/2-inch thickness)."},
+        {"step": 3, "text": "Meanwhile, in a skillet cook zucchini, summer squash, and garlic in margarine till nearly tender."},
+        {"step": 4, "text": "Add tomatoes and basil. Cook and stir 2 minutes more."},
+        {"step": 5, "text": "Spoon vegetable mixture over baked fish."}
+      ],
+      "temperature": "450°F (230°C)",
+      "pan_size": "baking dish",
+      "notes": [
+        "A colorful, healthy topping for mild white fish",
+        "Microwave directions: Cook vegetables in margarine in a microwave-safe dish on high for 4 to 5 minutes, stirring once. Add tomatoes and basil; cook 1 minute more."
+      ],
+      "tags": ["fish", "seafood", "vegetables", "zucchini", "squash", "tomatoes", "healthy", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5335 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
