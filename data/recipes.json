@@ -48932,6 +48932,1066 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "soft-pretzels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pretzels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Shaping a pretzel isn't hard, but you may need a couple of practice twists to get the knack",
+      "servings_yield": "20 pretzels",
+      "prep_time": "",
+      "cook_time": "20 to 25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4 to 4\u00bd",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling water",
+          "quantity": "3",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for boiling water"
+        },
+        {
+          "item": "egg white",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sesame seed, poppy seed, or coarse salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together 1\u00bd cups of the flour and the yeast. In a saucepan heat and stir milk, sugar, oil, and the 1 teaspoon salt till warm (120\u00b0 to 130\u00b0). Add to flour mixture. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn out onto a lightly floured surface. Knead in enough of the remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Shape dough into a ball. Place dough in a greased bowl; turn once to grease surface. Cover and let rise in a warm place till double (about 1\u00bc hours)."
+        },
+        {
+          "step": 3,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Cover; let rest 10 minutes. Roll dough into a 12x10-inch rectangle. Cut into twenty 12x\u00bd-inch strips. Gently pull each strip into a rope about 16 inches long."
+        },
+        {
+          "step": 4,
+          "text": "Shape each pretzel by crossing one end over the other to form a circle, overlapping about 4 inches from each end. Take one end of dough in each hand and twist once at the point where the dough overlaps. Carefully lift each end across to the edge of the circle opposite it. Tuck ends under edges to make a pretzel shape. Moisten ends; press to seal."
+        },
+        {
+          "step": 5,
+          "text": "Place pretzels on greased baking sheets. Bake in a 475\u00b0 oven for 4 minutes. Remove from oven. Lower oven temperature to 350\u00b0."
+        },
+        {
+          "step": 6,
+          "text": "Dissolve the 2 tablespoons salt in the boiling water. Lower pretzels, three or four at a time, into boiling water. Boil for 2 minutes, turning once. Remove with a slotted spoon; drain on paper towels. Let stand a few seconds, then place about \u00bd inch apart on well-greased baking sheets."
+        },
+        {
+          "step": 7,
+          "text": "Combine egg white and the 1 tablespoon water. Brush pretzels with a little of the egg white and water mixture. Sprinkle pretzels lightly with sesame seed, poppy seed, or coarse salt. Bake in a 350\u00b0 oven for 20 to 25 minutes or till golden brown. Remove from baking sheets. Cool on wire racks."
+        }
+      ],
+      "temperature": "475\u00b0F then 350\u00b0F",
+      "pan_size": "baking sheets",
+      "notes": [
+        "Whole Wheat Pretzels: Prepare as above, except reduce all-purpose flour to 2\u00be to 3\u00bc cups. Combine 1 cup whole wheat flour and \u00bd cup toasted wheat germ with the stirred-in all-purpose flour."
+      ],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "pretzels",
+        "snack"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "dinner-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dinner Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Whole Wheat Dinner Rolls in rosette, cloverleaf, and butterhorn shapes are pictured on page 33",
+      "servings_yield": "24 to 32 rolls",
+      "prep_time": "",
+      "cook_time": "12 to 15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4\u00bc to 4\u00be",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups of the flour and the yeast. Heat and stir milk, sugar, shortening, and salt just till warm (120\u00b0 to 130\u00b0) and shortening almost melts. Add to flour mixture along with eggs. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn dough out onto a lightly floured surface. Knead in enough remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Shape dough into a ball. Place dough in a greased bowl; turn once to grease surface. Cover and let rise in a warm place till double (about 1 hour)."
+        },
+        {
+          "step": 3,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Divide dough in half. Cover and let rest for 10 minutes. Shape the dough into desired rolls (see directions, opposite). Cover and let rise in a warm place till nearly double (about 30 minutes)."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 375\u00b0 oven for 12 to 15 minutes or till golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "varies by shape",
+      "notes": [
+        "Brown-and-Serve Dinner Rolls: Prepare as above, except bake in a 325\u00b0 oven for 10 minutes; do not brown. Remove rolls from baking sheets or pans; cool. Wrap in moisture- and vaporproof material. Seal, label, and freeze. To serve, thaw frozen rolls in open packages at room temperature for 10 to 15 minutes. Unwrap completely. Place on ungreased baking sheets. Bake in a 375\u00b0 oven about 10 minutes or till golden.",
+        "Batter Dinner Rolls: Prepare as above, except reduce stirred-in flour to 1\u00bc cups. (Use a total of 3\u00bc cups all-purpose flour.) Spoon batter into greased muffin cups, filling half full. Cover and let rise in a warm place till nearly double (about 45 minutes). Brush roll tops with milk, and, if desired, sprinkle with poppy seed or sesame seed. Bake in a 375\u00b0 oven for 15 to 18 minutes or till done. Makes 18 rolls.",
+        "Herb-Onion Dinner Rolls: Prepare as above, except add 1 tablespoon dried minced onion and \u00bd teaspoon dried basil, oregano, or Italian seasoning, crushed, to milk mixture.",
+        "Whole Wheat Dinner Rolls: Prepare as above, except substitute 1\u00bd cups whole wheat flour for 1\u00bd cups of the stirred-in all-purpose flour.",
+        "Hamburger or Frankfurter Buns: Prepare as above, except divide dough into 12 portions. Cover and let rest for 10 minutes. For hamburger buns, shape each portion into an even circle, folding edges under. Press flat between your hands. Place on a greased baking sheet. Press into a 4-inch circle. For frankfurter buns, shape each portion into a roll about 5\u00bd inches long, tapering ends. Place on a greased baking sheet. Let buns rise. Makes 12 buns."
+      ],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "rolls",
+        "dinner rolls"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "wheat-cottage-cheese-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wheat and Cottage Cheese Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "12 to 15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cream-style cottage cheese",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": "reserving liquid"
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to equal \u00be cup with reserved liquid"
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "4\u00bc to 4\u00be",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain cottage cheese, reserving liquid. Add milk to reserved liquid to measure \u00be cup. Set aside. Combine 1\u00bd cups flour and the yeast. Heat and stir cottage cheese, reserved milk mixture, brown sugar, margarine, and \u00bd teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts. Add to flour mixture along with eggs. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately stiff dough that is smooth and elastic (8 to 10 minutes total). Shape into a ball. Place in a greased bowl; turn once. Cover; let rise in a warm place till double (30 to 45 minutes)."
+        },
+        {
+          "step": 3,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Cover; let rest 10 minutes. Shape into 24 smooth balls. Place in greased muffin pans. Cover; let rise in a warm place till nearly double (about 20 minutes). Bake in a 375\u00b0 oven for 12 to 15 minutes or till done."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "muffin pans",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "rolls",
+        "whole wheat",
+        "cottage cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bagels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bagels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Three steps\u2014broiling, boiling, and baking\u2014give bagels their crusty, glazed appearance and typically chewy texture",
+      "servings_yield": "12 bagels",
+      "prep_time": "",
+      "cook_time": "25 to 30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4\u00bc to 4\u00be",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": "120\u00b0 to 130\u00b0"
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": "for boiling"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for boiling water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups of the flour and the yeast. Add warm water, 3 tablespoons of the sugar, and 1 teaspoon salt. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much remaining flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Cover; let rest 10 minutes. Working quickly, divide dough into 12 portions. Shape each portion into a smooth ball. Punch a hole in the center of each ball with a floured finger. Pull dough gently to make about a 2-inch hole, keeping bagel uniformly shaped. Place on a greased baking sheet. Cover; let rise for 20 minutes. (Start timing after first bagel is shaped.)"
+        },
+        {
+          "step": 3,
+          "text": "Broil raised bagels about 5 inches from heat for 3 to 4 minutes, turning once (tops should not brown). Meanwhile, in a 12-inch skillet or 4\u00bd-quart Dutch oven bring 6 cups water and remaining 1 tablespoon sugar to boiling. Reduce heat and simmer bagels, four or five at a time, for 7 minutes, turning once. Drain on paper towels."
+        },
+        {
+          "step": 4,
+          "text": "Place drained bagels on a well-greased baking sheet. Bake in a 375\u00b0 oven for 25 to 30 minutes or till tops are golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Light Rye Bagels: Prepare as above, except stir 1 teaspoon caraway seed, if desired, in with the yeast. Substitute 1\u00bd cups rye flour for 1\u00bd cups of the stirred-in all-purpose flour.",
+        "Herb Bagels: Prepare as above, except stir 1\u00bd teaspoons dried basil, crushed; 1\u00bd teaspoons dried dillweed; or 1 to 1\u00bd teaspoons garlic powder in with the yeast.",
+        "Onion Bagels: Prepare as above, except stir 2 tablespoons dried minced onion and, if desired, 2 tablespoons cooked bacon pieces into the flour with the yeast.",
+        "Whole Wheat Bagels: Prepare as above, except substitute 1\u00bd cups whole wheat flour for 1\u00bd cups of the stirred-in all-purpose flour. Stir \u00be cup raisins, if desired, in with whole wheat flour."
+      ],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "bagels",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "brioche",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brioche",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "These egg-and-butter-rich rolls are shaped like fat buns with topknots",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "about 15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": "105\u00b0 to 115\u00b0"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00be",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for egg wash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soften yeast in the \u00bc cup warm water. In a mixing bowl beat margarine or butter, sugar, and salt till fluffy. Add 1 cup of the flour and the milk to beaten mixture. Separate one of the eggs. Add yolk and remaining 3 eggs to beaten mixture (refrigerate the egg white in a covered container). Add softened yeast and beat well. Using a spoon, stir in the remaining flour till smooth. Place in a greased bowl. Cover; let rise in a warm place till double (about 2 hours), then refrigerate dough for 6 hours. (Or, omit the 2-hour rising time and refrigerate the dough up to 24 hours.)"
+        },
+        {
+          "step": 2,
+          "text": "Stir dough down. Turn out onto a lightly floured surface. Divide dough into 4 portions; set 1 portion aside. Divide each of the remaining 3 portions into 8 pieces, making a total of 24."
+        },
+        {
+          "step": 3,
+          "text": "With floured hands, form each piece into a ball, tucking under edges. Place in greased muffin cups. Divide reserved dough portion into 24 pieces; shape into balls. With a floured finger, make an indentation in each large ball. Press a small ball into each indentation."
+        },
+        {
+          "step": 4,
+          "text": "Combine reserved egg white and the 1 tablespoon water; brush over rolls. Cover; let rise in a warm place till nearly double (45 to 55 minutes)."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven about 15 minutes or till golden brown, brushing again with egg white and water mixture after 7 minutes. Remove from pans. Cool on wire racks."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "muffin cups",
+      "notes": [
+        "Individual-brioche-pan directions: Prepare dough as above. After dividing dough into 4 portions and setting 1 portion aside, divide each of the remaining 3 portions into 6 pieces, making a total of 18. Form each piece into a ball. Place in 18 greased individual brioche pans. Divide reserved dough portion into 18 pieces; shape into balls. Place one small ball atop each larger ball. Makes 18 rolls."
+      ],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "brioche",
+        "French",
+        "rolls",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sweet-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "20 to 25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "plus 2 to 2\u00bd cups more"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups all-purpose flour and 1 package active dry yeast. Heat and stir 1 cup milk, \u2153 cup sugar, \u2153 cup margarine or butter, and \u00bd teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts. Add to flour mixture along with 2 eggs. Beat with an electric mixer on low speed 30 seconds, scraping bowl. Beat on high speed 3 minutes. Using a spoon, stir in as much of 2 to 2\u00bd cups all-purpose flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn out onto a lightly floured surface. Knead in enough of the remaining flour to make a moderately soft dough that is smooth and elastic (3 to 5 minutes total). Shape into a ball. Place in a lightly greased bowl; turn once. Cover; let rise in a warm place till double (about 1 hour)."
+        },
+        {
+          "step": 3,
+          "text": "Punch dough down. Divide in half. Cover; let rest 10 minutes. Shape and bake as directed below. Serve warm, if desired."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "9x1\u00bd-inch round baking pans",
+      "notes": [
+        "Caramel-Pecan Rolls: While dough is rising, combine \u2154 cup packed brown sugar, \u00bc cup margarine or butter, and 2 tablespoons light corn syrup. Cook and stir till combined. Divide between two 9x1\u00bd-inch round baking pans. Sprinkle each pan with \u2153 cup chopped pecans. Set the pans aside. Roll half of the dough into a 12x8-inch rectangle. Melt 3 tablespoons margarine or butter; brush half of margarine over dough. Combine \u00bd cup sugar and 1 teaspoon ground cinnamon; sprinkle half of mixture over dough. Roll up from one of the long sides. Seal seams. Slice dough into 12 pieces. Repeat with remaining dough, margarine, and sugar mixture. Place rolls in pans. Cover; let rise till nearly double (about 30 minutes). Bake in a 375\u00b0 oven for 20 to 25 minutes. Invert onto a serving plate.",
+        "Cinnamon Rolls: Roll half of the dough into a 12x8-inch rectangle. Melt 3 tablespoons margarine or butter; brush half of margarine over dough. Combine \u00bd cup sugar and 2 teaspoons ground cinnamon; sprinkle half of mixture over dough. If desired, measure \u00be cup raisins; sprinkle half of raisins over dough. Roll up from one of the long sides. Seal seams. Slice dough into 12 pieces. Repeat with remaining dough, margarine, sugar mixture, and raisins. Place rolls in two greased 9x1\u00bd-inch round baking pans. Cover; let rise till nearly double (about 30 minutes). Bake in a 375\u00b0 oven for 20 to 25 minutes. Cool slightly; remove from pans. Drizzle with Powdered Sugar Icing."
+      ],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "sweet rolls",
+        "cinnamon rolls",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "croissants",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Croissants",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "You don't have to be a pro to make croissants with our easy method",
+      "servings_yield": "16 croissants",
+      "prep_time": "",
+      "cook_time": "about 15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cold butter",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": "additional"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1\u00bc",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00be",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "\u00bc to \u00bd",
+          "unit": "cup",
+          "prep_note": "for kneading"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for egg wash"
+        },
+        {
+          "item": "water or milk",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for egg wash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut butter into \u00bd-inch slices. Stir butter slices into the 3 cups flour till coated and separated; chill. Combine the 1\u00bd cups of flour and the yeast. Heat and stir milk, sugar, and salt till warm (120\u00b0 to 130\u00b0). Add to flour-yeast mixture along with 1 egg. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in the chilled butter-flour mixture till flour is well moistened (butter will stay in large pieces)."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle a pastry cloth or surface with the \u00bc cup flour. Turn dough out onto floured surface. With floured hands, knead dough very gently about eight times. With a well-floured rolling pin, roll dough into a 21x12-inch rectangle (sprinkle surface with enough remaining flour to prevent sticking, if necessary). Fold dough crosswise into thirds to form a 12x7-inch rectangle. Wrap loosely; place in freezer for 20 to 30 minutes (or in refrigerator for 1\u00bd hours) or till dough is firm but not excessively stiff."
+        },
+        {
+          "step": 3,
+          "text": "On a floured surface, roll again into a 21x12-inch rectangle. Fold into thirds again and give dough a quarter-turn; roll, fold, and turn twice more, flouring surface as needed (it's not necessary to chill dough between rolling times). Place dough in a plastic bag, seal, leaving room for expansion. Chill dough for 4 to 24 hours."
+        },
+        {
+          "step": 4,
+          "text": "Cut dough crosswise into fourths. Return 3 pieces to refrigerator till ready to use. On a lightly floured surface, roll dough into a 16x8-inch rectangle. Cut rectangle in half crosswise, forming 2 squares. Cut each square in half diagonally, for a total of 4 triangles. Roll up each triangle loosely, starting from an 8-inch side and rolling toward the opposite point. Repeat rolling, cutting, and shaping with remaining 3 portions of dough."
+        },
+        {
+          "step": 5,
+          "text": "Place rolls on ungreased baking sheets, points down; curve ends. Cover; let rise till almost double (about 1 hour). Beat 1 egg with water or milk; brush lightly over rolls. Bake in a 375\u00b0 oven about 15 minutes or till golden. Remove from baking sheets; cool."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "baking sheets",
+      "notes": [
+        "Filled Croissants: Prepare as above, except cut each 16x8-inch rectangle into four 8x4-inch rectangles. Combine one 8-ounce package cream cheese, softened, \u00bc cup sugar, and 2 teaspoons finely shredded orange peel. Fill center of each rectangle with 1 tablespoon cream cheese mixture. (Or, fill center of each rectangle with 1 tablespoon semisweet chocolate pieces or fruit preserves.) Brush edges with egg mixture. Fold short sides in over filling to overlap in center (you'll have approximately 3\u00bdx4-inch bundles). Pinch edges to seal. Place on ungreased baking sheets, seam side down."
+      ],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "croissants",
+        "French",
+        "breakfast",
+        "pastry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hot-cross-buns",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Cross Buns",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "20 buns",
+      "prep_time": "",
+      "cook_time": "12 to 15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1\u00be",
+          "unit": "cups",
+          "prep_note": "plus 2 to 2\u00be cups more"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00be",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "currants or raisins",
+          "quantity": "\u2154",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg white",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 1\u00be cups all-purpose flour, 1 package active dry yeast, and 1 teaspoon ground cinnamon. Heat and stir \u00be cup milk, \u2153 cup cooking oil, \u2153 cup sugar, and \u00bd teaspoon salt till warm (120\u00b0 to 130\u00b0). Add to flour mixture along with 3 eggs. Beat with an electric mixer on low speed for 30 seconds, scraping bowl. Beat on high speed for 3 minutes. Using a spoon, stir in \u2154 cup currants or raisins and as much of 2 to 2\u00be cups all-purpose flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn out onto a floured surface. Knead in enough remaining flour to make a moderately soft dough (3 to 5 minutes total). Shape into a ball in a greased bowl; turn once. Cover; let rise till double (about 1\u00bd hours)."
+        },
+        {
+          "step": 3,
+          "text": "Punch dough down. Turn out onto floured surface. Cover; let rest 10 minutes. Divide into 20 portions; shape into smooth balls. Place 1\u00bd inches apart on a greased baking sheet. Cover; let rise till nearly double (30 to 45 minutes). Make a crisscross slash across each. Brush with 1 slightly beaten egg white."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 375\u00b0 oven for 12 to 15 minutes or till golden brown. Cool slightly. Drizzle buns with Powdered Sugar Icing. Serve warm."
+        }
+      ],
+      "temperature": "375\u00b0F",
+      "pan_size": "baking sheet",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "rolls",
+        "Easter",
+        "holiday",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "yeast-doughnuts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Yeast Doughnuts",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "16 to 18 doughnuts",
+      "prep_time": "",
+      "cook_time": "about 2 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": "plus 1\u00bc to 2 cups more"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00be",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 1\u00bd cups all-purpose flour and 2 packages active dry yeast. Heat and stir \u00be cup milk, \u2153 cup sugar, \u00bc cup shortening, margarine, or butter, and \u00bd teaspoon salt till warm (120\u00b0 to 130\u00b0) and shortening almost melts. Add to flour; add 2 eggs. Beat with an electric mixer on low speed for 30 seconds, scraping bowl. Beat on high for 3 minutes. Using a spoon, stir in as much of 1\u00bc to 2 cups all-purpose flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn out onto a floured surface. Knead in enough remaining flour to make a moderately soft dough (3 to 5 minutes total). Shape into a ball in a greased bowl; turn once. Cover; let rise in a warm place till double (45 to 60 minutes)."
+        },
+        {
+          "step": 3,
+          "text": "Punch down. Turn out onto a floured surface. Divide in half. Cover; let rest 10 minutes. Roll each half to \u00bd-inch thickness. Cut with a floured doughnut cutter. Reroll and cut trimmings. Cover; let rise till very light (45 to 60 minutes)."
+        },
+        {
+          "step": 4,
+          "text": "Heat cooking oil for deep-fat frying to 365\u00b0. Carefully fry doughnuts, 2 or 3 at a time, about 2 minutes, turning once; drain. Glaze with Powdered Sugar Icing."
+        }
+      ],
+      "temperature": "365\u00b0F (oil)",
+      "pan_size": "deep fryer",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "doughnuts",
+        "fried",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cinnamon-crisps",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cinnamon Crisps",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "These buttery, cinnamon-sugar-filled rounds are the homemade version of what bakeries call elephant ears or crispies",
+      "servings_yield": "24 crisps",
+      "prep_time": "",
+      "cook_time": "8 to 10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3\u00be to 4\u00bc",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1\u00bc",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": "melted, for filling"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "chopped pecans",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1\u00bd",
+          "unit": "tsp",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups of the flour and the yeast. Heat and stir milk, the \u00bc cup sugar, shortening, and \u00bd teaspoon salt till warm (120\u00b0 to 130\u00b0) and shortening almost melts. Add to flour mixture along with egg. Beat with an electric mixer on low speed for 30 seconds, scraping bowl. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately soft dough (3 to 5 minutes total). Shape into a ball. Place in a greased bowl; turn once. Cover; let rise in a warm place till double (1 to 1\u00bc hours)."
+        },
+        {
+          "step": 3,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Divide in half. Cover; let rest for 10 minutes. Roll half of the dough into a 12-inch square. Combine the \u00bd cup sugar, brown sugar, \u00bc cup melted margarine or butter, and \u00bd teaspoon ground cinnamon; crumble half of mixture over dough. Roll up from one of the long sides. Seal seams. Cut into 12 pieces. Place on a floured surface 3 to 4 inches apart. Flatten rolls to about 3 inches in diameter. Repeat with remaining dough."
+        },
+        {
+          "step": 4,
+          "text": "Cover; let rise in a warm place till nearly double (about 30 minutes). Place on baking sheets 7 to 8 inches apart. Cover with waxed paper or plastic wrap. Use a rolling pin to flatten rolls to about 6 inches in diameter; remove paper."
+        },
+        {
+          "step": 5,
+          "text": "Brush rolls with remaining melted margarine or butter. Combine the 1 cup sugar, pecans, and remaining ground cinnamon. Sprinkle over rolls. Cover with waxed paper or plastic wrap; roll flat again. Remove paper. Bake in a 400\u00b0 oven for 8 to 10 minutes. Remove from baking sheets immediately; cool."
+        }
+      ],
+      "temperature": "400\u00b0F",
+      "pan_size": "baking sheets",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast bread",
+        "cinnamon",
+        "breakfast",
+        "pastry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
