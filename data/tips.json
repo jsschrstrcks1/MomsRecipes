@@ -34,6 +34,622 @@
       "title": "High Altitude Pumpkin Pie (3,500-6,000 ft)",
       "tip": "For deep-dish pumpkin pie at high altitude, extend second bake time to 55-65 minutes. For shallow pies, no change needed.",
       "source": "Libby's Pumpkin Pie Mix"
+    },
+    {
+      "id": "pumpkin-pie-storage",
+      "category": "storage",
+      "title": "How to Store Pumpkin Pie",
+      "tip": "After baking, pie should be left at room temperature for 2 hours and then refrigerated for 2-3 days.",
+      "source": "Libby's Pumpkin Pie Mix FAQ"
+    },
+    {
+      "id": "pumpkin-pie-doneness-test",
+      "category": "baking",
+      "title": "How to Test if Pumpkin Pie is Done",
+      "tip": "Insert a knife about 1 to 1 1/2 inches from the edge of the pie. If it comes out clean, or if tiny bubbles around the edge of the pie or filling separate, remove the pie from the oven immediately.",
+      "source": "Libby's Pumpkin Pie Mix FAQ"
+    },
+    {
+      "id": "egg-substitute-pumpkin-pie",
+      "category": "substitutions",
+      "title": "Egg Substitutes in Pumpkin Pie",
+      "tip": "Egg substitutes produce an acceptable pie; however the flavor of the spices may be affected because the finished pie texture will be too soft.",
+      "source": "Libby's Pumpkin Pie Mix FAQ"
+    },
+    {
+      "id": "make-ahead-pumpkin-pie",
+      "category": "make-ahead",
+      "title": "Preparing Pumpkin Pie in Advance",
+      "tip": "Pumpkin Pie is a custard type pie and freezing is not recommended. However, you can prepare the pie shell ahead of time and freeze separately for up to one month. Defrost, ensure filling ingredients are well mixed, then pour into the frozen crust and bake as usual.",
+      "source": "Libby's Pumpkin Pie Mix FAQ"
+    },
+    {
+      "id": "pumpkin-pie-mix-storage",
+      "category": "storage",
+      "title": "Storing Pumpkin Pie Mix/Filling",
+      "tip": "Unbaked pie mix/filling can be stored in an airtight container for 1 week in the refrigerator or up to 3 months in the freezer. The mix may expand when frozen and may separate, but this will not affect quality or performance. If using a glass pie plate, defrost the crust as well before baking.",
+      "source": "Libby's Pumpkin Pie Mix FAQ"
+    },
+    {
+      "id": "muffin-mixing-method",
+      "category": "baking",
+      "title": "Proper Muffin Mixing Method",
+      "tip": "Combine dry ingredients into bowl; make a well. Combine beaten egg, milk, and melted shortening (cooled slightly). Add to dry ingredients all at once. Stir quickly just until moistened - overmixing causes tough muffins.",
+      "source": "General muffin instructions clipping"
+    },
+    {
+      "id": "muffin-overmixing-signs",
+      "category": "baking",
+      "title": "Signs of Overmixed Muffin Batter",
+      "tip": "If batter is overbeaten, muffins will have peaks on top, dull crusts, and tunneled texture. Stir batter only until just moistened for best results.",
+      "source": "General muffin instructions clipping"
+    },
+    {
+      "id": "keeping-muffins-warm",
+      "category": "serving",
+      "title": "Keeping Muffins Warm",
+      "tip": "If muffins have to wait, tip to one side to prevent soggy crusts. To keep warm or reheat muffins, wrap in foil and heat in 400\u00b0F oven for 15-20 minutes.",
+      "source": "General muffin instructions clipping"
+    },
+    {
+      "id": "muffin-cleanup-tip",
+      "category": "baking",
+      "title": "Easy Muffin Cleanup",
+      "tip": "Make cleanup easy by lining muffin tin with paper bake cups.",
+      "source": "General muffin instructions clipping"
+    },
+    {
+      "id": "soften-cream-cheese-microwave",
+      "category": "prep",
+      "title": "How to Soften Cream Cheese",
+      "tip": "Place completely unwrapped package of cream cheese in microwaveable bowl. Microwave on HIGH 10 sec. or just until softened.",
+      "source": "Philadelphia Cream Cheese packaging"
+    },
+    {
+      "id": "microwave-melt-chocolate",
+      "category": "microwave",
+      "title": "Melting Chocolate in Microwave",
+      "tip": "In a bowl, micro-cook chocolate, uncovered, on 100% power (high) 1 to 2 minutes for 1 square (1 ounce) (1 1/2 to 2 1/2 minutes for one 6-ounce package [1 cup] chocolate pieces) or till soft enough to stir smooth, stirring every minute.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-melt-butter",
+      "category": "microwave",
+      "title": "Melting Butter/Margarine in Microwave",
+      "tip": "In a bowl, micro-cook butter/margarine, uncovered, on 100% power (high) 40 to 50 seconds for 2 tablespoons, 45 to 60 seconds for 1/4 cup, or 1 to 2 minutes for 1/2 cup.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-soften-butter",
+      "category": "microwave",
+      "title": "Softening Butter/Margarine in Microwave",
+      "tip": "In a bowl, heat margarine/butter, uncovered, on 10% power (low) 1 to 1 1/2 minutes for 1/2 cup or till softened.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-soften-cream-cheese-detailed",
+      "category": "microwave",
+      "title": "Softening Cream Cheese in Microwave (Detailed)",
+      "tip": "In a bowl, heat cream cheese, uncovered, on 100% power (high) 15 to 30 seconds for 3 ounces (45 to 60 seconds for 8 ounces) or till softened.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-reheat-muffins",
+      "category": "microwave",
+      "title": "Reheating Muffins and Rolls",
+      "tip": "Place muffins or rolls on a plate. Heat, uncovered, on 100% power (high) 15 to 20 seconds for 1 or 2 muffins (30 to 60 seconds for 4 muffins).",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-heat-syrup",
+      "category": "microwave",
+      "title": "Heating Pancake Syrup",
+      "tip": "Heat, uncovered, on 100% power (high) 30 to 60 seconds for 1/2 cup syrup (1 to 1 1/2 minutes for 1 cup syrup) or till warm.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-soften-ice-cream",
+      "category": "microwave",
+      "title": "Softening Ice Cream",
+      "tip": "Heat 1 pint solidly frozen ice cream in a container, uncovered, on 100% power (high) for 15 seconds or till soft.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-heat-canned-soup",
+      "category": "microwave",
+      "title": "Heating Canned Soups",
+      "tip": "In a bowl, combine one 10- to 11-ounce can condensed soup and 1 soup can water. Micro-cook, uncovered, on 100% power (high) for 2 1/2 to 3 1/2 minutes or till hot.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "microwave-juice-lemons",
+      "category": "microwave",
+      "title": "Juicing Lemons",
+      "tip": "Halve or quarter 1 lemon. Heat on 100% power (high) for 30 to 45 seconds. Squeeze out juice.",
+      "source": "Microwave reference chart"
+    },
+    {
+      "id": "bread-machine-liquid-adjustment",
+      "category": "bread machine",
+      "title": "Bread Machine Liquid Adjustment",
+      "tip": "Altitude, weather conditions, and accuracy in measurement can affect the outcome of a loaf. Begin using the smaller amount of liquid. Allow bread maker to mix ingredients for a few minutes before checking dough consistency. If dough is dense, oddly shaped, or unit is making a knocking noise, add 1 Tbsp. water at a time until the dough is soft and pliable. Do not exceed 4-1/2 cups dry ingredients.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "sourdough-glass-container",
+      "category": "sourdough",
+      "title": "Sourdough Starter Container",
+      "tip": "Always make starter in a glass container. Never store in metal containers or use metal utensils. The starter will react with the metal.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "sourdough-room-temp",
+      "category": "sourdough",
+      "title": "Sourdough Temperature",
+      "tip": "All ingredients, including starter, should be at room temperature (70\u00b0F-80\u00b0F/21\u00b0C-27\u00b0C). Cold ingredients will slow down the activity of the yeast.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "sourdough-replenish",
+      "category": "sourdough",
+      "title": "Replenishing Sourdough Starter",
+      "tip": "When removing starter, always replenish it. Let stand at room temperature for 3 to 5 hours, until bubbles start to form. Cover and refrigerate.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "sourdough-separation",
+      "category": "sourdough",
+      "title": "Sourdough Starter Separation",
+      "tip": "If starter separates (liquid forms on surface), stir until blended before using.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "sourdough-pink-discard",
+      "category": "sourdough",
+      "title": "When to Discard Sourdough Starter",
+      "tip": "If the liquid that forms on surface of starter turns pink in color at any time, discard the starter and start over again with fresh ingredients.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "sourdough-bread-machine-yeast",
+      "category": "sourdough",
+      "title": "Sourdough in Bread Machine",
+      "tip": "IMPORTANT: Sourdough bread made in an automatic breadmaker requires the addition of yeast. The starter's strength and the rising times in the breadmaker are not sufficient to allow for proper rising without the use of additional yeast.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "bread-machine-quick-bread",
+      "category": "bread machine",
+      "title": "Quick Bread in Bread Machine",
+      "tip": "Unlike yeast breads, quick breads do not use yeast as the rising agent. The knead and rise cycles are omitted. Instead, quick breads use baking powder or baking soda along with steam as leavening. Select Quick Bread setting, let mix for 5 minutes, scrape down sides with rubber spatula. When finished, let cool in pan 5 minutes before removing to wire rack. Cool completely before slicing.",
+      "source": "Bread machine recipe book"
+    },
+    {
+      "id": "bread-machine-dough-setting",
+      "category": "bread machine",
+      "title": "Using Dough Setting",
+      "tip": "Press Select button to reach dough setting. Press 'Start/Stop'. When dough is ready, the unit will signal and display reads 0:00. Press 'Start/Stop' holding it down until you hear a beep. To remove the bread pan, grasp handle firmly and lift pan out. NOTE: The pan does not get hot when using the dough setting.",
+      "source": "Bread machine recipe book, page 35"
+    },
+    {
+      "id": "preparing-dough-for-baking",
+      "category": "bread machine",
+      "title": "Preparing Dough for Baking",
+      "tip": "1) Lightly sprinkle all-purpose flour onto a pastry mat or board. Using a rubber spatula or wooden spoon, remove dough from the bread pan and place on lightly floured surface. Knead by hand 2 or 3 times to release the air. If the dough is easy to handle without flour, shape on a lightly oiled, clean countertop. 2) Shape dough into your favourite rolls, coffee cake, etc. Place on greased baking pan. Cover dough with a clean cloth and let rise until almost doubled in size, about 1 hour. 3) Bake as directed in the recipe. Remove from pan and cool on a wire rack or serve warm.",
+      "source": "Bread machine recipe book, page 35"
+    },
+    {
+      "id": "bread-glaze-egg",
+      "category": "baking",
+      "title": "Egg Glaze for Bread",
+      "tip": "For a shiny golden crust, use Egg Glaze (mix 1 slightly beaten egg with 1 Tbsp. water or milk) or Egg Yolk Glaze (mix 1 slightly beaten egg yolk with 1 Tbsp. water or milk). Apply with pastry brush after rolls rise, just before baking.",
+      "source": "Bread machine recipe book, page 35"
+    },
+    {
+      "id": "bread-glaze-egg-white",
+      "category": "baking",
+      "title": "Egg White Glaze for Bread",
+      "tip": "For a shiny chewy crust (lighter in color), use Egg White Glaze: Mix 1 slightly beaten egg white with 1 Tbsp. water. Apply with pastry brush after rolls rise, just before baking.",
+      "source": "Bread machine recipe book, page 35"
+    },
+    {
+      "id": "store-egg-yolk",
+      "category": "storage",
+      "title": "Storing Unused Egg Yolk",
+      "tip": "To keep unused egg yolk fresh for several days, cover with cold water and store in refrigerator in a covered container.",
+      "source": "Bread machine recipe book, page 35"
+    },
+    {
+      "id": "shape-dinner-rolls",
+      "category": "bread shaping",
+      "title": "Easy Dinner Rolls Shaping",
+      "tip": "Divide dough into 12 equal pieces, shape into balls and place in greased muffin cups. Cover, let rise and bake as directed.",
+      "source": "Bread machine recipe book, page 36"
+    },
+    {
+      "id": "shape-cloverleaves",
+      "category": "bread shaping",
+      "title": "Cloverleaf Rolls Shaping",
+      "tip": "Makes 12. Lightly grease 12 muffin cups. Divide dough into 36 1-inch pieces. Pull edges under, smoothing tops to shape into balls. Place 3 balls in each muffin cup, smooth-side-up. Cover, let rise and bake as directed.",
+      "source": "Bread machine recipe book, page 36"
+    },
+    {
+      "id": "shape-pan-rolls",
+      "category": "bread shaping",
+      "title": "Simple Pan Rolls Shaping",
+      "tip": "Makes 12. Lightly grease 8 x 1-1/2-inch, or 9 x 1-1/2 inch round baking pan. Divide dough into 12 pieces. Shape each piece into a ball, pulling edges under to make a smooth top. Arrange rolls smooth-side-up in prepared pan. Cover, let rise and bake as directed.",
+      "source": "Bread machine recipe book, page 36"
+    },
+    {
+      "id": "shape-swirls",
+      "category": "bread shaping",
+      "title": "Swirl Rolls Shaping",
+      "tip": "Makes 10. Lightly grease baking sheet. Divide dough into 10 equal pieces. On a lightly floured surface, using your hand, roll each piece into a pencil-like strand about 10 inches long. Beginning at the center, continue wrapping each piece around the center to form a swirl. Place rolls 2-3 inches apart on prepared baking sheet. Cover, let rise and bake as directed.",
+      "source": "Bread machine recipe book, page 36"
+    },
+    {
+      "id": "shape-butterhorns",
+      "category": "bread shaping",
+      "title": "Butterhorns Shaping",
+      "tip": "Makes 12. Lightly grease baking sheet. On lightly floured surface, roll dough into a 12-inch circle. Brush dough with melted butter. Cut into 12 wedges. To shape rolls, begin at wide end of wedge and roll toward point. Place rolls point side down, 2 to 3 inches apart, on prepared baking sheet. Cover, let rise and bake as directed.",
+      "source": "Bread machine recipe book, page 36"
+    },
+    {
+      "id": "reduce-rising-time",
+      "category": "baking",
+      "title": "Reduce Dough Rising Time",
+      "tip": "Preheat conventional oven to 200\u00b0F/93\u00b0C for 5 minutes, then turn off oven. Shape dough, place on baking pan as directed and cover with a clean kitchen towel. Place dough in oven until doubled in size. This will reduce rising time by about one-half.",
+      "source": "Bread machine recipe book, page 37"
+    },
+    {
+      "id": "whole-grain-flour-rising",
+      "category": "baking",
+      "title": "Whole Grain Flour Rising",
+      "tip": "Recipes using whole grain or unrefined flours contain less gluten and may not rise as much as those using white bread flour. As a result, these heavier breads may fall slightly in the center. This is normal and will not affect the taste. Wheat gluten can also be added to improve the shape and volume of bread made with low gluten flours.",
+      "source": "Bread machine recipe book, page 37"
+    },
+    {
+      "id": "keep-homemade-bread-fresh",
+      "category": "storage",
+      "title": "Keeping Homemade Bread Fresh",
+      "tip": "There are no preservatives in your home made bread, so store cooled loaf in a tightly sealed plastic bag. If desired, enclose a stalk of celery in the bag to keep bread fresh longer. Do not store in the refrigerator as this causes bread to dry out faster.",
+      "source": "Bread machine recipe book, page 37"
+    },
+    {
+      "id": "bread-like-hockey-puck",
+      "category": "troubleshooting",
+      "title": "Why Bread Turns Out Like Lead (Hockey Puck)",
+      "tip": "Perhaps you forgot the yeast (we can all err!) or you used stale yeast, extra salt or sugar, or hot liquids that may have killed the yeast and inhibited rising.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "loaf-caved-in-on-top",
+      "category": "troubleshooting",
+      "title": "Why Loaf Looks Caved In On Top",
+      "tip": "Perhaps there was too much liquid or moisture from fruits or vegetables or cheese. It may have risen too fast due to too much yeast. You'll be surprised to find when you cut the top off that you will have a tasty loaf with a coarse texture.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "loaf-lumpy-uneven-shape",
+      "category": "troubleshooting",
+      "title": "Why Loaf Looks Lumpy or Uneven",
+      "tip": "Perhaps there wasn't enough moisture. Sometimes heavier textured breads appear this way.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "loaf-large-holes",
+      "category": "troubleshooting",
+      "title": "Why Loaf Has Large Holes",
+      "tip": "There was probably too much yeast or moisture.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "inconsistent-results",
+      "category": "troubleshooting",
+      "title": "Why Recipe Works Most Times But Not Always",
+      "tip": "Perhaps the humidity in the air or the moisture in the flour varied causing the dough to be stickier or drier OR the room temperature was cold or very hot. Remember the machine cannot make judgment calls for those variables.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "flour-deposits-on-sides",
+      "category": "troubleshooting",
+      "title": "Why Flour Deposits on Side of Baked Loaf",
+      "tip": "Perhaps with a heavier bread all the dry ingredients did not get mixed in the kneading; the next time you could try using a rubber spatula to push down ingredients on the sides of the pan, after the first kneading cycle.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "raisins-dates-clumped",
+      "category": "troubleshooting",
+      "title": "Why Raisins and Dates Clump at Bottom",
+      "tip": "The raisins and dates were too sticky. Try air-drying them overnight on the counter or buying date pieces that have a dextrose coating on the outside.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "how-to-test-yeast",
+      "category": "bread baking",
+      "title": "How to Test Yeast Freshness",
+      "tip": "To determine the freshness and quality of your yeast: 1) Place 1/2 cup of lukewarm water into a small bowl or cup. 2) Stir 1 tsp. of sugar into the water. 3) Sprinkle 2 tsp. of yeast over the surface. 4) Place bowl or cup in a warm area and allow it to sit for 10 minutes undisturbed. 5) The mixture should foam and produce a strong yeast aroma. If this does not occur, the yeast is inactive and stale and new yeast should be purchased.",
+      "source": "Bread machine recipe book, page 50"
+    },
+    {
+      "id": "high-altitude-bread-baking",
+      "category": "bread baking",
+      "title": "High Altitude Bread Baking Adjustments",
+      "tip": "At high altitudes above 3,000 feet, dough rises faster. Follow these guidelines (use one at a time): 1) Reduce the amount of yeast by 25% to inhibit over-rising. 2) Increase salt by 25% - the bread will rise slower and have less tendency to sink. 3) Watch your dough as it mixes - flour stored at high altitudes tends to be drier, so you might need to add a few tablespoons of water until the dough forms a nice ball.",
+      "source": "Bread machine recipe book, page 52"
+    },
+    {
+      "id": "how-to-dip-fruit-in-chocolate",
+      "category": "desserts",
+      "title": "How To Dip Fruit in Chocolate",
+      "tip": "Chocolate-dipped fruit can be used to decorate cakes and desserts or served on their own with coffee. Insert a wooden skewer into a non-juicy fresh fruit or candied fruit. Dip half of it into melted semisweet chocolate. Slide fruit off skewer onto pan lined with waxed paper. Use strawberries, grapes, orange sections, dried apricots, and prunes or other seasonal fruits.",
+      "source": "Cookbook candy section"
+    },
+    {
+      "id": "how-to-knead-bread",
+      "category": "bread baking",
+      "title": "How To Knead Bread",
+      "tip": "Kneading should be done on a lightly floured surface, a board or counter top; add a little more flour if the dough remains sticky. Knead 8 to 10 minutes until smooth and elastic; it should have tiny air bubbles under the surface. Turn the dough onto a lightly floured board or counter top. With lightly floured hands, shape the dough into a ball and fold it toward you. With the heels of hands, using a rolling motion, push it away. Give dough a quarter of a turn. Repeat for 8 to 10 minutes; dough should no longer stick and will be ready for second rising or shaping, as recipe directs.",
+      "source": "Cookbook bread section"
+    },
+    {
+      "id": "party-beverage-planning-guide",
+      "category": "beverages",
+      "title": "Party Beverage Planning Guide",
+      "tip": "When planning party beverages: (1) Expect 1 1/2 oz liquor per bar drink - about 16 drinks from a 750ml bottle. (2) Chill beer to 45-50\u00b0F. For quick chilling, place bottles/cans in a deep tub of ice cubes. (3) Expect 3 oz wine per drink - about 8 drinks from a 750ml bottle. For bigger parties, buy 1.5-liter bottles. (4) Offer nonalcoholic options like eggnog, punch, or homemade soda pop. (5) Keep punches cold with ice rings made in ring molds. For decorative ice rings, line mold with citrus slices, berries, or melon balls, add water to cover fruit, freeze, then fill and freeze again. (6) You only need two types of glasses: 10-12 oz all-purpose glasses and 9-10 oz stemmed wineglasses. Disposable plastic glasses work well for large parties.",
+      "source": "Better Homes and Gardens cookbook, beverages chapter"
+    },
+    {
+      "id": "serving-wine",
+      "category": "beverages",
+      "title": "Serving Wine",
+      "tip": "Absolute rules no longer dictate which wine to serve with what food. Just follow your personal tastes. If you're unsure, ask an informed store employee to help you make a choice.",
+      "source": "Better Homes and Gardens cookbook, beverages chapter"
+    },
+    {
+      "id": "yeast-bread-flour-tips",
+      "category": "bread baking",
+      "title": "Yeast Bread Flour Tips",
+      "tip": "When a recipe gives a range for the flour amount, use the minimum as a guide and knead in as much of the remaining flour as you can. Knead the dough to the stiffness called for in the recipe. Kneading develops the gluten of the flour, which determines the final structure of the bread loaf. To knead, fold the dough over and push down with the heel of your hand, curving your fingers over the dough. Give the dough a quarter-turn, then fold over and push down again. Continue this fold-push-turn procedure until the dough is smooth and elastic.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "yeast-bread-rising-tips",
+      "category": "bread baking",
+      "title": "Yeast Bread Rising Tips",
+      "tip": "Don't raise dough in a hot area because excessive heat will kill the yeast. Too much cold, on the other hand, will stunt the yeast's growth. The optimum temperature for raising dough is 80\u00b0F. For best results, place the bowl of dough in an unheated oven, then set a large pan of hot water under the bowl on the oven's lower rack. Let dough rise till it's nearly doubled in size. Don't let loaves rise to the top of the pan because the dough needs room to rise as it bakes.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "bread-crust-tips",
+      "category": "bread baking",
+      "title": "Bread Crust Tips",
+      "tip": "For a soft and shiny crust, brush loaves with margarine or butter after baking. For a glossy, crispy crust, brush before baking with milk, water, or beaten egg. Test for doneness by tapping the top of the loaf with your finger. A hollow sound means the loaf is properly baked.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "high-altitude-yeast-bread",
+      "category": "bread baking",
+      "title": "High Altitude Yeast Bread",
+      "tip": "If you live at a high altitude, expect yeast doughs to rise faster than at sea level. The higher you live, the faster the doughs will rise.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "dough-stiffness-guide",
+      "category": "bread baking",
+      "title": "Dough Stiffness Guide",
+      "tip": "Here's how to identify the stiffness of dough specified in bread recipes: Soft dough is too sticky to knead and is often used for batter breads. Moderately soft dough is slightly sticky, may be kneaded on a floured surface, and is used for most sweet breads. Moderately stiff dough is somewhat firm to the touch, kneads easily on a floured surface, and is used for most unsweet breads. Stiff dough is firm to the touch and is easily rolled on a floured surface. French bread is made from this type of dough.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "dont-crowd-the-oven",
+      "category": "bread baking",
+      "title": "Don't Crowd the Oven",
+      "tip": "When baking several long, individual, or round loaves of bread at the same time, you'll need an extra large (17x14-inch) baking sheet. If you don't have this size baking sheet, go ahead and shape the loaves on two smaller baking sheets and let them rise as directed. Then, while you're baking one sheet, place the other one in the refrigerator. Don't bake the two smaller sheets at the same time because too little air would circulate in the oven.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "proofing-yeast-microwave",
+      "category": "bread baking",
+      "title": "Proofing Yeast Dough in Your Microwave Oven",
+      "tip": "With a little help from your microwave oven, you may be able to significantly shorten the time it takes to proof (raise) your yeast breads. Before you begin, check your owner's manual to see if proofing is recommended. Or use the following test to check your oven: Place 2 tablespoons cold stick margarine in a custard cup in the center of your oven. Micro-cook, uncovered, on 10% power (low) for 4 minutes. If the margarine doesn't completely melt, your microwave can proof yeast dough. But if the margarine does completely melt, your microwave will kill the yeast before the bread has a chance to rise. If so, you'll have to raise your yeast breads conventionally. If your oven passed the test, here's how to proceed: While kneading your dough, place 3 cups water in a 4-cup measure. Cook on 100% power (high) for 6\u00bd to 8\u00bd minutes or till boiling. Move measure to back of oven. Place kneaded dough in a greased bowl, turning once. Cover with waxed paper and place in microwave oven with hot water. Heat dough and water on 10% power (low) for 13 to 15 minutes or till dough has almost doubled. Punch dough down; shape as directed. Then place shaped dough in 8x4x2- or 9x5x3-inch loaf dishes. Return to microwave with hot water. Cover with waxed paper. Heat on low 6 to 8 minutes or till nearly doubled. (For round or long loaves that are shaped on baking sheets, or rolls that are shaped in muffin cups, you'll have to do the second proofing step conventionally.) For rich yeast breads (those with eggs and a slightly higher proportion of sugar), proofing times will be slightly longer. Allow 15 to 20 minutes for the first proofing time, and 10 to 14 minutes for the second proofing time.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "quick-rising-yeast-time-saver",
+      "category": "bread baking",
+      "title": "Saving Time with Quick-Rising Yeast",
+      "tip": "The bread recipes in this chapter were tested with active dry yeast. You can, however, prepare these recipes (except Sourdough Starter) using quick-rising active dry yeast. Just follow the same directions. The dough should rise in about a third less time, especially during the second rising step.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "hand-mixed-method-yeast",
+      "category": "bread baking",
+      "title": "When to Use the Hand-Mixed Method",
+      "tip": "Most of our yeast breads use the electric-mixer method, which calls for the dry yeast to be combined directly with the flour. But if you don't have an electric mixer, or if you live in Canada, where the available yeast doesn't work well using this method, use the hand-mixed method described on page 38. Here's how to convert recipes to this method: Change \u00bc cup of the liquid to warm water; add yeast to dissolve. Heat remaining liquid and continue as directed in the instructions on page 38.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "dinner-roll-shapes",
+      "category": "bread baking",
+      "title": "Dinner Roll Shaping Techniques",
+      "tip": "Butterhorns: Lightly grease baking sheets. On a lightly floured surface, roll each half of dough into a 12-inch circle. Brush with melted margarine or butter. Cut each circle into 12 wedges. To shape, begin at wide end of wedge and roll toward point. Place, point side down, 2 to 3 inches apart on baking sheets. Let rise and bake as directed. Makes 24 rolls. Rosettes: Lightly grease baking sheets. Divide each half of dough into 16 pieces. On a lightly floured surface, roll each piece into a 12-inch rope. Tie in a loose knot, leaving 2 long ends. Tuck top end under roll. Bring bottom end up and tuck into center of roll. Place 2 to 3 inches apart on baking sheet. Let rise and bake as directed. Makes 32 rolls. Parker House Rolls: Lightly grease baking sheets. On a lightly floured surface, roll each half of dough to \u00bc-inch thickness. Cut with a floured 2\u00bd-inch-round cutter. Brush with melted margarine or butter. Use the dull edge of a table knife to make an off-center crease in each round. Fold each round along the crease so the large half is on top. Press folded edge firmly. (Dough will recede during baking, making the top half shorter than the bottom one.) Place rolls 2 to 3 inches apart on baking sheets. Let rise and bake as directed. Makes 30 rolls. Cloverleaves: Lightly grease 24 muffin cups. Divide each half of dough into 36 pieces. Shape each piece into a ball, pulling edges under to make a smooth top. Place three balls in each greased muffin cup, smooth side up. Let rise; bake as directed. Makes 24. Shortcut Cloverleaves: Lightly grease 24 muffin cups. Divide each half of dough into 12 pieces. Shape each piece into a ball. Place one ball in each muffin cup. With floured scissors, snip top in half, then snip again to make 4 points. Let rise, bake as directed. Makes 24.",
+      "source": "Better Homes and Gardens cookbook, breads chapter"
+    },
+    {
+      "id": "no-ledges-quick-breads",
+      "category": "baking",
+      "title": "No Ledges on the Edges",
+      "tip": "Have you noticed rims around the edges of your nut breads and muffins instead of evenly rounded tops? There's a simple remedy to this problem: grease the baking pans or muffin cups on the bottom and only \u00bd inch up the sides. Do this and your batter will cling to the sides of the pan instead of sliding back down during baking. (Don't use nonstick spray coating in muffin cups because it will coat too high up on the sides.)",
+      "source": "Better Homes and Gardens cookbook, quick breads chapter"
+    },
+    {
+      "id": "making-better-nut-breads",
+      "category": "baking",
+      "title": "Making Better Nut Breads",
+      "tip": "Nut breads are best if stored overnight before slicing. The flavors mellow and the loaves are easier to slice. Just follow these steps: After baking, let the loaves cool completely on a wire rack, then wrap them in foil or clear plastic wrap and store them at room temperature. Use these other tips, too, when making nut breads: Check the bread 10 to 15 minutes before the baking time is completed. Cover with foil if it's browning too fast. Don't be concerned about the crack down the top of the loaf. This is typical of nut breads.",
+      "source": "Better Homes and Gardens cookbook, quick breads chapter"
+    },
+    {
+      "id": "making-sour-milk",
+      "category": "baking",
+      "title": "Making Sour Milk",
+      "tip": "Here's how to make the sour milk called for in some of our recipes. For each cup of sour milk, place 1 tablespoon lemon juice or vinegar in a glass measuring cup. Add enough milk to make 1 cup total liquid; stir. Let the mixture stand 5 minutes before using.",
+      "source": "Better Homes and Gardens cookbook, quick breads chapter"
+    },
+    {
+      "id": "keeping-food-warm",
+      "category": "cooking",
+      "title": "Keeping Them Warm",
+      "tip": "When frying or cooking foods a few at a time, here's how to keep the early batches warm until serving time. Arrange fried foods and waffles in a single layer on a wire rack. Set the rack atop a baking sheet and place it in a 300\u00b0 oven. To keep pancakes or French toast warm, put them on an ovenproof plate and place them in a 300\u00b0 oven.",
+      "source": "Better Homes and Gardens cookbook, quick breads chapter"
+    },
+    {
+      "id": "cake-baking-tips",
+      "category": "baking",
+      "title": "Cake Baking Tips",
+      "tip": "Follow these tips when baking cakes: Use the exact ingredients listed in a recipe. Substitutions, such as shortening for margarine or butter, will alter the cake's texture and flavor. Turn your oven on to preheat, then start mixing your cake. Your oven should be preheated (allow 10 to 15 minutes) at about the same time you're done mixing the cake. Cool layer cakes in their pans on wire racks for 10 minutes (loaf cakes, 15 minutes), then loosen the edges. Place an inverted rack on each cake and turn over; lift off the pan. Place a second rack over the cake and invert again. Invert angel, sponge, and chiffon cakes in their pans as soon as they are removed from the oven to prevent them from shrinking or falling. Then cool completely.",
+      "source": "Better Homes and Gardens cookbook, cakes chapter"
+    },
+    {
+      "id": "greasing-cake-pans",
+      "category": "baking",
+      "title": "Greasing Cake Pans",
+      "tip": "Use a paper towel or pastry brush to evenly spread a thin layer of solid vegetable shortening on the bottom and sides of the pan. For an 8- or 9-inch round pan, use about 1/2 tablespoon; for a 13x9x2-inch pan, use 1 tablespoon. Then add a tablespoon or two of all-purpose flour and shake the pan to coat evenly. Tap out the excess flour. To easily remove a cake from its pan, make sure to grease and flour the pan. If you plan to leave a cake in the pan for serving (as with a snack cake), grease only the bottom.",
+      "source": "Better Homes and Gardens cookbook, cakes chapter"
+    },
+    {
+      "id": "choose-a-pan-cakes",
+      "category": "baking",
+      "title": "Choose-a-Pan Cakes",
+      "tip": "Two-layer cakes suit some occasions, and carry-in-the-pan cakes are handy for picnics and potlucks. Fill baking pans no more than half full. Use any remaining batter to make some cupcakes. Baking times are approximate and may vary from cake to cake. At 350° oven: Two 8x1½-inch round baking pans = 35 to 40 minutes. Two 9x1½-inch round baking pans = 30 to 35 minutes. Two 8x8x2-inch baking pans = 25 to 35 minutes. Two 9x9x2-inch baking pans = 25 to 35 minutes. One 13x9x2-inch baking pan = 30 to 35 minutes. One 15x10x1-inch baking pan = 25 to 30 minutes. Cupcakes (half full of batter) = 18 to 23 minutes.",
+      "source": "Better Homes and Gardens cookbook, cakes chapter"
+    },
+    {
+      "id": "fixing-up-cake-mixes",
+      "category": "baking",
+      "title": "Fixing Up Cake Mixes",
+      "tip": "Create a special cake by using one of the following suggestions with a yellow, white, or chocolate two-layer cake mix. Add one of these to the dry cake mix: ¾ teaspoon ground cinnamon, ¼ teaspoon ground ginger, ¼ teaspoon ground allspice, or ¼ teaspoon ground nutmeg. Add one of these with the eggs: ½ cup applesauce, 1 tablespoon instant coffee crystals (dissolved in the water called for in the mix directions), 1 tablespoon finely shredded orange peel, 1 teaspoon maple flavoring, or ¼ teaspoon almond extract. Substitute an equal amount of unsweetened pineapple juice for the water in a white or yellow cake mix. Stir one of these into the mixed cake batter: 1 cup coconut, ½ cup finely chopped nuts, ½ cup miniature semisweet chocolate pieces, or ½ cup well-drained, chopped maraschino cherries. To one-third of the white or yellow cake batter, add a half cup chocolate-flavored syrup. Pour the plain batter into the baking pans; pour chocolate batter on top of the plain batter. Swirl gently with a spatula.",
+      "source": "Better Homes and Gardens cookbook, cakes chapter"
+    },
+    {
+      "id": "moist-microwave-cakes",
+      "category": "microwave",
+      "title": "Moist Microwave Cakes",
+      "tip": "To keep a cake baked in the microwave oven moist, cover the cooled cake with plastic wrap. Better yet, frost it.",
+      "source": "Better Homes and Gardens cookbook, cakes chapter"
+    },
+    {
+      "id": "high-altitude-cake-adjustments",
+      "category": "baking",
+      "title": "High-Altitude Cake Adjustments",
+      "tip": "If you live more than 3,000 feet above sea level, use this chart to adjust cake ingredients listed. Try the smaller amounts first, then make any necessary adjustments next time around. At 3,000 feet: Liquid - add 1 to 2 tablespoons for each cup; Baking powder - decrease ¼ teaspoon for each teaspoon; Sugar - decrease 0 to 1 tablespoon for each cup. At 5,000 feet: Liquid - add 2 to 4 tablespoons for each cup; Baking powder - decrease ⅛ to ¼ teaspoon for each teaspoon; Sugar - decrease 0 to 2 tablespoons for each cup. At 7,000 feet: Liquid - add 3 to 4 tablespoons for each cup; Baking powder - decrease ¼ teaspoon for each teaspoon; Sugar - decrease 1 to 3 tablespoons for each cup.",
+      "source": "Better Homes and Gardens cookbook, cakes chapter"
+    },
+    {
+      "id": "candy-stages",
+      "category": "candy",
+      "title": "Candy Stages",
+      "tip": "Thread stage (230° to 233°): When a teaspoon is dipped into the hot mixture then removed, the candy falls off the spoon in a fine, thin thread. Soft-ball stage (234° to 240°): When the ball of candy is removed from cold water, the candy instantly flattens and runs between your fingers. Firm-ball stage (244° to 248°): When the ball of candy is removed from the water, it is firm enough to hold its shape, but quickly flattens at room temperature. Hard-ball stage (250° to 266°): When the ball of candy is removed from the water, it doesn't flatten until pressed. Soft-crack stage (270° to 290°): When dropped into water, the candy separates into hard, but pliable and elastic, threads. Hard-crack stage (295° to 310°): When dropped into water, the candy separates into hard, brittle threads that snap easily.",
+      "source": "Better Homes and Gardens cookbook, candy chapter"
+    },
+    {
+      "id": "storing-candies",
+      "category": "candy",
+      "title": "Storing Candies",
+      "tip": "Most candies will stay fresh for two to three weeks if kept tightly covered in a cool, dry place. Store different types of candies separately. Layer brittles and toffees between sheets of waxed paper in airtight containers. Wrap fudge and fondant in foil or clear plastic wrap and place in airtight containers. Store divinity in airtight containers lined with waxed paper.",
+      "source": "Better Homes and Gardens cookbook, candy chapter"
+    },
+    {
+      "id": "boiling-candy-mixtures",
+      "category": "candy",
+      "title": "Boiling Candy Mixtures",
+      "tip": "Candy mixtures should boil at a moderate, steady rate over their entire surface. To guide you, our recipes list suggested range-top temperatures for cooking the candy mixtures. Depending on your range, though, you may have to use slightly higher or lower temperatures to cook the candy mixtures within the recommended times. Cooking too fast or slow will make candies too hard or soft.",
+      "source": "Better Homes and Gardens cookbook, candy chapter"
+    },
+    {
+      "id": "testing-candy-thermometer",
+      "category": "candy",
+      "title": "Testing Candy Thermometer Accuracy",
+      "tip": "First, place the thermometer in boiling water for a few minutes, then read it. If the thermometer registers above or below 212°, add or subtract the same difference in degrees from the recipe temperature. For an accurate reading, make sure the bulb of the thermometer is completely covered with liquid, not just foam, and that it doesn't touch the bottom of the pan.",
+      "source": "Better Homes and Gardens cookbook, candy chapter"
+    },
+    {
+      "id": "dipping-candy-coating",
+      "category": "candy",
+      "title": "Dipping Candy in Confectioners' Coating",
+      "tip": "The easiest way to coat candy is to dip it into confectioners' coating. Confectioners' coating is a chocolatelike product that also is called white chocolate, almond bark, or summer coating. It usually comes in chocolate and vanilla flavors. What makes confectioners' coating so easy is that it doesn't speckle as it hardens and that it easily heats without scorching. Before dipping candy, chop the coating and melt it in a heavy saucepan over low heat. Semisweet chocolate and milk chocolate also can be used for dipping. But these products usually need to be tempered (melted and then cooled to the correct dipping temperature). Without tempering, the chocolate often speckles or develops gray streaks as it hardens. This speckling is called blooming and affects only the appearance, not the quality or flavor, of the candy. If a small amount of speckling doesn't bother you, go ahead and use untempered chocolate for dipping. To learn more about tempering, see a candy-making cookbook.",
+      "source": "Better Homes and Gardens cookbook, candy chapter"
+    },
+    {
+      "id": "cookie-making-margarine-tips",
+      "category": "cookies",
+      "title": "Using Margarine in Cookies",
+      "tip": "If you use 100-percent-corn-oil margarine in your cookies, keep in mind that your dough will be softer than doughs made with regular margarine or butter. (Do not use spread, diet, or soft-style margarine products in cookie doughs. Your cookies will not turn out satisfactorily.) When using corn-oil margarine, make the following adjustments so your dough will be easier to handle: For sliced cookies, chill the rolls of dough in the freezer instead of the refrigerator. For rolled cookies, chill the dough before rolling it, or freeze it just until it's firm enough to roll. With a standard mixer, start mixing on low speed so you don't sling the flour out of the bowl. If you use a portable mixer when making cookies and notice that it strains or becomes hot, stir in any remaining ingredients by hand. Many cookie doughs are so stiff that beating them with a portable mixer may not be possible, especially when you're adding the last of the flour.",
+      "source": "Better Homes and Gardens cookbook, cookies chapter"
+    },
+    {
+      "id": "dropping-the-drops",
+      "category": "cookies",
+      "title": "Dropping the Drops",
+      "tip": "Drop-cookie doughs tend to spread more than other cookie doughs do. So, to keep them from spreading too much, drop them onto cool cookie sheets. Be sure, too, to let cookie sheets that are straight from the oven cool for several minutes before reusing.",
+      "source": "Better Homes and Gardens cookbook, cookies chapter"
+    },
+    {
+      "id": "shapely-sliced-cookies",
+      "category": "cookies",
+      "title": "Shapely Sliced Cookies",
+      "tip": "For nicely rounded sliced cookies, follow these hints: To prevent the rolls from developing a flat side, gently roll them on a flat surface several times while they chill. Make sure the rolls of dough are well chilled before slicing. (Chill them in the freezer if you used corn-oil margarine.) If the slices become misshapen, reshape them with your fingers.",
+      "source": "Better Homes and Gardens cookbook, cookies chapter"
+    },
+    {
+      "id": "dressing-up-pudding",
+      "category": "desserts",
+      "title": "Dressing Up Pudding",
+      "tip": "Take your favorite pudding and create a whole new dessert with one of these easy-to-fix ideas: For cream tarts, spoon pudding into baked tart shells. For parfaits, layer pudding and canned fruit-pie filling in parfait glasses. For frozen pops, spoon pudding into 3-ounce paper cups, cover with foil, insert wooden sticks through the foil into the pudding, and freeze till firm. For sauce, stir additional milk into the pudding till of desired consistency, and serve over fruit or cake.",
+      "source": "Better Homes and Gardens cookbook, desserts chapter"
+    },
+    {
+      "id": "ripening-ice-cream",
+      "category": "desserts",
+      "title": "Ripening Ice Cream",
+      "tip": "Let your homemade ice cream ripen for four hours to blend its flavors. To ripen the ice cream, remove the dasher, then cover the freezer can with waxed paper or foil. Plug the hole in the lid. Place it on the can. Pack the outer freezer bucket with enough ice and rock salt to cover the top of the freezer can. (Use 4 cups ice per 1 cup salt.)",
+      "source": "Better Homes and Gardens cookbook, desserts chapter"
+    },
+    {
+      "id": "easy-ice-cream-treats",
+      "category": "desserts",
+      "title": "Easy Ice-Cream Treats",
+      "tip": "Here are two soda-shop treats you can make at home: Saucy Scoops - Top scoops of ice cream with a sauce, whipped cream, and nuts. Banana Splits - For each serving, cut a banana in half lengthwise and place in a dessert dish. Add three scoops of ice cream. Top one with marshmallow creme, one with Hot Fudge Sauce, and one with Fruit Sauce. Top with whipped cream, nuts, and maraschino cherries.",
+      "source": "Better Homes and Gardens cookbook, desserts chapter"
+    },
+    {
+      "id": "freeze-ahead-whipped-cream",
+      "category": "desserts",
+      "title": "Freeze-Ahead Whipped Cream",
+      "tip": "When you've whipped more cream than you need, freeze the extra. Just spoon the whipped cream into mounds on a baking sheet lined with waxed paper. Freeze till firm, then transfer the mounds to a freezer container. Freeze up to 1 month. To serve, let stand 5 minutes, then place on top of dessert.",
+      "source": "Better Homes and Gardens cookbook, desserts chapter"
+    },
+    {
+      "id": "choosing-and-using-eggs",
+      "category": "eggs",
+      "title": "Choosing and Using Eggs",
+      "tip": "Purchase clean, fresh eggs from refrigerated display cases. Select large eggs. White or brown eggs have the same nutrition content. Refrigerate eggs promptly with the large ends up; use within one week for best quality (store up to five weeks). Always discard eggs with broken or cracked shells due to salmonella risk. Serve hot egg dishes right away. Refrigerate chilled egg dishes immediately after mixing, and keep them cold until serving time. Chill leftovers or make-ahead dishes containing eggs promptly. Some experts believe using uncooked or slightly cooked eggs in recipes such as mayonnaise, meringue pie, or Caesar salad may be harmful to some people because of possible salmonella contamination. The same is true of over-easy eggs and sunny-side-up eggs. If you are elderly, ill, or otherwise at risk, you may wish to avoid these recipes.",
+      "source": "Better Homes and Gardens cookbook, eggs chapter"
+    },
+    {
+      "id": "serving-a-souffle",
+      "category": "eggs",
+      "title": "Serving a Soufflé",
+      "tip": "A soufflé makes a great entrée when you're entertaining because it bakes for almost an hour, giving you time to socialize. Just make the salad and side dishes ahead, then pop the soufflé into the oven when your guests arrive. Just before the soufflé finishes baking, gather everyone around the table. Then present the spectacular dish.",
+      "source": "Better Homes and Gardens cookbook, eggs chapter"
+    },
+    {
+      "id": "natural-vs-process-cheese",
+      "category": "cheese",
+      "title": "When to Use Natural or Process Cheese",
+      "tip": "Whether to use natural or process cheese for a dish can sometimes be confusing. In our recipes, we specifically call for process cheese when we have found that it is necessary for easy, smooth melting. If the word \"process\" is not mentioned in the ingredient list (for example, 1/2 cup shredded Swiss cheese), you can use either process cheese or natural cheese successfully.",
+      "source": "Better Homes and Gardens cookbook, eggs and cheese chapter"
     }
   ]
 }

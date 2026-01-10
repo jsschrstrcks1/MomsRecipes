@@ -1,0 +1,3285 @@
+{
+  "processing_date": "2026-01-10T03:13:04.325900",
+  "max_dimension": 2000,
+  "jpeg_quality": 92,
+  "collections": {
+    "mommom": {
+      "collection": "mommom",
+      "total": 195,
+      "valid": 195,
+      "resized": 13,
+      "skipped": 182,
+      "errors": [],
+      "details": [
+        {
+          "filename": "IMG_5074 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 189905,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5077 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 198241,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5078 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 176598,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5167 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 257611,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5243 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 324371,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5244 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 255112,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5245 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 255890,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5246 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 288238,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5247 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 262681,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5248 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 295102,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5249 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 278635,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5250 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 275788,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5251 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 292528,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5252 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 315235,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5253 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 310219,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5254 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 306122,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5255 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 291898,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5256 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 253159,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5257 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 292418,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5258 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 278164,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5259 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 317840,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5260 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 306688,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5261 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 295640,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5262 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 299633,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5263 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 265816,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5264 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 310496,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5265 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 274594,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5266 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 278598,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5267 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 275574,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5268 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 305390,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5269 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 282238,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5270 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 289985,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5271 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 243727,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5272 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 303166,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5273 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 261489,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5274 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 296987,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5275 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 277100,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5276 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 303654,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5277 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 282759,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5278 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 300014,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5279 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 265207,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5280 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 315785,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5281 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 290740,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5282 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 315477,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5283 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 304056,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5284 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 304215,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5285 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 319542,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5286 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 253203,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5287 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 268908,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5288 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 304668,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5289 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 315988,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5290 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 236239,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5291 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 255019,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5292 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 234824,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5293 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 296794,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5294 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 275461,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5295 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 294480,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5296 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 262438,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5297 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 282188,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5298 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 274354,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5299 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 298606,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5300 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 294943,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5301 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 293413,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5302 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 248865,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5303 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 292012,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5304 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 268988,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5305 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 280012,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5306 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 277762,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5307 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 268747,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5308 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 300376,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5309 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 311425,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5310 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 314372,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5311 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 273491,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5312 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 313404,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5313 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 234220,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5314 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 277203,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5315 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 245575,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5316 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 301117,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5317 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 301742,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5318 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 302862,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5319 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 292638,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5320 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 328997,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5321 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 307443,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5322 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 213388,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5323 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 271389,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5324 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 288161,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5325 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 305956,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5326 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 306830,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5327 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 960,
+            "height": 1280,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 295422,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5328 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 222879,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5329 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 283039,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5330 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 325951,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5331 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 311113,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5332 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 340085,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5333 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 299683,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5334 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 266210,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5335 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 343599,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5336 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 326015,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5337 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 307833,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5338 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 325218,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5339 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 287278,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5340 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 278307,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5341 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 296807,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5342 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 329614,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5343 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 271791,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5344 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 311720,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5345 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 303056,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5346 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 304332,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5347 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 242252,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5348 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 294835,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5349 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 279465,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5350 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 287235,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5351 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 273510,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5352 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 286745,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5353 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 296107,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5354 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 283613,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5355 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 242028,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5356 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 269642,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5357 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 244929,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5358 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 262447,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5359 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 269543,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5360 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 261259,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5361 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 290820,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5362 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 319093,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5363 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 319886,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5364 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 331176,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5365 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 331041,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5366 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 342592,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5367 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 349867,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5368 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 314845,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5369 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 266766,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5370 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 259312,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5371 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 246009,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5372 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 294735,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5373 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 291994,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5374 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 358700,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5375 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 334383,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5376 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 316181,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5377 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 320850,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5378 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 327000,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5379 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 314551,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5380 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 309784,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5381 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 308116,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5382 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 252843,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5383 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 239123,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5384 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 343325,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5385 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 313566,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5386 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 243095,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5387 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 263166,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5388 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 305814,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5389 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 296327,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5390 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 360404,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5391 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 275639,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5392 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 341299,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5393 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 308870,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5394 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 278807,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5395 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 293421,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5396 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 262037,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5397 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 283766,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5398 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 312507,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5399 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 318825,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5400 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 295643,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5401 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 322907,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5402 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 328495,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5403 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 309708,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5404 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 302577,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5405 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 336831,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5406 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 290977,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5407 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 295726,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5408 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 329281,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5409 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 307917,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5410 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 262340,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5411 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 306044,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5412 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 311416,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5413 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 236694,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5414 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 223480,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5415 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 227341,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5416 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 207127,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5417 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 195949,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5418 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 220533,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5419 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 233973,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "IMG_5420 Large.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 1280,
+            "height": 960,
+            "needs_resize": false,
+            "format": "JPEG",
+            "file_size": 232093,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "skipped",
+          "result": null
+        },
+        {
+          "filename": "Moms Recipes - 1.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 4032,
+            "height": 3024,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 3792483,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              4032,
+              3024
+            ],
+            "new_size": [
+              2000,
+              1500
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 10.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1318192,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 100.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1327138,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 101.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1255949,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 104.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1298046,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 20.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1093141,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 7.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1347022,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 85.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1396127,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 94.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1206743,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 95.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1189915,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 96.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1176638,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 97.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1232429,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        },
+        {
+          "filename": "Moms Recipes - 99.jpeg",
+          "validation": {
+            "valid": true,
+            "error": null,
+            "width": 3024,
+            "height": 4032,
+            "needs_resize": true,
+            "format": "JPEG",
+            "file_size": 1310102,
+            "recoverable": false,
+            "orientation": 1
+          },
+          "action": "resized",
+          "result": {
+            "success": true,
+            "original_size": [
+              3024,
+              4032
+            ],
+            "new_size": [
+              1500,
+              2000
+            ],
+            "error": null
+          }
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_processed": 195,
+    "total_resized": 13,
+    "total_errors": 0
+  }
+}
