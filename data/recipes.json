@@ -38450,6 +38450,714 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "tex-mex-meatball-nacho-bites",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tex-Mex Meatball Nacho Bites",
+      "category": "snacks",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Meatballs served in tortilla chip scoops with all the nacho fixings.",
+      "servings_yield": "54 meatballs",
+      "prep_time": "40 minutes",
+      "cook_time": "",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "Farm Rich Original Meatballs",
+          "quantity": "28",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "scoop-style tortilla chips",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "Kraft Mexican Style Shredded Cheese",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "Marketside Shredded Lettuce",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "Pace Salsa",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook meatballs in oven per package instructions."
+        },
+        {
+          "step": 2,
+          "text": "Lay out tortilla chips on plate and fill with shredded lettuce."
+        },
+        {
+          "step": 3,
+          "text": "Place a small tablespoon of salsa on bed of lettuce and add one meatball."
+        },
+        {
+          "step": 4,
+          "text": "Top with a small dollop of sour cream and sprinkle with shredded cheese."
+        },
+        {
+          "step": 5,
+          "text": "Repeat for all meatballs."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "meatballs",
+        "Tex-Mex",
+        "nachos",
+        "party food",
+        "finger food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "mushroom-meatballs-appetizer",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mushroom Meatballs",
+      "category": "snacks",
+      "attribution": "Walmart Holiday / Farm Rich",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Stuffed mushrooms with meatballs and beef gravy, topped with Parmesan.",
+      "servings_yield": "36 mushrooms",
+      "prep_time": "15 minutes",
+      "cook_time": "20-25 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "Farm Rich Original Meatballs",
+          "quantity": "18-1/2",
+          "unit": "oz",
+          "prep_note": "frozen"
+        },
+        {
+          "item": "beef gravy",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "white button mushrooms",
+          "quantity": "36",
+          "unit": "large",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Remove stems from mushrooms and place on a cookie sheet."
+        },
+        {
+          "step": 3,
+          "text": "Place 1 Tbsp. of gravy and one frozen meatball in each mushroom cap."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle with the Parmesan cheese."
+        },
+        {
+          "step": 5,
+          "text": "Bake for 20-25 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Let stand for 5 minutes before serving."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Cookie sheet",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "meatballs",
+        "stuffed mushrooms",
+        "party food",
+        "finger food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "jalapeno-pigs-in-a-blanket",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Jalape\u00f1o Pigs in a Blanket",
+      "category": "snacks",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Mini smokies wrapped in crescent rolls with spicy jalape\u00f1o cream cheese.",
+      "servings_yield": "24 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "12-15 minutes",
+      "total_time": "27-30 minutes",
+      "ingredients": [
+        {
+          "item": "Pillsbury Original Crescent Rolls",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "8 oz"
+        },
+        {
+          "item": "Philadelphia Spicy Jalape\u00f1o Cream Cheese Spread",
+          "quantity": "1",
+          "unit": "container",
+          "prep_note": "8 oz"
+        },
+        {
+          "item": "Oscar Mayer Mini Smokies",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "14 oz"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 375\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Unroll dough into 8 triangles; cut each triangle lengthwise into thirds."
+        },
+        {
+          "step": 3,
+          "text": "Spread triangles evenly with cream cheese spread."
+        },
+        {
+          "step": 4,
+          "text": "Top each with a Smokie; roll up."
+        },
+        {
+          "step": 5,
+          "text": "Place, point-sides down, on baking sheet."
+        },
+        {
+          "step": 6,
+          "text": "Bake 12 to 15 minutes or until golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "pigs in a blanket",
+        "jalape\u00f1o",
+        "party food",
+        "finger food",
+        "crescent rolls"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "smoky-bacon-ranch-dip",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Smoky Bacon Ranch Dip",
+      "category": "snacks",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Creamy ranch dip with smoky chipotle peppers and crispy bacon.",
+      "servings_yield": "2 cups",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "Breakstone's Greek Style Sour Cream",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "Hidden Valley Ranch Dip Seasoning Mix",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "chipotle peppers in adobo sauce",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "Oscar Mayer Bacon",
+          "quantity": "5",
+          "unit": "slices",
+          "prep_note": "cooked and chopped"
+        },
+        {
+          "item": "chives",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Remove 2 chipotle peppers from the can and dice into 1/4\" pieces."
+        },
+        {
+          "step": 2,
+          "text": "In a mixing bowl blend the sour cream, ranch seasoning mix, and peppers together."
+        },
+        {
+          "step": 3,
+          "text": "Cook the bacon until crispy, drain on paper towels."
+        },
+        {
+          "step": 4,
+          "text": "Chop the bacon into small pieces and reserve a small amount for garnish."
+        },
+        {
+          "step": 5,
+          "text": "Mix the chopped bacon into the sour cream mixture."
+        },
+        {
+          "step": 6,
+          "text": "Eat immediately or place in fridge for a couple of hours to allow flavors to meld together."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can be made ahead and refrigerated"
+      ],
+      "tags": [
+        "dip",
+        "appetizer",
+        "bacon",
+        "ranch",
+        "chipotle",
+        "party food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pecan-pie-cheesecake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pecan Pie Cheesecake",
+      "category": "desserts",
+      "attribution": "Charlotte Lammers",
+      "source_note": "CDKitchen website printout",
+      "description": "A combination of creamy cheesecake and pecan pie in one dessert.",
+      "servings_yield": "8 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "30-60 minutes",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "softened"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for cheesecake layer"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for cheesecake layer"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for cheesecake layer"
+        },
+        {
+          "item": "pie shell",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "unbaked, 9-inch"
+        },
+        {
+          "item": "pecan halves",
+          "quantity": "1-1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "slightly beaten, for pecan layer"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for pecan layer"
+        },
+        {
+          "item": "corn syrup",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": "light"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for pecan layer"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine cream cheese, 1 egg, 1/3 cup sugar, and 1 teaspoon vanilla. Beat until light and fluffy."
+        },
+        {
+          "step": 2,
+          "text": "Spread cream cheese mixture over bottom of unbaked pie shell."
+        },
+        {
+          "step": 3,
+          "text": "Arrange pecan halves over cream cheese layer."
+        },
+        {
+          "step": 4,
+          "text": "Combine 2 eggs, 1/4 cup sugar, corn syrup, and 1/2 tsp vanilla; pour over pecans."
+        },
+        {
+          "step": 5,
+          "text": "Bake until set (approximately 350\u00b0F for 35-40 minutes - verify temperature)."
+        }
+      ],
+      "temperature": "350\u00b0F (177\u00b0C) [VERIFY]",
+      "pan_size": "9-inch pie shell",
+      "notes": [
+        "Difficulty: 3 out of 5",
+        "Good for Thanksgiving"
+      ],
+      "tags": [
+        "cheesecake",
+        "pecan pie",
+        "Thanksgiving",
+        "holiday",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Directions partially cut off in original - standard pecan pie cheesecake method assumed"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pumpkin-pecan-cheesecake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pumpkin Pecan Cheesecake",
+      "category": "desserts",
+      "attribution": "Cooks.com",
+      "source_note": "Cooks.com website printout (11/27/2013)",
+      "description": "Rich pumpkin cheesecake with a pecan crumble topping - perfect for Thanksgiving.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "1 hour 45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "brown sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "firmly packed, for topping"
+        },
+        {
+          "item": "butter",
+          "quantity": "6",
+          "unit": "tbsp",
+          "prep_note": "chilled, for topping"
+        },
+        {
+          "item": "pecans",
+          "quantity": "1-1/2",
+          "unit": "cup",
+          "prep_note": "chopped, for topping"
+        },
+        {
+          "item": "graham cracker crumbs",
+          "quantity": "1-1/2",
+          "unit": "cup",
+          "prep_note": "for crust"
+        },
+        {
+          "item": "butter",
+          "quantity": "6",
+          "unit": "tbsp",
+          "prep_note": "melted, for crust"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "3",
+          "unit": "8-oz pkgs",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "firmly packed, for filling"
+        },
+        {
+          "item": "eggs",
+          "quantity": "5",
+          "unit": "large",
+          "prep_note": ""
+        },
+        {
+          "item": "solid pack pumpkin",
+          "quantity": "1",
+          "unit": "lb can",
+          "prep_note": ""
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cloves",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "FOR TOPPING: Place sugar in small bowl. Add butter and cut in until mixture resembles coarse meal. Stir pecans into mixture and set aside."
+        },
+        {
+          "step": 2,
+          "text": "FOR CHEESECAKE: Blend graham cracker crumbs, 1/4 cup sugar and the melted butter in medium bowl."
+        },
+        {
+          "step": 3,
+          "text": "Press crumb mixture in bottom and up sides of 9 inch springform pan. Chill."
+        },
+        {
+          "step": 4,
+          "text": "Preheat oven to 325\u00b0F."
+        },
+        {
+          "step": 5,
+          "text": "Using electric mixer, beat cream cheese in large bowl until smooth."
+        },
+        {
+          "step": 6,
+          "text": "Mix in remaining sugar and brown sugar. Add eggs, one at a time, beat until fluffy."
+        },
+        {
+          "step": 7,
+          "text": "Blend in pumpkin, cream and spices. Pour into crust."
+        },
+        {
+          "step": 8,
+          "text": "Bake about 1-1/2 hours until center no longer moves when pan is shaken."
+        },
+        {
+          "step": 9,
+          "text": "Sprinkle topping over cheesecake. Bake 15 minutes more."
+        },
+        {
+          "step": 10,
+          "text": "Cool. Cover and chill overnight. Serve with whipped topping."
+        }
+      ],
+      "temperature": "325\u00b0F (163\u00b0C)",
+      "pan_size": "9-inch springform pan",
+      "notes": [
+        "Chill overnight before serving"
+      ],
+      "tags": [
+        "cheesecake",
+        "pumpkin",
+        "pecan",
+        "Thanksgiving",
+        "holiday",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pecan-crunch-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pecan Crunch",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Cookbook page",
+      "description": "Buttery shortbread bars topped with chocolate and toasted pecans.",
+      "servings_yield": "72 bars",
+      "prep_time": "",
+      "cook_time": "25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "light brown sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "packed"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "semi-sweet chocolate pieces",
+          "quantity": "6",
+          "unit": "oz pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "pecans",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "toasted and chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Into large bowl, measure first 5 ingredients. With hand, knead dough until well blended and it holds together."
+        },
+        {
+          "step": 2,
+          "text": "Preheat oven to 350\u00b0F. Pat dough evenly into 15-1/2\" by 10-1/2\" jelly-roll pan. Bake 25 minutes."
+        },
+        {
+          "step": 3,
+          "text": "In small saucepan over low heat, melt chocolate, stirring frequently; set aside."
+        },
+        {
+          "step": 4,
+          "text": "Remove pan from oven; pour chocolate over baked layer; with spatula, evenly spread over; sprinkle with pecans. Cool on wire rack."
+        },
+        {
+          "step": 5,
+          "text": "When cool, cut lengthwise into 6 strips, cut each strip crosswise into 12 pieces. Store in tightly-covered container; use up within 1 week."
+        }
+      ],
+      "temperature": "350\u00b0F (177\u00b0C)",
+      "pan_size": "15-1/2 x 10-1/2 inch jelly-roll pan",
+      "notes": [
+        "75 calories per bar",
+        "Can begin 2 hrs or up to 1 week ahead"
+      ],
+      "tags": [
+        "bars",
+        "cookies",
+        "chocolate",
+        "pecan",
+        "dessert",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
