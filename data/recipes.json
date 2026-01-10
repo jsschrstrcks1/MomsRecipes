@@ -31371,6 +31371,636 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "scotts-favourite-potato-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scott's Favourite Potato Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Scott",
+      "source_note": "Bread machine recipe book, page 20",
+      "description": "Soft potato bread made with instant potato flakes for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "10-11",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "instant potato flakes",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "non-fat dry milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select desired setting (Basic or Rapid). Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "potato bread",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "kimmys-french-countryside-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kimmy's French Countryside Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Kimmy",
+      "source_note": "Bread machine recipe book, page 20",
+      "description": "Light French-style bread with olive oil for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "11-12",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable or olive oil",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select French setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "French Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "French bread",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "marcs-italian-herb-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marc's Italian Herb Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Marc",
+      "source_note": "Bread machine recipe book, page 21",
+      "description": "Savory Italian herb bread with parmesan cheese for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "10-11",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried onion flakes",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable or olive oil",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "3 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "grated parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried parsley",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select French setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "French Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "Italian",
+        "herb bread",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "eddies-deli-rye-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Eddie's Deli Rye Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Eddie",
+      "source_note": "Bread machine recipe book, page 21",
+      "description": "Deli-style rye bread with buttermilk and molasses for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "buttermilk",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1 1/2 - 2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "rye flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Not for Timer",
+        "All ingredients except buttermilk should be at room temperature"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "rye bread",
+        "deli",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "mrs-frumpkins-buttermilk-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mrs. Frumpkin's Buttermilk Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Mrs. Frumpkin",
+      "source_note": "Bread machine recipe book, page 22",
+      "description": "Hearty multigrain buttermilk bread with caraway seeds for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "10-11",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "rye flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered buttermilk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vital gluten",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "white vinegar",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "caraway seeds",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "buttermilk",
+        "rye",
+        "caraway",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "stacies-light-rye-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stacie's Light Rye Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Stacie",
+      "source_note": "Bread machine recipe book, page 22",
+      "description": "Light rye bread with brown sugar for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "11-12",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "rye flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Basic or Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic Setting - Timer OK"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "rye bread",
+        "light rye",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
