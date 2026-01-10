@@ -57748,6 +57748,225 @@
       "tags": ["cookie", "dessert", "shortbread", "butter"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "poached-pears",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Pears",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Fast and elegant fruit dessert poached in wine and spices.",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "10 to 15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "sweet white wine or orange juice", "quantity": "¾", "unit": "cup", "prep_note": ""},
+        {"item": "stick cinnamon", "quantity": "2½ to 3", "unit": "inches", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "medium pears", "quantity": "4", "unit": "", "prep_note": "peeled, halved, and cored; or medium peaches, peeled, halved, and pitted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large skillet bring sugar, wine, cinnamon, vanilla, and ¾ cup water to boiling. Add pears or peaches. Reduce heat."},
+        {"step": 2, "text": "Simmer, covered, for 10 to 15 minutes or till tender. Remove cinnamon."},
+        {"step": 3, "text": "Serve warm or chilled."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 2-quart casserole micro-cook sugar, wine, cinnamon, vanilla, and ¾ cup water, uncovered, on 100% power (high) 4 to 6 minutes or till boiling. Add fruit and cook, covered, on high for 4 to 6 minutes or till fruit is tender; stir once. Continue as above.",
+        "Pears Hélène: Prepare as above using pears. Serve drained and chilled with vanilla ice cream and Hot Fudge Sauce (see recipe, page 139).",
+        "Peach Melba: Prepare as above using peaches. Serve drained and chilled with vanilla ice cream and Fruit Sauce made with raspberries (see recipe, page 139)."
+      ],
+      "tags": ["dessert", "fruit", "pears", "poached", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "applesauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Applesauce",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Homemade applesauce with optional cinnamon.",
+      "servings_yield": "Makes about 4½ cups (8 servings)",
+      "prep_time": "",
+      "cook_time": "8 to 10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "cooking apples", "quantity": "3", "unit": "pounds (9 medium)", "prep_note": "peeled, quartered, and cored"},
+        {"item": "water", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "½ to ⅔", "unit": "cup", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "¼", "unit": "tsp", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a Dutch oven combine 3 pounds cooking apples (9 medium), peeled, quartered, and cored; 1 cup water; ½ to ⅔ cup sugar; and, if desired, ¼ teaspoon ground cinnamon."},
+        {"step": 2, "text": "Bring to boiling; reduce heat. Cover and simmer for 8 to 10 minutes or till tender, adding more water, if necessary."},
+        {"step": 3, "text": "Remove from heat. Mash with a potato masher or process in a blender or food processor to desired texture. Serve warm or chilled. Stir before serving."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["dessert", "fruit", "apples", "side dish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "apple-dumplings",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple Dumplings",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Whole apples wrapped in pastry and baked in cinnamon syrup.",
+      "servings_yield": "Serves 6",
+      "prep_time": "",
+      "cook_time": "45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1¼", "unit": "cups", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2¼", "unit": "cups", "prep_note": ""},
+        {"item": "shortening", "quantity": "⅔", "unit": "cup", "prep_note": ""},
+        {"item": "small apples, pears, or peaches", "quantity": "6", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For syrup, mix 1 cup of the sugar, ¼ teaspoon cinnamon, ¼ teaspoon nutmeg, and 1¾ cups water. Bring to boiling; reduce heat. Simmer 5 minutes. Remove from heat; stir in margarine."},
+        {"step": 2, "text": "For pastry, mix flour and ¼ teaspoon salt. Cut in shortening till coarse crumbs form. Add 6 to 8 tablespoons water, a little at a time, mixing till moistened. Form into a ball. Roll into an 18x12-inch rectangle; cut into six 6-inch squares."},
+        {"step": 3, "text": "Peel and core apples or pears. (For peaches, peel, halve, and pit.) Place one fruit on each pastry square. Combine remaining sugar, cinnamon, and nutmeg. Sprinkle over fruit. Moisten edges of pastry; fold corners to center atop fruit. Pinch to seal."},
+        {"step": 4, "text": "Place in an 11x7x1½-inch baking pan. Pour syrup over. Bake in a 375° oven about 45 minutes or till fruit is tender and pastry is brown. Serve with ice cream, if desired."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "11x7x1½-inch pan",
+      "notes": [],
+      "tags": ["dessert", "fruit", "apples", "pastry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "baked-apples-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Apples",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Easy baked apples filled with raisins and spices.",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "40 to 45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "medium cooking apples", "quantity": "4", "unit": "", "prep_note": ""},
+        {"item": "raisins, snipped pitted whole dates, or mixed dried fruit bits", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "brown sugar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "apple juice or water", "quantity": "⅓", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Core apples; peel a strip from the top of each. Place apples in a 2-quart casserole."},
+        {"step": 2, "text": "Combine the raisins, brown sugar, cinnamon, and nutmeg. Spoon into centers of apples. Add apple juice to dish."},
+        {"step": 3, "text": "Bake in a 350° oven for 40 to 45 minutes or till apples are tender, basting occasionally with the cooking liquid."},
+        {"step": 4, "text": "Serve warm with ice cream, light cream, or yogurt, if desired."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "2-quart casserole",
+      "notes": [
+        "Microwave directions: Reduce apple juice or water to 2 tablespoons. Assemble as above. Micro-cook, covered, on 100% power (high) for 4 to 8 minutes or till tender, rearranging and basting apples after 3 minutes."
+      ],
+      "tags": ["dessert", "fruit", "apples", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "fruit-crisp",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit Crisp",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Pair your favorite fruit with this crunchy topping. Easy to make.",
+      "servings_yield": "Serves 6",
+      "prep_time": "",
+      "cook_time": "30 to 35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sliced, peeled apples, pears, peaches, or apricots; or frozen unsweetened peach slices", "quantity": "5", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "2 to 4", "unit": "tbsp", "prep_note": "for filling"},
+        {"item": "regular rolled oats", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "ground nutmeg, ginger, or cinnamon", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "chopped nuts or coconut", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla ice cream or light cream", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For filling, thaw fruit, if frozen. Do not drain. Place fruit in an 8x1½-inch round baking dish. Stir in sugar."},
+        {"step": 2, "text": "For topping, in a mixing bowl combine oats, brown sugar, flour, and nutmeg, ginger, or cinnamon. Cut in margarine or butter till mixture resembles coarse crumbs. Stir in nuts or coconut. Sprinkle topping over filling."},
+        {"step": 3, "text": "Bake in a 375° oven for 30 to 35 minutes (40 minutes for thawed fruit) or till fruit is tender and topping is golden. Serve warm with ice cream or light cream, if desired."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "8x1½-inch round baking dish",
+      "notes": [
+        "Microwave directions: Assemble filling as above. Cook filling, covered with vented plastic wrap, on 100% power (high) for 5 to 7 minutes or till fruit is tender, stirring twice. Assemble topping as above. Sprinkle over filling. Cook, uncovered, on high about 3 minutes or till topping is heated through, giving the dish a half-turn once. Serve warm with ice cream or light cream, if desired.",
+        "Blueberry Crisp: Prepare as above, except, for the filling, combine 4 tablespoons sugar and 3 tablespoons all-purpose flour. Toss with 5 cups fresh or frozen* blueberries.",
+        "Cherry Crisp: Prepare as above, except, for the filling, combine ½ cup sugar and 3 tablespoons all-purpose flour. Toss with 5 cups fresh or frozen* unsweetened pitted tart red cherries.",
+        "Rhubarb Crisp: Prepare as above, except, for filling, combine 1 cup sugar and 3 tablespoons all-purpose flour. Toss with 5 cups fresh or frozen* unsweetened sliced rhubarb.",
+        "*Note: If fruit is frozen, thaw, but do not drain."
+      ],
+      "tags": ["dessert", "fruit", "crisp", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "fruit-cobbler",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit Cobbler",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Fruit filling topped with biscuit-like topping.",
+      "servings_yield": "Serves 6",
+      "prep_time": "",
+      "cook_time": "20 to 25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "Desired filling", "quantity": "", "unit": "", "prep_note": "see notes below"},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "baking powder", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "¼", "unit": "tsp", "prep_note": "optional"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "milk", "quantity": "3", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Prepare filling. Keep hot. For topping, mix flour, sugar, baking powder, and, if desired, cinnamon. Cut in margarine till mixture resembles coarse crumbs. Combine egg and milk. Add to flour mixture, stirring just to moisten."},
+        {"step": 2, "text": "Transfer filling to an 8x8x2-inch baking dish. Drop topping into 6 mounds atop hot filling. Bake in a 400° oven 20 to 25 minutes or till a toothpick inserted into topping comes out clean. Serve warm with ice cream, if desired."}
+      ],
+      "temperature": "400°F (205°C)",
+      "pan_size": "8x8x2-inch baking dish",
+      "notes": [
+        "Microwave directions: In an 8x8x2-inch baking dish combine ingredients for Blueberry or Peach Filling. Micro-cook, uncovered, on 100% power (high) for 8 to 10 minutes or till thickened and bubbly, stirring every 2 minutes till slightly thickened, then every minute. Keep hot. Prepare topping as above, except reduce all-purpose flour to ¾ cup and add ¼ cup whole wheat flour. Drop topping into 6 mounds atop hot filling, leaving center open. Cook, uncovered, on 50% power (medium) for 8 to 10 minutes or till a cooked texture forms underneath surface of topping, turning dish once.",
+        "Blueberry or Peach Filling: In a saucepan combine ½ to ⅔ cup sugar and 1 tablespoon cornstarch. Add ¼ cup water. Stir in 4 cups fresh or frozen blueberries or unsweetened peach slices. Cook and stir till thickened and bubbly.",
+        "Apple or Pear Filling: Cook and stir 6 cups sliced, peeled apples or pears, ½ to ⅔ cup sugar, 3 tablespoons water, and 1 tablespoon lemon juice till boiling. Reduce heat. Cover and simmer for 5 minutes or till fruit is almost tender, stirring occasionally. Combine 2 tablespoons water and 1 tablespoon cornstarch; add to filling. Cook and stir till thickened and bubbly.",
+        "Red Cherry or Rhubarb Filling: Mix 6 cups fresh or frozen unsweetened pitted tart red cherries or sliced rhubarb, 1 to 1¼ cups sugar, ¼ cup water, and 4 teaspoons cornstarch. Let stand 10 minutes (20 minutes for frozen fruit). Cook and stir till thickened and bubbly."
+      ],
+      "tags": ["dessert", "fruit", "cobbler"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
