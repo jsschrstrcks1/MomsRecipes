@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 836
+    "total_recipes": 840
   },
   "recipes": [
     {
@@ -62636,6 +62636,160 @@
       "tags": ["tuna", "salmon", "fish", "seafood", "crepes", "broccoli", "cheese", "elegant", "entertaining"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5338 Large.jpeg"]
+    },
+    {
+      "id": "tuna-biscuit-casseroles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Biscuit Casseroles",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "Individual casseroles with creamy tuna and vegetables topped with biscuits.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "32 minutes",
+      "ingredients": [
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "dried thyme", "quantity": "2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "chicken broth", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "tuna", "quantity": "2", "unit": "6.5 oz cans", "prep_note": "drained and flaked"},
+        {"item": "frozen mixed vegetables", "quantity": "1", "unit": "cup", "prep_note": "thawed"},
+        {"item": "snipped parsley", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "refrigerated biscuits", "quantity": "1", "unit": "package", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook onion and garlic in margarine till tender."},
+        {"step": 2, "text": "Stir in flour, thyme, and 1/4 teaspoon pepper. Add broth and milk."},
+        {"step": 3, "text": "Cook and stir till thickened and bubbly."},
+        {"step": 4, "text": "Stir in tuna, vegetables, and parsley."},
+        {"step": 5, "text": "Divide mixture among four to six 10- to 12-ounce casseroles. Top each with a biscuit."},
+        {"step": 6, "text": "Bake in a 400°F oven 10 to 12 minutes or till biscuits are lightly browned."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "four to six 10-12 oz individual casseroles",
+      "notes": [
+        "Marked as EASY in cookbook",
+        "Biscuits are the topping for these individual casseroles"
+      ],
+      "tags": ["tuna", "fish", "seafood", "casserole", "biscuits", "individual", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
+    },
+    {
+      "id": "salmon-loaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmon Loaf",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "Classic salmon loaf with dill, optionally topped with cheese sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "finely chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "dried dillweed", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "slightly beaten"},
+        {"item": "milk", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "soft bread crumbs", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "canned pink salmon", "quantity": "15.5", "unit": "oz", "prep_note": "bones removed (or two 6.5 oz cans tuna, drained)"},
+        {"item": "Cheese Sauce or American cheese slices", "quantity": "2", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan cook onion, dillweed, and a dash pepper in margarine till onion is tender."},
+        {"step": 2, "text": "Combine egg, bread crumbs, milk, and onion mixture."},
+        {"step": 3, "text": "Add salmon; mix well."},
+        {"step": 4, "text": "Shape into a 6x3-inch loaf in a greased shallow baking pan."},
+        {"step": 5, "text": "Bake in a 350°F oven for 30 to 35 minutes."},
+        {"step": 6, "text": "Top with Cheese Sauce (see page 361) or cheese slices, if desired."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "shallow baking pan",
+      "notes": [
+        "No time for the sauce? Cook a 10-ounce package frozen creamed peas and onions to ladle over the loaf"
+      ],
+      "tags": ["salmon", "tuna", "fish", "seafood", "loaf", "baked", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
+    },
+    {
+      "id": "fast-fish-fix-ups",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fast Fish Fix-Ups (Quick Sauces)",
+      "category": "sauces",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "Three quick sauces to dress up baked fish fillets, fish portions, or fish sticks.",
+      "servings_yield": "about 1 cup each sauce",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "10 minutes",
+      "ingredients": [
+        {"item": "Note: Choose one of the three sauce recipes below", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "DILLY-BUTTER SAUCE: Melt 1/4 cup margarine or butter in a saucepan. Stir in 1 tablespoon flour and 1/4 teaspoon dried dillweed. Add 3/4 cup milk. Cook and stir till thickened and bubbly. Stir in one 2-1/2 oz jar shredded process Swiss cheese. Makes 1 cup."},
+        {"step": 2, "text": "TEX-MEX SAUCE: Cook one 8-oz can tomato sauce, one 4-oz can diced green chili peppers, 1/2 teaspoon ground coriander, a pinch of sugar, and 1/4 teaspoon bottled hot pepper sauce till heated through."},
+        {"step": 3, "text": "SWEET-SOUR SAUCE: Cook one 10-oz can pineapple tidbits, one 8-oz jar sweet-sour sauce, and half of a green or sweet red pepper (cut into strips) till heated through."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "For a delicious dinner in a hurry, put frozen breaded fish portions or fish sticks in the oven and top with one of these easy sauces"
+      ],
+      "tags": ["sauce", "fish", "seafood", "quick", "fast", "dill", "tex-mex", "sweet-sour"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
+    },
+    {
+      "id": "salmon-pasta-skillet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmon-Pasta Skillet",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "One-skillet meal with salmon, pasta shells, and vegetables in a creamy mustard sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "chicken broth", "quantity": "1-1/4", "unit": "cups", "prep_note": ""},
+        {"item": "frozen mixed vegetables", "quantity": "10", "unit": "oz", "prep_note": "1 package"},
+        {"item": "shell macaroni", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "small bow noodles", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "prepared mustard", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "canned salmon", "quantity": "7.5", "unit": "oz", "prep_note": "drained, flaked, skin and bones removed"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In large skillet bring chicken broth to boiling."},
+        {"step": 2, "text": "Add vegetables and pasta. Return to boiling; reduce heat."},
+        {"step": 3, "text": "Simmer, covered, for 15 to 20 minutes or till pasta is tender."},
+        {"step": 4, "text": "Stir in cheese and mustard."},
+        {"step": 5, "text": "Gently fold in salmon. Cook till heated through."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Marked as EASY in cookbook",
+        "A complete one-skillet meal"
+      ],
+      "tags": ["salmon", "fish", "seafood", "pasta", "one-pot", "skillet", "easy", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5339 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
