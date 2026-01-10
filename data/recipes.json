@@ -57562,6 +57562,192 @@
       "tags": ["cookie", "dessert", "chocolate", "coconut", "pinwheel", "sliced cookie", "refrigerator cookie"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "tiny-tarts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tiny Tarts",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "To make pecan tassies, use the pecan filling. Cream cheese pastry cups with choice of fillings.",
+      "servings_yield": "Makes 24",
+      "prep_time": "",
+      "cook_time": "30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": "softened"},
+        {"item": "cream cheese", "quantity": "1", "unit": "3-ounce package", "prep_note": "softened"},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "Pumpkin Filling, Pecan Filling, Lemon-Coconut Filling, or Spiced Fruit Filling", "quantity": "", "unit": "", "prep_note": "see notes"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For pastry, in a mixing bowl beat margarine or butter and cream cheese till thoroughly combined. Stir in flour."},
+        {"step": 2, "text": "Press a rounded teaspoon of pastry evenly into the bottom and up the sides of each of 24 ungreased 1¾-inch muffin cups. Fill each pastry-lined muffin cup with about 1 heaping teaspoon desired filling."},
+        {"step": 3, "text": "Bake in a 325° oven about 30 minutes or till pastry is golden and filling is puffed. Cool slightly in the pan, then remove and cool completely on a wire rack."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "1¾-inch muffin cups",
+      "notes": [
+        "Pumpkin Filling: Beat together 1 egg, ½ cup canned pumpkin, ¼ cup sugar, ¼ cup milk, and 1 teaspoon pumpkin pie spice.",
+        "Pecan Filling: Beat together 1 egg, ¾ cup packed brown sugar, and 1 tablespoon margarine or butter, melted. Stir in ½ cup coarsely chopped pecans.",
+        "Lemon-Coconut Filling: Divide ¼ cup coconut among the pastry-lined muffin cups. Combine 2 eggs; ½ cup sugar; 2 tablespoons margarine or butter, melted; ½ teaspoon finely shredded lemon peel; and 1 tablespoon lemon juice. Spoon mixture over coconut in pastry-lined muffin cups.",
+        "Spiced Fruit Filling: In a small saucepan combine 1½ cups chopped mixed dried fruit and 1½ cups apple juice or water. Bring to boiling; reduce heat. Cover and simmer about 8 minutes or till fruit is very tender. Drain. Stir in ¼ cup orange marmalade, 1 teaspoon ground nutmeg, and ¼ teaspoon ground cloves."
+      ],
+      "tags": ["cookie", "dessert", "tarts", "cream cheese"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "brandy-snaps",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brandy Snaps",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Fill these delicate, lacy cookies with plain or flavored whipped cream. Shaped into cones while warm.",
+      "servings_yield": "Makes 54",
+      "prep_time": "",
+      "cook_time": "5 to 6 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "packed brown sugar", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "⅓", "unit": "cup", "prep_note": "melted"},
+        {"item": "light molasses", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "brandy", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "¾", "unit": "cup", "prep_note": ""},
+        {"item": "ground ginger", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "½", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl combine brown sugar, margarine, molasses, and brandy. Stir in flour, ginger, and nutmeg till thoroughly combined."},
+        {"step": 2, "text": "Line a cookie sheet with foil. Grease the foil. Drop batter by level teaspoons 5 inches apart onto foil."},
+        {"step": 3, "text": "Bake in a 350° oven for 5 to 6 minutes or till bubbly and deep golden brown. Let stand 2 minutes or till. Immediately remove from foil."},
+        {"step": 4, "text": "With the flat side to the inside, roll each cookie around a metal cone or the greased handle of a wooden spoon, or shape over the bottom of a muffin cup. Cool."},
+        {"step": 5, "text": "(If the cookies harden before you can shape them, return them to the hot oven for 1 minute or till softened.)"}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "",
+      "notes": [
+        "Pecan Snaps: Prepare as above, except reduce flour to ⅓ cup and add 1 cup ground pecans, hazelnuts (filberts), or almonds. Omit ginger and nutmeg.",
+        "Cinnamon Snaps: Prepare as above, except substitute honey for the molasses and ground cinnamon for the ginger. Omit the nutmeg."
+      ],
+      "tags": ["cookie", "dessert", "brandy", "lace cookie", "shaped cookie"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "jam-thumbprints",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Jam Thumbprints",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "A great way to show off your favorite homemade jam.",
+      "servings_yield": "Makes about 42",
+      "prep_time": "",
+      "cook_time": "10 to 12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "⅔", "unit": "cup", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "egg yolks", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "slightly beaten egg whites", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "finely chopped walnuts", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "strawberry, cherry, or apricot jam or preserves", "quantity": "⅓ to ½", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl beat margarine or butter with an electric mixer on medium to high speed for 30 seconds. Add about half of the flour, the sugar, egg yolks, and vanilla. Beat till thoroughly combined. Beat in remaining flour."},
+        {"step": 2, "text": "Cover and chill about 1 hour or till easy to handle."},
+        {"step": 3, "text": "Shape dough into 1-inch balls. Roll balls in egg whites, then in walnuts. Place 1 inch apart on a greased cookie sheet. Press centers with your thumb."},
+        {"step": 4, "text": "Bake in a 375° oven for 10 to 12 minutes or till edges are lightly browned. Cool cookies on a wire rack."},
+        {"step": 5, "text": "Just before serving, fill centers with jam or preserves."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["cookie", "dessert", "jam", "walnuts", "thumbprint cookie"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-crinkles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Crinkles",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich chocolate cookies rolled in powdered sugar that crackle when baked.",
+      "servings_yield": "Makes about 48",
+      "prep_time": "",
+      "cook_time": "8 to 10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "eggs", "quantity": "3", "unit": "", "prep_note": "beaten"},
+        {"item": "sugar", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "unsweetened chocolate", "quantity": "4", "unit": "squares (4 ounces)", "prep_note": "melted"},
+        {"item": "cooking oil", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "baking powder", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "", "unit": "", "prep_note": "sifted, for coating"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl combine beaten eggs, sugar, melted chocolate, cooking oil, baking powder, and vanilla. Gradually add flour to chocolate mixture, stirring till thoroughly combined."},
+        {"step": 2, "text": "Cover and chill for 1 to 2 hours or till easy to handle."},
+        {"step": 3, "text": "Shape dough into 1-inch balls. Roll balls in powdered sugar to coat generously. Place 1 inch apart on an ungreased cookie sheet."},
+        {"step": 4, "text": "Bake in a 375° oven for 8 to 10 minutes or till edges are set and tops are crackled."},
+        {"step": 5, "text": "Cool cookies on a wire rack. If desired, sprinkle with additional powdered sugar."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["cookie", "dessert", "chocolate", "crinkle cookie"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "shortbread-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shortbread",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Our taste panel felt butter, not margarine, was the only choice for these rich, scrumptious cookies.",
+      "servings_yield": "Makes 16",
+      "prep_time": "",
+      "cook_time": "25 to 30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "1¼", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "butter", "quantity": "½", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl combine flour and sugar. Cut in butter till mixture resembles fine crumbs and starts to cling. Form the mixture into a ball and knead till smooth."},
+        {"step": 2, "text": "To make wedges, on an ungreased cookie sheet pat or roll the dough into an 8-inch circle. Using your fingers, press to make a scalloped edge. With a knife, cut circle into 16 pie-shape wedges. Leave wedges in the circle shape."},
+        {"step": 3, "text": "Bake in a 325° oven for 25 to 30 minutes or till bottom just starts to brown and center is set. Cut circle into wedges again while warm."},
+        {"step": 4, "text": "Cool on the cookie sheet for 5 minutes. Remove from cookie sheet; cool on a wire rack."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "",
+      "notes": [
+        "For strips or rounds, on a lightly floured surface, pat or roll dough ½ inch thick. Using a knife, cut into twenty-four 2x1-inch strips; or, using a 1½-inch-round cookie cutter, cut into 24 rounds. Place 1 inch apart on an ungreased cookie sheet. Bake in a 325° oven 20 to 25 minutes or till bottoms just start to brown. Cool cookies on a wire rack.",
+        "Spiced Shortbread: Prepare as above, except substitute brown sugar for the sugar and stir ½ teaspoon ground cinnamon, ¼ teaspoon ground ginger, and ⅛ teaspoon ground cloves into the flour-sugar mixture.",
+        "Lemon and Poppy Seed Shortbread: Prepare as above, except stir 1 tablespoon poppy seed into flour-sugar mixture and add 1 teaspoon finely shredded lemon peel with the butter.",
+        "Butter-Pecan Shortbread: Prepare as above, except substitute brown sugar for the sugar. After cutting in butter, stir 2 tablespoons finely chopped pecans into the flour mixture. Sprinkle mixture with ½ teaspoon vanilla.",
+        "Oatmeal Shortbread: Prepare as above, except reduce all-purpose flour to 1 cup. After cutting in butter, stir ⅓ cup quick-cooking rolled oats into the flour mixture."
+      ],
+      "tags": ["cookie", "dessert", "shortbread", "butter"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
