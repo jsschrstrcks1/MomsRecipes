@@ -33082,6 +33082,462 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "peters-special-winter-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peter's Special Winter Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Peter",
+      "source_note": "Bread machine recipe book, page 30",
+      "description": "Hearty winter bread with corn meal, molasses, and whole wheat flour for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "7-8",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "corn meal",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "2 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Sweet setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Sweet Setting - Not for Timer"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "winter bread",
+        "corn meal",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "whole-wheat-bread-fat-free",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "100% Whole Wheat Bread - Fat Free (Bread Machine)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 30",
+      "description": "Fat-free 100% whole wheat bread with honey and molasses for bread machine.",
+      "servings_yield": "1 loaf (1.5 lb or 2 lb)",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "8-9 oz (1.5 lb) / 11-12 oz (2 lb)",
+          "unit": "",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2 tsp (1.5 lb) / 1 3/4 tsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "1 1/2 tbsp (1.5 lb) / 2 tbsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1 1/2 tbsp (1.5 lb) / 2 tbsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "3 cups (1.5 lb) / 4 cups (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vital gluten",
+          "quantity": "1 tbsp (1.5 lb) / 1 1/2 tbsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2 tsp (1.5 lb) / 2 1/2 tsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Timer OK",
+        "Fat-free recipe"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "whole wheat",
+        "fat-free",
+        "healthy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "multi-grain-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Multi-Grain Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 31",
+      "description": "Hearty multi-grain bread with wheat berries, oats, and shredded carrots for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "buttermilk",
+          "quantity": "9-10",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "wheat berries",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "cooked, optional"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "carrots",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "wheat germ",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "quick-roll oats",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "add after Fruit & Nut beep"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients except raisins into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Whole Wheat setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "Add raisins after the 'Fruit & Nut' beep."
+        },
+        {
+          "step": 5,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Whole Wheat Setting - Not for Timer",
+        "To cook wheat berries: Soak overnight in water, then drain and add to boiling water. Bring back to boil, cover, reduce heat and simmer 60 minutes or until tender. Drain and cool completely. Drain well before adding to bread pan."
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "multi-grain",
+        "wheat berries",
+        "healthy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "apple-walnut-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple Walnut Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 31",
+      "description": "Sweet apple bread with walnuts and cinnamon for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "unsweetened apple sauce",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "apple juice",
+          "quantity": "3-4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Sweet setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Sweet Setting - Not for Timer"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "apple",
+        "walnut",
+        "sweet bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
