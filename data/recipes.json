@@ -59739,6 +59739,69 @@
       "tags": ["sauce", "hard-sauce", "dessert-topping", "christmas", "gingerbread"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "bisquick-drop-biscuits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bisquick Drop Biscuits",
+      "category": "breads",
+      "source_note": "Handwritten recipe card",
+      "description": "Quick and easy drop biscuits using Bisquick mix.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "Bisquick mix", "quantity": "2 1/4", "unit": "cups", "prep_note": ""},
+        {"item": "milk", "quantity": "2/3", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Beat 30 seconds."},
+        {"step": 2, "text": "Drop spoonfuls onto ungreased cookie sheet."},
+        {"step": 3, "text": "Bake until golden."}
+      ],
+      "temperature": "",
+      "pan_size": "cookie sheet",
+      "notes": [],
+      "tags": ["bread", "biscuits", "bisquick", "quick", "easy"],
+      "confidence": {"overall": "medium", "flags": ["Baking temperature not specified on card"]},
+      "image_refs": ["IMG_5074 Large.jpeg"]
+    },
+    {
+      "id": "homemade-biscuits-handwritten",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Biscuits",
+      "category": "breads",
+      "source_note": "Handwritten recipe card",
+      "description": "Classic homemade biscuits from scratch.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "baking powder", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "shortening", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Whisk all dry ingredients together."},
+        {"step": 2, "text": "Cut in shortening until you have coarse meal."},
+        {"step": 3, "text": "Slowly stir in milk until the dough pulls away from side of bowl."},
+        {"step": 4, "text": "Put dough on floured surface. Knead lightly 15 to 30 times."},
+        {"step": 5, "text": "Cut into biscuit size with a floured glass."},
+        {"step": 6, "text": "Bake at 475°F for about 15 minutes until edges are brown."}
+      ],
+      "temperature": "475°F (245°C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["bread", "biscuits", "homemade", "from-scratch"],
+      "confidence": {"overall": "medium", "flags": ["Some handwriting difficult to read"]},
+      "image_refs": ["IMG_5077 Large.jpeg", "IMG_5078 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
