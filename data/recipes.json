@@ -62903,6 +62903,95 @@
       "tags": ["cookies", "filbert", "hazelnut", "nuts", "dessert"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5164 Large.jpeg"]
+    },
+    {
+      "id": "christmas-tree-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Christmas Tree Cookies",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Good Housekeeping cookbook, page 352",
+      "description": "Traditional holiday sugar cookies shaped like festive Christmas tree ornaments.",
+      "servings_yield": "72 cookies",
+      "prep_time": "45 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "3 hours (including refrigeration)",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2-1/2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "butter or margarine", "quantity": "1", "unit": "cup", "prep_note": "softened"},
+        {"item": "almond extract", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "baking powder", "quantity": "1-1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "green sugar crystals", "quantity": "1/4", "unit": "cup", "prep_note": "about"},
+        {"item": "container confetti decors", "quantity": "1", "unit": "1-1/2 oz", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Into a large bowl, measure all-purpose flour, sugar, margarine, baking powder, salt, almond extract, and egg. With electric mixer at low speed, beat the ingredients until well blended, occasionally scraping the bowl with rubber spatula. Dough may be crumbly. With hands, gently knead the dough until the mixture holds together."},
+        {"step": 2, "text": "Reserve 1/2 cup dough; wrap in plastic wrap or aluminum foil and refrigerate. With hands, roll remaining dough into three 6-inch-long rolls."},
+        {"step": 3, "text": "Roll up each roll in sugar crystals to coat. Form each roll into triangle-shaped log by pressing to flatten bottom, then pinching sides together to form a point."},
+        {"step": 4, "text": "Wrap each log in plastic wrap and refrigerate 2 hours or until the dough is firm enough to slice (refrigerate up to 1 week)."},
+        {"step": 5, "text": "Preheat oven to 350°F. Slice one log crosswise into 1/4-inch-thick slices; place slices, 1-inch apart, on large ungreased cookie sheet."},
+        {"step": 6, "text": "For each cookie, with fingers, shape 1/4 teaspoon reserved dough to resemble tree trunk; carefully attach to bottom of each slice."},
+        {"step": 7, "text": "Lightly sprinkle each cookie with some confetti decors. Bake the cookies 10 to 12 minutes until lightly browned."},
+        {"step": 8, "text": "With pancake turner or metal spatula, remove cookies to wire racks to cool. Repeat with remaining logs and confetti decors."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "cookie sheets",
+      "notes": [
+        "55 cals per cookie",
+        "Begin 3-1/2 hrs or up to 1 wk ahead",
+        "Use them as festive Christmas tree ornaments by making a small hole in the top of the cookie before baking; use ribbon to tie onto the branches"
+      ],
+      "tags": ["cookies", "christmas", "holiday", "sugar-cookies", "decorated", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5165 Large.jpeg"]
+    },
+    {
+      "id": "frosted-snowmen",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Frosted Snowmen",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Good Housekeeping cookbook, page 352",
+      "description": "Adorable snowman-shaped cookies with oats, decorated with frosting.",
+      "servings_yield": "36 cookies",
+      "prep_time": "45 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "2-1/2 hours",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "shortening", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "baking soda", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "eggs", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "quick-cooking oats", "quantity": "2", "unit": "cups", "prep_note": "uncooked"},
+        {"item": "egg whites", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "confectioners' sugar", "quantity": "2-1/4", "unit": "cups", "prep_note": ""},
+        {"item": "decorative candies", "quantity": "", "unit": "", "prep_note": "for decoration"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Into large bowl, measure first 7 ingredients. With mixer at low speed, beat until blended. With wooden spoon, stir in oats and walnuts."},
+        {"step": 2, "text": "Preheat oven to 375°F. With floured hands, shape mixture into thirty-six 1-inch balls and thirty-six 3/4-inch balls. Place 1-inch balls, 2 inches apart, on ungreased cookie sheets; place 3/4-inch balls 1/2 inch above 1-inch balls."},
+        {"step": 3, "text": "Bake 10 to 12 minutes, until golden. With metal spatula, remove to wire racks to cool."},
+        {"step": 4, "text": "Prepare frosting: In medium bowl with mixer at low speed, beat confectioners' sugar, cream of tartar, and egg whites until blended. Increase speed to high and beat 1 minute."},
+        {"step": 5, "text": "Dip front of each cookie into frosting to cover. Place frosted-side up, on wire racks; decorate quickly. Let frosting dry, about 1 hour."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "cookie sheets",
+      "notes": [
+        "135 cals per cookie",
+        "Begin 2-1/2 hrs or up to 1 wk ahead",
+        "Decorate with candies for eyes, nose, and buttons before frosting sets"
+      ],
+      "tags": ["cookies", "christmas", "holiday", "snowmen", "decorated", "oatmeal", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5165 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
