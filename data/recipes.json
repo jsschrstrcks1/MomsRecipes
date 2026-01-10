@@ -59139,6 +59139,321 @@
       "tags": ["dessert", "trifle", "english", "layered", "make-ahead"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "no-cook-vanilla-ice-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "No-Cook Vanilla Ice Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Looks and tastes like soft-serve ice cream.",
+      "servings_yield": "Makes 2 quarts (16 to 20 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "light cream", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1 1/2", "unit": "cups", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "whipping cream", "quantity": "3", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large mixing bowl combine light cream, sugar, and vanilla. Stir till sugar dissolves. Stir in whipping cream."},
+        {"step": 2, "text": "Freeze in a 4- or 5-quart ice-cream freezer according to the manufacturer's directions."}
+      ],
+      "temperature": "",
+      "pan_size": "4- or 5-quart ice-cream freezer",
+      "notes": [
+        "No-Cook Cherry-Nut Ice Cream: Prepare as above, except stir 1 cup chopped pitted dark sweet cherries and 3/4 cup chopped walnuts into cream mixture before freezing.",
+        "No-Cook Chocolate-Almond Ice Cream: Prepare as above, except reduce sugar to 1 cup. Stir one 16-ounce can (1 1/2 cups) chocolate-flavored syrup and 1/2 cup chopped toasted almonds into cream mixture before freezing.",
+        "No-Cook Chocolate Chip and Mint Ice Cream: Prepare as above, except stir 1 cup miniature semisweet chocolate pieces, several drops of mint extract, and, if desired, a few drops of green or red food coloring into the cream mixture before freezing.",
+        "No-Cook Strawberry Ice Cream: Prepare as above, except, in a blender container, blend 4 cups fresh or frozen-then-thawed unsweetened strawberries or blueberries till nearly smooth. (You should have 2 cups.) Stir blended berries into cream mixture before freezing.",
+        "No-Cook Peach Ice Cream: Prepare as above, except, in a blender container, blend 4 cups cut-up, peeled peaches till nearly smooth. (You should have 2 cups.) Stir peaches into cream mixture before freezing.",
+        "No-Cook Coffee Ice Cream: Prepare as above, except dissolve 2 to 3 tablespoons instant coffee crystals in the light cream mixture. Stir 1/2 cup miniature semisweet chocolate pieces into cream mixture before freezing, if desired.",
+        "Butter-Pecan Ice Cream: Prepare as above, except, in a heavy skillet, cook 1/2 cup chopped pecans, 1/4 cup sugar, and 1 tablespoon margarine or butter over medium-high heat (do not stir) till sugar begins to melt, shaking skillet occasionally. Reduce heat to low and cook till sugar turns golden, stirring frequently. Immediately spread on a baking sheet lined with greased foil. Cool; break into chunks. Stir nut mixture into cream mixture before freezing."
+      ],
+      "tags": ["dessert", "ice-cream", "no-cook", "homemade"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "vanilla-ice-cream-cooked",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vanilla Ice Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich homemade ice cream with a cooked custard base.",
+      "servings_yield": "Makes about 3 quarts (24 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "unflavored gelatin", "quantity": "2", "unit": "envelopes", "prep_note": ""},
+        {"item": "light cream", "quantity": "6", "unit": "cups", "prep_note": ""},
+        {"item": "eggs", "quantity": "6", "unit": "", "prep_note": "beaten"},
+        {"item": "whipping cream", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "vanilla", "quantity": "3", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large saucepan combine sugar and gelatin. Stir in light cream. Cook and stir over medium heat till mixture almost boils and sugar dissolves."},
+        {"step": 2, "text": "Stir about 1 cup of the hot mixture into beaten eggs; return all to saucepan. Cook and stir for 2 minutes more. Do not boil."},
+        {"step": 3, "text": "Stir in whipping cream and vanilla. Cool."},
+        {"step": 4, "text": "Freeze in a 4- or 5-quart ice-cream freezer according to manufacturer's directions."}
+      ],
+      "temperature": "",
+      "pan_size": "4- or 5-quart ice-cream freezer",
+      "notes": [
+        "Chocolate Ice Cream: Prepare as above, except stir 6 squares (6 ounces) unsweetened chocolate, melted and cooled, into gelatin mixture after heating. Beat with a rotary beater till combined. Stir 1 cup chopped toasted almonds into the cooled mixture, if desired."
+      ],
+      "tags": ["dessert", "ice-cream", "homemade", "custard"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "lemon-sherbet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Sherbet",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "We added just enough lemon peel to give a tangy, refreshing taste.",
+      "servings_yield": "Makes 2 quarts (serves 16 to 20)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1 1/3", "unit": "cups", "prep_note": ""},
+        {"item": "unflavored gelatin", "quantity": "1", "unit": "envelope", "prep_note": ""},
+        {"item": "water", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "finely shredded lemon peel", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "yellow food coloring", "quantity": "", "unit": "", "prep_note": "few drops"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In saucepan mix sugar and gelatin; add 3 cups water. Cook and stir till sugar and gelatin dissolve."},
+        {"step": 2, "text": "Remove from heat. Add lemon peel, milk, lemon juice, and food coloring. (Mixture will look curdled.) Transfer to a 9x9x2-inch baking pan."},
+        {"step": 3, "text": "Cover; freeze 2 to 3 hours or till almost firm. (Or, after mixing ingredients, freeze in a 4- or 5-quart ice-cream freezer according to manufacturer's directions. Omit remaining steps.)"},
+        {"step": 4, "text": "Break frozen mixture into small chunks. Transfer to a chilled bowl. Beat with an electric mixer till smooth but not melted. Return to pan. Cover; freeze till firm."}
+      ],
+      "temperature": "",
+      "pan_size": "9x9x2-inch baking pan",
+      "notes": [
+        "Orange Sherbet: Prepare as above, except substitute 3 3/4 cups orange juice for water. Omit lemon juice. Substitute orange food coloring for yellow food coloring.",
+        "Pineapple Sherbet: Prepare as above, except substitute 3 3/4 cups unsweetened pineapple juice for water. Omit lemon juice."
+      ],
+      "tags": ["dessert", "sherbet", "frozen", "lemon"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "fruit-ice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit Ice",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Refreshing fruit ice made with fresh or frozen fruit.",
+      "servings_yield": "Makes 3 cups (6 to 8 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "fresh or frozen unsweetened strawberries, raspberries, or sliced peaches or nectarines", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "orange juice", "quantity": "1", "unit": "cup", "prep_note": "plus more as needed"},
+        {"item": "sugar", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "orange liqueur", "quantity": "2", "unit": "tbsp", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a blender container combine fruit, orange juice, sugar, and, if desired, liqueur. Cover; blend till smooth. Press through a sieve to remove skin or seeds. Add additional orange juice to make 3 cups mixture."},
+        {"step": 2, "text": "Transfer to an 8x4x2-inch or 9x5x3-inch loaf pan. Cover; freeze 4 hours or till firm."},
+        {"step": 3, "text": "Break frozen mixture into small chunks. Transfer to chilled bowl. Beat with an electric mixer till smooth but not melted. Return mixture to loaf pan. Cover; freeze till firm."},
+        {"step": 4, "text": "To serve, scrape across top with a spoon and mound into dessert dishes."}
+      ],
+      "temperature": "",
+      "pan_size": "loaf pan",
+      "notes": [],
+      "tags": ["dessert", "frozen", "fruit", "sorbet"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "choose-a-fruit-frozen-yogurt",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Fruit Frozen Yogurt",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Easy homemade frozen yogurt with your choice of fresh or frozen fruit.",
+      "servings_yield": "Makes 1 quart (8 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "fresh or frozen unsweetened fruit", "quantity": "2", "unit": "cups", "prep_note": "strawberries, raspberries, blueberries, boysenberries, peaches, nectarines, or cherries"},
+        {"item": "plain yogurt", "quantity": "2", "unit": "8-oz cartons", "prep_note": ""},
+        {"item": "honey or sugar", "quantity": "1/2-3/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In blender container blend fruit till smooth. Press through a sieve to remove seeds, if necessary."},
+        {"step": 2, "text": "Stir in yogurt and honey. Pour into a 1- to 2-quart ice-cream freezer."},
+        {"step": 3, "text": "Freeze according to manufacturer's directions. Let stand at room temperature for 20 minutes."}
+      ],
+      "temperature": "",
+      "pan_size": "1- to 2-quart ice-cream freezer",
+      "notes": [
+        "Double all the ingredients for a 4- or 5-quart ice-cream freezer."
+      ],
+      "tags": ["dessert", "frozen-yogurt", "fruit", "easy", "healthy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "mocha-toffee-squares",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mocha Toffee Squares",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Frozen mocha dessert with chocolate wafer crust and toffee topping.",
+      "servings_yield": "Serves 9",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "finely crushed chocolate wafers", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": "melted, for crust"},
+        {"item": "instant coffee crystals", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "sugar", "quantity": "3/4", "unit": "cup", "prep_note": "divided"},
+        {"item": "margarine or butter", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "egg yolks", "quantity": "4", "unit": "", "prep_note": ""},
+        {"item": "unsweetened chocolate", "quantity": "1", "unit": "oz", "prep_note": "melted and cooled"},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "egg whites", "quantity": "4", "unit": "", "prep_note": ""},
+        {"item": "chocolate-covered English toffee bars", "quantity": "2", "unit": "1 1/4-oz bars", "prep_note": "crushed"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For crust, combine crushed wafers and the melted margarine; press onto bottom of an 8x8x2-inch dish."},
+        {"step": 2, "text": "Dissolve coffee crystals in 1 tablespoon hot water. Beat together 1/2 cup sugar and the 1/2 cup margarine till fluffy."},
+        {"step": 3, "text": "Add egg yolks, one at a time, beating well after each. Add coffee, chocolate, and vanilla; beat till combined."},
+        {"step": 4, "text": "Beat egg whites to soft peaks; gradually add remaining sugar, beating to stiff peaks. Fold chocolate mixture into egg whites."},
+        {"step": 5, "text": "Spread over crust. Sprinkle toffee atop. Cover; freeze 6 hours or till firm. Let stand 5 minutes before serving."}
+      ],
+      "temperature": "",
+      "pan_size": "8x8x2-inch dish",
+      "notes": [],
+      "tags": ["dessert", "frozen", "mocha", "chocolate", "toffee"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "frosty-strawberry-squares",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Frosty Strawberry Squares",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Frozen strawberry dessert with a walnut crumb crust.",
+      "servings_yield": "Serves 12 to 16",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "chopped walnuts", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": "melted"},
+        {"item": "packed brown sugar", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "egg whites", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "sliced strawberries", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "lemon juice", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "whipping cream", "quantity": "1", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For crumb mixture, combine flour, nuts, margarine, and brown sugar. Spread evenly into a shallow baking pan. Bake in a 350° oven for 20 minutes; stir occasionally."},
+        {"step": 2, "text": "Sprinkle two-thirds of the crumbs into a 13x9x2-inch baking pan."},
+        {"step": 3, "text": "In a large mixing bowl combine egg whites, strawberries, sugar, and lemon juice. Beat with an electric mixer on high speed about 10 minutes or till stiff peaks form (tips stand straight)."},
+        {"step": 4, "text": "In a small mixing bowl beat the whipping cream till soft peaks form. Fold whipped cream into strawberry mixture."},
+        {"step": 5, "text": "Spoon evenly over crumbs in baking pan; sprinkle remaining crumbs on top. Cover; freeze at least 6 hours or till firm."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "13x9x2-inch baking pan",
+      "notes": [
+        "Frosty Cranberry Squares: Prepare as above, except substitute 1 1/2 cups ground cranberries for strawberries and 1 tablespoon frozen orange juice concentrate for lemon juice.",
+        "If desired, use one 10-ounce package frozen sliced strawberries, partially thawed, and 2/3 cup sugar."
+      ],
+      "tags": ["dessert", "frozen", "strawberry", "make-ahead"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "ice-cream-torte",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ice-Cream Torte",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Combine cake and ice cream in one dessert.",
+      "servings_yield": "Makes 1 torte (8 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "frozen loaf pound cake", "quantity": "1", "unit": "10 3/4-oz", "prep_note": ""},
+        {"item": "peppermint, cherry, or chocolate ice cream", "quantity": "1", "unit": "pint", "prep_note": ""},
+        {"item": "cream cheese", "quantity": "3", "unit": "oz", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "sifted powdered sugar", "quantity": "1 1/2", "unit": "cups", "prep_note": ""},
+        {"item": "crushed peppermint candies, crushed toffee, or chopped nuts", "quantity": "3/4", "unit": "cup", "prep_note": "for topping"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For torte, with a serrated knife, slice pound cake horizontally into two layers."},
+        {"step": 2, "text": "In a chilled mixing bowl stir ice cream just to soften. Place bottom cake layer on a baking sheet. Spread ice cream over cake. Top with remaining cake layer. Place torte in freezer."},
+        {"step": 3, "text": "For frosting, in a small mixing bowl beat cream cheese, margarine or butter, and vanilla with an electric mixer on medium speed for 30 seconds or till fluffy. Gradually add powdered sugar, beating till smooth."},
+        {"step": 4, "text": "Remove torte from the freezer. Trim ice cream to cake edge, if necessary. Pipe or spread frosting over top and sides of torte. Freeze torte till firm."},
+        {"step": 5, "text": "To serve, remove torte from freezer and let stand, covered, at room temperature for 10 minutes. Unwrap and place on a serving platter. Sprinkle with crushed peppermint, crushed toffee, or chopped nuts."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Place frozen torte in a moisture- and vapor-proof container. Seal and label. Freeze torte for up to 6 months."
+      ],
+      "tags": ["dessert", "frozen", "ice-cream", "torte", "make-ahead"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolaty-velvet-ice-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolaty Velvet Ice Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "This nutty treat needs no ice-cream freezer.",
+      "servings_yield": "Makes 1 quart (8 servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "whipping cream", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "sweetened condensed milk", "quantity": "2/3", "unit": "cup", "prep_note": "half of a 14-oz can"},
+        {"item": "chocolate-flavored syrup", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "coarsely chopped walnuts", "quantity": "1/3", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Combine cream, sweetened condensed milk, and chocolate syrup. Beat with an electric mixer till soft peaks form."},
+        {"step": 2, "text": "Fold in chopped nuts. Transfer to an 8x8x2-inch pan; freeze till firm."}
+      ],
+      "temperature": "",
+      "pan_size": "8x8x2-inch pan",
+      "notes": [],
+      "tags": ["dessert", "ice-cream", "chocolate", "no-churn", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
