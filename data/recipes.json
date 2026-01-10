@@ -53640,6 +53640,414 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "caramel-nut-pinwheels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel-Nut Pinwheels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Always keep a supply of these easy ingredients on hand for great short-notice sweet rolls",
+      "servings_yield": "8 pinwheels",
+      "prep_time": "",
+      "cook_time": "20 to 25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "caramel topping, butterscotch topping, or chocolate-flavored syrup",
+          "quantity": "\u2153",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "chopped pecans or walnuts",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "refrigerated breadsticks",
+          "quantity": "1",
+          "unit": "package (8)",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a 9x1\u00bd-inch round baking pan stir together topping or syrup and melted margarine or butter. Sprinkle with pecans or walnuts. Separate, but do not uncoil, breadsticks. Arrange dough coils in pan atop nuts."
+        },
+        {
+          "step": 2,
+          "text": "Bake, uncovered, in a 350\u00b0 oven for 20 to 25 minutes or till golden. Let stand 2 to 3 minutes. Loosen sides and invert onto a serving platter. Spread any remaining topping onto rolls. Serve warm."
+        }
+      ],
+      "temperature": "350\u00b0F",
+      "pan_size": "9x1\u00bd-inch round baking pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "caramel",
+        "nuts",
+        "fast",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "waffles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Waffles",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "3 or 4 waffles",
+      "prep_time": "",
+      "cook_time": "varies",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1\u00be",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1\u00be",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine flour, baking powder, and salt. In another bowl beat egg yolks slightly. Beat in milk and oil. Add egg yolk mixture all at once to flour mixture all at once. Stir just till combined but still slightly lumpy."
+        },
+        {
+          "step": 2,
+          "text": "In a small bowl beat egg whites till stiff peaks form (tips stand straight). Gently fold beaten whites into flour and egg yolk mixture, leaving a few fluffs of egg white. Do not overmix."
+        },
+        {
+          "step": 3,
+          "text": "Pour 1 to 1\u00bc cups batter onto grids of a preheated, lightly greased waffle baker. Close lid quickly; do not open during baking. Bake according to manufacturer's directions. When done, use a fork to lift waffle off grid. Repeat with remaining batter."
+        }
+      ],
+      "temperature": "per waffle iron",
+      "pan_size": "waffle iron",
+      "notes": [
+        "Easy Waffles: Prepare as above, except do not separate eggs. In a mixing bowl beat whole eggs slightly. Beat in milk and oil. Add to flour mixture all at once. Beat just till combined but still slightly lumpy.",
+        "Chocolate Waffles: Prepare as above, except reduce flour to 1\u00bd cups. Add \u2153 cup sifted unsweetened cocoa powder and \u2153 cup sugar to the flour mixture. Add 1 teaspoon vanilla to the egg yolk mixture.",
+        "Cinnamon-Nut Waffles: Prepare as above, except add \u00bd teaspoon ground cinnamon to flour mixture and sprinkle about 2 tablespoons chopped walnuts or pecans over each waffle before closing lid to bake.",
+        "Banana-Wheat Waffles: Prepare as above, except reduce all-purpose flour to 1 cup and add \u00be cup whole wheat flour. Add \u215b teaspoon ground nutmeg to flour mixture, reduce milk to 1\u00bd cups, and add \u2154 cup mashed ripe banana to egg yolk mixture.",
+        "Buttermilk Waffles: Prepare as above, except substitute 2 cups buttermilk for milk.",
+        "Corn Waffles: Prepare as above, except reduce flour to 1\u00bc cups and add \u00bd cup cornmeal. Add one 8\u00be-ounce can cream-style corn to egg yolk mixture. Makes 5 or 6."
+      ],
+      "tags": [
+        "bread",
+        "breakfast",
+        "waffles"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pancakes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pancakes",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Turn your kitchen into a pancake house with these five delicious flavors",
+      "servings_yield": "8 to 10 standard-size or 36 dollar-size pancakes",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together flour, sugar, baking powder, and salt. In another mixing bowl combine egg, milk, and cooking oil. Add to flour mixture all at once. Stir mixture just till blended but still slightly lumpy."
+        },
+        {
+          "step": 2,
+          "text": "Pour about \u00bc cup batter onto a hot, lightly greased griddle or heavy skillet for each standard-size pancake or about 1 tablespoon batter for each dollar-size pancake."
+        },
+        {
+          "step": 3,
+          "text": "Cook till pancakes are golden brown, turning to cook second sides when pancakes have bubbly surfaces and slightly dry edges."
+        }
+      ],
+      "temperature": "medium-high heat",
+      "pan_size": "griddle or skillet",
+      "notes": [
+        "Buttermilk Pancakes: Prepare as above, except reduce baking powder to 1 teaspoon and add \u00bd teaspoon baking soda to flour mixture; substitute buttermilk or sour milk for milk. Add additional buttermilk to thin batter, if necessary.",
+        "Buckwheat Pancakes: Prepare as above, except substitute \u00bd cup whole wheat flour and \u00bd cup buckwheat flour for the all-purpose flour; substitute brown sugar for the sugar.",
+        "Nutty Orange Pancakes: Prepare as above, except add \u00bd teaspoon baking soda and \u00bd teaspoon ground cinnamon to the flour mixture; substitute orange juice for the milk. Fold \u00bd cup finely chopped nuts into the batter.",
+        "Sourdough Pancakes: Prepare as above, except bring 1\u00bc cups Sourdough Starter to room temperature. Reduce baking powder to 1 teaspoon and add \u00bd teaspoon baking soda to the flour mixture. Substitute the 1\u00bc cups room-temperature Sourdough Starter for the 1 cup milk."
+      ],
+      "tags": [
+        "bread",
+        "breakfast",
+        "pancakes"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "crepes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crepes",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Place two layers of waxed paper between any extra crepes and freeze them. Let crepes thaw at room temperature for one hour before using.",
+      "servings_yield": "18 crepes",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine milk, flour, eggs, oil, and \u215b teaspoon salt. Beat with a rotary beater till well mixed."
+        },
+        {
+          "step": 2,
+          "text": "Heat a lightly greased 6-inch skillet. Remove from the heat. Spoon in 2 tablespoons of the batter; lift and tilt the skillet to spread batter. Return to heat; brown on one side only. (Or, cook on an inverted crepe maker according to manufacturer's directions.)"
+        },
+        {
+          "step": 3,
+          "text": "Invert pan over paper towels; remove crepe. Repeat with remaining batter, greasing skillet occasionally."
+        }
+      ],
+      "temperature": "medium heat",
+      "pan_size": "6-inch skillet or crepe maker",
+      "notes": [
+        "Dessert Crepes: Prepare as above, except omit salt and add 2 tablespoons sugar."
+      ],
+      "tags": [
+        "bread",
+        "breakfast",
+        "crepes",
+        "French"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "puffed-oven-pancake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Puffed Oven Pancake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "about 25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Apple-Raisin Sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see below"
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place margarine or butter in a 10-inch ovenproof skillet. Place in a 400\u00b0 oven for 3 to 5 minutes or till margarine or butter melts. In a bowl beat eggs with a rotary beater till combined. Add flour, milk, and salt. Beat till smooth. Immediately pour into the hot skillet."
+        },
+        {
+          "step": 2,
+          "text": "Bake about 25 minutes or till puffed and well browned."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, prepare the Apple-Raisin Sauce. Sprinkle pancake with powdered sugar and cut into wedges. Serve with sauce."
+        },
+        {
+          "step": 4,
+          "text": "Apple-Raisin Sauce: In a skillet combine 2 large cooking apples, peeled, cored, and thinly sliced; \u00be cup apple juice or water; \u2153 cup raisins; 2 tablespoons sugar; and \u00bc teaspoon ground cinnamon. Simmer, covered, till apples are just tender. Stir together 2 tablespoons cornstarch and 2 tablespoons cold water. Add to apple mixture. Cook and stir till thickened and bubbly. Cook and stir 2 minutes more. Stir in 1 teaspoon margarine or butter. Keep warm. Makes 2 cups."
+        }
+      ],
+      "temperature": "400\u00b0F",
+      "pan_size": "10-inch ovenproof skillet",
+      "notes": [],
+      "tags": [
+        "bread",
+        "breakfast",
+        "pancakes",
+        "Dutch baby"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
