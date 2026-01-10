@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 810
+    "total_recipes": 814
   },
   "recipes": [
     {
@@ -61591,6 +61591,160 @@
       "tags": ["sauce", "fish", "seafood", "butter-sauce", "herb", "quick", "fast"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5329 Large.jpeg"]
+    },
+    {
+      "id": "halibut-with-sherry-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Halibut with Sherry Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Broiled halibut steaks with a creamy sherry and onion sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen halibut or other fish steaks", "quantity": "1-1/2 to 2", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "green onions", "quantity": "2", "unit": "", "prep_note": "sliced (1/4 cup)"},
+        {"item": "margarine or butter", "quantity": "4", "unit": "tbsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "dry sherry", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon-pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "chicken broth", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "heavy cream", "quantity": "1/2", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Place on the greased unheated rack of a broiler pan. Brush with half of the melted margarine. Sprinkle with pepper."},
+        {"step": 2, "text": "Broil 4 inches from heat 5 minutes, turn fish. Brush with remaining margarine, broil 3 to 7 more minutes or till fish flakes easily with a fork."},
+        {"step": 3, "text": "Meanwhile, cook onions and garlic in butter until tender. Add sherry, parsley, lemon-pepper. Cook and stir till reduced by about half."},
+        {"step": 4, "text": "Add cream. Cook and stir till mixture thickens slightly. Spoon sauce over fish."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Marked as FAST in cookbook"
+      ],
+      "tags": ["halibut", "fish", "seafood", "sherry", "cream-sauce", "broiled", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "teriyaki-shark",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Teriyaki Shark",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Shark or tuna steaks marinated in a sweet teriyaki glaze, then broiled.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "50 minutes to 2 hours 20 minutes (including marinating)",
+      "ingredients": [
+        {"item": "fresh or frozen shark or tuna steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "soy sauce", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "brown sugar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "dry sherry", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "grated gingerroot", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. For marinade, combine soy sauce, brown sugar, oil, sherry, gingerroot, and garlic."},
+        {"step": 2, "text": "Place fish in shallow dish. Pour marinade over fish. Cover and marinate for 30 minutes to 2 hours, turning occasionally."},
+        {"step": 3, "text": "Drain fish, reserving marinade. Place fish on greased unheated rack of broiler pan."},
+        {"step": 4, "text": "Broil 4 inches from heat for 5 minutes. Brush with marinade. Turn fish."},
+        {"step": 5, "text": "Broil 3 to 7 minutes more or till fish flakes easily with a fork, brushing with remaining marinade."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Shark's firm texture holds up well to marinating and grilling"
+      ],
+      "tags": ["shark", "tuna", "fish", "seafood", "teriyaki", "asian", "broiled", "marinated"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "dijon-mustard-fish-fillets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dijon-Mustard Fish Fillets",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Broiled fish fillets topped with a creamy Dijon mustard sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "dairy sour cream", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "Dijon-style mustard", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "snipped chives", "quantity": "2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Place fish on unheated rack of broiler pan. Broil 4 inches from heat till fish flakes easily with a fork. Allow 4 to 6 minutes per 1/2-inch thickness. Turn once if more than 1 inch thick."},
+        {"step": 3, "text": "Meanwhile, in small saucepan stir together sour cream, milk, mustard, and chives."},
+        {"step": 4, "text": "Cook and stir over low heat till heated through (do not boil). Spoon sauce over fish."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "Do not boil the sauce or it may curdle"
+      ],
+      "tags": ["fish", "seafood", "dijon", "mustard", "cream-sauce", "broiled", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "swordfish-kabobs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Swordfish Kabobs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "description": "Marinated swordfish, tuna, or shark cubes on skewers with mushrooms and green onions.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "1 hour (including 30 min marinating)",
+      "ingredients": [
+        {"item": "fresh or frozen swordfish, tuna, or shark", "quantity": "3/4", "unit": "lb", "prep_note": "cut into 1 inch cubes"},
+        {"item": "medium fresh mushrooms", "quantity": "16", "unit": "", "prep_note": ""},
+        {"item": "large green onions", "quantity": "4", "unit": "", "prep_note": "cut into 2-inch lengths"},
+        {"item": "cooking oil", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "dry white wine", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "1", "unit": "clove", "prep_note": "minced"},
+        {"item": "orange peel", "quantity": "1/4", "unit": "cup", "prep_note": "finely shredded"},
+        {"item": "pepper", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "cherry tomatoes", "quantity": "8", "unit": "", "prep_note": "optional, for grilling"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut into 1 inch cubes. Place fish, mushrooms, and onions in a plastic bag set in a bowl."},
+        {"step": 2, "text": "Combine oil, wine, garlic, orange peel, 1/4 teaspoon salt, and pepper. Add to bag. Seal bag and marinate at room temperature for 30 minutes (or in refrigerator for 2 hours), turning occasionally."},
+        {"step": 3, "text": "Drain fish cubes, reserving marinade. On eight 12-inch skewers, alternately thread fish cubes, mushrooms, and onion pieces."},
+        {"step": 4, "text": "Place on greased unheated rack of broiler pan. Broil 4 inches from heat for 4 to 5 minutes. Turn kabobs. Brush with marinade."},
+        {"step": 5, "text": "Broil 4 to 5 minutes more or till fish flakes easily with a fork."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan, 12-inch skewers",
+      "notes": [
+        "Swordfish's firm flesh makes it ideal for kabobs",
+        "Grill directions: Assemble and marinate kabobs as above. Add a cherry tomato to each skewer. Grill, uncovered, directly over medium-hot coals for 8 to 12 minutes, turning once."
+      ],
+      "tags": ["swordfish", "tuna", "shark", "fish", "seafood", "kabobs", "grilled", "broiled", "skewers"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5330 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
