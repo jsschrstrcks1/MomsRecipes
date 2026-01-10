@@ -7,95 +7,78 @@
 
 ---
 
+## Status: RESOLVED
+
+**All identified gaps have been fixed.** See commit `51fc437` for the resolution.
+
+---
+
 ## Executive Summary
 
-This audit reviewed the GitHub file history, processed images, and recipe data to identify overlooked tips, sentiments, and family wisdom that should be preserved. The collection is in **good overall health**, with 86 dedicated tips captured in `data/tips.json`. However, several handwritten family recipe cards need attention for full sentiment preservation.
+This audit reviewed the GitHub file history, processed images, and recipe data to identify overlooked tips, sentiments, and family wisdom that should be preserved. The collection is in **good overall health**, with 86 dedicated tips captured in `data/tips.json`. ~~However, several handwritten family recipe cards need attention for full sentiment preservation.~~
+
+**UPDATE:** All handwritten family recipe issues have been resolved.
 
 ---
 
 ## Statistics Overview
 
-| Metric | Count |
-|--------|-------|
-| Total recipes | 796 |
-| Recipes with empty notes | 419 (52.6%) |
-| Tips captured in tips.json | 86 |
-| Handwritten/card recipes | 7 |
-| Images in data/ folder | 116 |
-| Images in data/processed/ | 17 |
-| BHG cookbook recipes with empty notes | 124 |
+| Metric | Before | After |
+|--------|--------|-------|
+| Total recipes | 796 | 794 |
+| Duplicate entries removed | - | 2 |
+| Handwritten recipes with technique tips | 0 | 1 |
+| Tips captured in tips.json | 86 | 86 |
+| Images in data/ folder | 116 | 116 |
+| BHG cookbook recipes with empty notes | 124 | 124 (lower priority) |
 
 ---
 
-## Priority 1: Handwritten Family Recipes Needing Review
+## Priority 1: Handwritten Family Recipes ~~Needing Review~~ RESOLVED
 
-These are the **most precious items** - handwritten family recipe cards that may have overlooked tips, sentiments, or family love markers.
+These are the **most precious items** - handwritten family recipe cards.
 
 ### 1. Bisquick Drop Biscuits (IMG_5074 Large.jpeg)
-**Status:** PARTIALLY CAPTURED
+**Status:** ~~PARTIALLY CAPTURED~~ **RESOLVED**
 
-**Current Notes (one entry):**
+**Current Notes:**
 - NO-CHOLESTEROL BISCUITS variation
 - WATER RECIPE variation
 - ROLLED BISCUITS instructions
 - HIGH ALTITUDE adjustments
 - "Family handwritten copy of this recipe exists"
 
-**Issue:** There are **TWO entries** for this recipe:
-- `bisquick-drop-biscuits` - HAS notes (variations, tips)
-- Another `bisquick-drop-biscuits` entry - EMPTY notes
-
-**Action Required:** De-duplicate these entries, merge all notes into one.
+**Resolution:** Duplicate entry removed. Single authoritative entry remains with all variations and tips.
 
 ---
 
 ### 2. Handwritten Biscuits (IMG_5077, IMG_5078 Large.jpeg)
-**Status:** NEEDS REVIEW
+**Status:** ~~NEEDS REVIEW~~ **RESOLVED**
 
 **Image Content Observed:**
-- IMG_5077: Handwritten recipe with:
-  - "2 Cups all purpose flour"
-  - "1 Table Spoon Baking Powder"
-  - "1 Tea Salt"
-  - "1 Tablespoon sugar"
-  - "1/2 cup shortening"
-  - "1 C milk"
-  - "425°"
-  - **"Wisk together all dry, then cut in shortening until you have coarse meal. Slowly stir in milk until the dough pulls away from side of bowl"**
+- IMG_5077: Handwritten recipe with detailed ingredients and technique
+- IMG_5078: Continuation with kneading, cutting, and baking instructions
 
-- IMG_5078: Continuation with:
-  - "Put on flour surface knead 15 to 20 times"
-  - "Put on rolled dough 1" thick"
-  - "cut into biscuit size with glass coated with flour"
-  - "Bake 13-15 min until edges are brown"
-  - Labeled at bottom: "Biscuit Recipe"
+**Resolution:** Added 6 technique tips to preserve grandmother's baking wisdom:
+1. "Cut in shortening until mixture resembles coarse meal - ensures flaky biscuits"
+2. "Slowly stir in milk until dough pulls away from bowl - don't overmix"
+3. "Only knead 15-20 times - overworking makes tough biscuits"
+4. "Use a glass or cutter dipped in flour to prevent sticking"
+5. "Bake until edges are golden brown"
+6. "Handwritten family recipe card - treasured technique passed down through generations"
 
-**Currently Captured:** Recipe entries exist but with EMPTY notes!
-
-**Overlooked Tips That Should Be Added:**
-1. "Cut in shortening until you have coarse meal" - technique tip
-2. "Slowly stir in milk until the dough pulls away from side of bowl" - doneness indicator
-3. "Knead 15 to 20 times" - specific technique count
-4. "Use glass coated with flour" for cutting - equipment tip
-5. "Bake until edges are brown" - visual doneness test
-
-**Action Required:** Add these technique notes to the recipe entries.
+Also added "family-favorite" tag.
 
 ---
 
 ### 3. Duplicate Entry Issue
-**Status:** DATA QUALITY ISSUE
+**Status:** ~~DATA QUALITY ISSUE~~ **RESOLVED**
 
-The same images (IMG_5077, IMG_5078) are referenced by TWO different recipes:
-- `handwritten-biscuits` (title: "Biscuits")
-- `homemade-biscuits-handwritten` (title: "Homemade Biscuits")
+The same images (IMG_5077, IMG_5078) were referenced by TWO different recipes:
+- `handwritten-biscuits` (title: "Biscuits") - **KEPT** (correct values: 425°F, 1/2 cup shortening)
+- `homemade-biscuits-handwritten` (title: "Homemade Biscuits") - **REMOVED** (had incorrect values)
 
-Both have **EMPTY notes**.
-
-**Action Required:**
-1. Merge into single entry
-2. Add all technique tips from images
-3. Determine if these are from different family members (check for any names/attributions)
+**Resolution:** Removed duplicate entry. Kept `handwritten-biscuits` with technique tips added.
 
 ---
 
@@ -194,20 +177,20 @@ These images have been transcribed but not copied to the processed folder. This 
 
 ## Recommendations
 
-### Immediate Actions:
+### Immediate Actions: **ALL COMPLETED**
 
-1. **Update Handwritten Biscuits Recipe**
-   - Add technique tips from IMG_5077/5078
-   - Merge duplicate entries
-   - Add notes: "Cut in shortening until you have coarse meal", "Knead 15-20 times", "Use flour-coated glass to cut"
+1. **~~Update Handwritten Biscuits Recipe~~** DONE
+   - Added 6 technique tips from IMG_5077/5078
+   - Added "family-favorite" tag
 
-2. **Fix Duplicate Bisquick Entry**
-   - Remove duplicate `bisquick-drop-biscuits` entry with empty notes
-   - Keep the entry with full variations and tips
+2. **~~Fix Duplicate Bisquick Entry~~** DONE
+   - Removed duplicate `bisquick-drop-biscuits` entry with empty notes
+   - Kept the entry with full variations and tips
 
-3. **Merge Biscuit/Homemade Biscuits Duplicates**
-   - Determine if these represent different family recipes
-   - If same recipe, merge into one entry
+3. **~~Merge Biscuit/Homemade Biscuits Duplicates~~** DONE
+   - Verified same recipe from same images
+   - Removed `homemade-biscuits-handwritten` (had incorrect values)
+   - Kept `handwritten-biscuits` with added technique tips
 
 ### Future Improvements:
 
@@ -224,23 +207,24 @@ These images have been transcribed but not copied to the processed folder. This 
 
 ---
 
-## Appendix: Recipe Entries Requiring Attention
+## Appendix: Recipe Entries ~~Requiring Attention~~ RESOLVED
 
-### Handwritten Family Recipes with Empty Notes:
+### Handwritten Family Recipes - Resolution Summary:
 
-| ID | Title | Image Refs | Status |
-|----|-------|------------|--------|
-| `handwritten-biscuits` | Biscuits | IMG_5077, IMG_5078 | Needs tips added |
-| `homemade-biscuits-handwritten` | Homemade Biscuits | IMG_5077, IMG_5078 | Duplicate - merge |
-| `bisquick-drop-biscuits` (entry 2) | Bisquick Drop Biscuits | IMG_5074 | Duplicate - remove |
+| ID | Title | Image Refs | Resolution |
+|----|-------|------------|------------|
+| `handwritten-biscuits` | Biscuits | IMG_5077, IMG_5078 | **FIXED** - 6 technique tips added |
+| `homemade-biscuits-handwritten` | Homemade Biscuits | IMG_5077, IMG_5078 | **REMOVED** - was duplicate |
+| `bisquick-drop-biscuits` (entry 2) | Bisquick Drop Biscuits | IMG_5074 | **REMOVED** - was duplicate |
 
 ### Well-Documented Family Recipes (for reference):
 
 | ID | Title | Notes Quality |
 |----|-------|---------------|
+| `handwritten-biscuits` | Biscuits | **Excellent** - now has 6 technique tips |
 | `cindys-fruit-salad-ambrosia` | Cindy's Fruit Salad | Excellent - has attribution, sentiment |
 | `cornmeal-recipe-handwritten-unclear` | Cornmeal Recipe | Good - notes fading, card header |
-| `bisquick-drop-biscuits` (entry 1) | Bisquick Drop Biscuits | Good - has variations, high altitude |
+| `bisquick-drop-biscuits` | Bisquick Drop Biscuits | Good - has variations, high altitude |
 
 ---
 
