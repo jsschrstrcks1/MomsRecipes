@@ -33538,6 +33538,359 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "tinas-springtime-favourite-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tina's Springtime Favourite Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Tina",
+      "source_note": "Bread machine recipe book, page 32",
+      "description": "Sweet bread with raisins, candied orange peel, and almond extract for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "8-9",
+          "unit": "oz",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "3 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry milk",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "almond extract",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "candied orange peel",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed."
+        },
+        {
+          "step": 2,
+          "text": "Select Sweet setting. Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Sweet Setting - Not for Timer"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "sweet bread",
+        "raisins",
+        "almond",
+        "holiday",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "connies-cranberry-nut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Connie's Cranberry Nut Bread (Bread Machine Quick Bread)",
+      "category": "breads",
+      "attribution": "Connie",
+      "source_note": "Bread machine recipe book, page 33",
+      "description": "Quick bread with cranberries and walnuts made in bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "15 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cranberries",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "coarsely chopped"
+        },
+        {
+          "item": "walnuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure milk, egg and oil into bread pan and set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a medium mixing bowl, combine remaining dry ingredients except cranberries and nuts. Mix well and add to bread pan."
+        },
+        {
+          "step": 3,
+          "text": "Then add the cranberries and nuts."
+        },
+        {
+          "step": 4,
+          "text": "Select Quick Bread setting. Select Dark Crust Color Setting. Press 'Start/Stop'."
+        },
+        {
+          "step": 5,
+          "text": "When the baking cycle is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Quick Bread Setting - Not for Timer",
+        "Select Dark Crust Color Setting"
+      ],
+      "tags": [
+        "quick bread",
+        "bread machine",
+        "cranberry",
+        "walnut",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-banana-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Banana Bread (Bread Machine Quick Bread)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 33",
+      "description": "Banana bread with chocolate chips and nuts made in bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "15 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "ripe bananas",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "mashed"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "sour milk",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "or 1 tbsp vinegar + 2 tbsp milk"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/2 to 3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chocolate chips",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure banana, milk, eggs and butter into bread pan and set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a medium mixing bowl, combine remaining ingredients and stir together. Add to bread pan."
+        },
+        {
+          "step": 3,
+          "text": "Select Quick Bread setting. Select Dark Crust Color Setting. Press 'Start/Stop'."
+        },
+        {
+          "step": 4,
+          "text": "When the baking cycle is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Quick Bread Setting - Not for Timer",
+        "Select Dark Crust Color Setting"
+      ],
+      "tags": [
+        "quick bread",
+        "bread machine",
+        "banana",
+        "chocolate",
+        "nuts"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
