@@ -57967,6 +57967,183 @@
       "tags": ["dessert", "fruit", "cobbler"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "cherries-jubilee",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cherries Jubilee",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Your meal will end with pizzazz when you ladle this flaming sauce over ice cream.",
+      "servings_yield": "Makes 6 to 8 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "pitted dark sweet cherries", "quantity": "1", "unit": "16-ounce can", "prep_note": ""},
+        {"item": "sugar", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "brandy, cherry brandy, or kirsch", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla ice cream", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Drain cherries, reserving ½ cup syrup. Set cherries aside. In a medium saucepan or the blazer pan of a chafing dish combine reserved syrup, sugar, and cornstarch. Cook and stir till thickened and bubbly. Cook and stir for 2 minutes more."},
+        {"step": 2, "text": "Stir in cherries and heat through."},
+        {"step": 3, "text": "In a small saucepan heat brandy or kirsch till it almost simmers. (If desired, pour heated brandy into a large ladle.) Carefully ignite brandy and pour over cherry mixture. Serve immediately over ice cream."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["dessert", "fruit", "cherries", "flambé", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "bananas-foster",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bananas Foster",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Bananas plus brown-sugar-rum sauce plus vanilla ice cream equal a truly divine dessert.",
+      "servings_yield": "Serves 4",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "ripe medium bananas", "quantity": "4", "unit": "", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "light rum", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla ice cream", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Peel bananas; halve crosswise, then lengthwise. In a large skillet or the blazer pan of a chafing dish melt margarine or butter over medium heat."},
+        {"step": 2, "text": "Stir in brown sugar. Add bananas. Cook and stir for 3 to 4 minutes or till heated through. In a small saucepan heat rum till it almost simmers. (If desired, pour heated rum into a large ladle.)"},
+        {"step": 3, "text": "Carefully ignite rum and pour over bananas. Serve immediately over ice cream."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Peach and Banana Flambé: Prepare as above, except substitute 1 cup sliced, peeled peaches (2 medium) for 1 banana. Sprinkle each serving with 1 tablespoon toasted coconut."
+      ],
+      "tags": ["dessert", "fruit", "bananas", "flambé", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "fresh-fruit-bowl",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fresh-Fruit Bowl",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "For a tropical flavor, choose the papaya and kiwi fruit or carambola. Easy to make.",
+      "servings_yield": "Makes 4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "medium oranges", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "sugar or honey", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "lemon or lime peel", "quantity": "½", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "lemon or lime juice", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "ground cinnamon, ginger, or nutmeg", "quantity": "⅛", "unit": "tsp", "prep_note": ""},
+        {"item": "cubed honeydew melon, cantaloupe, or papaya", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "halved strawberries or seedless green grapes; peeled, sliced kiwi fruit; or sliced carambola (star fruit)", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "blueberries or raspberries", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "fruit-flavored yogurt", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "toasted coconut or toasted slivered almonds", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Over a bowl, peel and section oranges, reserving juice. Combine reserved juice, sugar or honey, lemon or lime peel, lemon or lime juice, and cinnamon, ginger, or nutmeg."},
+        {"step": 2, "text": "In a large serving bowl place all the fruit except berries. Drizzle juice mixture over fruit. Cover; chill 2 to 24 hours."},
+        {"step": 3, "text": "To serve, stir in berries. Top with yogurt and coconut or almonds, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["dessert", "fruit", "salad", "easy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "swedish-fruit-soup",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Swedish Fruit Soup",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Make a delicious dessert of soup with dried fruit, raisins, and orange.",
+      "servings_yield": "Makes 8 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "mixed dried fruit", "quantity": "½ of an 8-ounce package (about ¾ cup)", "unit": "", "prep_note": ""},
+        {"item": "water", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "raisins", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "stick cinnamon", "quantity": "2", "unit": "inches", "prep_note": ""},
+        {"item": "unsweetened pineapple juice", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "quick-cooking tapioca", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "currant jelly", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "brown sugar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "medium orange", "quantity": "1", "unit": "", "prep_note": "peeled, thinly sliced, and quartered"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Pit prunes. Cut up large pieces of dried fruit. In a medium saucepan combine mixed dried fruit, water, raisins, and cinnamon. Bring to boiling; reduce heat. Cover and simmer for 10 minutes."},
+        {"step": 2, "text": "Meanwhile, combine pineapple juice and tapioca; let stand 5 minutes. Stir into cooked fruit mixture along with jelly and brown sugar."},
+        {"step": 3, "text": "Bring to boiling; reduce heat. Cover and simmer for 5 minutes, stirring occasionally. Remove stick cinnamon."},
+        {"step": 4, "text": "Stir in orange. Serve warm or chilled."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["dessert", "fruit", "soup", "dried fruit"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "crepes-suzette",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crepes Suzette",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Dazzle both family and friends with these folded crepes heated in a buttery orange sauce.",
+      "servings_yield": "Makes 6 to 8 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "Dessert Crepes", "quantity": "", "unit": "", "prep_note": "see recipe, page 72"},
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "orange peel", "quantity": "¼", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "orange juice", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "sugar", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "orange liqueur", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "brandy", "quantity": "¼", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Prepare crepes. Fold each crepe in half, browned side out. Fold in half again, forming a triangle. Set aside."},
+        {"step": 2, "text": "For orange sauce, in a large skillet or the blazer pan of a chafing dish combine margarine or butter, shredded orange peel, orange juice, sugar, and orange liqueur. Cook and stir till thickened and bubbly."},
+        {"step": 3, "text": "Arrange folded crepes in sauce. Simmer for 3 to 5 minutes or just till heated through, spooning sauce over crepes occasionally."},
+        {"step": 4, "text": "In a small saucepan heat the brandy till it almost simmers. (If desired, pour heated brandy into a large ladle.) Carefully ignite brandy and pour over crepes."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Pineapple Crepes: Prepare as above, except omit the orange liqueur. Drain one 8-ounce can sliced pineapple (juice pack), reserving juice. Cut the pineapple slices into small pieces. Stir the pineapple pieces and reserved pineapple juice into the uncooked orange juice mixture in the skillet or blazer pan."
+      ],
+      "tags": ["dessert", "crepes", "french", "flambé", "orange"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
