@@ -55326,6 +55326,341 @@
       "tags": ["icing", "dessert", "petits fours", "glaze"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "butter-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Butter Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "An easy-to-spread frosting in six flavors.",
+      "servings_yield": "Frosts two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "butter or margarine", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "4½", "unit": "cups", "prep_note": "sifted"},
+        {"item": "milk", "quantity": "¼", "unit": "cup", "prep_note": "plus more as needed"},
+        {"item": "vanilla", "quantity": "1½", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl beat butter or margarine till fluffy. Gradually add 2 cups of the powdered sugar, beating well."},
+        {"step": 2, "text": "Slowly beat in the ¼ cup milk and vanilla. Slowly beat in remaining sugar."},
+        {"step": 3, "text": "Beat in additional milk, if needed, to make of spreading consistency. Tint with food coloring, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Chocolate Butter Frosting: Prepare as above, except beat ½ cup unsweetened cocoa powder into butter.",
+        "Mocha Butter Frosting: Prepare as above, except beat ½ cup unsweetened cocoa powder into butter or margarine. Add 1 tablespoon instant coffee crystals to the ¼ cup milk. Let stand 3 minutes; stir well.",
+        "Lemon or Orange Butter Frosting: Prepare as above, except substitute fresh lemon juice or orange juice for the milk and add ½ teaspoon finely shredded lemon peel or 1 teaspoon finely shredded orange peel with the juice.",
+        "Peanut-Butter Frosting: Prepare as above, except substitute creamy peanut butter for the butter or margarine."
+      ],
+      "tags": ["frosting", "dessert", "butter frosting"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "no-cook-fudge-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "No-Cook Fudge Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Easy chocolate frosting that requires no cooking.",
+      "servings_yield": "Frosts two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "powdered sugar", "quantity": "4¾", "unit": "cups", "prep_note": "sifted"},
+        {"item": "unsweetened cocoa powder", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": "softened"},
+        {"item": "boiling water", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Mix powdered sugar and cocoa. Add margarine, boiling water, and vanilla."},
+        {"step": 2, "text": "Beat with an electric mixer on low speed till combined. Beat for 1 minute on medium speed."},
+        {"step": 3, "text": "Cool for 20 to 30 minutes or till of spreading consistency."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["frosting", "dessert", "chocolate", "fudge", "no-cook"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-sour-cream-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate-Sour-Cream Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich chocolate frosting with sour cream tang.",
+      "servings_yield": "Frosts two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "semisweet chocolate pieces", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "dairy sour cream", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "2½", "unit": "cups", "prep_note": "sifted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan melt chocolate and margarine over low heat, stirring frequently. Cool about 5 minutes."},
+        {"step": 2, "text": "Stir in sour cream. Gradually add powdered sugar, beating till smooth and of spreading consistency."},
+        {"step": 3, "text": "Store cake in the refrigerator."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 1½-quart casserole micro-cook chocolate pieces and margarine, uncovered, on 100% power (high) for 1 to 2 minutes or till softened, stirring once. Stir till smooth. Cool 5 minutes. Continue as above."
+      ],
+      "tags": ["frosting", "dessert", "chocolate", "sour cream"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "chocolate-glaze",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Glaze",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Shiny chocolate glaze for cakes.",
+      "servings_yield": "Glazes one 10-inch tube cake or two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "semisweet chocolate", "quantity": "4", "unit": "squares (4 oz)", "prep_note": "cut up"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "1½", "unit": "cups", "prep_note": "sifted"},
+        {"item": "hot water", "quantity": "3", "unit": "tbsp", "prep_note": "plus more as needed"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan melt chocolate and margarine or butter over low heat, stirring frequently."},
+        {"step": 2, "text": "Remove from heat; stir in powdered sugar and 3 tablespoons hot water. Stir in additional hot water, if needed, to make of drizzling consistency."},
+        {"step": 3, "text": "Spoon over cake, allowing excess to drip down sides."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 1-quart casserole micro-cook chocolate and margarine or butter, uncovered, on 100% power (high) for 1 to 1½ minutes or till softened, stirring once. Stir till smooth. Continue as above."
+      ],
+      "tags": ["glaze", "dessert", "chocolate"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "rocky-road-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rocky Road Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Chocolate frosting studded with marshmallows and walnuts.",
+      "servings_yield": "Frosts top of one 8- or 9-inch layer",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "tiny marshmallows", "quantity": "½", "unit": "cup", "prep_note": "for melting"},
+        {"item": "unsweetened chocolate", "quantity": "1", "unit": "square (1 oz)", "prep_note": "cut up"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "water", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "1¼", "unit": "cups", "prep_note": "sifted"},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "tiny marshmallows", "quantity": "½", "unit": "cup", "prep_note": "for stirring in"},
+        {"item": "walnuts", "quantity": "¼", "unit": "cup", "prep_note": "coarsely chopped"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan combine ½ cup marshmallows, the chocolate, margarine, and 2 tablespoons water. Cook and stir over low heat till marshmallows and chocolate melt. Cool 5 minutes."},
+        {"step": 2, "text": "Add powdered sugar and vanilla; beat till smooth."},
+        {"step": 3, "text": "Stir in ½ cup marshmallows and the walnuts."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["frosting", "dessert", "chocolate", "marshmallow", "rocky road"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "coconut-pecan-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Coconut-Pecan Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic frosting for German Chocolate Cake.",
+      "servings_yield": "Frosts top of one 13x9-inch cake or two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "evaporated milk", "quantity": "⅔", "unit": "cup", "prep_note": "1 5-ounce can"},
+        {"item": "sugar", "quantity": "⅔", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "flaked coconut", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "pecans", "quantity": "½", "unit": "cup", "prep_note": "chopped"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan beat egg slightly. Stir in milk, sugar, and margarine."},
+        {"step": 2, "text": "Cook and stir over medium heat about 12 minutes or till thickened and bubbly."},
+        {"step": 3, "text": "Stir in coconut and pecans. Cool thoroughly. Spread on cake."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["frosting", "dessert", "coconut", "pecan", "german chocolate"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "broiled-coconut-topping",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broiled Coconut Topping",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Bake the cake in a metal pan so it's broiler-ready.",
+      "servings_yield": "Frosts one 8- or 9-inch layer",
+      "prep_time": "",
+      "cook_time": "3-4 minutes under broiler",
+      "total_time": "",
+      "ingredients": [
+        {"item": "packed brown sugar", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": "softened"},
+        {"item": "milk", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "flaked coconut", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "chopped nuts", "quantity": "¼", "unit": "cup", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl beat sugar and margarine till combined. Stir in milk."},
+        {"step": 2, "text": "Stir in coconut and, if desired, nuts. Spread over warm cake in pan."},
+        {"step": 3, "text": "Broil about 4 inches from heat for 3 to 4 minutes or till golden. Serve warm."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["topping", "dessert", "coconut", "broiled"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "penuche-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Penuche Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Brown sugar frosting with a caramel-like flavor.",
+      "servings_yield": "Frosts two 8- or 9-inch layers or one 13x9-inch cake",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "3½", "unit": "cups", "prep_note": "sifted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In saucepan melt margarine; stir in brown sugar. Cook and stir till bubbly. Remove from the heat."},
+        {"step": 2, "text": "Add milk; beat vigorously till smooth. Add powdered sugar; beat by hand till of spreading consistency."},
+        {"step": 3, "text": "Immediately frost tops of cake layers."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 1-quart casserole micro-cook margarine on 100% power (high) for 1 to 1½ minutes or till melted. Stir in brown sugar. Cook on high for 1 to 2 minutes or till bubbly over entire surface, stirring every minute. Add 3 tablespoons milk; continue as above."
+      ],
+      "tags": ["frosting", "dessert", "brown sugar", "penuche"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "choose-a-fruit-filling",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Fruit Filling",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "No liqueur on hand? Substitute two tablespoons orange juice for the liqueur.",
+      "servings_yield": "About 1¼ cups, enough for two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "canned pitted dark sweet cherries, peach slices, blueberries, or crushed pineapple", "quantity": "1", "unit": "15- to 17-ounce can", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "cherry liqueur or orange liqueur", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Drain fruit, reserving ¾ cup liquid. Cut up any large pieces of fruit."},
+        {"step": 2, "text": "In a medium saucepan combine reserved liquid and cornstarch; add fruit. Cook and stir till thickened and bubbly. Cook and stir 2 minutes more."},
+        {"step": 3, "text": "Stir in liqueur. Cool. Cover; chill thoroughly without stirring."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: Drain and cut up fruit as above. In a 4-cup measure stir together reserved fruit liquid and cornstarch; add fruit. Micro-cook, uncovered, on 100% power (high) for 3 to 4 minutes or till mixture is thickened and bubbly, stirring every minute. Cook on high for 30 seconds more. Stir in liqueur. Cool. Cover; chill."
+      ],
+      "tags": ["filling", "dessert", "fruit"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "lemon-filling",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Filling",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Transforms a simple cake into a luscious dessert.",
+      "servings_yield": "About 1 cup, enough for two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "¾", "unit": "cup", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "water", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "egg yolks", "quantity": "2", "unit": "", "prep_note": "beaten"},
+        {"item": "lemon peel", "quantity": "1", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "lemon juice", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan combine sugar and cornstarch. Stir in water."},
+        {"step": 2, "text": "Stir in egg yolks, lemon peel, and juice. Cook and stir over medium heat till bubbly. Cook for 2 minutes more."},
+        {"step": 3, "text": "Stir in margarine or butter till melted. Cover surface with clear plastic wrap; cool."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 1-quart casserole combine sugar and cornstarch. Stir in water. Stir in egg yolks, lemon peel, and lemon juice. Micro-cook, uncovered, on 100% power (high) for 3 to 4 minutes or till thickened and bubbly, stirring every minute. Cook 30 seconds more. Stir in margarine till melted. Cover; cool."
+      ],
+      "tags": ["filling", "dessert", "lemon"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
