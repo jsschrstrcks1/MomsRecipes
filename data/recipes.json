@@ -30523,6 +30523,854 @@
           "Per cookie"
         ]
       }
+    },
+    {
+      "id": "snickerdoodles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Snickerdoodles",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Cookbook page",
+      "description": "Classic cinnamon-sugar rolled cookies with crackled tops.",
+      "servings_yield": "36 cookies",
+      "prep_time": "2 hours (plus chilling)",
+      "cook_time": "10-12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "divided - 1 1/4 cups for dough, 2 tbsp for coating"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": "for coating"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large bowl, measure flour, butter, cream of tartar, baking soda, salt, vanilla, eggs, and 1 1/4 cups sugar. With mixer at low speed, beat until blended, occasionally scraping bowl."
+        },
+        {
+          "step": 2,
+          "text": "Shape dough into a ball; wrap with plastic wrap. Refrigerate 2 hours, until easy to handle."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 400\u00b0F (200\u00b0C). In small bowl, mix cinnamon with 2 tablespoons sugar."
+        },
+        {
+          "step": 4,
+          "text": "With hands, shape dough into 1 1/2-inch balls. Roll dough balls in cinnamon mixture to coat lightly."
+        },
+        {
+          "step": 5,
+          "text": "Place dough balls, about 2 inches apart, on ungreased large cookie sheets. With dull edge of knife, mark each cookie several times if desired."
+        },
+        {
+          "step": 6,
+          "text": "Bake 10 to 12 minutes until lightly browned. Remove to wire racks to cool."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "Cookie sheets",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "snickerdoodles",
+        "cinnamon",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 80
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Per cookie"
+        ]
+      }
+    },
+    {
+      "id": "molasses-spirals",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Molasses Spirals",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Cookbook page",
+      "description": "Spiced molasses cookies piped in a spiral pattern.",
+      "servings_yield": "36 cookies",
+      "prep_time": "",
+      "cook_time": "8-10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cider vinegar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground allspice",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large bowl, measure all ingredients. With mixer at low speed, beat until blended, occasionally scraping bowl with rubber spatula."
+        },
+        {
+          "step": 2,
+          "text": "Preheat oven to 350\u00b0F (175\u00b0C). Grease large cookie sheets."
+        },
+        {
+          "step": 3,
+          "text": "Spoon dough into decorating bag fitted with 1/4-inch writing tube."
+        },
+        {
+          "step": 4,
+          "text": "For each cookie, pipe dough in a continuous spiral beginning with a 2-inch circle and narrowing the spiral to a point in the center, about 2 inches apart."
+        },
+        {
+          "step": 5,
+          "text": "Bake 8 to 10 minutes, until golden brown. Remove cookies to wire racks; cool."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Cookie sheets",
+      "notes": [
+        "Requires piping bag with writing tube"
+      ],
+      "tags": [
+        "cookies",
+        "molasses",
+        "piped",
+        "spice"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "moravian-ginger-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Moravian Ginger Cookies",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Cookbook page",
+      "description": "Traditional thin, crisp ginger cookies from the Pennsylvania Dutch tradition.",
+      "servings_yield": "32 cookies",
+      "prep_time": "2 hours (plus chilling)",
+      "cook_time": "7 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "butter or margarine",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "dark brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "packed"
+        },
+        {
+          "item": "molasses",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon peel",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "grated"
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cloves",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for sprinkling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In 2-quart saucepan, measure butter, brown sugar, and molasses; cook over medium heat until sugar dissolves and butter melts, stirring mixture occasionally."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat, stir in flour and remaining ingredients until well blended. Spoon onto waxed paper; cover and refrigerate 2 hours, until firm enough to roll."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 350\u00b0F (175\u00b0C). Grease cookie sheet."
+        },
+        {
+          "step": 4,
+          "text": "On floured surface with floured rolling pin, roll half of dough into a 10\" by 10\" square."
+        },
+        {
+          "step": 5,
+          "text": "With pastry wheel or knife, cut the dough into 2 1/2\" by 2 1/2\" squares. Place squares about 1 inch apart on greased cookie sheet."
+        },
+        {
+          "step": 6,
+          "text": "With fork, gently prick squares in many places to make a design. Lightly sprinkle with sugar."
+        },
+        {
+          "step": 7,
+          "text": "Bake about 7 minutes. With pancake turner, remove cookies to wire racks to cool; repeat with remaining dough."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Cookie sheets",
+      "notes": [
+        "Traditional Pennsylvania Dutch cookie",
+        "The Moravians were quick to use spices brought to the port of Philadelphia"
+      ],
+      "tags": [
+        "cookies",
+        "ginger",
+        "Moravian",
+        "Pennsylvania Dutch",
+        "thin crisp"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "snickerdoodle-cheesecake-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Snickerdoodle Cheesecake Bars",
+      "category": "desserts",
+      "attribution": "Philadelphia Cream Cheese",
+      "source_note": "Philadelphia Cream Cheese packaging",
+      "description": "Cinnamon-sugar cheesecake bars with snickerdoodle-style crust.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "70-75 minutes",
+      "total_time": "6 hours 30 minutes (including refrigerating)",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4 cup + 2 tsp",
+          "unit": "",
+          "prep_note": "divided"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1 tbsp + 1/8 tsp",
+          "unit": "",
+          "prep_note": "divided"
+        },
+        {
+          "item": "cold butter",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "2",
+          "unit": "pkg",
+          "prep_note": "8 oz. each, softened"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 325\u00b0F. Line 8-inch square baking dish with foil, leaving ends of foil hanging over sides of dish."
+        },
+        {
+          "step": 2,
+          "text": "Combine flour, 1/4 cup sugar and 1 tbsp cinnamon in medium bowl. Cut in butter with pastry blender or 2 knives until mixture resembles coarse crumbs."
+        },
+        {
+          "step": 3,
+          "text": "Reserve 1/2 cup crumb mixture for later use; press remaining crumb mixture onto bottom and 1/2 inch up sides of dish. Bake 25 min. or until lightly browned."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, beat cream cheese, vanilla and 1/2 cup of the remaining sugar in large bowl with mixer until blended. Add eggs, one at a time, mixing on low speed after each just until blended. Set aside."
+        },
+        {
+          "step": 5,
+          "text": "Combine remaining sugar (2 tsp) and remaining cinnamon (1/8 tsp)."
+        },
+        {
+          "step": 6,
+          "text": "Pour cream cheese mixture into crust; top with reserved crumb mixture and cinnamon sugar."
+        },
+        {
+          "step": 7,
+          "text": "Bake 45 to 50 min. or until center of cheesecake is almost set; cool completely."
+        },
+        {
+          "step": 8,
+          "text": "Refrigerate cheesecake 4 hrs. Use foil handles to remove cheesecake from dish before cutting into bars."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "8-inch square baking dish",
+      "notes": [],
+      "tags": [
+        "cheesecake",
+        "bars",
+        "cinnamon",
+        "snickerdoodle",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cream-cheese-sausage-crescents",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Cheese and Sausage Stuffed Crescents",
+      "category": "breakfast",
+      "attribution": "Philadelphia Cream Cheese",
+      "source_note": "Philadelphia Cream Cheese packaging",
+      "description": "Savory crescent rolls stuffed with maple sausage and cream cheese.",
+      "servings_yield": "8 servings (2 crescents each)",
+      "prep_time": "15 minutes",
+      "cook_time": "14-16 minutes",
+      "total_time": "31 minutes",
+      "ingredients": [
+        {
+          "item": "maple breakfast pork sausage links",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "14 links, casings removed"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "8 oz., softened"
+        },
+        {
+          "item": "crushed red pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "refrigerated crescent dinner rolls",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": "8 oz. each"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 375\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Crumble sausage links into bite-size pieces; place in large skillet. Cook over medium heat 5 min. or until done, stirring frequently. Drain."
+        },
+        {
+          "step": 3,
+          "text": "Add sausage to cream cheese and crushed pepper in medium bowl; mix well."
+        },
+        {
+          "step": 4,
+          "text": "Separate each can of dough into 8 triangles. Spoon cream cheese mixture evenly onto short sides of dough triangles, adding about 2 Tbsp. cream cheese mixture to each triangle."
+        },
+        {
+          "step": 5,
+          "text": "Roll up, starting at short side of each triangle. Place, point sides down, on baking sheet."
+        },
+        {
+          "step": 6,
+          "text": "Bake 14 to 16 min. or until golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [
+        "Make Ahead: Fill crescent triangles with cream cheese mixture and place on baking sheet as directed; cover. Refrigerate up to 12 hours before baking."
+      ],
+      "tags": [
+        "breakfast",
+        "sausage",
+        "crescents",
+        "cream cheese",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "vickis-traditional-white-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vicki's Traditional White Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Vicki",
+      "source_note": "Bread machine recipe book, page 18",
+      "description": "Classic white bread for bread machine, available in 1.5-pound and 2-pound loaf sizes.",
+      "servings_yield": "1 loaf (1.5 lb or 2 lb)",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "8-9 oz (1.5 lb) / 11-12 oz (2 lb)",
+          "unit": "",
+          "prep_note": "room temperature 70-80\u00b0F"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2 tsp (1.5 lb) / 1 3/4 tsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "3 cups (1.5 lb) / 4 cups (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dry milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 tbsp (1.5 lb) / 2 tbsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2 tsp (1.5 lb) / 2 1/4 tsp (2 lb)",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed above."
+        },
+        {
+          "step": 2,
+          "text": "Select desired setting (Basic or Rapid). Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, the display will read 0:00 and the unit will signal."
+        },
+        {
+          "step": 5,
+          "text": "Remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic or Rapid Setting - Timer OK",
+        "All ingredients should be at room temperature (70\u00b0F-80\u00b0F / 21\u00b0C-27\u00b0C)",
+        "Do not exceed 4-1/2 cups dry ingredients",
+        "If dough is dense, oddly shaped, or unit is making a knocking noise, add 1 Tbsp. water at a time until the dough is soft and pliable"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "white bread",
+        "yeast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "shawns-classic-white-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shawn's Classic White Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Shawn",
+      "source_note": "Bread machine recipe book, page 19",
+      "description": "Classic white bread with warm milk for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "warm milk",
+          "quantity": "11-12",
+          "unit": "oz",
+          "prep_note": "110\u00b0F-115\u00b0F / 43\u00b0C-46\u00b0C"
+        },
+        {
+          "item": "bread flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed, beginning with the column on the left, followed by the column on the right."
+        },
+        {
+          "step": 2,
+          "text": "Select desired setting (Basic or Rapid). Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, the display will read 0:00 and the unit will signal."
+        },
+        {
+          "step": 5,
+          "text": "Remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic or Rapid Setting - Not for Timer",
+        "All ingredients except milk should be at room temperature (70\u00b0F-80\u00b0F)"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "white bread",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cindys-country-white-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cindy's Country White Bread (Bread Machine)",
+      "category": "breads",
+      "attribution": "Cindy",
+      "source_note": "Bread machine recipe book, page 19",
+      "description": "Country-style white bread with egg for bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "10 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "warm milk",
+          "quantity": "8-9",
+          "unit": "oz",
+          "prep_note": "110\u00b0F-115\u00b0F / 43\u00b0C-46\u00b0C"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "bread flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure all ingredients into bread pan in the order listed, beginning with the column on the left, followed by the column on the right."
+        },
+        {
+          "step": 2,
+          "text": "Select desired setting (Basic or Rapid). Select crust setting if other than 'Medium'."
+        },
+        {
+          "step": 3,
+          "text": "Press the 'Start/Stop' button to begin the breadmaking process."
+        },
+        {
+          "step": 4,
+          "text": "When the baking is complete, the display will read 0:00 and the unit will signal."
+        },
+        {
+          "step": 5,
+          "text": "Remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Basic or Rapid Setting - Not for Timer",
+        "All ingredients except milk should be at room temperature (70\u00b0F-80\u00b0F)"
+      ],
+      "tags": [
+        "bread",
+        "bread machine",
+        "white bread",
+        "country",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
