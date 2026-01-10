@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 814
+    "total_recipes": 817
   },
   "recipes": [
     {
@@ -61745,6 +61745,119 @@
       "tags": ["swordfish", "tuna", "shark", "fish", "seafood", "kabobs", "grilled", "broiled", "skewers"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5330 Large.jpeg"]
+    },
+    {
+      "id": "sweet-and-sour-fish-kabobs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet-and-Sour Fish Kabobs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 169",
+      "description": "Colorful fish kabobs with pineapple chunks and green pepper in a tangy sweet-and-sour sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "32 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen swordfish, sea bass, shark, or tuna steaks", "quantity": "1", "unit": "lb", "prep_note": "cut 1 inch thick"},
+        {"item": "pineapple chunks", "quantity": "8", "unit": "oz", "prep_note": "1 can, drained, reserve juice"},
+        {"item": "medium green pepper", "quantity": "1", "unit": "", "prep_note": "cut into 1-inch pieces"},
+        {"item": "pineapple preserves", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "rice vinegar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "soy sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut fish into 1-inch cubes."},
+        {"step": 2, "text": "For sauce, in a small saucepan combine pineapple preserves, reserved pineapple juice, rice vinegar, soy sauce, and cornstarch. Cook and stir till thickened and bubbly. Cook 2 minutes more."},
+        {"step": 3, "text": "On four 12-inch skewers, alternately thread fish cubes, pineapple chunks, and green pepper pieces, leaving about 1/4 inch between pieces."},
+        {"step": 4, "text": "Place kabobs on greased unheated rack of broiler pan. Broil 4 inches from heat for 5 minutes. Turn kabobs over. Broil 4 to 5 minutes more or till fish flakes easily with a fork, brushing with sauce during last 2 minutes."},
+        {"step": 5, "text": "Brush again with sauce before serving."}
+      ],
+      "temperature": "Broil",
+      "pan_size": "broiler pan, 12-inch skewers",
+      "notes": [
+        "Grill directions: Prepare sauce and assemble kabobs as above. Place kabobs on a greased grill rack. Grill, uncovered, directly over medium-hot coals for 4 to 6 minutes. Turn kabobs. Grill for 4 to 6 minutes more or till fish flakes easily with a fork, brushing with sauce during last 2 minutes of grilling."
+      ],
+      "tags": ["fish", "seafood", "kabobs", "sweet-and-sour", "pineapple", "asian", "grilled", "broiled"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5331 Large.jpeg"]
+    },
+    {
+      "id": "blackened-thai-catfish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackened Thai Catfish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 169",
+      "description": "Cajun-spiced catfish fillets cooked in a very hot cast-iron skillet until blackened.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "8 minutes",
+      "total_time": "18 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen catfish fillets", "quantity": "4", "unit": "", "prep_note": "4 ounces each"},
+        {"item": "garlic powder", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground white pepper", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground red pepper", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "dried thyme", "quantity": "1/4", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish."},
+        {"step": 2, "text": "Combine garlic powder, white pepper, red pepper, thyme, and 1/4 teaspoon salt. Sprinkle spice mixture evenly on both sides of fish fillets."},
+        {"step": 3, "text": "In a 12-inch cast-iron or heavy skillet, melt 1 tablespoon margarine over medium-high heat."},
+        {"step": 4, "text": "Add fish fillets. Cook 3 to 4 minutes per side for 1/2-inch thick fillets (or 4 to 5 minutes per side for thicker fillets) or till fish flakes easily with a fork."},
+        {"step": 5, "text": "Add remaining margarine during cooking. Drizzle melted margarine over fish before serving."}
+      ],
+      "temperature": "High heat",
+      "pan_size": "12-inch cast-iron skillet",
+      "notes": [
+        "Stand back! This Cajun specialty really smokes up as it cooks. That's why it's best to grill.",
+        "To cook outdoors: Turn on exhaust fan or cook outside. Place a cast-iron skillet on the grill rack directly over hot coals. Heat until drops of water sizzle."
+      ],
+      "tags": ["catfish", "fish", "seafood", "cajun", "blackened", "spicy", "cast-iron"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5331 Large.jpeg"]
+    },
+    {
+      "id": "dill-smoked-cod",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dill Smoked Cod",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 169",
+      "description": "Whole dressed cod slow-smoked on the grill with dill and wood chips.",
+      "servings_yield": "6 to 8 servings",
+      "prep_time": "1 hour 15 minutes (including soaking wood chips)",
+      "cook_time": "50-60 minutes",
+      "total_time": "2 hours 15 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen dressed cod or other fish", "quantity": "3 to 4", "unit": "lb", "prep_note": ""},
+        {"item": "cherry or apple wood chips", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "fresh dillweed", "quantity": "1", "unit": "tsp", "prep_note": "snipped (or 1/2 tsp dried)"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Soak wood chips in enough water to cover for 1 hour."},
+        {"step": 2, "text": "Meanwhile, cut 1/2-inch-deep diagonal slits 1 inch apart into both sides of fish."},
+        {"step": 3, "text": "Rub oil into slits. Then press a piece of dillweed into each slit. Use wooden toothpicks to hold fish together if needed."},
+        {"step": 4, "text": "Drain chips. In a covered grill, arrange preheated coals around a foil drip pan. Test for medium coals."},
+        {"step": 5, "text": "Place chips on coals. Place foil on rack above drip pan. Place the fish on foil."},
+        {"step": 6, "text": "Grill fish, covered, 50 to 60 minutes or till fish flakes easily with a fork."}
+      ],
+      "temperature": "Medium coals (indirect heat)",
+      "pan_size": "covered grill with drip pan",
+      "notes": [
+        "Cherry or apple wood chips add a mild, sweet smoke flavor",
+        "The diagonal slits help the dill flavor penetrate the fish"
+      ],
+      "tags": ["cod", "fish", "seafood", "smoked", "grilled", "dill", "wood-smoked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5331 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
