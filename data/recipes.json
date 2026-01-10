@@ -52996,6 +52996,650 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "cake-doughnuts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cake Doughnuts",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Mix, cut, and fry. That's all there is to making these doughnuts.",
+      "servings_yield": "13 to 15 doughnuts and doughnut holes",
+      "prep_time": "",
+      "cook_time": "about 1 minute per side",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3\u00bc",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u2154",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "\u2154",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        },
+        {
+          "item": "Chocolate Glaze or sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together 2\u00bc cups of the flour, the baking powder, cinnamon, salt, and nutmeg. In a large mixing bowl combine eggs, sugar, and vanilla; beat with an electric mixer till thick. Combine milk and melted margarine or butter. Add flour mixture and milk mixture alternately to egg mixture, beating just till blended after each addition. Stir in remaining 1 cup flour. Cover dough; chill about 2 hours."
+        },
+        {
+          "step": 2,
+          "text": "On a lightly floured surface, roll dough to \u00bd-inch thickness. Cut with a floured 2\u00bd-inch doughnut cutter. Reroll as necessary."
+        },
+        {
+          "step": 3,
+          "text": "Fry two or three doughnuts at a time in deep hot fat (375\u00b0) about 1 minute on each side or till golden, turning once with a slotted spoon. Drain on paper towels. Repeat with remaining doughnuts and doughnut holes."
+        },
+        {
+          "step": 4,
+          "text": "If desired, drizzle warm doughnuts with Chocolate Glaze, dip tops into glaze, or shake warm doughnuts in a bag with sugar. Cool."
+        }
+      ],
+      "temperature": "375\u00b0F (oil)",
+      "pan_size": "deep fryer",
+      "notes": [
+        "Chocolate Doughnuts: Prepare as above, except omit cinnamon and nutmeg, increase sugar to 1 cup, reduce milk to \u2153 cup, reduce margarine or butter to 2 tablespoons, and melt 2 squares (2 ounces) unsweetened chocolate with margarine or butter.",
+        "Buttermilk Doughnuts: Prepare as above, except reduce baking powder to \u00bd teaspoon, add 1 teaspoon baking soda to flour mixture, and substitute buttermilk or sour milk for the milk."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "doughnuts",
+        "fried",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "corn-fritters",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Fritters",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Delicious with warm maple-flavored syrup or served plain as a snack or meal accompaniment",
+      "servings_yield": "24 fritters",
+      "prep_time": "",
+      "cook_time": "3 to 4 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "whole kernel corn",
+          "quantity": "1",
+          "unit": "8\u00bd-ounce can",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "enough to make 1 cup with reserved corn liquid"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1\u00bd",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain corn, reserving liquid. Add enough milk to reserved corn liquid to make 1 cup. In a mixing bowl stir together flour, cornmeal, baking powder, and \u00bd teaspoon salt. Add corn, milk mixture, and beaten egg. Stir just till moistened."
+        },
+        {
+          "step": 2,
+          "text": "Drop batter by tablespoons, four or five at a time, into deep hot fat (375\u00b0). Cook for 3 to 4 minutes or till golden brown, turning once. Drain on paper towels. Repeat. Serve warm."
+        }
+      ],
+      "temperature": "375\u00b0F (oil)",
+      "pan_size": "deep fryer",
+      "notes": [
+        "Apple Fritters: Prepare as above, except substitute 1 cup chopped apple for the corn and use 1 cup milk. Stir 2 tablespoons sugar into flour mixture. Roll hot fritters in a mixture of sugar and ground cinnamon."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "fritters",
+        "corn",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hush-puppies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hush Puppies",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "",
+      "servings_yield": "14 to 18 hush puppies",
+      "prep_time": "",
+      "cook_time": "about 3 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "buttermilk or sour milk",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "\u00bc",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "\u00be",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl stir together egg, buttermilk or sour milk, and onion. In another bowl combine cornmeal, flour, sugar, baking powder, baking soda, and \u00bc teaspoon salt. Add egg mixture to cornmeal mixture; stir just till moistened."
+        },
+        {
+          "step": 2,
+          "text": "Drop batter by tablespoons into deep hot fat (375\u00b0). Fry about 3 minutes or till golden, turning once. Drain on paper towels."
+        }
+      ],
+      "temperature": "375\u00b0F (oil)",
+      "pan_size": "deep fryer",
+      "notes": [
+        "Confetti Hush Puppies: Prepare as above, except add 2 tablespoons diced pimiento and 2 tablespoons snipped parsley to egg mixture. Add \u215b teaspoon garlic powder to cornmeal mixture."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "hush puppies",
+        "Southern",
+        "fried",
+        "cornmeal"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sopaipillas",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sopaipillas",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "The secret to puffy sopaipillas (soh-pie-PEEL-yahs) is heating the oil to the right temperature",
+      "servings_yield": "20 sopaipillas",
+      "prep_time": "",
+      "cook_time": "about 30 seconds per side",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, baking powder, and dash salt. Cut in shortening till mixture resembles fine crumbs. Gradually add \u00bc cup warm water (110\u00b0 to 115\u00b0), stirring with a fork (dough will be crumbly). On a lightly floured surface, knead dough for 3 to 5 minutes or till smooth. Cover; let rest 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Roll dough into a 12\u00bdx10-inch rectangle. Using a fluted pastry wheel or knife, cut into 2\u00bd-inch squares (do not reroll or patch)."
+        },
+        {
+          "step": 3,
+          "text": "Fry squares, two or three at a time, in deep hot fat (400\u00b0) about 30 seconds on each side or till golden. Drain on paper towels. Keep warm in a 300\u00b0 oven while frying remaining squares. Sprinkle with sugar. Serve with honey."
+        }
+      ],
+      "temperature": "400\u00b0F (oil)",
+      "pan_size": "deep fryer",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "sopaipillas",
+        "Mexican",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "mexican-doughnut-strips",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mexican Doughnut Strips",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Traditionally served with hot chocolate",
+      "servings_yield": "12 strips",
+      "prep_time": "",
+      "cook_time": "4 to 5 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1\u00bd",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for rolling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan bring margarine or butter, 1\u00bd teaspoons sugar, and \u00bd cup water to boiling. Add flour all at once, stirring vigorously with a wooden spoon. Cook and stir till mixture forms a ball that doesn't separate. Remove from heat and cool 10 minutes. Add egg; beat till smooth."
+        },
+        {
+          "step": 2,
+          "text": "Spoon dough into a pastry bag fitted with a large star tip. Pipe dough into 3x\u00be-inch strips onto a baking sheet lined with waxed paper. Freeze 10 to 20 minutes or till paper can be peeled off. (Do not freeze firm.)"
+        },
+        {
+          "step": 3,
+          "text": "Fry, a few at a time, in deep hot fat (375\u00b0) for 4 to 5 minutes or till golden, turning occasionally. Drain on paper towels. Roll in sugar. Serve warm."
+        }
+      ],
+      "temperature": "375\u00b0F (oil)",
+      "pan_size": "deep fryer",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick bread",
+        "churros",
+        "Mexican",
+        "fried",
+        "doughnuts"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "popovers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Popovers",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "These crispy, hollow puffs will be the hit of the meal whether you serve them with the appetizer, salad, or main course",
+      "servings_yield": "6 popovers",
+      "prep_time": "",
+      "cook_time": "about 40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "shortening or nonstick spray coating",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Using \u00bd teaspoon shortening for each cup, grease the bottom and sides of six 6-ounce custard cups or the cups of a popover pan. Or, spray cups with nonstick coating. Place the custard cups on a 15x10x1-inch baking pan; set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a mixing bowl combine beaten eggs, milk, and cooking oil. Add flour and salt. Beat with a rotary beater or wire whisk till mixture is smooth. Fill the greased cups half full."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 400\u00b0 oven about 40 minutes or till very firm."
+        },
+        {
+          "step": 4,
+          "text": "Immediately after removal from the oven, prick each popover with a fork to let steam escape. Then, if crisper popovers are desired, return the popovers to the oven for 5 to 10 minutes more or till desired crispness (be sure the oven is turned off). Serve hot."
+        }
+      ],
+      "temperature": "400\u00b0F",
+      "pan_size": "6-ounce custard cups or popover pan",
+      "notes": [
+        "Blender Popovers: Prepare as above, except combine eggs, milk, cooking oil, flour, and salt in a blender container or food processor bowl. Cover and blend or process about 30 seconds or till smooth. Scrape sides of blender or bowl, if necessary.",
+        "Whole Wheat Popovers: Prepare as above, except reduce all-purpose flour to \u00be cup and add \u00bc cup whole wheat flour.",
+        "Parmesan-Basil Popovers: Prepare as above, except add 2 tablespoons grated Parmesan cheese and \u00be teaspoon dried basil, crushed, with the flour.",
+        "Onion and Garlic Popovers: Prepare as above, except add \u00bc teaspoon onion powder and \u00bc teaspoon garlic powder with the flour.",
+        "Cinnamon Popovers: Prepare as above, except add \u00bd teaspoon ground cinnamon with the flour. Serve with honey and margarine or butter, if desired."
+      ],
+      "tags": [
+        "bread",
+        "quick bread",
+        "popovers",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "french-toast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Toast",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Use French bread if you like a custardlike center; use sliced white bread if you prefer a toasty, crisp French Toast",
+      "servings_yield": "5 or 6 slices",
+      "prep_time": "",
+      "cook_time": "2 to 3 minutes per side",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "\u00bd",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "\u00bc",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "\u215b",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "French bread or dry white bread",
+          "quantity": "5",
+          "unit": "1-inch-thick slices (or 6 slices)",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine, butter, or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "maple-flavored syrup",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a shallow bowl beat together eggs, milk, vanilla, and cinnamon. Dip bread into egg mixture, coating both sides (if using French bread, let soak in egg mixture about 30 seconds on each side)."
+        },
+        {
+          "step": 2,
+          "text": "In a skillet or on a griddle cook bread on both sides in a small amount of hot margarine, butter, or oil over medium heat for 2 to 3 minutes on each side or till golden brown. Add more margarine as needed. Serve with maple-flavored syrup, if desired."
+        }
+      ],
+      "temperature": "medium heat",
+      "pan_size": "skillet or griddle",
+      "notes": [
+        "Stuffed French Toast: Prepare as above, except use five 1\u00bd-inch-thick slices French bread. Cut a pocket horizontally into each slice of French bread. In a bowl beat together half of an 8-ounce container soft-style cream cheese with strawberry or pineapple and \u00bd teaspoon vanilla. Stir in \u00bc cup chopped walnuts. Spoon 1 rounded tablespoon cream cheese mixture into each bread pocket. To serve, sprinkle cooked Stuffed French Toast with powdered sugar."
+      ],
+      "tags": [
+        "bread",
+        "breakfast",
+        "French toast",
+        "eggs"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
