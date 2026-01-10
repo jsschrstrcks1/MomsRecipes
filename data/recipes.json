@@ -33891,6 +33891,221 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "nut-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nut Bread (Bread Machine Quick Bread)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 34",
+      "description": "Simple nut bread made in bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "15 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure milk, eggs and oil into bread pan and set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a medium mixing bowl, combine remaining ingredients and stir together. Add to bread pan."
+        },
+        {
+          "step": 3,
+          "text": "Select Quick Bread setting. Press 'Start/Stop'."
+        },
+        {
+          "step": 4,
+          "text": "When the baking cycle is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Quick Bread Setting - Not for Timer"
+      ],
+      "tags": [
+        "quick bread",
+        "bread machine",
+        "nuts"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "dads-favorite-apricot-nut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dad's Favorite Apricot Nut Bread (Bread Machine Quick Bread)",
+      "category": "breads",
+      "attribution": "Dad",
+      "source_note": "Bread machine recipe book, page 34",
+      "description": "Orange-flavored apricot nut bread made in bread machine.",
+      "servings_yield": "1 loaf",
+      "prep_time": "15 minutes",
+      "cook_time": "Per bread machine cycle",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "orange juice",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried apricots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "slivered almonds",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure orange juice, eggs and butter into bread pan and set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a medium mixing bowl, combine remaining ingredients and stir together. Add to bread pan."
+        },
+        {
+          "step": 3,
+          "text": "Select Quick Bread setting. Press 'Start/Stop'."
+        },
+        {
+          "step": 4,
+          "text": "When the baking cycle is complete, remove the bread and enjoy!"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Bread machine pan",
+      "notes": [
+        "Quick Bread Setting - Not for Timer"
+      ],
+      "tags": [
+        "quick bread",
+        "bread machine",
+        "apricot",
+        "almond",
+        "orange",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
