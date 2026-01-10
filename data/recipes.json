@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 830
+    "total_recipes": 834
   },
   "recipes": [
     {
@@ -62383,6 +62383,168 @@
       "tags": ["fish", "seafood", "fried", "cornmeal", "crispy", "classic"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5336 Large.jpeg"]
+    },
+    {
+      "id": "sweet-and-sour-stir-fried-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet-and-Sour Stir-Fried Fish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Quick stir-fried fish with pineapple and sweet peppers in a tangy sauce, served over rice.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen monkfish, sea bass, or pike", "quantity": "1", "unit": "lb", "prep_note": "cut into 1-inch pieces"},
+        {"item": "pineapple chunks (juice pack)", "quantity": "8", "unit": "oz", "prep_note": "drained, reserve juice"},
+        {"item": "packed brown sugar", "quantity": "1-1/2", "unit": "tbsp", "prep_note": ""},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "rice vinegar", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "soy sauce", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "sweet pepper", "quantity": "1", "unit": "", "prep_note": "cut into strips"},
+        {"item": "cooking oil", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "hot cooked rice", "quantity": "2", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut into 1-inch pieces."},
+        {"step": 2, "text": "For sauce, combine reserved pineapple juice, brown sugar, cornstarch, rice vinegar, and soy sauce."},
+        {"step": 3, "text": "Heat wok or large skillet over high heat. Add 1 tablespoon oil. Stir-fry green onion and sweet pepper 2 to 3 minutes or till crisp-tender. Remove."},
+        {"step": 4, "text": "Add remaining oil. Stir-fry fish for 5 minutes or till fish flakes easily. Remove."},
+        {"step": 5, "text": "Stir sauce; add to wok. Cook and stir till bubbly."},
+        {"step": 6, "text": "Stir in pineapple, fish, and vegetables. Cook and stir till heated through. Serve over rice."}
+      ],
+      "temperature": "High heat",
+      "pan_size": "wok or large skillet",
+      "notes": [],
+      "tags": ["fish", "seafood", "stir-fry", "sweet-and-sour", "asian", "pineapple", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "fish-and-chips",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish and Chips",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Classic British pub-style deep-fried fish in beer batter served with homemade chips.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets", "quantity": "1", "unit": "lb", "prep_note": ""},
+        {"item": "medium potatoes", "quantity": "3", "unit": "", "prep_note": "peeled, cut into 3/8-inch sticks"},
+        {"item": "shortening or cooking oil", "quantity": "2", "unit": "inches", "prep_note": "for deep-fat frying"},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "beer or milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "malt or cider vinegar", "quantity": "", "unit": "", "prep_note": "for serving"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen."},
+        {"step": 2, "text": "For chips, cut potatoes into lengthwise 3/8-inch-wide sticks. Pat dry."},
+        {"step": 3, "text": "In a heavy saucepan or deep-fat fryer heat shortening or oil to 375°F."},
+        {"step": 4, "text": "Fry potatoes, about one-third at a time, for 4 to 6 minutes or till light brown. Remove and drain on paper towels. Keep warm in a 300°F oven."},
+        {"step": 5, "text": "Cut fish into serving-size pieces. For batter, combine flour and salt. Add beer or milk; beat till smooth."},
+        {"step": 6, "text": "Dip fish into batter. Fry fish in hot fat, 2 or 3 pieces at a time, about 2 minutes on each side or till golden brown."},
+        {"step": 7, "text": "Drain and keep warm in oven while frying remaining fish. Serve with malt or cider vinegar."}
+      ],
+      "temperature": "375°F (190°C) for frying, 300°F oven to keep warm",
+      "pan_size": "deep-fat fryer or heavy saucepan",
+      "notes": [
+        "Beer gives a lighter, crispier batter; milk works well too",
+        "Classic British pub fare"
+      ],
+      "tags": ["fish", "seafood", "british", "fried", "chips", "fries", "pub-food", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "hot-tuna-cups",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Tuna Cups",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Creamy tuna filling baked in biscuit cups topped with cheese and tomato.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "14 minutes",
+      "total_time": "34 minutes",
+      "ingredients": [
+        {"item": "refrigerated biscuits", "quantity": "1", "unit": "package (6)", "prep_note": ""},
+        {"item": "sliced celery", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "prepared mustard or salad dressing", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "shredded cheddar cheese", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "tuna (water pack)", "quantity": "2", "unit": "6.5 oz cans", "prep_note": "drained and flaked"},
+        {"item": "cooked peas", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "tomato slices", "quantity": "6", "unit": "", "prep_note": "thin"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Separate biscuits. Grease the outside of six 6-ounce custard cups."},
+        {"step": 2, "text": "Press one biscuit over bottom and halfway down sides of each custard cup."},
+        {"step": 3, "text": "Place cups, dough side up, on a 15x10x1-inch baking pan. Bake in a 400°F oven 7 minutes or till lightly browned. Remove biscuits from cups immediately."},
+        {"step": 4, "text": "Meanwhile, cook celery and onion in margarine till tender. Stir in mustard, tuna, peas, and half of the cheese."},
+        {"step": 5, "text": "Spoon tuna mixture into biscuit cups. Top with tomato slices and remaining cheese."},
+        {"step": 6, "text": "Return to oven and bake 7 minutes or till cheese melts."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "6 custard cups (6-ounce), 15x10x1-inch baking pan",
+      "notes": [
+        "A creative way to serve tuna salad in edible biscuit cups"
+      ],
+      "tags": ["tuna", "fish", "seafood", "biscuits", "cheese", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
+    },
+    {
+      "id": "creamed-tuna",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamed Tuna",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 175",
+      "description": "Creamy tuna in white sauce served over toasted English muffins or noodles.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "sliced green onion", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "dry white wine or milk", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "tuna (water pack)", "quantity": "2", "unit": "6.5 oz cans", "prep_note": "drained and flaked"},
+        {"item": "English muffins", "quantity": "2", "unit": "", "prep_note": "split and toasted"},
+        {"item": "sliced almonds", "quantity": "2", "unit": "tbsp", "prep_note": "toasted, optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan cook green onion in margarine till tender."},
+        {"step": 2, "text": "Stir in flour and dash pepper. Add wine and milk all at once."},
+        {"step": 3, "text": "Cook and stir till thickened and bubbly. Cook and stir 1 minute more."},
+        {"step": 4, "text": "Stir in tuna; heat through."},
+        {"step": 5, "text": "Serve over toasted English muffin halves. Sprinkle with almonds, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Try this over toasted biscuits or cooked noodles",
+        "A comforting classic - perfect for a quick weeknight dinner"
+      ],
+      "tags": ["tuna", "fish", "seafood", "creamed", "comfort-food", "quick", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5337 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
