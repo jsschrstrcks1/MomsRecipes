@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 801
+    "total_recipes": 804
   },
   "recipes": [
     {
@@ -61242,6 +61242,124 @@
       "tags": ["tomato", "juice", "beverage", "canning", "freezing", "preserving"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5360 Large.jpeg"]
+    },
+    {
+      "id": "macaroni-and-cheese-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Macaroni and Cheese (BHG)",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 160",
+      "description": "Classic baked macaroni and cheese with shredded American cheese.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "25-30 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {"item": "elbow macaroni", "quantity": "1", "unit": "cup", "prep_note": "4 ounces"},
+        {"item": "chopped onion", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "milk", "quantity": "1-3/4", "unit": "cups", "prep_note": ""},
+        {"item": "shredded American cheese", "quantity": "2", "unit": "cups", "prep_note": "8 ounces"},
+        {"item": "medium tomato", "quantity": "1", "unit": "", "prep_note": "sliced, optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook macaroni according to package directions (see chart, page 278); drain well."},
+        {"step": 2, "text": "Meanwhile, for cheese sauce, in a saucepan cook onion in margarine or butter till tender but not brown. Stir in flour and pepper. Add milk all at once. Cook and stir till slightly thickened and bubbly. Add shredded cheese; stir till melted."},
+        {"step": 3, "text": "Stir macaroni into cheese sauce. Transfer to a 1-quart casserole. Bake, uncovered, in a 350° oven for 25 to 30 minutes or till bubbly. During the last 5 minutes of baking, arrange tomato slices atop macaroni, if desired. Let stand 10 minutes."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "1-quart casserole",
+      "notes": [
+        "Microwave directions: Cook macaroni as above. For cheese sauce, in a 1-1/2-quart casserole micro-cook onion and margarine or butter on 100% power (high) for 1 to 2 minutes or till onion is tender. Stir in flour and pepper. Stir in milk. Cook on high for 3 to 5 minutes or till slightly thickened and bubbly, stirring every minute. Stir till cheese melts. Stir in cooked macaroni. Cook on high for 2-1/2 to 3-1/2 minutes or till heated through, stirring once. If desired, place tomato slices atop macaroni during the last minute of cooking. Let stand 10 minutes.",
+        "Vegetable Macaroni and Cheese: Prepare as above, except stir 2 cups frozen mixed vegetables, thawed, or one 16-ounce can mixed vegetables, drained, into cheese sauce with macaroni. Transfer to a 2-1/2-quart casserole.",
+        "Shortcut Macaroni and Cheese: Prepare as above, except immediately return the drained macaroni to the saucepan it was cooked in. Pour the cheese sauce over the macaroni; mix well. Cook over low heat for 3 to 5 minutes or till heated through, stirring frequently. Let stand for 10 minutes."
+      ],
+      "tags": ["pasta", "cheese", "casserole", "comfort-food", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5322 Large.jpeg"]
+    },
+    {
+      "id": "welsh-rarebit-breakfast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Welsh Rarebit Breakfast",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 160",
+      "description": "Tangy cheese sauce served over English muffins with bacon or eggs - good for brunch, cauliflower, and burgers.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "English muffins", "quantity": "2", "unit": "", "prep_note": "split and toasted, or 4 slices bread, toasted"},
+        {"item": "Canadian-style bacon", "quantity": "4", "unit": "slices", "prep_note": "warmed, or 4 poached eggs (see recipe, page 144)"},
+        {"item": "tomato", "quantity": "4", "unit": "slices", "prep_note": ""},
+        {"item": "shredded cheddar or American cheese", "quantity": "1-1/2", "unit": "cups", "prep_note": "6 ounces"},
+        {"item": "milk", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "dry mustard", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "Worcestershire sauce", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "ground red pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For English muffin or toast stacks, place muffin halves or toast slices on plates. Top each with a slice of Canadian-style bacon, then a tomato slice; or, if using poached eggs, top muffins or toast with tomato slices, then eggs. Set aside."},
+        {"step": 2, "text": "For cheese sauce, in a heavy medium saucepan combine cheese, milk, mustard, Worcestershire sauce, and red pepper. Cook over low heat, stirring constantly, till cheese melts."},
+        {"step": 3, "text": "Slowly stir about half of the hot cheese sauce into beaten egg; return all to the saucepan. Cook and stir over low heat till cheese sauce thickens slightly and just bubbles."},
+        {"step": 4, "text": "Spoon cheese sauce immediately over English muffin or toast stacks."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: Assemble English muffin or toast stacks as above. For sauce, in a 1-quart casserole combine cheese, milk, mustard, Worcestershire sauce, and red pepper. Micro-cook, covered, on 100% power (high) for 3 to 4 minutes or till cheese melts, stirring every minute. Slowly stir about half of the hot cheese mixture into beaten egg; return all to casserole. Cook on 50% power (medium) for 1 to 3 minutes or till mixture thickens slightly and just bubbles, stirring every 30 seconds. Serve as above.",
+        "Bacon Rarebit: Prepare as above, except substitute 8 slices crisp-cooked bacon, drained and halved crosswise, for the Canadian-style bacon or poached eggs. Substitute beer for the milk."
+      ],
+      "tags": ["breakfast", "brunch", "cheese", "eggs", "english-muffin"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5322 Large.jpeg"]
+    },
+    {
+      "id": "meatless-red-beans-and-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meatless Red Beans and Rice",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 161 (Legumes section)",
+      "description": "Adjust the amount of ground red pepper to give this dish the zing you like.",
+      "servings_yield": "4 servings",
+      "prep_time": "6-8 hours (soaking) or overnight",
+      "cook_time": "2.5-3 hours",
+      "total_time": "9-11 hours",
+      "ingredients": [
+        {"item": "dry red beans or dry red kidney beans", "quantity": "1-1/3", "unit": "cups", "prep_note": "1/2 pound"},
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "garlic", "quantity": "2", "unit": "cloves", "prep_note": "minced"},
+        {"item": "bay leaf", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "salt", "quantity": "3/4", "unit": "tsp", "prep_note": ""},
+        {"item": "fennel seed", "quantity": "1/2", "unit": "tsp", "prep_note": "crushed"},
+        {"item": "ground red pepper", "quantity": "1/4-1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "hot cooked rice", "quantity": "2", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse beans. In a large saucepan combine beans and 3 cups water. Bring to boiling; reduce heat. Simmer for 2 minutes. Remove from heat. Cover and let stand 1 hour. (Or, soak by placing beans and 3 cups water in a bowl. Cover and set in a cool place for 6 to 8 hours or overnight.)"},
+        {"step": 2, "text": "Drain beans in a colander and rinse. Return beans to the saucepan. Stir in onion, garlic, bay leaf, salt, fennel seed, red pepper, and 3 cups fresh water."},
+        {"step": 3, "text": "Bring to boiling; reduce heat. Cover and simmer about 2-1/2 hours or till beans are tender, adding more water, if necessary, and stirring occasionally."},
+        {"step": 4, "text": "Uncover and simmer, stirring occasionally, for 15 to 20 minutes more or till a thick gravy forms. Discard bay leaf. Serve over rice."}
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [
+        "Meaty Red Beans and Rice: Prepare as above, except omit salt and fennel seed. Add 1/2 pound smoked pork hocks or meaty ham bone with onion. When beans are tender, remove hocks or ham bone. Cut meat from bones or bone. Discard bones or bone and return meat to bean mixture along with 1/2 pound smoked sausage, cut into bite-size pieces.",
+        "Red Beans and Corn Bread: Prepare as above, except omit rice and spoon bean mixture over squares of corn bread."
+      ],
+      "tags": ["beans", "rice", "vegetarian", "meatless", "cajun", "southern", "legumes"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5323 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
