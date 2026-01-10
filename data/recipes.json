@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 828
+    "total_recipes": 830
   },
   "recipes": [
     {
@@ -62301,6 +62301,88 @@
       "tags": ["fish", "seafood", "vegetables", "zucchini", "squash", "tomatoes", "healthy", "baked"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5335 Large.jpeg"]
+    },
+    {
+      "id": "trout-amandine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Trout Amandine",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 174",
+      "description": "Classic French preparation of pan-fried trout topped with buttery toasted almonds.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen pan-dressed trout or other fish", "quantity": "4", "unit": "", "prep_note": "about 8 ounces each"},
+        {"item": "all-purpose flour", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "milk", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "sliced almonds", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil", "quantity": "", "unit": "", "prep_note": "for frying"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "lemon slices", "quantity": "4", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Bone fish, if desired."},
+        {"step": 2, "text": "Combine flour and 1/4 teaspoon salt. Stir together egg and milk."},
+        {"step": 3, "text": "Dip fish in flour mixture to coat, then in egg mixture."},
+        {"step": 4, "text": "In a 12-inch skillet heat oil. Fry fish in hot oil for 5 to 6 minutes on each side or till golden and fish flakes easily with a fork."},
+        {"step": 5, "text": "Remove fish and keep warm."},
+        {"step": 6, "text": "In a medium saucepan melt margarine. Cook sliced almonds till golden."},
+        {"step": 7, "text": "Place fish on a serving platter. Spoon almond mixture over fish. Garnish with lemon slices."}
+      ],
+      "temperature": "",
+      "pan_size": "12-inch skillet",
+      "notes": [
+        "Marked as FAST in cookbook",
+        "The perfect recipe for freshly caught fish - 'It's in your pan, but your catch of the day!'"
+      ],
+      "tags": ["trout", "fish", "seafood", "amandine", "almonds", "french", "fried", "fast"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5336 Large.jpeg"]
+    },
+    {
+      "id": "pan-fried-fish",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pan-Fried Fish",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 174",
+      "description": "Classic cornmeal-crusted pan-fried fish fillets with crispy coating.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen fish fillets", "quantity": "1", "unit": "lb", "prep_note": "1/4 to 1 inch thick"},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": "beaten"},
+        {"item": "water", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "cornmeal or fine dry bread crumbs", "quantity": "2/3", "unit": "cup", "prep_note": ""},
+        {"item": "salt", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1", "unit": "dash", "prep_note": ""},
+        {"item": "shortening or cooking oil", "quantity": "", "unit": "", "prep_note": "for frying"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Measure thickness of fish. Cut into serving-size portions. Pat dry."},
+        {"step": 2, "text": "In a shallow dish combine egg and 2 tablespoons water."},
+        {"step": 3, "text": "In another dish, mix cornmeal or bread crumbs, salt, and pepper."},
+        {"step": 4, "text": "Dip fish into egg mixture, then coat with cornmeal mixture."},
+        {"step": 5, "text": "Fry the fish in hot oil on one side till golden. Turn and cook on the other side (3 to 4 minutes per side for 1/4-inch-thick fillets, longer for thicker fish)."}
+      ],
+      "temperature": "Oven 300°F to keep warm",
+      "pan_size": "skillet",
+      "notes": [
+        "The crispy coating seals in the fresh fish flavor",
+        "Oven-Chip Pan-Fried Fish: Substitute 1/4 cup crushed potato chips or salted crackers for the cornmeal",
+        "Curried Pan-Fried Fish: Add 1 tablespoon lemon or lime juice to egg mixture, add 2 teaspoons curry powder to cornmeal mixture. Serve with chutney."
+      ],
+      "tags": ["fish", "seafood", "fried", "cornmeal", "crispy", "classic"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5336 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
