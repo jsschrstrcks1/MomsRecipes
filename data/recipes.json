@@ -37729,6 +37729,727 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "captain-morgan-spiced-rum-cocktail",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Captain Morgan Spiced Rum Cocktail",
+      "category": "beverages",
+      "attribution": "Captain Morgan",
+      "source_note": "Advertisement clipping",
+      "description": "Refreshing rum cocktail with cranberry and lime.",
+      "servings_yield": "1 drink",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "Captain Morgan Original Spiced Rum",
+          "quantity": "1",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "cranberry juice",
+          "quantity": "1",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh lime juice",
+          "quantity": "1/4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "cola",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "lime wedge",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In an ice-filled Collins or rocks glass, combine all the ingredients."
+        },
+        {
+          "step": 2,
+          "text": "Stir to blend."
+        },
+        {
+          "step": 3,
+          "text": "Garnish with a lime wedge."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Collins or rocks glass",
+      "notes": [
+        "Contains alcohol"
+      ],
+      "tags": [
+        "cocktail",
+        "rum",
+        "beverage",
+        "alcoholic",
+        "cranberry",
+        "lime"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "baileys-peppermint-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bailey's Peppermint Cream",
+      "category": "beverages",
+      "attribution": "Bailey's",
+      "source_note": "Advertisement clipping",
+      "description": "Festive hot cocoa spiked with Irish cream and topped with crushed candy cane.",
+      "servings_yield": "1 drink",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "Bailey's Original Irish Cream Liqueur",
+          "quantity": "3.5",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "hot cocoa",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "whipped cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "candy cane",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "mint leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "optional, for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix Bailey's Original Irish Cream Liqueur and hot cocoa."
+        },
+        {
+          "step": 2,
+          "text": "Top with a dollop of whipped cream."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle crushed candy cane on top."
+        },
+        {
+          "step": 4,
+          "text": "Garnish with mint leaf (optional)."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Contains alcohol",
+        "Perfect for holiday gatherings"
+      ],
+      "tags": [
+        "cocktail",
+        "hot cocoa",
+        "beverage",
+        "alcoholic",
+        "Bailey's",
+        "peppermint",
+        "Christmas",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "holiday-sangria",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Holiday Sangria",
+      "category": "beverages",
+      "attribution": "Oak Leaf",
+      "source_note": "Advertisement clipping",
+      "description": "Festive white wine sangria with cranberries and apple.",
+      "servings_yield": "",
+      "prep_time": "10 minutes + 1 hour chill",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Oak Leaf Chardonnay",
+          "quantity": "1",
+          "unit": "bottle",
+          "prep_note": "or other white wine"
+        },
+        {
+          "item": "sparkling cranberry juice",
+          "quantity": "25",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "apple",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "thinly sliced"
+        },
+        {
+          "item": "fresh cranberries",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "rosemary sprig",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "citrus slices",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients in a large pitcher."
+        },
+        {
+          "step": 2,
+          "text": "Refrigerate for one hour or until ready to use."
+        },
+        {
+          "step": 3,
+          "text": "Add citrus slices as a festive garnish."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large pitcher",
+      "notes": [
+        "Contains alcohol"
+      ],
+      "tags": [
+        "sangria",
+        "wine",
+        "beverage",
+        "alcoholic",
+        "cranberry",
+        "holiday",
+        "Christmas",
+        "party"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cranberry-delight-punch",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Delight Punch",
+      "category": "beverages",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Festive cranberry slush punch with frozen juice concentrates and lemon-lime soda.",
+      "servings_yield": "20 servings",
+      "prep_time": "30 minutes + freezing overnight",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cranberry sauce",
+          "quantity": "3",
+          "unit": "cans",
+          "prep_note": "8 oz cans"
+        },
+        {
+          "item": "frozen apple juice concentrate",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "12 oz"
+        },
+        {
+          "item": "frozen cranberry juice concentrate",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "12 oz"
+        },
+        {
+          "item": "frozen pink lemonade concentrate",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "12 oz"
+        },
+        {
+          "item": "frozen regular lemonade concentrate",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "12 oz"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "allspice",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "Sierra Mist Lemon Lime or Cranberry Splash Soda",
+          "quantity": "2",
+          "unit": "2-liter bottles",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Blend the cranberry sauce, frozen juice concentrates, and spices into a blender on low until fully incorporated."
+        },
+        {
+          "step": 2,
+          "text": "Transfer the mixture into a large mixing bowl. Add the water and mix until fully incorporated."
+        },
+        {
+          "step": 3,
+          "text": "Split the mixture between two 1-gallon freezer bags and place into the freezer."
+        },
+        {
+          "step": 4,
+          "text": "After 2 hours, knead the concentrate inside the bag and replace into the freezer overnight."
+        },
+        {
+          "step": 5,
+          "text": "To serve, thaw the mixture in the freezer bag until it can be easily scooped."
+        },
+        {
+          "step": 6,
+          "text": "Place 1/2 cup of slush and 1/2 cup of Sierra Mist into a cup."
+        },
+        {
+          "step": 7,
+          "text": "Garnish with fresh cranberries and cinnamon sticks."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Non-alcoholic",
+        "Make ahead - freeze overnight"
+      ],
+      "tags": [
+        "punch",
+        "slush",
+        "cranberry",
+        "beverage",
+        "holiday",
+        "Christmas",
+        "party",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "fully-loaded-mashed-potato-pizza",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fully-Loaded Mashed-Potato Pizza",
+      "category": "snacks",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Quick flatbread appetizer loaded with mashed potatoes, cheese, bacon, and sour cream.",
+      "servings_yield": "6 snack-size servings",
+      "prep_time": "4 minutes",
+      "cook_time": "6 minutes",
+      "total_time": "6 minutes",
+      "ingredients": [
+        {
+          "item": "Flatout Rustic White Thin Crust Flatbread",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "prepared mashed potatoes",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Kraft Mild Cheddar Cheese",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "bacon pieces",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chives",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 350\u00b0F. Place Flatout Flatbread on a cookie sheet."
+        },
+        {
+          "step": 2,
+          "text": "Bake at 350\u00b0F for two minutes. Remove flatbread from oven."
+        },
+        {
+          "step": 3,
+          "text": "Spread the mashed potatoes on the flatbread."
+        },
+        {
+          "step": 4,
+          "text": "Evenly distribute the cheese and bacon on the potatoes."
+        },
+        {
+          "step": 5,
+          "text": "Return flatbread to oven. Bake at 350\u00b0F for four minutes."
+        },
+        {
+          "step": 6,
+          "text": "Remove from oven. Top with sour cream and chives."
+        }
+      ],
+      "temperature": "350\u00b0F (177\u00b0C)",
+      "pan_size": "Cookie sheet",
+      "notes": [],
+      "tags": [
+        "appetizer",
+        "flatbread",
+        "potato",
+        "bacon",
+        "cheese",
+        "party food",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cranberry-orange-pecan-butter-roll",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Orange Pecan Butter Roll",
+      "category": "sides",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Festive compound butter with cranberries, orange zest, and pecans - perfect for holiday bread.",
+      "servings_yield": "8-10 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "45 minutes (including 30 min freezing)",
+      "ingredients": [
+        {
+          "item": "Land O'Lakes Salted Butter",
+          "quantity": "2",
+          "unit": "sticks",
+          "prep_note": ""
+        },
+        {
+          "item": "dried cranberries",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "orange zest",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "toasted chopped pecans",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "wax paper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "12x12 inch piece"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Divide the dried cranberries and pecans in half. Place 1/4 cup of cranberries and 1/4 cup of pecans in a small bowl and set aside."
+        },
+        {
+          "step": 2,
+          "text": "Combine the butter, 1/4 cup cranberries, zest and 1/4 cup of pecans in a large mixing bowl."
+        },
+        {
+          "step": 3,
+          "text": "Place the butter mixture onto a 12\" x 12\" piece of wax paper."
+        },
+        {
+          "step": 4,
+          "text": "Fold the top of the wax paper over the butter mixture and press into a log shape."
+        },
+        {
+          "step": 5,
+          "text": "Place the butter log into the freezer for 30 minutes to harden."
+        },
+        {
+          "step": 6,
+          "text": "Remove the butter from the freezer and remove the wax paper."
+        },
+        {
+          "step": 7,
+          "text": "Roll the butter in the remaining mixture of cranberries and pecan until the outside is fully coated."
+        },
+        {
+          "step": 8,
+          "text": "Refrigerate until needed."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Great for holiday entertaining",
+        "Can be made ahead"
+      ],
+      "tags": [
+        "compound butter",
+        "cranberry",
+        "orange",
+        "pecan",
+        "holiday",
+        "Christmas",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "holiday-surprise-punch",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Holiday Surprise Punch",
+      "category": "beverages",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe (Holiday 2013)",
+      "description": "Festive punch with ginger ale ice cubes containing maraschino cherries and a hint of peppermint.",
+      "servings_yield": "16 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "8 hours 10 minutes (including freezing)",
+      "ingredients": [
+        {
+          "item": "maraschino cherries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "one per ice cube"
+        },
+        {
+          "item": "Canada Dry Ginger Ale",
+          "quantity": "2",
+          "unit": "liter",
+          "prep_note": ""
+        },
+        {
+          "item": "pineapple juice",
+          "quantity": "46",
+          "unit": "oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen orange juice concentrate",
+          "quantity": "6",
+          "unit": "oz can",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "peppermint extract",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place one cherry in each cube of an ice tray and fill with Canada Dry Ginger Ale. Freeze overnight."
+        },
+        {
+          "step": 2,
+          "text": "Combine chilled juices in punch bowl."
+        },
+        {
+          "step": 3,
+          "text": "Add peppermint extract and stir."
+        },
+        {
+          "step": 4,
+          "text": "Add Canada Dry Ginger Ale ice cubes to each glass."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Punch bowl",
+      "notes": [
+        "Non-alcoholic",
+        "Ice cubes need to freeze overnight"
+      ],
+      "tags": [
+        "punch",
+        "beverage",
+        "holiday",
+        "Christmas",
+        "party",
+        "ginger ale",
+        "pineapple",
+        "peppermint"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "italian-meatball-sliders",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Italian Meatball Sliders",
+      "category": "mains",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Quick and easy meatball sliders with marinara and melted cheese.",
+      "servings_yield": "4 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "1 minute",
+      "total_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "Farm Rich Original Meatballs",
+          "quantity": "24-28",
+          "unit": "oz",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "marinara sauce",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ciabatta, whole wheat, or sour dough buns, or dinner rolls",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "3-inch, split, lightly toasted if desired"
+        },
+        {
+          "item": "mozzarella or provolone cheese",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": "halved"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine meatballs and marinara sauce in a microwave safe bowl."
+        },
+        {
+          "step": 2,
+          "text": "Microwave 1 minute or until warmed; toss to coat meatballs evenly with sauce."
+        },
+        {
+          "step": 3,
+          "text": "Spoon meatballs over bottom of rolls; top with cheese and close sliders."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "sliders",
+        "meatballs",
+        "Italian",
+        "appetizer",
+        "quick",
+        "party food",
+        "sandwiches"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
