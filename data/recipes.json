@@ -45128,6 +45128,814 @@
       "image_refs": [
         "IMG_5192 Large.jpeg"
       ]
+    },
+    {
+      "id": "hot-chocolate-homemade",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Chocolate",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "A delicious way to warm up.",
+      "servings_yield": "6 servings (about 6 ounces each)",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "unsweetened or semisweet chocolate",
+          "quantity": "2",
+          "unit": "squares (2 oz)",
+          "prep_note": "coarsely chopped, or 1/3 cup semisweet chocolate pieces"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "whipped cream or marshmallows",
+          "quantity": "",
+          "unit": "optional",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan combine unsweetened or semisweet chocolate, sugar, and 1/2 cup of the milk."
+        },
+        {
+          "step": 2,
+          "text": "Cook and stir over medium heat till mixture just comes to boiling."
+        },
+        {
+          "step": 3,
+          "text": "Stir in remaining milk; heat through. Do not boil."
+        },
+        {
+          "step": 4,
+          "text": "Remove from heat. If desired, beat milk mixture with a rotary beater till frothy."
+        },
+        {
+          "step": 5,
+          "text": "Serve hot in cups or mugs. Top each serving with a dollop of whipped cream or a few marshmallows, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "medium saucepan",
+      "notes": [
+        "Hot Mocha: Add 1 tbsp instant coffee crystals with remaining milk",
+        "Spiced Hot Chocolate: Add 1/2 tsp cinnamon and 1/4 tsp nutmeg with remaining milk",
+        "Hot Cocoa: Use 1/3 cup unsweetened cocoa powder instead of chocolate"
+      ],
+      "tags": [
+        "beverage",
+        "chocolate",
+        "hot drink",
+        "winter",
+        "comfort"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5193 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cocoa-mix-homemade",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cocoa Mix",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Make your own instant cocoa mix for quick hot chocolate anytime.",
+      "servings_yield": "about 15 cups mix (45 servings)",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "nonfat dry milk powder",
+          "quantity": "1",
+          "unit": "8-quart package (about 10 cups)",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "1",
+          "unit": "16-oz package (about 4 3/4 cups)",
+          "prep_note": "sifted"
+        },
+        {
+          "item": "unsweetened cocoa powder",
+          "quantity": "1 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered nondairy creamer",
+          "quantity": "1",
+          "unit": "6-oz jar (1 3/4 cups)",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large mixing bowl combine nonfat dry milk powder, powdered sugar, unsweetened cocoa powder, and nondairy creamer. Stir till thoroughly combined."
+        },
+        {
+          "step": 2,
+          "text": "Store cocoa mixture in an airtight container."
+        },
+        {
+          "step": 3,
+          "text": "For 1 serving, place 1/3 cup cocoa mixture in a coffee cup or mug; add 3/4 cup boiling water. Stir to dissolve."
+        },
+        {
+          "step": 4,
+          "text": "Top with a dollop of whipped cream or a few marshmallows, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "EASY recipe",
+        "Malted Cocoa Mix: Add 1 1/2 cups instant malted milk powder. Makes about 48 servings.",
+        "Mocha Mix: Add 1/2 cup instant coffee crystals."
+      ],
+      "tags": [
+        "beverage",
+        "cocoa",
+        "mix",
+        "make-ahead",
+        "easy",
+        "gift"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5193 Large.jpeg"
+      ]
+    },
+    {
+      "id": "hot-spiced-cider",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Spiced Cider",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Warm spiced apple cider perfect for fall and winter gatherings.",
+      "servings_yield": "8 servings (about 8 ounces each)",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "apple cider or apple juice",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/4 to 1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "stick cinnamon",
+          "quantity": "6",
+          "unit": "inches",
+          "prep_note": ""
+        },
+        {
+          "item": "whole allspice",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole cloves",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for spice bag"
+        },
+        {
+          "item": "thin orange wedges or slices",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "whole cloves",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "optional for studding oranges"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan combine apple cider or juice and brown sugar."
+        },
+        {
+          "step": 2,
+          "text": "For spice bag, place cinnamon, allspice, and the 1 teaspoon whole cloves in a double thickness of cheesecloth. Bring up corners of cheesecloth and tie with string. Add spice bag to cider mixture."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover and simmer at least 10 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, stud orange wedges or slices with cloves, if desired."
+        },
+        {
+          "step": 5,
+          "text": "Remove and discard spice bag. Serve cider in mugs with studded orange wedges or slices, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [],
+      "tags": [
+        "beverage",
+        "cider",
+        "apple",
+        "spiced",
+        "fall",
+        "winter",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5194 Large.jpeg"
+      ]
+    },
+    {
+      "id": "hot-buttered-rum",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Buttered Rum",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Usually served at Christmas, this hot sipper tastes great all winter long.",
+      "servings_yield": "10 servings (about 6 ounces each)",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "packed brown sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "lemon peel",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "finely shredded"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground allspice",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "rum",
+          "quantity": "3",
+          "unit": "tbsp per serving",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling water",
+          "quantity": "1/2",
+          "unit": "cup per serving",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small mixing bowl combine brown sugar, margarine or butter, lemon peel, cinnamon, and allspice. Beat till well combined."
+        },
+        {
+          "step": 2,
+          "text": "Use immediately or cover and chill up to 1 month."
+        },
+        {
+          "step": 3,
+          "text": "For 1 serving, place 1 rounded tablespoon of the butter mixture in a mug. Add 3 tablespoons rum and 1/2 cup boiling water. Stir well."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Butter mixture can be made ahead and chilled up to 1 month",
+        "Hot Buttered Coffee or Tea: Substitute 1/2 cup hot strong coffee or tea for the rum and boiling water"
+      ],
+      "tags": [
+        "beverage",
+        "rum",
+        "hot drink",
+        "christmas",
+        "winter",
+        "alcohol",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5194 Large.jpeg"
+      ]
+    },
+    {
+      "id": "glogg-swedish-punch",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Glogg",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Before sipping this potent Swedish punch, toast everyone's good health. It's tradition.",
+      "servings_yield": "8 servings (about 4 ounces each)",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "dry red wine",
+          "quantity": "1",
+          "unit": "750-ml bottle",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "gin, vodka, or aquavit",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "orange peel",
+          "quantity": "1",
+          "unit": "orange",
+          "prep_note": "peel only"
+        },
+        {
+          "item": "stick cinnamon",
+          "quantity": "8",
+          "unit": "inches",
+          "prep_note": "broken"
+        },
+        {
+          "item": "whole cloves",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cardamom pods",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "opened"
+        },
+        {
+          "item": "blanched whole almonds",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan stir together wine, raisins, gin, vodka, or aquavit; and sugar."
+        },
+        {
+          "step": 2,
+          "text": "For the spice bag, cut a double thickness of cheesecloth into a 6- or 8-inch square. Place orange peel, cinnamon, cloves, and cardamom in the center of the cheesecloth. Bring up the corners of the cheesecloth and tie them with a clean string."
+        },
+        {
+          "step": 3,
+          "text": "Add to saucepan with wine mixture. Heat mixture to simmering."
+        },
+        {
+          "step": 4,
+          "text": "Simmer, uncovered, for 10 minutes. Do not boil."
+        },
+        {
+          "step": 5,
+          "text": "Remove and discard the spice bag. Stir in almonds just before serving."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [
+        "Crockery-cooker directions: Combine ingredients in 3 1/2- or 4-quart cooker. Cook on low-heat setting for 3 hours. Remove spice bag. Stir in almonds before serving."
+      ],
+      "tags": [
+        "beverage",
+        "wine",
+        "swedish",
+        "punch",
+        "holiday",
+        "alcohol",
+        "spiced"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5194 Large.jpeg"
+      ]
+    },
+    {
+      "id": "choose-a-flavor-milk-shakes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Flavor Milk Shakes",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Classic blended milkshakes with many flavor variations.",
+      "servings_yield": "2 servings (about 8 ounces each)",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "ice cream",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": "vanilla, chocolate, strawberry, butter brickle, cinnamon, or coffee"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place ice cream and milk in a blender container."
+        },
+        {
+          "step": 2,
+          "text": "Cover and blend till smooth. Serve immediately."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "EASY recipe",
+        "Malts: Add 2 tbsp instant malted milk powder",
+        "Peanut Butter: Use vanilla or chocolate ice cream, add 2 tbsp peanut butter",
+        "Mocha: Use chocolate ice cream, add 2 tsp instant coffee crystals",
+        "Cinnamon-Apple: Use vanilla ice cream, add 1 small cut-up apple and 1/2 tsp cinnamon",
+        "Candy: Add 6 peanut butter cups or chocolate-covered toffee bar, blend till coarsely chopped",
+        "Cookie: Add 4 chocolate sandwich cookies or chocolate-covered graham crackers, blend till coarsely chopped"
+      ],
+      "tags": [
+        "beverage",
+        "milkshake",
+        "ice cream",
+        "easy",
+        "blender"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5195 Large.jpeg"
+      ]
+    },
+    {
+      "id": "choose-a-flavor-float",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Flavor Float",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Choose your favorite ice cream and beverage combination.",
+      "servings_yield": "1 serving (about 12 ounces)",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "desired ice cream or sherbet",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "desired carbonated beverage",
+          "quantity": "2/3 to 3/4",
+          "unit": "cup",
+          "prep_note": "chilled"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Add half of the ice cream to a chilled 12-ounce glass."
+        },
+        {
+          "step": 2,
+          "text": "Add enough carbonated beverage to half-fill the glass; stir gently to mix."
+        },
+        {
+          "step": 3,
+          "text": "Add remaining ice cream. Fill the glass with remaining carbonated beverage."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "FAST recipe",
+        "Fruit Juice Float: Substitute orange, apple, or pineapple juice for carbonated beverage"
+      ],
+      "tags": [
+        "beverage",
+        "float",
+        "ice cream",
+        "easy",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5195 Large.jpeg"
+      ]
+    },
+    {
+      "id": "orange-breakfast-nog",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Orange Breakfast Nog",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "A refreshing citrus breakfast drink.",
+      "servings_yield": "2 servings (about 10 ounces each)",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "buttermilk",
+          "quantity": "1 1/3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen orange juice concentrate",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "half of a 6-oz can"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "large ice cubes",
+          "quantity": "2 or 3",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a blender container combine buttermilk, orange juice concentrate, brown sugar, and vanilla. Cover and blend till smooth."
+        },
+        {
+          "step": 2,
+          "text": "With blender running, add ice cubes, one at a time, through opening in lid. Blend till smooth and frothy."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "FAST recipe"
+      ],
+      "tags": [
+        "beverage",
+        "breakfast",
+        "orange",
+        "smoothie",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5195 Large.jpeg"
+      ]
+    },
+    {
+      "id": "fruity-yogurt-sipper",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruity Yogurt Sipper",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "A healthy blended fruit and yogurt drink.",
+      "servings_yield": "4 servings (about 8 ounces each)",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fruit",
+          "quantity": "1",
+          "unit": "ripe large banana, 2 medium peaches, or 1 cup sliced strawberries",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla yogurt",
+          "quantity": "1",
+          "unit": "8-oz carton",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "1 to 2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "large ice cubes",
+          "quantity": "3 or 4",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "If using banana or peaches, cut into chunks."
+        },
+        {
+          "step": 2,
+          "text": "In a blender container combine fruit, milk, yogurt, and sugar. Cover and blend till smooth."
+        },
+        {
+          "step": 3,
+          "text": "With blender running, add ice cubes, one at a time, through opening in lid. Blend till smooth."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "beverage",
+        "smoothie",
+        "yogurt",
+        "fruit",
+        "healthy",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5195 Large.jpeg"
+      ]
+    },
+    {
+      "id": "homemade-soda-pop",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Soda Pop",
+      "category": "beverages",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Make your own fruity carbonated beverage.",
+      "servings_yield": "3 servings (about 8 ounces each)",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "up to 6 hours chilling",
+      "ingredients": [
+        {
+          "item": "frozen juice concentrate",
+          "quantity": "1",
+          "unit": "6-oz can",
+          "prep_note": "lemonade, orange, apple, grape, or pineapple"
+        },
+        {
+          "item": "carbonated water",
+          "quantity": "18 to 24",
+          "unit": "oz",
+          "prep_note": "4 juice cans for lemonade, 3 cans for other juices"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together lemonade and four juice cans filled with carbonated water (three cans if using juice concentrate). Gently stir till combined."
+        },
+        {
+          "step": 2,
+          "text": "Using a funnel, pour mixture into a 4-cup bottle or jar; seal."
+        },
+        {
+          "step": 3,
+          "text": "Chill for up to 6 hours."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "EASY recipe"
+      ],
+      "tags": [
+        "beverage",
+        "soda",
+        "homemade",
+        "easy",
+        "kid-friendly"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5195 Large.jpeg"
+      ]
     }
   ],
   "version": "2.79.0"
