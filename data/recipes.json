@@ -55044,6 +55044,288 @@
       "tags": ["cake", "dessert", "jelly roll", "rolled cake"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": []
+    },
+    {
+      "id": "fruitcake-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruitcake",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Traditional fruitcake that mellows for 2 to 8 weeks before serving.",
+      "servings_yield": "16 servings",
+      "prep_time": "",
+      "cook_time": "1¼ to 1½ hours",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "ground cinnamon", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "baking powder", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "baking soda", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "ground allspice", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "ground cloves", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "mixed candied fruits and peels or snipped mixed dried fruit", "quantity": "¾", "unit": "cup", "prep_note": "diced"},
+        {"item": "raisins or snipped pitted dates", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "candied red or green cherries", "quantity": "½", "unit": "cup", "prep_note": "quartered"},
+        {"item": "pecans, walnuts, or toasted slivered almonds", "quantity": "½", "unit": "cup", "prep_note": "chopped"},
+        {"item": "eggs", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "packed brown sugar", "quantity": "½", "unit": "cup", "prep_note": ""},
+        {"item": "orange juice or apple juice", "quantity": "¼", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "¼", "unit": "cup", "prep_note": "melted"},
+        {"item": "light molasses", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "brandy or fruit juice", "quantity": "", "unit": "", "prep_note": "for soaking"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Grease an 8x4x2-inch loaf pan. Line bottom and sides of pan with brown paper to prevent overbrowning; grease paper."},
+        {"step": 2, "text": "In a bowl combine flour, cinnamon, baking powder, baking soda, nutmeg, allspice, and cloves. Add fruits and peels, raisins, cherries, and nuts; mix well."},
+        {"step": 3, "text": "Beat eggs; stir in sugar, juice, margarine, and molasses till combined. Stir into fruit mixture. Pour batter into pan."},
+        {"step": 4, "text": "Bake in a 300° oven for 1¼ to 1½ hours or till a toothpick inserted near the center comes out clean. (Cover pan loosely with foil after 1 hour of baking to prevent overbrowning.)"},
+        {"step": 5, "text": "Cool in pan on rack. Remove from pan. Wrap cake in brandy- or fruit-juice-moistened cheesecloth. Overwrap with foil."},
+        {"step": 6, "text": "Store in the refrigerator for 2 to 8 weeks to mellow flavors. Remoisten cheesecloth about once a week, or as needed."}
+      ],
+      "temperature": "300°F",
+      "pan_size": "8x4x2-inch loaf pan",
+      "notes": [
+        "Light Fruitcake: Prepare as above, except omit nutmeg, allspice, and cloves. Substitute light corn syrup for the molasses. Add 1 teaspoon finely shredded lemon peel and 1 tablespoon lemon juice with the corn syrup.",
+        "Microwave directions: Grease a 10-inch fluted tube dish or 2-quart ring mold. Coat with 2 tablespoons crushed graham crackers. Prepare batter as above. Pour batter into dish or mold. Micro-cook, uncovered, on 50% power (medium) for 15 minutes, giving dish a quarter-turn every 5 minutes. If not done, cook on 100% power (high) for 30 seconds to 2 minutes more or till surface is nearly dry."
+      ],
+      "tags": ["cake", "dessert", "fruitcake", "holiday", "christmas"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "nut-torte",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nut Torte",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "A blender or a food processor makes for fast mixing of this rich cake.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "baking powder", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "orange peel", "quantity": "1", "unit": "tsp", "prep_note": "finely shredded"},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": ""},
+        {"item": "sugar", "quantity": "¾", "unit": "cup", "prep_note": ""},
+        {"item": "walnuts, pecans, or hazelnuts", "quantity": "2½", "unit": "cups", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Stir together flour, baking powder, and orange peel; set aside."},
+        {"step": 2, "text": "In a blender container or food processor bowl place eggs and sugar. Cover and blend or process till smooth. Add nuts. Blend or process about 1 minute or till nearly smooth."},
+        {"step": 3, "text": "Add flour mixture; blend or process just till combined."},
+        {"step": 4, "text": "Spread batter evenly into 2 greased and floured 8x1½-inch round baking pans. Bake in a 350° oven about 20 minutes or till lightly browned."},
+        {"step": 5, "text": "Cool on wire racks for 10 minutes. Remove from pans; cool thoroughly on racks. Frost with Chocolate Butter Frosting."}
+      ],
+      "temperature": "350°F",
+      "pan_size": "two 8x1½-inch round baking pans",
+      "notes": [],
+      "tags": ["cake", "dessert", "torte", "nuts"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "seven-minute-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Seven-Minute Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "This glossy, divinitylike frosting requires a sturdy portable electric mixer.",
+      "servings_yield": "Frosts two 8- or 9-inch layers or one 10-inch tube cake",
+      "prep_time": "",
+      "cook_time": "7 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "cold water", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "egg whites", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "cream of tartar or light corn syrup", "quantity": "¼ tsp or 2 tsp", "unit": "", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In the top of a double boiler combine sugar, water, egg whites, and cream of tartar. Beat with an electric mixer on low speed for 30 seconds."},
+        {"step": 2, "text": "Place over boiling water (upper pan should not touch water). Cook, beating constantly with the electric mixer on high speed, about 7 minutes or till frosting forms stiff peaks."},
+        {"step": 3, "text": "Remove from the heat; add vanilla. Beat 2 to 3 minutes more or till of spreading consistency."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Peppermint Frosting: Prepare as above, except substitute a few drops of peppermint extract for the vanilla. Garnish cake with crushed peppermint candies."
+      ],
+      "tags": ["frosting", "dessert", "white frosting"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "fluffy-white-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fluffy White Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Light and fluffy cooked frosting.",
+      "servings_yield": "Frosts two 8- or 9-inch layers or one 10-inch tube cake",
+      "prep_time": "",
+      "cook_time": "7 minutes",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "water", "quantity": "⅓", "unit": "cup", "prep_note": ""},
+        {"item": "cream of tartar", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "egg whites", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan combine sugar, water, and cream of tartar. Cook and stir till bubbly and sugar dissolves."},
+        {"step": 2, "text": "In a small mixer bowl combine egg whites and vanilla. Add sugar mixture very slowly to egg whites, beating constantly with an electric mixer on high speed about 7 minutes or till stiff peaks form (tips stand up)."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["frosting", "dessert", "white frosting", "fluffy"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "creamy-white-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy White Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Firm enough to use for piping decorations.",
+      "servings_yield": "Frosts two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "shortening", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "vanilla", "quantity": "1½", "unit": "tsp", "prep_note": ""},
+        {"item": "lemon extract, orange extract, or almond extract", "quantity": "½", "unit": "tsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "4½", "unit": "cups", "prep_note": "sifted"},
+        {"item": "milk", "quantity": "3 to 4", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Beat shortening, vanilla, and extract with an electric mixer on medium speed for 30 seconds."},
+        {"step": 2, "text": "Slowly add half of the powdered sugar, beating well. Add 2 tablespoons milk."},
+        {"step": 3, "text": "Gradually beat in remaining powdered sugar and enough remaining milk to make of spreading consistency."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": ["frosting", "dessert", "white frosting", "decorating"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "powdered-sugar-icing",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Powdered Sugar Icing",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Simple drizzle icing for cakes.",
+      "servings_yield": "½ cup, enough for one 10-inch tube cake",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "powdered sugar", "quantity": "1", "unit": "cup", "prep_note": "sifted"},
+        {"item": "vanilla", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "milk or orange juice", "quantity": "1", "unit": "tbsp", "prep_note": "plus more as needed"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Mix powdered sugar, vanilla, and 1 tablespoon milk or juice."},
+        {"step": 2, "text": "Stir in milk or juice, 1 teaspoon at a time, till of drizzling consistency."},
+        {"step": 3, "text": "Let cake stand 2 hours before slicing."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Chocolate Powdered Sugar Icing: Prepare as above, except add 2 tablespoons unsweetened cocoa powder to the powdered sugar.",
+        "Liqueur Powdered Sugar Icing: Prepare as above, except substitute 1 tablespoon desired liqueur for the first 1 tablespoon milk or juice."
+      ],
+      "tags": ["icing", "dessert", "glaze", "drizzle"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "cream-cheese-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Cheese Frosting",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "The tangy flavor of the cream cheese provides a nice accent to both cakes and cookies.",
+      "servings_yield": "Frosts two 8- or 9-inch layers",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "cream cheese", "quantity": "2", "unit": "3-ounce packages", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "½", "unit": "cup", "prep_note": "softened"},
+        {"item": "vanilla", "quantity": "2", "unit": "tsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "4½ to 4¾", "unit": "cups", "prep_note": "sifted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl beat together cream cheese, margarine or butter, and vanilla till light and fluffy."},
+        {"step": 2, "text": "Gradually add 2 cups powdered sugar, beating well."},
+        {"step": 3, "text": "Gradually beat in enough remaining powdered sugar to make frosting of spreading consistency. Cover cake; store in refrigerator."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Chocolate Cream Cheese Frosting: Prepare as above, except substitute ½ cup unsweetened cocoa powder for ¼ cup powdered sugar."
+      ],
+      "tags": ["frosting", "dessert", "cream cheese"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
+    },
+    {
+      "id": "petits-fours-icing",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Petits Fours Icing",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "This glossy icing coats cake cutouts beautifully. Use it with Petits Fours or Hot-Milk Sponge Cake.",
+      "servings_yield": "About 3½ cups, enough for 36 to 40 petits fours",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {"item": "sugar", "quantity": "3", "unit": "cups", "prep_note": ""},
+        {"item": "hot water", "quantity": "1½", "unit": "cups", "prep_note": ""},
+        {"item": "cream of tartar", "quantity": "¼", "unit": "tsp", "prep_note": ""},
+        {"item": "clear vanilla flavoring or vanilla", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "powdered sugar", "quantity": "about 4", "unit": "cups", "prep_note": "sifted"},
+        {"item": "food coloring", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan combine sugar, water, and cream of tartar. Bring mixture to boiling over medium-high heat, stirring constantly till sugar dissolves (allow 5 to 9 minutes)."},
+        {"step": 2, "text": "Reduce heat to medium-low. Clip a candy thermometer to the side of the saucepan. Cook till thermometer registers 226°, stirring only as necessary to prevent sticking."},
+        {"step": 3, "text": "Remove saucepan from the heat. Cool at room temperature, without stirring, to 110° (allow about 1 hour)."},
+        {"step": 4, "text": "Add vanilla. Stir in enough powdered sugar (about 4 cups) to make of drizzling consistency. If necessary, beat icing with a rotary beater or wire whisk to remove any lumps. If desired, stir in a few drops of food coloring."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": ["If icing becomes too thick, beat in a few drops of warm water."],
+      "tags": ["icing", "dessert", "petits fours", "glaze"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": []
     }
   ],
   "version": "2.79.0"
