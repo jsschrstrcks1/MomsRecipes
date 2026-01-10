@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-10",
     "version": "3.0.2",
-    "total_recipes": 824
+    "total_recipes": 825
   },
   "recipes": [
     {
@@ -62130,6 +62130,54 @@
       "tags": ["whitefish", "fish", "seafood", "stuffed", "wild-rice", "baked", "elegant"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5333 Large.jpeg"]
+    },
+    {
+      "id": "fish-en-papillote",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish en Papillote",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 172",
+      "description": "Elegant French technique of baking fish in parchment paper packets with a creamy vegetable sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "fresh or frozen skinless flounder, perch, sole, or pompano fillets", "quantity": "4", "unit": "", "prep_note": "3 ounces each, about 1/4 inch thick"},
+        {"item": "parchment paper or brown paper", "quantity": "4", "unit": "pieces", "prep_note": "cut into heart shapes, 12 inches wide and 9 inches long"},
+        {"item": "water", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "lemon slices", "quantity": "2", "unit": "", "prep_note": ""},
+        {"item": "bay leaf", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "instant chicken bouillon granules", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "medium carrot", "quantity": "1", "unit": "", "prep_note": "coarsely shredded"},
+        {"item": "sliced green onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "Dijon-style mustard", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "milk", "quantity": "1/2", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Thaw fish, if frozen. Cut 4 pieces of parchment paper into heart shapes, 12 inches wide and 9 inches long."},
+        {"step": 2, "text": "In a large skillet bring water, lemon slices, bay leaf, and bouillon granules to boiling. Add fish."},
+        {"step": 3, "text": "Simmer, covered, for 4 to 6 minutes or till fish flakes easily with a fork. Using a slotted spoon, remove fish. Reserve 1/2 cup cooking liquid."},
+        {"step": 4, "text": "In same skillet cook carrots and onion in margarine till tender. Stir in flour and mustard."},
+        {"step": 5, "text": "Add reserved liquid and milk. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."},
+        {"step": 6, "text": "To assemble, place one fillet on one half of each parchment heart. Top with one fourth of the sauce."},
+        {"step": 7, "text": "Fold the other half of the heart over fillet. Starting at the top, seal tightly by turning up edges and folding in twice. At bottom, twist the tip of heart to seal."},
+        {"step": 8, "text": "Place packets on a large baking sheet. Bake in a 400°F oven for 10 to 12 minutes or till slightly puffed."},
+        {"step": 9, "text": "Transfer to dinner plates. To serve, cut an X in top of each packet. Pull back the paper."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "large baking sheet",
+      "notes": [
+        "En papillote (pah-pee-YOHT) is French for 'in paper' - a simple yet elegant way to cook fish",
+        "The packets puff up as steam forms inside, creating a dramatic presentation"
+      ],
+      "tags": ["fish", "seafood", "french", "papillote", "parchment", "elegant", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5334 Large.jpeg"]
     }
   ],
   "version": "2.79.0"
