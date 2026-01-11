@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 943
+    "total_recipes": 948
   },
   "recipes": [
     {
@@ -87996,6 +87996,543 @@
       },
       "image_refs": [
         "IMG_5251 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fruitcake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruitcake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 87",
+      "description": "A traditional fruitcake with candied fruits, nuts, and molasses. Store in refrigerator for 2 to 8 weeks to mellow flavors.",
+      "servings_yield": "16 servings",
+      "prep_time": "",
+      "cook_time": "1-1/4 to 1-1/2 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground allspice",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cloves",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "diced mixed candied fruits and peels, or snipped mixed dried fruit",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins or snipped pitted dates",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "candied red or green cherries, quartered",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pecans, walnuts, or toasted slivered almonds",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "orange juice or apple juice",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "light molasses",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brandy or fruit juice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for wrapping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Grease an 8x4x2-inch loaf pan. Line bottom and sides of pan with brown paper to prevent overbrowning; grease paper."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl combine flour, cinnamon, baking powder, baking soda, nutmeg, allspice, and cloves. Add fruits and peels, raisins, cherries, and nuts; mix well."
+        },
+        {
+          "step": 3,
+          "text": "Beat eggs; stir in sugar, juice, margarine, and molasses till combined. Stir into fruit mixture."
+        },
+        {
+          "step": 4,
+          "text": "Pour batter into pan. Bake in a 300\u00b0 oven for 1-1/4 to 1-1/2 hours or till a toothpick inserted near the center comes out clean. (Cover pan loosely with foil after 1 hour of baking to prevent overbrowning.)"
+        },
+        {
+          "step": 5,
+          "text": "Cool in pan on rack. Remove from pan. Wrap cake in brandy- or fruit-juice-moistened cheesecloth. Overwrap with foil."
+        },
+        {
+          "step": 6,
+          "text": "Store in the refrigerator for 2 to 8 weeks to mellow flavors. Remoisten cheesecloth about once a week, or as needed."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "pan_size": "8x4x2-inch loaf pan",
+      "notes": [
+        "Store in refrigerator 2-8 weeks to mellow flavors",
+        "Remoisten cheesecloth weekly"
+      ],
+      "tags": [
+        "cake",
+        "fruitcake",
+        "holiday",
+        "christmas"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5252 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cream-cheese-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Cheese Frosting",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 88",
+      "description": "The tangy flavor of the cream cheese provides a nice accent to both cakes and cookies.",
+      "servings_yield": "Frosts tops and sides of two 8- or 9-inch cake layers",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "2",
+          "unit": "3-ounce packages",
+          "prep_note": ""
+        },
+        {
+          "item": "softened margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "4-1/2 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl beat together cream cheese, margarine or butter, and vanilla till light and fluffy."
+        },
+        {
+          "step": 2,
+          "text": "Gradually add 2 cups powdered sugar, beating well."
+        },
+        {
+          "step": 3,
+          "text": "Gradually beat in enough remaining powdered sugar to make frosting of spreading consistency."
+        },
+        {
+          "step": 4,
+          "text": "Frosts tops and sides of two 8- or 9-inch cake layers. Cover cake; store in refrigerator."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Store frosted cake in refrigerator"
+      ],
+      "tags": [
+        "frosting",
+        "cream-cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5253 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "butter-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Butter Frosting",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 89",
+      "description": "An easy-to-spread frosting in six flavors.",
+      "servings_yield": "Frosts tops and sides of two 8- or 9-inch cake layers",
+      "prep_time": "10 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "butter or margarine",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "4-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "additional if needed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl beat butter or margarine till fluffy."
+        },
+        {
+          "step": 2,
+          "text": "Gradually add 2 cups of the powdered sugar, beating well."
+        },
+        {
+          "step": 3,
+          "text": "Slowly beat in the 1/4 cup milk and vanilla."
+        },
+        {
+          "step": 4,
+          "text": "Slowly beat in remaining sugar. Beat in additional milk, if needed, to make of spreading consistency."
+        },
+        {
+          "step": 5,
+          "text": "Tint with food coloring, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Chocolate Butter Frosting: Beat 1/2 cup unsweetened cocoa powder into butter.",
+        "Mocha Butter Frosting: Beat 1/2 cup cocoa powder into butter. Add 1 tablespoon instant coffee crystals to milk. Let stand 3 minutes; stir well.",
+        "Lemon or Orange Butter Frosting: Substitute fresh lemon juice or orange juice for the milk and add 1/2 teaspoon finely shredded lemon peel or 1 teaspoon finely shredded orange peel with the juice.",
+        "Peanut-Butter Frosting: Substitute creamy peanut butter for the butter or margarine."
+      ],
+      "tags": [
+        "frosting",
+        "butter-frosting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5254 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coconut-pecan-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Coconut-Pecan Frosting",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 90",
+      "description": "The traditional frosting for German Chocolate Cake.",
+      "servings_yield": "Frosts top of one 13x9-inch cake or tops of two 8- or 9-inch cake layers",
+      "prep_time": "",
+      "cook_time": "12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "1",
+          "unit": "5-ounce can (2/3 cup)",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flaked coconut",
+          "quantity": "1-1/3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pecans",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan beat egg slightly. Stir in milk, sugar, and margarine."
+        },
+        {
+          "step": 2,
+          "text": "Cook and stir over medium heat about 12 minutes or till thickened and bubbly."
+        },
+        {
+          "step": 3,
+          "text": "Stir in coconut and pecans. Cool thoroughly."
+        },
+        {
+          "step": 4,
+          "text": "Spread on cake. Frosts top of one 13x9-inch cake or tops of two 8- or 9-inch cake layers."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Traditional frosting for German Chocolate Cake"
+      ],
+      "tags": [
+        "frosting",
+        "coconut",
+        "pecan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5255 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "lemon-filling",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Filling",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 90",
+      "description": "Transforms a simple cake into a luscious dessert.",
+      "servings_yield": "Enough to spread between two 8- or 9-inch cake layers (about 1 cup)",
+      "prep_time": "",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg yolks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan combine sugar and cornstarch."
+        },
+        {
+          "step": 2,
+          "text": "Stir in water. Stir in egg yolks, lemon peel, and juice."
+        },
+        {
+          "step": 3,
+          "text": "Cook and stir over medium heat till bubbly. Cook for 2 minutes more."
+        },
+        {
+          "step": 4,
+          "text": "Stir in margarine or butter till melted."
+        },
+        {
+          "step": 5,
+          "text": "Cover surface with clear plastic wrap; cool."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions available"
+      ],
+      "tags": [
+        "filling",
+        "lemon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5255 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
