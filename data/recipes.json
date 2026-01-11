@@ -5222,8 +5222,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "complete",
+        "per_serving": {
+          "calories": 508,
+          "fat_g": 28,
+          "protein_g": 6,
+          "carbs_g": 63,
+          "cholesterol_mg": 41,
+          "sodium_mg": 115
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 287)"
+        ]
       }
     },
     {
@@ -15248,7 +15259,7 @@
       "attribution": "Florence Keller, Bernie Higgins, Lorraine C. Buck",
       "source_note": "Church cookbook",
       "description": "Classic chicken and broccoli casserole.",
-      "servings_yield": "",
+      "servings_yield": "4 servings",
       "prep_time": "",
       "cook_time": "30 minutes",
       "total_time": "",
@@ -15344,18 +15355,18 @@
       },
       "image_refs": [],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 358,
-          "fat_g": 19.5,
-          "protein_g": 34.4,
-          "carbs_g": 8.4
+          "calories": 376,
+          "fat_g": 33,
+          "protein_g": 33,
+          "carbs_g": 9,
+          "cholesterol_mg": 104,
+          "sodium_mg": 456
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for cream of chicken soup",
-          "Estimated 8 servings based on total calories",
-          "Based on 9/9 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 319)"
         ]
       }
     },
@@ -118975,18 +118986,18 @@
         "IMG_5424 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 166,
-          "fat_g": 2.7,
-          "protein_g": 6.1,
-          "carbs_g": 28.5
+          "calories": 228,
+          "fat_g": 7,
+          "protein_g": 8,
+          "carbs_g": 33,
+          "cholesterol_mg": 70,
+          "sodium_mg": 393
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 263)"
         ]
       }
     },
@@ -119083,19 +119094,18 @@
         "IMG_5427 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 1284,
-          "fat_g": 13.3,
-          "protein_g": 44.5,
-          "carbs_g": 238.3
+          "calories": 145,
+          "fat_g": 3,
+          "protein_g": 6,
+          "carbs_g": 26,
+          "cholesterol_mg": 69,
+          "sodium_mg": 154
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/5 ingredients (60% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 266)"
         ]
       }
     },
@@ -119166,19 +119176,18 @@
         "IMG_5428 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 3,
-          "fat_g": 0.3,
-          "protein_g": 0.0,
-          "carbs_g": 0.0
+          "calories": 156,
+          "fat_g": 4,
+          "protein_g": 4,
+          "carbs_g": 26,
+          "cholesterol_mg": 11,
+          "sodium_mg": 25
         },
-        "missing_inputs": [
-          "Not in database: packaged spaghetti, linguine, or fettuccine",
-          "Not in database: dried basil, oregano, thyme, or marjoram, crushed; dried dillweed; or caraway seed"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 1/3 ingredients (33% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 267)"
         ]
       }
     },
@@ -119284,20 +119293,18 @@
         "IMG_5429 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 15,
-          "fat_g": 0.4,
-          "protein_g": 0.6,
-          "carbs_g": 2.7
+          "calories": 212,
+          "fat_g": 8,
+          "protein_g": 8,
+          "carbs_g": 29,
+          "cholesterol_mg": 2,
+          "sodium_mg": 124
         },
-        "missing_inputs": [
-          "Not in database: packaged linguine or fettuccine",
-          "Not in database: white wine or water",
-          "Not in database: fresh or frozen pea pods"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/9 ingredients (56% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 268)"
         ]
       }
     },
@@ -119407,21 +119414,18 @@
         "IMG_5429 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 25,
-          "fat_g": 0.6,
-          "protein_g": 1.1,
-          "carbs_g": 4.6
+          "calories": 180,
+          "fat_g": 4,
+          "protein_g": 5,
+          "carbs_g": 31,
+          "cholesterol_mg": 0,
+          "sodium_mg": 318
         },
-        "missing_inputs": [
-          "Not in database: dried oregano, crushed",
-          "Not in database: salt",
-          "Not in database: packaged fettuccine"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for grated Parmesan cheese",
-          "Based on 7/10 ingredients (70% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 268)"
         ]
       }
     },
@@ -119510,19 +119514,18 @@
         "IMG_5429 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 102,
-          "fat_g": 8.2,
-          "protein_g": 6.3,
-          "carbs_g": 0.4
+          "calories": 313,
+          "fat_g": 15,
+          "protein_g": 13,
+          "carbs_g": 29,
+          "cholesterol_mg": 114,
+          "sodium_mg": 386
         },
-        "missing_inputs": [
-          "Not in database: packaged fettuccine or spaghetti",
-          "Not in database: snipped parsley"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 268)"
         ]
       }
     },
@@ -119600,18 +119603,18 @@
         "IMG_5430 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 59,
-          "fat_g": 5.8,
-          "protein_g": 1.4,
-          "carbs_g": 1.3
+          "calories": 179,
+          "fat_g": 7,
+          "protein_g": 6,
+          "carbs_g": 22,
+          "cholesterol_mg": 7,
+          "sodium_mg": 3
         },
-        "missing_inputs": [
-          "Not in database: firmly packed fresh basil leaves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 269)"
         ]
       }
     },
@@ -119695,20 +119698,18 @@
         "IMG_5430 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 19,
-          "fat_g": 0.2,
-          "protein_g": 0.9,
-          "carbs_g": 4.1
+          "calories": 116,
+          "fat_g": 1,
+          "protein_g": 4,
+          "carbs_g": 23,
+          "cholesterol_mg": 0,
+          "sodium_mg": 603
         },
-        "missing_inputs": [
-          "Not in database: ground red pepper",
-          "Not in database: sliced pitted ripe olives",
-          "Not in database: snipped parsley"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/7 ingredients (43% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 269)"
         ]
       }
     },
@@ -119786,19 +119787,18 @@
         "IMG_5431 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 24,
-          "fat_g": 2.5,
-          "protein_g": 0.3,
-          "carbs_g": 0.2
+          "calories": 190,
+          "fat_g": 8,
+          "protein_g": 7,
+          "carbs_g": 28,
+          "cholesterol_mg": 14,
+          "sodium_mg": 192
         },
-        "missing_inputs": [
-          "Not in database: packaged fettuccine",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/5 ingredients (60% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 270)"
         ]
       }
     },
@@ -119912,20 +119912,18 @@
         "IMG_5431 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 67,
-          "fat_g": 3.8,
-          "protein_g": 2.2,
-          "carbs_g": 6.2
+          "calories": 158,
+          "fat_g": 7,
+          "protein_g": 7,
+          "carbs_g": 17,
+          "cholesterol_mg": 7,
+          "sodium_mg": 181
         },
-        "missing_inputs": [
-          "Not in database: large macaroni shells, rotini, or elbow macaroni",
-          "Not in database: dried oregano or basil, crushed",
-          "Not in database: pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/10 ingredients (70% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 270)"
         ]
       }
     },
@@ -119989,18 +119987,18 @@
         "IMG_5433 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 320,
-          "fat_g": 15.8,
-          "protein_g": 33.0,
-          "carbs_g": 8.4
+          "calories": 126,
+          "fat_g": 1,
+          "protein_g": 2,
+          "carbs_g": 26,
+          "cholesterol_mg": 10,
+          "sodium_mg": 3
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/3 ingredients (67% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 272)"
         ]
       }
     },
@@ -120095,20 +120093,18 @@
         "IMG_5433 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 221,
-          "fat_g": 11.0,
-          "protein_g": 22.6,
-          "carbs_g": 6.1
+          "calories": 214,
+          "fat_g": 5,
+          "protein_g": 5,
+          "carbs_g": 38,
+          "cholesterol_mg": 0,
+          "sodium_mg": 242
         },
-        "missing_inputs": [
-          "Not in database: chopped green pepper",
-          "Not in database: water",
-          "Not in database: dry sherry"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/9 ingredients (56% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 272)"
         ]
       }
     },
@@ -120198,19 +120194,18 @@
         "IMG_5433 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 54,
-          "fat_g": 0.4,
-          "protein_g": 1.6,
-          "carbs_g": 11.8
+          "calories": 184,
+          "fat_g": 5,
+          "protein_g": 4,
+          "carbs_g": 28,
+          "cholesterol_mg": 70,
+          "sodium_mg": 163
         },
-        "missing_inputs": [
-          "Not in database: chopped green pepper",
-          "Not in database: chili powder"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 272)"
         ]
       }
     },
@@ -120301,16 +120296,18 @@
         "IMG_5434 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 74,
-          "fat_g": 2.3,
-          "protein_g": 3.3,
-          "carbs_g": 10.0
+          "calories": 187,
+          "fat_g": 0,
+          "protein_g": 4,
+          "carbs_g": 31,
+          "cholesterol_mg": 5,
+          "sodium_mg": 242
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 8/8 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 273)"
         ]
       }
     },
@@ -120403,16 +120400,18 @@
         "IMG_5434 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 286,
-          "fat_g": 6.4,
-          "protein_g": 19.0,
-          "carbs_g": 36.8
+          "calories": 306,
+          "fat_g": 11,
+          "protein_g": 11,
+          "carbs_g": 40,
+          "cholesterol_mg": 147,
+          "sodium_mg": 717
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 8/8 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 273)"
         ]
       }
     },
@@ -120500,19 +120499,18 @@
         "IMG_5435 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 203,
-          "fat_g": 10.5,
-          "protein_g": 6.4,
-          "carbs_g": 22.6
+          "calories": 227,
+          "fat_g": 14,
+          "protein_g": 4,
+          "carbs_g": 24,
+          "cholesterol_mg": 0,
+          "sodium_mg": 3
         },
-        "missing_inputs": [
-          "Not in database: sunflower nuts",
-          "Not in database: sesame seed"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 274)"
         ]
       }
     },
@@ -120575,19 +120573,18 @@
         "IMG_5435 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 750,
-          "fat_g": 42.0,
-          "protein_g": 86.0,
-          "carbs_g": 0.0
+          "calories": 168,
+          "fat_g": 0,
+          "protein_g": 4,
+          "carbs_g": 32,
+          "cholesterol_mg": 0,
+          "sodium_mg": 268
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: quick-cooking grits"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 1/3 ingredients (33% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 274)"
         ]
       }
     },
@@ -120677,19 +120674,18 @@
         "IMG_5436 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 64,
-          "fat_g": 3.8,
-          "protein_g": 3.8,
-          "carbs_g": 3.7
+          "calories": 231,
+          "fat_g": 11,
+          "protein_g": 12,
+          "carbs_g": 20,
+          "cholesterol_mg": 72,
+          "sodium_mg": 447
         },
-        "missing_inputs": [
-          "Not in database: quick-cooking farina",
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 275)"
         ]
       }
     },
@@ -120785,19 +120781,18 @@
         "IMG_5436 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 89,
-          "fat_g": 2.2,
-          "protein_g": 2.3,
-          "carbs_g": 14.7
+          "calories": 226,
+          "fat_g": 7,
+          "protein_g": 6,
+          "carbs_g": 14,
+          "cholesterol_mg": 4,
+          "sodium_mg": 144
         },
-        "missing_inputs": [
-          "Not in database: chopped green or sweet red pepper",
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/9 ingredients (78% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 275)"
         ]
       }
     },
@@ -120942,22 +120937,18 @@
         "IMG_5442 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 179,
-          "fat_g": 1.1,
-          "protein_g": 1.2,
-          "carbs_g": 43.0
+          "calories": 537,
+          "fat_g": 18,
+          "protein_g": 5,
+          "carbs_g": 94,
+          "cholesterol_mg": 14,
+          "sodium_mg": 254
         },
-        "missing_inputs": [
-          "Not in database: mincemeat",
-          "Not in database: Pastry for Double-Crust Pie",
-          "Not in database: Hard Sauce"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for sugar",
-          "Based on 5/8 ingredients (62% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 281)"
         ]
       }
     },
@@ -121226,20 +121217,18 @@
         "IMG_5445 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 130,
-          "fat_g": 0.3,
-          "protein_g": 0.7,
-          "carbs_g": 33.5
+          "calories": 251,
+          "fat_g": 5,
+          "protein_g": 2,
+          "carbs_g": 52,
+          "cholesterol_mg": 0,
+          "sodium_mg": 67
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground allspice",
-          "Not in database: Pastry for Single-Crust Pie"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/6 ingredients (50% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 284)"
         ]
       }
     },
@@ -121328,19 +121317,18 @@
         "IMG_5445 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 72,
-          "fat_g": 3.8,
-          "protein_g": 2.4,
-          "carbs_g": 7.3
+          "calories": 365,
+          "fat_g": 20,
+          "protein_g": 4,
+          "carbs_g": 71,
+          "cholesterol_mg": 72,
+          "sodium_mg": 170
         },
-        "missing_inputs": [
-          "Not in database: Pastry for Single-Crust Pie",
-          "Not in database: canned peach slices, or unpeeled apricot halves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 284)"
         ]
       }
     },
@@ -121427,19 +121415,18 @@
         "IMG_5445 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 239,
-          "fat_g": 4.9,
-          "protein_g": 2.4,
-          "carbs_g": 50.9
+          "calories": 501,
+          "fat_g": 17,
+          "protein_g": 5,
+          "carbs_g": 85,
+          "cholesterol_mg": 0,
+          "sodium_mg": 143
         },
-        "missing_inputs": [
-          "Not in database: finely shredded orange peel",
-          "Not in database: Pastry for Double-Crust Pie"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 284)"
         ]
       }
     },
@@ -121542,21 +121529,18 @@
         "IMG_5446 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 216,
-          "fat_g": 11.5,
-          "protein_g": 1.6,
-          "carbs_g": 29.7
+          "calories": 261,
+          "fat_g": 9,
+          "protein_g": 3,
+          "carbs_g": 43,
+          "cholesterol_mg": 69,
+          "sodium_mg": 113
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: red food coloring",
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for whipped cream",
-          "Based on 4/7 ingredients (57% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 298)"
         ]
       }
     },
@@ -121640,20 +121624,18 @@
         "IMG_5446 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 142,
-          "fat_g": 0.2,
-          "protein_g": 0.8,
-          "carbs_g": 36.2
+          "calories": 404,
+          "fat_g": 14,
+          "protein_g": 4,
+          "carbs_g": 53,
+          "cholesterol_mg": 11,
+          "sodium_mg": 126
         },
-        "missing_inputs": [
-          "Not in database: almond extract",
-          "Not in database: red food coloring",
-          "Not in database: Pastry for Lattice-Top Pie"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/7 ingredients (57% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 285)"
         ]
       }
     },
@@ -121741,20 +121723,18 @@
         "IMG_5447 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 131,
-          "fat_g": 5.0,
-          "protein_g": 5.5,
-          "carbs_g": 16.5
+          "calories": 271,
+          "fat_g": 13,
+          "protein_g": 8,
+          "carbs_g": 31,
+          "cholesterol_mg": 143,
+          "sodium_mg": 174
         },
-        "missing_inputs": [
-          "Not in database: Pastry for Single-Crust Pie",
-          "Not in database: salt",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/7 ingredients (57% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 286)"
         ]
       }
     },
@@ -121846,19 +121826,18 @@
         "IMG_5447 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 191,
-          "fat_g": 3.2,
-          "protein_g": 3.1,
-          "carbs_g": 38.5
+          "calories": 388,
+          "fat_g": 15,
+          "protein_g": 5,
+          "carbs_g": 55,
+          "cholesterol_mg": 122,
+          "sodium_mg": 162
         },
-        "missing_inputs": [
-          "Not in database: Pastry for Single-Crust Pie",
-          "Not in database: finely shredded lemon peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 286)"
         ]
       }
     },
@@ -121957,20 +121936,18 @@
         "IMG_5447 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 127,
-          "fat_g": 3.9,
-          "protein_g": 4.1,
-          "carbs_g": 19.5
+          "calories": 259,
+          "fat_g": 10,
+          "protein_g": 6,
+          "carbs_g": 37,
+          "cholesterol_mg": 135,
+          "sodium_mg": 231
         },
-        "missing_inputs": [
-          "Not in database: canned pumpkin",
-          "Not in database: ground cinnamon",
-          "Not in database: ground ginger"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/9 ingredients (44% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 286)"
         ]
       }
     },
@@ -122060,19 +122037,18 @@
         "IMG_5448 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 103,
-          "fat_g": 2.3,
-          "protein_g": 2.2,
-          "carbs_g": 18.8
+          "calories": 508,
+          "fat_g": 28,
+          "protein_g": 6,
+          "carbs_g": 63,
+          "cholesterol_mg": 41,
+          "sodium_mg": 115
         },
-        "missing_inputs": [
-          "Not in database: pecan halves",
-          "Not in database: Pastry for Single-Crust Pie"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 287)"
         ]
       }
     },
@@ -122159,20 +122135,18 @@
         "IMG_5448 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 146,
-          "fat_g": 1.9,
-          "protein_g": 2.7,
-          "carbs_g": 30.1
+          "calories": 319,
+          "fat_g": 12,
+          "protein_g": 3,
+          "carbs_g": 48,
+          "cholesterol_mg": 222,
+          "sodium_mg": 144
         },
-        "missing_inputs": [
-          "Not in database: Pastry for Single-Crust Pie",
-          "Not in database: finely chopped rhubarb (1 pound) or one 16-ounce package frozen unsweetened sliced rhubarb",
-          "Not in database: Meringue for Pie"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/6 ingredients (50% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 287)"
         ]
       }
     },
@@ -122272,20 +122246,18 @@
         "IMG_5449 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 185,
-          "fat_g": 2.1,
-          "protein_g": 2.6,
-          "carbs_g": 40.1
+          "calories": 346,
+          "fat_g": 10,
+          "protein_g": 4,
+          "carbs_g": 62,
+          "cholesterol_mg": 151,
+          "sodium_mg": 93
         },
-        "missing_inputs": [
-          "Not in database: finely shredded lemon peel",
-          "Not in database: Baked Pastry Shell",
-          "Not in database: Meringue for Pie"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/9 ingredients (67% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 288)"
         ]
       }
     },
@@ -122373,20 +122345,18 @@
         "IMG_5449 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 242,
-          "fat_g": 7.8,
-          "protein_g": 7.5,
-          "carbs_g": 36.5
+          "calories": 388,
+          "fat_g": 94,
+          "protein_g": 5,
+          "carbs_g": 54,
+          "cholesterol_mg": 163,
+          "sodium_mg": 4
         },
-        "missing_inputs": [
-          "Not in database: finely shredded lime peel",
-          "Not in database: lime juice",
-          "Not in database: green food coloring"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/7 ingredients (29% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 288)"
         ]
       }
     },
@@ -122453,16 +122423,18 @@
         "IMG_5449 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 511,
-          "fat_g": 15.5,
-          "protein_g": 18.0,
-          "carbs_g": 76.2
+          "calories": 27,
+          "fat_g": 0,
+          "protein_g": 1,
+          "carbs_g": 7,
+          "cholesterol_mg": 0,
+          "sodium_mg": 8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 4/4 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 290)"
         ]
       }
     },
@@ -122560,19 +122532,18 @@
         "IMG_5450 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 189,
-          "fat_g": 6.2,
-          "protein_g": 7.2,
-          "carbs_g": 26.5
+          "calories": 378,
+          "fat_g": 14,
+          "protein_g": 8,
+          "carbs_g": 54,
+          "cholesterol_mg": 144,
+          "sodium_mg": 164
         },
-        "missing_inputs": [
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Four-Egg-White Meringue",
-          "Based on 7/8 ingredients (88% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 286)"
         ]
       }
     },
@@ -122653,20 +122624,18 @@
         "IMG_5450 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 45,
-          "fat_g": 1.5,
-          "protein_g": 1.6,
-          "carbs_g": 5.4
+          "calories": 503,
+          "fat_g": 13,
+          "protein_g": 4,
+          "carbs_g": 33,
+          "cholesterol_mg": 146,
+          "sodium_mg": 151
         },
-        "missing_inputs": [
-          "Not in database: light rum or brandy",
-          "Not in database: frozen whipped dessert topping",
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/6 ingredients (50% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 289)"
         ]
       }
     },
@@ -122788,21 +122757,18 @@
         "IMG_5451 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 291,
-          "fat_g": 17.8,
-          "protein_g": 6.9,
-          "carbs_g": 27.1
+          "calories": 339,
+          "fat_g": 18,
+          "protein_g": 9,
+          "carbs_g": 37,
+          "cholesterol_mg": 104,
+          "sodium_mg": 188
         },
-        "missing_inputs": [
-          "Not in database: rum or 1/2 teaspoon rum extract",
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for whipped cream",
-          "Assumed 1 unit for grated chocolate",
-          "Based on 10/12 ingredients (83% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 290)"
         ]
       }
     },
@@ -122890,20 +122856,18 @@
         "IMG_5451 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 214,
-          "fat_g": 13.5,
-          "protein_g": 4.4,
-          "carbs_g": 19.9
+          "calories": 315,
+          "fat_g": 17,
+          "protein_g": 7,
+          "carbs_g": 37,
+          "cholesterol_mg": 135,
+          "sodium_mg": 103
         },
-        "missing_inputs": [
-          "Not in database: finely shredded lemon peel",
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for whipped cream",
-          "Based on 5/7 ingredients (71% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 290)"
         ]
       }
     },
@@ -122998,19 +122962,18 @@
         "IMG_5451 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 219,
-          "fat_g": 13.8,
-          "protein_g": 4.4,
-          "carbs_g": 20.4
+          "calories": 349,
+          "fat_g": 19,
+          "protein_g": 8,
+          "carbs_g": 38,
+          "cholesterol_mg": 2,
+          "sodium_mg": 201
         },
-        "missing_inputs": [
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for whipped cream",
-          "Based on 6/7 ingredients (86% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 290)"
         ]
       }
     },
@@ -123069,19 +123032,18 @@
         "IMG_5451 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 132,
-          "fat_g": 8.6,
-          "protein_g": 12.8,
-          "carbs_g": 0.9
+          "calories": 303,
+          "fat_g": 14,
+          "protein_g": 4,
+          "carbs_g": 44,
+          "cholesterol_mg": 143,
+          "sodium_mg": 111
         },
-        "missing_inputs": [
-          "Not in database: frozen whipped dessert topping"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Baked Pastry Shell or Graham Cracker Crust",
-          "Based on 2/3 ingredients (67% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 290)"
         ]
       }
     },
@@ -123174,19 +123136,18 @@
         "IMG_5452 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 206,
-          "fat_g": 12.4,
-          "protein_g": 3.3,
-          "carbs_g": 22.1
+          "calories": 282,
+          "fat_g": 12,
+          "protein_g": 4,
+          "carbs_g": 41,
+          "cholesterol_mg": 56,
+          "sodium_mg": 196
         },
-        "missing_inputs": [
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for whipped cream",
-          "Based on 6/7 ingredients (86% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 291)"
         ]
       }
     },
@@ -123270,17 +123231,18 @@
         "IMG_5453 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 318,
-          "fat_g": 16.3,
-          "protein_g": 14.6,
-          "carbs_g": 29.4
+          "calories": 450,
+          "fat_g": 24,
+          "protein_g": 6,
+          "carbs_g": 69,
+          "cholesterol_mg": 35,
+          "sodium_mg": 197
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Graham Cracker Crust",
-          "Based on 7/7 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 292)"
         ]
       }
     },
@@ -123373,20 +123335,18 @@
         "IMG_5453 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 210,
-          "fat_g": 13.4,
-          "protein_g": 1.3,
-          "carbs_g": 22.3
+          "calories": 520,
+          "fat_g": 34,
+          "protein_g": 5,
+          "carbs_g": 50,
+          "cholesterol_mg": 27,
+          "sodium_mg": 120
         },
-        "missing_inputs": [
-          "Not in database: Baked Pastry Shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for whipped cream",
-          "Assumed 1 unit for chocolate curls",
-          "Based on 7/8 ingredients (88% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 292)"
         ]
       }
     },
@@ -123463,21 +123423,18 @@
         "IMG_5453 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 182,
-          "fat_g": 18.1,
-          "protein_g": 1.7,
-          "carbs_g": 4.2
+          "calories": 478,
+          "fat_g": 30,
+          "protein_g": 3,
+          "carbs_g": 14,
+          "cholesterol_mg": 89,
+          "sodium_mg": 186
         },
-        "missing_inputs": [
-          "Not in database: large marshmallows",
-          "Not in database: green cr\u00e8me de menthe",
-          "Not in database: white cr\u00e8me de cacao"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Chocolate-Wafer Crust",
-          "Based on 3/6 ingredients (50% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 292)"
         ]
       }
     },
@@ -123551,19 +123508,18 @@
         "IMG_5454 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 606,
-          "fat_g": 5.8,
-          "protein_g": 16.2,
-          "carbs_g": 118.8
+          "calories": 145,
+          "fat_g": 9,
+          "protein_g": 2,
+          "carbs_g": 14,
+          "cholesterol_mg": 0,
+          "sodium_mg": 67
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: cold water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/4 ingredients (50% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 293)"
         ]
       }
     },
@@ -123640,19 +123596,18 @@
         "IMG_5455 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 493,
-          "fat_g": 5.5,
-          "protein_g": 13.0,
-          "carbs_g": 95.0
+          "calories": 256,
+          "fat_g": 17,
+          "protein_g": 3,
+          "carbs_g": 25,
+          "cholesterol_mg": 0,
+          "sodium_mg": 136
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: cold water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/4 ingredients (50% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 294)"
         ]
       }
     },
@@ -123722,18 +123677,18 @@
         "IMG_5455 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 627,
-          "fat_g": 6.5,
-          "protein_g": 17.8,
-          "carbs_g": 121.0
+          "calories": 145,
+          "fat_g": 9,
+          "protein_g": 2,
+          "carbs_g": 13,
+          "cholesterol_mg": 0,
+          "sodium_mg": 85
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 294)"
         ]
       }
     },
@@ -123803,16 +123758,18 @@
         "IMG_5455 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 1044,
-          "fat_g": 35.4,
-          "protein_g": 125.0,
-          "carbs_g": 55.0
+          "calories": 181,
+          "fat_g": 10,
+          "protein_g": 1,
+          "carbs_g": 14,
+          "cholesterol_mg": 21,
+          "sodium_mg": 61
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 3/3 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 294)"
         ]
       }
     },
@@ -123867,16 +123824,18 @@
         "IMG_5455 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 585,
-          "fat_g": 56.1,
-          "protein_g": 6.0,
-          "carbs_g": 24.0
+          "calories": 294,
+          "fat_g": 15,
+          "protein_g": 4,
+          "carbs_g": 24,
+          "cholesterol_mg": 175,
+          "sodium_mg": 106
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 2/2 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 294)"
         ]
       }
     },
@@ -124079,20 +124038,18 @@
         "IMG_5461 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 252,
-          "fat_g": 14.3,
-          "protein_g": 28.7,
-          "carbs_g": 0.0
+          "calories": 161,
+          "fat_g": 7,
+          "protein_g": 24,
+          "carbs_g": 0,
+          "cholesterol_mg": 73,
+          "sodium_mg": 93
         },
-        "missing_inputs": [
-          "Not in database: lime juice",
-          "Not in database: coarsely cracked pepper",
-          "Not in database: paprika"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/5 ingredients (40% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 300)"
         ]
       }
     },
@@ -124170,19 +124127,18 @@
         "IMG_5461 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 256,
-          "fat_g": 14.4,
-          "protein_g": 28.8,
-          "carbs_g": 0.5
+          "calories": 170,
+          "fat_g": 7,
+          "protein_g": 24,
+          "carbs_g": 0,
+          "cholesterol_mg": 73,
+          "sodium_mg": 103
         },
-        "missing_inputs": [
-          "Not in database: dried basil or tarragon, crushed",
-          "Not in database: dried thyme, crushed"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/6 ingredients (67% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 300)"
         ]
       }
     },
@@ -124254,16 +124210,18 @@
         "IMG_5462 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 281,
-          "fat_g": 14.0,
-          "protein_g": 28.8,
-          "carbs_g": 8.2
+          "calories": 304,
+          "fat_g": 6,
+          "protein_g": 25,
+          "carbs_g": 35,
+          "cholesterol_mg": 73,
+          "sodium_mg": 245
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 5/5 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 301)"
         ]
       }
     },
@@ -124340,18 +124298,18 @@
         "IMG_5462 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 156,
-          "fat_g": 2.7,
-          "protein_g": 19.2,
-          "carbs_g": 15.9
+          "calories": 419,
+          "fat_g": 24,
+          "protein_g": 39,
+          "carbs_g": 11,
+          "cholesterol_mg": 197,
+          "sodium_mg": 340
         },
-        "missing_inputs": [
-          "Not in database: lime juice"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 301)"
         ]
       }
     },
@@ -124423,20 +124381,18 @@
         "IMG_5463 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 4,
-          "fat_g": 0.0,
-          "protein_g": 0.1,
-          "carbs_g": 0.8
+          "calories": 257,
+          "fat_g": 8,
+          "protein_g": 27,
+          "carbs_g": 19,
+          "cholesterol_mg": 71,
+          "sodium_mg": 331
         },
-        "missing_inputs": [
-          "Not in database: turkey breast tenderloin steaks",
-          "Not in database: cranberry-orange relish or whole cranberry sauce",
-          "Not in database: ground ginger"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/5 ingredients (40% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 302)"
         ]
       }
     },
@@ -124523,19 +124479,18 @@
         "IMG_5464 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 307,
-          "fat_g": 15.1,
-          "protein_g": 30.5,
-          "carbs_g": 9.8
+          "calories": 266,
+          "fat_g": 14,
+          "protein_g": 25,
+          "carbs_g": 10,
+          "cholesterol_mg": 73,
+          "sodium_mg": 296
         },
-        "missing_inputs": [
-          "Not in database: dried thyme or sage, crushed",
-          "Not in database: paprika"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/6 ingredients (67% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 303)"
         ]
       }
     },
@@ -124615,18 +124570,18 @@
         "IMG_5464 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 185,
-          "fat_g": 4.2,
-          "protein_g": 25.1,
-          "carbs_g": 9.8
+          "calories": 365,
+          "fat_g": 18,
+          "protein_g": 29,
+          "carbs_g": 12,
+          "cholesterol_mg": 19,
+          "sodium_mg": 219
         },
-        "missing_inputs": [
-          "Not in database: dried basil, oregano, or thyme, crushed"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 303)"
         ]
       }
     },
@@ -124717,19 +124672,18 @@
         "IMG_5467 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 439,
-          "fat_g": 26.6,
-          "protein_g": 37.0,
-          "carbs_g": 11.2
+          "calories": 306,
+          "fat_g": 7,
+          "protein_g": 30,
+          "carbs_g": 31,
+          "cholesterol_mg": 94,
+          "sodium_mg": 368
         },
-        "missing_inputs": [
-          "Not in database: lemon-pepper seasoning"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for light cream or milk",
-          "Based on 7/8 ingredients (88% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 304)"
         ]
       }
     },
@@ -124836,18 +124790,18 @@
         "IMG_5467 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 335,
-          "fat_g": 8.3,
-          "protein_g": 49.8,
-          "carbs_g": 11.4
+          "calories": 266,
+          "fat_g": 30,
+          "protein_g": 28,
+          "carbs_g": 8,
+          "cholesterol_mg": 12,
+          "sodium_mg": 266
         },
-        "missing_inputs": [
-          "Not in database: snipped parsley"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 304)"
         ]
       }
     },
@@ -124972,20 +124926,18 @@
         "IMG_5468 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 1116,
-          "fat_g": 46.9,
-          "protein_g": 156.4,
-          "carbs_g": 12.7
+          "calories": 478,
+          "fat_g": 26,
+          "protein_g": 26,
+          "carbs_g": 25,
+          "cholesterol_mg": 72,
+          "sodium_mg": 694
         },
-        "missing_inputs": [
-          "Not in database: paprika",
-          "Not in database: ground nutmeg",
-          "Not in database: hot cooked noodles"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/13 ingredients (77% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 305)"
         ]
       }
     },
@@ -125073,19 +125025,18 @@
         "IMG_5469 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 430,
-          "fat_g": 14.0,
-          "protein_g": 64.0,
-          "carbs_g": 6.9
+          "calories": 505,
+          "fat_g": 24,
+          "protein_g": 43,
+          "carbs_g": 35,
+          "cholesterol_mg": 90,
+          "sodium_mg": 199
         },
-        "missing_inputs": [
-          "Not in database: dried marjoram, crushed",
-          "Not in database: dry marsala or dry sherry"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 306)"
         ]
       }
     },
@@ -125160,16 +125111,18 @@
         "IMG_5470 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 271,
-          "fat_g": 14.3,
-          "protein_g": 29.2,
-          "carbs_g": 4.0
+          "calories": 215,
+          "fat_g": 11,
+          "protein_g": 24,
+          "carbs_g": 4,
+          "cholesterol_mg": 73,
+          "sodium_mg": 251
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 4/4 ingredients (100% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 307)"
         ]
       }
     },
@@ -125269,20 +125222,18 @@
         "IMG_5471 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 523,
-          "fat_g": 6.2,
-          "protein_g": 54.0,
-          "carbs_g": 62.5
+          "calories": 365,
+          "fat_g": 10,
+          "protein_g": 31,
+          "carbs_g": 35,
+          "cholesterol_mg": 72,
+          "sodium_mg": 583
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: dry sherry or dry white wine",
-          "Not in database: sliced water chestnuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/8 ingredients (62% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 308)"
         ]
       }
     },
@@ -125399,20 +125350,18 @@
         "IMG_5471 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 461,
-          "fat_g": 15.6,
-          "protein_g": 50.8,
-          "carbs_g": 26.7
+          "calories": 403,
+          "fat_g": 72,
+          "protein_g": 27,
+          "carbs_g": 29,
+          "cholesterol_mg": 840,
+          "sodium_mg": 593
         },
-        "missing_inputs": [
-          "Not in database: dry sherry",
-          "Not in database: crushed red pepper",
-          "Not in database: medium green peppers"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/11 ingredients (64% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 308)"
         ]
       }
     },
@@ -125530,20 +125479,18 @@
         "IMG_5472 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 420,
-          "fat_g": 6.4,
-          "protein_g": 50.5,
-          "carbs_g": 37.3
+          "calories": 379,
+          "fat_g": 12,
+          "protein_g": 31,
+          "carbs_g": 35,
+          "cholesterol_mg": 72,
+          "sodium_mg": 618
         },
-        "missing_inputs": [
-          "Not in database: dry sherry",
-          "Not in database: hoisin sauce or bean sauce",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/13 ingredients (62% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 309)"
         ]
       }
     },
@@ -125677,20 +125624,18 @@
         "IMG_5475 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 441,
-          "fat_g": 24.9,
-          "protein_g": 44.4,
-          "carbs_g": 6.4
+          "calories": 399,
+          "fat_g": 12,
+          "protein_g": 25,
+          "carbs_g": 31,
+          "cholesterol_mg": 6,
+          "sodium_mg": 533
         },
-        "missing_inputs": [
-          "Not in database: paprika",
-          "Not in database: salt",
-          "Not in database: pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/14 ingredients (64% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 312)"
         ]
       }
     },
@@ -125792,19 +125737,18 @@
         "IMG_5475 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 508,
-          "fat_g": 27.1,
-          "protein_g": 42.2,
-          "carbs_g": 20.8
+          "calories": 633,
+          "fat_g": 10,
+          "protein_g": 30,
+          "carbs_g": 8,
+          "cholesterol_mg": 33,
+          "sodium_mg": 517
         },
-        "missing_inputs": [
-          "Not in database: paprika",
-          "Not in database: dry white wine"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/9 ingredients (78% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 312)"
         ]
       }
     },
@@ -125924,20 +125868,18 @@
         "IMG_5476 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 338,
-          "fat_g": 17.8,
-          "protein_g": 37.1,
-          "carbs_g": 5.3
+          "calories": 597,
+          "fat_g": 25,
+          "protein_g": 27,
+          "carbs_g": 21,
+          "cholesterol_mg": 15,
+          "sodium_mg": 479
         },
-        "missing_inputs": [
-          "Not in database: dry white wine",
-          "Not in database: dried basil, crushed",
-          "Not in database: bay leaf"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/13 ingredients (69% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 313)"
         ]
       }
     },
@@ -126073,20 +126015,18 @@
         "IMG_5476 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 426,
-          "fat_g": 16.7,
-          "protein_g": 35.0,
-          "carbs_g": 34.7
+          "calories": 208,
+          "fat_g": 17,
+          "protein_g": 27,
+          "carbs_g": 21,
+          "cholesterol_mg": 94,
+          "sodium_mg": 442
         },
-        "missing_inputs": [
-          "Not in database: burgundy",
-          "Not in database: snipped parsley",
-          "Not in database: dried marjoram, crushed"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/15 ingredients (60% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 313)"
         ]
       }
     },
@@ -126222,22 +126162,18 @@
         "IMG_5480 Large.jpeg"
       ],
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "per_serving": {
-          "calories": 949,
-          "fat_g": 56.1,
-          "protein_g": 91.0,
-          "carbs_g": 15.1
+          "calories": 308,
+          "fat_g": 9,
+          "protein_g": 29,
+          "carbs_g": 20,
+          "cholesterol_mg": 2,
+          "sodium_mg": 558
         },
-        "missing_inputs": [
-          "Not in database: 6-inch tortillas",
-          "Not in database: ground coriander",
-          "Not in database: pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for chopped tomatoes",
-          "Assumed 1 unit for sliced green onions",
-          "Based on 10/15 ingredients (67% coverage)"
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 317)"
         ]
       }
     }
