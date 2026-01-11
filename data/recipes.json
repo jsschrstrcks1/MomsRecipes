@@ -104470,7 +104470,709 @@
       "nutrition": {
         "status": "insufficient_data"
       }
+    },
+    {
+      "id": "pasta-rice-grains-nutrition-analysis",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pasta, Rice, and Grains Nutrition Analysis",
+      "category": "reference",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 262",
+      "description": "Comprehensive nutrition analysis table for pasta, rice, and grain recipes.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [
+        {"step": 1, "text": "This reference table provides per-serving nutrition data and percent U.S. RDA for all pasta, rice, and grain recipes in this chapter."},
+        {"step": 2, "text": "Columns include: Servings Per Recipe, Calories, Protein (g), Carbohydrate (g), Fat (g), Cholesterol (mg), Sodium (mg), Potassium (mg), and Percent U.S. RDA for Protein, Vitamin A, Vitamin C, Thiamine, Riboflavin, Niacin, Calcium, Iron."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": ["Reference chart for meal planning and dietary needs"],
+      "tags": ["reference", "nutrition", "pasta", "rice", "grains"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5423 Large.jpeg"]
+    },
+    {
+      "id": "spaetzle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spaetzle",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 263",
+      "description": "Serve spaetzle (SHPETS-luh) with sauces or in soups as you would noodles. Or serve it with sauerbraten, the traditional German way.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "salt", "quantity": "1/8", "unit": "tsp", "prep_note": ""},
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "milk", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "fine dry bread crumbs", "quantity": "3", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large saucepan or Dutch oven bring about 3 quarts lightly salted water to boiling."},
+        {"step": 2, "text": "Meanwhile, for spaetzle batter, in a bowl stir together flour and salt. In another bowl stir together egg and milk. Stir egg mixture into the flour mixture."},
+        {"step": 3, "text": "Set a colander with large holes (at least 3/16-inch diameter) on a large piece of waxed paper."},
+        {"step": 4, "text": "Pour the spaetzle batter into the colander. Immediately hold the colander over the pan of boiling water; press the batter through the colander with a wooden spoon to form the spaetzle. Cook about 5 minutes or till done, stirring occasionally. Drain well."},
+        {"step": 5, "text": "Melt margarine or butter; toss with bread crumbs. Sprinkle crumb mixture over the hot spaetzle."}
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan or Dutch oven",
+      "notes": [
+        "Whole Wheat Spaetzle: Prepare as above, except reduce all-purpose flour to 1/2 cup and add 1/2 cup whole wheat flour.",
+        "Pesto Spaetzle: Prepare as above, except omit margarine and crumbs. Toss hot cooked spaetzle with 1 portion (about 1/4 cup) Pesto for Pasta (see recipe, page 269)."
+      ],
+      "tags": ["spaetzle", "german", "noodles", "side-dish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5424 Large.jpeg"]
+    },
+    {
+      "id": "homemade-pasta",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Pasta",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 266",
+      "description": "In recipes that call for packaged pasta, substitute half of this recipe for each 4 ounces of the packaged product.",
+      "servings_yield": "1 pound fresh pasta (8 servings)",
+      "prep_time": "45 minutes",
+      "cook_time": "varies",
+      "total_time": "varies",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2 1/2", "unit": "cups", "prep_note": ""},
+        {"item": "salt", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "eggs", "quantity": "2", "unit": "", "prep_note": "beaten"},
+        {"item": "water", "quantity": "1/3", "unit": "cup", "prep_note": ""},
+        {"item": "cooking oil or olive oil", "quantity": "1", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large mixing bowl stir together 2 cups of the flour and the salt. Make a well in the center of the mixture. In a bowl combine eggs, water, and oil. Add to flour mixture; mix well."},
+        {"step": 2, "text": "Sprinkle kneading surface with the remaining flour. Turn dough out onto floured surface. Knead till dough is smooth and elastic (8 to 10 minutes). Cover and let rest for 10 minutes."},
+        {"step": 3, "text": "Divide dough into fourths. On a lightly floured surface, roll each fourth into a 12x12-inch square (about 1/16 inch thick). Let stand 20 minutes. Cut as desired."},
+        {"step": 4, "text": "Or, if using a pasta machine, pass dough through machine according to manufacturer's directions till 1/16 inch thick. Cut as desired."},
+        {"step": 5, "text": "Cook pasta (see chart, page 278), allowing a few more minutes for dried or frozen pasta. Drain well."},
+        {"step": 6, "text": "To store: After cutting and shaping the pasta, hang it from a pasta drying rack or clothes hanger, or spread it on a wire cooling rack. Let dry overnight or till completely dry. Place in an airtight container and refrigerate for up to 3 days. Or, dry the pasta for at least 1 hour. Seal it in a freezer bag or freezer container. Freeze for up to 8 months."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Whole Wheat Pasta: Prepare as above, except substitute whole wheat flour for the all-purpose flour.",
+        "Spinach Pasta: Prepare as above, except increase all-purpose flour to 2 3/4 cups, reduce water to 1/4 cup, and add 1/4 cup very finely chopped cooked spinach, well drained, to the egg mixture. Makes 1 1/4 pounds fresh pasta (10 servings).",
+        "Herb Pasta: Prepare as above, except add 1 teaspoon dried basil, marjoram, or sage, crushed, to flour mixture.",
+        "Egg Noodles: Prepare as above, except substitute 1 egg plus 2 egg yolks for the 2 eggs. Reduce flour to 1 3/4 cups in flour mixture and 1/4 cup for kneading. Cut dough into 1/4-inch-wide strips, then cut into 2- to 3-inch lengths."
+      ],
+      "tags": ["pasta", "homemade", "from-scratch", "noodles"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5427 Large.jpeg"]
+    },
+    {
+      "id": "herb-buttered-pasta",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herb-Buttered Pasta",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 267",
+      "description": "Simple herb-tossed pasta that makes a delicious side dish.",
+      "servings_yield": "4 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {"item": "packaged spaghetti, linguine, or fettuccine", "quantity": "4", "unit": "oz", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp", "prep_note": "cut up"},
+        {"item": "dried basil, oregano, thyme, or marjoram, crushed; dried dillweed; or caraway seed", "quantity": "1/2", "unit": "tsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook pasta (see chart, page 278). Drain well."},
+        {"step": 2, "text": "Return to hot saucepan. Add margarine and desired herb. Toss gently till pasta is well coated."},
+        {"step": 3, "text": "Season to taste with salt and pepper. Serves 4."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Lemon-Chive Pasta: Prepare as above, except omit herb and add 1/4 cup snipped chives and 1 teaspoon finely shredded lemon peel with margarine or butter.",
+        "Nutty Cheese Pasta: Prepare as above, except omit herb and add 1/2 cup chopped walnuts, pecans, or almonds and 2 tablespoons grated Parmesan or Romano cheese with margarine."
+      ],
+      "tags": ["pasta", "herb", "side-dish", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5428 Large.jpeg"]
+    },
+    {
+      "id": "pasta-primavera",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pasta Primavera",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 268",
+      "description": "A colorful vegetable pasta dish with a light cream sauce.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {"item": "packaged linguine or fettuccine", "quantity": "6", "unit": "oz", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "medium onion", "quantity": "1", "unit": "", "prep_note": "cut into thin wedges"},
+        {"item": "garlic cloves", "quantity": "5", "unit": "", "prep_note": "minced"},
+        {"item": "fresh broccoli", "quantity": "1/4", "unit": "cup", "prep_note": "chopped"},
+        {"item": "white wine or water", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "fresh or frozen pea pods", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "dried thyme, crushed", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook pasta (see chart, page 278). Drain well."},
+        {"step": 2, "text": "Meanwhile, in a large skillet melt 2 tablespoons of the margarine. Cook and stir broccoli, onion, and garlic in butter over medium-high heat for 3 minutes. Stir in wine. Cook and stir over medium-high heat about 2 minutes more or till broccoli is crisp-tender."},
+        {"step": 3, "text": "Stir in pea pods and thyme. Cook and stir 1 minute. Transfer to a serving plate. Sprinkle with cheese."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Ham Pasta Primavera: Prepare as above, except stir 1 cup fully cooked cubed ham or turkey ham into vegetable mixture with the pea pods. Sprinkle with more Parmesan if desired. Makes 8 servings."
+      ],
+      "tags": ["pasta", "vegetables", "primavera", "vegetarian"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5429 Large.jpeg"]
+    },
+    {
+      "id": "fettuccine-with-marinara-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fettuccine with Marinara Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 268",
+      "description": "Classic fettuccine with a rich tomato marinara sauce.",
+      "servings_yield": "8 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "garlic cloves", "quantity": "2", "unit": "", "prep_note": "minced"},
+        {"item": "olive oil or cooking oil", "quantity": "2", "unit": "tbsp", "prep_note": ""},
+        {"item": "canned tomatoes", "quantity": "28", "unit": "oz", "prep_note": "cut up"},
+        {"item": "tomato paste", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "dried oregano, crushed", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "sugar", "quantity": "1/2", "unit": "tsp", "prep_note": ""},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "packaged fettuccine", "quantity": "8", "unit": "oz", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For marinara sauce, in a medium saucepan cook onion and garlic in oil till tender but not brown. Stir in undrained tomatoes, tomato paste, oregano, sugar, and salt."},
+        {"step": 2, "text": "Bring to boiling; reduce heat. Simmer, uncovered, about 30 minutes or till desired consistency."},
+        {"step": 3, "text": "Meanwhile, cook pasta (see chart, page 278). Drain well. Serve with marinara sauce. Serves 8."}
+      ],
+      "temperature": "",
+      "pan_size": "medium saucepan",
+      "notes": [],
+      "tags": ["pasta", "marinara", "italian", "tomato-sauce"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5429 Large.jpeg"]
+    },
+    {
+      "id": "pasta-with-carbonara-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pasta with Carbonara Sauce",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 268",
+      "description": "Bits of bacon highlight the cheesy, creamy sauce.",
+      "servings_yield": "3 or 4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "egg", "quantity": "1", "unit": "", "prep_note": ""},
+        {"item": "cream, half-and-half, or whipping cream", "quantity": "1", "unit": "tbsp", "prep_note": "light"},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp", "prep_note": ""},
+        {"item": "bacon", "quantity": "4", "unit": "slices", "prep_note": "cut into 1-inch pieces"},
+        {"item": "packaged fettuccine or spaghetti", "quantity": "4", "unit": "oz", "prep_note": ""},
+        {"item": "grated Parmesan or Romano cheese", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Let egg, cream, and margarine or butter stand at room temperature for 1 hour. Cook bacon on paper towels till crisp. Drain well. Return pasta to saucepan and place over low heat."},
+        {"step": 2, "text": "Meanwhile, cook pasta (see chart, page 278). Drain well. Return pasta to saucepan and place over low heat. Toss margarine with pasta. Beat together egg and cream; pour over hot pasta. Toss gently till pasta is well coated. Add bacon, cheese, and parsley; toss to mix. Season with coarsely ground pepper. Transfer to a warm serving dish. Serves 3 or 4."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [],
+      "tags": ["pasta", "carbonara", "bacon", "italian", "cream-sauce"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5429 Large.jpeg"]
+    },
+    {
+      "id": "pesto-for-pasta",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pesto for Pasta",
+      "category": "sauces",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 269",
+      "description": "Fresh basil pesto sauce perfect for tossing with hot pasta.",
+      "servings_yield": "4 portions (about 1 cup)",
+      "prep_time": "15 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {"item": "firmly packed fresh basil leaves", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "grated Parmesan or Romano cheese", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "pine nuts, walnuts, or almonds", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "olive oil or cooking oil", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "garlic clove", "quantity": "1", "unit": "", "prep_note": "quartered"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a blender container or food processor bowl combine basil, Parmesan or Romano cheese, nuts, oil, and garlic. Cover and blend or process till the mixture is nearly smooth, stopping machine occasionally to scrape down sides."},
+        {"step": 2, "text": "Divide pesto into 4 portions. Serve 1 portion at a time over 4 ounces hot cooked pasta. (For remaining pesto, place each portion in an airtight container and chill for 1 to 2 days. Or, freeze for up to 1 month.)"}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Spinach Pesto for Pasta: Prepare as above, except use 1/2 cup torn fresh spinach and 1/2 cup firmly packed fresh basil leaves instead of 1 cup basil."
+      ],
+      "tags": ["pesto", "sauce", "basil", "italian"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5430 Large.jpeg"]
+    },
+    {
+      "id": "couscous-and-tomatoes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Couscous and Tomatoes",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 269",
+      "description": "Try quick-cooking rice in place of the couscous.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {"item": "canned stewed tomatoes", "quantity": "14.5", "unit": "oz", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "ground red pepper", "quantity": "1/8 to 1/4", "unit": "tsp", "prep_note": ""},
+        {"item": "garlic powder", "quantity": "1/8", "unit": "tsp", "prep_note": ""},
+        {"item": "sliced pitted ripe olives", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "snipped parsley", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "couscous", "quantity": "3/4", "unit": "cup", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan combine undrained stewed tomatoes, onion, pepper, garlic powder. Bring to boiling. Stir in couscous; remove from heat. Let stand 5 minutes. Stir in olives and parsley. Serves 4."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [],
+      "tags": ["couscous", "tomatoes", "side-dish", "quick"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5430 Large.jpeg"]
+    },
+    {
+      "id": "fettuccine-alfredo",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fettuccine Alfredo",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 270",
+      "description": "Classic creamy Alfredo sauce tossed with fettuccine.",
+      "servings_yield": "8 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "packaged fettuccine", "quantity": "8", "unit": "oz", "prep_note": ""},
+        {"item": "light cream or whipping cream", "quantity": "3", "unit": "tbsp", "prep_note": ""},
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "3/4", "unit": "cup", "prep_note": ""},
+        {"item": "ground nutmeg", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Let cream come to room temperature. Drain pasta well. Return to hot saucepan. Add cream, margarine or butter. Toss gently till pasta is well coated."},
+        {"step": 2, "text": "Add Parmesan cheese; toss to combine. Transfer to a warm serving dish. Sprinkle with pepper and nutmeg. Serve immediately. Makes 8 servings."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Fettuccine Alfredo with Mushrooms: Prepare as above, except cook 1 1/2 cups sliced fresh mushrooms and 1 clove garlic, minced, in the margarine or butter till tender. Add to drained pasta with cream and Parmesan cheese."
+      ],
+      "tags": ["pasta", "alfredo", "cream-sauce", "italian"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5431 Large.jpeg"]
+    },
+    {
+      "id": "potluck-pasta",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Potluck Pasta",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 270",
+      "description": "Transform this side dish into a main dish just by adding tuna, ham, or chicken or turkey.",
+      "servings_yield": "10 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "55 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {"item": "large macaroni shells, rotini, or elbow macaroni", "quantity": "2", "unit": "cups", "prep_note": ""},
+        {"item": "frozen chopped broccoli", "quantity": "10", "unit": "oz", "prep_note": ""},
+        {"item": "chopped onion", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "cream of chicken or cream of mushroom soup", "quantity": "10.75", "unit": "oz", "prep_note": "condensed"},
+        {"item": "shredded cheddar cheese", "quantity": "1", "unit": "cup", "prep_note": ""},
+        {"item": "milk", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "shredded carrot", "quantity": "1/2", "unit": "cup", "prep_note": ""},
+        {"item": "dried oregano or basil, crushed", "quantity": "1", "unit": "tsp", "prep_note": ""},
+        {"item": "pepper", "quantity": "1/8", "unit": "tsp", "prep_note": ""},
+        {"item": "grated Parmesan cheese", "quantity": "2", "unit": "tbsp", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large saucepan cook pasta (see chart, page 278); adding frozen vegetable and onion the last 6 minutes. Drain in a colander."},
+        {"step": 2, "text": "In the same saucepan stir together condensed soup, sour cream, cheddar cheese, milk, carrot, oregano or basil, and pepper. Cook and stir over medium heat till bubbly and cheddar cheese is melted. Add pasta mixture; toss to coat. Transfer to a 2-quart casserole."},
+        {"step": 3, "text": "Bake, covered, in a 350° oven about 55 minutes or till heated through."},
+        {"step": 4, "text": "To make ahead: Prepare as above, except transfer mixture to a 2-quart casserole. Sprinkle with Parmesan cheese. Cover and chill for 3 to 24 hours. To serve, bake, covered, in a 350° oven about 55 minutes or till heated through."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "2-quart casserole",
+      "notes": [],
+      "tags": ["pasta", "casserole", "potluck", "make-ahead"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5431 Large.jpeg"]
+    },
+    {
+      "id": "rice-mold",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice Mold",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 272",
+      "description": "Plain or perked up, rice shaped into a mold turns an ordinary meal into special dinner.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "15-35 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "water or chicken broth", "quantity": "1 1/2", "unit": "cups"},
+        {"item": "long grain rice or brown rice", "quantity": "3/4", "unit": "cup"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan combine water or broth, rice, and salt. Bring to boiling; reduce heat. Cover and simmer about 15 minutes for long grain rice (35 minutes for brown rice) or till rice is tender and liquid is absorbed."},
+        {"step": 2, "text": "Press hot rice into a buttered 3-cup mold or bowl. Unmold at once. Makes 4 servings."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan, 3-cup mold",
+      "notes": [
+        "Parsley Rice Mold: Stir 1/4 cup snipped parsley into cooked rice.",
+        "Confetti Rice Mold: Stir in 1/2 cup frozen mixed vegetables and 1/4 teaspoon dried dillweed with the uncooked rice.",
+        "Peppery Rice Mold: Stir in one 4-ounce can diced green chili peppers, drained, and 1/8 teaspoon ground red pepper with the uncooked rice."
+      ],
+      "tags": ["rice", "mold", "side-dish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5433 Large.jpeg"]
+    },
+    {
+      "id": "risotto",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Risotto",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 272",
+      "description": "Parmesan flavors this creamy rice dish.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "sliced fresh mushrooms", "quantity": "1", "unit": "cup"},
+        {"item": "long grain rice", "quantity": "1/2", "unit": "cup"},
+        {"item": "chopped green pepper", "quantity": "1/4", "unit": "cup"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp"},
+        {"item": "chicken broth", "quantity": "1", "unit": "cup"},
+        {"item": "water", "quantity": "1/2", "unit": "cup"},
+        {"item": "dry sherry", "quantity": "1/4", "unit": "cup"},
+        {"item": "dried sage, crushed", "quantity": "1", "unit": "tsp"},
+        {"item": "grated Parmesan cheese", "quantity": "2", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan cook mushrooms, rice, and green pepper in margarine till green pepper is tender. Remove from heat."},
+        {"step": 2, "text": "Stir in broth, water, sherry, sage, and 1/4 teaspoon pepper. Bring to boiling; reduce heat. Cover and simmer about 15 minutes or till tender."},
+        {"step": 3, "text": "Remove from heat. Let stand, covered, for 5 minutes. Fluff with a fork. Sprinkle with Parmesan cheese. Serves 4."}
+      ],
+      "temperature": "",
+      "pan_size": "medium saucepan",
+      "notes": [],
+      "tags": ["risotto", "rice", "italian", "mushroom"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5433 Large.jpeg"]
+    },
+    {
+      "id": "spanish-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spanish Rice",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 272",
+      "description": "Classic tomato-flavored rice with peppers and onion.",
+      "servings_yield": "6 to 8 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        {"item": "chopped onion", "quantity": "1/2", "unit": "cup"},
+        {"item": "chopped green pepper", "quantity": "1/2", "unit": "cup"},
+        {"item": "garlic clove", "quantity": "1", "unit": "", "prep_note": "minced"},
+        {"item": "cooking oil", "quantity": "1", "unit": "tbsp"},
+        {"item": "canned tomatoes", "quantity": "28", "unit": "oz", "prep_note": "cut up"},
+        {"item": "long grain rice", "quantity": "3/4", "unit": "cup"},
+        {"item": "sugar", "quantity": "1", "unit": "tsp"},
+        {"item": "chili powder", "quantity": "1", "unit": "tsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large skillet cook onion, green pepper, and garlic in oil till tender but not brown."},
+        {"step": 2, "text": "Stir in undrained tomatoes, rice, sugar, chili powder, 1/8 teaspoon pepper, several dashes hot pepper sauce, and 1 cup water. Bring to boiling; reduce heat. Cover and simmer for 20 to 25 minutes or till rice is tender and most of the liquid is absorbed. Sprinkle with shredded cheddar cheese, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Mexican Rice: Omit onion, green pepper, garlic, and cooking oil. Substitute stewed tomatoes for canned tomatoes. Stir in one 4-ounce can diced green chili peppers, drained, and 1 tablespoon Worcestershire sauce."
+      ],
+      "tags": ["spanish-rice", "rice", "tomato", "mexican"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5433 Large.jpeg"]
+    },
+    {
+      "id": "rice-pilaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice Pilaf",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 273",
+      "description": "Add a nutty flavor to the rice by browning it lightly in margarine or butter before beginning the recipe.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup"},
+        {"item": "sliced fresh mushrooms", "quantity": "1/4", "unit": "cup"},
+        {"item": "chopped celery or green pepper", "quantity": "1/4", "unit": "cup"},
+        {"item": "garlic clove", "quantity": "1", "unit": "", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp"},
+        {"item": "long grain rice", "quantity": "3/4", "unit": "cup"},
+        {"item": "instant chicken or beef bouillon granules", "quantity": "1 1/2", "unit": "tsp"},
+        {"item": "bacon", "quantity": "2", "unit": "slices", "prep_note": "crisp-cooked and crumbled"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan cook onion, mushrooms, celery or green pepper, and garlic in margarine till tender but not brown."},
+        {"step": 2, "text": "Stir in rice, bouillon granules, 1/4 teaspoon pepper, and 1 1/2 cups water. Bring to boiling; reduce heat. Cover and simmer about 15 minutes or till rice is tender and liquid is absorbed. Stir in crumbled bacon."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Curried Rice Pilaf: Omit mushrooms and add 1/4 to 1 teaspoon curry powder with onion. Stir in 1/2 cup raisins with rice.",
+        "Brown and Wild Rice Pilaf: Substitute 1/2 cup brown rice and 1/4 cup wild rice for the long grain rice. Cook rice mixture about 40 minutes.",
+        "Bulgur Pilaf: Substitute bulgur for the long grain rice."
+      ],
+      "tags": ["rice", "pilaf", "side-dish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5434 Large.jpeg"]
+    },
+    {
+      "id": "fried-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Rice",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 273",
+      "description": "Asian-style fried rice with ham and vegetables.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp"},
+        {"item": "beaten eggs", "quantity": "2", "unit": ""},
+        {"item": "diced fully cooked ham", "quantity": "1/2", "unit": "cup"},
+        {"item": "finely chopped fresh mushrooms", "quantity": "1/4", "unit": "cup"},
+        {"item": "thinly sliced green onion", "quantity": "1/4", "unit": "cup"},
+        {"item": "unsalted cooked rice", "quantity": "3", "unit": "cups", "prep_note": "chilled"},
+        {"item": "chopped Chinese cabbage", "quantity": "1", "unit": "cup"},
+        {"item": "soy sauce", "quantity": "2", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a large skillet heat 2 tablespoons of the oil over medium heat. Add eggs and cook without stirring till set. Loosen eggs and invert skillet over cutting board; cut into short, narrow strips."},
+        {"step": 2, "text": "In the skillet heat the remaining oil over medium heat. Cook ham, mushrooms, onion, and ginger in the hot oil for 3 minutes."},
+        {"step": 3, "text": "Stir in cooked rice, cabbage, and egg strips; sprinkle with soy sauce. Cook for 3 to 5 minutes or till heated through, tossing gently to coat with soy sauce."}
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Vegetable Fried Rice: Omit ham and stir in 1/4 cup frozen peas, thawed, into the skillet with the rice."
+      ],
+      "tags": ["fried-rice", "rice", "asian", "ham"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5434 Large.jpeg"]
+    },
+    {
+      "id": "granola",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Granola",
+      "category": "breakfast",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 274",
+      "description": "Choose your favorite nuts and fruits to make this crispy snack or cereal.",
+      "servings_yield": "6 cups (12 servings)",
+      "prep_time": "10 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {"item": "regular rolled oats", "quantity": "2", "unit": "cups"},
+        {"item": "coconut", "quantity": "1/2", "unit": "cup"},
+        {"item": "coarsely chopped almonds or peanuts", "quantity": "1/2", "unit": "cup"},
+        {"item": "sunflower nuts", "quantity": "1/4", "unit": "cup"},
+        {"item": "sesame seed", "quantity": "1/4", "unit": "cup"},
+        {"item": "honey or maple-flavored syrup", "quantity": "1/3", "unit": "cup"},
+        {"item": "cooking oil", "quantity": "1/4", "unit": "cup"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl stir together rolled oats, coconut, almonds or peanuts, sunflower nuts, and sesame seed. In another bowl combine honey or syrup and oil; stir into oat mixture. Spread evenly into a greased 15x10x1-inch baking pan."},
+        {"step": 2, "text": "Bake in a 300° oven for 30 to 35 minutes or till lightly browned, stirring after 20 minutes."},
+        {"step": 3, "text": "Remove from the oven and immediately turn out onto a large piece of foil. Cool, then break into clumps. Store in tightly covered jars or plastic bags at room temperature for up to 2 weeks."}
+      ],
+      "temperature": "300°F (150°C)",
+      "pan_size": "15x10x1-inch baking pan",
+      "notes": [
+        "Apple-Cinnamon Granola: Reduce rolled oats to 1 1/2 cups. Stir 1 teaspoon ground cinnamon into honey-oil mixture. Just before serving, stir in 1 cup coarsely chopped dried apple.",
+        "Raisin-Date Granola: After removing granola from the oven, stir in 1/3 cup raisins and 1/2 cup snipped pitted whole dates."
+      ],
+      "tags": ["granola", "breakfast", "cereal", "snack"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5435 Large.jpeg"]
+    },
+    {
+      "id": "grits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grits",
+      "category": "breakfast",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 274",
+      "description": "Southern-style grits, perfect for breakfast or as a side dish.",
+      "servings_yield": "2 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "6 minutes",
+      "total_time": "11 minutes",
+      "ingredients": [
+        {"item": "water or chicken broth", "quantity": "2", "unit": "cups"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp"},
+        {"item": "quick-cooking grits", "quantity": "1/2", "unit": "cup"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan bring 2 cups water or chicken broth and 1/4 teaspoon salt to boiling. Slowly add 1/2 cup quick-cooking grits, stirring constantly."},
+        {"step": 2, "text": "Cook and stir till boiling. Reduce heat; cook and stir for 5 to 6 minutes or till water is absorbed and mixture is thick. Serve with margarine, butter, or milk, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Cheesy Grits: Omit salt. Stir 1 cup shredded American or cheddar cheese and 1 tablespoon margarine or butter into hot grits till melted. Gradually stir about 1/2 cup of the hot grits into 1 beaten egg. Return all to the saucepan and stir to combine. Pour into a greased 1-quart casserole. Bake in a 325° oven about 25 minutes or till nearly set. Let stand 5 minutes. Makes 4 servings."
+      ],
+      "tags": ["grits", "breakfast", "southern", "side-dish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5435 Large.jpeg"]
+    },
+    {
+      "id": "baked-gnocchi",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Gnocchi",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 275",
+      "description": "Baking makes the Parmesan-flavored gnocchi (NYAH-kee) extra crisp.",
+      "servings_yield": "5 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "1 hour 45 minutes",
+      "ingredients": [
+        {"item": "milk", "quantity": "1 1/2", "unit": "cups"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp"},
+        {"item": "quick-cooking farina", "quantity": "1/3", "unit": "cup"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp"},
+        {"item": "beaten egg", "quantity": "1", "unit": ""},
+        {"item": "grated Parmesan cheese", "quantity": "1/3", "unit": "cup"},
+        {"item": "grated Parmesan cheese", "quantity": "1/4", "unit": "cup", "prep_note": "for topping"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan heat milk and margarine to boiling. Mix 1/3 cup milk, the farina, and salt. Slowly add farina mixture to boiling milk, stirring constantly. Cook and stir 3 to 4 minutes or till thick."},
+        {"step": 2, "text": "Remove from heat; stir about 1/3 cup of the hot mixture into egg. Return all to the saucepan; stir in the 1/3 cup Parmesan cheese. Pour into a well-buttered 10x6x2-inch baking dish. Chill about 1 hour or till firm."},
+        {"step": 3, "text": "Turn out of baking dish onto a cutting board. Cut into 3x1-inch rectangles. Sprinkle tops with the 1/4 cup Parmesan cheese. Place on a well-greased baking sheet. Bake in a 425° oven about 25 minutes or till golden."}
+      ],
+      "temperature": "425°F (220°C)",
+      "pan_size": "10x6x2-inch baking dish",
+      "notes": [
+        "Spinach Gnocchi: Reduce milk to 1 1/4 cups. Cook one 10-ounce package frozen chopped spinach. Drain well. Stir spinach into hot farina mixture.",
+        "Boiled Gnocchi: Do not pour into baking dish. Cool slightly. Shape mixture into compact balls. Drop into gently boiling water. Cook about 4 minutes.",
+        "Herb-Garlic Gnocchi: Omit salt and stir in 1 teaspoon dried basil, oregano, or marjoram, crushed, and 1/2 teaspoon garlic salt with the farina."
+      ],
+      "tags": ["gnocchi", "italian", "side-dish", "baked"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5436 Large.jpeg"]
+    },
+    {
+      "id": "choose-a-grain-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Grain Casserole",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 275",
+      "description": "Great with baked chicken or fish.",
+      "servings_yield": "5 or 6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        {"item": "chopped green or sweet red pepper", "quantity": "1/4", "unit": "cup"},
+        {"item": "chopped onion", "quantity": "1/4", "unit": "cup"},
+        {"item": "chopped celery", "quantity": "1/4", "unit": "cup"},
+        {"item": "garlic clove", "quantity": "1", "unit": "", "prep_note": "minced"},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp"},
+        {"item": "cooked rice, bulgur, wheat berries, or barley", "quantity": "1 1/2", "unit": "cups"},
+        {"item": "soft-style cream cheese", "quantity": "1/2", "unit": "cup"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp"},
+        {"item": "shredded cheddar cheese", "quantity": "1/2", "unit": "cup"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan cook pepper, onion, celery, and garlic in margarine till tender."},
+        {"step": 2, "text": "Meanwhile, in a bowl combine cooked grain, cream cheese, salt, and pepper. Stir in onion mixture. Transfer to a 1-quart casserole."},
+        {"step": 3, "text": "Bake, covered, in a 375° oven for 25 minutes or till heated through. Sprinkle with cheese. Bake 2 to 3 minutes more or till cheese melts."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "1-quart casserole",
+      "notes": [],
+      "tags": ["casserole", "grain", "rice", "side-dish"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5436 Large.jpeg"]
     }
   ],
-  "version": "2.79.0"
+  "version": "2.80.0"
 }
