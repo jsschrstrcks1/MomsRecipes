@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1012
+    "total_recipes": 1020
   },
   "recipes": [
     {
@@ -93685,6 +93685,716 @@
       },
       "image_refs": [
         "IMG_5316 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fettuccine-with-cheese-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fettuccine with Cheese Sauce",
+      "category": "pasta",
+      "source_note": "Better Homes and Gardens cookbook, page 158",
+      "description": "Elegant for entertaining.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "packaged fettuccine, linguine, or egg noodles",
+          "quantity": "8",
+          "unit": "oz"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cloves garlic, minced",
+          "quantity": "1 or 2",
+          "unit": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded process Swiss, Gruy\u00e8re, or American cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "6 ounces"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "freshly ground pepper",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook fettuccine according to package directions (or see chart, page 278); drain well."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for cheese sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour, bouillon granules, and the 1/8 teaspoon pepper. Add milk all at once. Cook and stir till slightly thickened and bubbly. Add shredded cheese; stir till melted."
+        },
+        {
+          "step": 3,
+          "text": "Stir in cheese. Cook and stir till cheese melts. Stir in parsley. If cheese sauce is too thick, stir in 1 to 2 tablespoons additional milk."
+        },
+        {
+          "step": 4,
+          "text": "Serve cheese sauce over hot cooked pasta. Sprinkle with freshly ground pepper. Serves 4."
+        }
+      ],
+      "notes": [
+        "Fettuccine with Broccoli and Cheese Sauce: Prepare as above, except add one 10-ounce package frozen chopped broccoli to pasta after it has simmered for 5 minutes.",
+        "Fettuccine with Asparagus and Swiss Cheese Sauce: Prepare as above, except add one 10-ounce package frozen cut asparagus to pasta after it has simmered for 5 minutes. For sauce, use the process Swiss cheese. Substitute 2 tablespoons toasted sliced almonds for the freshly ground pepper."
+      ],
+      "tags": [
+        "pasta",
+        "cheese",
+        "fettuccine"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cheese-fondue",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Fondue",
+      "category": "appetizers",
+      "source_note": "Better Homes and Gardens cookbook, page 158",
+      "description": "Also makes a great appetizer.",
+      "servings_yield": "5 servings",
+      "ingredients": [
+        {
+          "item": "coarsely shredded Gruy\u00e8re or Swiss cheese",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "12 ounces"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "clove garlic, halved",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1 1/4",
+          "unit": "cups"
+        },
+        {
+          "item": "kirsch or dry sherry",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "dippers (cubed French or Italian bread or raw vegetables)",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring shredded Gruy\u00e8re or Swiss cheese to room temperature. Toss flour with cheese; set aside. Rub inside of a fondue pot with garlic halves; discard garlic. Set pot aside."
+        },
+        {
+          "step": 2,
+          "text": "In medium saucepan heat wine over medium heat till small bubbles rise to surface. Just before wine boils, reduce heat to low and stir in cheese mixture, a little at a time, stirring constantly and making sure cheese melts before adding more. Stir till mixture bubbles gently."
+        },
+        {
+          "step": 3,
+          "text": "Stir in kirsch or sherry, nutmeg, and pepper. Transfer cheese mixture to the fondue pot; keep mixture bubbling gently over a fondue burner. Serve with bread cubes or raw vegetables. Makes 5 servings."
+        }
+      ],
+      "notes": [
+        "Onion-Cheese Fondue: Prepare as above, except stir 1/2 cup sliced green onion and 1/2 cup shredded carrot into the cheese mixture with the kirsch or sherry.",
+        "*Note: For a milder flavor, substitute 1/4 cup chicken broth or water for 1/4 cup of the wine."
+      ],
+      "tags": [
+        "appetizers",
+        "fondue",
+        "cheese",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cheese-strata",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Strata",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 159",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "slices bread, halved diagonally",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "slices American or Swiss cheese",
+          "quantity": "5",
+          "unit": "1-oz"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "prepared mustard or Dijon-style mustard",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves. Beat eggs; stir in milk, onion, mustard, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Pour over bread and cheese layers. Sprinkle with paprika. Cover; chill in the refrigerator for 2 to 24 hours. Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes. Serves 6."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "notes": [
+        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices.",
+        "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "brunch",
+        "cheese",
+        "strata",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5320 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "macaroni-and-cheese",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Macaroni and Cheese",
+      "category": "pasta",
+      "source_note": "Better Homes and Gardens cookbook, page 160",
+      "description": "For homemade flavor in a hurry, try the Shortcut Macaroni and Cheese.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "elbow macaroni",
+          "quantity": "1",
+          "unit": "cup (4 oz)"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 3/4",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "8 ounces"
+        },
+        {
+          "item": "medium tomato, sliced",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook macaroni according to package directions (or see chart, page 278); drain well."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for cheese sauce, in a saucepan cook onion in margarine or butter till tender but not brown. Stir in flour and pepper. Add milk all at once. Cook and stir till slightly thickened and bubbly. Add shredded cheese; stir till melted."
+        },
+        {
+          "step": 3,
+          "text": "Stir macaroni into cheese sauce. Transfer to a 1-quart casserole. Bake, uncovered, in a 350\u00b0 oven for 25 to 30 minutes or till bubbly. During the last 5 minutes of baking, arrange tomato slices atop macaroni, if desired. Let stand 10 minutes. Makes 4 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Vegetable Macaroni and Cheese: Prepare as above, except stir 2 cups frozen mixed vegetables, thawed, or one 16-ounce can mixed vegetables, drained, into cheese sauce with macaroni. Transfer to a 1 1/2-quart casserole.",
+        "Shortcut Macaroni and Cheese: Prepare as above, except immediately return the drained macaroni to the saucepan it was cooked in. Pour the cheese sauce over the macaroni; mix well. Cook over low heat for 3 to 5 minutes or till heated through, stirring frequently. Let stand for 10 minutes."
+      ],
+      "tags": [
+        "pasta",
+        "cheese",
+        "macaroni",
+        "comfort food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5322 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "welsh-rarebit-breakfast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Welsh Rarebit Breakfast",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 160",
+      "description": "The tangy cheese sauce also is good served over broccoli, cauliflower, and burgers.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "English muffins, split and toasted, or slices bread, toasted",
+          "quantity": "2 or 4",
+          "unit": ""
+        },
+        {
+          "item": "slices Canadian-style bacon, warmed, or 4 poached eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "see recipe, page 144"
+        },
+        {
+          "item": "slices tomato",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "shredded cheddar or American cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "6 ounces"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For English muffin or toast stacks, place muffin halves or toast slices on plates. Top each with a slice of Canadian-style bacon, then a tomato slice; or, if using poached eggs, top muffins or toast with tomato slices, then eggs. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "For cheese sauce, in a heavy medium saucepan combine cheese, milk, mustard, Worcestershire sauce, and red pepper. Cook over low heat, stirring constantly, till cheese melts."
+        },
+        {
+          "step": 3,
+          "text": "Slowly stir about half of the hot cheese sauce into beaten egg; return all to the saucepan. Cook and stir over low heat till cheese sauce thickens slightly and just bubbles."
+        },
+        {
+          "step": 4,
+          "text": "Serve cheese sauce immediately over English muffin or toast stacks. Makes 4 servings."
+        }
+      ],
+      "notes": [
+        "Beer Rarebit: Prepare as above, except substitute 8 slices crisp-cooked bacon, drained and halved crosswise, for the Canadian-style bacon or poached egg. Substitute beer for the milk."
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "cheese",
+        "welsh rarebit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5322 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "meatless-red-beans-and-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meatless Red Beans and Rice",
+      "category": "legumes",
+      "source_note": "Better Homes and Gardens cookbook, page 161",
+      "description": "Adjust the amount of ground red pepper to give this dish the zing you like.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "dry red beans or dry red kidney beans",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": "1/2 pound"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cloves garlic, minced",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "fennel seed, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/4 to 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "hot cooked rice",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse beans. In a large saucepan combine beans and 3 cups water. Bring to boiling; reduce heat. Simmer for 2 minutes. Remove from heat. Cover and let stand 1 hour. (Or, soak by placing beans and 3 cups water in a bowl. Cover and set in a cool place for 6 to 8 hours or overnight.)"
+        },
+        {
+          "step": 2,
+          "text": "Drain beans in a colander and rinse. Return beans to the saucepan. Stir in onion, garlic, bay leaf, salt, fennel seed, red pepper, and 3 cups fresh water. Bring to boiling; reduce heat. Cover and simmer about 2 1/2 hours or till beans are tender, adding more water, if necessary, and stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "Uncover and simmer, stirring occasionally, for 15 to 20 minutes more or till a thick gravy forms. Discard bay leaf. Serve over rice. Serves 4."
+        }
+      ],
+      "notes": [
+        "Meaty Red Beans and Rice: Prepare as above, except omit salt and fennel seed. Add 1/2 pound smoked pork hocks or meaty ham bone with onion. When beans are tender, remove hocks or ham bone. Cut meat from bones or bone. Discard bones or bone and return meat to bean mixture along with 1/2 pound smoked sausage, cut into bite-size pieces.",
+        "Red Beans and Corn Bread: Prepare as above, except omit rice and spoon bean mixture over squares of corn bread."
+      ],
+      "tags": [
+        "legumes",
+        "beans",
+        "rice",
+        "vegetarian",
+        "cajun"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5323 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "meatless-tacos",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meatless Tacos",
+      "category": "legumes",
+      "source_note": "Better Homes and Gardens cookbook, page 162",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "lentils",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "8-oz can"
+        },
+        {
+          "item": "taco seasoning mix",
+          "quantity": "1/2",
+          "unit": "of a 1 1/4- or 1 1/2-oz envelope (5 tsp)"
+        },
+        {
+          "item": "tofu (fresh bean curd), drained and finely chopped",
+          "quantity": "8",
+          "unit": "oz"
+        },
+        {
+          "item": "taco shells, warmed",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "item": "shredded lettuce",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "medium tomato, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salsa",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse lentils; drain. In a medium saucepan combine lentils, onion, and 1 1/2 cup water. Bring to boiling; reduce heat. Cover and simmer about 30 minutes or till tender and liquid is absorbed."
+        },
+        {
+          "step": 2,
+          "text": "Stir tomato sauce and seasoning mix into lentils. Simmer, uncovered, for 5 minutes. Stir in tofu; heat through. Spoon into taco shells. Top with lettuce, tomato, cheese, and salsa. Serves 4."
+        }
+      ],
+      "notes": [
+        "Bulgur Tacos: Prepare as above, except substitute bulgur for lentils. Cover and simmer bulgur, onion, and 3/4 cup water about 10 minutes or till tender and liquid is absorbed."
+      ],
+      "tags": [
+        "legumes",
+        "tacos",
+        "vegetarian",
+        "mexican"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5325 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bean-and-cheese-burritos",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bean and Cheese Burritos",
+      "category": "legumes",
+      "source_note": "Better Homes and Gardens cookbook, page 162",
+      "servings_yield": "3 servings",
+      "ingredients": [
+        {
+          "item": "flour tortillas",
+          "quantity": "6",
+          "unit": "8-inch"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "refried beans",
+          "quantity": "1",
+          "unit": "16-oz can"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded lettuce",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "salsa",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stack six 8-inch flour tortillas and wrap in foil. Heat in a 350\u00b0 oven for 10 minutes to soften. In a skillet cook 1 cup chopped onion in 1 tablespoon cooking oil till tender. Add one 16-ounce can refried beans. Cook and stir till heated through."
+        },
+        {
+          "step": 2,
+          "text": "Spoon about 1/4 cup bean mixture onto each tortilla just below center. Divide 1 1/2 cups shredded cheddar cheese among tortillas. Fold edge nearest filling up and over just till mixture is covered. Fold in 2 sides just till they meet; roll up."
+        },
+        {
+          "step": 3,
+          "text": "Place on a baking sheet. Bake in a 350\u00b0 oven about 10 minutes or till heated through. Serve with shredded lettuce and salsa. Serves 3."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Bean and Cheese Chimichangas: Prepare as above, except use 10-inch flour tortillas and omit baking. Secure rolled-up tortillas with wooden toothpicks. In a 3-quart saucepan fry tortillas, 2 or 3 at a time, in 1 inch hot cooking oil (375\u00b0) about 1 minute on each side or till golden. Drain. Keep warm in a 300\u00b0 oven. Remove picks. Pass dairy sour cream and guacamole."
+      ],
+      "tags": [
+        "legumes",
+        "burritos",
+        "mexican",
+        "vegetarian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5325 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "pending"
