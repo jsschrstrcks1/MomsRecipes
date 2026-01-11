@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 921
+    "total_recipes": 929
   },
   "recipes": [
     {
@@ -85532,6 +85532,787 @@
       },
       "image_refs": [
         "IMG_5238 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pineapple-upside-down-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pineapple Upside-Down Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 76",
+      "description": "A classic upside-down cake with caramelized pineapple and cherries.",
+      "servings_yield": "8 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pineapple slices",
+          "quantity": "1",
+          "unit": "8-ounce can",
+          "prep_note": "drained and halved"
+        },
+        {
+          "item": "maraschino cherries, halved",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "Batter for Busy-Day Cake",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": "see recipe"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt margarine in a 9x1-1/2-inch round baking pan. Stir in sugar and 1 tablespoon water."
+        },
+        {
+          "step": 2,
+          "text": "Arrange pineapple and cherries in the pan."
+        },
+        {
+          "step": 3,
+          "text": "Prepare batter for Busy-Day Cake; spoon into the pan."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 350\u00b0 oven for 30 to 35 minutes or till a toothpick inserted near the center comes out clean."
+        },
+        {
+          "step": 5,
+          "text": "Cool on a wire rack for 5 minutes. Loosen sides; invert onto a plate. Serve warm."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x1-1/2-inch round baking pan",
+      "notes": [
+        "Serve warm"
+      ],
+      "tags": [
+        "cake",
+        "upside-down-cake",
+        "pineapple"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5241 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "apricot-upside-down-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apricot Upside-Down Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 76",
+      "description": "Upside-down cake variation with apricots or peaches and coconut.",
+      "servings_yield": "8 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "apricot halves or peach slices",
+          "quantity": "1",
+          "unit": "8-1/2-ounce can",
+          "prep_note": "drained and halved"
+        },
+        {
+          "item": "toasted coconut",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Batter for Busy-Day Cake",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Pineapple Upside-Down Cake, except substitute one 8-1/2-ounce can apricot halves, drained and halved, or peach slices, drained, and 2 tablespoons toasted coconut for the pineapple and cherries."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x1-1/2-inch round baking pan",
+      "notes": [
+        "Variation of Pineapple Upside-Down Cake"
+      ],
+      "tags": [
+        "cake",
+        "upside-down-cake",
+        "apricot",
+        "peach"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5241 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pear-raisin-upside-down-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pear-Raisin Upside-Down Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 76",
+      "description": "Upside-down cake variation with pears and raisins.",
+      "servings_yield": "8 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pear slices",
+          "quantity": "1",
+          "unit": "8-1/2-ounce can",
+          "prep_note": "drained"
+        },
+        {
+          "item": "raisins",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Batter for Busy-Day Cake",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Pineapple Upside-Down Cake, except substitute one 8-1/2-ounce can pear slices, drained, and 2 tablespoons raisins for the pineapple and cherries."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x1-1/2-inch round baking pan",
+      "notes": [
+        "Variation of Pineapple Upside-Down Cake"
+      ],
+      "tags": [
+        "cake",
+        "upside-down-cake",
+        "pear",
+        "raisin"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5241 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "busy-day-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Busy-Day Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 77",
+      "description": "Stir up this one-layer cake in only minutes with easy-to-keep-on-hand ingredients.",
+      "servings_yield": "8 servings",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter, softened",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Broiled Coconut Topping",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 90, optional"
+        },
+        {
+          "item": "whipped cream and fresh fruit",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, sugar, and baking powder. Add milk, margarine or butter, egg, and vanilla."
+        },
+        {
+          "step": 2,
+          "text": "Beat with an electric mixer on low speed till combined. Beat on medium speed for 1 minute."
+        },
+        {
+          "step": 3,
+          "text": "Pour batter into a greased and floured 8x1-1/2-inch round baking pan."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 350\u00b0 oven for 25 to 30 minutes or till a toothpick inserted near the center comes out clean."
+        },
+        {
+          "step": 5,
+          "text": "Frost warm cake with Broiled Coconut Topping, if desired. Or, cool in the pan on a wire rack for 5 minutes. Remove cake from pan. Cool thoroughly. Serve with whipped cream and fresh fruit, if desired."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x1-1/2-inch round baking pan",
+      "notes": [
+        "EASY recipe",
+        "Microwave directions available"
+      ],
+      "tags": [
+        "cake",
+        "one-layer",
+        "easy",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5242 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "spiced-pecan-busy-day-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spiced Pecan Busy-Day Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 77",
+      "description": "A spiced variation of Busy-Day Cake with pecans, walnuts, or peanuts.",
+      "servings_yield": "8 servings",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg or allspice",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter, softened",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pecans, walnuts, or peanuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Busy-Day Cake, except add 1/4 teaspoon ground nutmeg or allspice with the flour."
+        },
+        {
+          "step": 2,
+          "text": "Stir in 1/2 cup chopped pecans, walnuts, or peanuts after beating."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x1-1/2-inch round baking pan",
+      "notes": [
+        "Variation of Busy-Day Cake"
+      ],
+      "tags": [
+        "cake",
+        "one-layer",
+        "spiced",
+        "pecan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5242 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "wheat-and-raisin-busy-day-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wheat and Raisin Busy-Day Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 77",
+      "description": "A whole wheat variation of Busy-Day Cake with raisins or dates.",
+      "servings_yield": "8 servings",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "reduced"
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter, softened",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins or snipped pitted whole dates",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Busy-Day Cake, except reduce all-purpose flour to 1 cup and add 1/3 cup whole wheat flour to flour mixture."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle 1/4 cup raisins or snipped pitted whole dates atop batter in the baking pan."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x1-1/2-inch round baking pan",
+      "notes": [
+        "Variation of Busy-Day Cake"
+      ],
+      "tags": [
+        "cake",
+        "one-layer",
+        "whole-wheat",
+        "raisin"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5242 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "yellow-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Yellow Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 77",
+      "description": "Delicious with just a dusting of powdered sugar.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter, softened",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, sugar, and baking powder. Add milk, margarine, and vanilla."
+        },
+        {
+          "step": 2,
+          "text": "Beat with an electric mixer on low speed till combined. Beat on high speed for 2 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add eggs and beat 2 minutes more. Pour into 2 greased and floured 9x1-1/2-inch round baking pans."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 375\u00b0 oven for 25 to 30 minutes or till a toothpick inserted near the centers comes out clean."
+        },
+        {
+          "step": 5,
+          "text": "Cool on wire racks for 10 minutes. Remove from pans. Cool thoroughly on racks."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "two 9x1-1/2-inch round baking pans",
+      "notes": [],
+      "tags": [
+        "cake",
+        "layer-cake",
+        "yellow-cake"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5242 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "citrus-yellow-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Citrus Yellow Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 77",
+      "description": "Yellow cake with orange or lemon peel, filled with Lemon Filling.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter, softened",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel or finely shredded lemon peel",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Lemon Filling",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 90"
+        },
+        {
+          "item": "Lemon or Orange Butter Frosting",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 89"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Yellow Cake, except add 2 teaspoons finely shredded orange peel or 1 teaspoon finely shredded lemon peel to the flour mixture."
+        },
+        {
+          "step": 2,
+          "text": "Fill with Lemon Filling (see recipe, page 90) and frost with Lemon or Orange Butter Frosting (see recipe, page 89), if desired."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "two 9x1-1/2-inch round baking pans",
+      "notes": [
+        "Variation of Yellow Cake"
+      ],
+      "tags": [
+        "cake",
+        "layer-cake",
+        "yellow-cake",
+        "citrus",
+        "lemon",
+        "orange"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5242 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
