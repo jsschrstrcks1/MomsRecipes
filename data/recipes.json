@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1158
+    "total_recipes": 1233
   },
   "recipes": [
     {
@@ -125904,6 +125904,117 @@
         "missing_inputs": [],
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 317)"
+        ]
+      }
+    },
+    {
+      "id": "pecan-crunch",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pecan Crunch",
+      "category": "cookies",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page - Cakes, Cookies, Candies section",
+      "description": "A chocolate-topped shortbread bar with toasted pecans.",
+      "servings_yield": "72 bars",
+      "prep_time": "2 hours",
+      "cook_time": "25 minutes",
+      "total_time": "2 hours 25 minutes",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "light brown sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "packed"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": "1 package"
+        },
+        {
+          "item": "pecans",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "toasted and chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Into large bowl, measure first 5 ingredients. With hand, knead dough until well blended and it holds together."
+        },
+        {
+          "step": 2,
+          "text": "Preheat oven to 350\u00b0F. Pat dough evenly into 15\u00bd\" by 10\u00bd\" jelly-roll pan. Bake 25 minutes."
+        },
+        {
+          "step": 3,
+          "text": "In small saucepan over low heat, melt chocolate, stirring frequently; set aside."
+        },
+        {
+          "step": 4,
+          "text": "Remove pan from oven; pour chocolate over baked layer; with spatula, evenly spread over; sprinkle with pecans. Cool on wire rack."
+        },
+        {
+          "step": 5,
+          "text": "When cool, cut lengthwise into 6 strips, cut each strip crosswise into 12 pieces. Store in tightly-covered container; use up within 1 week."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "15\u00bd\" by 10\u00bd\" jelly-roll pan",
+      "notes": [
+        "75 calories per bar"
+      ],
+      "tags": [
+        "cookies",
+        "chocolate",
+        "pecans",
+        "bars"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5160 Large.jpeg",
+        "IMG_5161 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 75
+        },
+        "assumptions": [
+          "Per bar as stated in cookbook"
         ]
       }
     }
