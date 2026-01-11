@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 879
+    "total_recipes": 895
   },
   "recipes": [
     {
@@ -80824,6 +80824,1764 @@
       },
       "image_refs": [
         "IMG_5216 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bagels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bagels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 52",
+      "description": "Three steps\u2014broiling, boiling, and baking\u2014give bagels their crusty, glazed appearance and typically chewy texture.",
+      "servings_yield": "12 bagels",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "120\u00b0 to 130\u00b0"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "3 tbsp for dough, rest for boiling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups of the flour and the yeast. Add warm water, 3 tablespoons of the sugar, and 1 teaspoon salt. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Using a spoon, stir in as much remaining flour as you can. Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Cover; let rest 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Working quickly, divide dough into 12 portions. Shape each portion into a smooth ball. Punch a hole in the center of each ball with a floured finger. Pull dough gently to make about a 2-inch hole, keeping bagel uniformly shaped."
+        },
+        {
+          "step": 4,
+          "text": "Place on a greased baking sheet. Cover; let rise for 20 minutes. (Start timing after first bagel is shaped.)"
+        },
+        {
+          "step": 5,
+          "text": "Broil raised bagels about 5 inches from heat for 3 to 4 minutes, turning once (tops should not brown)."
+        },
+        {
+          "step": 6,
+          "text": "Meanwhile, in a 12-inch skillet or 4-1/2-quart Dutch oven bring 6 cups water and remaining 1 tablespoon sugar to boiling. Reduce heat and simmer bagels, four or five at a time, for 7 minutes, turning once. Drain on paper towels."
+        },
+        {
+          "step": 7,
+          "text": "Place drained bagels on a well-greased baking sheet. Bake in a 375\u00b0 oven for 25 to 30 minutes or till tops are golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Broil, then boil, then bake for authentic texture"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "bagels"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5218 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "light-rye-bagels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Light Rye Bagels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 52",
+      "description": "Bagels made with rye flour and optional caraway seed.",
+      "servings_yield": "12 bagels",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3 to 3-1/4",
+          "unit": "cups",
+          "prep_note": "reduced"
+        },
+        {
+          "item": "rye flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "120\u00b0 to 130\u00b0"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "caraway seed",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Bagels, except stir 1 teaspoon caraway seed, if desired, in with the yeast. Substitute 1-1/2 cups rye flour for 1-1/2 cups of the stirred-in all-purpose flour."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Variation of Bagels"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "bagels",
+        "rye"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5218 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "herb-bagels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herb Bagels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 52",
+      "description": "Bagels flavored with basil and dillweed or garlic powder.",
+      "servings_yield": "12 bagels",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "120\u00b0 to 130\u00b0"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried dillweed",
+          "quantity": "1 to 1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1 to 1-1/2",
+          "unit": "tsp",
+          "prep_note": "alternative to dillweed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Bagels, except stir 1-1/2 teaspoons dried basil, crushed; 1-1/2 teaspoons dried dillweed; or 1 to 1-1/2 teaspoons garlic powder in with the yeast."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Variation of Bagels"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "bagels",
+        "herb"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5218 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "onion-bagels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Onion Bagels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 52",
+      "description": "Bagels with dried minced onion and optional bacon.",
+      "servings_yield": "12 bagels",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "120\u00b0 to 130\u00b0"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried minced onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked bacon pieces",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Bagels, except stir 2 tablespoons dried minced onion and, if desired, 2 tablespoons cooked bacon pieces into the flour with the yeast."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Variation of Bagels"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "bagels",
+        "onion"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5218 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "whole-wheat-bagels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whole Wheat Bagels",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 52",
+      "description": "Bagels made with whole wheat flour and optional raisins.",
+      "servings_yield": "12 bagels",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3 to 3-1/4",
+          "unit": "cups",
+          "prep_note": "reduced"
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "120\u00b0 to 130\u00b0"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Bagels, except substitute 1-1/2 cups whole wheat flour for 1-1/2 cups of the stirred-in all-purpose flour. Stir 3/4 cup raisins, if desired, in with whole wheat flour."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Variation of Bagels"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "bagels",
+        "whole-wheat"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5218 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "brioche",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brioche",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 52",
+      "description": "These egg- and butter-rich rolls are shaped like fat buns with topknots.",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "105\u00b0 to 115\u00b0"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for egg wash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soften yeast in the 1/4 cup warm water. In a mixing bowl beat margarine or butter, sugar, and salt till fluffy."
+        },
+        {
+          "step": 2,
+          "text": "Add 1 cup of the flour and the milk to beaten mixture. Separate one of the eggs. Add yolk and remaining 3 eggs to beaten mixture (refrigerate the egg white in a covered container)."
+        },
+        {
+          "step": 3,
+          "text": "Add softened yeast and beat well. Using a spoon, stir in the remaining flour till smooth. Place in a greased bowl. Cover; let rise in a warm place till double (about 2 hours), then refrigerate dough for 6 hours. (Or, omit the 2-hour rising time and refrigerate the dough up to 24 hours.)"
+        },
+        {
+          "step": 4,
+          "text": "Stir dough down. Turn out onto a lightly floured surface. Divide dough into 4 portions; set 1 portion aside. Divide each of the remaining 3 portions into 8 pieces, making a total of 24."
+        },
+        {
+          "step": 5,
+          "text": "With floured hands, form each piece into a ball, tucking under edges. Place in greased muffin cups. Divide reserved dough portion into 24 pieces; shape into balls."
+        },
+        {
+          "step": 6,
+          "text": "With a floured finger, make an indentation in each large ball. Press a small ball into each indentation."
+        },
+        {
+          "step": 7,
+          "text": "Combine reserved egg white and the 1 tablespoon water; brush over rolls. Cover; let rise in a warm place till nearly double (45 to 55 minutes)."
+        },
+        {
+          "step": 8,
+          "text": "Bake in a 375\u00b0 oven about 15 minutes or till golden brown, brushing again with egg white and water mixture after 7 minutes. Remove from pans. Cool on wire racks."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "muffin pans",
+      "notes": [
+        "Can refrigerate dough up to 24 hours",
+        "Individual-brioche-pan directions available: makes 18 rolls"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "brioche",
+        "french",
+        "rolls",
+        "rich"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5218 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "sweet-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 53",
+      "description": "Basic sweet roll dough that can be shaped into various treats.",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "varies by shape",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "plus 2 to 2-1/2 cups more"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups all-purpose flour and 1 package active dry yeast. Heat and stir 1 cup milk, 1/3 cup sugar, 1/3 cup margarine or butter, and 1/2 teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts."
+        },
+        {
+          "step": 2,
+          "text": "Add to flour mixture along with 2 eggs. Beat with an electric mixer on low speed 30 seconds, scraping bowl. Beat on high speed 3 minutes. Using a spoon, stir in as much of 2 to 2-1/2 cups all-purpose flour as you can."
+        },
+        {
+          "step": 3,
+          "text": "Turn out onto a lightly floured surface. Knead in enough of the remaining flour to make a moderately soft dough that is smooth and elastic (3 to 5 minutes total). Shape into a ball."
+        },
+        {
+          "step": 4,
+          "text": "Place in a lightly greased bowl; turn once. Cover; let rise in a warm place till double (about 1 hour)."
+        },
+        {
+          "step": 5,
+          "text": "Punch dough down. Divide in half. Cover; let rest 10 minutes. Shape and bake as directed below. Serve warm, if desired."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "varies",
+      "notes": [
+        "Base recipe for Caramel-Pecan Rolls and Cinnamon Rolls"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "sweet-rolls"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5219 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "caramel-pecan-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel-Pecan Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 53",
+      "description": "Sticky sweet rolls with caramel and pecan topping.",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "20-25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Sweet Roll dough",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "light corn syrup",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "chopped pecans",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "melted, for filling"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for filling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "While dough is rising, combine 2/3 cup packed brown sugar, 1/4 cup margarine or butter, and 2 tablespoons light corn syrup. Cook and stir till combined."
+        },
+        {
+          "step": 2,
+          "text": "Divide between two 9x1-1/2-inch round baking pans. Sprinkle each pan with 1/4 cup chopped pecans. Set the pans aside."
+        },
+        {
+          "step": 3,
+          "text": "Roll half of the dough into a 12x8-inch rectangle. Melt 3 tablespoons margarine or butter; brush half of margarine over dough."
+        },
+        {
+          "step": 4,
+          "text": "Combine 1/2 cup sugar and 1 teaspoon ground cinnamon; sprinkle half of mixture over dough."
+        },
+        {
+          "step": 5,
+          "text": "Roll up from one of the long sides. Seal seams. Slice dough into 12 pieces. Repeat with remaining dough, margarine, and sugar mixture."
+        },
+        {
+          "step": 6,
+          "text": "Place rolls in pans. Cover; let rise till nearly double (about 30 minutes)."
+        },
+        {
+          "step": 7,
+          "text": "Bake in a 375\u00b0 oven for 20 to 25 minutes. Invert onto a serving plate."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "two 9x1-1/2-inch round baking pans",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "sweet-rolls",
+        "caramel",
+        "pecan",
+        "sticky-buns"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5219 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cinnamon-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cinnamon Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 53",
+      "description": "Classic cinnamon rolls with optional raisins and powdered sugar icing.",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "20-25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Sweet Roll dough",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roll half of the dough into a 12x8-inch rectangle. Melt 3 tablespoons margarine or butter; brush half of margarine over dough."
+        },
+        {
+          "step": 2,
+          "text": "Combine 1/2 cup sugar and 2 teaspoons ground cinnamon; sprinkle half of mixture over dough."
+        },
+        {
+          "step": 3,
+          "text": "If desired, measure 3/4 cup raisins; sprinkle half of raisins over dough."
+        },
+        {
+          "step": 4,
+          "text": "Roll up from one of the long sides. Seal seams. Slice dough into 12 pieces."
+        },
+        {
+          "step": 5,
+          "text": "Repeat with remaining dough, margarine, sugar mixture, and raisins. Place rolls in two greased 9x1-1/2-inch round baking pans."
+        },
+        {
+          "step": 6,
+          "text": "Cover; let rise till nearly double (about 30 minutes)."
+        },
+        {
+          "step": 7,
+          "text": "Bake in a 375\u00b0 oven for 20 to 25 minutes. Cool slightly; remove from pans."
+        },
+        {
+          "step": 8,
+          "text": "Drizzle with Powdered Sugar Icing (see recipe, page 88)."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "two 9x1-1/2-inch round baking pans",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "sweet-rolls",
+        "cinnamon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5219 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "croissants",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Croissants",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 54",
+      "description": "You don't have to be a pro to make croissants with our easy method.",
+      "servings_yield": "16 croissants",
+      "prep_time": "",
+      "cook_time": "15 minutes",
+      "total_time": "4-24 hours (including chilling)",
+      "ingredients": [
+        {
+          "item": "cold butter",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "for butter mixture"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "for dough"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4 to 1/2",
+          "unit": "cup",
+          "prep_note": "for kneading"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for egg wash"
+        },
+        {
+          "item": "water or milk",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for egg wash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut butter into 1/2-inch slices. Stir butter slices into the 3 cups flour till coated and separated; chill."
+        },
+        {
+          "step": 2,
+          "text": "Combine the 1-1/2 cups of flour and the yeast. Heat and stir milk, sugar, and salt till warm (120\u00b0 to 130\u00b0). Add to flour-yeast mixture along with 1 egg."
+        },
+        {
+          "step": 3,
+          "text": "Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in the chilled butter-flour mixture till flour is well moistened (butter will stay in large pieces)."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle a pastry cloth or surface with the 1/4 cup flour. Turn dough out onto floured surface. With floured hands, knead dough very gently about eight times."
+        },
+        {
+          "step": 5,
+          "text": "With a well-floured rolling pin, roll dough into a 21x12-inch rectangle (sprinkle surface with enough remaining flour to prevent sticking, if necessary)."
+        },
+        {
+          "step": 6,
+          "text": "Fold dough crosswise into thirds to form a 12x7-inch rectangle. Wrap loosely; place in freezer for 20 to 30 minutes (or in refrigerator for 1-1/2 hours) or till dough is firm but not excessively stiff."
+        },
+        {
+          "step": 7,
+          "text": "On a floured surface, roll again into a 21x12-inch rectangle. Fold into thirds again and give dough a quarter-turn; roll, fold, and turn twice more, flouring surface as needed (it's not necessary to chill dough between rolling times)."
+        },
+        {
+          "step": 8,
+          "text": "Place dough in a plastic bag, seal, leaving room for expansion. Chill dough for 4 to 24 hours."
+        },
+        {
+          "step": 9,
+          "text": "Cut dough crosswise into fourths. Return 3 pieces to refrigerator till ready to use. On a lightly floured surface, roll dough into a 16x8-inch rectangle."
+        },
+        {
+          "step": 10,
+          "text": "Cut rectangle in half crosswise, forming 2 squares. Cut each square in half diagonally, for a total of 4 triangles. Roll up each triangle loosely, starting from an 8-inch side and rolling toward the opposite point."
+        },
+        {
+          "step": 11,
+          "text": "Repeat rolling, cutting, and shaping with remaining 3 portions of dough. Place rolls on ungreased baking sheets, points down; curve ends."
+        },
+        {
+          "step": 12,
+          "text": "Cover; let rise till almost double (about 1 hour). Beat 1 egg with water or milk; brush lightly over rolls."
+        },
+        {
+          "step": 13,
+          "text": "Bake in a 375\u00b0 oven about 15 minutes or till golden. Remove from baking sheets; cool."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheets",
+      "notes": [
+        "Dough must chill 4-24 hours before shaping"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "croissants",
+        "french",
+        "laminated"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5220 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "filled-croissants",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Filled Croissants",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 54",
+      "description": "Croissants filled with cream cheese, orange peel, or chocolate.",
+      "servings_yield": "approximately 3-1/2x4-inch bundles",
+      "prep_time": "",
+      "cook_time": "15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Croissant dough",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": ""
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "1",
+          "unit": "8-ounce package",
+          "prep_note": "softened"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "semisweet chocolate pieces or fruit preservers",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "per rectangle, alternative filling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Croissants, except cut each 16x8-inch rectangle into four 8x4-inch rectangles."
+        },
+        {
+          "step": 2,
+          "text": "Combine one 8-ounce package cream cheese, softened, 1/4 cup sugar, and 2 teaspoons finely shredded orange peel."
+        },
+        {
+          "step": 3,
+          "text": "Fill center of each rectangle with 1 tablespoon cream cheese mixture. (Or, fill center of each rectangle with 1 tablespoon semisweet chocolate pieces or fruit preserves.)"
+        },
+        {
+          "step": 4,
+          "text": "Brush edges with egg mixture. Fold short sides in over filling to overlap in center (you'll have approximately 3-1/2x4-inch bundles)."
+        },
+        {
+          "step": 5,
+          "text": "Pinch edges to seal. Place on ungreased baking sheets, seam side down."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheets",
+      "notes": [
+        "Variation of Croissants"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "croissants",
+        "filled",
+        "french"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5220 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "nut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nut Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 57",
+      "description": "Choose your favorite nut\u2014pecans, almonds, walnuts, peanuts, or hazelnuts (filberts)\u2014to flavor this bread.",
+      "servings_yield": "1 large loaf, 2 small loaves, or 6 miniloaves (18 servings)",
+      "prep_time": "",
+      "cook_time": "60-75 minutes (varies by pan size)",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "pecans, almonds, walnuts, peanuts, or hazelnuts"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together flour, sugar, baking powder, salt, and baking soda."
+        },
+        {
+          "step": 2,
+          "text": "In another mixing bowl combine beaten egg, milk, and cooking oil. Add to flour mixture, stirring just till combined. Stir nuts into batter."
+        },
+        {
+          "step": 3,
+          "text": "Pour nut-bread batter into a greased 9x5x3-inch loaf pan, two 7-1/2x3-1/2x2-inch loaf pans, or six 4-1/2x2-1/2x1-1/2-inch loaf pans."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 350\u00b0 oven for 1 to 1-1/4 hours for the 9x5x3-inch loaf (for 40 to 45 minutes for the 7-1/2x3-1/2x2-inch loaves; for 30 to 35 minutes for 4-1/2x2-1/2x1-1/2-inch loaves) or till a toothpick inserted near the loaf center or centers comes out clean."
+        },
+        {
+          "step": 5,
+          "text": "Cool in the pan or pans for 10 minutes. Remove; cool thoroughly on wire racks. Wrap and store overnight before slicing."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan (or smaller pans)",
+      "notes": [
+        "Wrap and store overnight before slicing for best results"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "nut"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5223 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cheese-nut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Nut Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 57",
+      "description": "Nut bread with cheese and herbs.",
+      "servings_yield": "1 large loaf (18 servings)",
+      "prep_time": "",
+      "cook_time": "60-75 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "reduced from base"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded Swiss cheese or shredded cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "4 ounces"
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Nut Bread, except reduce sugar to 3/4 cup, and add 1/2 teaspoon dried oregano, crushed, or dried basil, crushed, to the flour mixture."
+        },
+        {
+          "step": 2,
+          "text": "Add 1 cup shredded Swiss cheese or shredded cheddar cheese (4 ounces) to batter with the nuts."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan",
+      "notes": [
+        "Variation of Nut Bread"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "nut",
+        "cheese",
+        "savory"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5223 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cranberry-nut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Nut Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 57",
+      "description": "Nut bread with cranberries and orange peel.",
+      "servings_yield": "1 large loaf (18 servings)",
+      "prep_time": "",
+      "cook_time": "60-75 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "coarsely chopped cranberries",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Nut Bread, except add 2 teaspoons finely shredded orange peel to the flour mixture."
+        },
+        {
+          "step": 2,
+          "text": "Add 1 cup coarsely chopped cranberries to batter with the nuts."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan",
+      "notes": [
+        "Variation of Nut Bread"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "nut",
+        "cranberry",
+        "orange"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5223 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "apricot-nut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apricot Nut Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 57",
+      "description": "Nut bread with dried apricots and citrus peel.",
+      "servings_yield": "1 large loaf (18 servings)",
+      "prep_time": "",
+      "cook_time": "60-75 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel or finely shredded lemon peel",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped dried apricots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "rehydrated"
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Nut Bread, except add 2 teaspoons finely shredded orange peel or finely shredded lemon peel to the flour mixture."
+        },
+        {
+          "step": 2,
+          "text": "Place 1 cup snipped dried apricots in a small bowl; pour boiling water over apricots. Let stand 5 minutes; drain well."
+        },
+        {
+          "step": 3,
+          "text": "Stir apricots into batter with the nuts."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan",
+      "notes": [
+        "Variation of Nut Bread",
+        "Rehydrate dried apricots before adding"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "nut",
+        "apricot"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5223 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pumpkin-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pumpkin Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 57",
+      "description": "A spiced quick bread made with canned pumpkin, walnuts, and raisins.",
+      "servings_yield": "1 loaf (18 servings)",
+      "prep_time": "",
+      "cook_time": "60-65 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger or ground cloves",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "canned pumpkin",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large mixer bowl combine 1 cup of the flour, the brown sugar, baking powder, cinnamon, salt, baking soda, nutmeg, and ginger or cloves."
+        },
+        {
+          "step": 2,
+          "text": "Add pumpkin, milk, eggs, and shortening. Beat with an electric mixer on low speed till blended, then on high speed for 2 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add remaining flour; beat well. Stir in nuts and raisins."
+        },
+        {
+          "step": 4,
+          "text": "Pour batter into a greased 9x5x3-inch loaf pan. Bake in a 350\u00b0 oven for 60 to 65 minutes or till a toothpick inserted near the center comes out clean."
+        },
+        {
+          "step": 5,
+          "text": "Cool for 10 minutes on a wire rack. Remove from the pan; cool thoroughly on a wire rack. Wrap and store overnight before slicing."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan",
+      "notes": [
+        "Wrap and store overnight before slicing for best results"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "pumpkin",
+        "spiced",
+        "fall"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5223 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
