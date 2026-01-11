@@ -105828,7 +105828,448 @@
       "tags": ["pie", "cream-pie", "fruit", "dessert"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5450 Large.jpeg"]
+    },
+    {
+      "id": "black-bottom-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Black-Bottom Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 290",
+      "description": "A rich chocolate layer topped with rum-flavored custard.",
+      "servings_yield": "8 servings",
+      "prep_time": "40 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 hours",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1/2", "unit": "cup"},
+        {"item": "cornstarch", "quantity": "1", "unit": "tbsp"},
+        {"item": "milk", "quantity": "2", "unit": "cups"},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": "separated"},
+        {"item": "semisweet chocolate pieces", "quantity": "1", "unit": "cup"},
+        {"item": "rum or 1/2 teaspoon rum extract", "quantity": "2", "unit": "tbsp"},
+        {"item": "unflavored gelatin", "quantity": "1", "unit": "envelope"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "cream of tartar", "quantity": "1/4", "unit": "tsp"},
+        {"item": "sugar", "quantity": "1/4", "unit": "cup"},
+        {"item": "whipped cream", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "grated chocolate", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For filling, in a heavy medium saucepan combine 1/2 cup sugar and the cornstarch. Stir in milk. Cook and stir over medium heat till thickened and bubbly. Cook and stir for 2 minutes more. Remove from heat."},
+        {"step": 2, "text": "Beat egg yolks slightly. Gradually stir about 1 cup of the hot mixture into egg yolks. Return all to saucepan. Bring to a gentle boil. Cook and stir for 2 minutes more. Remove from heat."},
+        {"step": 3, "text": "Pour half of the filling (about 1 1/2 cups) into a bowl; add chocolate pieces. Stir till chocolate is melted. Spread chocolate filling into Baked Pastry Shell. Chill."},
+        {"step": 4, "text": "For rum layer, soften gelatin in 1/4 cup cold water. Stir softened gelatin and rum into remaining filling. Chill till mixture mounds when spooned, stirring occasionally."},
+        {"step": 5, "text": "For meringue, beat egg whites and cream of tartar with an electric mixer on medium speed till soft peaks form. Gradually add 1/4 cup sugar, beating on high speed till stiff peaks form. Fold rum mixture into meringue. Spread over chocolate layer. Chill about 4 hours or till set. Garnish with whipped cream and grated chocolate, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "chocolate", "rum", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5451 Large.jpeg"]
+    },
+    {
+      "id": "lemon-chiffon-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Chiffon Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 290",
+      "description": "Light and fluffy lemon chiffon pie.",
+      "servings_yield": "8 servings",
+      "prep_time": "35 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 hours",
+      "ingredients": [
+        {"item": "unflavored gelatin", "quantity": "1", "unit": "envelope"},
+        {"item": "sugar", "quantity": "3/4", "unit": "cup"},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": "separated"},
+        {"item": "finely shredded lemon peel", "quantity": "1", "unit": "tsp"},
+        {"item": "lemon juice", "quantity": "1/2", "unit": "cup"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "whipped cream", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a small saucepan combine gelatin and 1/2 cup of the sugar. Beat together egg yolks, lemon peel, lemon juice, and 1/2 cup water; add to gelatin mixture. Cook and stir over medium heat till gelatin is dissolved and mixture slightly thickens (do not boil). Remove from heat."},
+        {"step": 2, "text": "Transfer to a bowl. Chill about 2 hours or till mixture mounds when spooned, stirring occasionally."},
+        {"step": 3, "text": "Beat egg whites with electric mixer on medium speed till soft peaks form (tips curl). Gradually add remaining sugar, beating on high speed till stiff peaks form. Fold lemon mixture into egg whites. Spoon into Baked Pastry Shell. Chill about 4 hours or till set. Garnish with whipped cream, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "lemon", "chiffon", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5451 Large.jpeg"]
+    },
+    {
+      "id": "chocolate-chiffon-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Chiffon Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 290",
+      "description": "Rich chocolate chiffon in a flaky pastry shell.",
+      "servings_yield": "8 servings",
+      "prep_time": "35 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 hours",
+      "ingredients": [
+        {"item": "unflavored gelatin", "quantity": "1", "unit": "envelope"},
+        {"item": "sugar", "quantity": "3/4", "unit": "cup"},
+        {"item": "unsweetened chocolate", "quantity": "2", "unit": "oz", "prep_note": "cut up"},
+        {"item": "eggs", "quantity": "4", "unit": "", "prep_note": "separated"},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "whipped cream", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan combine gelatin and 1/2 cup of the sugar. Stir in 1 1/4 cups water. Add chocolate. Cook and stir over medium heat till chocolate is melted and gelatin is dissolved."},
+        {"step": 2, "text": "Beat egg yolks slightly. Gradually stir about half of the hot mixture into egg yolks. Return all to saucepan. Bring to a gentle boil. Cook and stir for 2 minutes more. Remove from heat. Stir in vanilla."},
+        {"step": 3, "text": "Transfer to a bowl. Chill about 2 hours or till mixture mounds when spooned, stirring occasionally."},
+        {"step": 4, "text": "Beat egg whites with electric mixer on medium speed till soft peaks form. Gradually add remaining sugar, beating on high speed till stiff peaks form. Fold chocolate mixture into egg whites. Spoon into Baked Pastry Shell. Chill about 4 hours or till set. Garnish with whipped cream, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Mocha Chiffon Pie: Prepare as above, except add 2 tablespoons instant coffee crystals to saucepan with the gelatin and sugar."
+      ],
+      "tags": ["pie", "chocolate", "chiffon", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5451 Large.jpeg"]
+    },
+    {
+      "id": "parfait-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Parfait Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 290",
+      "description": "An easy ice cream pie using frozen whipped topping.",
+      "servings_yield": "8 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "8 hours",
+      "ingredients": [
+        {"item": "frozen whipped dessert topping", "quantity": "4", "unit": "oz", "prep_note": "thawed"},
+        {"item": "strawberry, raspberry, or cherry ice cream topping", "quantity": "1/2", "unit": "cup"},
+        {"item": "Baked Pastry Shell or Graham Cracker Crust", "quantity": "", "unit": "", "prep_note": "see recipes, pages 293-294"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl fold together thawed dessert topping and ice cream topping. Spoon into pastry shell or crumb crust. Cover and freeze for 8 hours or overnight. Let stand at room temperature for 10 to 15 minutes before serving."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "frozen", "easy", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5451 Large.jpeg"]
+    },
+    {
+      "id": "strawberry-chiffon-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Strawberry Chiffon Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 291",
+      "description": "Fresh strawberry flavor in a light chiffon filling.",
+      "servings_yield": "8 servings",
+      "prep_time": "40 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 hours",
+      "ingredients": [
+        {"item": "fresh strawberries, or one 10-ounce package frozen sliced strawberries, thawed", "quantity": "3", "unit": "cups"},
+        {"item": "unflavored gelatin", "quantity": "1", "unit": "envelope"},
+        {"item": "sugar", "quantity": "2/3", "unit": "cup"},
+        {"item": "lemon juice", "quantity": "1", "unit": "tbsp"},
+        {"item": "egg whites", "quantity": "2", "unit": ""},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "whipped cream", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Place fresh strawberries in a blender container or food processor bowl. Cover and blend or process till nearly smooth (should have about 1 3/4 cups). Or, if using frozen strawberries, do not thaw; blend till smooth."},
+        {"step": 2, "text": "In a medium saucepan combine gelatin and 1/3 cup of the sugar. Stir in pureed strawberries and lemon juice. Cook and stir over medium heat till gelatin is dissolved."},
+        {"step": 3, "text": "Transfer to a bowl. Chill till mixture mounds when spooned, stirring occasionally."},
+        {"step": 4, "text": "Beat egg whites with electric mixer on medium speed till soft peaks form. Gradually add remaining sugar, beating on high speed till stiff peaks form. Fold strawberry mixture into egg whites. Spoon into Baked Pastry Shell. Chill about 4 hours or till set. Garnish with whipped cream, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Raspberry Chiffon Pie: Prepare as above, except substitute 3 cups fresh or frozen red raspberries for the strawberries. After blending, sieve to remove seeds."
+      ],
+      "tags": ["pie", "strawberry", "chiffon", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5452 Large.jpeg"]
+    },
+    {
+      "id": "fudge-ribbon-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fudge Ribbon Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 292",
+      "description": "Layers of peppermint ice cream and fudge sauce.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "6 hours",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1", "unit": "cup"},
+        {"item": "evaporated milk", "quantity": "5", "unit": "oz", "prep_note": "one small can (2/3 cup)"},
+        {"item": "semisweet chocolate pieces", "quantity": "1/2", "unit": "cup"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp"},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp"},
+        {"item": "Graham Cracker Crust", "quantity": "", "unit": "", "prep_note": "see recipe, page 294"},
+        {"item": "peppermint ice cream", "quantity": "1", "unit": "qt"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For fudge sauce, in a small saucepan combine sugar, milk, and chocolate. Cook and stir over medium heat till bubbly. Cook and stir for 2 minutes more. Remove from heat. Stir in margarine or butter and vanilla. (If necessary, beat smooth with a rotary beater.) Set aside to cool."},
+        {"step": 2, "text": "Stir ice cream just to soften; spread half in Graham Cracker Crust. Cover; freeze till firm. Drizzle with half of the fudge sauce. Freeze till firm. Repeat ice cream and sauce layers; freeze till firm. (Cover and chill any remaining sauce to serve later.) To serve, let stand at room temperature for 10 to 15 minutes."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "ice-cream", "fudge", "peppermint", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5453 Large.jpeg"]
+    },
+    {
+      "id": "french-silk-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Silk Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 292",
+      "description": "Silky smooth chocolate filling in a flaky pastry.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 hours",
+      "ingredients": [
+        {"item": "butter", "quantity": "1/2", "unit": "cup"},
+        {"item": "sugar", "quantity": "3/4", "unit": "cup"},
+        {"item": "unsweetened chocolate", "quantity": "2", "unit": "oz", "prep_note": "melted and cooled"},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp"},
+        {"item": "refrigerated or frozen egg product", "quantity": "1/2", "unit": "cup", "prep_note": "thawed"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "whipped cream", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "chocolate curls", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium mixing bowl beat butter with an electric mixer on medium speed for 30 seconds. Gradually add sugar, beating about 4 minutes or till fluffy. Stir in cooled chocolate and vanilla. Gradually add egg product, beating on high speed and scraping bowl constantly till light and fluffy."},
+        {"step": 2, "text": "Spread filling into Baked Pastry Shell. Cover and chill for 5 to 24 hours. Garnish with whipped cream and chocolate curls, if desired."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": ["For food safety, this recipe uses pasteurized egg product instead of raw eggs."],
+      "tags": ["pie", "chocolate", "french-silk", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5453 Large.jpeg"]
+    },
+    {
+      "id": "grasshopper-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grasshopper Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 292",
+      "description": "Minty green pie in a chocolate crumb crust.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "5 hours",
+      "ingredients": [
+        {"item": "large marshmallows", "quantity": "25", "unit": ""},
+        {"item": "milk", "quantity": "1/2", "unit": "cup"},
+        {"item": "green crème de menthe", "quantity": "3", "unit": "tbsp"},
+        {"item": "white crème de cacao", "quantity": "3", "unit": "tbsp"},
+        {"item": "whipping cream", "quantity": "1 1/2", "unit": "cups"},
+        {"item": "Chocolate-Wafer Crust", "quantity": "", "unit": "", "prep_note": "see recipe, page 294"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan heat marshmallows and milk over low heat till marshmallows are melted, stirring frequently. Remove from heat; stir in crème de menthe and crème de cacao. Cool, stirring occasionally."},
+        {"step": 2, "text": "In a chilled bowl beat whipping cream with chilled beaters of an electric mixer on medium speed till soft peaks form. Fold marshmallow mixture into whipped cream. Spoon into Chocolate-Wafer Crust. Cover and chill about 4 hours or till set."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "grasshopper", "mint", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5453 Large.jpeg"]
+    },
+    {
+      "id": "pastry-for-single-crust-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pastry for Single-Crust Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 293",
+      "description": "Basic flaky pie crust for single-crust pies.",
+      "servings_yield": "1 pie crust (8 servings)",
+      "prep_time": "15 minutes",
+      "cook_time": "varies",
+      "total_time": "varies",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "1 1/4", "unit": "cups"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp"},
+        {"item": "shortening", "quantity": "1/3", "unit": "cup"},
+        {"item": "cold water", "quantity": "3 to 4", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl stir together flour and salt. Cut in shortening till pieces are the size of small peas."},
+        {"step": 2, "text": "Sprinkle 1 tablespoon of the water over part of the mixture; gently toss with a fork. Push to side of bowl. Repeat till all is moistened. Form into a ball."},
+        {"step": 3, "text": "On a lightly floured surface, flatten dough with hands. Roll dough from center to edges, forming a 12-inch circle. Wrap pastry around rolling pin. Unroll into a 9-inch pie plate. Ease pastry into pie plate, being careful not to stretch. Trim to 1/2 inch beyond edge of pie plate; fold under extra pastry. Make a fluted edge. Do not prick pastry. Bake as directed in individual recipes."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Baked Pastry Shell: Prepare as above, except prick bottom and sides of pastry generously with the tines of a fork. Prick where bottom and sides meet all around the pie shell. Bake in a 450° oven for 10 to 12 minutes or till golden. Cool on a wire rack.",
+        "Pecan Pastry: Prepare as above, except add 1/4 cup ground toasted pecans to flour mixture. Bake as for Baked Pastry Shell.",
+        "Cocoa Pastry: Prepare as above, except reduce flour to 1 cup. Sift 3 tablespoons unsweetened cocoa powder and 2 tablespoons sugar with the flour.",
+        "Cinnamon Pastry: Prepare as above, except add 1/2 teaspoon ground cinnamon to flour mixture. Bake as for Baked Pastry Shell."
+      ],
+      "tags": ["pastry", "pie-crust", "baking"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5454 Large.jpeg"]
+    },
+    {
+      "id": "pastry-for-double-crust-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pastry for Double-Crust Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 294",
+      "description": "Basic flaky pie crust for double-crust pies.",
+      "servings_yield": "2 pie crusts (8 servings)",
+      "prep_time": "20 minutes",
+      "cook_time": "varies",
+      "total_time": "varies",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "2", "unit": "cups"},
+        {"item": "salt", "quantity": "1/2", "unit": "tsp"},
+        {"item": "shortening", "quantity": "2/3", "unit": "cup"},
+        {"item": "cold water", "quantity": "6 to 7", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl stir together flour and salt. Cut in shortening till pieces are the size of small peas."},
+        {"step": 2, "text": "Sprinkle 1 tablespoon water over part of the mixture; gently toss with a fork. Push to side of bowl. Repeat till all is moistened. Divide dough in half. Form each half into a ball."},
+        {"step": 3, "text": "On a lightly floured surface, flatten one ball of dough with hands. Roll dough from center to edges, forming a 12-inch circle. Wrap pastry around rolling pin; unroll into a 9-inch pie plate. Ease pastry into pie plate. Trim to edge of pie plate. Fill as directed in individual recipes."},
+        {"step": 4, "text": "Roll remaining dough into a 12-inch circle. Cut slits for steam to escape. Place on filling. Trim to 1/2 inch beyond edge. Fold top pastry under bottom pastry; flute edge. Bake as directed."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Electric-Mixer Pastry: Prepare as above, except use 3 cups all-purpose flour, 1 teaspoon salt, 1 1/4 cups shortening, and 1/3 cup cold water. Combine flour and salt in mixing bowl. Add shortening. Beat with electric mixer on low speed till pieces are the size of small peas. Add water; mix on low speed just till dough clings together. Makes enough for 2 double-crust pies or 4 single-crust pies.",
+        "Pastry for Lattice-Top Pie: Prepare as above. Fill pastry-lined pie plate. Cut remaining pastry into 1/2-inch-wide strips. Weave strips atop filling to make a lattice. Press ends into rim of crust. Fold bottom pastry over strips; seal and flute.",
+        "Cheese Pastry: Prepare as above, except reduce shortening to 1/2 cup and add 1/2 cup shredded cheddar cheese to flour mixture."
+      ],
+      "tags": ["pastry", "pie-crust", "baking"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5455 Large.jpeg"]
+    },
+    {
+      "id": "oil-pastry",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oil Pastry",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 294",
+      "description": "Easy pie crust made with oil instead of shortening.",
+      "servings_yield": "1 pie crust (8 servings)",
+      "prep_time": "10 minutes",
+      "cook_time": "varies",
+      "total_time": "varies",
+      "ingredients": [
+        {"item": "all-purpose flour", "quantity": "1 1/4", "unit": "cups"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp"},
+        {"item": "cooking oil", "quantity": "1/4", "unit": "cup"},
+        {"item": "milk", "quantity": "3", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a bowl stir together flour and salt. In a measuring cup combine oil and milk. Pour oil mixture all at once into flour mixture."},
+        {"step": 2, "text": "Stir with a fork till dough forms a ball. (If dough seems dry, add 1 to 2 tablespoons additional milk.)"},
+        {"step": 3, "text": "On waxed paper or between 2 sheets of waxed paper, roll dough from center to edges, forming a 12-inch circle. Peel off top paper. Invert pastry into a 9-inch pie plate; peel off paper. Press pastry into pie plate. Trim; flute edge. Do not prick pastry. Fill and bake as directed in individual recipes. (Or, for a baked pastry shell, prick crust and bake in a 450° oven for 10 to 12 minutes.)"}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pastry", "pie-crust", "oil", "baking"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5455 Large.jpeg"]
+    },
+    {
+      "id": "graham-cracker-crust",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Graham Cracker Crust",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 294",
+      "description": "Classic crumb crust for cream pies.",
+      "servings_yield": "1 pie crust (8 servings)",
+      "prep_time": "10 minutes",
+      "cook_time": "8 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {"item": "finely crushed graham crackers", "quantity": "1 1/4", "unit": "cups", "prep_note": "about 18 squares"},
+        {"item": "sugar", "quantity": "1/4", "unit": "cup"},
+        {"item": "margarine or butter, melted", "quantity": "6", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl combine crushed crackers and sugar. Stir in melted margarine or butter. Mix well."},
+        {"step": 2, "text": "Spread mixture evenly into a 9-inch pie plate. Press onto bottom and sides to form a firm, even crust."},
+        {"step": 3, "text": "Bake in a 375° oven for 6 to 8 minutes or till edges are brown. Cool on a wire rack before filling. (Or, chill about 1 hour or till firm.)"}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Chocolate-Wafer Crust: Prepare as above, except substitute 1 1/4 cups finely crushed chocolate wafers (about 20 cookies) for the graham crackers and omit sugar.",
+        "Gingersnap Crust: Prepare as above, except substitute 1 1/4 cups finely crushed gingersnaps (about 20 cookies) for the graham crackers and omit sugar.",
+        "Vanilla-Wafer Crust: Prepare as above, except substitute 1 1/4 cups finely crushed vanilla wafers (about 30 cookies) for the graham crackers and omit sugar."
+      ],
+      "tags": ["crust", "graham-cracker", "crumb-crust", "baking"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5455 Large.jpeg"]
+    },
+    {
+      "id": "coconut-crust",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Coconut Crust",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 294",
+      "description": "Toasted coconut crust for cream pies.",
+      "servings_yield": "1 pie crust (8 servings)",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "flaked coconut", "quantity": "2", "unit": "cups"},
+        {"item": "margarine or butter, melted", "quantity": "3", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Combine coconut and melted margarine or butter. Press evenly onto the bottom and sides of a 9-inch pie plate."},
+        {"step": 2, "text": "Bake in a 325° oven for 20 minutes or till edge is golden. Cool on a wire rack before filling."}
+      ],
+      "temperature": "325°F (165°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["crust", "coconut", "baking"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5455 Large.jpeg"]
     }
   ],
-  "version": "2.81.0"
+  "version": "2.82.0"
 }
