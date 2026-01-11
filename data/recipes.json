@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 906
+    "total_recipes": 913
   },
   "recipes": [
     {
@@ -83907,6 +83907,812 @@
       },
       "image_refs": [
         "IMG_5228 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "buttermilk-coffee-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Buttermilk Coffee Cake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 63",
+      "description": "A streusel-topped coffee cake with buttermilk.",
+      "servings_yield": "9 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk or sour milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine flour, brown sugar, and salt. Cut in shortening till crumbly; set aside 3/4 cup crumb mixture."
+        },
+        {
+          "step": 2,
+          "text": "To remaining crumb mixture add baking powder, baking soda, cinnamon, and nutmeg. Mix well."
+        },
+        {
+          "step": 3,
+          "text": "Add buttermilk and egg; mix well."
+        },
+        {
+          "step": 4,
+          "text": "Spread batter into a greased 8x8x2-inch baking pan. Stir together reserved crumbs and nuts; sprinkle atop batter."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 350\u00b0 oven for 30 to 35 minutes or till a toothpick inserted near the center comes out clean. Serve warm."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x8x2-inch baking pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "coffee-cake",
+        "quick-bread",
+        "buttermilk"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5229 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "applesauce-coffee-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Applesauce Coffee Cake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 63",
+      "description": "A moist coffee cake made with applesauce or apple butter.",
+      "servings_yield": "9 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "applesauce or apple butter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine 3/4 cup flour and the sugar; cut in margarine. For topping, remove 1/2 cup crumb mixture; stir in nuts and cinnamon. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "To remaining crumb mixture add remaining flour, baking powder, and baking soda."
+        },
+        {
+          "step": 3,
+          "text": "Add eggs, applesauce or apple butter, and vanilla; beat till well blended. If desired, stir in raisins."
+        },
+        {
+          "step": 4,
+          "text": "Pour into a greased 9x9x2-inch baking pan. Sprinkle topping on batter."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven for 30 to 35 minutes or till a toothpick inserted near the center comes out clean. Serve warm."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "9x9x2-inch baking pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "coffee-cake",
+        "quick-bread",
+        "applesauce"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5229 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "peanut-butter-coffee-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Coffee Cake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 63",
+      "description": "Share this easy-to-carry coffee cake with your coworkers at break time.",
+      "servings_yield": "16 servings",
+      "prep_time": "",
+      "cook_time": "30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "packed brown sugar",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "peanut butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "peanut butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For topping, in a bowl stir together 2/3 cup brown sugar and 1/3 cup all-purpose flour; cut in 1/4 cup peanut butter and 3 tablespoons margarine or butter till crumbly. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl stir together 2 cups flour, 1 cup brown sugar, the baking powder, baking soda, and salt."
+        },
+        {
+          "step": 3,
+          "text": "Add milk, 1/2 cup peanut butter, the eggs, and 1/4 cup margarine or butter. Beat with an electric mixer on low speed till blended. Beat at high speed for 3 minutes, scraping the sides of the bowl frequently."
+        },
+        {
+          "step": 4,
+          "text": "Pour batter into a greased 13x9x2-inch baking pan, spreading evenly. Sprinkle with topping mixture."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven about 30 minutes or till a toothpick inserted near the center comes out clean. Serve warm or cool."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "13x9x2-inch baking pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "coffee-cake",
+        "quick-bread",
+        "peanut-butter"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5229 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "biscuits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Biscuits",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 66",
+      "description": "For different shapes, use a sharp knife to cut the rolled dough into squares, triangles, or strips. Plain Biscuits are pictured on page 33.",
+      "servings_yield": "10 biscuits",
+      "prep_time": "",
+      "cook_time": "10-12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl stir together flour, baking powder, sugar, cream of tartar, and salt. Cut in shortening, margarine, or butter till mixture resembles coarse crumbs."
+        },
+        {
+          "step": 2,
+          "text": "Make a well in the center; add milk all at once. Stir just till dough clings together."
+        },
+        {
+          "step": 3,
+          "text": "On a lightly floured surface, knead dough gently for 10 to 12 strokes."
+        },
+        {
+          "step": 4,
+          "text": "Roll or pat dough to 1/2-inch thickness. Cut with a 2-1/2-inch biscuit cutter, dipping cutter into flour between cuts."
+        },
+        {
+          "step": 5,
+          "text": "Transfer biscuits to a baking sheet. Bake in a 450\u00b0 oven for 10 to 12 minutes or till golden. Serve warm."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Knead gently - overworking makes tough biscuits"
+      ],
+      "tags": [
+        "bread",
+        "biscuits",
+        "quick-bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5232 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "buttermilk-biscuits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Buttermilk Biscuits",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 66",
+      "description": "Biscuits made with buttermilk and baking soda.",
+      "servings_yield": "10 biscuits",
+      "prep_time": "",
+      "cook_time": "10-12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Biscuits, except stir 1/4 teaspoon baking soda into flour mixture and substitute 3/4 cup buttermilk for the milk."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Variation of Biscuits"
+      ],
+      "tags": [
+        "bread",
+        "biscuits",
+        "quick-bread",
+        "buttermilk"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5232 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "irish-soda-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Irish Soda Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 67",
+      "description": "Traditional Irish quick bread with a cross scored on top.",
+      "servings_yield": "16 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk or sour milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for brushing"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, baking powder, baking soda, and 1/4 teaspoon salt. Cut in margarine till mixture resembles coarse crumbs."
+        },
+        {
+          "step": 2,
+          "text": "Combine 1 egg and buttermilk; add to flour mixture. Stir just till moistened."
+        },
+        {
+          "step": 3,
+          "text": "On a lightly floured surface, knead gently for 12 strokes."
+        },
+        {
+          "step": 4,
+          "text": "On a greased baking sheet, shape dough into a 6-inch-round loaf. Cut a 4-inch cross, 1/4 inch deep, on the top. Brush with 1 beaten egg."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven about 30 to 35 minutes or till golden. Cool on a rack."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Cut a cross on top before baking"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "irish",
+        "soda-bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5233 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "oatmeal-raisin-scones",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oatmeal-Raisin Scones",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 67",
+      "description": "Scottish-style scones with oats and raisins or chocolate pieces.",
+      "servings_yield": "12 scones",
+      "prep_time": "",
+      "cook_time": "10-12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "quick-cooking rolled oats",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins, coarsely chopped; currants; or miniature semisweet chocolate pieces",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brushing"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, sugar, baking powder, and cinnamon. Cut in margarine till mixture resembles coarse crumbs."
+        },
+        {
+          "step": 2,
+          "text": "Stir in oats and raisins, currants, or chocolate pieces."
+        },
+        {
+          "step": 3,
+          "text": "Combine egg and 1/4 cup milk; add to flour mixture. Stir just till moistened (will be sticky)."
+        },
+        {
+          "step": 4,
+          "text": "On a lightly floured surface, pat dough into a 7-inch circle. Cut into 12 wedges; place on a baking sheet. Brush with milk."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 400\u00b0 oven for 10 to 12 minutes or till light brown. Serve warm."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [],
+      "tags": [
+        "bread",
+        "scones",
+        "quick-bread",
+        "oatmeal",
+        "raisins"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5233 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
