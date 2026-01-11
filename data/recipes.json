@@ -105172,7 +105172,663 @@
       "tags": ["casserole", "grain", "rice", "side-dish"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5436 Large.jpeg"]
+    },
+    {
+      "id": "pies-nutrition-analysis",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pies Nutrition Analysis",
+      "category": "reference",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, pages 280-281",
+      "description": "Comprehensive nutrition analysis table for pie recipes.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [
+        {"step": 1, "text": "This reference table provides per-serving nutrition data and percent U.S. RDA for all pie recipes in this chapter."},
+        {"step": 2, "text": "Columns include: Servings Per Recipe, Calories, Protein (g), Carbohydrate (g), Fat (g), Cholesterol (mg), Sodium (mg), Potassium (mg), and Percent U.S. RDA for nutrients."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": ["Reference chart for meal planning and dietary needs"],
+      "tags": ["reference", "nutrition", "pies", "desserts"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5441 Large.jpeg", "IMG_5442 Large.jpeg"]
+    },
+    {
+      "id": "mince-apple-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mince-Apple Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 281",
+      "description": "A delicious combination of mincemeat and fresh apples in a double-crust pie.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "50-55 minutes",
+      "total_time": "1 hour 20 minutes",
+      "ingredients": [
+        {"item": "thinly sliced, peeled cooking apples", "quantity": "3", "unit": "cups", "prep_note": "3 medium"},
+        {"item": "mincemeat", "quantity": "28-29", "unit": "oz", "prep_note": "1 jar"},
+        {"item": "packed brown sugar", "quantity": "1/4", "unit": "cup"},
+        {"item": "orange juice or brandy", "quantity": "2", "unit": "tbsp"},
+        {"item": "Pastry for Double-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 294"},
+        {"item": "milk", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "sugar", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "Hard Sauce", "quantity": "", "unit": "", "prep_note": "see recipe, page 140, optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Stir together apples, mincemeat, brown sugar, and orange juice. Transfer to a pastry-lined 9-inch pie plate. Cut slits in top crust. Adjust top crust. Seal and flute edge. Brush crust with milk and sprinkle with sugar, if desired. Cover edge of pie with foil."},
+        {"step": 2, "text": "Bake in a 375° oven for 25 minutes. Remove foil. Bake for 25 to 30 minutes more or till pastry is golden and apples are tender. Serve with Hard Sauce, if desired. Makes 8 servings."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "mincemeat", "apple", "holiday", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5442 Large.jpeg"]
+    },
+    {
+      "id": "double-crust-fruit-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Double-Crust Fruit Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 282",
+      "description": "Classic double-crust fruit pie that works with a variety of fruits.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "50-60 minutes",
+      "total_time": "1 hour 25 minutes",
+      "ingredients": [
+        {"item": "Fruit-Pie Filling", "quantity": "", "unit": "", "prep_note": "see chart, opposite"},
+        {"item": "Flavoring", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "Pastry for Double-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 294"},
+        {"item": "sugar", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Mix ingredients for filling, adding flavoring, if desired. Transfer to a pastry-lined 9-inch pie plate. Cut slits in top crust. Adjust top crust. Seal and flute edge. Sprinkle with sugar, if desired. Cover edge with foil."},
+        {"step": 2, "text": "Bake in a 375° oven 25 minutes. Remove foil. Bake for 20 to 25 minutes more or till the top is golden and fruit is tender. (Bake cherry pie for 50 to 60 minutes total.) Serves 8."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Flavoring: Add one of the following to filling with the flour: 1/2 teaspoon finely shredded lemon or peel, 1/4 to 1/2 teaspoon ground cinnamon, 1/4 teaspoon ground allspice or ginger, or 1/2 teaspoon ground nutmeg. Or, add 1/4 teaspoon almond extract to filling with the fruit."
+      ],
+      "tags": ["pie", "fruit", "double-crust", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5443 Large.jpeg"]
+    },
+    {
+      "id": "crumb-topped-fruit-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crumb-Topped Fruit Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 282",
+      "description": "Use the smallest amount of sugar recommended for your fruit because the brown-sugar topping also sweetens the pie.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "45-50 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {"item": "Fruit-Pie Filling", "quantity": "", "unit": "", "prep_note": "see chart, opposite"},
+        {"item": "Flavoring", "quantity": "", "unit": "", "prep_note": "see above, optional"},
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "all-purpose flour", "quantity": "1/2", "unit": "cup"},
+        {"item": "packed brown sugar", "quantity": "1/2", "unit": "cup"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp"},
+        {"item": "Powdered Sugar Icing", "quantity": "", "unit": "", "prep_note": "see recipe, page 88, optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Mix ingredients for filling, adding flavoring, if desired. Transfer filling to a pastry-lined 9-inch pie plate. Combine flour and brown sugar. Cut in margarine till mixture resembles coarse crumbs; sprinkle over filling. Cover edge with foil."},
+        {"step": 2, "text": "Bake in a 375° oven 25 minutes. Remove foil. Bake 20 to 25 minutes more or till top is golden and fruit is tender. (Bake cherry pie for 50 to 60 minutes total.) If desired, drizzle with icing. Serves 8."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "fruit", "crumb-topped", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5443 Large.jpeg"]
+    },
+    {
+      "id": "deep-dish-apple-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Deep-Dish Apple Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 284",
+      "description": "Just spoon the filling into a casserole and top it with pastry for this old-time dessert.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1/2 to 3/4", "unit": "cup"},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp"},
+        {"item": "ground cinnamon", "quantity": "1/2", "unit": "tsp"},
+        {"item": "ground allspice", "quantity": "1/4", "unit": "tsp"},
+        {"item": "thinly sliced, peeled cooking apples", "quantity": "6", "unit": "cups", "prep_note": "about 2 1/4 pounds"},
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a mixing bowl combine sugar, flour, cinnamon, and allspice. Add apples; toss to coat fruit. Transfer to a 1 1/2-quart casserole."},
+        {"step": 2, "text": "Prepare Pastry for Single-Crust Pie, except roll pastry 1 inch larger than top of casserole. Cut slits in pastry. Place pastry atop apples. Seal and flute edge to rim of casserole. Cover edge of pie with foil."},
+        {"step": 3, "text": "Place on a baking sheet. Bake in a 375° oven for 25 minutes. Remove foil. Bake for 30 to 35 minutes more or till crust is golden and filling is bubbly. Serve warm or cool. Makes 8 servings."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "1 1/2-quart casserole",
+      "notes": [
+        "Deep-Dish Peach Pie: Prepare as above, except omit cinnamon and allspice. Substitute 6 cups sliced, peeled peaches (3 pounds) for the apples. Sprinkle peaches with 1/2 teaspoon almond extract; toss with the sugar and flour."
+      ],
+      "tags": ["pie", "apple", "deep-dish", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5445 Large.jpeg"]
+    },
+    {
+      "id": "crunchy-peach-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crunchy Peach Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 284",
+      "description": "Almonds in the crumb topping add the crunch.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "finely crushed vanilla wafers", "quantity": "3/4", "unit": "cup", "prep_note": "about 20 wafers"},
+        {"item": "chopped almonds", "quantity": "1/4", "unit": "cup"},
+        {"item": "margarine or butter, melted", "quantity": "3", "unit": "tbsp"},
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "eggs", "quantity": "2", "unit": ""},
+        {"item": "lemon juice", "quantity": "1", "unit": "tbsp"},
+        {"item": "sugar", "quantity": "1/4", "unit": "cup"},
+        {"item": "canned peach slices, or unpeeled apricot halves", "quantity": "16-17", "unit": "oz", "prep_note": "drained and coarsely chopped"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Mix crushed wafers, almonds, and margarine; set aside. Line the bottom of a pastry-lined 9-inch pie plate with a double thickness of foil. Bake in a 450° oven for 5 minutes. Remove foil. Bake 5 minutes more. Meanwhile, beat together eggs and lemon juice; stir in sugar. Fold fruit into egg mixture."},
+        {"step": 2, "text": "Transfer fruit mixture to the partially baked pastry shell. Sprinkle with wafer mixture. Cover edge of pie with foil. Reduce oven temperature to 375°. Bake for 20 minutes. Remove foil; bake for 15 to 20 minutes more or till set. Cool on a wire rack. Cover and chill to store. Serves 8."}
+      ],
+      "temperature": "450°F then 375°F",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "peach", "crumb-topped", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5445 Large.jpeg"]
+    },
+    {
+      "id": "raisin-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Raisin Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 284",
+      "description": "A classic raisin pie with orange and walnuts.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 10 minutes",
+      "ingredients": [
+        {"item": "packed brown sugar", "quantity": "3/4", "unit": "cup"},
+        {"item": "cornstarch", "quantity": "2", "unit": "tbsp"},
+        {"item": "raisins", "quantity": "2", "unit": "cups"},
+        {"item": "finely shredded orange peel", "quantity": "1", "unit": "tsp"},
+        {"item": "orange juice", "quantity": "1/4", "unit": "cup"},
+        {"item": "lemon juice", "quantity": "2", "unit": "tbsp"},
+        {"item": "chopped walnuts", "quantity": "1/2", "unit": "cup"},
+        {"item": "Pastry for Double-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 294"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a saucepan mix brown sugar and cornstarch. Stir in raisins, peel, orange juice, lemon juice, and 1 1/2 cups cold water. Cook and stir till bubbly; cook and stir 2 minutes more. Remove from heat; stir in nuts."},
+        {"step": 2, "text": "Transfer to a pastry-lined 9-inch pie plate. Cut slits in top crust. Adjust top crust. Seal and flute edge. Cover edge with foil. Bake in a 375° oven 25 minutes. Remove foil; bake 20 to 25 minutes more or till crust is golden. Serves 8."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "raisin", "double-crust", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5445 Large.jpeg"]
+    },
+    {
+      "id": "berry-glace-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Berry Glacé Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 285",
+      "description": "The flavor of just-picked fruit awaits you in this delicious glazed pie.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "2 hours",
+      "ingredients": [
+        {"item": "medium strawberries, or 3 cups red raspberries and 3 cups sliced, peeled peaches", "quantity": "8", "unit": "cups"},
+        {"item": "water", "quantity": "2/3", "unit": "cup"},
+        {"item": "sugar", "quantity": "2/3", "unit": "cup"},
+        {"item": "cornstarch", "quantity": "2", "unit": "tbsp"},
+        {"item": "red food coloring", "quantity": "", "unit": "", "prep_note": "several drops, optional"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "whipped cream", "quantity": "", "unit": "", "prep_note": "optional"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Remove stems from strawberries. Cut any large strawberries in half lengthwise. Set aside."},
+        {"step": 2, "text": "For glaze, in a blender container or food processor bowl combine 1 cup of the strawberries or raspberries and the water. Cover and blend or process till smooth. (If using raspberries, press through a sieve after blending to remove seeds.) Add enough additional water to equal 1 1/2 cups."},
+        {"step": 3, "text": "In a medium saucepan combine sugar and cornstarch. Stir in blended berry mixture. Cook and stir over medium heat till mixture is thickened and bubbly. Cook and stir for 2 minutes more. Stir in red food coloring, if desired. Cool for 10 minutes without stirring."},
+        {"step": 4, "text": "Spread about 1/4 cup of the glaze over bottom and sides of the Baked Pastry Shell. Arrange half of the remaining strawberries, stem end down, in pastry shell (or half of the remaining raspberries and half of the peaches). Carefully spoon half of the remaining glaze over fruit, thoroughly covering each piece of fruit. Arrange remaining fruit over first layer. Spoon remaining glaze over fruit, covering each piece."},
+        {"step": 5, "text": "Chill for 1 to 2 hours. (After 2 hours, filling may begin to water out.) Garnish with whipped cream, if desired. Makes 8 servings."},
+        {"step": 6, "text": "Microwave directions: Prepare strawberries as above. For glaze, blend berries as above. In a 1 1/2-quart casserole combine sugar and cornstarch. Stir in blended berry mixture. Micro-cook, uncovered, on 100% power (high) for 3 to 5 minutes or till thickened and bubbly, stirring every minute. Cook, uncovered, on high for 30 seconds more. Stir in red food coloring, if desired. Cool for 10 minutes without stirring. Assemble and chill pie as above."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Peach Glacé Pie: Prepare as above, except substitute 6 cups sliced, peeled peaches for the fruit and omit food coloring."
+      ],
+      "tags": ["pie", "berry", "strawberry", "glace", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5446 Large.jpeg"]
+    },
+    {
+      "id": "cherry-lattice-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cherry Lattice Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 285",
+      "description": "A ruby red filling enticingly peeks through the lattice crust.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "55 minutes",
+      "total_time": "1 hour 25 minutes",
+      "ingredients": [
+        {"item": "canned pitted tart red cherries (water pack)", "quantity": "32", "unit": "oz", "prep_note": "2 cans"},
+        {"item": "sugar", "quantity": "1", "unit": "cup"},
+        {"item": "cornstarch", "quantity": "1/4", "unit": "cup"},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp"},
+        {"item": "almond extract", "quantity": "3 to 4", "unit": "drops"},
+        {"item": "red food coloring", "quantity": "10", "unit": "drops", "prep_note": "optional"},
+        {"item": "Pastry for Lattice-Top Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 294"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Drain cherries, reserving 1 cup liquid. In a large saucepan combine 3/4 cup of the sugar and the cornstarch. Stir in reserved cherry liquid. Cook and stir over medium heat till thickened and bubbly. Cook and stir for 2 minutes more. Remove from heat. Stir in the remaining sugar, margarine or butter, almond extract, and, if desired, food coloring. Stir in cherries. Cool slightly."},
+        {"step": 2, "text": "Fill a pastry-lined 9-inch pie plate with cherry mixture. Top with lattice crust. Cover edge of pie with foil. Bake in a 375° oven for 25 minutes. Remove foil; bake for 25 to 30 minutes more or till crust is golden. Cool on a wire rack before serving. Makes 8 servings."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "cherry", "lattice", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5446 Large.jpeg"]
+    },
+    {
+      "id": "custard-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Custard Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 286",
+      "description": "Sweet, silky, and scrumptious.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "35-40 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "eggs", "quantity": "4", "unit": ""},
+        {"item": "sugar", "quantity": "1/2", "unit": "cup"},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp"},
+        {"item": "salt", "quantity": "1/4", "unit": "tsp"},
+        {"item": "milk", "quantity": "2 1/2", "unit": "cups"},
+        {"item": "ground nutmeg", "quantity": "", "unit": "", "prep_note": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Bake pastry shell in a 450° oven for 5 minutes."},
+        {"step": 2, "text": "For filling, in a bowl beat eggs slightly with a rotary beater or fork till combined. Stir in sugar, vanilla, and salt. Gradually stir in milk. Mix well."},
+        {"step": 3, "text": "Place the partially baked pastry shell on oven rack. Pour the filling into the pastry shell. Sprinkle with nutmeg. Cover edge of pie with foil. Reduce oven temperature to 350° and bake for 25 minutes. Remove foil. Bake for 15 to 20 minutes more or till a knife inserted near the center comes out clean. Cool pie on a wire rack. Cover and chill to store. Makes 8 servings."}
+      ],
+      "temperature": "450°F then 350°F",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Coconut Custard Pie: Prepare as above, except stir in 1/2 cup toasted coconut with the milk. Mix well."
+      ],
+      "tags": ["pie", "custard", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5447 Large.jpeg"]
+    },
+    {
+      "id": "lemon-chess-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Chess Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 286",
+      "description": "This sweet yet tart pie hails from the South.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "35-40 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "eggs", "quantity": "4", "unit": ""},
+        {"item": "sugar", "quantity": "1 1/2", "unit": "cups"},
+        {"item": "margarine or butter, melted", "quantity": "1/2", "unit": "cup"},
+        {"item": "finely shredded lemon peel", "quantity": "2", "unit": "tsp"},
+        {"item": "lemon juice", "quantity": "2", "unit": "tbsp"},
+        {"item": "cornmeal", "quantity": "1", "unit": "tbsp"},
+        {"item": "vanilla", "quantity": "1 1/2", "unit": "tsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Line bottom of a pastry-lined 9-inch pie plate with a double thickness of foil. Bake in a 450° oven for 5 minutes. Remove foil. Bake for 5 minutes more."},
+        {"step": 2, "text": "For filling, in a bowl beat eggs lightly till combined. Stir in sugar, margarine, peel, lemon juice, cornmeal, and vanilla. Mix well. Place pastry shell on the oven rack. Pour filling into shell."},
+        {"step": 3, "text": "Cover edge of pie with foil. Reduce oven temperature to 350° and bake for 20 minutes. Remove foil. Bake for 15 to 20 minutes more or till a knife inserted near the center comes out clean. Cool on a rack. Cover and chill to store. Serves 8."}
+      ],
+      "temperature": "450°F then 350°F",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "lemon", "chess", "southern", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5447 Large.jpeg"]
+    },
+    {
+      "id": "pumpkin-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pumpkin Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 286",
+      "description": "Classic pumpkin pie perfect for Thanksgiving.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "50 minutes",
+      "total_time": "1 hour 10 minutes",
+      "ingredients": [
+        {"item": "canned pumpkin", "quantity": "16", "unit": "oz", "prep_note": "1 can"},
+        {"item": "sugar", "quantity": "2/3", "unit": "cup"},
+        {"item": "ground cinnamon", "quantity": "1", "unit": "tsp"},
+        {"item": "ground ginger", "quantity": "1/2", "unit": "tsp"},
+        {"item": "ground nutmeg", "quantity": "1/2", "unit": "tsp"},
+        {"item": "eggs", "quantity": "3", "unit": ""},
+        {"item": "evaporated milk", "quantity": "5", "unit": "oz", "prep_note": "1 can (2/3 cup)"},
+        {"item": "milk", "quantity": "1/2", "unit": "cup"},
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For filling, in a mixing bowl combine pumpkin, sugar, cinnamon, ginger, and nutmeg. Add eggs. Beat lightly with a rotary beater or fork. Gradually stir in evaporated milk and milk. Mix well."},
+        {"step": 2, "text": "Place a pastry-lined 9-inch pie plate on the oven rack; pour in filling. Cover edge with foil."},
+        {"step": 3, "text": "Bake in a 375° oven for 25 minutes. Remove foil; bake about 25 minutes more or till a knife inserted near the center comes out clean. Cool on a wire rack. Serve with whipped cream, if desired. Cover and chill to store. Makes 8 servings."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "pumpkin", "thanksgiving", "holiday", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5447 Large.jpeg"]
+    },
+    {
+      "id": "pecan-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pecan Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 287",
+      "description": "We offer three variations of this favorite pie: Maple, Pecan, Peanut, and Coconut-Oatmeal.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "45-50 minutes",
+      "total_time": "1 hour 10 minutes",
+      "ingredients": [
+        {"item": "eggs", "quantity": "3", "unit": ""},
+        {"item": "corn syrup", "quantity": "1", "unit": "cup"},
+        {"item": "sugar", "quantity": "2/3", "unit": "cup"},
+        {"item": "margarine or butter, melted", "quantity": "1/3", "unit": "cup"},
+        {"item": "vanilla", "quantity": "1", "unit": "tsp"},
+        {"item": "pecan halves", "quantity": "1 1/4", "unit": "cups"},
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For filling, in a mixing bowl beat eggs lightly with a rotary beater or a fork till combined. Stir in corn syrup, sugar, margarine or butter, and vanilla. Stir well. Stir in pecan halves."},
+        {"step": 2, "text": "Place a pastry-lined 9-inch pie plate on the oven rack; pour the filling into the pastry-lined pie plate. Cover edge of pie with foil. Bake in a 350° oven for 25 minutes."},
+        {"step": 3, "text": "Remove foil; bake for 20 to 25 minutes more or till a knife inserted near the center comes out clean. Cool pie on a wire rack. Cover and chill to store. Makes 8 servings."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Maple Pecan Pie: Prepare as above, except substitute maple syrup or maple-flavored syrup for the corn syrup.",
+        "Peanut Pie: Prepare as above, except substitute coarsely chopped peanuts, macadamia nuts, or cashews for the pecans.",
+        "Coconut-Oatmeal Pie: Prepare as above, except substitute 3/4 cup coconut and 1/2 cup quick-cooking rolled oats for the pecans."
+      ],
+      "tags": ["pie", "pecan", "southern", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5448 Large.jpeg"]
+    },
+    {
+      "id": "brown-sugar-and-rhubarb-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brown Sugar and Rhubarb Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 287",
+      "description": "A delicious rhubarb pie with meringue topping.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "45-50 minutes",
+      "total_time": "1 hour 20 minutes",
+      "ingredients": [
+        {"item": "Pastry for Single-Crust Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "packed brown sugar", "quantity": "1 to 1 1/4", "unit": "cups"},
+        {"item": "all-purpose flour", "quantity": "1/4", "unit": "cup"},
+        {"item": "finely chopped rhubarb (1 pound) or one 16-ounce package frozen unsweetened sliced rhubarb", "quantity": "4", "unit": "cups"},
+        {"item": "eggs", "quantity": "3", "unit": "", "prep_note": "separated"},
+        {"item": "Meringue for Pie", "quantity": "", "unit": "", "prep_note": "see recipe, page 288"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Bake pastry in a 450° oven for 5 minutes."},
+        {"step": 2, "text": "For filling, in a mixing bowl combine brown sugar and flour. Add rhubarb; toss to coat. Let stand for 15 minutes (30 minutes for frozen rhubarb), stirring once or twice."},
+        {"step": 3, "text": "Separate egg yolks from whites; set whites aside for meringue. Beat egg yolks slightly with a fork. Stir yolks into rhubarb mixture. Transfer rhubarb mixture to the partially baked pastry shell. Cover edge of pie with foil. Reduce oven temperature to 375°. Bake for 25 minutes. (If using frozen rhubarb, bake 45 minutes.) Remove foil; bake for 20 to 25 minutes more or till filling is nearly set. (Pie will appear soft in the center but will become firmer upon cooling.)"},
+        {"step": 4, "text": "Evenly spread meringue over hot filling, sealing to edge of pastry. Reduce oven temperature to 350°. Bake for 15 minutes. Cool on rack. Cover and chill to store. Serves 8."}
+      ],
+      "temperature": "450°F then 375°F then 350°F",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "rhubarb", "meringue", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5448 Large.jpeg"]
+    },
+    {
+      "id": "lemon-meringue-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Meringue Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 288",
+      "description": "A refreshingly tangy dessert with fluffy meringue topping.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "2 hours",
+      "ingredients": [
+        {"item": "sugar", "quantity": "1 1/2", "unit": "cups"},
+        {"item": "all-purpose flour", "quantity": "3", "unit": "tbsp"},
+        {"item": "cornstarch", "quantity": "3", "unit": "tbsp"},
+        {"item": "eggs", "quantity": "3", "unit": "", "prep_note": "separated"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp"},
+        {"item": "finely shredded lemon peel", "quantity": "1 to 2", "unit": "tsp"},
+        {"item": "lemon juice", "quantity": "1/3", "unit": "cup"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "Meringue for Pie", "quantity": "", "unit": "", "prep_note": "see recipe, below right"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For filling, in a medium saucepan combine sugar, flour, cornstarch, and dash salt. Gradually stir in 1 3/4 cups water. Cook and stir over medium-high heat till thickened and bubbly. Reduce heat; cook and stir for 2 minutes more. Remove from heat."},
+        {"step": 2, "text": "Separate egg yolks from whites; set whites aside for meringue. Beat egg yolks slightly. Gradually stir about 1 cup of the hot filling into yolks. Return all to saucepan. Bring to a gentle boil. Cook and stir 2 minutes more. Remove from heat. Stir in margarine and lemon peel. Gradually stir in lemon juice, gently mixing well. Pour hot filling into Baked Pastry Shell."},
+        {"step": 3, "text": "Evenly spread meringue over hot filling, sealing to edge. Bake in a 350° oven for 15 minutes. Cool on a wire rack. Cover and chill to store. Makes 8 servings."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Orange Meringue Pie: Prepare as above, except substitute 1 tablespoon finely shredded orange peel for the lemon peel and orange juice for the lemon juice. If desired, add 2 drops red food coloring and 1 drop yellow food coloring with the orange juice."
+      ],
+      "tags": ["pie", "lemon", "meringue", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5449 Large.jpeg"]
+    },
+    {
+      "id": "key-lime-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Key Lime Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 288",
+      "description": "Although named for a variety of lime grown on the Florida Keys, our version tastes great with any type of lime.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "5 hours",
+      "ingredients": [
+        {"item": "eggs", "quantity": "3", "unit": ""},
+        {"item": "sweetened condensed milk", "quantity": "14", "unit": "oz", "prep_note": "1 can (1 1/4 cups)"},
+        {"item": "finely shredded lime peel", "quantity": "1 1/2", "unit": "tsp"},
+        {"item": "lime juice", "quantity": "1/2", "unit": "cup"},
+        {"item": "green food coloring", "quantity": "", "unit": "", "prep_note": "optional"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "Meringue for Pie", "quantity": "", "unit": "", "prep_note": "see recipe, below"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Separate egg yolks from whites; set whites aside for meringue. In a bowl beat yolks till thick and lemon colored. Stir in condensed milk and lime peel. Gradually add lime juice, beating at low speed just till combined. Do not overbeat. Stir in green food coloring, if desired."},
+        {"step": 2, "text": "Spoon lime mixture into pastry shell. Evenly spread meringue over filling; seal to edge. Bake in a 350° oven for 15 minutes. Cool. Cover and chill about 4 hours or till firm. Serve with whipped cream, if desired."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Creamy Key Lime Pie: Prepare as above, except substitute 2 whole eggs for the yolks and omit meringue. Beat eggs till slightly thickened. Stir in condensed milk, peel, and juice. Spoon into pastry shell. Cover and chill about 4 hours or till firm. Serve with whipped cream, if desired."
+      ],
+      "tags": ["pie", "key-lime", "lime", "florida", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5449 Large.jpeg"]
+    },
+    {
+      "id": "meringue-for-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meringue for Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 288",
+      "description": "Light and fluffy meringue topping for pies.",
+      "servings_yield": "topping for 1 pie",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {"item": "egg whites", "quantity": "3", "unit": ""},
+        {"item": "vanilla", "quantity": "1/2", "unit": "tsp"},
+        {"item": "cream of tartar", "quantity": "1/4", "unit": "tsp"},
+        {"item": "sugar", "quantity": "6", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Bring egg whites to room temperature. In a mixing bowl combine egg whites, vanilla, and cream of tartar. Beat with an electric mixer on medium speed about 1 minute or till soft peaks form (tips curl)."},
+        {"step": 2, "text": "Gradually add sugar, 1 tablespoon at a time, beating on high speed about 4 minutes more or till mixture forms stiff, glossy peaks and sugar dissolves. Immediately spread meringue over pie, carefully sealing to edge of pastry to prevent shrinkage. Bake as directed in pie recipe."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Four-Egg-White Meringue: Prepare as above, except use 4 egg whites, 1 teaspoon vanilla, 1/2 teaspoon cream of tartar, and 1/2 cup sugar. Beat about 5 minutes till stiff, glossy peaks form."
+      ],
+      "tags": ["meringue", "topping", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5449 Large.jpeg"]
+    },
+    {
+      "id": "vanilla-cream-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vanilla Cream Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 289",
+      "description": "If you like, skip the meringue and top the filling with whipped cream.",
+      "servings_yield": "8 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "4 hours",
+      "ingredients": [
+        {"item": "sugar", "quantity": "3/4", "unit": "cup"},
+        {"item": "cornstarch or 1/3 cup all-purpose flour", "quantity": "1/4", "unit": "cup"},
+        {"item": "milk", "quantity": "3", "unit": "cups"},
+        {"item": "eggs", "quantity": "4", "unit": ""},
+        {"item": "margarine or butter", "quantity": "1", "unit": "tbsp"},
+        {"item": "vanilla", "quantity": "1 1/2", "unit": "tsp"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"},
+        {"item": "Four-Egg-White Meringue", "quantity": "", "unit": "", "prep_note": "see recipe, opposite"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "For filling, in a medium saucepan combine sugar and cornstarch or flour. Gradually stir in milk. Cook and stir over medium-high heat till mixture is thickened and bubbly. Reduce heat; cook and stir for 2 minutes more. Remove from heat."},
+        {"step": 2, "text": "Separate egg yolks from whites; set whites aside for meringue. Beat egg yolks lightly with a fork. Gradually stir about 1 cup of the hot filling into yolks. Return all to saucepan. Bring to a gentle boil. Cook and stir 2 minutes more."},
+        {"step": 3, "text": "Remove from heat. Stir in margarine or butter and vanilla. Pour the hot filling into Baked Pastry Shell. Evenly spread meringue over hot filling, seal to edge. Bake in a 350° oven for 15 minutes. Cool on a wire rack. Cover and chill to store. Makes 8 servings."}
+      ],
+      "temperature": "350°F (175°C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Coconut Cream Pie: Prepare as above, except stir in 1 cup flaked coconut with margarine or butter and vanilla. Sprinkle another 1/2 cup flaked coconut over meringue before baking.",
+        "Banana Cream Pie: Prepare as above, except before adding filling, spread 3 medium bananas, sliced (about 2 1/4 cups), into the bottom of the Baked Pastry Shell.",
+        "Dark-Chocolate Cream Pie: Prepare as above, except increase the sugar to 1 cup. Stir in 3 squares (3 ounces) unsweetened chocolate, chopped, with the milk.",
+        "Milk-Chocolate Cream Pie: Prepare as above, except stir in 3 squares (3 ounces) semisweet chocolate, chopped, with the milk.",
+        "Sour Cream and Raisin Cream Pie: Prepare as above, except increase cornstarch to 1/3 cup (or increase flour to 2/3 cup). Fold in 1 cup raisins and 1/2 cup dairy sour cream with the margarine or butter and vanilla."
+      ],
+      "tags": ["pie", "cream-pie", "vanilla", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5450 Large.jpeg"]
+    },
+    {
+      "id": "fruity-cream-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruity Cream Pie",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 289",
+      "description": "A light and creamy fruit-topped pie.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "0 minutes",
+      "total_time": "several hours",
+      "ingredients": [
+        {"item": "regular vanilla pudding mix", "quantity": "4-serving", "unit": "size", "prep_note": "1 package"},
+        {"item": "milk", "quantity": "1 1/2", "unit": "cups", "prep_note": "use only 1 1/2 cups"},
+        {"item": "canned unpeeled apricot halves or peach slices, or drain one 8 1/2-ounce can crushed pineapple", "quantity": "8.5", "unit": "oz", "prep_note": "drained and chopped"},
+        {"item": "light rum or brandy", "quantity": "2", "unit": "tbsp"},
+        {"item": "frozen whipped dessert topping", "quantity": "4", "unit": "oz", "prep_note": "thawed"},
+        {"item": "Baked Pastry Shell", "quantity": "", "unit": "", "prep_note": "see recipe, page 293"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "In a medium saucepan cook one 4-serving-size package regular vanilla pudding mix according to package directions, except use only 1 1/2 cups milk. Remove from heat. Drain and chop one 8 1/2-ounce can unpeeled apricot halves or peach slices, or drain one 8 1/2-ounce can crushed pineapple. Stir drained fruit and 2 tablespoons light rum or brandy into pudding. Cover surface with clear plastic wrap; cool to room temperature without stirring."},
+        {"step": 2, "text": "Fold one 4-ounce container frozen whipped dessert topping, thawed, into pudding mixture. Pour into a Baked Pastry Shell (see recipe, page 293). Cover and chill several hours. If desired, garnish with toasted coconut. Serves 8."}
+      ],
+      "temperature": "",
+      "pan_size": "9-inch pie plate",
+      "notes": [],
+      "tags": ["pie", "cream-pie", "fruit", "dessert"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5450 Large.jpeg"]
     }
   ],
-  "version": "2.80.0"
+  "version": "2.81.0"
 }
