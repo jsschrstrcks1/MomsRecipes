@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1055
+    "total_recipes": 1064
   },
   "recipes": [
     {
@@ -97269,6 +97269,699 @@
       },
       "image_refs": [
         "IMG_5345 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "creole-stuffed-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creole Stuffed Roast",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 228",
+      "servings_yield": "10 to 12 servings",
+      "ingredients": [
+        {
+          "item": "finely chopped onion",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cloves garlic, minced",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "celery seed",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/4 to 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "boneless pork loin roast (double)",
+          "quantity": "3 to 4",
+          "unit": "lb",
+          "prep_note": "in tied"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For stuffing, in a mixing bowl combine onion, green pepper, garlic, celery seed, black pepper, and red pepper. Set aside. Cut tied pork roast and separate. Trim fat. Cut slits along the flat side of one half of roast."
+        },
+        {
+          "step": 2,
+          "text": "Fill slits with some of the stuffing. Place meat, cut side up, on a rack in a shallow roasting pan. Insert a meat thermometer. Roast in a 325\u00b0 oven for 1 1/4 to 1 3/4 hours. Cover and let stand 15 minutes before carving."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "meat",
+        "pork",
+        "roast",
+        "stuffed",
+        "creole"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5388 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "rice-stuffed-rib-crown-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice-Stuffed Rib Crown Roast",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 228",
+      "description": "Sides of ribs form an impressive roast.",
+      "servings_yield": "10 to 12 servings",
+      "ingredients": [
+        {
+          "item": "pork rib back ribs (16 to 20 ribs)",
+          "quantity": "4",
+          "unit": "lb"
+        },
+        {
+          "item": "clove garlic, halved",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "light corn syrup",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded carrot",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried Italian seasoning",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "To form roast, tie 2 or 3 slabs of ribs together, rib side out and double-bone end up, forming a circle about 5 inches in diameter with crown leaving the inside shallow roasting pan. Rub the inside of the crown. If desired, sprinkle meat thermometer in a 450\u00b0 oven for 20 minutes. Reduce oven temperature to 350\u00b0. Brush roast."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for stuffing, in a saucepan combine water, rice, carrot, corn syrup, salt, and the 1/4 teaspoon pepper. Bring to boiling; reduce heat. Cover; simmer for 15 minutes. Remove from heat. Spoon stuffing into crown of roast, transfer meat to a serving platter. Using a fork to steady, cut between the ribs. Make 6 to 8 servings."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C) then 350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Fruit-Stuffed Rib Crown Roast: Prepare as above, except instead of rice stuffing, add one 6-ounce package dried fruit bits and 1/2 teaspoon ground cinnamon with the rice."
+      ],
+      "tags": [
+        "meat",
+        "pork",
+        "roast",
+        "crown roast",
+        "stuffed",
+        "elegant"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5388 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "harvest-pot-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Harvest Pot Roast",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 229",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "boneless pork shoulder roast",
+          "quantity": "3 to 3 1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "medium onion, cut into wedges",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "dried dillweed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "instant beef bouillon granules",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "medium acorn squash, peeled and sliced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "medium potatoes, peeled and halved",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Trim fat from meat. If desired, sprinkle meat with salt and pepper. In Dutch oven brown meat on all sides in hot oil. Drain fat. Add onion, bouillon, bay leaf, 1 1/4 cups water, and 1/4 teaspoon pepper. Bring to boiling; reduce heat. Simmer, covered, for 25 to 30 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Add squash. Cook until meat is done, about 1 hour. Cut squash in half; remove seeds. Cut each half into 4 pieces. Add squash and potatoes to Dutch oven. Simmer 25 to 30 minutes more till vegetables are done."
+        },
+        {
+          "step": 3,
+          "text": "Transfer meat and vegetables to platter; keep warm. Discard bay leaf. Skim fat from drippings. Measure 1 1/2 cups liquid; return to pan. For gravy, stir 1/4 cup cold water into flour. Stir into pan juices. Cook and stir till thickened and bubbly; cook 1 minute more. Serve with meat and vegetables. Makes 4 servings."
+        }
+      ],
+      "tags": [
+        "meat",
+        "pork",
+        "pot roast",
+        "vegetables"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5389 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "roast-pork-with-mushroom-butter-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Pork with Mushroom-Butter Sauce",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 229",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "cups finely chopped fresh mushrooms",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped green onions",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "4",
+          "unit": "tsp"
+        },
+        {
+          "item": "boneless pork roast, rolled and tied",
+          "quantity": "4",
+          "unit": "lb"
+        },
+        {
+          "item": "coarsened (8 ribs)",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "Mushroom-Butter Sauce",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For stuffing, combine mushrooms, onions, and green onions. In a skillet cook mushrooms, salt, and 1/4 teaspoon pepper in margarine till liquid evaporates. Remove from heat. Stir in wine, parsley, lemon juice, 1/4 teaspoon salt, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 2,
+          "text": "Trim fat from roast. Make 8 pockets, about 1/4 inch deep, in meat. Spoon stuffing into pockets. Place roast, rib side down, in a shallow roasting pan. Insert meat thermometer. Roast in a 325\u00b0 oven for 2 to 3 hours or till thermometer registers 170\u00b0. Cover; let stand 15 minutes before carving. Serve with Mushroom-Butter Sauce."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "meat",
+        "pork",
+        "roast",
+        "mushrooms"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5389 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pork-with-apple-nutmeg-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pork with Apple-Nutmeg Sauce",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 230",
+      "description": "Drizzle this tasty cider sauce over meat.",
+      "servings_yield": "4 to 5 servings",
+      "ingredients": [
+        {
+          "item": "boneless pork loin center rib roast",
+          "quantity": "1 1/4",
+          "unit": "lb"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "small clove garlic, minced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground white pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "apple cider or apple juice",
+          "quantity": "1 1/4",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Trim fat from meat. If desired, sprinkle meat with salt and pepper. Place rib side down, in a shallow roasting pan. Insert a meat thermometer. Roast in a 325\u00b0 oven for 1 1/4 to 1 3/4 hours or till thermometer registers 170\u00b0 (well-done). Cover and let stand 15 minutes before carving."
+        },
+        {
+          "step": 2,
+          "text": "For sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in corn, apple, bouillon granules, nutmeg, and pepper. Add apple cider and stir 1 minute. Cook and stir more. Serve sauce over meat. Serves 8 to 10."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "meat",
+        "pork",
+        "roast",
+        "apple",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5390 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "citrus-glazed-ribs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Citrus-Glazed Ribs",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 230",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "pork loin back ribs",
+          "quantity": "2 1/2 to 3",
+          "unit": "lb"
+        },
+        {
+          "item": "orange marmalade",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "ginger, ground optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut ribs into serving-size pieces. Place ribs, bone side down, on a rack in a shallow roasting pan."
+        },
+        {
+          "step": 2,
+          "text": "Roast in a 350\u00b0 oven for 1 hour. Drain. Meanwhile, for orange combine soy sauce, 2 tablespoons marmalade, lemon juice, and 3/4 teaspoon ground ginger. Roast 30 to 45 minutes more or till well-done. Brush occasionally with glaze. Brush with any remaining glaze before serving. Makes 4 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "meat",
+        "pork",
+        "ribs",
+        "glazed",
+        "citrus"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5390 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "barbecue-style-ribs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Barbecue-Style Ribs",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 230",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "pork country-style ribs",
+          "quantity": "3 to 3 1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "catsup",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "celery seed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place ribs, bone side down, on a rack in a shallow roasting pan. Bake in a 350\u00b0 oven for 1 hour. Drain."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for sauce, in a small saucepan cook onion and garlic in hot oil till tender. Stir in tomato sauce, mustard, brown sugar, lemon juice, 1/4 cup water, and 1/4 teaspoon salt. Simmer, uncovered, for 15 to 20 minutes or till slightly thickened. Stir in ribs. Bake ribs, covered, for 30 to 60 minutes more or till well-done, brushing occasionally with sauce. Pass remaining sauce with ribs. Serves 4."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "meat",
+        "pork",
+        "ribs",
+        "barbecue"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5390 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "braised-steaks-italian",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Braised Steaks Italian",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 230",
+      "servings_yield": "4 to 6 servings",
+      "ingredients": [
+        {
+          "item": "pork shoulder blade steaks, cut 1/2 to 3/4 inch thick (2 to 2 1/2 pounds)",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "medium onion, sliced and separated",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "can pizza sauce",
+          "quantity": "1",
+          "unit": "8-oz"
+        },
+        {
+          "item": "hot cooked rice or noodles",
+          "quantity": "3",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Trim fat from meat. In a large skillet brown 2 steaks on each side. Remove steaks from skillet; cook for 2 steaks and remove. Add onion to oil remaining in skillet for 2 minutes. Drain. Add pizza sauce. Return steaks to skillet."
+        },
+        {
+          "step": 2,
+          "text": "Cover; simmer for low heat about 30 minutes or till no pink remains. Remove steaks. Skim fat from pan juices. If necessary, continue cooking juices to thicken slightly. Spoon over meat. Serve with remaining glaze. Serves 4 to 6."
+        }
+      ],
+      "tags": [
+        "meat",
+        "pork",
+        "steaks",
+        "italian",
+        "braised"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5390 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "corn-stuffed-pork-chops",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn-Stuffed Pork Chops",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook, page 231",
+      "description": "Savory stuffed pork chops stuffed with a buttery corn and vegetable filling.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "pork loin rib chops or pork loin butterfly chops, cut 1 1/4 inches thick (about 2 pounds)",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "corn-bread stuffing mix or herb-seasoned stuffing mix",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cooked whole kernel corn",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "tablespoons chopped pimiento",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground cumin",
+          "quantity": "1/8 to 1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Trim fat from chops. Cut a pocket in each chop by cutting from fat side almost to the bone to make a pocket for the stuffing."
+        },
+        {
+          "step": 2,
+          "text": "For the stuffing, cook vegetables in margarine till tender but not brown, stirring occasionally. In a small saucepan cook onion and green pepper in margarine till tender. Spoon stuffing into pockets with each pork chop. Secure pockets with wooden toothpicks. Place chops on a rack in a shallow roasting pan. Cover with foil."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 375\u00b0 oven for 40 to 45 minutes. Uncover; continue cooking for 10 to 15 minutes more or till pork is no pink remains. Remove picks. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "tags": [
+        "meat",
+        "pork",
+        "chops",
+        "stuffed",
+        "corn"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5391 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "pending"
