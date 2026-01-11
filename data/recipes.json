@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 936
+    "total_recipes": 943
   },
   "recipes": [
     {
@@ -87169,6 +87169,833 @@
       },
       "image_refs": [
         "IMG_5246 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fudge-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fudge Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 82",
+      "description": "Satisfy those chocolate cravings with this luscious layer cake.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "unsweetened chocolate",
+          "quantity": "3",
+          "unit": "squares (3 ounces)",
+          "prep_note": "melted and cooled"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, sugar, baking powder, baking soda, and salt."
+        },
+        {
+          "step": 2,
+          "text": "Add water, shortening, and vanilla. Beat with an electric mixer on low to medium speed till combined. Beat on high speed for 2 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add eggs and melted chocolate; beat 2 minutes more."
+        },
+        {
+          "step": 4,
+          "text": "Pour batter into 2 greased and floured 8x1-1/2- or 9x1-1/2-inch round baking pans."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 350\u00b0 oven for 30 to 35 minutes or till a toothpick inserted near the centers comes out clean."
+        },
+        {
+          "step": 6,
+          "text": "Cool on wire racks for 10 minutes. Remove cakes from the pans. Cool thoroughly on wire racks."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "two 8x1-1/2- or 9x1-1/2-inch round baking pans",
+      "notes": [],
+      "tags": [
+        "cake",
+        "layer-cake",
+        "chocolate",
+        "fudge"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5247 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "black-forest-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Black Forest Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 82",
+      "description": "This traditional German dessert is a wonderful combination of chocolate and cherries.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Fudge Cake",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": "see recipe, left"
+        },
+        {
+          "item": "Choose-a-Fruit Filling (cherry option)",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 90"
+        },
+        {
+          "item": "Chocolate Butter Frosting",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 89"
+        },
+        {
+          "item": "whipped cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "chocolate shavings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Fudge Cake; cool thoroughly. Prepare Choose-a-Fruit Filling using cherries; chill well. Prepare Chocolate Butter Frosting."
+        },
+        {
+          "step": 2,
+          "text": "Place one cake layer on a serving plate. Using 1 cup of the frosting, make a border around the edge of the layer 1/2 inch wide and 1 inch high."
+        },
+        {
+          "step": 3,
+          "text": "Using 1/4 cup more of the frosting, make a solid circle in the center of cake layer about 2-1/2 inches in diameter and 1 inch high."
+        },
+        {
+          "step": 4,
+          "text": "Spread the chilled filling between the frosting border and the circle."
+        },
+        {
+          "step": 5,
+          "text": "Place second cake layer on top. Frost with remaining frosting. If desired, garnish with dollops of whipped cream and chocolate shavings."
+        },
+        {
+          "step": 6,
+          "text": "Chill. Let stand at room temperature 20 minutes before serving."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Chill before serving",
+        "Let stand at room temperature 20 minutes before serving"
+      ],
+      "tags": [
+        "cake",
+        "layer-cake",
+        "chocolate",
+        "cherry",
+        "german",
+        "black-forest"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5247 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "devils-food-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Devil's Food Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 83",
+      "description": "A classic rich chocolate layer cake.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "unsweetened cocoa powder",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, sugar, cocoa powder, baking soda, and 1/4 teaspoon salt."
+        },
+        {
+          "step": 2,
+          "text": "Add milk, shortening, and vanilla. Beat with an electric mixer on low speed till combined. Beat on high speed for 2 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add eggs and beat 2 minutes more. Pour into 2 greased and floured 9x1-1/2-inch round baking pans."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 350\u00b0 oven for 30 to 35 minutes or till a toothpick comes out clean."
+        },
+        {
+          "step": 5,
+          "text": "Cool on racks 10 minutes. Remove from pans. Cool on racks."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "two 9x1-1/2-inch round baking pans",
+      "notes": [],
+      "tags": [
+        "cake",
+        "layer-cake",
+        "chocolate",
+        "devils-food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5248 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pound-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pound Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 83",
+      "description": "Pound cake originally was made with a pound each of butter, sugar, eggs, and flour. We cut the recipe but kept the rich flavor.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "55-65 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Powdered Sugar Icing",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 88, optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring butter and eggs to room temperature. In a mixing bowl stir together flour, baking powder, and, if desired, nutmeg."
+        },
+        {
+          "step": 2,
+          "text": "In another bowl beat butter with an electric mixer on medium speed for 30 seconds."
+        },
+        {
+          "step": 3,
+          "text": "Gradually add sugar to butter, 2 tablespoons at a time, beating on medium to high speed about 6 minutes total or till very light and fluffy. Add vanilla."
+        },
+        {
+          "step": 4,
+          "text": "Add eggs, one at a time, beating 1 minute after each addition, scraping bowl often."
+        },
+        {
+          "step": 5,
+          "text": "Gradually add flour mixture to butter mixture, beating on low to medium speed just till combined."
+        },
+        {
+          "step": 6,
+          "text": "Pour batter into a greased and floured 9x5x3-inch loaf pan."
+        },
+        {
+          "step": 7,
+          "text": "Bake in a 325\u00b0 oven for 55 to 65 minutes or till a toothpick inserted near the center comes out clean."
+        },
+        {
+          "step": 8,
+          "text": "Cool on a wire rack for 10 minutes. Remove cake from pan. Cool thoroughly on a wire rack. Drizzle Powdered Sugar Icing over cake, if desired."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan",
+      "notes": [
+        "Bring butter and eggs to room temperature before starting"
+      ],
+      "tags": [
+        "cake",
+        "pound-cake"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5248 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "sponge-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sponge Cake",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 84",
+      "description": "A hint of orange accents this moist, tender cake.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "55-60 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "egg yolks",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange juice or pineapple juice",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl beat egg yolks with an electric mixer on high speed about 5 minutes or till thick and lemon colored."
+        },
+        {
+          "step": 2,
+          "text": "Add orange peel, juice, and vanilla. Beat at low speed till combined. Gradually beat in the 1 cup sugar at low speed. Increase to medium speed; beat till mixture thickens slightly and doubles in volume (about 5 minutes total)."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle 1/4 cup flour over yolk mixture; fold in till combined. Repeat with remaining flour, 1/4 cup at a time. Set yolk mixture aside."
+        },
+        {
+          "step": 4,
+          "text": "Thoroughly wash beaters. In a large bowl beat egg whites and cream of tartar at medium speed till soft peaks form (tips curl). Gradually add the 1/2 cup sugar, beating at high speed till stiff peaks form (tips stand straight)."
+        },
+        {
+          "step": 5,
+          "text": "Fold 1 cup of the beaten egg white mixture into the yolk mixture; fold yolk mixture into remaining white mixture. Pour into an ungreased 10-inch tube pan."
+        },
+        {
+          "step": 6,
+          "text": "Bake in a 325\u00b0 oven for 55 to 60 minutes or till cake springs back when lightly touched near center."
+        },
+        {
+          "step": 7,
+          "text": "Immediately invert cake (leave in pan); cool thoroughly. Loosen sides of cake from pan; remove cake from pan."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "10-inch tube pan",
+      "notes": [
+        "Do not grease pan",
+        "Invert immediately after baking to cool"
+      ],
+      "tags": [
+        "cake",
+        "sponge-cake"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5249 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "jelly-roll",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Jelly Roll",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 86",
+      "description": "Make a yule log by using apricot jam. Frost with chocolate frosting and draw bark lines with a fork. Pumpkin Cake Roll is pictured below right.",
+      "servings_yield": "10 servings",
+      "prep_time": "",
+      "cook_time": "12-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for yolk mixture"
+        },
+        {
+          "item": "egg whites",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for whites"
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for towel"
+        },
+        {
+          "item": "jelly or jam",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine flour and baking powder; set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a mixing bowl beat egg yolks and vanilla with an electric mixer on high speed for 5 minutes or till thick and lemon colored. Gradually add the 1/3 cup sugar, beating on high speed till sugar is nearly dissolved."
+        },
+        {
+          "step": 3,
+          "text": "Thoroughly wash beaters. In another bowl beat egg whites on medium speed till soft peaks form (tips curl). Gradually add the 1/2 cup sugar, beating till stiff peaks form (tips stand straight)."
+        },
+        {
+          "step": 4,
+          "text": "Fold yolk mixture into beaten egg whites. Sprinkle flour mixture over egg mixture; fold in gently just till combined."
+        },
+        {
+          "step": 5,
+          "text": "Spread batter evenly into a greased and floured 15x10x1-inch jelly-roll pan."
+        },
+        {
+          "step": 6,
+          "text": "Bake in a 375\u00b0 oven for 12 to 15 minutes or till cake springs back when lightly touched near center."
+        },
+        {
+          "step": 7,
+          "text": "Immediately loosen edges of cake from pan and turn cake out onto a towel sprinkled with powdered sugar. Roll up towel and cake, jelly-roll style, starting from one of the cake's short sides."
+        },
+        {
+          "step": 8,
+          "text": "Cool on a rack. Unroll cake; remove towel. Spread cake with jelly or jam to within 1 inch of edges. Roll up cake."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "15x10x1-inch jelly-roll pan",
+      "notes": [
+        "Roll while warm, then cool, then unroll to fill"
+      ],
+      "tags": [
+        "cake",
+        "jelly-roll",
+        "rolled-cake"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5251 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pumpkin-cake-roll",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pumpkin Cake Roll",
+      "category": "cakes",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 86",
+      "description": "A spiced pumpkin cake rolled with cream cheese frosting.",
+      "servings_yield": "10 servings",
+      "prep_time": "",
+      "cook_time": "12-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pumpkin pie spice",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for yolk mixture"
+        },
+        {
+          "item": "canned pumpkin",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for whites"
+        },
+        {
+          "item": "Cream Cheese Frosting",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 88"
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Jelly Roll, except add 2 teaspoons pumpkin pie spice to flour mixture and stir 1/2 cup canned pumpkin into egg yolk and sugar mixture."
+        },
+        {
+          "step": 2,
+          "text": "Fill with Cream Cheese Frosting (see recipe, page 88). Roll up cake."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle with sifted powdered sugar."
+        },
+        {
+          "step": 4,
+          "text": "*Note: For another filling, try 2 cups softened ice cream. Freeze ice-cream-filled roll."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "15x10x1-inch jelly-roll pan",
+      "notes": [
+        "Variation of Jelly Roll",
+        "Can fill with ice cream and freeze"
+      ],
+      "tags": [
+        "cake",
+        "jelly-roll",
+        "rolled-cake",
+        "pumpkin",
+        "fall"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5251 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
