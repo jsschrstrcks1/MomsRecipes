@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 913
+    "total_recipes": 921
   },
   "recipes": [
     {
@@ -84713,6 +84713,825 @@
       },
       "image_refs": [
         "IMG_5233 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cake-doughnuts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cake Doughnuts",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 68",
+      "description": "Mix, cut, and fry. That's all there is to making these doughnuts.",
+      "servings_yield": "13 to 15 doughnuts and doughnut holes",
+      "prep_time": "",
+      "cook_time": "1 minute per side",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together 2-1/4 cups of the flour, the baking powder, cinnamon, salt, and nutmeg."
+        },
+        {
+          "step": 2,
+          "text": "In a large mixing bowl combine eggs, sugar, and vanilla; beat with an electric mixer till thick. Combine milk and melted margarine or butter."
+        },
+        {
+          "step": 3,
+          "text": "Add flour mixture and milk mixture alternately to egg mixture, beating just till blended after each addition. Stir in remaining 1 cup flour."
+        },
+        {
+          "step": 4,
+          "text": "Cover dough; chill about 2 hours."
+        },
+        {
+          "step": 5,
+          "text": "On a lightly floured surface, roll dough to 1/2-inch thickness. Cut with a floured 2-1/2-inch doughnut cutter. Reroll as necessary."
+        },
+        {
+          "step": 6,
+          "text": "Fry two or three doughnuts at a time in deep hot fat (375\u00b0) about 1 minute on each side or till golden, turning once with a slotted spoon. Drain on paper towels."
+        },
+        {
+          "step": 7,
+          "text": "If desired, drizzle warm doughnuts with Chocolate Glaze, dip tops into glaze, or shake warm doughnuts in a bag with sugar."
+        }
+      ],
+      "temperature": "375\u00b0F deep fat",
+      "pan_size": "deep fryer or heavy pot",
+      "notes": [
+        "Chill dough 2 hours before cutting"
+      ],
+      "tags": [
+        "bread",
+        "doughnuts",
+        "deep-fried",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5234 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "popovers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Popovers",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 70",
+      "description": "These crispy, hollow puffs will be the hit of the meal whether you serve them with the appetizer, salad, or main course.",
+      "servings_yield": "6 popovers",
+      "prep_time": "",
+      "cook_time": "40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "shortening or nonstick spray coating",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Using 1/2 teaspoon shortening for each cup, grease the bottom and sides of six 6-ounce custard cups or the cups of a popover pan. Or, spray cups with nonstick coating. Place the custard cups on a 15x10x1-inch baking pan; set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a mixing bowl combine beaten eggs, milk, and cooking oil. Add flour and salt. Beat with a rotary beater or wire whisk till mixture is smooth."
+        },
+        {
+          "step": 3,
+          "text": "Fill the greased cups half full. Bake in a 400\u00b0 oven about 40 minutes or till very firm."
+        },
+        {
+          "step": 4,
+          "text": "Immediately after removal from the oven, prick each popover with a fork to let steam escape. Then, if crisper popovers are desired, return the popovers to the oven for 5 to 10 minutes more or till desired crispness (be sure the oven is turned off). Serve hot."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "6-ounce custard cups or popover pan",
+      "notes": [
+        "Prick with fork immediately after baking to release steam"
+      ],
+      "tags": [
+        "bread",
+        "popovers",
+        "quick-bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5236 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "french-toast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Toast",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 70",
+      "description": "Use French bread if you like a custardlike center; use sliced white bread if you prefer a toasty, crisp French Toast.",
+      "servings_yield": "5 or 6 slices",
+      "prep_time": "",
+      "cook_time": "2-3 minutes per side",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "1-inch-thick slices French bread or 6 slices dry white bread",
+          "quantity": "5",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine, butter, or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for cooking"
+        },
+        {
+          "item": "maple-flavored syrup",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a shallow bowl beat together eggs, milk, vanilla, and cinnamon."
+        },
+        {
+          "step": 2,
+          "text": "Dip bread into egg mixture, coating both sides (if using French bread, let soak in egg mixture about 30 seconds on each side)."
+        },
+        {
+          "step": 3,
+          "text": "In a skillet or on a griddle cook bread on both sides in a small amount of hot margarine, butter, or oil over medium heat for 2 to 3 minutes on each side or till golden brown."
+        },
+        {
+          "step": 4,
+          "text": "Add more margarine as needed. Serve with maple-flavored syrup, if desired."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "skillet or griddle",
+      "notes": [],
+      "tags": [
+        "bread",
+        "french-toast",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5236 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "waffles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Waffles",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 71",
+      "description": "Crisp, golden waffles with many flavor variations.",
+      "servings_yield": "3 or 4 waffles",
+      "prep_time": "",
+      "cook_time": "varies by waffle maker",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine flour, baking powder, and salt."
+        },
+        {
+          "step": 2,
+          "text": "In another bowl beat egg yolks slightly. Beat in milk and oil. Add egg yolk mixture all at once to flour mixture. Stir just till combined but still slightly lumpy."
+        },
+        {
+          "step": 3,
+          "text": "In a small bowl beat egg whites till stiff peaks form (tips stand straight). Gently fold beaten whites into flour and egg yolk mixture, leaving a few fluffs of egg white. Do not overmix."
+        },
+        {
+          "step": 4,
+          "text": "Pour 1 to 1-1/4 cups batter onto grids of a preheated, lightly greased waffle baker. Close lid quickly; do not open during baking."
+        },
+        {
+          "step": 5,
+          "text": "Bake according to manufacturer's directions. When done, use a fork to lift waffle off grid. Repeat with remaining batter."
+        }
+      ],
+      "temperature": "Varies by waffle maker",
+      "pan_size": "waffle iron",
+      "notes": [
+        "Do not overmix - fold in egg whites gently"
+      ],
+      "tags": [
+        "bread",
+        "waffles",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5237 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pancakes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pancakes",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 72",
+      "description": "Turn your kitchen into a pancake house with these five delicious flavors.",
+      "servings_yield": "8 to 10 standard-size or 36 dollar-size pancakes",
+      "prep_time": "",
+      "cook_time": "2-3 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together flour, sugar, baking powder, and salt."
+        },
+        {
+          "step": 2,
+          "text": "In another mixing bowl combine egg, milk, and cooking oil. Add to flour mixture all at once. Stir mixture just till blended but still slightly lumpy."
+        },
+        {
+          "step": 3,
+          "text": "Pour about 1/4 cup batter onto a hot, lightly greased griddle or heavy skillet for each standard-size pancake or about 1 tablespoon batter for each dollar-size pancake."
+        },
+        {
+          "step": 4,
+          "text": "Cook till pancakes are golden brown, turning to cook second sides when pancakes have bubbly surfaces and slightly dry edges."
+        }
+      ],
+      "temperature": "Medium-high heat",
+      "pan_size": "griddle or heavy skillet",
+      "notes": [
+        "Batter should be slightly lumpy - do not overmix"
+      ],
+      "tags": [
+        "bread",
+        "pancakes",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5238 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "crepes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crepes",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 72",
+      "description": "Place two layers of waxed paper between any extra crepes and freeze them. Let crepes thaw at room temperature for one hour before using.",
+      "servings_yield": "18 crepes",
+      "prep_time": "",
+      "cook_time": "about 1 minute per crepe",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine milk, flour, eggs, oil, and 1/4 teaspoon salt. Beat with a rotary beater till well mixed."
+        },
+        {
+          "step": 2,
+          "text": "Heat a lightly greased 6-inch skillet. Remove from the heat."
+        },
+        {
+          "step": 3,
+          "text": "Spoon in 2 tablespoons of the batter; lift and tilt the skillet to spread batter. Return to heat; brown on one side only. (Or, cook on an inverted crepe maker according to manufacturer's directions.)"
+        },
+        {
+          "step": 4,
+          "text": "Invert pan over paper towels; remove crepe. Repeat with remaining batter, greasing skillet occasionally."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "6-inch skillet or crepe maker",
+      "notes": [
+        "Brown on one side only",
+        "Can be frozen between waxed paper"
+      ],
+      "tags": [
+        "bread",
+        "crepes",
+        "breakfast",
+        "french"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5238 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "puffed-oven-pancake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Puffed Oven Pancake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 72",
+      "description": "A dramatic puffed pancake baked in the oven, served with apple-raisin sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place margarine or butter in a 10-inch ovenproof skillet. Place in a 400\u00b0 oven for 3 to 5 minutes or till margarine or butter melts."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl beat eggs with a rotary beater till combined. Add flour, milk, and salt. Beat till smooth."
+        },
+        {
+          "step": 3,
+          "text": "Immediately pour into the hot skillet. Bake about 25 minutes or till puffed and well browned."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, prepare the Apple-Raisin Sauce. Sprinkle pancake with powdered sugar and cut into wedges. Serve with sauce."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "10-inch ovenproof skillet",
+      "notes": [
+        "Serve immediately - pancake deflates quickly",
+        "Includes Apple-Raisin Sauce recipe"
+      ],
+      "tags": [
+        "bread",
+        "pancake",
+        "breakfast",
+        "dutch-baby"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5238 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "apple-raisin-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple-Raisin Sauce",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 72",
+      "description": "A warm apple sauce to serve with Puffed Oven Pancake.",
+      "servings_yield": "2 cups",
+      "prep_time": "",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "large cooking apples",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "peeled, cored, and thinly sliced"
+        },
+        {
+          "item": "apple juice or water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a skillet combine 2 large cooking apples, peeled, cored, and thinly sliced; 3/4 cup apple juice or water; 1/3 cup raisins; 2 tablespoons sugar; and 1/4 teaspoon ground cinnamon."
+        },
+        {
+          "step": 2,
+          "text": "Simmer, covered, till apples are just tender."
+        },
+        {
+          "step": 3,
+          "text": "Stir together 2 tablespoons cornstarch and 2 tablespoons cold water. Add to apple mixture."
+        },
+        {
+          "step": 4,
+          "text": "Cook and stir till thickened and bubbly. Cook and stir 2 minutes more."
+        },
+        {
+          "step": 5,
+          "text": "Stir in 1 teaspoon margarine or butter. Keep warm."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "skillet",
+      "notes": [],
+      "tags": [
+        "sauce",
+        "apple",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5238 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
