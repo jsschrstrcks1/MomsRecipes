@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1124
+    "total_recipes": 1136
   },
   "recipes": [
     {
@@ -102143,6 +102143,830 @@
       "servings_yield": "2 cups (8 servings)",
       "image_refs": [
         "IMG_5301 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "vanilla-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vanilla Sauce",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Delicious with fresh or poached fruit.",
+      "ingredients": [
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk or light cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan combine yolks, milk, and sugar. Cook and stir till mixture is thickened and bubbly. Remove from heat. Cool, then chill. To serve, whip cream and vanilla to soft peaks. Fold into yolk mixture. Makes 1 1/2 cups (12 servings)."
+        }
+      ],
+      "servings_yield": "1 1/2 cups (12 servings)",
+      "image_refs": [
+        "IMG_5302 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "whiskey-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whiskey Sauce",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Southerners traditionally ladle this sauce over bread pudding.",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "bourbon",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan melt margarine or butter. Stir in sugar, egg yolk, and water. Cook and stir constantly over medium-low heat for 5 to 6 minutes or till sugar dissolves and mixture boils. Remove from heat and stir in bourbon. Serve warm. Makes 2/3 cup (8 servings)."
+        }
+      ],
+      "servings_yield": "2/3 cup (8 servings)",
+      "image_refs": [
+        "IMG_5302 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "whipped-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whipped Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "whipping cream",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a chilled bowl combine whipping cream, sugar, and vanilla. Beat with chilled beaters of an electric mixer on medium speed till soft peaks form. Serve with pie, fruit desserts, cake, cream puffs, and hot drinks. Makes 2 cups (8 servings)."
+        }
+      ],
+      "servings_yield": "2 cups (8 servings)",
+      "notes": [
+        "Flavored Whipped Cream: Prepare as above, except add one of the following with the vanilla: 2 tablespoons unsweetened cocoa powder plus 1 tablespoon additional sugar; 2 tablespoons amaretto or coffee, hazelnut, orange, or praline liqueur; 1 teaspoon instant coffee crystals; 1/2 teaspoon almond extract; 1/4 teaspoon finely shredded lemon, orange, or lime peel; or 1/4 teaspoon ground cinnamon, nutmeg, or ginger."
+      ],
+      "image_refs": [
+        "IMG_5302 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "hard-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hard Sauce",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Traditionally served with steamed puddings and warm gingerbread.",
+      "ingredients": [
+        {
+          "item": "margarine or butter, softened",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small mixer bowl beat together softened margarine or butter and powdered sugar with an electric mixer on medium speed for 3 to 5 minutes or till mixture is well combined. Beat in vanilla. Spoon into serving bowl. Chill to harden. Serve with plum pudding or warm gingerbread. Makes 2/3 cup (10 to 12 servings)."
+        }
+      ],
+      "servings_yield": "2/3 cup (10 to 12 servings)",
+      "notes": [
+        "Brandy Hard Sauce: Prepare as above, except substitute 1 tablespoon brandy or rum for the vanilla.",
+        "Orange Hard Sauce: Prepare as above, except substitute 1/4 teaspoon finely shredded orange peel and 1 tablespoon orange juice or orange liqueur for the vanilla."
+      ],
+      "image_refs": [
+        "IMG_5302 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "scrambled-egg-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scrambled-Egg Casserole",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Use the make-ahead directions when you know your morning is going to be busy.",
+      "ingredients": [
+        {
+          "item": "chopped green pepper or sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded American or process Swiss cheese",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "3 ounces"
+        },
+        {
+          "item": "diced pimiento",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "plain or seasoned fine dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook green pepper or onion in 1 tablespoon of the margarine till tender. Add eggs; cook over medium heat without stirring till mixture begins to set on bottom and around edge. Lift and fold partially cooked eggs so uncooked portion flows underneath. Continue cooking till just set. Transfer to a 1-quart casserole."
+        },
+        {
+          "step": 2,
+          "text": "In a small saucepan melt 1 tablespoon of the margarine. Stir in flour and 1/4 teaspoon pepper. Add milk all at once. Cook and stir till thickened and bubbly. Stir in cheese till melted. Stir in pimiento. Fold cheese mixture into cooked eggs."
+        },
+        {
+          "step": 3,
+          "text": "Melt remaining margarine; toss with crumbs. Sprinkle over egg mixture. Bake in a 350\u00b0 oven for 15 to 20 minutes or till hot. Serves 4."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "1-quart casserole",
+      "servings_yield": "4 servings",
+      "notes": [
+        "To make ahead: Prepare as above, except do not bake. Cover and refrigerate casserole for 3 to 24 hours. Bake, covered, 25 minutes. Uncover; bake 10 to 15 minutes more or till hot."
+      ],
+      "image_refs": [
+        "IMG_5310 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "eggs-in-a-puff",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Eggs in a Puff",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Cheesy eggs served in a cream puff shell.",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "12",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "frozen pea pods, thawed",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "of a 6-ounce package"
+        },
+        {
+          "item": "chopped green or sweet red pepper",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "shredded cheddar or Swiss cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "4 ounces"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For cream-puff shell, combine the 1/2 cup margarine and 1 cup water. Bring to boiling. Add flour and 1/4 teaspoon salt all at once, stirring vigorously. Cook and stir till mixture forms a ball that doesn't separate. Remove from heat. Cool 5 minutes. Add 4 eggs, one at a time, beating with a wooden spoon after each addition till smooth. Spread over bottom and up the sides of a greased 9-inch pie plate. Bake in a 400\u00b0 oven for 25 to 30 minutes or till golden brown and puffy."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, beat together the remaining eggs, milk, 1/4 teaspoon salt, and dash pepper. Stir in pea pods and green or red pepper. In a large skillet melt the 1 tablespoon margarine. Pour in egg mixture. Cook, without stirring, till mixture begins to set on bottom and around edge, sprinkling with cheese. Lift and fold egg mixture till eggs are cooked but still glossy and moist, and cheese melts. Spoon into baked puff shell. Serves 6."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "9-inch pie plate",
+      "servings_yield": "6 servings",
+      "image_refs": [
+        "IMG_5310 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "egg-pita-sandwiches",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Egg-Pita Sandwiches",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced green onion or chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium skillet cook 1/3 cup sliced fresh mushrooms and 1/4 cup sliced green onion or chopped green pepper in 1 tablespoon margarine or butter till tender. In a bowl beat together 3 eggs; 3 tablespoons milk; 1/4 teaspoon dried basil, crushed; dash salt; and dash pepper. Pour over mushroom mixture. Cook, without stirring, till eggs begin to set on bottom and around edge. Lift and fold partially cooked eggs so uncooked portion flows underneath. Continue cooking till thoroughly cooked but still glossy and moist."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle 1/4 cup shredded cheddar cheese over eggs. Remove from heat. Let stand 1 minute or till cheese melts slightly. Halve 1 pita bread round; spoon egg mixture into halves. Serves 2."
+        }
+      ],
+      "servings_yield": "2 servings",
+      "image_refs": [
+        "IMG_5310 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "puffy-omelet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Puffy Omelet",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "egg whites",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl beat egg whites till frothy. Add 2 tablespoons water; continue beating about 1 1/2 minutes or till stiff peaks form (tips stand straight). Fold egg yolks into egg whites."
+        },
+        {
+          "step": 2,
+          "text": "In a large ovenproof skillet heat margarine till a drop of water sizzles. Pour in egg mixture, mounding it slightly higher at the sides. Cook over low heat for 8 to 10 minutes or till puffed, set, and golden brown on the bottom. Then bake in a 325\u00b0 oven for 8 to 10 minutes or till a knife inserted near the center comes out clean. Loosen sides of omelet with a metal spatula. Make a shallow cut slightly off center across the omelet. Fold smaller side over the larger side. Serves 2."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "servings_yield": "2 servings",
+      "notes": [
+        "Cheese-Herb Puffy Omelet: Prepare as above, except, while omelet is baking, melt 1 tablespoon margarine or butter in a saucepan. Stir in 1 tablespoon all-purpose flour, 1 teaspoon snipped chives, and 1/4 teaspoon dried fines herbes, crushed. Add 2/3 cup milk. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Stir in 1/2 cup shredded cheddar or Swiss cheese till melted. Pour over folded omelet.",
+        "Ham-and-Cheese Puffy Omelet: Prepare as above, except, while omelet is baking, melt 1 tablespoon margarine or butter in a saucepan. Stir in 1 tablespoon all-purpose flour. Add 2/3 cup milk. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Stir in 1/2 cup shredded cheddar or Swiss cheese till melted. Stir in 1/4 cup diced fully cooked ham and one 2-ounce jar sliced mushrooms, drained. Heat through. Pour over folded omelet.",
+        "Bacon-Asparagus Puffy Omelet: Prepare as above, except place one 10-ounce package frozen cut asparagus in a colander. Run hot water over asparagus till thawed; drain. Stir together 1/4 cup cold water, 1 tablespoon soy sauce, and 2 teaspoons cornstarch; set aside. In a skillet cook 2 slices bacon till crisp; drain, reserving drippings. Crumble bacon; set aside. Cook 1/4 cup chopped onion in drippings over medium heat till tender. Add asparagus; cook and stir for 3 minutes. Stir soy sauce mixture; add to skillet. Cook and stir till thickened and bubbly. Cook and stir 2 minutes more. Add bacon; spoon atop omelet before folding."
+      ],
+      "image_refs": [
+        "IMG_5312 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "frittata",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Frittata",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "An open-face omelet that's easy to whip up for a quick supper or breakfast.",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chopped cooked vegetables or meat",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "grated Parmesan or Romano cheese",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl beat eggs and 1/4 teaspoon pepper; set aside. In a 10-inch broilerproof or regular skillet cook onion and garlic in margarine or butter till tender. Stir in chopped vegetables or meat."
+        },
+        {
+          "step": 2,
+          "text": "Pour egg mixture into skillet over vegetables or meat. Cook over medium heat. As mixture sets, run a spatula around edge of skillet, lifting egg mixture to allow uncooked portions to flow underneath. Continue cooking and lifting edges till egg mixture is almost set (surface will be moist)."
+        },
+        {
+          "step": 3,
+          "text": "Place broilerproof skillet under the broiler 4 to 5 inches from the heat. Broil for 1 to 2 minutes or till top is just set. (Or, if using a regular skillet, remove skillet from the heat; cover and let stand 3 to 4 minutes or till top is set.) Sprinkle with Parmesan cheese. Cut into wedges. Serves 3."
+        }
+      ],
+      "servings_yield": "3 servings",
+      "notes": [
+        "Greek Frittata: Prepare as above, except substitute 4 cups torn fresh spinach for the chopped cooked vegetables or meat. After adding spinach to onion and garlic in the skillet, cook for 2 to 3 minutes more or till spinach is limp. Substitute 1/2 cup crumbled feta cheese for Parmesan cheese. Do not use microwave directions.",
+        "Oven Frittata: Prepare as above, except use an ovenproof skillet. After pouring egg mixture into the skillet, bake in a 350\u00b0 oven about 15 minutes or till a knife inserted near the center comes out clean."
+      ],
+      "image_refs": [
+        "IMG_5312 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "cheese-souffle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Souffl\u00e9",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Choose from four cheeses to make this melt-in-your-mouth dish.",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "6",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded cheddar, process Swiss, Colby, or Havarti cheese",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "12 ounces"
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "6",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Measure enough foil to wrap around a 2-quart souffl\u00e9 dish with 6 inches to spare. Fold foil into thirds lengthwise. Lightly butter one side. With buttered side in, position foil around dish, letting it extend 2 inches above the top. Fasten the foil."
+        },
+        {
+          "step": 2,
+          "text": "For cheese sauce, in a saucepan melt margarine or butter; stir in flour and red pepper. Add milk all at once. Cook and stir till thickened and bubbly. Remove from the heat. Add cheese, 1 cup at a time, stirring till melted. In a bowl beat yolks with a fork till combined. Slowly add cheese sauce to yolks, stirring constantly. Cool slightly."
+        },
+        {
+          "step": 3,
+          "text": "In a bowl beat egg whites till stiff peaks form (tips stand straight). Gently fold about 2 cups of the stiffly beaten whites into cheese sauce. Gradually pour cheese sauce over remaining stiffly beaten whites, folding to combine. Pour into the ungreased souffl\u00e9 dish. Bake in a 350\u00b0 oven about 50 minutes or till a knife inserted near the center comes out clean. Gently peel off foil; serve souffl\u00e9 immediately. Makes 6 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "2-quart souffl\u00e9 dish",
+      "servings_yield": "6 servings",
+      "image_refs": [
+        "IMG_5313 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "vegetable-souffle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetable Souffl\u00e9",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Puffs nicely in either a 10x6x2-inch dish or a souffl\u00e9 dish.",
+      "ingredients": [
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh marjoram, basil, dill, or tarragon, snipped; or dried herb, crushed",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": "or 1/4 teaspoon dried"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded cheddar or Swiss cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "4 ounces"
+        },
+        {
+          "item": "finely chopped cooked broccoli, cauliflower, asparagus, carrot, or spinach",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "3",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan cook onion and garlic in margarine or butter till tender. Stir in flour, desired herb, salt, and pepper. Add milk all at once. Cook and stir till thickened and bubbly. Remove from heat. Add shredded cheese and stir till melted. Stir in broccoli, cauliflower, asparagus, carrot, or spinach."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl beat egg yolks with a fork till combined. Gradually add vegetable mixture, stirring constantly. Set aside. In a bowl beat egg whites till stiff peaks form (tips stand straight). Gently fold about 1 cup of the beaten egg whites into vegetable mixture to lighten it. Gradually pour vegetable mixture over remaining beaten egg whites, folding to combine. Pour into an ungreased 1 1/2-quart souffl\u00e9 dish or a 10x6x2-inch baking dish."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 350\u00b0 oven about 40 minutes for the souffl\u00e9 dish (25 to 30 minutes for the 10x6x2-inch baking dish) or till a knife inserted near the center comes out clean. Serve souffl\u00e9 immediately. Makes 4 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "1 1/2-quart souffl\u00e9 dish or 10x6x2-inch baking dish",
+      "servings_yield": "4 servings",
+      "image_refs": [
+        "IMG_5314 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "spinach-puff",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spinach Puff",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Serve this souffl\u00e9-like dish as an entr\u00e9e, or as a side dish with fish or roast beef.",
+      "tags": [
+        "easy"
+      ],
+      "ingredients": [
+        {
+          "item": "frozen chopped spinach, thawed",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "of a 10-ounce package"
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "4",
+          "unit": "tsp"
+        },
+        {
+          "item": "cream-style cottage cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "shredded Swiss or cheddar cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "6 ounces"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "onion salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain spinach well in a colander, pressing out liquid with a spoon. Grease a 1-quart souffl\u00e9 dish or casserole; sprinkle with crumbs. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl, blender container, or food processor bowl, combine cottage cheese and eggs. Add shredded cheese, flour, margarine, onion salt, and peel. Beat with an electric mixer, or cover and blend or process till smooth. Stir in spinach."
+        },
+        {
+          "step": 3,
+          "text": "Transfer mixture to the prepared dish. Bake in a 350\u00b0 oven about 1 hour or till a knife inserted near the center comes out clean. Makes 4 main-dish servings or 8 side-dish servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "1-quart souffl\u00e9 dish or casserole",
+      "servings_yield": "4 main-dish or 8 side-dish servings",
+      "notes": [
+        "Broccoli Puff: Prepare as above, except substitute frozen chopped broccoli for the spinach. Cook broccoli in boiling water for 4 to 5 minutes or till crisp-tender; drain well.",
+        "Blue Cheese and Bacon Puff: Prepare as above, except add 1/2 cup crumbled blue cheese with the shredded cheese. Stir in 4 slices crisp-cooked, crumbled bacon with the spinach."
+      ],
+      "image_refs": [
+        "IMG_5314 Large.jpeg"
       ],
       "confidence": {
         "overall": "high",
