@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1020
+    "total_recipes": 1030
   },
   "recipes": [
     {
@@ -94395,6 +94395,711 @@
       },
       "image_refs": [
         "IMG_5325 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "marinated-salmon-steaks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Salmon Steaks",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 167",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen salmon (or halibut) steaks, cut 1 inch thick",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "lemon or lime juice",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely shredded lemon, lime, or orange peel",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried rosemary or thyme, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "clove garlic, minced",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Cut steaks into serving-size portions. For marinade, in a shallow dish combine juice, oil, lemon peel, Worcestershire sauce, rosemary or thyme, and garlic."
+        },
+        {
+          "step": 2,
+          "text": "Place fish in marinade. Pour marinade over fish. Cover and marinate in the refrigerator for 30 minutes, turning fish once."
+        },
+        {
+          "step": 3,
+          "text": "Place fish on the greased unheated rack of a broiler pan. Brush with half of the remaining marinade. Broil 4 inches from the heat 5 minutes. Turn fish. Brush with remaining marinade. Broil for 3 to 7 minutes more or till fish flakes easily with a fork. Serves 4."
+        }
+      ],
+      "tags": [
+        "fish",
+        "salmon",
+        "marinated",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5329 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "halibut-with-sherry-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Halibut with Sherry Sauce",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen halibut (or other fish) steaks, cut 1 inch thick",
+          "quantity": "1 to 1 1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "green onions, sliced",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "1/4 cup"
+        },
+        {
+          "item": "clove garlic, minced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Place fish on the greased unheated rack of a broiler pan. Brush with half of the margarine, melted. Broil 4 inches from the heat 5 minutes. Turn fish. Brush with remaining margarine. Broil for 3 to 7 minutes more or till fish flakes easily with a fork."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, in a small saucepan cook onions and garlic in the 4 tablespoons margarine or butter till tender. Stir in flour. Add sherry and broth all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Add cheese and beer. Cook and stir till cheese melts. Spoon over fish. Serves 4."
+        }
+      ],
+      "tags": [
+        "fish",
+        "halibut",
+        "sherry",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5330 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "dijon-mustard-fillets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dijon-Mustard Fillets",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen fish fillets",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "snipped chives",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Measure thickness of fish. Place fish on the unheated rack of a broiler pan. Broil 4 inches from the heat till fish flakes easily with a fork. (Allow 4 to 6 minutes per 1/2-inch thickness. Turn once if more than 1 inch thick.)"
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, in a small saucepan stir together sour cream, milk, mustard, chives, and a dash pepper. Cook till hot (do not boil). Serve over fish. Makes 4 servings."
+        }
+      ],
+      "tags": [
+        "fish",
+        "mustard",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5330 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "teriyaki-shark",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Teriyaki Shark",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen shark steaks, cut 1 inch thick",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "grated gingerroot or ground ginger",
+          "quantity": "1",
+          "unit": "tsp or 1/4 tsp"
+        },
+        {
+          "item": "clove garlic, minced",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Cut fish into 1-inch cubes. Place fish, mushrooms, onions in a plastic bag; set bag into a bowl. Combine oil, wine or orange juice, garlic, orange peel, and marinate at room temperature for 2 hours, turning bag occasionally. Drain fish cubes."
+        },
+        {
+          "step": 2,
+          "text": "On eight 12-inch skewers alternately thread fish cubes, mushrooms, and onions, leaving about 1/4 inch between pieces. Place on the greased unheated rack of a broiler pan. Broil 4 inches from the heat for 4 to 5 minutes. Turn kabobs over. Broil for 4 to 6 minutes more or till fish flakes easily with a fork. To serve, add a tomato to each skewer. Serves 4."
+        }
+      ],
+      "tags": [
+        "fish",
+        "shark",
+        "teriyaki",
+        "asian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5330 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "orange-swordfish-kabobs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Orange Swordfish Kabobs",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 168",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen swordfish steaks, cut 1 inch thick",
+          "quantity": "3/4",
+          "unit": "lb",
+          "prep_note": "tuna or shark makes great kabobs because of their firm, steak-like texture"
+        },
+        {
+          "item": "medium fresh mushrooms",
+          "quantity": "16",
+          "unit": ""
+        },
+        {
+          "item": "large green onions, cut into 2-inch lengths",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "clove garlic, minced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "finely shredded orange or cherry tomatoes",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "cherry tomatoes",
+          "quantity": "8",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Cut fish into 1-inch cubes. Place fish, mushrooms, and onions in a plastic bag; set bag in a bowl. Combine oil, wine or orange juice, garlic, orange peel. Seal bag and marinate at room temperature for 2 hours, turning bag occasionally. Drain fish cubes, mushrooms, and onions, reserving marinade."
+        },
+        {
+          "step": 2,
+          "text": "On eight 12-inch skewers alternately thread fish cubes, mushrooms, and onions, leaving about 1/4 inch between pieces. Place on the greased unheated rack of a broiler pan."
+        },
+        {
+          "step": 3,
+          "text": "Broil 4 inches from the heat for 4 to 5 minutes. Turn kabobs over. Broil for 4 to 6 minutes more or till fish flakes easily with a fork. To serve, add a tomato to each skewer. Serves 4."
+        }
+      ],
+      "tags": [
+        "fish",
+        "swordfish",
+        "kabobs",
+        "grilled"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5330 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "sweet-and-sour-fish-kabobs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet-and-Sour Fish Kabobs",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 169",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen swordfish, tuna, or tuna steaks, cut 1 inch thick",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "bias-sliced carrots",
+          "quantity": "4",
+          "unit": "medium",
+          "prep_note": "1/4 inch thick"
+        },
+        {
+          "item": "pineapple pieces (or canned, drained)",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "pineapple preserves or orange marmalade",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "canola oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Cut fish into 1-inch cubes. Cook carrots in a small amount of boiling water for 10 to 12 minutes or till almost tender; drain."
+        },
+        {
+          "step": 2,
+          "text": "For the sauce, in a small saucepan combine preserves, lemon juice, and oil. Cook over low heat till preserves melt, stirring constantly."
+        },
+        {
+          "step": 3,
+          "text": "Alternately thread fish cubes, carrot slices, and pineapple chunks on four 8-inch kabobs, leaving about 1/4 inch between pieces. Place kabobs on the greased unheated rack of broiler pan. Broil 4 inches from the heat for 4 to 5 minutes. Turn kabobs. Brush with sauce during the last 2 minutes of broiling. Brush again with sauce before serving."
+        }
+      ],
+      "tags": [
+        "fish",
+        "kabobs",
+        "sweet and sour"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5331 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fish-with-beer-cheese-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish with Beer-Cheese Sauce",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen fish fillets or steaks",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "sliced green onion or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "beer",
+          "quantity": "3",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Measure thickness of fish. In a large skillet cook fish in hot oil, uncovered, for 4 to 6 minutes per 1/2-inch thickness or till fish flakes easily with a fork (turning fish once if fish is 1 inch thick or more). Keep warm."
+        },
+        {
+          "step": 2,
+          "text": "For sauce, in a saucepan cook onion in margarine till tender. Add flour and, if desired, mustard. Add milk all at once. Cook and stir till thickened and bubbly. Add cheese and beer. Cook and stir till cheese melts. Spoon over fish. Serves 4."
+        }
+      ],
+      "tags": [
+        "fish",
+        "cheese sauce",
+        "beer",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5332 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "citrus-baked-halibut",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Citrus Baked Halibut",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 170",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen halibut steaks, chopped on thick",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Arrange in an 8x8x2-inch baking dish. Cook orange and garlic in margarine. Stir in parsley and lemon juice. Pour over fish."
+        },
+        {
+          "step": 2,
+          "text": "Bake in a 400\u00b0 oven for 20 to 25 minutes or till fish flakes easily with a fork. Makes 4 servings."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "tags": [
+        "fish",
+        "halibut",
+        "citrus",
+        "baked"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5332 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "baked-fish-with-mushrooms",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Fish with Mushrooms",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen fish fillets or steaks, cut 1/2 to 3/4 inch thick",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried tarragon, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Arrange fish in a 12x7 1/2x2-inch baking dish. Sprinkle with mushrooms, onion, and tarragon. Dot with margarine. Sprinkle with salt and paprika."
+        },
+        {
+          "step": 2,
+          "text": "Bake, covered, in a 450\u00b0 oven for 6 to 10 minutes or till fish flakes easily with a fork. Makes 4 servings."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "tags": [
+        "fish",
+        "mushrooms",
+        "baked",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5333 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "broccoli-stuffed-sole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broccoli-Stuffed Sole",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 171",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "frozen cut broccoli (or other fish fillets)",
+          "quantity": "1",
+          "unit": "4-oz package"
+        },
+        {
+          "item": "frozen cut broccoli",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "cream cheese with chives and onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "white wine or dry white wine",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. For stuffing, cook broccoli according to package directions. Drain. Cut up any large pieces. Combine broccoli and cheeses."
+        },
+        {
+          "step": 2,
+          "text": "Place stuffing at one end of each fillet. Roll up fish. Secure with wooden toothpicks, if necessary."
+        },
+        {
+          "step": 3,
+          "text": "Place fish rolls with stuffing side up in a 1-quart casserole; sprinkle with crumbs. Set aside."
+        },
+        {
+          "step": 4,
+          "text": "In a saucepan cook milk and wine over medium heat, stirring often. Serve over fish. Serves 4."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "fish",
+        "sole",
+        "stuffed",
+        "broccoli"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5333 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "pending"
