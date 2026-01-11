@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 974
+    "total_recipes": 1000
   },
   "recipes": [
     {
@@ -90875,6 +90875,1959 @@
       },
       "image_refs": [
         "IMG_5280 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "poached-pears",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Pears",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 124",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sweet white wine or orange juice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "stick cinnamon",
+          "quantity": "2 to 3",
+          "unit": "inches"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "medium pears, peeled, halved, and cored; or medium peaches, peeled, halved, and pitted",
+          "quantity": "4",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet bring sugar, wine, cinnamon, vanilla, and 3/4 cup water to boiling. Add pears or peaches. Reduce heat. Simmer, covered, for 10 to 15 minutes or till tender. Remove cinnamon. Serve warm or chilled. Serves 4."
+        },
+        {
+          "step": 2,
+          "text": "Microwave directions: In a 2-quart casserole micro-cook sugar, wine, cinnamon, vanilla, and 3/4 cup water, uncovered, on 100% power (high) 4 to 6 minutes or till boiling. Add fruit and cook, covered, on high for 4 to 6 minutes or till fruit is tender; stir once. Continue as above."
+        }
+      ],
+      "notes": [
+        "Pears H\u00e9l\u00e8ne: Prepare as above using pears. Serve drained and chilled with vanilla ice cream and Hot Fudge Sauce (see recipe, page 139).",
+        "Peach Melba: Prepare as above using peaches. Serve drained and chilled with vanilla ice cream and Fruit Sauce made with raspberries (see recipe, page 139)."
+      ],
+      "tags": [
+        "desserts",
+        "fruit",
+        "pears",
+        "poached",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5283 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "applesauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Applesauce",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 124",
+      "servings_yield": "4 1/2 cups (8 servings)",
+      "ingredients": [
+        {
+          "item": "cooking apples (9 medium), peeled, quartered, and cored",
+          "quantity": "3",
+          "unit": "lb"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3 to 2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "if desired"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a Dutch oven combine apples and water. Bring to boiling; reduce heat. Cover and simmer for 8 to 10 minutes or till tender, adding more water, if necessary."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat. Mash with a potato masher or process in a blender or food processor to desired texture. Serve warm or chilled. Stir before serving. Makes about 4 1/2 cups (8 servings)."
+        }
+      ],
+      "tags": [
+        "desserts",
+        "fruit",
+        "apples",
+        "sauce"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5283 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "apple-dumplings",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple Dumplings",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 124",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1 1/4",
+          "unit": "cups"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 1/4",
+          "unit": "cups"
+        },
+        {
+          "item": "shortening",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "small apples, pears, or peaches",
+          "quantity": "6",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For syrup, mix 1 cup of the sugar, 1/4 teaspoon cinnamon, 1/4 teaspoon nutmeg, and 1 3/4 cups water. Bring to boiling; reduce heat. Simmer 5 minutes. Remove from heat; stir in margarine."
+        },
+        {
+          "step": 2,
+          "text": "For pastry, cut shortening into flour till coarse crumbs form. Add 6 to 8 tablespoons water, a little at a time, mixing till moistened. Form into a ball. Roll into an 18x12-inch rectangle; cut into six 6-inch squares."
+        },
+        {
+          "step": 3,
+          "text": "Peel and core apples or pears. (For peaches, peel, halve, and pit.) Place one fruit on each pastry square. Combine remaining sugar, cinnamon, and nutmeg. Sprinkle over fruit. Moisten edges of pastry; fold corners to center atop fruit. Pinch to seal. Place in an 11x7x1\u00bd-inch baking pan. Pour syrup over. Bake in a 375\u00b0 oven about 45 minutes or till fruit is tender and pastry is brown. Serve with ice cream, if desired. Serves 6."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "11x7x1\u00bd-inch baking pan",
+      "tags": [
+        "desserts",
+        "fruit",
+        "apples",
+        "dumplings",
+        "pastry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5283 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "baked-apples",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Apples",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 124",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "medium cooking apples",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "raisins, snipped pitted whole dates, or mixed dried fruit bits",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "apple juice or water",
+          "quantity": "1/3",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Core apples; peel a strip from the top of each. Place apples in a 2-quart casserole. Combine the raisins, brown sugar, cinnamon, and nutmeg. Spoon into centers of apples. Add apple juice to dish. Bake in a 350\u00b0 oven for 40 to 45 minutes or till apples are tender, basting occasionally with the cooking liquid. Serve warm with ice cream, light cream, or yogurt, if desired. Serves 4."
+        },
+        {
+          "step": 2,
+          "text": "Microwave directions: Reduce apple juice or water to 2 tablespoons. Assemble as above. Micro-cook, covered, on 100% power (high) for 4 to 8 minutes or till tender, rearranging and basting apples after 3 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "desserts",
+        "fruit",
+        "apples",
+        "baked",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5283 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fruit-crisp",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit Crisp",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 125",
+      "description": "Pair your favorite fruit with this crunchy topping.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "sliced, peeled apples, pears, peaches, or apricots; or frozen unsweetened peach slices",
+          "quantity": "5",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2 to 4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "regular rolled oats",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ground nutmeg, ginger, or cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped nuts or coconut",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla ice cream or light cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For filling, thaw fruit, if frozen. Do not drain. Place fruit in an 8x1\u00bd-inch round baking dish. Stir in sugar."
+        },
+        {
+          "step": 2,
+          "text": "For topping, in a mixing bowl combine oats, brown sugar, flour, and nutmeg, ginger, or cinnamon. Cut in margarine or butter till mixture resembles coarse crumbs. Stir in nuts or coconut. Sprinkle topping over filling."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 375\u00b0 oven for 30 to 35 minutes (40 minutes for thawed fruit) or till fruit is tender and topping is golden. Serve warm with ice cream or light cream, if desired. Serves 6."
+        },
+        {
+          "step": 4,
+          "text": "Microwave directions: Assemble filling as above. Cook filling, covered with vented plastic wrap, on 100% power (high) for 5 to 7 minutes or till fruit is tender; stirring twice."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "notes": [
+        "Blueberry Crisp: Prepare as above, except, for the filling, combine 4 tablespoons sugar and 3 tablespoons all-purpose flour. Toss with 5 cups fresh or frozen* blueberries.",
+        "Cherry Crisp: Prepare as above, except, for the filling, combine 1/2 cup sugar and 3 tablespoons all-purpose flour. Toss with 5 cups fresh or frozen* unsweetened pitted tart red cherries.",
+        "Rhubarb Crisp: Prepare as above, except, for filling, combine 1 cup sugar and 3 tablespoons all-purpose flour. Toss with 5 cups fresh or frozen* unsweetened sliced rhubarb.",
+        "*Note: If fruit is frozen, thaw, but do not drain."
+      ],
+      "tags": [
+        "desserts",
+        "fruit",
+        "crisp",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5284 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fruit-cobbler",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit Cobbler",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 125",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "desired filling",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see below"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare filling. Keep hot. For topping, mix flour, sugar, baking powder, and, if desired, cinnamon. Cut in margarine till mixture resembles coarse crumbs. Combine egg and milk. Add to flour mixture, stirring just to moisten."
+        },
+        {
+          "step": 2,
+          "text": "Transfer filling to an 8x8x2-inch baking dish. Drop topping into 6 mounds atop hot filling. Bake in a 400\u00b0 oven 20 to 25 minutes or till toothpick inserted into topping comes out clean. Serve warm with ice cream, if desired. Serves 6."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: In an 8x8x2-inch baking dish combine ingredients for Blueberry or Peach Filling. Micro-cook, uncovered, on 100% power (high) for 8 to 10 minutes or till thickened and bubbly, stirring every 2 minutes till slightly thickened, then every minute. Keep hot. Prepare topping as above, except reduce all-purpose flour to 3/4 cup and add 1/4 cup whole wheat flour. Drop topping into 6 mounds atop hot filling, leaving center open. Cook, uncovered, on 50% power (medium) for 8 to 10 minutes or till a cooked texture forms underneath surface of topping, turning dish once."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "notes": [
+        "Blueberry or Peach Filling: In a saucepan combine 1/3 to 3/4 cup sugar and 1 tablespoon cornstarch. Add 1/4 cup water. Stir in 4 cups fresh or frozen blueberries or unsweetened peach slices. Cook and stir till thickened and bubbly.",
+        "Apple or Pear Filling: Cook and stir 6 cups sliced, peeled apples or pears, 1/3 to 2/3 cup sugar, 3 tablespoons water, and 1 tablespoon lemon juice till boiling. Reduce heat. Cover and simmer for 5 minutes or till fruit is almost tender, stirring occasionally. Combine 2 tablespoons water and 1 tablespoon cornstarch; add to filling. Cook and stir till thickened and bubbly.",
+        "Red Cherry or Rhubarb Filling: Mix 6 cups fresh or frozen unsweetened pitted tart red cherries or sliced rhubarb, 1 to 1 1/4 cups sugar, 1/4 cup water, and 4 teaspoons cornstarch. Let stand 10 minutes (20 minutes for frozen fruit). Cook and stir till thickened and bubbly."
+      ],
+      "tags": [
+        "desserts",
+        "fruit",
+        "cobbler"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5284 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cherries-jubilee",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cherries Jubilee",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 126",
+      "description": "Your meal will end with pizzazz when you ladle this flaming sauce over ice cream.",
+      "servings_yield": "6 to 8 servings",
+      "ingredients": [
+        {
+          "item": "pitted dark sweet cherries",
+          "quantity": "1",
+          "unit": "16-oz can"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "brandy, cherry brandy, or kirsch",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla ice cream",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain cherries, reserving 1/2 cup syrup. Set cherries aside. In a medium saucepan or the blazer pan of a chafing dish combine reserved syrup, sugar, and cornstarch. Cook and stir till thickened and bubbly. Cook and stir for 2 minutes more. Stir in cherries and heat through."
+        },
+        {
+          "step": 2,
+          "text": "In a small saucepan heat brandy or kirsch till it almost simmers. (If desired, pour heated brandy into a large ladle.) Carefully ignite brandy and pour over cherry mixture. Serve immediately over ice cream. Makes 6 to 8 servings."
+        }
+      ],
+      "tags": [
+        "desserts",
+        "cherries",
+        "flamb\u00e9",
+        "ice cream",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5285 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bananas-foster",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bananas Foster",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 126",
+      "description": "Bananas plus brown-sugar-rum sauce plus vanilla ice cream equal a truly divine dessert.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "ripe medium bananas",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "light rum",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla ice cream",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel bananas; halve crosswise, then lengthwise. In a large skillet or the blazer pan of a chafing dish melt margarine or butter over medium heat. Stir in brown sugar. Add bananas. Cook and stir for 3 to 4 minutes or till heated through. In a small saucepan heat rum till it almost simmers. (If desired, pour heated rum into a large ladle.) Carefully ignite rum and pour over bananas. Serve immediately over ice cream. Serves 4."
+        }
+      ],
+      "notes": [
+        "Peach and Banana Flamb\u00e9: Prepare as above, except substitute 1 cup sliced, peeled peaches (2 medium) for 1 banana. Sprinkle each serving with 1 tablespoon toasted coconut."
+      ],
+      "tags": [
+        "desserts",
+        "bananas",
+        "flamb\u00e9",
+        "ice cream",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5285 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fresh-fruit-bowl",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fresh-Fruit Bowl",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 126",
+      "description": "For a tropical flavor, choose the papaya and kiwi fruit or carambola.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "medium oranges",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "sugar or honey",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "finely shredded lemon or lime peel",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "lemon or lime juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground cinnamon, ginger, or nutmeg",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "cubed honeydew melon, cantaloupe, or papaya",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "halved strawberries or seedless green grapes; peeled, sliced kiwi fruit; or sliced carambola (star fruit)",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "blueberries or raspberries",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "fruit-flavored yogurt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "toasted coconut or toasted slivered almonds",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Over a bowl, peel and section oranges, reserving juice. Combine reserved juice, sugar or honey, lemon or lime peel, lemon or lime juice, and cinnamon, ginger, or nutmeg. In a large serving bowl place all the fruit except berries. Drizzle juice mixture over fruit. Cover; chill 2 to 24 hours."
+        },
+        {
+          "step": 2,
+          "text": "To serve, stir in berries. Top with yogurt and coconut or almonds, if desired. Makes 4 servings."
+        }
+      ],
+      "tags": [
+        "desserts",
+        "fruit",
+        "fresh",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5285 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "swedish-fruit-soup",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Swedish Fruit Soup",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 126",
+      "description": "Make a delicious dessert of soup with dried fruit, raisins, and orange.",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "mixed dried fruit",
+          "quantity": "1/2",
+          "unit": "of an 8-oz package (about 3/4 cup)"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "stick cinnamon",
+          "quantity": "2",
+          "unit": "inches"
+        },
+        {
+          "item": "unsweetened pineapple juice",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "quick-cooking tapioca",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "currant jelly",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "medium orange, peeled, thinly sliced, and quartered",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pit prunes. Cut up large pieces of dried fruit. In a medium saucepan combine mixed dried fruit, water, raisins, and cinnamon. Bring to boiling; reduce heat. Cover and simmer for 10 minutes. Meanwhile, combine pineapple juice and tapioca; let stand 5 minutes. Stir into cooked fruit mixture along with jelly and brown sugar. Bring to boiling; reduce heat. Cover and simmer for 5 minutes, stirring occasionally. Remove stick cinnamon. Stir in orange. Serve warm or chilled. Makes 8 servings."
+        }
+      ],
+      "tags": [
+        "desserts",
+        "fruit",
+        "soup",
+        "dried fruit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5285 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "crepes-suzette",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crepes Suzette",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 127",
+      "description": "Dazzle both family and friends with these folded crepes heated in a buttery orange sauce.",
+      "servings_yield": "6 to 8 servings",
+      "ingredients": [
+        {
+          "item": "Dessert Crepes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 72"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "orange liqueur",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "brandy",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare crepes. Fold each crepe in half, browned side out. Fold in half again, forming a triangle. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "For orange sauce, in a large skillet or the blazer pan of a chafing dish combine margarine or butter, shredded orange peel, orange juice, sugar, and orange liqueur. Cook and stir till thickened and bubbly."
+        },
+        {
+          "step": 3,
+          "text": "Arrange folded crepes in sauce. Simmer for 3 to 5 minutes or just till heated through, spooning sauce over crepes occasionally."
+        },
+        {
+          "step": 4,
+          "text": "In a small saucepan heat the brandy till it almost simmers. (If desired, pour heated brandy into a large ladle.) Carefully ignite brandy and pour over crepes. Makes 6 to 8 servings."
+        }
+      ],
+      "notes": [
+        "Pineapple Crepes: Prepare as above, except omit the orange liqueur. Drain one 8-ounce can sliced pineapple (juice pack), reserving juice. Cut the pineapple slices into small pieces. Stir the pineapple pieces and reserved pineapple juice into the uncooked orange juice mixture in the skillet or blazer pan."
+      ],
+      "tags": [
+        "desserts",
+        "crepes",
+        "flamb\u00e9",
+        "french"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5286 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "meringue-shells",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meringue Shells",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 128",
+      "servings_yield": "8 shells or 1 large shell",
+      "ingredients": [
+        {
+          "item": "egg whites",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Let egg whites stand in a large mixing bowl about 1 hour or till they come to room temperature. Meanwhile, cover a baking sheet with plain brown paper. Draw one 9-inch circle or eight 3-inch circles on paper."
+        },
+        {
+          "step": 2,
+          "text": "For meringue, add vanilla, cream of tartar, and salt to egg whites. Beat with an electric mixer on medium speed till soft peaks form (tips curl). Add sugar, a tablespoon at a time, beating on high speed till very stiff peaks form (tips stand straight) and sugar is almost dissolved (about 7 minutes)."
+        },
+        {
+          "step": 3,
+          "text": "Pipe meringue through a pastry tube onto the brown paper, building the sides up to form a shell or shells. Or, use the back of a spoon to spread the meringue over circle or circles, building the sides up."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 300\u00b0 oven for 45 minutes for large shell (35 minutes for small shells). Turn off oven. Let shell or shells dry in oven, with door closed, for 1 hour. Remove from paper. Store in an airtight container. If desired, fill shell or shells with ice cream or pudding and top with whipped cream. Makes 8 servings."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "notes": [
+        "Lemon Meringue Torte: Prepare as above, except spread meringue into the bottom of a well-greased 9-inch pie plate. Build up the sides to form a shell. Bake and dry as above for the large shell. For filling, in a saucepan combine 1/2 cup sugar and 2 tablespoons cornstarch. Stir in 3 beaten egg yolks, 1/2 cup water, 1 teaspoon finely shredded lemon peel, and 1/4 cup lemon juice. Cook and stir for 2 minutes more. Remove from heat. Cover surface with plastic wrap; cool (mixture will be very thick). To assemble, spread cooled filling in shell. Beat 1 cup whipping cream and 2 tablespoons sugar till soft peaks form. Spread over filling. Chill 5 to 24 hours. Cut with wet knife.",
+        "Pavlova: Prepare large Meringue Shell on paper as above. Fill with 5 cups peeled and sliced kiwi fruit, halved strawberries, peeled and sliced peaches, peeled and cut-up papaya, or pineapple chunks, or a combination. Beat 1 cup whipping cream and 1/4 cup sugar till soft peaks form. Dollop whipped cream over fruit. Garnish with additional fruit, if desired. Serve immediately."
+      ],
+      "tags": [
+        "desserts",
+        "meringue",
+        "shells"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5287 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "chocolate-mousse",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Mousse",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 129",
+      "description": "So luscious and creamy.",
+      "servings_yield": "5 or 6 servings",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "semisweet chocolate, coarsely chopped",
+          "quantity": "3",
+          "unit": "squares (3 oz)"
+        },
+        {
+          "item": "beaten egg yolks",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "whipped cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "chocolate curls or grated chocolate",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small heavy saucepan combine the 1/4 cup sugar and the water. Cook and stir over medium-low heat till sugar dissolves. Add chocolate; cook and stir over low heat till chocolate melts. Gradually stir the chocolate mixture into beaten egg yolks. Return mixture to saucepan. Bring to a gentle boil. Cook and stir for 2 minutes more. Cool to lukewarm, stirring occasionally."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl beat egg whites and cream of tartar with an electric mixer on high speed till soft peaks form (tips curl). Gradually add the 2 tablespoons sugar, beating till stiff peaks form (tips stand straight). Pour the lukewarm chocolate mixture over beaten egg whites; fold in gently."
+        },
+        {
+          "step": 3,
+          "text": "Beat the 1/2 cup whipping cream till soft peaks form; fold whipped cream into the chocolate and egg white mixture. Spoon into dessert dishes. Cover and chill for 4 to 24 hours before serving. Garnish with whipped cream and chocolate curls or grated chocolate, if desired. Serves 5 or 6."
+        },
+        {
+          "step": 4,
+          "text": "Microwave directions: In a 2-cup measure micro-cook the 1/4 cup sugar and the water, uncovered, on 100% power (high) for 1 to 2 minutes or till sugar dissolves. Stir in chocolate. Cook, uncovered, on high for 1 1/2 to 2 1/2 minutes more or till chocolate melts. Stir; cook for 30 to 60 seconds more or till the mixture is smooth. Place beaten yolks in a small bowl. Stir in the chocolate mixture. Cook, uncovered, on high for 30 to 60 seconds or just till mixture bubbles. Cool to lukewarm. Continue as above."
+        }
+      ],
+      "notes": [
+        "Mocha Mousse: Prepare as above, except add 1 teaspoon instant coffee crystals to the sugar-water mixture before cooking.",
+        "Mint-Chocolate Mousse: Prepare as above, except stir 1 tablespoon cr\u00e8me de menthe or a few drops mint extract into the 1/2 cup whipping cream before whipping."
+      ],
+      "tags": [
+        "desserts",
+        "mousse",
+        "chocolate"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5288 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "chocolate-souffle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Souffl\u00e9",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 129",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "beaten egg yolks",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "egg whites",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Butter the sides of a 2-quart souffl\u00e9 dish. Sprinkle sides with a little sugar. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a small saucepan melt margarine. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Add chocolate; stir till melted. Remove from heat. Gradually stir chocolate mixture into beaten egg yolks. Set aside."
+        },
+        {
+          "step": 3,
+          "text": "Beat egg whites and vanilla till soft peaks form (tips curl). Gradually add 1/4 cup sugar, beating till stiff peaks form (tips stand straight). Fold about 1 cup beaten whites into chocolate mixture. Then fold chocolate mixture into remaining beaten whites. Transfer to prepared dish. Bake in a 350\u00b0 oven 35 to 40 minutes or till a knife inserted near center comes out clean. Serve at once with whipped cream, if desired. Serves 6."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Amaretto Souffl\u00e9: Prepare as above, except omit chocolate pieces. Stir 1/4 cup amaretto and 1/4 cup finely chopped toasted almonds into the thickened milk mixture."
+      ],
+      "tags": [
+        "desserts",
+        "souffl\u00e9",
+        "chocolate"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5288 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "baked-alaska",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Alaska",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 129",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "ice cream (any flavor)",
+          "quantity": "1",
+          "unit": "quart"
+        },
+        {
+          "item": "cake layer (any flavor)",
+          "quantity": "1",
+          "unit": "9-inch"
+        },
+        {
+          "item": "egg whites",
+          "quantity": "5",
+          "unit": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2/3",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir ice cream to soften. Spoon into a 1 1/2-quart bowl lined with clear plastic wrap. Invert ice cream onto cake; remove bowl. Freeze till firm."
+        },
+        {
+          "step": 2,
+          "text": "For meringue, beat egg whites, vanilla, and cream of tartar till soft peaks form (tips curl). Gradually add sugar, beating till stiff peaks form (tips stand straight). Transfer cake and ice cream to a baking sheet; remove plastic wrap. Spread meringue over all, sealing edge to baking sheet."
+        },
+        {
+          "step": 3,
+          "text": "Place oven rack in the lowest position. Bake in a 500\u00b0 oven for 2 to 3 minutes or till golden. Serve immediately. Makes 8 servings."
+        }
+      ],
+      "temperature": "500\u00b0F (260\u00b0C)",
+      "tags": [
+        "desserts",
+        "ice cream",
+        "meringue",
+        "baked alaska"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5288 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cheesecake-supreme",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheesecake Supreme",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 130",
+      "description": "Your cheesecake is done when its center appears nearly set but jiggles slightly when gently shaken.",
+      "servings_yield": "12 to 16 servings",
+      "ingredients": [
+        {
+          "item": "finely crushed graham crackers",
+          "quantity": "1 3/4",
+          "unit": "cups"
+        },
+        {
+          "item": "finely chopped walnuts",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cream cheese, softened",
+          "quantity": "3",
+          "unit": "8-oz packages"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Fruit Sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 139; optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For crust, combine crushed crackers, nuts, and cinnamon. Stir in margarine or butter. Reserve 1/4 cup of the crumb mixture for topping, if desired. Press remaining onto bottom and about 2 inches up sides of an 8- or 9-inch springform pan."
+        },
+        {
+          "step": 2,
+          "text": "In a mixer bowl combine cream cheese, sugar, flour, vanilla, and, if desired, lemon peel. Beat with an electric mixer till fluffy. Add eggs and yolk all at once, beating on low speed just till combined. Stir in milk. Pour into crust-lined pan. Sprinkle with reserved crumbs, if any. Place on a shallow baking pan in oven. Bake in a 375\u00b0 oven for 45 to 50 minutes for the 8-inch pan (35 to 40 minutes for the 9-inch pan) or till center appears nearly set when shaken. Cool 15 minutes. Loosen crust from sides of pan. Cool for 30 minutes more; remove sides of pan. Cool completely. Chill at least 4 hours. Serve with Fruit Sauce, if desired. Makes 12 to 16 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "8- or 9-inch springform pan",
+      "notes": [
+        "Sour Cream Cheesecake: Prepare as above, except reduce cream cheese to 2 packages and omit the milk. Add three 8-ounce cartons dairy sour cream with the eggs. Bake in 8-inch pan about 55 minutes (9-inch pan, 50 minutes).",
+        "Liqueur Cheesecake: Prepare as above, except substitute white cr\u00e8me de menthe, cr\u00e8me de cacao, coffee liqueur, or amaretto for milk.",
+        "Chocolate Swirl Cheesecake: Prepare as above, except omit lemon peel. Stir 2 squares (2 ounces) semisweet chocolate, melted and cooled, into half of the batter. Pour half of each batter mixture into crust; repeat. Use a spatula to gently swirl batters."
+      ],
+      "tags": [
+        "desserts",
+        "cheesecake",
+        "cream cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5289 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "strawberry-shortcake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Strawberry Shortcake",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 130",
+      "description": "Next time, try sliced peaches instead of berries. (Strawberry Shortcake is pictured on page 121.)",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "sliced strawberries",
+          "quantity": "6",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "Whipped Cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 140"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together berries and 1/4 cup of the sugar; set aside. Stir together remaining sugar, flour, and baking powder. Cut in margarine till mixture resembles coarse crumbs. Combine egg and milk; add all at once to dry ingredients. Stir just to moisten. Spread into a greased 8x1 1/2-inch round baking pan, building up edge slightly. Bake in a 450\u00b0 oven for 15 to 18 minutes or till toothpick inserted near center comes out clean. Cool in pan 10 minutes. Remove from pan. Split into 2 layers. Spoon the fruit and Whipped Cream between layers and over top. Serve immediately. Serves 8."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "8x1 1/2-inch round baking pan",
+      "tags": [
+        "desserts",
+        "strawberry",
+        "shortcake",
+        "summer"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5289 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "brownie-pudding-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brownie Pudding Cake",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook, page 130",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "unsweetened cocoa powder",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "3/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together flour, the 1/4 cup sugar, 1 tablespoon of the cocoa powder, and the baking powder. Add milk, oil, and vanilla. Stir till smooth. Stir in nuts. Transfer batter to a 1-quart casserole. Combine the 1/3 cup sugar and remaining cocoa powder. Gradually stir in boiling water. Pour evenly over batter. Bake in a 350\u00b0 oven about 30 minutes or till a toothpick inserted into cake comes out clean. Serve warm. Makes 4 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Mocha Brownie Pudding Cake: Prepare as above, except add 2 teaspoons instant coffee crystals with the boiling water."
+      ],
+      "tags": [
+        "desserts",
+        "brownie",
+        "pudding cake",
+        "chocolate",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5289 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "caramel-corn-family",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel Corn",
+      "category": "snacks",
+      "attribution": "Pat Groen, TWR-Bonaire Cookbook",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "popped corn",
+          "quantity": "8 to 10",
+          "unit": "quarts"
+        },
+        {
+          "item": "light brown sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "light corn syrup",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pop the popcorn. Place in lightly greased sink or large bowl. Combine sugar, butter (or margarine), cream of tartar, and syrup in saucepan. Bring to boil and cook 5 minutes. Remove from heat, add soda. Pour and mix quickly over popcorn."
+        },
+        {
+          "step": 2,
+          "text": "Place immediately the popcorn mixture into lightly greased pan(s) or onto lightly greased cookie sheet(s). Set in prewarmed oven at 200\u00b0 for 1 hour, stirring every 15 minutes. Store in airtight container."
+        }
+      ],
+      "temperature": "200\u00b0F (95\u00b0C)",
+      "tags": [
+        "snacks",
+        "caramel",
+        "popcorn",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5290 Large.jpeg",
+        "IMG_5292 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "haystacks-family",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Haystacks",
+      "category": "cookies",
+      "attribution": "Carol Willison",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "semi-sweet chocolate chips",
+          "quantity": "1",
+          "unit": "bag"
+        },
+        {
+          "item": "butterscotch chips",
+          "quantity": "1",
+          "unit": "bag"
+        },
+        {
+          "item": "dry Chinese noodles",
+          "quantity": "2",
+          "unit": "cans"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt chips separately. Add 1 can of noodles to each bowl of chips. Mix carefully. Drop by teaspoonfuls onto wax paper. Refrigerate."
+        }
+      ],
+      "tags": [
+        "cookies",
+        "no-bake",
+        "chocolate",
+        "butterscotch",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5290 Large.jpeg",
+        "IMG_5292 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "holiday-baked-apples-family",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Holiday Baked Apples",
+      "category": "desserts",
+      "attribution": "Donny Willison",
+      "source_note": "Family recipe insert",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "large apples (Red Delicious)",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "butter",
+          "quantity": "6",
+          "unit": "tsp"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "6 to 12",
+          "unit": "tbsp"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375\u00b0. Wash and core apples - Red Delicious. Remove a 1 inch strip from around the top of each apple. Cut the bottoms of the apple so that they will stand up straight in a pan. Mix cinnamon with brown sugar. Fill each apple with 1 teaspoon butter and 1 or 2 tablespoons of sugar mixture. Place apples in baking dish and pour 1 cup of water into the dish around the base of the apples."
+        },
+        {
+          "step": 2,
+          "text": "Bake for 45 to 60 minutes; cool before serving. Serves 6."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "tags": [
+        "desserts",
+        "apples",
+        "baked",
+        "holiday",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5290 Large.jpeg",
+        "IMG_5292 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "hot-fudge-topping-family",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Fudge Topping",
+      "category": "desserts",
+      "attribution": "Janice Jones",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "powdered sugar",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "Pet milk (evaporated milk)",
+          "quantity": "1",
+          "unit": "can"
+        },
+        {
+          "item": "chocolate chips",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "sticks"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook in double boiler for 1 hour. Stir often."
+        }
+      ],
+      "tags": [
+        "desserts",
+        "sauce",
+        "chocolate",
+        "fudge",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5290 Large.jpeg",
+        "IMG_5292 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "peanut-sauce-family",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Sauce",
+      "category": "sauces",
+      "attribution": "Mrs. Pat Groen",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "onion powder or grated onion",
+          "quantity": "1/4",
+          "unit": "tsp or 1/2 cup"
+        },
+        {
+          "item": "garlic powder or grated garlic toes",
+          "quantity": "1/8",
+          "unit": "tsp or 1-2"
+        },
+        {
+          "item": "ground cumin",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "curry powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "hot pepper paste or Tabasco",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "item": "ketjap manis (sweet soy sauce)",
+          "quantity": "5 to 6",
+          "unit": "tbsp",
+          "prep_note": "use less if using soy sauce"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "peanut butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place all ingredients in a small saucepan. Stir over gentle heat until mixed. Heat only until hot, letting the sauce boil will cause the oil in the peanut butter to separate. A little more water may be added for desired consistency. Serve over Sate, grilled meats, and or rice."
+        }
+      ],
+      "tags": [
+        "sauces",
+        "peanut",
+        "asian",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5291 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "peters-peanut-brittle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peter's Peanut Brittle",
+      "category": "candy",
+      "attribution": "Peter Ohan",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "white Karo syrup",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "raw peanuts",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine sugar, peanuts, syrup, water, and salt. Cook over medium heat, stirring continuously, until peanuts are brown (hard crackle stage). Add soda and stir well. Pour into buttered pan. Break into pieces when cool."
+        }
+      ],
+      "tags": [
+        "candy",
+        "peanut",
+        "brittle",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5291 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "peanut-butter-fudge-family",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Fudge",
+      "category": "candy",
+      "attribution": "Karen Talbot",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "confectioners sugar",
+          "quantity": "2",
+          "unit": "lb"
+        },
+        {
+          "item": "peanut butter",
+          "quantity": "28",
+          "unit": "oz"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "marshmallows cream",
+          "quantity": "13",
+          "unit": "oz"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix sugar and milk in saucepan and boil for 2 minutes. Remove from heat and stir in rest of the ingredients. Beat well with a greased, wooden spoon. Quickly pour into ungreased 9x13 inch pan."
+        }
+      ],
+      "pan_size": "9x13 inch pan",
+      "tags": [
+        "candy",
+        "fudge",
+        "peanut butter",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5291 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "people-chow",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "People Chow",
+      "category": "snacks",
+      "attribution": "Janice Jones",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "chocolate or butterscotch chips (or 1/2 cup each)",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "peanut butter",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Rice Chex",
+          "quantity": "8 to 9",
+          "unit": "cups"
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large bowl with lid, pour in Rice Chex. Melt chips, butter, and peanut butter. Pour melted mixture over Rice Chex. Mix carefully so you don't break Rice Chex. Pour in powdered sugar. Cover container with lid and shake until coated."
+        }
+      ],
+      "tags": [
+        "snacks",
+        "chocolate",
+        "peanut butter",
+        "cereal",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5291 Large.jpeg"
       ],
       "nutrition": {
         "status": "pending"
