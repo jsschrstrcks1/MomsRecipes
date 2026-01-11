@@ -106269,7 +106269,372 @@
       "tags": ["crust", "coconut", "baking"],
       "confidence": {"overall": "high", "flags": []},
       "image_refs": ["IMG_5455 Large.jpeg"]
+    },
+    {
+      "id": "poultry-nutrition-analysis",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poultry Nutrition Analysis",
+      "category": "reference",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, pages 296-297",
+      "description": "Comprehensive nutrition analysis table for poultry recipes.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [
+        {"step": 1, "text": "This reference table provides per-serving nutrition data and percent U.S. RDA for all poultry recipes in this chapter."},
+        {"step": 2, "text": "Columns include: Servings Per Recipe, Calories, Protein (g), Carbohydrate (g), Fat (g), Cholesterol (mg), Sodium (mg), Potassium (mg), and Percent U.S. RDA for nutrients."}
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": ["Reference chart for meal planning and dietary needs"],
+      "tags": ["reference", "nutrition", "poultry", "chicken", "turkey"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5457 Large.jpeg", "IMG_5458 Large.jpeg"]
+    },
+    {
+      "id": "four-way-chicken",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Four-Way Chicken",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 299",
+      "description": "Basic roasted chicken with four different sauce options.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "1 hour 15 minutes",
+      "total_time": "1 hour 30 minutes",
+      "ingredients": [
+        {"item": "broiler-fryer chicken", "quantity": "2 1/2 to 3", "unit": "lb"},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp"},
+        {"item": "sauce (see variations)", "quantity": "", "unit": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse chicken; pat dry. Skewer neck skin to back. Tie legs to tail; twist wing tips under back. Place, breast side up, on a rack in a shallow roasting pan. Brush with oil; sprinkle with salt and pepper."},
+        {"step": 2, "text": "Roast, uncovered, in a 375° oven for 1 1/4 to 1 1/2 hours or till drumstick moves easily in socket. When bird is two-thirds done, cut string between legs. Brush with desired sauce during the last 15 minutes of roasting. Makes 6 servings."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [
+        "Barbecue Sauce: Combine 1/2 cup catsup, 2 tablespoons brown sugar, 1 tablespoon lemon juice, and 1 tablespoon Worcestershire sauce.",
+        "Cumberland Sauce: In a saucepan combine 1/2 cup currant jelly, 2 tablespoons orange juice, 1 tablespoon lemon juice, 1/4 teaspoon ground ginger, and dash ground red pepper. Cook and stir till jelly melts.",
+        "Ginger-Honey Glaze: Combine 2 tablespoons honey, 1 tablespoon soy sauce, and 1/4 teaspoon ground ginger."
+      ],
+      "tags": ["chicken", "roasted", "whole-chicken", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5460 Large.jpeg"]
+    },
+    {
+      "id": "pepper-lime-chicken",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pepper-Lime Chicken",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 300",
+      "description": "Grilled chicken with a zesty pepper-lime marinade.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "3 hours (including marinating)",
+      "ingredients": [
+        {"item": "broiler-fryer chicken, quartered", "quantity": "2 1/2 to 3", "unit": "lb"},
+        {"item": "lime juice", "quantity": "1/4", "unit": "cup"},
+        {"item": "cooking oil", "quantity": "2", "unit": "tbsp"},
+        {"item": "coarsely cracked pepper", "quantity": "1", "unit": "tbsp"},
+        {"item": "paprika", "quantity": "1", "unit": "tsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse chicken; pat dry. Place in a plastic bag set in a shallow dish. For marinade, combine lime juice, oil, pepper, paprika, and 1/2 teaspoon salt. Pour over chicken. Close bag. Marinate in the refrigerator for 2 to 24 hours, turning bag occasionally."},
+        {"step": 2, "text": "Drain chicken, reserving marinade. Place chicken, bone side up, on an uncovered grill directly over medium coals. Grill for 20 minutes. Turn chicken; brush with reserved marinade. Grill for 15 to 25 minutes more or till tender, brushing often with marinade. Makes 6 servings."}
+      ],
+      "temperature": "",
+      "pan_size": "grill",
+      "notes": [
+        "Lemon-Mustard Chicken: Prepare as above, except substitute 3 tablespoons lemon juice for lime juice and 1 tablespoon Dijon-style mustard for the pepper."
+      ],
+      "tags": ["chicken", "grilled", "lime", "pepper", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5461 Large.jpeg"]
+    },
+    {
+      "id": "herb-marinated-chicken",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herb-Marinated Chicken",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 300",
+      "description": "Grilled chicken with herb vinaigrette marinade.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "3 hours (including marinating)",
+      "ingredients": [
+        {"item": "broiler-fryer chicken, quartered", "quantity": "2 1/2 to 3", "unit": "lb"},
+        {"item": "white wine vinegar", "quantity": "1/4", "unit": "cup"},
+        {"item": "olive oil or cooking oil", "quantity": "3", "unit": "tbsp"},
+        {"item": "garlic cloves", "quantity": "3", "unit": "", "prep_note": "minced"},
+        {"item": "dried basil or tarragon, crushed", "quantity": "1", "unit": "tsp"},
+        {"item": "dried thyme, crushed", "quantity": "1/2", "unit": "tsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse chicken; pat dry. Place in a plastic bag set in a shallow dish. For marinade, combine vinegar, oil, garlic, basil, thyme, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Pour over chicken; close bag."},
+        {"step": 2, "text": "Marinate in the refrigerator for 2 to 24 hours, turning bag occasionally. Grill as for Pepper-Lime Chicken. Makes 6 servings."}
+      ],
+      "temperature": "",
+      "pan_size": "grill",
+      "notes": [],
+      "tags": ["chicken", "grilled", "herb", "marinated", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5461 Large.jpeg"]
+    },
+    {
+      "id": "sweet-and-sour-glazed-chicken",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet-and-Sour Glazed Chicken",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 301",
+      "description": "Grilled chicken with a tangy sweet-and-sour glaze.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "broiler-fryer chicken, quartered", "quantity": "2 1/2 to 3", "unit": "lb"},
+        {"item": "canned crushed pineapple", "quantity": "8", "unit": "oz"},
+        {"item": "brown sugar", "quantity": "2", "unit": "tbsp"},
+        {"item": "lemon juice", "quantity": "1", "unit": "tbsp"},
+        {"item": "soy sauce", "quantity": "1", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse chicken; pat dry. For glaze, combine undrained pineapple, brown sugar, lemon juice, and soy sauce."},
+        {"step": 2, "text": "Place chicken, bone side up, on an uncovered grill directly over medium coals. Grill for 20 minutes. Turn; grill 15 to 25 minutes more or till tender, brushing with glaze the last 10 minutes. Heat any remaining glaze; pass with chicken."}
+      ],
+      "temperature": "",
+      "pan_size": "grill",
+      "notes": [],
+      "tags": ["chicken", "grilled", "sweet-and-sour", "pineapple", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5462 Large.jpeg"]
+    },
+    {
+      "id": "chicken-kabobs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Kabobs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 301",
+      "description": "Grilled chicken and vegetable kabobs with honey-lime glaze.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "12 minutes",
+      "total_time": "32 minutes",
+      "ingredients": [
+        {"item": "skinless, boneless chicken breast halves", "quantity": "1", "unit": "lb"},
+        {"item": "honey", "quantity": "3", "unit": "tbsp"},
+        {"item": "lime juice", "quantity": "2", "unit": "tbsp"},
+        {"item": "Dijon-style mustard", "quantity": "1", "unit": "tbsp"},
+        {"item": "small zucchini", "quantity": "2", "unit": "", "prep_note": "cut into 1-inch pieces"},
+        {"item": "cherry tomatoes", "quantity": "12", "unit": ""}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse chicken; pat dry. Cut into 1-inch pieces. For glaze, combine honey, lime juice, and mustard."},
+        {"step": 2, "text": "On six long skewers, alternately thread chicken, zucchini, and tomatoes. Place on an uncovered grill directly over medium coals. Grill for 12 to 14 minutes or till chicken is tender and no longer pink, turning and brushing often with glaze. Makes 6 servings."}
+      ],
+      "temperature": "",
+      "pan_size": "grill",
+      "notes": [],
+      "tags": ["chicken", "kabobs", "grilled", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5462 Large.jpeg"]
+    },
+    {
+      "id": "cranberry-sauced-turkey-steaks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry-Sauced Turkey Steaks",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 302",
+      "description": "Broiled turkey steaks with tangy cranberry sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "turkey breast tenderloin steaks", "quantity": "4", "unit": "", "prep_note": "about 1 pound total"},
+        {"item": "cranberry-orange relish or whole cranberry sauce", "quantity": "1/2", "unit": "cup"},
+        {"item": "orange juice", "quantity": "2", "unit": "tbsp"},
+        {"item": "prepared mustard", "quantity": "1", "unit": "tsp"},
+        {"item": "ground ginger", "quantity": "1/4", "unit": "tsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse turkey; pat dry. Place on the unheated rack of a broiler pan. Broil 4 to 5 inches from the heat for 5 minutes."},
+        {"step": 2, "text": "Meanwhile, for sauce, combine relish or cranberry sauce, orange juice, mustard, and ginger. Turn turkey; brush with sauce. Broil for 5 to 7 minutes more or till no longer pink, brushing once more with sauce. Heat remaining sauce; serve with turkey. Makes 4 servings."}
+      ],
+      "temperature": "",
+      "pan_size": "broiler pan",
+      "notes": [],
+      "tags": ["turkey", "broiled", "cranberry", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5463 Large.jpeg"]
+    },
+    {
+      "id": "oven-fried-chicken",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oven-Fried Chicken",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 303",
+      "description": "Crispy oven-baked chicken with a variety of coating options.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {"item": "broiler-fryer chicken", "quantity": "2 1/2 to 3", "unit": "lb", "prep_note": "cut up"},
+        {"item": "margarine or butter", "quantity": "3", "unit": "tbsp", "prep_note": "melted"},
+        {"item": "fine dry bread crumbs", "quantity": "3/4", "unit": "cup"},
+        {"item": "grated Parmesan cheese", "quantity": "2", "unit": "tbsp"},
+        {"item": "dried thyme or sage, crushed", "quantity": "1/2", "unit": "tsp"},
+        {"item": "paprika", "quantity": "1/2", "unit": "tsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Skin chicken, if desired. Rinse; pat dry. Brush chicken with melted margarine or butter."},
+        {"step": 2, "text": "In a plastic bag combine bread crumbs, Parmesan cheese, thyme or sage, paprika, and 1/4 teaspoon pepper. Add 2 or 3 pieces of chicken at a time; shake to coat."},
+        {"step": 3, "text": "In a greased 15x10x1-inch baking pan arrange chicken, bone side down, so pieces don't touch. Drizzle with remaining margarine. Bake, uncovered, in a 375° oven for 45 to 55 minutes or till tender and no longer pink. Do not turn. Makes 6 servings."}
+      ],
+      "temperature": "375°F (190°C)",
+      "pan_size": "15x10x1-inch baking pan",
+      "notes": [
+        "Potato-Chip Chicken: Prepare as above, except substitute 1 1/4 cups finely crushed potato chips for the bread crumbs. Omit thyme and paprika.",
+        "Parmesan Chicken: Prepare as above, except increase Parmesan cheese to 1/2 cup and omit thyme.",
+        "Curry-and-Parsley Chicken: Prepare as above, except add 1/2 to 3/4 teaspoon curry powder to crumb mixture.",
+        "Crispy Barbecue-Style Chicken: Prepare as above, except substitute 1/2 cup bottled barbecue sauce for the melted margarine or butter. Reduce crumbs to 1/2 cup; omit Parmesan cheese, herb, and paprika."
+      ],
+      "tags": ["chicken", "oven-fried", "baked", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5464 Large.jpeg"]
+    },
+    {
+      "id": "chicken-nuggets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Nuggets",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 303",
+      "description": "Crispy bite-size chicken pieces.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "6 minutes",
+      "total_time": "26 minutes",
+      "ingredients": [
+        {"item": "skinless, boneless chicken breast halves", "quantity": "1", "unit": "lb"},
+        {"item": "fine dry bread crumbs", "quantity": "1/2", "unit": "cup"},
+        {"item": "grated Parmesan cheese", "quantity": "2", "unit": "tbsp"},
+        {"item": "dried basil, oregano, or thyme, crushed", "quantity": "1/2", "unit": "tsp"},
+        {"item": "margarine or butter", "quantity": "1/4", "unit": "cup", "prep_note": "melted"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse chicken; pat dry. Cut into 1-inch pieces."},
+        {"step": 2, "text": "In a plastic bag combine crumbs, Parmesan cheese, herb, and 1/4 teaspoon pepper. Dip chicken pieces in margarine; shake, a few at a time, in crumb mixture."},
+        {"step": 3, "text": "Arrange in a single layer in a shallow baking pan. Bake in a 400° oven for 6 to 8 minutes or till no longer pink."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "shallow baking pan",
+      "notes": [
+        "Chili Chicken Nuggets: Prepare as above, except add 1 1/2 teaspoons chili powder to crumb mixture.",
+        "Sesame-Soy Chicken Nuggets: Prepare as above, except substitute 2 tablespoons sesame seed for the Parmesan cheese and 1/4 cup soy sauce for the margarine or butter."
+      ],
+      "tags": ["chicken", "nuggets", "baked", "appetizer", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5464 Large.jpeg"]
+    },
+    {
+      "id": "chicken-dijon",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Dijon",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 304",
+      "description": "Creamy Dijon mustard sauce over tender chicken breasts.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {"item": "long grain rice or herb-flavored rice mix", "quantity": "3/4", "unit": "cup"},
+        {"item": "skinless, boneless chicken breast halves", "quantity": "1 1/2", "unit": "lb"},
+        {"item": "lemon-pepper seasoning", "quantity": "1", "unit": "tsp"},
+        {"item": "onion powder", "quantity": "1/4", "unit": "tsp"},
+        {"item": "margarine or butter", "quantity": "2", "unit": "tbsp"},
+        {"item": "light cream or milk", "quantity": "", "unit": ""},
+        {"item": "all-purpose flour", "quantity": "2", "unit": "tsp"},
+        {"item": "Dijon-style mustard", "quantity": "1", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Cook rice according to package directions. Meanwhile, rinse chicken; pat dry. Sprinkle both sides of chicken with lemon-pepper seasoning and onion powder."},
+        {"step": 2, "text": "In a skillet cook chicken in margarine over medium heat for 8 to 10 minutes or till tender and no longer pink, turning to brown evenly. Transfer to a platter; keep warm."},
+        {"step": 3, "text": "For sauce, measure pan juices; add light cream or milk to make 1/2 cup liquid. Return to the skillet. Stir 1/4 cup light cream or milk into flour; add to juices mixture. Stir in mustard. Cook and stir till thickened and bubbly. Cook and stir for 1 to 2 minutes more. Spoon some sauce over chicken; pass remaining sauce. Serve with rice. Makes 4 servings."}
+      ],
+      "temperature": "",
+      "pan_size": "skillet",
+      "notes": [],
+      "tags": ["chicken", "dijon", "mustard", "cream-sauce", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5467 Large.jpeg"]
+    },
+    {
+      "id": "chicken-kiev",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Kiev",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 304",
+      "description": "Classic stuffed chicken breasts with herb butter.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "18 minutes",
+      "total_time": "1 to 24 hours (including chilling)",
+      "ingredients": [
+        {"item": "whole large chicken breasts", "quantity": "2", "unit": "", "prep_note": "skinned, boned, and halved lengthwise"},
+        {"item": "chopped green onion", "quantity": "1", "unit": "tbsp"},
+        {"item": "snipped parsley", "quantity": "1", "unit": "tbsp"},
+        {"item": "garlic clove", "quantity": "1", "unit": "", "prep_note": "minced"},
+        {"item": "butter, chilled", "quantity": "1/4", "unit": "lb", "prep_note": "1/2 of a 1/4-pound stick"},
+        {"item": "beaten egg", "quantity": "1", "unit": ""},
+        {"item": "all-purpose flour", "quantity": "1/4", "unit": "cup"},
+        {"item": "fine dry bread crumbs", "quantity": "1/4", "unit": "cup"},
+        {"item": "butter", "quantity": "1", "unit": "tbsp"},
+        {"item": "cooking oil", "quantity": "1", "unit": "tbsp"}
+      ],
+      "instructions": [
+        {"step": 1, "text": "Rinse chicken; pat dry. Place each breast half, boned side up, between 2 pieces of clear plastic wrap. Working from the center to the edges, pound lightly with the flat side of a meat mallet to 1/4-inch thickness. Remove plastic wrap. Sprinkle with salt and pepper. Combine onion, parsley, and garlic; sprinkle on chicken."},
+        {"step": 2, "text": "Cut chilled butter into four 2 1/2x1/2-inch sticks. Place one piece in the center of each chicken piece. Fold in sides; roll up jelly-roll style, pressing edges to seal. Stir together egg and 1 tablespoon water. Coat rolls with flour, dip into egg mixture, then coat with crumbs. Cover; chill 1 to 24 hours."},
+        {"step": 3, "text": "In a large skillet melt the 1 tablespoon butter; add oil. Add chilled chicken rolls; cook over medium-high heat about 5 minutes or till golden brown, turning to brown all sides. Transfer to a 12x7 1/2x2-inch baking dish. Bake in a 400° oven for 15 to 18 minutes or till no longer pink. Spoon drippings over rolls. Makes 4 servings."}
+      ],
+      "temperature": "400°F (200°C)",
+      "pan_size": "12x7 1/2x2-inch baking dish",
+      "notes": [
+        "Cheesy Chicken Kiev: Prepare as above, except, for the butter in chicken rolls, substitute four 2x1/2-inch sticks of caraway cheese, Gruyère cheese, blue cheese, Camembert (rind removed), Brie (rind removed), or cheddar cheese.",
+        "Pick-a-Butter Chicken Kiev: Prepare as above, except, for the butter in the chicken rolls, substitute 1/4 cup (1/2 recipe) parsley butter or lemon-tarragon butter (see tip, page 368), shaped into four 2 1/2x1/2-inch sticks and chilled."
+      ],
+      "tags": ["chicken", "kiev", "stuffed", "butter", "poultry"],
+      "confidence": {"overall": "high", "flags": []},
+      "image_refs": ["IMG_5467 Large.jpeg"]
     }
   ],
-  "version": "2.82.0"
+  "version": "2.83.0"
 }
