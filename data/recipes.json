@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 895
+    "total_recipes": 906
   },
   "recipes": [
     {
@@ -82582,6 +82582,1331 @@
       },
       "image_refs": [
         "IMG_5223 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "berry-banana-walnut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Berry-Banana-Walnut Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 58",
+      "description": "A quick bread with strawberries or raspberries, banana, and walnuts.",
+      "servings_yield": "1 loaf (18 servings)",
+      "prep_time": "",
+      "cook_time": "60-70 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "mashed strawberries or raspberries",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "about 1-1/2 cups whole berries"
+        },
+        {
+          "item": "mashed ripe banana",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine flour, cinnamon, baking soda, nutmeg, and 1/4 teaspoon salt."
+        },
+        {
+          "step": 2,
+          "text": "In another bowl stir together eggs, sugar, mashed berries, banana, oil, and orange peel. Add to flour mixture, stirring just till combined. Stir in nuts."
+        },
+        {
+          "step": 3,
+          "text": "Pour into a greased 9x5x3-inch loaf pan. Bake in a 350\u00b0 oven for 60 to 70 minutes or till a toothpick inserted near the center comes out clean."
+        },
+        {
+          "step": 4,
+          "text": "Cool 10 minutes. Remove from pan; cool on a rack. Wrap and store overnight."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan",
+      "notes": [
+        "Wrap and store overnight before slicing"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "berry",
+        "banana",
+        "walnut"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5224 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "blueberry-banana-walnut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry-Banana-Walnut Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 58",
+      "description": "Variation using whole blueberries instead of mashed berries.",
+      "servings_yield": "1 loaf (18 servings)",
+      "prep_time": "",
+      "cook_time": "60-70 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "mashed ripe banana",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh or frozen whole blueberries",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Berry-Banana-Walnut Bread, except omit strawberries or raspberries and stir in 1 cup fresh or frozen whole blueberries with the nuts."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5x3-inch loaf pan",
+      "notes": [
+        "Variation of Berry-Banana-Walnut Bread"
+      ],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "blueberry",
+        "banana",
+        "walnut"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5224 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "boston-brown-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Boston Brown Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 58",
+      "description": "Traditionally, this sweet steamed bread is served with baked beans. It's also good when used for sandwiches or spread with cream cheese.",
+      "servings_yield": "1 loaf (15 servings)",
+      "prep_time": "",
+      "cook_time": "2 to 2-1/2 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "whole wheat flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk or sour milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together whole wheat flour, all-purpose flour, cornmeal, baking powder, salt, and baking soda."
+        },
+        {
+          "step": 2,
+          "text": "In another mixing bowl combine egg, buttermilk or sour milk, molasses, sugar, and oil. Add to flour mixture, stirring till well combined. Stir in raisins."
+        },
+        {
+          "step": 3,
+          "text": "Pour batter into a well-greased 4- to 4-1/2-cup heatproof mold or bowl, or a 7-1/2x3-1/2x2-inch loaf pan. Cover tightly with greased foil, greased side down. Place on a rack set in a Dutch oven."
+        },
+        {
+          "step": 4,
+          "text": "Pour hot water into the Dutch oven around the mold or pan till water covers 1 inch of the mold or pan. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 5,
+          "text": "Cover; simmer for 2 to 2-1/2 hours or till a toothpick inserted near the center of the bread comes out clean. Add additional boiling water as needed."
+        },
+        {
+          "step": 6,
+          "text": "Remove mold, bowl, or pan from the Dutch oven; let stand 10 minutes. Remove bread from the mold, bowl, or pan."
+        },
+        {
+          "step": 7,
+          "text": "Serve warm. Or, for later use, cool thoroughly on a wire rack, wrap, and chill."
+        }
+      ],
+      "temperature": "Steamed",
+      "pan_size": "4- to 4-1/2-cup heatproof mold, bowl, or 7-1/2x3-1/2x2-inch loaf pan",
+      "notes": [
+        "Steamed bread - no oven required",
+        "To reheat: cover tightly with foil and steam for 15 minutes",
+        "Microwave: micro-cook on 50% power for 6-8 minutes"
+      ],
+      "tags": [
+        "bread",
+        "steamed",
+        "boston-brown-bread",
+        "molasses"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5224 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "muffins-basic",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 60",
+      "description": "Blueberry Muffins are pictured on page 33. Basic muffin recipe with many variations.",
+      "servings_yield": "10 to 12 muffins",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine flour, sugar, baking powder, and 1/4 teaspoon salt. Make a well in the center."
+        },
+        {
+          "step": 2,
+          "text": "Combine egg, milk, and oil; add all at once to flour mixture. Stir just till moistened (batter should be lumpy)."
+        },
+        {
+          "step": 3,
+          "text": "Lightly grease muffin cups or line with paper bake cups; fill 2/3 full."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 400\u00b0 oven about 20 minutes or till golden. Remove from pans; serve warm."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "muffin pan",
+      "notes": [
+        "FAST recipe",
+        "Do not overmix - batter should be lumpy"
+      ],
+      "tags": [
+        "bread",
+        "muffins",
+        "quick-bread",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5226 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "blueberry-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 60",
+      "description": "Muffins with fresh or frozen blueberries.",
+      "servings_yield": "10 to 12 muffins",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh or frozen blueberries",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Muffins, except fold 3/4 cup fresh or frozen blueberries and, if desired, 1 teaspoon finely shredded lemon peel into muffin batter."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "muffin pan",
+      "notes": [
+        "Variation of Muffins"
+      ],
+      "tags": [
+        "bread",
+        "muffins",
+        "quick-bread",
+        "blueberry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5226 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cranberry-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 60",
+      "description": "Muffins with cranberries and extra sugar.",
+      "servings_yield": "10 to 12 muffins",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3 + 2",
+          "unit": "cup + tbsp",
+          "prep_note": "additional sugar"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "coarsely chopped cranberries",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Muffins, except combine 1 cup coarsely chopped cranberries and 2 tablespoons additional sugar. Fold into muffin batter."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "muffin pan",
+      "notes": [
+        "Variation of Muffins"
+      ],
+      "tags": [
+        "bread",
+        "muffins",
+        "quick-bread",
+        "cranberry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5226 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "french-breakfast-puffs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Breakfast Puffs",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 60",
+      "description": "Muffins dipped in melted margarine and coated with cinnamon-sugar.",
+      "servings_yield": "12 muffins",
+      "prep_time": "",
+      "cook_time": "20-25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for batter"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "melted margarine or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for batter"
+        },
+        {
+          "item": "melted margarine",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for dipping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 1/2 cup sugar and 1/2 teaspoon ground cinnamon; set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl stir together 1-1/2 cups all-purpose flour, 1/2 cup sugar, 1-1/2 teaspoons baking powder, 1/4 teaspoon ground nutmeg, and 1/8 teaspoon salt."
+        },
+        {
+          "step": 3,
+          "text": "In another bowl combine 1 beaten egg, 1/2 cup milk, and 1/3 cup melted margarine or butter; add to flour mixture, stirring just till moistened."
+        },
+        {
+          "step": 4,
+          "text": "Lightly grease muffin cups or line with paper bake cups; fill 2/3 full. Bake in a 350\u00b0 oven for 20 to 25 minutes or till golden."
+        },
+        {
+          "step": 5,
+          "text": "Immediately dip tops into 3 tablespoons melted margarine, then into sugar-cinnamon mixture. Serve warm."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "muffin pan",
+      "notes": [
+        "FAST recipe",
+        "Dip in butter and cinnamon-sugar while still warm"
+      ],
+      "tags": [
+        "bread",
+        "muffins",
+        "quick-bread",
+        "cinnamon",
+        "breakfast",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5226 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "refrigerator-bran-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Refrigerator Bran Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 61",
+      "description": "Serving tasty, warm muffins is a snap when the batter is ready and waiting. A plain Refrigerator Bran Muffin is pictured on page 33.",
+      "servings_yield": "12 muffins",
+      "prep_time": "",
+      "cook_time": "15-20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "whole bran cereal or toasted wheat bran",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "1/2 cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded lemon peel or orange peel",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl stir together flour, whole bran cereal or toasted wheat bran, baking powder, cinnamon, salt, and nutmeg. Make a well in the center."
+        },
+        {
+          "step": 2,
+          "text": "In another bowl stir together egg, milk, sugar, oil, and lemon or orange peel. Add egg mixture all at once to flour mixture. Stir just till moistened (batter will be lumpy). Fold in nuts."
+        },
+        {
+          "step": 3,
+          "text": "Store in a covered container in the refrigerator up to 7 days."
+        },
+        {
+          "step": 4,
+          "text": "To bake, gently stir batter. Grease desired number of muffin cups or line with paper bake cups; fill cups 2/3 full."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 400\u00b0 oven for 15 to 20 minutes or till golden. Remove from pans; serve warm."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "muffin pan",
+      "notes": [
+        "EASY recipe",
+        "Batter stores in refrigerator up to 7 days",
+        "Microwave: 30-60 seconds for 1 muffin, 1-1/2 minutes for 2"
+      ],
+      "tags": [
+        "bread",
+        "muffins",
+        "quick-bread",
+        "bran",
+        "make-ahead",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5227 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "honey-wheat-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Honey Wheat Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 61",
+      "description": "The lemon adds a just-right touch to the honey flavor. A Honey-Nut Wheat Muffin and a Fruit Wheat Muffin are pictured on page 33.",
+      "servings_yield": "12 muffins",
+      "prep_time": "",
+      "cook_time": "18-20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl stir together all-purpose flour, whole wheat flour, baking powder, and salt. Make a well in the center."
+        },
+        {
+          "step": 2,
+          "text": "In another bowl combine beaten egg, milk, honey, cooking oil, and lemon peel. Add egg mixture all at once to dry mixture. Stir just till moistened (batter should be lumpy)."
+        },
+        {
+          "step": 3,
+          "text": "Grease muffin cups or line with paper bake cups; fill 3/4 full."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 400\u00b0 oven for 18 to 20 minutes or till golden. Remove muffins from pans; serve warm."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "muffin pan",
+      "notes": [
+        "Microwave: arrange in ring on plate, micro-cook on 100% power for 1-3/4 to 2-1/4 minutes"
+      ],
+      "tags": [
+        "bread",
+        "muffins",
+        "quick-bread",
+        "honey",
+        "whole-wheat"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5227 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "any-fruit-coffee-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Any-Fruit Coffee Cake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 62",
+      "description": "When serving a crowd, double the recipe and bake the coffee cake in a 13x9x2-inch baking pan for 45 to 50 minutes.",
+      "servings_yield": "9 servings",
+      "prep_time": "",
+      "cook_time": "40-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "chopped, peeled apples, apricots, peaches, or pineapple; or blueberries or raspberries",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for fruit"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for fruit"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "6",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk or sour milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for batter"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan combine choice of fruit and 1/4 cup water. Bring to boiling; reduce heat. Cover and simmer about 5 minutes or till tender."
+        },
+        {
+          "step": 2,
+          "text": "Combine 1/4 cup of the sugar and the cornstarch. Stir into fruit mixture. Cook and stir till thickened and bubbly. Cook and stir 2 minutes more. Set aside."
+        },
+        {
+          "step": 3,
+          "text": "In a mixing bowl stir together 1/2 cup of the sugar, the 1-1/2 cups flour, the baking powder, and baking soda. Cut in 4 tablespoons margarine or butter till mixture resembles fine crumbs."
+        },
+        {
+          "step": 4,
+          "text": "Combine egg, buttermilk or sour milk, and vanilla. Add to flour mixture. Stir just till moistened."
+        },
+        {
+          "step": 5,
+          "text": "Spread half of the batter into an 8x8x2-inch baking pan. Spread fruit mixture over batter. Drop remaining batter in small mounds atop filling."
+        },
+        {
+          "step": 6,
+          "text": "Combine the remaining 1/4 cup sugar and the 1/4 cup flour. Cut in remaining 2 tablespoons margarine or butter till mixture resembles fine crumbs. Sprinkle over batter."
+        },
+        {
+          "step": 7,
+          "text": "Bake in a 350\u00b0 oven for 40 to 45 minutes or till golden brown. Serve warm."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x8x2-inch baking pan",
+      "notes": [
+        "Can double recipe and use 13x9x2-inch pan for 45-50 minutes"
+      ],
+      "tags": [
+        "bread",
+        "coffee-cake",
+        "quick-bread",
+        "fruit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5228 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "rhubarb-strawberry-coffee-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rhubarb-Strawberry Coffee Cake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 62",
+      "description": "A spring coffee cake variation using rhubarb and strawberries.",
+      "servings_yield": "9 servings",
+      "prep_time": "",
+      "cook_time": "40-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen cut-up rhubarb",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen unsweetened whole strawberries",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "6",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk or sour milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Any-Fruit Coffee Cake, except substitute 3/4 cup fresh or frozen cut-up rhubarb and 3/4 cup frozen unsweetened whole strawberries for the fruit."
+        },
+        {
+          "step": 2,
+          "text": "*Note: Do not simmer raspberries."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x8x2-inch baking pan",
+      "notes": [
+        "Variation of Any-Fruit Coffee Cake",
+        "Do not simmer raspberries"
+      ],
+      "tags": [
+        "bread",
+        "coffee-cake",
+        "quick-bread",
+        "rhubarb",
+        "strawberry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5228 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
