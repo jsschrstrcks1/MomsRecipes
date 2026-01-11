@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 854
+    "total_recipes": 864
   },
   "recipes": [
     {
@@ -77900,6 +77900,1217 @@
       },
       "image_refs": [
         "IMG_5207 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cherry-sourdough-coffee-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cherry Sourdough Coffee Cake",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 43",
+      "description": "A sourdough coffee cake with cherry filling and oat crumb topping.",
+      "servings_yield": "9 servings",
+      "prep_time": "",
+      "cook_time": "35-40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Sourdough Starter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "see recipe"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "quick-cooking rolled oats",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix the 1-1/2 cups flour, the sugar, baking powder, baking soda, and 1/4 teaspoon salt. Cut in 1/2 cup margarine till mixture resembles fine crumbs."
+        },
+        {
+          "step": 2,
+          "text": "Mix Sourdough Starter, egg, and vanilla; add to flour mixture. Stir just till moistened."
+        },
+        {
+          "step": 3,
+          "text": "Spread half of the batter in a greased 9x9x2-inch baking pan. Spread Cherry Filling atop. Drop remaining batter in small mounds over filling."
+        },
+        {
+          "step": 4,
+          "text": "Mix oats, brown sugar, nuts, and the 3 tablespoons flour. Cut in 1/4 cup margarine till mixture resembles coarse crumbs; sprinkle over batter."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 350\u00b0 oven for 35 to 40 minutes or till golden. Serves 9."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x9x2-inch baking pan",
+      "notes": [
+        "Includes Cherry Filling recipe"
+      ],
+      "tags": [
+        "bread",
+        "coffee-cake",
+        "sourdough",
+        "cherry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5208 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cherry-filling",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cherry Filling",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 43",
+      "description": "A tart cherry filling for coffee cakes.",
+      "servings_yield": "",
+      "prep_time": "5 minutes",
+      "cook_time": "7 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen unsweetened pitted tart red cherries",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring 1-1/2 cups fresh or frozen unsweetened pitted tart red cherries to boiling; reduce heat."
+        },
+        {
+          "step": 2,
+          "text": "Cover and simmer for 5 minutes. Stir in 1 tablespoon lemon juice."
+        },
+        {
+          "step": 3,
+          "text": "Combine 1/2 cup sugar and 2 tablespoons cornstarch; add to cherry mixture."
+        },
+        {
+          "step": 4,
+          "text": "Cook and stir till bubbly. Cook and stir 2 minutes more. Cool completely."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "filling",
+        "cherry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5208 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "bacon-sourdough-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bacon Sourdough Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 43",
+      "description": "Savory sourdough muffins with bacon and cheddar cheese.",
+      "servings_yield": "12 muffins",
+      "prep_time": "",
+      "cook_time": "20-25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "3",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Sourdough Starter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "see recipe"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook 3 slices bacon till crisp; drain and crumble. Set bacon aside."
+        },
+        {
+          "step": 2,
+          "text": "Stir together 1-3/4 cups all-purpose flour, 1/4 cup sugar, 2-1/2 teaspoons baking powder, and 1/4 teaspoon salt. Make a well in the center."
+        },
+        {
+          "step": 3,
+          "text": "Combine 1 beaten egg, 1/2 cup milk, 1/2 cup Sourdough Starter (see recipe), and 1/3 cup cooking oil; add to dry mixture all at once. Stir just till moistened."
+        },
+        {
+          "step": 4,
+          "text": "Stir in bacon and 1/4 cup shredded cheddar cheese."
+        },
+        {
+          "step": 5,
+          "text": "Grease muffin cups or line with paper bake cups; fill about 3/4 full."
+        },
+        {
+          "step": 6,
+          "text": "Bake in a 400\u00b0 oven for 20 to 25 minutes. Makes 12 muffins."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "muffin pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "muffins",
+        "sourdough",
+        "bacon",
+        "cheese",
+        "savory"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5208 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "dill-batter-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dill Batter Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 43",
+      "description": "A no-knead yeast bread with a somewhat coarse texture, flavored with dill and cottage cheese.",
+      "servings_yield": "1 loaf (8 servings)",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "cream-style cottage cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dillseed or caraway seed",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried minced onion",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "toasted wheat germ",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 1 cup flour and the yeast. Heat and stir cottage cheese, sugar, dillseed, margarine, onion, 1/4 cup water, and 1/2 teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts."
+        },
+        {
+          "step": 2,
+          "text": "Add to flour mixture along with egg. Beat with an electric mixer on low speed 30 seconds, scraping bowl constantly. Beat on high speed 3 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Using a spoon, stir in wheat germ and remaining flour (batter will be stiff)."
+        },
+        {
+          "step": 4,
+          "text": "Spoon into a well-greased 9x1-1/2-inch round baking pan or a 1-quart casserole. Cover; let rise in a warm place till nearly double (50 to 60 minutes)."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven for 25 to 30 minutes or till golden brown. Remove from pan or casserole. Serve warm or cool. Makes 1 loaf (8 servings)."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "9x1-1/2-inch round baking pan or 1-quart casserole",
+      "notes": [
+        "No-knead bread",
+        "EASY recipe"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "no-knead",
+        "dill",
+        "cottage-cheese",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5208 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cornmeal-bubble-ring",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cornmeal Bubble Ring",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 45",
+      "description": "A pull-apart bread ring made with cornmeal and yeast.",
+      "servings_yield": "1 ring (32 servings)",
+      "prep_time": "",
+      "cook_time": "40-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "yellow cornmeal",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2-1/4 to 2-3/4",
+          "unit": "cups",
+          "prep_note": "additional"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "melted, for dipping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2-1/2 cups all-purpose flour and 1 package active dry yeast. Heat and stir 2 cups milk, 1/4 cup margarine or butter, 2 tablespoons sugar, and 1-1/2 teaspoons salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts. Add to flour mixture."
+        },
+        {
+          "step": 2,
+          "text": "Beat with an electric mixer on low speed for 30 seconds, scraping bowl. Beat on high speed for 3 minutes. Using a spoon, stir in 3/4 cup yellow cornmeal. Using 2-1/4 to 2-3/4 cups all-purpose flour, stir in as much flour as you can."
+        },
+        {
+          "step": 3,
+          "text": "Turn out onto a floured surface. Knead in enough remaining flour to make a moderately stiff dough (6 to 8 minutes total). Shape into a ball in a greased bowl; turn once. Cover; let rise in a warm place till double (about 1 hour)."
+        },
+        {
+          "step": 4,
+          "text": "Punch down. Turn out onto a floured surface. Divide into 4 portions. Divide each portion into 8 pieces (32 pieces total). Roll each piece into a ball. Dip balls into 1/4 cup melted margarine or butter."
+        },
+        {
+          "step": 5,
+          "text": "Arrange balls in a greased 10-inch tube pan. Cover; let rise in a warm place till nearly double (35 to 45 minutes)."
+        },
+        {
+          "step": 6,
+          "text": "Bake in a 375\u00b0 oven for 40 to 45 minutes or till golden brown. Cover loosely with foil the last 10 to 15 minutes of baking, if necessary. Remove from pan immediately. Cool on a wire rack. Makes 1 ring (32 servings)."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "10-inch tube pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "cornmeal",
+        "pull-apart"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5211 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "cornmeal-cheese-bubble-ring",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cornmeal-Cheese Bubble Ring",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 45",
+      "description": "A cheesy variation of the cornmeal bubble ring.",
+      "servings_yield": "1 ring (32 servings)",
+      "prep_time": "",
+      "cook_time": "40-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "yellow cornmeal",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2-1/4 to 2-3/4",
+          "unit": "cups",
+          "prep_note": "additional"
+        },
+        {
+          "item": "shredded cheddar or American cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Cornmeal Bubble Ring, except add 1 cup shredded cheddar or American cheese to saucepan with milk mixture."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "10-inch tube pan",
+      "notes": [
+        "Variation of Cornmeal Bubble Ring"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "cornmeal",
+        "cheese",
+        "pull-apart"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5211 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "chocolate-swirl-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Swirl Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 45",
+      "description": "A sweet coffee bread with chocolate swirl and streusel topping. Can be prepared a day ahead.",
+      "servings_yield": "1 coffee cake (12 servings)",
+      "prep_time": "",
+      "cook_time": "45-50 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/2 to 5",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "1",
+          "unit": "5-ounce can (2/3 cup)",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "1",
+          "unit": "6-ounce package (1 cup)",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for chocolate mixture"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "3/4 to 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Start the dough for this coffee bread a day ahead and let it rise in the refrigerator up to 24 hours. Then shape, let rise about 45 minutes, and bake."
+        },
+        {
+          "step": 2,
+          "text": "Combine 2 cups flour and the yeast. Heat and stir the 3/4 cup sugar, the water, margarine, 1/4 cup evaporated milk, and 1/2 teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts. Add to flour mixture along with eggs."
+        },
+        {
+          "step": 3,
+          "text": "Beat with an electric mixer on low speed for 30 seconds. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 4,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately soft dough (3 to 5 minutes total). Shape into a ball in a greased bowl; turn once. Cover; let rise in a warm place till double (1-1/4 to 1-1/2 hours)."
+        },
+        {
+          "step": 5,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Cover; let rest 10 minutes. Meanwhile, combine 3/4 cup chocolate pieces (set aside remaining 1/4 cup for Streusel Topping), remaining evaporated milk, the 2 tablespoons sugar, and the cinnamon."
+        },
+        {
+          "step": 6,
+          "text": "Cook and stir over low heat till chocolate melts; cool."
+        },
+        {
+          "step": 7,
+          "text": "Roll dough into an 18x10-inch rectangle. Spread chocolate mixture to within 1/2 inch of edges. Roll up from one of the long sides. Pinch to seal."
+        },
+        {
+          "step": 8,
+          "text": "Bring ends together to form a ring; seal ends. Place, seam side down, in a greased 10-inch tube pan. Sprinkle Streusel Topping over dough. Cover; let rise till nearly double (about 45 minutes)."
+        },
+        {
+          "step": 9,
+          "text": "Bake on lower rack in a 350\u00b0 oven for 45 to 50 minutes. Cool 15 minutes; remove from pan."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "10-inch tube pan",
+      "notes": [
+        "Can be prepared a day ahead",
+        "Includes Streusel Topping recipe"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "chocolate",
+        "coffee-cake",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5211 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "streusel-topping-chocolate-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Streusel Topping (for Chocolate Swirl Bread)",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 45",
+      "description": "A crumb topping with chocolate and nuts for Chocolate Swirl Bread.",
+      "servings_yield": "",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chocolate pieces",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "remaining from bread"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together 1/4 cup all-purpose flour, 1/4 cup sugar, and 1 teaspoon ground cinnamon."
+        },
+        {
+          "step": 2,
+          "text": "Cut in 1/4 cup margarine or butter."
+        },
+        {
+          "step": 3,
+          "text": "Stir in 1/4 cup chopped nuts and the remaining chocolate pieces."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "topping",
+        "streusel",
+        "chocolate"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5211 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "stollen",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stollen",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 46",
+      "description": "This sweet German favorite is packed with fruits and nuts.",
+      "servings_yield": "3 loaves (48 servings)",
+      "prep_time": "",
+      "cook_time": "18-20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4 to 4-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cardamom",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins or currants",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "diced mixed candied fruits and peels",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped blanched almonds",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for icing"
+        },
+        {
+          "item": "hot water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for icing"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for icing"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large mixing bowl combine 2 cups flour, the yeast, and cardamom."
+        },
+        {
+          "step": 2,
+          "text": "In a saucepan heat and stir milk, the 1/2 cup margarine or butter, the sugar, and 1/2 teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts. Add to flour mixture along with egg."
+        },
+        {
+          "step": 3,
+          "text": "Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 4,
+          "text": "Stir in raisins or currants, candied fruits and peels, almonds, and orange and lemon peels."
+        },
+        {
+          "step": 5,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately soft dough that is smooth and elastic (3 to 5 minutes total). Shape into a ball. Place in a greased bowl; turn once. Cover; let rise in a warm place till double (about 1-3/4 hours)."
+        },
+        {
+          "step": 6,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Divide into thirds. Cover; let rest 10 minutes. Roll one portion of the dough into a 10x6-inch oval."
+        },
+        {
+          "step": 7,
+          "text": "Without stretching, fold one of the long sides over to within 1 inch of the opposite side; press edges lightly to seal. Place on a greased baking sheet; repeat with remaining dough."
+        },
+        {
+          "step": 8,
+          "text": "Cover; let rise till nearly double (about 1 hour). Bake in a 375\u00b0 oven for 18 to 20 minutes or till golden. Remove from baking sheet; cool 30 minutes."
+        },
+        {
+          "step": 9,
+          "text": "Combine powdered sugar, hot water, and the 1/2 teaspoon margarine or butter; brush over warm bread. Makes 3 loaves (48 servings)."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Traditional German Christmas bread"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "german",
+        "christmas",
+        "holiday",
+        "fruit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5212 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "apple-streusel-ladder-loaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple-Streusel Ladder Loaf",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 46",
+      "description": "Use tart apples like Jonathans, Granny Smiths, or Winesaps for this blue-ribbon bread.",
+      "servings_yield": "2 loaves (32 servings)",
+      "prep_time": "",
+      "cook_time": "30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frozen sweet bread dough or frozen bread dough",
+          "quantity": "1",
+          "unit": "16-ounce loaf",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped peeled apples",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brushing"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "slivered almonds",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Divide bread dough in half. On a lightly floured surface, roll each half into an 8-inch square. (For easier rolling, let dough rest a few minutes.)"
+        },
+        {
+          "step": 2,
+          "text": "Spread each square with 1 tablespoon softened margarine or butter. For filling, combine brown sugar, the 1 tablespoon flour, and the cinnamon. Add apples; toss to coat."
+        },
+        {
+          "step": 3,
+          "text": "Spoon half of the filling down the center of each square. Cutting from the right edge toward the filling, make 2-1/2-inch-long cuts in dough at 1-inch intervals. Repeat from the left edge."
+        },
+        {
+          "step": 4,
+          "text": "Fold strips alternately over filling; fold under ends. Place loaves on a greased 15x10x1-inch baking pan. Brush with milk."
+        },
+        {
+          "step": 5,
+          "text": "Combine the 2 tablespoons flour and the sugar. Cut in the 1 tablespoon margarine till mixture resembles coarse crumbs. Sprinkle half of the crumb mixture over each loaf. Top with almonds, if desired."
+        },
+        {
+          "step": 6,
+          "text": "Cover and let loaves rise till nearly double (45 to 60 minutes)."
+        },
+        {
+          "step": 7,
+          "text": "Bake in a 350\u00b0 oven 30 minutes or till golden. Serve warm. Makes 2 loaves (32 servings)."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "15x10x1-inch baking pan",
+      "notes": [
+        "EASY recipe",
+        "Use tart apples like Jonathans, Granny Smiths, or Winesaps"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "apple",
+        "streusel",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5212 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
