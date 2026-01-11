@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1105
+    "total_recipes": 1124
   },
   "recipes": [
     {
@@ -100931,6 +100931,1218 @@
       "servings_yield": "4 servings",
       "image_refs": [
         "IMG_5380 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "vanilla-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vanilla Pudding",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Rich and creamy Chocolate Pudding spills from a Cream Puff (see recipe, opposite) in the photo below right.",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cornstarch or all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "or 1/3 cup flour"
+        },
+        {
+          "item": "milk",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "egg yolks or whole eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "beaten egg yolks or 2 beaten eggs"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a heavy medium saucepan combine sugar and cornstarch or flour. Stir in milk. Cook and stir over medium heat till mixture is thickened and bubbly. Cook and stir for 2 minutes more. Remove from heat. Gradually stir about 1 cup of the hot mixture into beaten egg yolks or eggs."
+        },
+        {
+          "step": 2,
+          "text": "Return all of the egg mixture to the saucepan. If using egg yolks, bring to a gentle boil; if using whole eggs, cook till nearly bubbly, but do not boil. Reduce heat. Cook and stir for 2 minutes more. Remove from heat. Stir in margarine and vanilla. Pour pudding into a bowl. Cover the surface with clear plastic wrap. Chill. Do not stir. Makes 6 servings."
+        }
+      ],
+      "servings_yield": "6 servings",
+      "notes": [
+        "Chocolate Pudding: Prepare as above, except add 1/3 cup unsweetened cocoa powder to sugar. Use 2 tablespoons cornstarch or 1/4 cup all-purpose flour, 2 2/3 cups milk, and egg yolks (not whole eggs).",
+        "Tangy Vanilla Pudding: Prepare as above, except omit margarine or butter. After chilling, stir in one 8-ounce carton dairy sour cream or plain yogurt.",
+        "Brandied Pudding: Prepare as above, except substitute 1 to 2 tablespoons brandy, amaretto, coffee liqueur, or orange liqueur for vanilla."
+      ],
+      "image_refs": [
+        "IMG_5294 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "cream-puffs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Puffs",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "Pudding, whipped cream, ice cream, sherbet, or fresh fruit",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "Powdered sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan combine margarine or butter, 1 cup water, and 1/4 teaspoon salt. Bring to boiling. Add flour all at once, stirring vigorously. Cook and stir till mixture forms a ball that doesn't separate. Remove from heat. Cool 10 minutes. Add eggs, one at a time, beating with a wooden spoon after each addition till smooth."
+        },
+        {
+          "step": 2,
+          "text": "Drop batter by heaping tablespoons, 3 inches apart, onto a greased baking sheet. Bake in a 400\u00b0 oven for 30 to 35 minutes or till golden. Cool on a wire rack. Split puffs and remove any soft dough from inside. Fill with the pudding, whipped cream, ice cream, sherbet, or fruit. Replace tops. Lightly sift powdered sugar over tops, if desired. Makes 10."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "servings_yield": "10 cream puffs",
+      "notes": [
+        "\u00c9clairs: Prepare as above, except spoon batter into a pastry tube fitted with a Number 10 or larger tip. Slowly pipe strips of batter onto a greased baking sheet, making each strip about 4 inches long, 3/4 inch wide, and 1 inch high. Bake, split, and cool as above. Fill with pudding or whipped cream. Frost with Chocolate Glaze (see recipe, page 89). Makes 12."
+      ],
+      "image_refs": [
+        "IMG_5295 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chocolate-pots-de-creme",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Pots de Cr\u00e8me",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Savor pot de cr\u00e8me (poh-duh-KREM), a very rich dessert, in small portions.",
+      "ingredients": [
+        {
+          "item": "light cream",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "German sweet chocolate, coarsely chopped",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": "4-ounce package"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "Whipped cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a heavy small saucepan combine light cream, chocolate, and sugar. Cook and stir over medium heat about 10 minutes or till mixture comes full boil and thickens. Gradually stir about half of the hot mixture into beaten egg yolks; return yolk mixture to saucepan. Cook and stir over low heat for 2 minutes more. Remove from heat. Stir in vanilla."
+        },
+        {
+          "step": 2,
+          "text": "Pour into 4 or 6 pot de cr\u00e8me cups or small dessert dishes. Cover and chill for 2 to 24 hours. Serve with whipped cream, if desired. Makes 4 or 6 servings."
+        }
+      ],
+      "servings_yield": "4 or 6 servings",
+      "image_refs": [
+        "IMG_5295 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "cream-cheese-hearts",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Cheese Hearts",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "End a meal in style with these creamy, rich treats.",
+      "ingredients": [
+        {
+          "item": "cheesecloth",
+          "quantity": "6 to 8",
+          "unit": "squares",
+          "prep_note": "six-inch"
+        },
+        {
+          "item": "cream cheese, softened",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": "8-ounce package"
+        },
+        {
+          "item": "vanilla or few drops almond or lemon extract",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Fruit Sauce or fresh fruit",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 139"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Line six 1/2-cup or eight 1/3-cup heart-shape or other molds with damp cheesecloth squares, allowing the cheesecloth to hang over edges."
+        },
+        {
+          "step": 2,
+          "text": "Beat cream cheese and vanilla with an electric mixer on medium speed till combined. Gradually add powdered sugar, beating till fluffy. Set aside. In another bowl beat whipping cream till soft peaks form. Fold into the cream cheese mixture. Spoon into the prepared molds. Cover and chill for 6 to 24 hours."
+        },
+        {
+          "step": 3,
+          "text": "To serve, invert molds onto a serving plate. Holding onto cheesecloth ends, lift molds from shapes. Peel cheesecloth from shapes. Serve with Fruit Sauce or fruit. Serves 6 or 8."
+        }
+      ],
+      "servings_yield": "6 or 8 servings",
+      "image_refs": [
+        "IMG_5295 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "baked-custards",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Custards",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Caramel Flan, a dressed-up version of Baked Custards, is pictured below right.",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg or cinnamon",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine eggs, milk, sugar, and vanilla. Beat till well combined but not foamy. Place four 6-ounce custard cups or one 3 1/2-cup souffle dish in an 8x8x2-inch baking dish on an oven rack. Pour egg mixture into custard cups or dish. Sprinkle with nutmeg or cinnamon, if desired. Pour boiling water into the baking dish around custard cups or dish to a depth of 1 inch."
+        },
+        {
+          "step": 2,
+          "text": "Bake in a 325\u00b0 oven for 30 to 45 minutes for custard cups (50 to 60 minutes for dish) or till a knife inserted near the center or centers comes out clean. Serve warm or chilled. If desired, loosen edges of individual custards with a spatula or knife, slipping point of spatula down sides to let air in; invert onto dessert plates. Serves 4."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "servings_yield": "4 servings",
+      "notes": [
+        "Caramel Flan: Prepare as above, except in a heavy saucepan cook 1/3 cup sugar over medium-high heat (do not stir) till sugar begins to melt; shake saucepan occasionally. Reduce heat to low and cook till sugar is golden brown; stir frequently. Divide sugar mixture among custard cups. Tilt to coat bottoms. Let stand for 10 minutes. Add egg mixture. Bake individual custards as above. Remove from custard cups to serve.",
+        "Baked Rice Pudding: Prepare as above, except stir 1 cup cooked rice and 1/3 cup raisins into egg mixture. Pour into a 1 1/2-quart casserole. Bake as above for 45 to 55 minutes, stirring after 30 minutes. Makes 6 servings. Do not use the microwave directions."
+      ],
+      "image_refs": [
+        "IMG_5296 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "bread-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bread Pudding",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "To dry bread cubes, bake them in a 300\u00b0 oven about 15 minutes. Or, cut toasted bread slices into 1-inch cubes.",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "4 slices"
+        },
+        {
+          "item": "raisins or other snipped dried fruit",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "Whiskey Sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 140, optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl beat together eggs, milk, sugar, cinnamon, and vanilla. Place dry bread cubes in an 8x1 1/2-inch round baking dish. Sprinkle raisins or dried fruit over bread. Pour egg mixture over all."
+        },
+        {
+          "step": 2,
+          "text": "Bake in a 325\u00b0 oven for 35 to 40 minutes or till a knife inserted near the center comes out clean. Cool slightly. Serve warm with Whiskey Sauce, if desired. Makes 6 servings."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "8x1 1/2-inch round baking dish",
+      "servings_yield": "6 servings",
+      "notes": [
+        "Coconut Bread Pudding: Prepare as above, except sprinkle 1/4 cup coconut over the raisins or dried fruit."
+      ],
+      "image_refs": [
+        "IMG_5297 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "stirred-custard",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stirred Custard",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Serve this custard as a rich sauce over fresh fruit or cake.",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk or light cream",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "Sponge cake or fresh fruit",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a heavy medium saucepan combine eggs, milk or light cream, and sugar. Cook and stir over medium heat. Continue cooking egg mixture till it just coats a metal spoon. Remove from heat. Stir in vanilla. Quickly cool the custard by placing the saucepan in a sink or bowl of ice water for 1 to 2 minutes, stirring constantly. Pour custard mixture into a bowl. Cover surface with clear plastic wrap. Chill till serving time. Serve over cake slices or fruit. Makes 3 cups (6 servings)."
+        }
+      ],
+      "servings_yield": "3 cups (6 servings)",
+      "notes": [
+        "Amaretto Stirred Custard: Prepare as above, except substitute 2 to 3 tablespoons amaretto, orange liqueur, coffee liqueur, rum, or brandy for the vanilla."
+      ],
+      "image_refs": [
+        "IMG_5297 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "trifle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Trifle",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Save a step and use a bakery sponge cake or ladyfingers for the base.",
+      "ingredients": [
+        {
+          "item": "Stirred Custard",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, left"
+        },
+        {
+          "item": "Hot-Milk Sponge Cake",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 85"
+        },
+        {
+          "item": "cream sherry or brandy",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "strawberry preserves or currant jelly",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cut-up, peeled peaches or kiwi fruit; or strawberries, raspberries, or blueberries",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "toasted sliced almonds",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Stirred Custard and cool. Cut cake into 1-inch cubes (you should have 5 cups). Reserve remaining cake for another use. In a 2-quart serving bowl layer half of the cake cubes. Sprinkle with half of the sherry. Dot with half of the preserves. Top with half of the fruit and half of the almonds. Pour half of the Stirred Custard over all. Repeat layers. Cover and chill for 3 to 24 hours."
+        },
+        {
+          "step": 2,
+          "text": "To serve, beat whipping cream, sugar, and vanilla till soft peaks form. Spread over trifle. Serves 8."
+        }
+      ],
+      "servings_yield": "8 servings",
+      "notes": [
+        "Shortcut Trifle: Prepare as above, except substitute one 4-serving-size package instant vanilla pudding mix, prepared according to package directions, for the Stirred Custard; one 3-ounce package (12) ladyfingers for the cake; and half of a 4-ounce container frozen whipped dessert topping, thawed, for the whipping cream, sugar, and vanilla. Chill up to 4 hours."
+      ],
+      "image_refs": [
+        "IMG_5297 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "no-cook-vanilla-ice-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "No-Cook Vanilla Ice Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Looks and tastes like soft-serve ice cream.",
+      "ingredients": [
+        {
+          "item": "light cream",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "3",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large mixing bowl combine light cream, sugar, and vanilla. Stir till sugar dissolves. Stir in whipping cream. Freeze in a 4- or 5-quart ice-cream freezer according to the manufacturer's directions. Makes 2 quarts (16 to 20 servings)."
+        }
+      ],
+      "servings_yield": "2 quarts (16 to 20 servings)",
+      "notes": [
+        "No-Cook Cherry-Nut Ice Cream: Prepare as above, except stir 1 cup chopped pitted dark sweet cherries and 1/2 cup chopped walnuts into cream mixture before freezing.",
+        "No-Cook Chocolate-Almond Ice Cream: Prepare as above, except reduce sugar to 1 cup. Stir one 16-ounce can (1 1/2 cups) chocolate-flavored syrup and 1/2 cup chopped toasted almonds into cream mixture before freezing.",
+        "No-Cook Chocolate Chip and Mint Ice Cream: Prepare as above, except stir 1 cup miniature semisweet chocolate pieces, several drops of mint extract, and, if desired, a few drops of green or red food coloring into the cream mixture before freezing.",
+        "No-Cook Strawberry Ice Cream: Prepare as above, except, in a blender container, blend 4 cups fresh or frozen-then-thawed unsweetened strawberries or blueberries till nearly smooth. (You should have 2 cups.) Stir blended berries into cream mixture before freezing.",
+        "No-Cook Peach Ice Cream: Prepare as above, except, in a blender container, blend 4 cups cut-up, peeled peaches till nearly smooth. (You should have 2 cups.) Stir peaches into cream mixture before freezing.",
+        "No-Cook Coffee Ice Cream: Prepare as above, except dissolve 2 to 3 tablespoons instant coffee crystals in the light cream mixture. Stir 1/2 cup miniature semisweet chocolate pieces into cream mixture before freezing, if desired.",
+        "Butter-Pecan Ice Cream: Prepare as above, except, in a heavy skillet, cook 1/2 cup chopped pecans, 1/4 cup sugar, and 1 tablespoon margarine or butter over medium-high heat (do not stir) till sugar begins to melt, shaking skillet occasionally. Reduce heat to low and cook till sugar turns golden, stirring frequently. Immediately spread on a baking sheet lined with greased foil. Cool; break into chunks. Stir nut mixture into cream mixture before freezing."
+      ],
+      "image_refs": [
+        "IMG_5298 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "vanilla-ice-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vanilla Ice Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "unflavored gelatin",
+          "quantity": "2",
+          "unit": "envelopes"
+        },
+        {
+          "item": "light cream",
+          "quantity": "6",
+          "unit": "cups"
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "3",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan combine sugar and gelatin. Stir in light cream. Cook and stir over medium heat till mixture almost boils and sugar dissolves. Stir about 1 cup of the hot mixture into beaten eggs; return all to saucepan. Cook and stir for 2 minutes more. Do not boil. Stir in whipping cream and vanilla. Cool. Freeze in a 4- or 5-quart ice-cream freezer according to manufacturer's directions. Makes about 3 quarts (24 servings)."
+        }
+      ],
+      "servings_yield": "About 3 quarts (24 servings)",
+      "notes": [
+        "Chocolate Ice Cream: Prepare as above, except stir 6 squares (6 ounces) unsweetened chocolate, melted and cooled, into gelatin mixture after heating. Beat with a rotary beater till combined. Stir 1 cup chopped toasted almonds into the cooled mixture, if desired."
+      ],
+      "image_refs": [
+        "IMG_5298 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "lemon-sherbet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Sherbet",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "We added just enough lemon peel to give a tangy, refreshing taste.",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "unflavored gelatin",
+          "quantity": "1",
+          "unit": "envelope"
+        },
+        {
+          "item": "finely shredded lemon peel or orange peel",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "yellow food coloring",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "few drops"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In saucepan mix sugar and gelatin; add 3 cups water. Cook and stir till sugar and gelatin dissolve. Remove from heat. Add lemon peel, milk, lemon juice, and food coloring. (Mixture will look curdled.) Transfer to a 9x9x2-inch baking pan. Cover; freeze 2 to 3 hours or till almost firm."
+        },
+        {
+          "step": 2,
+          "text": "(Or, after mixing ingredients, freeze in a 4- or 5-quart ice-cream freezer according to manufacturer's directions. Omit remaining steps.) Break frozen mixture into small chunks. Transfer to a chilled bowl. Beat with an electric mixer till smooth but not melted. Return to pan. Cover; freeze till firm. Makes 2 quarts (serves 16 to 20)."
+        }
+      ],
+      "pan_size": "9x9x2-inch",
+      "servings_yield": "2 quarts (16 to 20 servings)",
+      "notes": [
+        "Orange Sherbet: Prepare as above, except substitute 3 3/4 cups orange juice for water. Omit lemon juice. Substitute orange food coloring for yellow food coloring.",
+        "Pineapple Sherbet: Prepare as above, except substitute 3 3/4 cups unsweetened pineapple juice for water. Omit lemon juice."
+      ],
+      "image_refs": [
+        "IMG_5299 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "choose-a-fruit-frozen-yogurt",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Fruit Frozen Yogurt",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Double all the ingredients for a 4- or 5-quart ice-cream freezer.",
+      "tags": [
+        "easy"
+      ],
+      "ingredients": [
+        {
+          "item": "fresh or frozen unsweetened strawberries, red raspberries, blueberries, or boysenberries; cut-up, peeled peaches or nectarines; or pitted dark sweet cherries",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "plain yogurt",
+          "quantity": "2",
+          "unit": "cartons",
+          "prep_note": "8-ounce cartons"
+        },
+        {
+          "item": "honey or sugar",
+          "quantity": "1/2 to 3/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In blender container blend fruit till smooth. Press through a sieve to remove seeds, if necessary. Stir in yogurt and honey. Pour into a 1- to 2-quart ice-cream freezer. Freeze according to manufacturer's directions. Let stand at room temperature for 20 minutes. Makes 1 quart (8 servings)."
+        }
+      ],
+      "servings_yield": "1 quart (8 servings)",
+      "image_refs": [
+        "IMG_5299 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "fruit-ice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit Ice",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "fresh or frozen unsweetened strawberries or raspberries, or sliced peaches or nectarines",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "orange liqueur",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "Orange juice",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a blender container combine fruit, orange juice, sugar, and, if desired, liqueur. Cover; blend till smooth. Press through a sieve to remove skin or seeds. Add additional orange juice to make 3 cups mixture. Transfer to an 8x4x2-inch or 9x5x3-inch loaf pan. Cover; freeze 4 hours or till firm."
+        },
+        {
+          "step": 2,
+          "text": "Break frozen mixture into small chunks. Transfer to chilled bowl. Beat with an electric mixer till smooth but not melted. Return mixture to loaf pan. Cover; freeze till firm. To serve, scrape across top with a spoon and mound into dessert dishes. Makes 3 cups (6 to 8 servings)."
+        }
+      ],
+      "servings_yield": "3 cups (6 to 8 servings)",
+      "image_refs": [
+        "IMG_5299 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "mocha-toffee-squares",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mocha Toffee Squares",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "finely crushed chocolate wafers",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "instant coffee crystals",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "unsweetened chocolate, melted and cooled",
+          "quantity": "1",
+          "unit": "square",
+          "prep_note": "1 ounce"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg whites",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "chocolate-covered English toffee, crushed",
+          "quantity": "2",
+          "unit": "bars",
+          "prep_note": "1 1/4-ounce bars (1/2 cup)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For crust, combine crushed wafers and the melted margarine; press onto bottom of an 8x8x2-inch dish. Dissolve coffee crystals in 1 tablespoon hot water. Beat together 1/2 cup sugar and the 1/2 cup margarine till fluffy. Add egg yolks, one at a time, beating well after each. Add coffee, chocolate, and vanilla; beat till combined."
+        },
+        {
+          "step": 2,
+          "text": "Beat egg whites to soft peaks; gradually add remaining sugar, beating to stiff peaks. Fold chocolate mixture into egg whites. Spread over crust. Sprinkle toffee atop. Cover; freeze 6 hours or till firm. Let stand 5 minutes before serving. Serves 9."
+        }
+      ],
+      "pan_size": "8x8x2-inch",
+      "servings_yield": "9 servings",
+      "image_refs": [
+        "IMG_5299 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "frosty-strawberry-squares",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Frosty Strawberry Squares",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "egg whites",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "sliced strawberries",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For crumb mixture, combine flour, nuts, margarine, and brown sugar. Spread evenly into a shallow baking pan. Bake in a 350\u00b0 oven for 20 minutes; stir occasionally. Sprinkle two-thirds of the crumbs into a 13x9x2-inch baking pan."
+        },
+        {
+          "step": 2,
+          "text": "In a large mixing bowl combine egg whites, strawberries, sugar, and lemon juice. Beat with an electric mixer on high speed about 10 minutes or till stiff peaks form (tips stand straight). In a small mixing bowl beat the whipping cream till soft peaks form. Fold whipped cream into strawberry mixture. Spoon evenly over crumbs in baking pan; sprinkle remaining crumbs on top. Cover; freeze at least 6 hours or till firm. Serves 12 to 16."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "13x9x2-inch",
+      "servings_yield": "12 to 16 servings",
+      "notes": [
+        "Frosty Cranberry Squares: Prepare as above, except substitute 1 1/2 cups ground cranberries for strawberries and 1 tablespoon frozen orange juice concentrate for lemon juice."
+      ],
+      "image_refs": [
+        "IMG_5300 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chocolaty-velvet-ice-cream",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolaty Velvet Ice Cream",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "This nutty treat needs no ice-cream freezer.",
+      "tags": [
+        "easy"
+      ],
+      "ingredients": [
+        {
+          "item": "whipping cream",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sweetened condensed milk",
+          "quantity": "1/2",
+          "unit": "can",
+          "prep_note": "of a 14-ounce can (2/3 cup)"
+        },
+        {
+          "item": "chocolate-flavored syrup",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "coarsely chopped walnuts",
+          "quantity": "1/3",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine cream, sweetened condensed milk, and chocolate syrup. Beat with an electric mixer till soft peaks form. Fold in chopped nuts. Transfer to an 8x8x2-inch pan; freeze till firm. Makes 1 quart (8 servings)."
+        }
+      ],
+      "pan_size": "8x8x2-inch",
+      "servings_yield": "1 quart (8 servings)",
+      "image_refs": [
+        "IMG_5300 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "hot-fudge-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Fudge Sauce",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "5-ounce can (2/3 cup)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a heavy small saucepan melt chocolate pieces and margarine or butter. Add the sugar; gradually stir in milk. Bring to boiling, reduce heat. Boil gently over low heat for 8 minutes, stirring frequently. Remove from heat. Serve warm over ice cream. Makes about 1 1/2 cups (8 servings)."
+        }
+      ],
+      "servings_yield": "About 1 1/2 cups (8 servings)",
+      "notes": [
+        "Peanut-Butter Fudge Sauce: Prepare as above, except, after cooking 8 minutes, stir in 1/4 cup peanut butter. Then remove from heat."
+      ],
+      "image_refs": [
+        "IMG_5301 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "caramel-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel Sauce",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "light cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "light corn syrup",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a heavy saucepan mix sugar and cornstarch. Stir in 1/4 cup water. Stir in cream and corn syrup. Cook and stir till bubbly (mixture may appear curdled). Cook and stir for 2 minutes more. Remove from heat; stir in margarine and vanilla. Serve warm or cool over ice cream, fruit, cheesecake, or cake. Makes 1 cup (8 servings)."
+        }
+      ],
+      "servings_yield": "1 cup (8 servings)",
+      "image_refs": [
+        "IMG_5301 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "rhubarb-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rhubarb Sauce",
+      "category": "desserts",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/2 to 2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "orange peel",
+          "quantity": "1",
+          "unit": "strip",
+          "prep_note": "optional, if desired"
+        },
+        {
+          "item": "rhubarb slices",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "1/2-inch"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan mix 1/2 to 2/3 cup sugar, 1/4 cup water, and, if desired, 1 strip orange peel. Bring to boiling. Add 3 cups of 1/2-inch rhubarb slices. Reduce heat. Cover and simmer about 5 minutes or till rhubarb is tender. Remove peel. Serve over cake or ice cream. Makes 2 cups (8 servings)."
+        }
+      ],
+      "servings_yield": "2 cups (8 servings)",
+      "image_refs": [
+        "IMG_5301 Large.jpeg"
       ],
       "confidence": {
         "overall": "high",
