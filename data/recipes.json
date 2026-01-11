@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1039
+    "total_recipes": 1047
   },
   "recipes": [
     {
@@ -95803,6 +95803,698 @@
       },
       "image_refs": [
         "IMG_5337 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "tuna-noodle-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Noodle Casserole",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 176",
+      "description": "Homestyle cooking at its best.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "medium noodles",
+          "quantity": "3/4",
+          "unit": "cup (4 oz)"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "can condensed cream of mushroom soup",
+          "quantity": "1",
+          "unit": "10 3/4-oz"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "can chunk-style tuna, drained and broken into chunks",
+          "quantity": "1",
+          "unit": "9 1/4-oz"
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "parsley sprigs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook noodles according to package directions; drain and set aside. Meanwhile, in a saucepan cook celery and onion in margarine or butter till tender. Stir in tuna or salmon; pimiento. Gently stir in cooked noodles. Sprinkle with Parmesan cheese."
+        },
+        {
+          "step": 2,
+          "text": "Transfer to a 1 1/2-quart casserole. Sprinkle with Parmesan cheese. Bake in a 375\u00b0 oven for 25 to 30 minutes or till bubbly. Garnish with parsley sprigs, if desired. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "notes": [
+        "Vegetable Tuna-Noodle Casserole: Prepare as above except stir in 1 cup cooked vegetable (such as peas, carrots, or green beans) with the tuna.",
+        "Extra-Creamy Tuna-Noodle Casserole: Prepare as above except substitute one 8-ounce carton dairy sour cream or substitute one 8-ounce carton plain yogurt for the milk. Stir 1 to 2 tablespoons milk into mixture, if necessary, to obtain desired consistency."
+      ],
+      "tags": [
+        "fish",
+        "tuna",
+        "casserole",
+        "noodles",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5338 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "tuna-broccoli-crepes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Broccoli Crepes",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 176",
+      "description": "Special enough for company.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "package frozen chopped broccoli",
+          "quantity": "1",
+          "unit": "10-oz"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "can tuna, drained and flaked or one 7 1/2-ounce can salmon, drained, flaked, and skin and bones removed",
+          "quantity": "1",
+          "unit": "6 1/2-oz"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "Crepes",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": "see recipe, page 72"
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "sliced or slivered almonds, toasted",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook broccoli according to package directions. Drain. Cut up any large broccoli pieces. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "For cheese sauce, in a medium saucepan cook onion in margarine or butter till tender but not brown. Stir in flour, mustard, and pepper. Add milk all at once. Cook and stir till thickened and bubbly. Add cheese. Cook and stir till melted and blended. Remove from heat."
+        },
+        {
+          "step": 3,
+          "text": "Combine broccoli and 3/4 cup of the tuna sauce. Spoon about 3 tablespoons of the tuna mixture onto the unbrowned side of each crepe; roll up. Place crepes, seam side down, in a 12x7 1/2x2-inch baking dish. Bake, covered, in a 375\u00b0 oven for 20 to 25 minutes or till heated through."
+        },
+        {
+          "step": 4,
+          "text": "Reheat the remaining cheese sauce. Stir in additional milk, if necessary, to obtain desired consistency. To serve, spoon remaining cheese sauce over crepes. Sprinkle with paprika and, if desired, top with toasted almonds. Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "tags": [
+        "fish",
+        "tuna",
+        "crepes",
+        "broccoli",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5338 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "tuna-biscuit-casseroles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tuna-Biscuit Casseroles",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "Biscuits are refrigerated biscuits.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "chopped onion",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried thyme, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "cooked mixed vegetables",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "can tuna, drained and flaked",
+          "quantity": "1",
+          "unit": "9 1/4-oz"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "package refrigerated biscuits",
+          "quantity": "1",
+          "unit": "10-oz",
+          "prep_note": "10 biscuits"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook onion in margarine till tender. Stir in flour, bouillon granules, thyme, and pepper. Add milk. Cook and stir till thickened and bubbly. Stir in vegetables, tuna, and parsley. Heat through."
+        },
+        {
+          "step": 2,
+          "text": "Spoon mixture into six 10-ounce casseroles or custard cups. Quarter each biscuit. Arrange 6 to 7 pieces atop each casserole. Place on baking sheet. Bake in a 400\u00b0 oven for 10 to 12 minutes or till biscuits are lightly browned. Makes 6 servings."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "tags": [
+        "fish",
+        "tuna",
+        "casserole",
+        "biscuits",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5339 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "salmon-loaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmon Loaf",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "description": "No time for the sauce? Cook a package of frozen peas and onions to take over the loaf.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "finely chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "slightly beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "can pink salmon, bones removed, drained and flaked",
+          "quantity": "1",
+          "unit": "15 1/2-oz"
+        },
+        {
+          "item": "cans tuna, drained, flaked, and two 6 1/2-ounce cans American cheese slices",
+          "quantity": "2",
+          "unit": "6 1/2-oz",
+          "prep_note": "or 2 American cheese slices (optional)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan cook onion, dillweed, and a dash pepper in margarine till onion is tender. Combine onion mixture, milk, and egg. Stir in salmon, bread crumbs. Shape mixture into a 6x3-inch loaf in a greased shallow baking pan. Bake in a 350\u00b0 oven for 30 to 35 minutes. Top with Cheese Sauce or 2 American cheese slices, if desired. Makes 4 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "fish",
+        "salmon",
+        "loaf"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5339 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "salmon-pasta-skillet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmon-Pasta Skillet",
+      "category": "fish",
+      "source_note": "Better Homes and Gardens cookbook, page 177",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "packaged corkscrew macaroni",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "about 4 oz"
+        },
+        {
+          "item": "frozen peas",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "pitted ripe olives, cut into cubes",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon peel",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet bring chicken broth to boiling. Add pasta. Cook, covered, 15 to 20 minutes or till pasta is tender, stirring frequently. Add broth and salmon. Cook, covered, about 3 more minutes. Stir in cheese, peas, and olives. Cook, covered, about 3 minutes more. Gently stir in salmon. Heat through. Sprinkle with lemon peel. Pass Parmesan cheese. Serves 4."
+        }
+      ],
+      "tags": [
+        "fish",
+        "salmon",
+        "pasta",
+        "skillet",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5339 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "crab-cakes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crab Cakes",
+      "category": "shellfish",
+      "source_note": "Better Homes and Gardens cookbook, page 179",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "crabmeat, cooked, or two 6-ounce cans crabmeat, drained, flaked, and cartilage removed",
+          "quantity": "3/4",
+          "unit": "lb"
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "1 1/4",
+          "unit": "cups"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium bowl combine egg, mayonnaise, mustard, Worcestershire sauce, salt, and pepper. Stir in crab. Add half of the crumbs (about 3 minutes). Add half of margarine and heat about 3 minutes. Add half of the crab mixture to skillet. Press into four 3-inch patties."
+        },
+        {
+          "step": 2,
+          "text": "Fry for 3 to 4 minutes on each side or till golden. Remove; keep warm. Repeat with remaining margarine, oil, and crab mixture. Makes 4 servings."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "tags": [
+        "shellfish",
+        "crab",
+        "cakes",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5341 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "crab-mornay",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crab Mornay",
+      "category": "shellfish",
+      "source_note": "Better Homes and Gardens cookbook, page 179",
+      "description": "Topped with a classic cheese sauce.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "sliced fresh mushrooms, onion, and celery",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "thinly sliced celery",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Dash red pepper",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "crabmeat, cooked, or two 6-ounce cans crabmeat, drained, flaked, and cartilage removed",
+          "quantity": "3/4",
+          "unit": "lb"
+        },
+        {
+          "item": "dry white wine or milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded process Swiss cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan cook mushrooms, onion, and celery in margarine till tender. Add red pepper. Cook and stir till thickened and bubbly. Stir in crabmeat and wine. Cook and stir 1 minute more."
+        },
+        {
+          "step": 2,
+          "text": "Stir in crabmeat, chopped egg, pimiento, to and mustard. Spoon into four 10-ounce casseroles or coquille shells. Top with bread crumbs with the 1 tablespoon margarine; sprinkle over casseroles. Top with almonds. Bake in a 375\u00b0 oven about 20 minutes or till tops brown. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "tags": [
+        "shellfish",
+        "crab",
+        "mornay",
+        "cheese sauce"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5341 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "deviled-crab",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Deviled Crab",
+      "category": "shellfish",
+      "source_note": "Better Homes and Gardens cookbook, page 179",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "crabmeat, cooked, or two 6 1/2-ounce cans crabmeat, drained, flaked, and cartilage removed",
+          "quantity": "6",
+          "unit": "oz"
+        },
+        {
+          "item": "hard-cooked egg, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "shredded process Swiss cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sliced almonds, toasted",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan melt the 2 tablespoons margarine. Stir in flour. Add milk and hot pepper sauce all at once. Cook and stir till thickened and bubbly. Stir in crabmeat, chopped egg, pimiento, cheese, and mustard. Spoon into four 10-ounce casseroles or coquille shells. Toss bread crumbs with the 1 tablespoon margarine; sprinkle over casseroles. Top with almonds. Bake in 375\u00b0 oven about 20 minutes or till tops brown. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "tags": [
+        "shellfish",
+        "crab",
+        "deviled",
+        "baked"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5341 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "pending"
