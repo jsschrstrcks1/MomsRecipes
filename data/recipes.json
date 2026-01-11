@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1000
+    "total_recipes": 1012
   },
   "recipes": [
     {
@@ -92828,6 +92828,863 @@
       },
       "image_refs": [
         "IMG_5291 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "creamy-poached-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Poached Eggs",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 143",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "English muffins or bagels, split",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cream cheese with chives, cut up",
+          "quantity": "1",
+          "unit": "3-oz package"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast muffins or bagels. In a medium skillet combine cheeses, milk, and 1/8 teaspoon pepper. Cook and stir over medium heat till cheeses melt."
+        },
+        {
+          "step": 2,
+          "text": "Break 1 egg into a cup. Carefully slide egg into cheese mixture. Repeat with remaining eggs. Cover; cook over medium-low heat for 3 to 5 minutes or to desired doneness. Top each muffin or bagel half with an egg. Stir cheese mixture with a wire whisk. Spoon over eggs. Serves 4."
+        }
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5304 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "poached-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Eggs",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 144",
+      "description": "Eggs Benedict (pictured below right) makes a spectacular brunch entr\u00e9e.",
+      "servings_yield": "varies",
+      "ingredients": [
+        {
+          "item": "cooking oil or shortening",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1 to 2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "2 per serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Lightly grease a saucepan, if desired, using a 2-quart pan for 3 or 4 eggs or a 1-quart pan for 1 or 2 eggs. Add water to half-fill the pan; stir in bouillon granules, if desired. Bring water to boiling. Reduce heat to simmering (bubbles should begin to break the surface of the water)."
+        },
+        {
+          "step": 2,
+          "text": "Break 1 egg into a measuring cup. Carefully slide egg into simmering water, holding the lip of the cup as close to the water as possible. Repeat with remaining eggs, allowing each egg an equal amount of space."
+        },
+        {
+          "step": 3,
+          "text": "Simmer eggs, uncovered, for 3 to 5 minutes or to desired doneness. Remove with a slotted spoon. Season to taste with salt and pepper."
+        }
+      ],
+      "notes": [
+        "Eggs Benedict: Prepare as above, except, before poaching eggs, split 2 English muffins. Place muffin halves and 8 slices Canadian-style bacon on a baking sheet. Bake in a 350\u00b0 oven for 10 to 15 minutes or till muffins are toasted and bacon is hot. Keep warm. Place 4 poached eggs in a large pan of warm water to keep warm while preparing half of a recipe of Hollandaise Sauce (see recipe, page 362) or half of a recipe of Mock Hollandaise Sauce (see recipe, page 363). To serve, top each muffin half with 2 slices of bacon and an egg; spoon sauce over eggs. Sprinkle with paprika and garnish with orange slices and parsley, if desired. Serves 4."
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "poached"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5305 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "huevos-rancheros",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Huevos Rancheros",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 145",
+      "description": "Featuring poached eggs and tortillas topped with a chili-pepper-spiked sauce. Huevos Rancheros (WEH-vohs rahn-CHEH-rohs) is one hot dish.",
+      "servings_yield": "3 servings",
+      "ingredients": [
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "tomatoes, cut up",
+          "quantity": "1",
+          "unit": "16-oz can"
+        },
+        {
+          "item": "canned diced green chili peppers, rinsed",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "corn tortillas",
+          "quantity": "3",
+          "unit": "6-inch"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "shredded Monterey Jack, Monterey Jack with jalape\u00f1o peppers, or American cheese",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook chopped onion in the 1 tablespoon oil till tender. Stir in undrained tomatoes, chili peppers, chili powder, and garlic powder. Simmer, uncovered, for 5 to 10 minutes or till slightly thickened."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, place tortillas on a baking sheet; brush lightly with the 1 teaspoon oil. Bake in a 350\u00b0 oven about 10 minutes or till crisp."
+        },
+        {
+          "step": 3,
+          "text": "Break 1 egg into a measuring cup. Carefully slide egg into simmering tomato mixture. Repeat with remaining eggs. Simmer gently, covered, for 3 to 5 minutes or to desired doneness."
+        },
+        {
+          "step": 4,
+          "text": "To serve, place tortillas on 3 plates. Top each tortilla with 2 eggs; spoon tomato mixture over eggs. Sprinkle with cheese. Pass hot pepper sauce. Makes 3 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "eggs",
+        "breakfast",
+        "mexican",
+        "spicy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5306 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "deviled-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Deviled Eggs",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 146",
+      "description": "Four different flavors to choose from.",
+      "servings_yield": "12 servings",
+      "ingredients": [
+        {
+          "item": "hard-cooked eggs",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika or parsley sprigs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Halve hard-cooked eggs lengthwise and remove yolks. Place yolks in a bowl; mash with a fork. Add mayonnaise, mustard, and vinegar; mix well. Season with salt and pepper, if desired. Stuff egg white halves with yolk mixture. Garnish with paprika or parsley, if desired. Makes 12 servings."
+        }
+      ],
+      "notes": [
+        "Italian-Style Deviled Eggs: Prepare as above, except omit mayonnaise, mustard, and vinegar. Add 1/4 cup creamy Italian salad dressing and 2 tablespoons grated Parmesan cheese to mashed yolks; mix well.",
+        "Indian-Style Deviled Eggs: Prepare as above, except omit mustard and vinegar. Add 1/4 cup finely chopped peanuts and 1/2 teaspoon curry powder to yolk mixture; mix well.",
+        "Mexican-Style Deviled Eggs: Prepare as above, except omit mustard and vinegar. Add 2 tablespoons canned diced green chili peppers, 1 tablespoon chopped pitted ripe olives, 1/2 teaspoon chili powder, and 1/8 teaspoon ground red pepper to yolk mixture; mix well. Stuff egg whites with yolk mixture. Garnish with sliced pitted ripe olives or cilantro and serve with salsa, if desired."
+      ],
+      "tags": [
+        "eggs",
+        "appetizer",
+        "deviled eggs"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5307 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fried-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Eggs",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 146",
+      "description": "No need to turn the eggs with this simple method.",
+      "servings_yield": "2 servings",
+      "ingredients": [
+        {
+          "item": "margarine or butter, or nonstick spray coating",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet melt margarine or butter over medium heat. (Or, spray a cold skillet with nonstick spray coating, then heat.) Add eggs. When whites are set, add 1 teaspoon water. Cover skillet; cook eggs to desired doneness (about 2 minutes for soft or 4 minutes for firm). Makes 2 servings."
+        },
+        {
+          "step": 2,
+          "text": "Note: For 1 or 2 eggs, use a small skillet and 1 teaspoon margarine or butter."
+        }
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5307 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "baked-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Eggs",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 147",
+      "description": "Same great poached-egg taste, but less work.",
+      "servings_yield": "3 servings",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "snipped chives or desired herb",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "shredded cheddar, Swiss, or Monterey Jack cheese",
+          "quantity": "6",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Generously grease three 10-ounce casseroles with margarine. Carefully break 2 eggs into each casserole; sprinkle with salt, pepper, and chives or herb. Set casseroles into a 13x9x2-inch baking pan; place on an oven rack. Pour hot water around casseroles in pan to a depth of 1 inch."
+        },
+        {
+          "step": 2,
+          "text": "Bake in a 325\u00b0 oven about 25 minutes or till eggs are firm and whites are opaque. If desired, after 20 minutes of cooking, sprinkle cheese atop eggs. Cook for 5 to 10 minutes more or till eggs are cooked and cheese melts. Serves 3."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "eggs",
+        "breakfast",
+        "baked",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5308 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "scrambled-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scrambled Eggs",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 148",
+      "servings_yield": "3 servings",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "milk or light cream",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl beat together eggs, milk or light cream, 1/4 teaspoon salt, and dash pepper. In a large skillet melt margarine over medium heat; pour in egg mixture. Cook, without stirring, till mixture begins to set on the bottom and around edge."
+        },
+        {
+          "step": 2,
+          "text": "Using a large spoon or spatula, lift and fold partially cooked eggs so uncooked portion flows underneath. Continue cooking over medium heat for 2 to 3 minutes or till eggs are cooked throughout but are still glossy and moist. Remove from the heat immediately. Serves 3."
+        }
+      ],
+      "notes": [
+        "Herbed Scrambled Eggs: Prepare as above, except add 1 tablespoon snipped parsley and 1/4 teaspoon dried thyme, crushed, to the beaten egg mixture.",
+        "Cream-Cheese Scrambled Eggs: Prepare as above, except add one 3-ounce package cream cheese with chives, cut into small cubes, to the beaten egg mixture.",
+        "Cheese-Onion Scrambled Eggs: Prepare as above, except cook 1 green onion, sliced, in margarine 30 seconds. Then add egg mixture. Add 1/2 cup shredded American cheese after eggs begin to set. Do not use microwave directions.",
+        "Mushroom Scrambled Eggs: Prepare as above, except increase margarine to 2 tablespoons. Cook 1/2 cup sliced fresh mushrooms and 1 tablespoon chopped onion in margarine. Add 1 tablespoon snipped parsley, 1/2 teaspoon dry mustard, and 1/4 teaspoon Worcestershire sauce to beaten egg mixture. Do not use the microwave directions.",
+        "Denver Scrambled Eggs: Prepare as above, except omit salt and increase margarine to 2 tablespoons. In the skillet cook 1/3 cup diced fully cooked ham; 1/4 cup chopped onion; one 2-ounce can mushroom stems and pieces, drained; and 2 tablespoons finely chopped green pepper in margarine. Then add egg mixture. Do not use the microwave directions."
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "scrambled",
+        "fast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5309 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "farmers-breakfast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Farmer's Breakfast",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 148",
+      "description": "For a quicker breakfast, substitute frozen hash brown potatoes for the fresh potatoes.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "medium potatoes, peeled and finely chopped",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "about 2 cups"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "diced fully cooked ham",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large nonstick or well-seasoned skillet cook potatoes and onion in margarine over medium heat for 8 to 10 minutes or till tender; stir often."
+        },
+        {
+          "step": 2,
+          "text": "Beat together eggs, milk, and 1/4 teaspoon pepper; stir in ham. Pour over potato mixture. Cook, without stirring, till mixture begins to set on the bottom and around edge. Using a large spoon, lift and fold partially cooked egg mixture so uncooked portion flows underneath. Continue cooking about 4 minutes or till eggs are cooked throughout but still glossy and moist. Serves 4."
+        }
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "potatoes",
+        "ham"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5309 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "french-omelet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Omelet",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 150",
+      "description": "The Vegetable French Omelet with zucchini and cheddar cheese is pictured below right.",
+      "servings_yield": "1 serving",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine eggs, water, salt, and dash pepper. Using a fork, beat till combined but not frothy. In an 8- or 10-inch skillet with flared sides, heat margarine or butter till a drop of water sizzles. Lift and tilt the pan to coat the sides."
+        },
+        {
+          "step": 2,
+          "text": "Add egg mixture to skillet; cook over medium heat. As eggs set, run a spatula around the edge of the skillet, lifting eggs and letting uncooked portion flow underneath. When eggs are but still shiny, remove from the heat. Fold omelet in half. Transfer onto a warm plate. Serves 1."
+        }
+      ],
+      "notes": [
+        "Mushroom French Omelet: Prepare as above, except, for filling, cook 1/2 cup sliced fresh mushrooms in 1 tablespoon margarine till tender. Spoon across center of omelet. Fold sides over.",
+        "Cheese French Omelet: Prepare as above, except omit salt. For filling, sprinkle 1/4 cup shredded cheddar, Swiss, Monterey Jack, or American cheese across center of omelet. Fold sides over. Top with shredded cheese and snipped parsley.",
+        "Fruited French Omelet: Prepare as above, except, for filling, spread 2 tablespoons dairy sour cream or yogurt across center of omelet. Fold sides over. Top omelet with 1/4 cup halved strawberries; sliced, peeled peaches; or blueberries. Sprinkle with 1 tablespoon brown sugar.",
+        "Vegetable French Omelet: Prepare as above, except, for filling, cook 1/3 cup vegetables (combination of sliced asparagus, sliced zucchini, sliced green onion, sliced celery, or chopped green pepper) and 1/8 teaspoon dried basil, crushed, in 1 tablespoon margarine. Spoon filling across center of omelet. Sprinkle grated Parmesan, shredded cheddar, or crumbled feta cheese atop filling before folding omelet."
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "omelet",
+        "french"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5311 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "denver-omelet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Denver Omelet",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 150",
+      "description": "Chock-full of bright garden vegetables and ham. (Pictured on page 141.)",
+      "servings_yield": "2 or 3 servings",
+      "ingredients": [
+        {
+          "item": "Puffy Omelet",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, opposite"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "medium green pepper, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "green onions, bias sliced",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "fully cooked ham, cut into strips",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "1/4-inch long"
+        },
+        {
+          "item": "cherry tomatoes, halved",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Puffy Omelet (see recipe, opposite). Prepare filling while omelet is baking."
+        },
+        {
+          "step": 2,
+          "text": "For filling, in a skillet melt 2 tablespoons margarine or butter. Add 1 cup sliced fresh mushrooms; 1 medium green pepper, chopped; 4 green onions, bias sliced; and 1/2 teaspoon dried basil, crushed. Cook till tender but not brown. Stir in 3 ounces fully cooked ham, cut into 1/4-inch-long strips (1/2 cup), and 1/2 cup cherry tomatoes, halved. Heat through. Remove omelet from the oven. Fill omelet with ham mixture before folding. Makes 2 or 3 servings."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "eggs",
+        "breakfast",
+        "omelet",
+        "denver",
+        "ham"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5311 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "choose-a-flavor-quiche",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Flavor Quiche",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 154",
+      "description": "Mix and match the meat and cheese to suit your fancy, or rely on the classic bacon and Swiss cheese combination in Quiche Lorraine.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "Pastry for Single-Crust Pie",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 293"
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "chopped cooked chicken, crabmeat, or ham",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded Swiss, cheddar, Monterey Jack, or Havarti cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "6 ounces"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Pastry for Single-Crust Pie. Line the unpricked pastry shell with a double thickness of heavy-duty foil. Bake in a 450\u00b0 oven for 5 minutes. Remove foil. Bake for 5 to 7 minutes more or till pastry is nearly done. Remove from the oven. Reduce oven temperature to 325\u00b0."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, in a bowl stir together eggs, milk, onion, salt, pepper, and nutmeg. Stir in chicken, crabmeat, or ham. Toss together shredded cheese and flour. Add to egg mixture; mix well."
+        },
+        {
+          "step": 3,
+          "text": "Pour egg mixture into hot pastry shell. Bake in the 325\u00b0 oven for 35 to 40 minutes or till a knife inserted near the center comes out clean. If necessary, cover edge of crust with foil to prevent overbrowning. Let stand for 10 minutes. Serves 6."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C) then 325\u00b0F (165\u00b0C)",
+      "notes": [
+        "Quiche Lorraine: Prepare as above, except omit green onion and chicken, crabmeat, or ham. Cook 6 slices bacon till crisp. Drain, reserving 2 tablespoons drippings. Crumble bacon; set aside. Cook 1 medium onion, sliced, in drippings over medium heat till tender; drain. Add bacon, onion, and Swiss-cheese-flour mixture to egg mixture.",
+        "Individual Quiche Casseroles: Prepare as above, except omit pastry and chicken, crabmeat, or ham. Pour egg mixture into four 10-ounce custard cups. Place custard cups in a 13x9x2-inch baking pan on an oven rack. Pour boiling water around cups in the pan to a depth of 1 inch. Bake in a 325\u00b0 oven for 20 to 25 minutes or till a knife inserted near centers comes out clean. Serves 4."
+      ],
+      "tags": [
+        "eggs",
+        "quiche",
+        "brunch",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5315 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "breakfast-pizza",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Breakfast Pizza",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 155",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "refrigerated crescent rolls",
+          "quantity": "1",
+          "unit": "package (8)"
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "5",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried oregano, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "desired vegetables",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "sliced ripe olives, avocado, green onion, mushrooms, or tomato"
+        },
+        {
+          "item": "shredded cheddar, Swiss, or mozzarella cheese",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "diced fully cooked ham or cooked turkey or chicken",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For crust, unroll 1 package (8) refrigerated crescent rolls; separate into triangles. Place triangles on a lightly greased 12-inch pizza pan with points toward center. Press triangles together to cover bottom and 1/2 inch up sides of pan. Bake in a 375\u00b0 oven for 10 to 12 minutes or till lightly browned. (Do not remove crust from the oven.)"
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, combine 5 beaten eggs; 1/4 cup milk; 1/4 teaspoon dried oregano, crushed; and 1/8 teaspoon pepper. When crust is lightly browned, leave on oven shelf (if necessary, press down any high spots in crust). Carefully pour egg mixture onto crust. Bake for 8 to 10 minutes more or till egg mixture is almost set."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle with 1 1/2 cups desired vegetables (sliced pitted ripe olives; sliced avocado, green onion, or mushrooms; or chopped tomato)."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle with 1 1/2 cups shredded cheddar, Swiss, or mozzarella cheese; diced fully cooked ham; or chopped cooked turkey or chicken. Return to the oven and bake 3 to 5 minutes more or till cheese melts. Cut into wedges. Serves 6."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "tags": [
+        "eggs",
+        "breakfast",
+        "pizza",
+        "brunch"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5316 Large.jpeg"
       ],
       "nutrition": {
         "status": "pending"
