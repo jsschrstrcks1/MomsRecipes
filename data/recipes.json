@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 864
+    "total_recipes": 879
   },
   "recipes": [
     {
@@ -79111,6 +79111,1719 @@
       },
       "image_refs": [
         "IMG_5212 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "fruit-studded-bread-julekage",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruit-Studded Bread (Julekage)",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 47",
+      "description": "Maybe you know this rich yeast bread by its Scandinavian name, julekage.",
+      "servings_yield": "2 loaves (24 servings)",
+      "prep_time": "",
+      "cook_time": "30-35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/2 to 5-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cardamom",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "diced mixed candied fruits and peels",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "light raisins",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sifted powdered sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for glaze"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "for glaze"
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for glaze"
+        },
+        {
+          "item": "almonds",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional garnish"
+        },
+        {
+          "item": "candied cherries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups of the flour, the yeast, and cardamom. Heat and stir the 1-1/4 cups milk, the sugar, margarine, and 1/2 teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts."
+        },
+        {
+          "step": 2,
+          "text": "Add to flour mixture along with egg. Beat with an electric mixer on low speed for 30 seconds, scraping bowl. Beat on high speed for 3 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Using a spoon, stir in candied fruits and peels, raisins, and as much of the remaining flour as you can."
+        },
+        {
+          "step": 4,
+          "text": "Turn out onto a lightly floured surface. Knead in enough of the remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Shape into a ball."
+        },
+        {
+          "step": 5,
+          "text": "Place dough in a greased bowl; turn once. Cover; let rise in a warm place till double (about 1-1/4 hours)."
+        },
+        {
+          "step": 6,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Divide in half. Cover; let rest 10 minutes. Shape into 2 round loaves."
+        },
+        {
+          "step": 7,
+          "text": "Place on a greased baking sheet. Flatten each slightly to a 6-inch diameter. Cover; let rise in a warm place till nearly double (45 to 60 minutes)."
+        },
+        {
+          "step": 8,
+          "text": "Combine egg yolk and water; brush over loaves."
+        },
+        {
+          "step": 9,
+          "text": "Bake in a 375\u00b0 oven for 30 to 35 minutes or till golden. Cover loosely with foil the last 10 to 15 minutes, if necessary. Remove from baking sheet. Cool completely on a wire rack."
+        },
+        {
+          "step": 10,
+          "text": "Meanwhile, for glaze, combine powdered sugar, vanilla, and enough milk to make of drizzling consistency. Drizzle glaze over cooled loaves. Garnish with almonds and candied cherries, if desired."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Scandinavian Christmas bread"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "scandinavian",
+        "christmas",
+        "holiday",
+        "fruit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5213 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "kuchen",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kuchen",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 47",
+      "description": "Brunch guests will gobble up this warm from the oven fruit-filled coffee cake.",
+      "servings_yield": "2 coffee cakes (18 servings)",
+      "prep_time": "",
+      "cook_time": "18-20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "light cream or milk",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "thinly sliced peeled apples, peaches, sliced plums, or cottage cheese",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine 1-1/2 cups of the flour and the yeast. In a saucepan heat and stir milk, margarine or butter, the 1/2 cup sugar, and the salt till warm (120\u00b0 to 130\u00b0) and margarine or butter almost melts."
+        },
+        {
+          "step": 2,
+          "text": "Add to flour mixture along with the 2 eggs. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in remaining flour."
+        },
+        {
+          "step": 3,
+          "text": "Divide dough mixture in half. With lightly greased fingers, pat evenly into two greased 9x9x2-inch or 11x7x1-1/2-inch baking pans, pressing dough up the sides of each pan slightly to form a rim. Cover and let rise in a warm place till double (45 to 50 minutes)."
+        },
+        {
+          "step": 4,
+          "text": "Combine the beaten egg and light cream. Stir in the 1 cup sugar and the cinnamon. If using fruit, arrange atop raised dough. Carefully spoon cream-sugar mixture over fruit. (If using cottage cheese, stir into cream-sugar mixture. Spoon atop raised dough.)"
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven for 18 to 20 minutes. Cool slightly. Cut into squares; serve warm."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "9x9x2-inch or 11x7x1-1/2-inch baking pans",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "coffee-cake",
+        "german",
+        "fruit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5213 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "prune-kuchen",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Prune Kuchen",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 47",
+      "description": "A variation of Kuchen using prune filling.",
+      "servings_yield": "2 coffee cakes (18 servings)",
+      "prep_time": "",
+      "cook_time": "18-20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "pitted prunes",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "coarsely snipped"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to cover prunes by 1 inch"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Kuchen, except omit apples, peaches, plums, or cottage cheese."
+        },
+        {
+          "step": 2,
+          "text": "While dough is rising, make prune filling. In a saucepan combine 1-1/2 cups coarsely snipped pitted prunes and enough water to come 1 inch above prunes."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling. Reduce heat and simmer, covered, for 10 minutes; drain."
+        },
+        {
+          "step": 4,
+          "text": "Spoon cooked prunes atop raised dough. Carefully spoon cream-sugar mixture over fruit."
+        },
+        {
+          "step": 5,
+          "text": "*Note: If using apples, simmer the sliced fruit, covered, in water about 2 minutes or just till tender. Drain well; place atop dough."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "9x9x2-inch or 11x7x1-1/2-inch baking pans",
+      "notes": [
+        "Variation of Kuchen"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "coffee-cake",
+        "german",
+        "prune"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5213 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "english-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "English Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 48",
+      "description": "Homemade English muffins cooked on a griddle or skillet.",
+      "servings_yield": "about 12 muffins",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "5-1/4 to 5-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine 2 cups of the flour and the yeast. In a saucepan heat and stir milk, shortening, sugar, and salt till warm (120\u00b0 to 130\u00b0) and shortening almost melts."
+        },
+        {
+          "step": 2,
+          "text": "Add to flour mixture. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 3,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Shape into a ball."
+        },
+        {
+          "step": 4,
+          "text": "Place in greased bowl; turn once to grease surface. Cover; let rise in a warm place till double (about 1 hour)."
+        },
+        {
+          "step": 5,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Cover; let rest for 10 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Roll dough to slightly less than 1/2 inch thick. Cut with a 4-inch-round cutter, rerolling scraps. Dip both sides of each muffin into cornmeal. (If necessary, to make cornmeal adhere, lightly brush muffins with water.)"
+        },
+        {
+          "step": 7,
+          "text": "Cover; let rise in a warm place till very light (about 30 minutes)."
+        },
+        {
+          "step": 8,
+          "text": "Cook muffins, four at a time, in an ungreased electric skillet at 325\u00b0 for 25 to 30 minutes or till done, turning every 5 minutes. (Keep any remaining muffins in the refrigerator for up to 8 hours.)"
+        },
+        {
+          "step": 9,
+          "text": "Or, cook over low heat on an ungreased large griddle or several skillets for 25 to 30 minutes, turning frequently. Cool thoroughly."
+        },
+        {
+          "step": 10,
+          "text": "Split muffins horizontally. Toast or broil muffin halves before serving."
+        }
+      ],
+      "temperature": "325\u00b0F electric skillet or low heat griddle",
+      "pan_size": "electric skillet or griddle",
+      "notes": [
+        "Do not use oven - cook on griddle or skillet"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "english-muffins",
+        "griddle"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5214 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "whole-wheat-english-muffins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whole Wheat English Muffins",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 48",
+      "description": "English muffins made with whole wheat flour.",
+      "servings_yield": "about 12 muffins",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "whole wheat flour",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": "substitute for some all-purpose"
+        },
+        {
+          "item": "cracked wheat",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "substitute for some all-purpose"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3-1/2 to 4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for English Muffins, except substitute 1-1/4 cups whole wheat flour and 1/2 cup cracked wheat for 2 cups of the stirred-in all-purpose flour."
+        }
+      ],
+      "temperature": "325\u00b0F electric skillet or low heat griddle",
+      "pan_size": "electric skillet or griddle",
+      "notes": [
+        "Variation of English Muffins"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "english-muffins",
+        "whole-wheat",
+        "griddle"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5214 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "english-muffin-loaves",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "English-Muffin Loaves",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 48",
+      "description": "A baked loaf version of English muffins - no kneading required.",
+      "servings_yield": "2 loaves (32 servings)",
+      "prep_time": "",
+      "cook_time": "35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "5",
+          "unit": "cups",
+          "prep_note": "reduced from base, do not knead"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for pans"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for English Muffins, except reduce flour to 5 cups. Do not knead. Batter will be stiff."
+        },
+        {
+          "step": 2,
+          "text": "Grease two 8x4x2-inch loaf pans. Sprinkle lightly with cornmeal."
+        },
+        {
+          "step": 3,
+          "text": "Spoon batter into pans. Sprinkle tops lightly with cornmeal."
+        },
+        {
+          "step": 4,
+          "text": "Cover; let rise till nearly double (about 45 minutes)."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven about 35 minutes or till done. Remove from pans immediately. Cool on wire racks."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "two 8x4x2-inch loaf pans",
+      "notes": [
+        "No-knead variation of English Muffins"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "english-muffins",
+        "loaf",
+        "no-knead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5214 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "pita-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pita Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 48",
+      "description": "Follow the rolling directions carefully. If you overwork the dough, it won't puff during baking.",
+      "servings_yield": "12 pitas",
+      "prep_time": "",
+      "cook_time": "3 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3-1/4 to 3-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine 1-1/4 cups of the flour and the yeast. In a saucepan heat and stir water, shortening, and salt till warm (120\u00b0 to 130\u00b0) and shortening almost melts. Add to flour mixture."
+        },
+        {
+          "step": 2,
+          "text": "Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 3,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately soft dough that is smooth and elastic (3 to 5 minutes total). Cover; let rest in a warm place for 15 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Divide dough into 12 equal portions. Roll each dough portion between well-floured hands into a very smooth ball. Cover balls with plastic wrap or a damp cloth and let rest for 10 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Gently flatten balls with your fingers, making sure not to crease dough. Cover; let rest for 10 minutes. (Keep the dough balls covered till ready to use.)"
+        },
+        {
+          "step": 6,
+          "text": "On a well-floured surface, lightly roll one dough ball into a 7-inch round, turning dough over once while rolling. Roll dough from center to edge. Do not stretch, puncture, or crease dough. Repeat rolling with another ball of dough. (Work with enough flour on the surface so that the dough does not stick.)"
+        },
+        {
+          "step": 7,
+          "text": "Place two dough rounds on a preheated ungreased baking sheet. Bake in a 450\u00b0 oven about 3 minutes or till bread is puffed and softly set."
+        },
+        {
+          "step": 8,
+          "text": "Turn over with a wide spatula. Bake about 2 minutes more or till bread begins to lightly brown. Cool slightly on a wire rack. While still warm, place bread in a paper sack or plastic bag to keep it soft and prevent it from drying out."
+        },
+        {
+          "step": 9,
+          "text": "Repeat with remaining dough, baking one batch before rolling and baking the next batch."
+        },
+        {
+          "step": 10,
+          "text": "To serve, halve each pita crosswise. Fill as desired. Makes 12."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Do not stretch, puncture, or crease dough or it won't puff"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "pita",
+        "pocket-bread",
+        "middle-eastern"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5214 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "whole-wheat-pita-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whole Wheat Pita Bread",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 48",
+      "description": "Pita bread made with whole wheat flour.",
+      "servings_yield": "12 pitas",
+      "prep_time": "",
+      "cook_time": "3 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "whole wheat flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "substitute for some all-purpose"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-1/4 to 1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Pita Bread, except substitute 2 cups whole wheat flour for 2 cups of the stirred-in all-purpose flour."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Variation of Pita Bread"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "pita",
+        "pocket-bread",
+        "whole-wheat"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5214 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "dinner-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dinner Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 50",
+      "description": "Whole Wheat Dinner Rolls in rosette, cloverleaf, and butterhorn shapes are pictured on page 33.",
+      "servings_yield": "24-32 rolls (varies by shape)",
+      "prep_time": "",
+      "cook_time": "12-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine 2 cups of the flour and the yeast. Heat and stir milk, sugar, shortening, and salt just till warm (120\u00b0 to 130\u00b0) and shortening almost melts."
+        },
+        {
+          "step": 2,
+          "text": "Add to flour mixture along with eggs. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 3,
+          "text": "Turn dough out onto a lightly floured surface. Knead in enough remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Shape dough into a ball."
+        },
+        {
+          "step": 4,
+          "text": "Place dough in a greased bowl; turn once to grease surface. Cover and let rise in a warm place till double (about 1 hour)."
+        },
+        {
+          "step": 5,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Divide dough in half. Cover and let rest for 10 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Shape the dough into desired rolls (see directions for Butterhorns, Rosettes, Parker House Rolls, or Cloverleaves). Cover and let rise in a warm place till nearly double (about 30 minutes)."
+        },
+        {
+          "step": 7,
+          "text": "Bake in a 375\u00b0 oven for 12 to 15 minutes or till golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheets or muffin pans",
+      "notes": [
+        "Butterhorns: Roll each half into 12-inch circle, brush with melted butter, cut into 12 wedges, roll toward point. Makes 24.",
+        "Rosettes: Divide each half into 16 pieces, roll into 12-inch rope, tie in loose knot, tuck ends. Makes 32.",
+        "Parker House: Roll each half to 1/4-inch thick, cut with 2-1/2-inch cutter, fold with off-center crease. Makes 30.",
+        "Cloverleaves: Divide each half into 36 pieces, place 3 balls in each muffin cup. Makes 24.",
+        "Shortcut Cloverleaves: Snip top of single ball with floured scissors to make 4 points. Makes 24."
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "rolls",
+        "dinner-rolls"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5216 Large.jpeg",
+        "IMG_5217 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "herb-onion-dinner-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herb-Onion Dinner Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 50",
+      "description": "Dinner rolls with dried herbs and minced onion.",
+      "servings_yield": "24-32 rolls",
+      "prep_time": "",
+      "cook_time": "12-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dried minced onion",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil, oregano, or Italian seasoning",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Dinner Rolls, except add 1 tablespoon dried minced onion and 1/2 teaspoon dried basil, oregano, or Italian seasoning, crushed, to milk mixture."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheets or muffin pans",
+      "notes": [
+        "Variation of Dinner Rolls"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "rolls",
+        "dinner-rolls",
+        "herb",
+        "onion"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5216 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "whole-wheat-dinner-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whole Wheat Dinner Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 50",
+      "description": "Dinner rolls made with whole wheat flour.",
+      "servings_yield": "24-32 rolls",
+      "prep_time": "",
+      "cook_time": "12-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "whole wheat flour",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "substitute for some all-purpose"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2-3/4 to 3-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Dinner Rolls, except substitute 1-1/2 cups whole wheat flour for 1-1/2 cups of the stirred-in all-purpose flour."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheets or muffin pans",
+      "notes": [
+        "Variation of Dinner Rolls"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "rolls",
+        "dinner-rolls",
+        "whole-wheat"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5216 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "hamburger-frankfurter-buns",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hamburger or Frankfurter Buns",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 50",
+      "description": "Homemade hamburger or hot dog buns from dinner roll dough.",
+      "servings_yield": "12 buns",
+      "prep_time": "",
+      "cook_time": "12-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Dinner Rolls, except divide dough into 12 portions. Cover and let rest for 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "For hamburger buns, shape each portion into an even circle, folding edges under. Press flat between your hands."
+        },
+        {
+          "step": 3,
+          "text": "Place on a greased baking sheet. Press into a 4-inch circle."
+        },
+        {
+          "step": 4,
+          "text": "For frankfurter buns, shape each portion into a roll about 5-1/2 inches long, tapering ends."
+        },
+        {
+          "step": 5,
+          "text": "Place on a greased baking sheet. Let buns rise. Makes 12 buns."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "baking sheet",
+      "notes": [
+        "Variation of Dinner Rolls"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "buns",
+        "hamburger",
+        "hot-dog"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5216 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "brown-and-serve-dinner-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brown-and-Serve Dinner Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 50",
+      "description": "Make-ahead rolls that are partially baked, then frozen for later browning.",
+      "servings_yield": "24-32 rolls",
+      "prep_time": "",
+      "cook_time": "10 minutes (initial) + 10 minutes (final)",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Dinner Rolls, except bake in a 325\u00b0 oven for 10 minutes; do not brown."
+        },
+        {
+          "step": 2,
+          "text": "Remove rolls from baking sheets or pans; cool. Wrap in moisture- and vaporproof material. Seal, label, and freeze."
+        },
+        {
+          "step": 3,
+          "text": "To serve, thaw frozen rolls in open packages at room temperature for 10 to 15 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Unwrap completely. Place on ungreased baking sheets. Bake in a 375\u00b0 oven about 10 minutes or till golden."
+        }
+      ],
+      "temperature": "325\u00b0F (initial), 375\u00b0F (final browning)",
+      "pan_size": "baking sheets or muffin pans",
+      "notes": [
+        "Variation of Dinner Rolls - freezer friendly",
+        "Can be frozen and baked later"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "rolls",
+        "dinner-rolls",
+        "make-ahead",
+        "freezer"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5216 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "batter-dinner-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Batter Dinner Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 50",
+      "description": "No-knead dinner rolls - reduced flour makes a softer batter that's spooned into muffin cups.",
+      "servings_yield": "18 rolls",
+      "prep_time": "",
+      "cook_time": "15-18 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3-1/4",
+          "unit": "cups",
+          "prep_note": "total, reduced from base"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening, margarine, or butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brushing tops"
+        },
+        {
+          "item": "poppy seed or sesame seed",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Dinner Rolls, except reduce stirred-in flour to 1-1/4 cups. (Use a total of 3-1/4 cups all-purpose flour.)"
+        },
+        {
+          "step": 2,
+          "text": "Spoon batter into greased muffin cups, filling half full. Cover and let rise in a warm place till nearly double (about 45 minutes)."
+        },
+        {
+          "step": 3,
+          "text": "Brush roll tops with milk, and, if desired, sprinkle with poppy seed or sesame seed."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 375\u00b0 oven for 15 to 18 minutes or till done. Makes 18 rolls."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "muffin pans",
+      "notes": [
+        "No-knead variation of Dinner Rolls"
+      ],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "rolls",
+        "dinner-rolls",
+        "no-knead",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5216 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "wheat-and-cottage-cheese-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wheat and Cottage Cheese Rolls",
+      "category": "breads",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 50",
+      "description": "Whole wheat rolls enriched with cottage cheese.",
+      "servings_yield": "24 rolls",
+      "prep_time": "",
+      "cook_time": "12-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cream-style cottage cheese",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "reserved from draining cottage cheese"
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "4-1/4 to 4-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain cottage cheese, reserving liquid. Add milk to reserved liquid to measure 3/4 cup. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "Combine 1-1/2 cups flour and the yeast. Heat and stir cottage cheese, reserved milk mixture, brown sugar, margarine, and 1/2 teaspoon salt till warm (120\u00b0 to 130\u00b0) and margarine almost melts."
+        },
+        {
+          "step": 3,
+          "text": "Add to flour mixture along with eggs. Beat with an electric mixer on low speed for 30 seconds, scraping bowl constantly. Beat on high speed for 3 minutes. Using a spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 4,
+          "text": "Turn out onto a lightly floured surface. Knead in enough remaining flour to make a moderately stiff dough that is smooth and elastic (8 to 10 minutes total). Shape into a ball."
+        },
+        {
+          "step": 5,
+          "text": "Place in a greased bowl; turn once. Cover; let rise in a warm place till double (30 to 45 minutes)."
+        },
+        {
+          "step": 6,
+          "text": "Punch dough down. Turn out onto a lightly floured surface. Cover; let rest 10 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Shape into 24 smooth balls. Place in greased muffin pans. Cover; let rise in a warm place till nearly double (about 20 minutes)."
+        },
+        {
+          "step": 8,
+          "text": "Bake in a 375\u00b0 oven for 12 to 15 minutes or till done."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "muffin pans",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast-bread",
+        "rolls",
+        "whole-wheat",
+        "cottage-cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5216 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false
