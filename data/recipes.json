@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1154
+    "total_recipes": 1158
   },
   "recipes": [
     {
@@ -104232,6 +104232,236 @@
       "servings_yield": "6 half-pints (96 servings)",
       "image_refs": [
         "IMG_5364 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "rhubarb-raspberry-jam",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rhubarb-Raspberry Jam",
+      "category": "canning",
+      "source_note": "Better Homes and Gardens cookbook",
+      "tags": [
+        "easy"
+      ],
+      "ingredients": [
+        {
+          "item": "fresh or frozen loose-pack rhubarb",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "fresh or frozen loose-pack raspberries",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "5",
+          "unit": "cups"
+        },
+        {
+          "item": "package raspberry-flavored gelatin",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "3-ounce package"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large Dutch oven combine rhubarb and raspberries. Bring to boiling. Let stand for 20 minutes or till sugar is dissolved, stirring frequently. Boil hard for 10 minutes. Let stand 20 minutes. Bring to boiling; boil, uncovered, for 5 to 6 minutes or till thick, stirring frequently. Remove from heat. Add gelatin; stir till dissolved. Ladle into hot half-pint jars or freezer containers, leaving 1/4-inch headspace. Seal, label, and freeze or 1 year in the freezer. Makes about 5 half-pints."
+        }
+      ],
+      "servings_yield": "About 5 half-pints",
+      "image_refs": [
+        "IMG_5365 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "berry-freezer-jam",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Berry Freezer Jam",
+      "category": "canning",
+      "source_note": "Better Homes and Gardens cookbook",
+      "tags": [
+        "fast"
+      ],
+      "ingredients": [
+        {
+          "item": "blackberries, raspberries, or strawberries, caps removed",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "liquid fruit pectin",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "of a 6-ounce package (1 foil pouch)"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Crush berries. Measure 2 cups blackberries or raspberries, 1 3/4 cups strawberries. In a bowl combine berries, sugar, and lemon peel. Let stand 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Combine pectin and lemon juice. Add to berry mixture; stir for 3 minutes. Ladle at once into jars or freezer containers, leaving a 1/2-inch headspace. Seal. Let stand at room temperature about 2 hours or till jam is set. Store up to 3 weeks in the refrigerator or 1 year in the freezer. Makes 4 half-pints (sixty-four 1-tablespoon servings)."
+        }
+      ],
+      "servings_yield": "4 half-pints (64 servings)",
+      "image_refs": [
+        "IMG_5365 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "harvest-applesauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Harvest Applesauce",
+      "category": "canning",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "cooking apples, cored and quartered",
+          "quantity": "8",
+          "unit": "lb"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "cinnamon sticks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 to 1 1/4",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In an 8- or 10-quart kettle combine apples, water, and, if desired, cinnamon. Bring to a boil, reduce heat. Simmer for 20 minutes, stirring occasionally. Press through a food mill or sieve (you should have about 13 cups pulp)."
+        },
+        {
+          "step": 2,
+          "text": "Return pulp to kettle. Stir in sugar, cinnamon. Simmer, uncovered, about 2 hours or till very thick, stirring often. Makes about 8 half-pints (128 one-tablespoon servings)."
+        },
+        {
+          "step": 3,
+          "text": "Boiling-Water Canning: Spoon hot apple butter into hot, sterilized pint jars, leaving a 1/4-inch headspace. Adjust lids. Process in boiling-water canner for 5 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Freezing: Spoon hot apple butter into a sink of ice water to cool apple butter. Place kettle in a sink of ice water to cool apple butter. Spoon into freezer containers, leaving the recommended headspace (see tip, page 193). Seal, label, and freeze."
+        }
+      ],
+      "servings_yield": "About 8 half-pints (128 servings)",
+      "image_refs": [
+        "IMG_5365 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "apple-butter",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple Butter",
+      "category": "canning",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Freeze or can this spicy spread.",
+      "ingredients": [
+        {
+          "item": "cooking apples, cored and quartered",
+          "quantity": "6",
+          "unit": "lb",
+          "prep_note": "18 cups"
+        },
+        {
+          "item": "apple cider or apple juice",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground allspice",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In an 8- or 10-quart kettle combine apples and cider. Bring to a boil; reduce heat. Simmer for 30 minutes, stirring occasionally. Press through a food mill or sieve (you should have about 13 cups pulp)."
+        },
+        {
+          "step": 2,
+          "text": "Return pulp to kettle. Stir in sugar, cinnamon, and allspice. Bring to boiling; reduce heat. Simmer, uncovered, for 1 1/2 to 2 hours or till very thick, stirring often. Spoon into hot, sterilized jars or freezer containers for quart or pint jars, leaving a 1/4-inch headspace. Adjust lids. Process in boiling-water canner for 5 minutes. (For pints, process for 5 minutes.) Makes 5 half-pints (see tip, page 193). Seal, label, and freeze."
+        }
+      ],
+      "servings_yield": "5 half-pints",
+      "image_refs": [
+        "IMG_5365 Large.jpeg"
       ],
       "confidence": {
         "overall": "high",
