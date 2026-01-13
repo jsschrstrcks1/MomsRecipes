@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-11",
     "version": "3.0.2",
-    "total_recipes": 1233
+    "total_recipes": 1264
   },
   "recipes": [
     {
@@ -125912,10 +125912,10 @@
       "collection": "mommom",
       "collection_display": "MomMom Baker",
       "title": "Pecan Crunch",
-      "category": "cookies",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page - Cakes, Cookies, Candies section",
-      "description": "A chocolate-topped shortbread bar with toasted pecans.",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook",
+      "description": "Chocolate-topped cookie bars with pecans.",
       "servings_yield": "72 bars",
       "prep_time": "2 hours",
       "cook_time": "25 minutes",
@@ -125924,14 +125924,12 @@
         {
           "item": "all-purpose flour",
           "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
+          "unit": "cups"
         },
         {
-          "item": "light brown sugar",
+          "item": "packed light brown sugar",
           "quantity": "1",
-          "unit": "cup",
-          "prep_note": "packed"
+          "unit": "cup"
         },
         {
           "item": "butter or margarine",
@@ -125942,14 +125940,12 @@
         {
           "item": "egg",
           "quantity": "1",
-          "unit": "",
-          "prep_note": ""
+          "unit": ""
         },
         {
           "item": "vanilla extract",
           "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
+          "unit": "tsp"
         },
         {
           "item": "semisweet chocolate pieces",
@@ -125971,7 +125967,7 @@
         },
         {
           "step": 2,
-          "text": "Preheat oven to 350\u00b0F. Pat dough evenly into 15\u00bd\" by 10\u00bd\" jelly-roll pan. Bake 25 minutes."
+          "text": "Preheat oven to 350\u00b0F. Pat dough evenly into 15 1/2\" by 10 1/2\" jelly-roll pan. Bake 25 minutes."
         },
         {
           "step": 3,
@@ -125987,35 +125983,3204 @@
         }
       ],
       "temperature": "350\u00b0F (175\u00b0C)",
-      "pan_size": "15\u00bd\" by 10\u00bd\" jelly-roll pan",
-      "notes": [
-        "75 calories per bar"
-      ],
+      "pan_size": "15 1/2 x 10 1/2-inch jelly-roll pan",
+      "notes": [],
       "tags": [
         "cookies",
+        "bars",
         "chocolate",
         "pecans",
-        "bars"
+        "dessert"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5160 Large.jpeg",
-        "IMG_5161 Large.jpeg"
+        "IMG_5160 Large.jpeg"
       ],
-      "conversions": {
-        "has_conversions": false
-      },
       "nutrition": {
         "status": "complete",
         "per_serving": {
-          "calories": 75
+          "calories": 75,
+          "protein_g": 1,
+          "carbs_g": 9,
+          "fat_g": 4
         },
+        "missing_inputs": [],
         "assumptions": [
-          "Per bar as stated in cookbook"
+          "72 bars per recipe"
         ]
+      }
+    },
+    {
+      "id": "apricot-meringue-strips",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apricot Meringue Strips",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook",
+      "description": "Cookie bars with apricot preserves topped with walnut meringue.",
+      "servings_yield": "16 cookies",
+      "prep_time": "2 hours",
+      "cook_time": "30 minutes",
+      "total_time": "2 hours 30 minutes",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "walnuts",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "apricot preserves",
+          "quantity": "1/3",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F. Into small bowl, measure first 4 ingredients, egg yolk, and 1/4 cup confectioners' sugar."
+        },
+        {
+          "step": 2,
+          "text": "With mixer at low speed, beat until blended, occasionally scraping bowl with rubber spatula. Evenly spread mixture onto bottom of ungreased 8\" by 8\" baking pan; bake 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, in another small bowl with mixer at high speed, beat white until soft peaks form."
+        },
+        {
+          "step": 4,
+          "text": "Beating at high speed, gradually beat in 1/4 cup confectioners' sugar until stiff, glossy peaks form; fold in nuts."
+        },
+        {
+          "step": 5,
+          "text": "Remove from oven. Spread apricot preserves over baked layer; top with meringue. Bake 20 minutes, until lightly browned."
+        },
+        {
+          "step": 6,
+          "text": "Cool on wire rack 15 minutes; cut into 4\" by 1\" fingers; cool completely."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x8-inch baking pan",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "bars",
+        "apricot",
+        "meringue",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5161 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 95,
+          "protein_g": 1,
+          "carbs_g": 12,
+          "fat_g": 5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "16 cookies per recipe"
+        ]
+      }
+    },
+    {
+      "id": "crunchy-snack-bars",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crunchy Snack Bars",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook",
+      "description": "Easy-to-make crunchy bar cookies using condensed milk, invented in 1856 to eliminate milk-based diseases.",
+      "servings_yield": "48 bars",
+      "prep_time": "3 hours",
+      "cook_time": "45 minutes",
+      "total_time": "3 hours 45 minutes",
+      "ingredients": [
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "2 cups"
+        },
+        {
+          "item": "sweetened condensed milk",
+          "quantity": "14",
+          "unit": "oz",
+          "prep_note": "1 can (1 3/4 cups)"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "pecans or walnuts",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "packed light brown sugar",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "quick-cooking oats",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "uncooked"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In double boiler over hot, not boiling, water, heat chocolate pieces, sweetened condensed milk, and 3 tablespoons butter or margarine, stirring occasionally, until chocolate is melted and mixture is smooth. Stir in 3/4 cup chopped nuts and 1 teaspoon vanilla; remove from heat; keep mixture warm. Preheat oven to 350\u00b0F. Grease 13\" by 9\" baking pan."
+        },
+        {
+          "step": 2,
+          "text": "Into large bowl, measure flour, sugar, baking soda, salt, eggs, 1 cup butter, and 1 tablespoon vanilla."
+        },
+        {
+          "step": 3,
+          "text": "With mixer at low speed, beat until mixed, scraping bowl. Increase speed to medium; beat 3 minutes. Stir in oats and rest of nuts."
+        },
+        {
+          "step": 4,
+          "text": "Pat half of dough onto bottom of pan. Spread chocolate over dough; drop remaining dough by teaspoonfuls to cover chocolate mixture."
+        },
+        {
+          "step": 5,
+          "text": "Bake 45 minutes or until top is firm when lightly touched. Cool completely in pan on wire rack."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "13x9-inch baking pan",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "bars",
+        "chocolate",
+        "oats",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5162 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 215,
+          "protein_g": 3,
+          "carbs_g": 26,
+          "fat_g": 12
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "48 bars per recipe"
+        ]
+      }
+    },
+    {
+      "id": "peanut-choco-nuggets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut-Choco Nuggets",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 350",
+      "description": "Chocolate-dipped peanut butter cookies shaped into nuggets.",
+      "servings_yield": "48 cookies",
+      "prep_time": "1 hour",
+      "cook_time": "12 minutes",
+      "total_time": "1 hour 12 minutes",
+      "ingredients": [
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": "1 package"
+        },
+        {
+          "item": "creamy peanut butter",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "softened"
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Chocolate Filling: In heavy 2-quart saucepan over low heat, heat chocolate pieces until melted and smooth, stirring often."
+        },
+        {
+          "step": 2,
+          "text": "Remove saucepan from heat; with wooden spoon stir in peanut butter, cocoa, peanuts, and confectioners' sugar until blended."
+        },
+        {
+          "step": 3,
+          "text": "Drop by teaspoon-fuls onto ungreased cookie sheet. With fingers, smooth and shape into mounds. Cover; refrigerate 30 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, prepare Cookie-Shell Dough: In large bowl with hand, quickly knead the flour, butter, vanilla, and 1 cup confectioners' sugar until blended and stiff."
+        },
+        {
+          "step": 5,
+          "text": "With hands, gently shape stiff dough into a 25-inch-long log. With sharp knife, carefully cut the log into 50 1/2-inch slices. Preheat the oven to 400\u00b0F."
+        },
+        {
+          "step": 6,
+          "text": "Place a mound of Chocolate Filling on a slice of Cookie-Shell Dough; shape the dough around filling to cover completely, pinching the edges to seal."
+        },
+        {
+          "step": 7,
+          "text": "Shape cookie into a 2-inch-long log; place on ungreased cookie sheets. Repeat with remaining chocolate filling and dough."
+        },
+        {
+          "step": 8,
+          "text": "Bake 10 to 12 minutes, until golden. With pancake turner, remove to wire racks; cool. Onto waxed paper, measure 1/4 cup sugar."
+        },
+        {
+          "step": 9,
+          "text": "When cold, roll cookies in the confectioners' sugar to coat completely. Store in tightly-covered container to use up within 1 week."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "peanut butter",
+        "chocolate",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5163 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 130,
+          "protein_g": 2,
+          "carbs_g": 14,
+          "fat_g": 8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "48 cookies per recipe"
+        ]
+      }
+    },
+    {
+      "id": "peanut-butter-candy-tops",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Candy Tops",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 350",
+      "description": "Peanut butter cookies topped with chocolate candy.",
+      "servings_yield": "64 cookies",
+      "prep_time": "2 hours",
+      "cook_time": "12 minutes",
+      "total_time": "2 hours 12 minutes",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chunky peanut butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk chocolate candies",
+          "quantity": "5",
+          "unit": "oz",
+          "prep_note": "chocolate-covered (1 cup)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F. Into large bowl, measure all ingredients except candies. With mixer at low speed, beat until well blended, occasionally scraping bowl with rubber spatula."
+        },
+        {
+          "step": 2,
+          "text": "Shape dough into 1-inch balls. Place balls, about 2 inches apart, on ungreased cookie sheets. Bake 12 minutes, until lightly browned."
+        },
+        {
+          "step": 3,
+          "text": "Remove from oven; quickly press 3 or 4 candies into tops; return to oven; bake 3 minutes."
+        },
+        {
+          "step": 4,
+          "text": "With pancake turner, carefully remove cookies to wire racks; cool."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "peanut butter",
+        "chocolate",
+        "candy",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5163 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 64,
+          "protein_g": 1,
+          "carbs_g": 8,
+          "fat_g": 3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "64 cookies per recipe"
+        ]
+      }
+    },
+    {
+      "id": "almond-lace-rolls",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Almond Lace Rolls",
+      "category": "desserts",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 350",
+      "description": "Delicate lace cookies rolled around a wooden spoon handle and dusted with confectioners' sugar.",
+      "servings_yield": "30 cookies",
+      "prep_time": "1 hour",
+      "cook_time": "8 minutes",
+      "total_time": "1 hour 8 minutes",
+      "ingredients": [
+        {
+          "item": "blanched almonds",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "ground"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for dusting"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F. Grease and flour large cookie sheet. Into large skillet, measure all ingredients except confectioners' sugar."
+        },
+        {
+          "step": 2,
+          "text": "Cook over low heat, stirring, until butter melts and mixture is blended. Keeping over very low heat, drop 4 heaping teaspoonfuls, 2 inches apart, onto cookie sheet; bake 5 minutes."
+        },
+        {
+          "step": 3,
+          "text": "With metal spatula, quickly remove cookies, one by one, and immediately roll around wooden spoon handle."
+        },
+        {
+          "step": 4,
+          "text": "Cool; repeat until all batter is used, greasing and flouring cookie sheet each time. To serve, dust with confectioners' sugar."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [
+        "Work quickly when rolling cookies as they harden fast"
+      ],
+      "tags": [
+        "cookies",
+        "almonds",
+        "lace cookies",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5163 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 64,
+          "protein_g": 1,
+          "carbs_g": 6,
+          "fat_g": 4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "30 cookies per recipe"
+        ]
+      }
+    },
+    {
+      "id": "creamy-cheese-fondue",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Cheese Fondue",
+      "category": "appetizers",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 159",
+      "description": "A classic cheese fondue for dipping bread, vegetables, or fruit.",
+      "servings_yield": "3 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "dry white wine or apple juice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded Swiss cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "1 package, softened"
+        },
+        {
+          "item": "dippers",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "breadsticks, cubed French bread, fruit wedges, or vegetables"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan heat wine or juice just till bubbling. Add American cheese and mustard, stirring till smooth and bubbly. Stir in cream cheese; cook and stir over low heat till smooth."
+        },
+        {
+          "step": 2,
+          "text": "Transfer mixture to a fondue pot. If desired, keep cheese mixture bubbling gently over a fondue burner. Serve with dippers."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: In 1-quart casserole mix 3/4 cup wine or juice, American cheese, mustard, and cream cheese. Micro-cook on 100% power (high) for 4 to 5 minutes or till melted and bubbly, stirring every minute. Serve as above."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Fondue pot",
+      "notes": [
+        "Can be made in microwave"
+      ],
+      "tags": [
+        "appetizer",
+        "cheese",
+        "fondue",
+        "party food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5321 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [
+          "Nutrition data not provided"
+        ],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "cheese-strata",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Strata",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 159",
+      "description": "Layered bread and cheese casserole, perfect for brunch.",
+      "servings_yield": "6 servings",
+      "prep_time": "2 hours",
+      "cook_time": "50 minutes",
+      "total_time": "2 hours 50 minutes",
+      "ingredients": [
+        {
+          "item": "bread",
+          "quantity": "6",
+          "unit": "slices",
+          "prep_note": "halved diagonally"
+        },
+        {
+          "item": "American or Swiss cheese",
+          "quantity": "5",
+          "unit": "oz",
+          "prep_note": "1-ounce slices"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "prepared mustard or Dijon-style mustard",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves. Beat eggs; stir in milk, onion, mustard, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Pour over bread and cheese layers. Sprinkle with paprika. Cover; chill in the refrigerator for 2 to 24 hours."
+        },
+        {
+          "step": 2,
+          "text": "Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes. Serves 6."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "8x8x2-inch baking dish",
+      "notes": [
+        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices.",
+        "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
+      ],
+      "tags": [
+        "brunch",
+        "cheese",
+        "eggs",
+        "casserole",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5321 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [
+          "Nutrition data not provided"
+        ],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "cheese-stuffed-manicotti",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese-Stuffed Manicotti",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 159",
+      "description": "Manicotti shells stuffed with a ricotta cheese mixture and baked in meat sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "40 minutes",
+      "total_time": "1 hour 10 minutes",
+      "ingredients": [
+        {
+          "item": "manicotti shells",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic clove",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded process Swiss cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "ricotta cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded mozzarella cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook manicotti according to package directions (see chart, page 278); drain. For sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine; stir till cheese melts."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl stir together egg, ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, peel, and nutmeg. Fill manicotti with ricotta mixture. Arrange in a 12x7\u00bdx2-inch baking dish. Pour sauce over filled shells. Cover and bake in a 350\u00b0 oven for 35 to 40 minutes or till hot. Serves 4."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: Cook manicotti as above. For sauce, in a 4-cup measure combine onion, garlic, and margarine. Micro-cook on 100% power (high) for 1\u00bd to 2\u00bd minutes or till onion is tender. Stir in flour. Add 1 cup milk. Stir. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every 30 seconds. Add Swiss cheese and wine; stir till cheese melts. Fill manicotti as above. Pour sauce atop. Cook, covered with vented clear plastic wrap, on high for 4 to 6 minutes or till heated through, turning dish once."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "12x7\u00bdx2-inch baking dish",
+      "notes": [
+        "Spinach Manicotti: Prepare as above, except reduce ricotta to 1/2 cup. Omit mozzarella and parsley. Add 1/2 cup crumbled feta cheese and one 10-ounce package frozen chopped spinach, thawed and drained, to ricotta mixture.",
+        "Creamy Lasagna: Prepare as above, except substitute 8 lasagna noodles for the manicotti. Spread 1/4 cup ricotta mixture over each cooked lasagna noodle. Roll up noodles and place, seam side down, in an 8x8x2-inch baking dish."
+      ],
+      "tags": [
+        "pasta",
+        "cheese",
+        "italian",
+        "manicotti",
+        "baked"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5321 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [
+          "Nutrition data not provided"
+        ],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "meatless-red-beans-and-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meatless Red Beans and Rice",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 161",
+      "description": "A spicy vegetarian version of the classic Southern dish. Adjust the amount of ground red pepper to give this dish the zing you like.",
+      "servings_yield": "4 servings",
+      "prep_time": "8 hours",
+      "cook_time": "3 hours",
+      "total_time": "11 hours",
+      "ingredients": [
+        {
+          "item": "dry red beans or dry red kidney beans",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": "1/2 pound"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "fennel seed",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/4 to 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "hot cooked rice",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse beans. In a large saucepan combine beans and 3 cups water. Bring to boiling; reduce heat. Simmer for 2 minutes. Remove from heat. Cover and let stand 1 hour. (Or, soak by placing beans and 3 cups water in a bowl. Cover and set in a cool place for 6 to 8 hours or overnight.)"
+        },
+        {
+          "step": 2,
+          "text": "Drain beans in a colander and rinse. Return beans to the saucepan. Stir in onion, garlic, bay leaf, salt, fennel seed, red pepper, and 3 cups fresh water. Bring to boiling; reduce heat. Cover and simmer about 2\u00bd hours or till beans are tender, adding more water, if necessary, and stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "Uncover and simmer, stirring occasionally, for 15 to 20 minutes more or till a thick gravy forms. Discard bay leaf. Serve over rice. Serves 4."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Meaty Red Beans and Rice: Prepare as above, except omit salt and fennel seed. Add 1/2 pound smoked pork hocks or meaty ham bone with onion. When beans are tender, remove hocks or ham bone. Discard bones or bone and return meat to bean mixture along with 1/2 pound smoked sausage, cut into bite-size pieces.",
+        "Red Beans and Corn Bread: Prepare as above, except omit rice and spoon bean mixture over squares of corn bread."
+      ],
+      "tags": [
+        "beans",
+        "rice",
+        "vegetarian",
+        "southern",
+        "cajun"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5324 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [
+          "Nutrition data not provided"
+        ],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "venison-pot-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Pot Roast",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 240",
+      "description": "Slow-braised venison roast with vegetables in a savory gravy.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "total_time": "2 hours 30 minutes",
+      "ingredients": [
+        {
+          "item": "venison shoulder roast",
+          "quantity": "2 to 3",
+          "unit": "lb"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped carrot",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "beef bouillon",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "plain yogurt",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a Dutch oven brown meat on all sides in hot oil. Add onion, carrot, 1/2 cup water, 1/2 teaspoon salt, and 1/4 teaspoon pepper. Cover and simmer for 1 1/2 to 2 hours or till meat is tender. Remove meat from pan."
+        },
+        {
+          "step": 2,
+          "text": "For sauce, skim fat from pan juices. Add enough water to pan juices to equal 1 1/2 cups. Return to pan; add flour. Cook and stir till thickened and bubbly. Cook and stir for 1 minute more. Serve sauce with meat. Makes 8 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [],
+      "tags": [
+        "venison",
+        "game",
+        "pot roast",
+        "meat"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5400 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "marinated-venison-chops",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Venison Chops",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 240",
+      "description": "Tender venison chops marinated for maximum flavor.",
+      "servings_yield": "4 servings",
+      "prep_time": "6 hours",
+      "cook_time": "14 minutes",
+      "total_time": "6 hours 14 minutes",
+      "ingredients": [
+        {
+          "item": "venison chops",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "single or double, cut 3/4 inch thick (about 1 1/2 pounds)"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place chops or steaks in a plastic bag set into a shallow dish. For marinade, combine vinegar, garlic, oil, Worcestershire sauce, salt, and pepper. Pour over meat; close bag. Marinate in the refrigerator for 6 to 24 hours, turning bag occasionally."
+        },
+        {
+          "step": 2,
+          "text": "Remove venison from bag, reserving marinade. Place meat on unheated rack of a broiler pan. Broil 3 inches from the heat for 7 minutes. Turn and brush occasionally with marinade. Broil 3 inches from the heat for 7 minutes. Turn and brush with remaining marinade. Season to taste. Serves 4."
+        }
+      ],
+      "temperature": "Broil",
+      "pan_size": "Broiler pan",
+      "notes": [],
+      "tags": [
+        "venison",
+        "game",
+        "chops",
+        "marinated",
+        "broiled"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5400 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "beer-braised-rabbit",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beer-Braised Rabbit",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 240",
+      "description": "Rabbit braised in beer with vegetables for a rich, flavorful dish.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "total_time": "1 hour 20 minutes",
+      "ingredients": [
+        {
+          "item": "domestic rabbit",
+          "quantity": "2 1/2 to 3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "medium potatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "medium carrots",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "cut into 1/2-inch pieces"
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "sliced and separated"
+        },
+        {
+          "item": "beer or beef broth",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "1 can or 1 1/2 cups"
+        },
+        {
+          "item": "chili sauce",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "cold water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a Dutch oven brown rabbit with salt and pepper. In hot oil, Drain fat. Add potatoes, carrots, and onion to skillet. Combine beer, chili sauce, and salt. Pour over rabbit and vegetables in skillet. Bring to boiling; reduce heat. Cover and simmer for 35 to 45 minutes or till tender. Remove rabbit and vegetables."
+        },
+        {
+          "step": 2,
+          "text": "For sauce, skim fat from pan juices. If necessary, add water to pan juices to equal 1 1/2 cups. Return to pan. Combine cold water and flour; stir into pan juices. Cook and stir for 1 minute more. Serve sauce with rabbit and vegetables. Makes 4 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [],
+      "tags": [
+        "rabbit",
+        "game",
+        "braised",
+        "beer",
+        "meat"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5400 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "create-your-own-meat-loaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Create-Your-Own Meat Loaf",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 241",
+      "description": "A customizable meat loaf recipe with multiple sauce options.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour 15 minutes",
+      "total_time": "1 hour 35 minutes",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "1 slice"
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried herb, crushed",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "thyme, basil, or oregano"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic clove",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced (optional)"
+        },
+        {
+          "item": "ground beef or ground lamb",
+          "quantity": "1 1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "catsup",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "or barbecue sauce (optional)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, bread crumbs, milk, onion, herb, salt, pepper, and, if desired, garlic. Add meat; mix well. Shape meat mixture into a loaf."
+        },
+        {
+          "step": 2,
+          "text": "Add pat meat mixture into a 7\u00bdx3\u00bdx2-inch or 8x4x2-inch loaf pan. Or, place meat into a shallow baking pan; shape into a 6-inch-diameter circle that is about 2 inches thick."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 350\u00b0 oven for 1 to 1\u00bc hours or till no pink remains. (Or, place 5 or 4 patties on the unheated rack of a broiler pan. Broil 3 inches from the heat about 6 minutes per side.) Spoon off fat. If desired, spoon catsup or barbecue sauce over; bake 5 minutes more. Let stand 10 minutes before slicing. Makes 8 servings."
+        },
+        {
+          "step": 4,
+          "text": "Ham Loaf: Prepare as above, except substitute dry mustard for the herb and omit salt. Reduce ground beef or lamb to 3/4 pound and add 3/4 pound ground ham. Bake 50 minutes or till juices run clear."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "7\u00bdx3\u00bdx2-inch or 8x4x2-inch loaf pan",
+      "notes": [],
+      "tags": [
+        "meat loaf",
+        "beef",
+        "ground beef",
+        "comfort food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5401 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "swedish-meatballs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Swedish Meatballs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 241",
+      "description": "Classic Swedish meatballs in a creamy sauce, served over noodles.",
+      "servings_yield": "4 to 6 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "allspice or nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef or ground veal",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "ground pork",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "instant beef bouillon granules",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "hot cooked noodles",
+          "quantity": "3 1/2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, 3/4 cup of the milk, the bread crumbs, onion, and the allspice or nutmeg. Add the ground beef or veal, pork, and parsley; mix well. Shape into 30 meatballs."
+        },
+        {
+          "step": 2,
+          "text": "Place meatballs in a 15x10x1-inch baking pan. Bake in a 375\u00b0 oven for 15 to 20 minutes or till no pink remains. Drain."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, in a medium saucepan combine remaining milk and bouillon granules. Stir in flour. Cook and stir over medium heat till thickened and bubbly. Cook and stir for 1 minute more. Stir in sour cream; heat through (do not boil)."
+        },
+        {
+          "step": 4,
+          "text": "Pour sauce over meatballs. Serve over noodles. Makes 4 to 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "15x10x1-inch baking pan",
+      "notes": [
+        "Microwave directions: In a mixing bowl combine egg, 1/4 cup of the milk, the bread crumbs, onion, parsley, the 1/4 teaspoon allspice or nutmeg. Add meat; mix well. Shape into 30 meatballs. Place in a 2-quart casserole. Micro-cook, covered, on 100% power (high) for 6 to 8 minutes or till no pink remains, turning meatballs and rearranging once. Drain meatballs on paper towels. Rearrange meatballs in dish. For sauce, in a 1 1/2-quart casserole stir remaining milk, bouillon granules, flour, and 1/4 teaspoon allspice. Micro-cook on high for 3 1/2 to 5 1/2 minutes or till thickened, stirring every minute. Add sour cream; micro-cook 40 to 50 seconds or till heated through, stirring once. Drain meatballs. Pour sauce over meatballs."
+      ],
+      "tags": [
+        "meatballs",
+        "swedish",
+        "beef",
+        "pork",
+        "noodles"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5401 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "spaghetti-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spaghetti Sauce",
+      "category": "sauces",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 242",
+      "description": "Classic Italian-American meat sauce for spaghetti.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 5 minutes",
+      "ingredients": [
+        {
+          "item": "ground beef or ground pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "canned tomatoes",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "1 can"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": "1 can"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "hot cooked spaghetti",
+          "quantity": "6",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In Dutch oven cook meat, onion, green pepper, and celery till meat is brown. Drain. Stir in undrained tomatoes, tomato sauce, tomato paste, sugar, oregano, basil, bay leaf, and garlic. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 2,
+          "text": "Cover and simmer about 30 minutes or till desired consistency. Discard bay leaf. Serve over hot pasta. Serves 6."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: In a 3-quart casserole combine meat, onion, green pepper, and garlic on 100% power (high) for 6 to 8 minutes or till no pink remains, stirring twice. Drain. Stir in remaining ingredients except pasta. Micro-cook, covered, on high 6 to 8 minutes or till mixture bubbles, stirring once. Discard bay leaf. Serve over pasta. Makes 6 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [],
+      "tags": [
+        "spaghetti",
+        "sauce",
+        "italian",
+        "pasta",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5402 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "spaghetti-and-meatballs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spaghetti and Meatballs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 242",
+      "description": "Classic spaghetti with homemade meatballs in tomato sauce.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "soft, and 1/4 teaspoon pepper"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "bulk Italian sausage",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "canned tomatoes",
+          "quantity": "28",
+          "unit": "oz",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "6",
+          "unit": "oz"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "hot cooked spaghetti",
+          "quantity": "8",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine egg, bread crumbs, 2 tablespoons water, and pepper. Add ground beef and Italian sausage; mix well. Shape into 48 meatballs."
+        },
+        {
+          "step": 2,
+          "text": "In a skillet heat oil. Add half the meatballs at a time; cook until brown. Drain. Meanwhile, combine onion, green pepper, and mushrooms, cooking until mushrooms are soft, and oregano, basil, and fennel, bay leaf. Stir in tomatoes, tomato paste, water, sugar."
+        },
+        {
+          "step": 3,
+          "text": "Simmer, uncovered, about 20 minutes or till of desired consistency. Discard bay leaf. Serve over spaghetti. Makes 8 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "spaghetti",
+        "meatballs",
+        "italian",
+        "pasta",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5402 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "porcupine-meatballs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Porcupine Meatballs",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 242",
+      "description": "Meatballs with rice that stick out like porcupine quills when cooked, in tomato sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 5 minutes",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "condensed tomato soup",
+          "quantity": "10 3/4",
+          "unit": "oz",
+          "prep_note": "1 can"
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "uncooked"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine egg, 1/4 cup of the soup, uncooked rice, onion, Worcestershire, and 1/2 teaspoon salt. Add beef; mix well. Shape meat mixture into 20 meatballs. Place in a large skillet."
+        },
+        {
+          "step": 2,
+          "text": "Mix the remaining soup and water; pour over meatballs. Bring to boiling; reduce heat. Cover and simmer for 35 to 40 minutes or till rice is tender. Stir sauce; spoon over meatballs to serve. Makes 4 servings."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: Combine egg, 1/4 cup of the soup, rice, onion, Worcestershire, and 1/2 teaspoon salt. Add beef; mix well. Shape into 20 meatballs. Place in an 8x8x2-inch baking dish, covering with 1/2 cup soup and water; pour over. Micro-cook on 100% power (high) for 6 minutes. Rearrange meatballs. Add remaining soup mixture. Micro-cook, covered, on high 10 minutes more. Let stand, covered, 5 minutes. Stir sauce; spoon over meatballs. Serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large skillet",
+      "notes": [],
+      "tags": [
+        "meatballs",
+        "rice",
+        "beef",
+        "tomato",
+        "comfort food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5402 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "hamburgers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hamburgers",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 243",
+      "description": "Classic homemade hamburgers with multiple flavor variations.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "18 minutes",
+      "total_time": "33 minutes",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "prepared mustard or prepared horseradish",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef or ground lamb",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "hamburger buns",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "split and toasted"
+        },
+        {
+          "item": "lettuce",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, bread crumbs, onion, milk, mustard or horseradish, salt, and pepper. Add meat; mix well. Shape meat mixture into four 3/4-inch-thick patties."
+        },
+        {
+          "step": 2,
+          "text": "Place patties on the unheated rack of a broiler pan. Broil 3 inches from the heat for 6 minutes. Turn; broil 6 to 8 minutes more for medium. (Or, place patties in an unheated skillet. Cook, uncovered, over medium heat for 10 to 12 minutes for medium. Turn patties after half the cooking time.)"
+        },
+        {
+          "step": 3,
+          "text": "Serve patties on buns with remaining catsup, mayonnaise or salad dressing, lettuce. Makes 4 servings."
+        }
+      ],
+      "temperature": "Broil",
+      "pan_size": "Broiler pan",
+      "notes": [
+        "Cheeseburgers: Prepare as above, except add 1/4 cup shredded cheddar, Swiss, or Monterey Jack cheese or 1/4 cup crumbled blue cheese to egg mixture.",
+        "Italian-Style Burgers: Prepare as above, except substitute 1 tablespoon tomato paste for mustard. Stir in 1/4 teaspoon dried oregano.",
+        "Mexican-Style Burgers: Prepare as above, except substitute salsa or taco sauce for the milk. Serve with lettuce, chopped tomatoes, and shredded cheese.",
+        "Greek-Style Burgers: Prepare as above, except substitute plain yogurt for the milk and 1/4 teaspoon dried oregano, crushed, or 1/4 teaspoon cracked wheat for bread crumbs.",
+        "Indian-Style Burgers: Prepare as above, except add additional plain yogurt and 1 teaspoon curry powder with the bread crumbs."
+      ],
+      "tags": [
+        "hamburger",
+        "burger",
+        "beef",
+        "ground beef",
+        "grilled"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5403 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "german-style-burgers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "German-Style Burgers",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 243",
+      "description": "Hamburgers seasoned German-style with caraway.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "18 minutes",
+      "total_time": "33 minutes",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "rye bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "caraway seed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef or ground pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "hamburger buns",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "split and toasted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, rye bread crumbs, onion, mustard, and caraway seed. Add meat; mix well. Shape mixture into four 3/4-inch-thick patties."
+        },
+        {
+          "step": 2,
+          "text": "Place patties on the unheated rack of a broiler pan. Broil 3 inches from the heat for 6 minutes. Turn; broil 6 to 8 minutes more. Serve on buns."
+        }
+      ],
+      "temperature": "Broil",
+      "pan_size": "Broiler pan",
+      "notes": [],
+      "tags": [
+        "hamburger",
+        "burger",
+        "beef",
+        "german",
+        "caraway"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5403 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "stuffed-burgers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Burgers",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 244",
+      "description": "Hamburger patties stuffed with a savory filling.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "18 minutes",
+      "total_time": "38 minutes",
+      "ingredients": [
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "onion salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef, veal, or ground lamb",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "finely chopped pimento-stuffed olives",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded zucchini, carrots, or 1/4 cup shredded cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "hamburger buns",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "split and toasted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine bread crumbs, basil, onion salt, and 1/4 teaspoon pepper. Add meat; mix well. Shape mixture into eight thin patties."
+        },
+        {
+          "step": 2,
+          "text": "For filling, combine olives and zucchini, carrots, or cheese. Place about 1 tablespoon filling atop each of 4 patties. Spread to within 1/4 inch of edges. Top with remaining patties; seal edges. Place patties on the unheated rack of a broiler pan."
+        },
+        {
+          "step": 3,
+          "text": "Broil 4 inches from the heat for 6 minutes. Turn patties; broil 6 to 8 minutes more or till no pink remains. Serve on buns. Makes 4 servings."
+        }
+      ],
+      "temperature": "Broil",
+      "pan_size": "Broiler pan",
+      "notes": [],
+      "tags": [
+        "hamburger",
+        "burger",
+        "stuffed",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5404 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "garden-burgers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Garden Burgers",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 244",
+      "description": "Hamburgers with vegetables mixed in and topped with fresh garden toppings.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "18 minutes",
+      "total_time": "38 minutes",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "shredded catsup",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "onion salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "parsley or pepper, shredded hash brown potatoes or shredded zucchini",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "frozen or flawed"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ground pork or ground lamb",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "barbecue sauce or catsup",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "lettuce",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "hamburger buns",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "split and toasted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine egg, the 3 tablespoons catsup, the basil, onion salt, and pepper. Stir in hash browns or zucchini and bread crumbs. Add meat; mix well. Shape into four 3/4-inch-thick patties."
+        },
+        {
+          "step": 2,
+          "text": "Place patties on the unheated rack of a broiler pan. Broil 3 inches from the heat for 15 to 18 minutes or till no pink remains, turning once. Brush with barbecue sauce or catsup before serving."
+        },
+        {
+          "step": 3,
+          "text": "Serve patties on buns with additional catsup, mayonnaise, lettuce. Makes 4 servings."
+        }
+      ],
+      "temperature": "Broil",
+      "pan_size": "Broiler pan",
+      "notes": [],
+      "tags": [
+        "hamburger",
+        "burger",
+        "vegetables",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5404 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "glazed-ham-patties",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Glazed Ham Patties",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 244",
+      "description": "Sweet-glazed ham patties with raisins and apricots.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "1 slice"
+        },
+        {
+          "item": "raisins or snipped dried apricots",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        },
+        {
+          "item": "chopped green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ground fully cooked ham",
+          "quantity": "3/4",
+          "unit": "lb"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1/4",
+          "unit": "lb"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "orange juice or water",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine egg, bread crumbs, raisins, if desired, and 1/4 teaspoon pepper. Add meat and the 1/4 cup onion; mix well. Shape mixture into four 1/2-inch-thick patties."
+        },
+        {
+          "step": 2,
+          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves. Beat eggs; stir in milk. Stir in orange juice or water. Spoon over patties."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 375\u00b0 oven for 25 to 30 minutes or till juices run clear. Stir glaze; spoon over patties. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "8x8x2-inch baking dish",
+      "notes": [],
+      "tags": [
+        "ham",
+        "patties",
+        "glazed",
+        "pork"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5404 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "tacos",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tacos",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 245",
+      "description": "Classic ground beef tacos with traditional toppings.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "ground beef or ground pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "canned tomatoes",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "drained"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "4",
+          "unit": "tsp"
+        },
+        {
+          "item": "shredded lettuce",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "tomato",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "taco shells",
+          "quantity": "12",
+          "unit": ""
+        },
+        {
+          "item": "sour cream and/or guacamole",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat taco shells according to package directions. In a large skillet cook meat and onion till meat is brown. Drain fat."
+        },
+        {
+          "step": 2,
+          "text": "Stir in undrained tomatoes. Add chili powder, 1/2 teaspoon salt, and 1/4 teaspoon pepper. Bring to boiling; reduce heat. Simmer, uncovered, for 5 to 10 minutes or till of desired consistency."
+        },
+        {
+          "step": 3,
+          "text": "Spoon meat mixture into taco shells. Top with lettuce, cheese, tomato, and, if desired, sour cream and/or guacamole. Makes 12 tacos (6 servings)."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "tacos",
+        "mexican",
+        "beef",
+        "ground beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5405 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "burritos",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Burritos",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 245",
+      "description": "Flour tortillas filled with seasoned beef, beans, and cheese.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "refried beans",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": "1 can"
+        },
+        {
+          "item": "salsa or taco sauce",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "flour tortillas",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "10-inch"
+        },
+        {
+          "item": "shredded cheddar or Monterey Jack cheese",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "sour cream, salsa, and/or guacamole",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional toppings"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook meat, onion, and garlic till meat is brown. Drain fat. Stir in refried beans, salsa or taco sauce, and chili powder."
+        },
+        {
+          "step": 2,
+          "text": "Wrap tortillas tightly in foil and heat in a 350\u00b0 oven about 10 minutes to soften. (Or, wrap tortillas in microwave-safe paper towels. Micro-cook on 100% power (high) for 30 to 45 seconds or till softened.)"
+        },
+        {
+          "step": 3,
+          "text": "Spoon about 1/2 cup of the meat mixture onto each tortilla just below center. Top with cheese. Fold bottom edge of each tortilla up and over filling. Fold in opposite sides; roll up from the bottom."
+        },
+        {
+          "step": 4,
+          "text": "Arrange burritos, seam side down, on a baking sheet. Bake in a 350\u00b0 oven for 10 to 12 minutes or till heated through. If desired, serve with sour cream, salsa, and/or guacamole. Serves 6."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [
+        "Chimichangas: Prepare as above, except wrap tortillas tightly in foil and heat in a 350\u00b0 oven for about 10 minutes to soften. Fold up the tortilla. In a skillet fry filled tortillas, two or three at a time, in 1 inch of hot oil, starting from the bottom. Secure heat 1 inch of cooking oil for deep-fat frying to 375\u00b0. Fry filled tortillas, two or three at a time, about 1 minute on each side or till crisp and golden brown. Drain on paper towels. Keep warm while frying others. Remove wooden picks. Serve chimichangas warm on lettuce and top with tomatoes and cheese. If desired, pass sour cream and guacamole. Do not use microwave directions."
+      ],
+      "tags": [
+        "burritos",
+        "mexican",
+        "beef",
+        "tortillas"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5405 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "sloppy-joes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sloppy Joes",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 245",
+      "description": "Classic loose-meat sandwich with a tangy tomato-based sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {
+          "item": "ground beef, pork, or turkey",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "catsup",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1 to 1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "hamburger buns",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "split and toasted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook meat, onion, and green pepper till meat is brown. Drain fat. Stir in catsup, water, Worcestershire sauce, and chili powder. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 2,
+          "text": "Simmer, uncovered, for 5 to 10 minutes or till of desired consistency, stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "Spoon meat mixture onto buns. Makes 6 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In a 1 1/2-quart casserole combine meat, onion, and green pepper. Micro-cook on 100% power (high) for 4 to 6 minutes or till no pink remains, stirring once. Drain. Stir in catsup, water, Worcestershire sauce, and chili powder. Micro-cook, covered, on high for 2 to 3 minutes or till bubbly. Serve on buns."
+      ],
+      "tags": [
+        "sloppy joes",
+        "beef",
+        "sandwich",
+        "ground beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5405 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "lasagna-meat",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lasagna",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 246",
+      "description": "Classic layered pasta with meat sauce and cheese, for a cheesy, vegetarian version see page 159.",
+      "servings_yield": "8 servings",
+      "prep_time": "45 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 30 minutes",
+      "ingredients": [
+        {
+          "item": "ground beef, pork, or bulk Italian sausage",
+          "quantity": "3/4",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic clove",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "canned tomatoes",
+          "quantity": "7 1/2",
+          "unit": "oz",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "1 can"
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "fennel seed",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed (optional)"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "lasagna noodles",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "ricotta cheese or cream-style cottage cheese",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "grated Parmesan or Romano cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried parsley flakes",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "mozzarella cheese",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For meat sauce, in a large saucepan cook meat, onion, and garlic till meat is brown and onion is tender. Drain fat. Stir in undrained tomatoes, tomato sauce, oregano, basil, fennel, if desired, salt, and pepper. Bring to boiling; reduce heat. Simmer, uncovered, for 15 to 20 minutes or till slightly thickened, stirring occasionally."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, cook lasagna noodles according to package directions. Drain noodles; rinse with cold water. Drain again."
+        },
+        {
+          "step": 3,
+          "text": "For filling, combine eggs, ricotta or cottage cheese, Parmesan or Romano cheese, and parsley."
+        },
+        {
+          "step": 4,
+          "text": "Layer half of the cooked noodles in a 12x7 1/2x2-inch baking dish. Spread with half of the filling. Top with half of the meat sauce and half of the mozzarella cheese. Repeat layers."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 375\u00b0 oven for 30 to 35 minutes or till heated through. Let stand 10 minutes before serving. Makes 8 servings."
+        },
+        {
+          "step": 6,
+          "text": "To make ahead: Prepare as above, except after assembling, cover and refrigerate up to 24 hours. Uncover and bake in a 375\u00b0 oven about 35 minutes more or till heated through."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "12x7 1/2x2-inch baking dish",
+      "notes": [],
+      "tags": [
+        "lasagna",
+        "italian",
+        "pasta",
+        "beef",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5406 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "pizza-homemade",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pizza",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 247",
+      "description": "Homemade pizza with yeast crust and your choice of toppings.",
+      "servings_yield": "2 pizzas (8 servings)",
+      "prep_time": "2 hours",
+      "cook_time": "25 minutes",
+      "total_time": "2 hours 25 minutes",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 1/2 to 3",
+          "unit": "cups"
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "warm water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "120\u00b0F to 130\u00b0F"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Pizza Sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe"
+        },
+        {
+          "item": "toppings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cooked sausage, pepperoni, etc."
+        },
+        {
+          "item": "shredded mozzarella cheese",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large bowl combine 1 1/4 cups of the flour, the yeast, and salt. Add warm water and oil."
+        },
+        {
+          "step": 2,
+          "text": "Beat with an electric mixer on low speed for 30 seconds, scraping the bowl constantly. Beat on high speed for 3 minutes. Using a wooden spoon, stir in as much of the remaining flour as you can."
+        },
+        {
+          "step": 3,
+          "text": "Turn out onto a lightly floured surface. Knead in enough of the remaining flour to make a moderately stiff dough that is smooth and elastic (6 to 8 minutes total). Divide dough in half. Cover; let rest 10 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Grease two 12-inch pizza pans or baking sheets. On a lightly floured surface, roll each half of dough into a 13-inch circle. Transfer to pans. Build up edges slightly. Do not let rise. Bake in a 425\u00b0 oven about 12 minutes or till lightly browned."
+        },
+        {
+          "step": 5,
+          "text": "Spread Pizza Sauce over hot crusts. Top with desired meat, vegetables, and cheese. Bake in a 425\u00b0 oven for 10 to 15 minutes more or till bubbly. Makes 2 pizzas (8 servings)."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "Two 12-inch pizza pans",
+      "notes": [
+        "Thin Pizzas: Make pizza dough as above. Grease two baking sheets. On a lightly floured surface, roll each half of dough into a 13-inch circle. Transfer to pans or baking sheets. If desired, sprinkle each crust with cornmeal. On a lightly floured surface, roll each half of dough edges slightly. Do not let rise. Bake in a 425\u00b0 oven about 10 minutes or till lightly browned. Spread Pizza Sauce over hot crusts. Top as desired. Bake about 8 minutes more or till bubbly. Makes 2 thin pizzas.",
+        "Pan Pizzas: Grease two 11x7x1 1/2-inch or 9x9x2-inch baking pans or two 12-inch pizza pans. If desired, sprinkle with cornmeal. With greased hands, pat dough into bottoms and halfway up sides of prepared pans. Cover; let rise halfway (30 to 45 minutes). Bake in a 375\u00b0 oven 20 to 25 minutes or till lightly browned. Meanwhile, prepare Pizza Sauce. Spread Pizza Sauce over hot crusts. Top as desired. Bake 15 to 20 minutes more or till bubbly. Serves 8.",
+        "Pizza Sauce: In a medium saucepan combine one undrained 7 1/2-ounce can tomatoes, cut up, 1/4 cup chopped onion, 1 tablespoon dried crushed oregano, 1 teaspoon crushed dried basil, 1/4 teaspoon crushed fennel seed (optional), 1/4 teaspoon crushed hot red pepper (optional), and 1 clove garlic, minced. Bring to boiling; reduce heat. Simmer, uncovered, about 30 minutes or till thick enough to spread on pizza. Makes about 1 cup."
+      ],
+      "tags": [
+        "pizza",
+        "italian",
+        "homemade",
+        "yeast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5407 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "calzones",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Calzones",
+      "category": "mains",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 247",
+      "description": "Folded pizza pockets stuffed with meat, vegetables, and cheese.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "1 hour 5 minutes",
+      "ingredients": [
+        {
+          "item": "pizza dough",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "prepared, see Pizza recipe"
+        },
+        {
+          "item": "pizza or spaghetti sauce",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Italian sausage or ground beef",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "cooked and drained"
+        },
+        {
+          "item": "chopped fresh mushrooms",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced pitted ripe olives",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "mozzarella cheese",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare pizza dough. Bring to boiling; reduce heat. Add meat, mushrooms, green pepper, and olives to sauce."
+        },
+        {
+          "step": 2,
+          "text": "Divide dough into 4 portions. On a lightly floured surface, roll each portion into a 7-inch circle."
+        },
+        {
+          "step": 3,
+          "text": "Spread about 1/4 cup of the meat mixture onto half of each circle to within 1/2 inch of the edge. Sprinkle mozzarella and Parmesan over meat mixture. Fold dough in half over filling. Fold edges to seal; cut slits in top of dough to allow steam to escape."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 375\u00b0 oven for 30 to 35 minutes or till golden. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [],
+      "tags": [
+        "calzone",
+        "italian",
+        "pizza",
+        "stuffed"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5407 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "kitchen-tip-how-to-knead-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kitchen Tip: How to Knead Bread",
+      "category": "tips",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook",
+      "description": "Learn the proper technique for kneading bread dough.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Kneading should be done on a lightly floured surface, a board or counter top; add a little more flour if the dough remains sticky. Knead 8 to 10 minutes until smooth and elastic; it should have tiny air bubbles under the surface."
+        },
+        {
+          "step": 2,
+          "text": "Turn the dough on to a lightly floured board or counter top. With lightly floured hands, shape the dough into a ball and fold it toward you."
+        },
+        {
+          "step": 3,
+          "text": "With the heels of hands, using a rolling motion, push it away. Give dough a quarter of a turn."
+        },
+        {
+          "step": 4,
+          "text": "Knead 8 to 10 minutes; dough should no longer stick and will be ready for second rising or shaping, as recipe directs."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "tips",
+        "bread",
+        "baking",
+        "technique"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5171 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "kitchen-tip-judging-ground-meat-doneness",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kitchen Tip: Judging Ground Meat Doneness",
+      "category": "tips",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 244",
+      "description": "Safety guidelines for cooking ground meat to proper doneness.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For safety's sake, we recommend cooking all meat loaves and meatloaf-type ground-meat patties to 170\u00b0 or till no pink remains."
+        },
+        {
+          "step": 2,
+          "text": "Ground-meat patties, with no other ingredients added, however, may be cooked till their centers are brownish pink (medium doneness)."
+        }
+      ],
+      "temperature": "170\u00b0F internal",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "tips",
+        "meat",
+        "safety",
+        "cooking"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5404 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "kitchen-tip-candy-stages",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kitchen Tip: Candy Temperature Stages",
+      "category": "tips",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 93",
+      "description": "Guide to the different temperature stages when making candy.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thread stage (230\u00b0 to 233\u00b0): When a teaspoon is dipped into the hot mixture, then removed, the candy falls off the spoon in a fine, thin thread."
+        },
+        {
+          "step": 2,
+          "text": "Soft-ball stage (234\u00b0 to 240\u00b0): When the ball of candy is removed from the cold water, the candy instantly flattens and runs between your fingers."
+        },
+        {
+          "step": 3,
+          "text": "Firm-ball stage (244\u00b0 to 248\u00b0): When the ball of candy is removed from the water, it is firm enough to hold its shape, but quickly flattens at room temperature."
+        },
+        {
+          "step": 4,
+          "text": "Hard-ball stage (250\u00b0 to 266\u00b0): When the ball of candy is removed from the water, it doesn't flatten until pressed."
+        },
+        {
+          "step": 5,
+          "text": "Soft-crack stage (270\u00b0 to 290\u00b0): When dropped into water, the candy separates into hard, but pliable and elastic, threads."
+        },
+        {
+          "step": 6,
+          "text": "Hard-crack stage (295\u00b0 to 310\u00b0): When dropped into water, the candy separates into hard, brittle threads that snap easily."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Always use a candy thermometer for best results",
+        "The water test is a backup method if you don't own a candy thermometer"
+      ],
+      "tags": [
+        "tips",
+        "candy",
+        "temperature",
+        "baking"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5257 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
       }
     }
   ],
