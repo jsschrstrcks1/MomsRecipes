@@ -3,9 +3,9 @@
     "title": "Baker-Hudson Family Recipes",
     "description": "A family collection of treasured recipes from Grandma Baker, MomMom Baker, and Granny Hudson - preserved with love",
     "created": "2026-01-05",
-    "last_updated": "2026-01-11",
+    "last_updated": "2026-01-13",
     "version": "3.0.2",
-    "total_recipes": 1233
+    "total_recipes": 1281
   },
   "recipes": [
     {
@@ -126016,6 +126016,4873 @@
         "assumptions": [
           "Per bar as stated in cookbook"
         ]
+      }
+    },
+    {
+      "id": "chicken-jambalaya-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Jambalaya",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 318",
+      "description": "A quick Cajun-style one-pot meal with chicken, rice, tomatoes, and vegetables.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "14.5",
+          "unit": "oz",
+          "prep_note": "one can, cut up"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil or thyme",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "1/4 to 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "cubed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook celery, onion, and green pepper in margarine or butter till vegetables are tender."
+        },
+        {
+          "step": 2,
+          "text": "Stir in the undrained tomatoes, chicken broth, rice, basil or thyme, garlic salt, pepper, hot pepper sauce, and bay leaf."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover and simmer about 20 minutes or till rice is tender."
+        },
+        {
+          "step": 4,
+          "text": "Stir in chicken; cook till heated through. Discard bay leaf. Makes 4 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "FAST recipe tag in cookbook"
+      ],
+      "tags": [
+        "chicken",
+        "cajun",
+        "rice",
+        "one-pot",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5481 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-cheese-crepes-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken-Cheese Crepes",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 318",
+      "description": "Elegant crepes filled with chicken, peas, carrots, and a creamy cheese sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Crepes",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": "see recipe, page 72"
+        },
+        {
+          "item": "frozen peas and carrots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded process Swiss, Gruyere, or American cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "several dashes"
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "2.5",
+          "unit": "oz",
+          "prep_note": "one jar, drained"
+        },
+        {
+          "item": "cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Crepes. Cook frozen peas and carrots according to package directions. Drain and season to taste with salt and pepper; set aside."
+        },
+        {
+          "step": 2,
+          "text": "For sauce, in a medium saucepan cook onion and green pepper in margarine till tender. Stir in flour. Add milk and broth all at once. Cook and stir till bubbly. Cook and stir 1 minute more. Stir in cheese; sherry, if desired; parsley; and hot pepper sauce. Remove 1 cup of the sauce; set aside."
+        },
+        {
+          "step": 3,
+          "text": "Drain mushrooms; stir into remaining sauce. For filling, combine cooked peas and carrots, the 1 cup sauce, and chicken or turkey. Spread 1/4 cup filling over the unbrowned side of each crepe, leaving a 1/4-inch rim around edge. Roll up crepes."
+        },
+        {
+          "step": 4,
+          "text": "Place, seam side down, in a 12x7 1/2x2-inch baking dish. Cover; bake in a 375\u00b0 oven for 15 to 18 minutes or till heated through. Reheat remaining sauce; drizzle some over crepes. Pass remaining sauce. Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "12x7 1/2x2-inch baking dish",
+      "notes": [
+        "Microwave directions available in original"
+      ],
+      "tags": [
+        "chicken",
+        "crepes",
+        "cheese",
+        "elegant"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5481 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-divan-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Divan",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 319",
+      "description": "Classic casserole with chicken and broccoli in a creamy cheese sauce, topped with Parmesan.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frozen chopped broccoli",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "light cream or milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded Swiss cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook broccoli according to package directions; drain. Arrange in a 10x6x2-inch baking dish."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for sauce, in a medium saucepan melt margarine or butter. Stir in flour, pepper, and nutmeg. Add cream or milk and chicken broth all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine, stirring till cheese melts."
+        },
+        {
+          "step": 3,
+          "text": "Pour half of the sauce over broccoli. Top with chicken or turkey, then the remaining sauce. Sprinkle with Parmesan cheese and paprika."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 350\u00b0 oven about 20 minutes or till heated through. Makes 4 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "10x6x2-inch baking dish",
+      "notes": [
+        "Microwave directions available in original"
+      ],
+      "tags": [
+        "chicken",
+        "broccoli",
+        "casserole",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5482 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-asparagus-stacks-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken-Asparagus Stacks",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 319",
+      "description": "English muffins topped with asparagus, chicken, and a creamy yogurt sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frozen asparagus or broccoli spears",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": "one package"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "condensed cream of chicken soup",
+          "quantity": "10.75",
+          "unit": "oz",
+          "prep_note": "one can"
+        },
+        {
+          "item": "plain yogurt",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one carton"
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "toasted slivered almonds",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        },
+        {
+          "item": "English muffins",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "rusks or 4, split and toasted"
+        },
+        {
+          "item": "hard-cooked eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook asparagus or broccoli according to package directions. Drain; keep warm."
+        },
+        {
+          "step": 2,
+          "text": "In a saucepan cook onion in margarine till onion is tender. Stir in condensed soup and yogurt till smooth. Stir in chicken. Heat through. If desired, stir in almonds. Top rusks or muffin halves with the asparagus or broccoli, chicken mixture, and egg slices. Makes 4 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "FAST recipe tag in cookbook",
+        "Microwave directions available"
+      ],
+      "tags": [
+        "chicken",
+        "asparagus",
+        "quick",
+        "english-muffin"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5482 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-submarines-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Submarines",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 319",
+      "description": "Hearty submarine sandwiches filled with chicken, avocado, and a creamy yogurt dressing.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "dairy sour cream, plain yogurt, mayonnaise, or salad dressing",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "avocado",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "small, halved, seed removed, peeled, and thinly sliced"
+        },
+        {
+          "item": "French rolls",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "individual, split"
+        },
+        {
+          "item": "cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "cheese",
+          "quantity": "1",
+          "unit": "slice",
+          "prep_note": "American, Swiss, cheddar, or Monterey Jack"
+        },
+        {
+          "item": "tomato",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "thin slices"
+        },
+        {
+          "item": "cucumber",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "thin slices"
+        },
+        {
+          "item": "alfalfa sprouts",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "if desired, top with"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl mix 1/2 cup dairy sour cream, plain yogurt, mayonnaise, or salad dressing; 2 teaspoons prepared mustard; 1/2 teaspoon dried basil, crushed; and 1/8 teaspoon garlic powder."
+        },
+        {
+          "step": 2,
+          "text": "Halve, seed, peel, and thinly slice 1 small avocado. If desired, brush avocado with lemon juice."
+        },
+        {
+          "step": 3,
+          "text": "Split 4 individual French rolls and scoop out some of the center of each half. Spread both halves of rolls with some of the yogurt mixture."
+        },
+        {
+          "step": 4,
+          "text": "On the bottom half of each roll, layer 1 leaf lettuce; 2 slices cooked chicken or turkey; 1 slice American, Swiss, cheddar, or Monterey Jack cheese; 3 thin slices tomato or 6 thin slices cucumber; and the avocado slices. If desired, top with alfalfa sprouts. Replace roll tops. Serves 4."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "chicken",
+        "sandwich",
+        "submarine",
+        "avocado"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5482 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "glazed-chicken-vegetables-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Glazed Chicken and Vegetables",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 320",
+      "description": "Roasted chicken with potatoes, carrots, and apples in a honey-mustard glaze.",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2.5 to 3",
+          "unit": "lb",
+          "prep_note": "one"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "medium potatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "peeled and quartered, or 6 new potatoes"
+        },
+        {
+          "item": "medium carrots",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "bias-sliced into 1/2-inch pieces"
+        },
+        {
+          "item": "honey",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "curry powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "crushed red pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "medium apples",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cored"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse chicken and pat dry. Skewer neck skin to back. Tie legs to tail. Twist wing tips under back. Place, breast side up, on a rack in a shallow roasting pan. Brush with oil. Roast chicken, uncovered, in a 375\u00b0 oven for 1 hour."
+        },
+        {
+          "step": 2,
+          "text": "Cook potatoes and carrots in boiling water for 20 to 25 minutes or till nearly tender. Drain."
+        },
+        {
+          "step": 3,
+          "text": "For glaze, in a saucepan combine honey, mustard, margarine, onion, curry powder, garlic salt, red pepper, and ginger. Bring to boiling, stirring constantly. Remove from heat; set aside."
+        },
+        {
+          "step": 4,
+          "text": "Discard fat in roasting pan. Cut apples into wedges. Arrange potatoes, carrots, and apples around chicken in the pan. Spoon glaze over poultry, vegetables, and apples. Roast for 15 to 20 minutes more or till chicken is no longer pink, the drumsticks move easily in their sockets, and the vegetables are tender. Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [
+        "Microwave directions available in original"
+      ],
+      "tags": [
+        "chicken",
+        "roast",
+        "vegetables",
+        "honey-mustard",
+        "one-pan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5483 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "roast-herb-chicken-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Herb Chicken",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 321",
+      "description": "Roasted chicken brushed with a tangy herb-lemon mixture.",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "1 to 1.5 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2.5 to 3",
+          "unit": "lb",
+          "prep_note": "one"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried tarragon, oregano, basil, thyme, savory, or sage",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed; or 3 cloves garlic, minced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse chicken and pat dry. Skewer neck skin to back; tie legs to tail. Twist wings under back."
+        },
+        {
+          "step": 2,
+          "text": "Place, breast side up, on a rack in a shallow roasting pan. Melt margarine or butter; stir in lemon juice and a herb or garlic. Brush over chicken."
+        },
+        {
+          "step": 3,
+          "text": "Roast, uncovered, in a 375\u00b0 oven for 1 1/4 to 1 1/2 hours or till no longer pink and the drumsticks move easily in their sockets, brushing occasionally with drippings. Season to taste with salt and pepper. Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [],
+      "tags": [
+        "chicken",
+        "roast",
+        "herb",
+        "lemon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5484 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "honey-spice-duckling-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Honey and Spice Duckling",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 321",
+      "description": "Roasted duck with a sweet and spicy Szechwan pepper glaze.",
+      "servings_yield": "3 or 4 servings",
+      "prep_time": "",
+      "cook_time": "1.75 to 2.25 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "domestic duckling",
+          "quantity": "3 to 5",
+          "unit": "lb",
+          "prep_note": "one"
+        },
+        {
+          "item": "Szechwan pepper",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "coarsely ground, or 1 teaspoon whole pepper, coarsely ground"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "five-spice powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse duck; pat dry. In a bowl combine pepper, salt, ginger, and five-spice powder. Sprinkle body cavity of duck with some of the salt mixture; rub remaining mixture on skin of duck. Skewer neck skin to back; tie legs to tail. Twist wing tips under back. Prick skin all over with a fork."
+        },
+        {
+          "step": 2,
+          "text": "Place duckling, breast side up, on a rack in a shallow roasting pan. Roast in a 375\u00b0 oven for 1 3/4 to 2 1/4 hours or till the drumsticks move easily in their sockets and duck is no longer pink, spooning off fat occasionally. Meanwhile, mix honey and soy sauce; baste duck with honey mixture once or twice during the last 10 minutes of roasting. Makes 3 or 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [],
+      "tags": [
+        "duck",
+        "duckling",
+        "asian",
+        "honey",
+        "five-spice"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5484 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "stuffed-cornish-game-hens-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Cornish Game Hens",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 321",
+      "description": "Elegant individual game hens stuffed with a savory bread stuffing and glazed with orange sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "3",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded carrot",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried savory",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Cornish game hens",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "1- to 1 1/2-pound"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dry red or white wine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook bacon till crisp. Remove bacon; drain and crumble. Cook carrot in drippings over medium heat till tender; remove from heat. Stir in bacon, parsley, savory, and pepper. Stir in bread cubes."
+        },
+        {
+          "step": 2,
+          "text": "Dissolve the 1/4 teaspoon bouillon granules in 2 tablespoons hot water. Drizzle over bread mixture, tossing lightly."
+        },
+        {
+          "step": 3,
+          "text": "Rinse hens; pat dry. Season cavities with salt. Lightly stuff hens with bread mixture. Pull neck skin, if present, to back of each hen. Twist wing tips under back, holding skin in place. Tie legs to tail."
+        },
+        {
+          "step": 4,
+          "text": "Place hens, breast side up, on a rack in a shallow roasting pan. Brush with oil; cover loosely with foil. Roast in a 375\u00b0 oven for 30 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Stir together wine, melted margarine or butter, and the 2 tablespoons orange juice; brush on hens. Roast hens, uncovered, about 1 hour more or till tender and no longer pink, brushing with wine mixture twice."
+        },
+        {
+          "step": 6,
+          "text": "For sauce, add additional orange juice to remaining wine mixture to make 3/4 cup. In a small saucepan combine cornstarch, brown sugar, and the 1/2 teaspoon bouillon granules. Stir in wine mixture. Cook and stir till thickened and bubbly. Cook and stir 2 minutes more. Serve sauce with hens. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [],
+      "tags": [
+        "cornish-hen",
+        "game-hen",
+        "stuffed",
+        "elegant",
+        "orange-sauce"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5484 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "old-fashioned-bread-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Old-Fashioned Bread Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 323",
+      "description": "Classic sage-seasoned bread stuffing for poultry.",
+      "servings_yield": "8 to 10 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "poultry seasoning or dried sage leaves",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth or water",
+          "quantity": "3/4 to 1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan cook celery and onion in margarine or butter till tender but not brown."
+        },
+        {
+          "step": 2,
+          "text": "Stir in poultry seasoning or sage, 1/4 teaspoon pepper, and 1/4 teaspoon salt."
+        },
+        {
+          "step": 3,
+          "text": "Place dry bread cubes in a bowl. Add onion mixture. Drizzle with enough broth or water to moisten, tossing lightly. Use to stuff one 8- to 10-pound turkey. Makes 8 to 10 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions available in original",
+        "Variations: Mushroom Stuffing, Giblet Stuffing, Oyster Stuffing, Chestnut Stuffing, Peanut or Raisin Stuffing, Herb and Onion Stuffing"
+      ],
+      "tags": [
+        "stuffing",
+        "bread",
+        "thanksgiving",
+        "poultry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5486 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "harvest-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Harvest Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 323",
+      "description": "Apple and walnut bread stuffing with wheat germ.",
+      "servings_yield": "8 to 10 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "shredded carrots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped peeled apple",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "toasted wheat germ",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2 to 1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook carrots, celery, and onion in margarine or butter till tender. Stir in nutmeg, 1/4 teaspoon salt, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl combine bread cubes, apple, walnuts, and wheat germ. Add carrot mixture. Drizzle with enough broth to moisten, tossing lightly. Use to stuff one 8- to 10-pound turkey. Makes 8 to 10 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "stuffing",
+        "apple",
+        "walnut",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5486 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "corn-bread-bacon-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Bread and Bacon Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 324",
+      "description": "Southern-style stuffing with corn bread and bacon.",
+      "servings_yield": "8 to 10 servings",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "poultry seasoning",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "coarsely crumbled Corn Bread",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "see recipe, page 59"
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2 to 3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a skillet cook chopped bacon, celery, and onion over medium heat till bacon is crisp and vegetables are tender. Do not drain."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, in a bowl combine eggs, parsley, poultry seasoning, and pepper. Add Corn Bread and bread cubes; toss lightly till mixed. Add bacon mixture. Drizzle with enough of the broth to moisten, tossing lightly till mixed. Use to stuff one 8- to 10-pound turkey or domestic goose. Makes 8 to 10 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "stuffing",
+        "cornbread",
+        "bacon",
+        "thanksgiving",
+        "southern"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5487 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "wild-rice-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Rice Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 324",
+      "description": "Delicious nutty stuffing with wild rice, mushrooms, and almonds.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "wild rice",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown rice",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground sage or nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "toasted slivered almonds or pine nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse wild rice in a strainer under cold water about 1 minute. In a medium saucepan combine wild rice, brown rice, bouillon granules, sage or nutmeg, and 1 cup water. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 2,
+          "text": "Cover and simmer for 45 minutes. Add mushrooms, celery, and green onions. Cook, covered, over medium-low heat for 10 to 20 minutes more or till vegetables are just tender, stirring frequently. Stir in nuts, if desired. Use to stuff one 2 1/2- to 3-pound broiler-fryer chicken. (Or, add 1/4 cup water and transfer to a 1-quart casserole. Bake in a 375\u00b0 oven for 25 to 30 minutes.) Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "1-quart casserole",
+      "notes": [
+        "Apricot-Wild-Rice Stuffing variation available"
+      ],
+      "tags": [
+        "stuffing",
+        "wild-rice",
+        "mushrooms",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5487 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "bulgur-pilaf-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bulgur Pilaf Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 324",
+      "description": "Hearty stuffing with bulgur wheat and turkey sausage.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bulgur",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pork sausage or ground turkey sausage",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded carrot",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan bring broth and Worcestershire sauce to boiling. Add bulgur. Remove from heat. Cover and let stand for 15 minutes."
+        },
+        {
+          "step": 2,
+          "text": "In a medium skillet crumble sausage; add onion, celery, and carrot. Cook about 6 minutes or till sausage is no longer pink and vegetables are tender, stirring often to break up large pieces."
+        },
+        {
+          "step": 3,
+          "text": "Drain. Stir in bulgur mixture. Use to stuff one 2 1/2- to 3-pound broiler-fryer chicken. Serves 6."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions available"
+      ],
+      "tags": [
+        "stuffing",
+        "bulgur",
+        "sausage",
+        "healthy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5487 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "cream-gravy-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Gravy",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 324",
+      "description": "The perfect crowning touch for fried poultry.",
+      "servings_yield": "6 or 7 servings (1 3/4 cups)",
+      "ingredients": [
+        {
+          "item": "fried poultry drippings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "After frying poultry, transfer poultry to a platter; keep warm. Reserve 2 tablespoons of the drippings in the skillet (discard remaining drippings)."
+        },
+        {
+          "step": 2,
+          "text": "Stir in flour, bouillon granules, and pepper. Add milk all at once. Cook and stir over medium heat till thickened and bubbly. Cook and stir for 1 minute more. If necessary, thin with a little additional milk. Makes 1 3/4 cups (6 or 7 servings)."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "gravy",
+        "cream",
+        "fried-chicken"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5487 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "pan-gravy-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pan Gravy",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 325",
+      "description": "Classic pan gravy made from roast poultry drippings.",
+      "servings_yield": "8 to 10 servings (2 cups)",
+      "ingredients": [
+        {
+          "item": "pan drippings from roast poultry",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth or water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "After transferring roast poultry to a serving platter, pour pan drippings into a large measuring cup. Also scrape the browned bits into the cup."
+        },
+        {
+          "step": 2,
+          "text": "Skim and reserve fat from drippings. Place 1/4 cup of the fat in a medium saucepan (discard remaining fat). Stir in flour. Add enough broth or water to remaining drippings in the measuring cup to equal 2 cups. Add all at once to flour mixture."
+        },
+        {
+          "step": 3,
+          "text": "Cook and stir over medium heat till thickened and bubbly. Cook and stir 1 minute more. Season to taste with salt and pepper. Makes 2 cups (8 to 10 servings)."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "gravy",
+        "turkey",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5488 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "giblet-gravy-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Giblet Gravy",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 325",
+      "description": "Rich gravy with chopped giblets for extra flavor.",
+      "servings_yield": "8 to 10 servings (2 cups)",
+      "ingredients": [
+        {
+          "item": "turkey or chicken giblets and neck",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "celery with leaves",
+          "quantity": "1",
+          "unit": "stalk",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "small onion",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "pan drippings from roast turkey or chicken",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "hard-cooked egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse giblets and neck. Refrigerate liver till needed. In a medium saucepan combine remaining giblets, neck, celery, onion, and lightly salted water to cover. Bring to boiling; reduce heat. Cover and simmer about 1 hour or till tender. Add liver; simmer 20 to 30 minutes more for turkey (5 to 10 minutes more for chicken) or till tender."
+        },
+        {
+          "step": 2,
+          "text": "Remove and finely chop giblets. Discard neck bones. Strain broth. Discard vegetables. Chill chopped giblets and broth till needed."
+        },
+        {
+          "step": 3,
+          "text": "After transferring roast turkey or chicken to a platter, pour pan drippings into a large measuring cup. Skim and reserve fat from pan drippings."
+        },
+        {
+          "step": 4,
+          "text": "Pour 1/4 cup of the fat into the saucepan (discard remaining fat). Stir in flour, 1/4 teaspoon salt, and 1/8 teaspoon pepper. Add reserved broth to the drippings to measure 1 1/2 cups. Add broth mixture all at once to flour mixture. Cook and stir till bubbly. Cook and stir 1 minute more. Stir in giblets. If desired, chop egg and stir in. Heat through. Makes 2 cups (8 to 10 servings)."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "gravy",
+        "giblet",
+        "turkey",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5488 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "nut-flavored-oil-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nut-Flavored Oil",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 334",
+      "description": "Homemade nut-infused oil to add zest to salads and dressings.",
+      "servings_yield": "2 1/2 cups (forty 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "unblanched shelled whole hazelnuts, almonds, or walnuts",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salad oil",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "added gradually"
+        },
+        {
+          "item": "salad oil",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "To make flavored oil, place 1 1/2 cups unblanched shelled whole hazelnuts, almonds, or walnuts in a blender container or food processor. Cover; blend or process till chopped. With blender on slow speed, gradually add 1/2 cup salad oil through opening in lid. Blend till the nuts are finely chopped."
+        },
+        {
+          "step": 2,
+          "text": "Transfer mixture to a small saucepan. Place a candy thermometer in the pan. Cook over low heat, stirring often, till thermometer registers 160\u00b0. Remove from heat; cool slightly. Combine mixture with 2 cups salad oil. Cover tightly; let stand in a cool place for 1 to 2 weeks."
+        },
+        {
+          "step": 3,
+          "text": "Line a colander with several layers of cheesecloth. Pour mixture through colander; let drain in a bowl. Discard nut paste. Pour strained oil into a clean 1-pint jar; cover tightly. Store in the refrigerator up to 3 months. Makes 2 1/2 cups (forty 1-tablespoon servings)."
+        }
+      ],
+      "temperature": "160\u00b0F",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "oil",
+        "nuts",
+        "homemade",
+        "dressing"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5496 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chefs-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chef's Salad",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 334",
+      "description": "Classic main-dish salad with meat, cheese, and fresh vegetables.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "torn iceberg or leaf lettuce",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "torn romaine or spinach",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "fully cooked ham, chicken, turkey, beef, pork, or lamb",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "cut into thin strips"
+        },
+        {
+          "item": "cubed Swiss, cheddar, American, provolone, or Gruy\u00e8re cheese or crumbled blue cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "4 ounces"
+        },
+        {
+          "item": "hard-cooked eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "medium tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut into wedges, or 8 cherry tomatoes, halved"
+        },
+        {
+          "item": "small green or sweet red pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut into rings"
+        },
+        {
+          "item": "green onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "Croutons",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "see tip, page 357, or purchased"
+        },
+        {
+          "item": "Creamy French Dressing, Buttermilk Dressing, Creamy Italian Dressing, or other salad dressing",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large salad bowl toss together lettuce and romaine or spinach. Arrange meat or poultry, cheese, hard-cooked eggs, tomatoes, pepper rings, and green onions over the greens."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle with Croutons, if desired. Pour Creamy French Dressing or other salad dressing over all. Toss to coat. Makes 4 main-dish servings."
+        },
+        {
+          "step": 3,
+          "text": "Note: To serve Chef's Salad as individual salads, toss together lettuce and romaine or spinach and divide among four individual salad bowls. Top each serving with one-fourth of the meat or poultry, cheese, hard-cooked eggs, tomatoes, pepper rings, and green onions. Sprinkle each with Croutons, if desired. Pass Creamy French Dressing or other salad dressing."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "salad",
+        "main-dish",
+        "chef",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5496 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "taco-salads-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Taco Salads",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 337",
+      "description": "Tex-Mex salad served in crispy tortilla cups with seasoned meat and all the fixings.",
+      "servings_yield": "6 main-dish servings",
+      "ingredients": [
+        {
+          "item": "ground beef, ground raw turkey, or bulk pork sausage",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "dark red kidney beans",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": "one can"
+        },
+        {
+          "item": "taco sauce",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one jar"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "torn iceberg lettuce",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "medium tomatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced pitted ripe olives",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green onions",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "Tortilla Cups",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "medium avocado",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "pitted, peeled, and sliced (optional)"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "taco sauce or salsa",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For meat mixture, in a large skillet cook meat and garlic till meat is no longer pink. Drain off fat. Stir in undrained kidney beans, taco sauce, and chili powder. Bring to boiling; reduce heat. Cover; simmer for 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for salads, combine lettuce, tomatoes, cheese, green pepper, olives, and green onions. Add hot meat mixture. Toss to mix. Divide among Tortilla Cups or individual salad plates."
+        },
+        {
+          "step": 3,
+          "text": "Garnish with avocado, if desired. Serve with sour cream and additional taco sauce or salsa, if desired. Makes 6 main-dish servings."
+        },
+        {
+          "step": 4,
+          "text": "Tortilla Cups: In a heavy 3-quart saucepan heat 2 inches cooking oil or melted shortening for deep-fat frying to 375\u00b0. Place one 7-inch flour tortilla on top of hot oil. Using a metal ladle, press tortilla into fat, forming the tortilla into a cup. Fry for 40 to 60 seconds or till golden. Remove with tongs. Drain on paper towels. Repeat with five more tortillas."
+        }
+      ],
+      "temperature": "375\u00b0F (for tortilla cups)",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions available for meat mixture"
+      ],
+      "tags": [
+        "salad",
+        "taco",
+        "mexican",
+        "main-dish",
+        "ground-beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5499 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "caesar-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caesar Salad",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 342",
+      "description": "The classic anchovy and Parmesan salad with homemade croutons.",
+      "servings_yield": "6 side-dish servings",
+      "ingredients": [
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "halved"
+        },
+        {
+          "item": "olive or salad oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon or lime juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "few dashes"
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "torn romaine",
+          "quantity": "5",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "croutons",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "see tip, page 357, or purchased"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "anchovy fillets",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": "one can, drained, rinsed, and patted dry"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Allow egg to come to room temperature. To coddle egg, add egg in shell to a small saucepan of boiling water. Remove from heat; let stand 1 minute. Remove egg from water and cool slightly."
+        },
+        {
+          "step": 2,
+          "text": "Cut garlic clove in half lengthwise. Rub a large wooden salad bowl with cut sides of the garlic clove. Discard garlic. Add oil, lemon or lime juice, Worcestershire sauce, and hot pepper sauce to bowl. Break the coddled egg into the bowl. Using a fork or a wire whisk, beat till creamy. Add romaine. Toss to coat. Sprinkle with croutons, Parmesan cheese, and pepper; toss to mix. Top with anchovy fillets. Makes 6 side-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "salad",
+        "caesar",
+        "classic",
+        "anchovy",
+        "parmesan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5504 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "three-bean-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Three-Bean Salad",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 344",
+      "description": "Classic marinated bean salad that keeps well in the refrigerator.",
+      "servings_yield": "6 side-dish servings",
+      "ingredients": [
+        {
+          "item": "cut wax beans or 8 1/2-ounce can lima beans",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one can, drained"
+        },
+        {
+          "item": "cut green beans",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one can, drained"
+        },
+        {
+          "item": "red kidney beans",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one can, drained"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salad oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "celery seed",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine wax beans, green beans, red kidney beans, onion, and green pepper. For dressing, in a screw-top jar combine vinegar, oil, sugar, celery seed, and garlic. Cover and shake well. Add to vegetables; stir lightly."
+        },
+        {
+          "step": 2,
+          "text": "Cover; chill for 4 to 24 hours, stirring often. Makes 6 side-dish servings."
+        },
+        {
+          "step": 3,
+          "text": "Creamy Three-Bean Salad: Prepare as above, except omit salad oil and sugar. For dressing, combine 1/2 cup mayonnaise or salad dressing, 1 tablespoon vinegar, celery seed, 1 teaspoon prepared mustard, and garlic."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "EASY recipe tag in cookbook",
+        "Store any leftovers in the refrigerator for up to three days"
+      ],
+      "tags": [
+        "salad",
+        "bean",
+        "marinated",
+        "make-ahead",
+        "picnic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5506 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "coleslaw-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Coleslaw",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 346",
+      "description": "Classic creamy coleslaw with cabbage and carrots.",
+      "servings_yield": "4 side-dish servings",
+      "ingredients": [
+        {
+          "item": "shredded cabbage",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "medium carrot",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "small green or sweet red pepper",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "green onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "celery seed",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine cabbage, carrot, green or sweet red pepper, and green onions. For dressing, stir together mayonnaise or salad dressing, vinegar, sugar, and celery seed. Pour the dressing over the cabbage mixture; toss to coat."
+        },
+        {
+          "step": 2,
+          "text": "Cover and chill for 1 to 24 hours. Makes 4 side-dish servings."
+        },
+        {
+          "step": 3,
+          "text": "Vinaigrette Coleslaw: Prepare as above, except substitute vinaigrette for dressing. For vinaigrette, in a screw-top jar combine 1/4 cup vinegar, 3 tablespoons salad oil, 2 to 3 tablespoons sugar, and, if desired, several dashes bottled hot pepper sauce. Cover and shake well."
+        },
+        {
+          "step": 4,
+          "text": "Nutty Citrus Coleslaw: Prepare as above, except omit green onions. Add 1 small orange, peeled, sliced, and chopped; 1/4 cup chopped walnuts; and 2 tablespoons raisins to the cabbage mixture. Makes 5 side-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Variations: Vinaigrette Coleslaw, Nutty Citrus Coleslaw"
+      ],
+      "tags": [
+        "salad",
+        "coleslaw",
+        "cabbage",
+        "classic",
+        "bbq"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5508 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "tabbouleh-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tabbouleh",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 348",
+      "description": "A classic Middle Eastern salad with bulgur (precooked cracked wheat).",
+      "servings_yield": "6 side-dish servings",
+      "ingredients": [
+        {
+          "item": "bulgur",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "medium cucumber",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "seeded and coarsely chopped (1 cup)"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green onions",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "olive oil or salad oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried mint",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "medium tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse bulgur in a colander with cold water. Drain. Combine bulgur, cucumber, parsley, and onions."
+        },
+        {
+          "step": 2,
+          "text": "For dressing, in a screw-top jar combine oil, lemon juice, mint, garlic salt, and pepper. Cover; shake to mix. Pour over bulgur mixture. Toss to coat."
+        },
+        {
+          "step": 3,
+          "text": "Cover and chill 4 to 24 hours. Before serving, stir in tomatoes. Makes 6 side-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "salad",
+        "tabbouleh",
+        "bulgur",
+        "middle-eastern",
+        "mediterranean"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5510 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "waldorf-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Waldorf Salad",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 350",
+      "description": "Classic apple salad with celery, nuts, and creamy dressing.",
+      "servings_yield": "4 to 6 side-dish servings",
+      "ingredients": [
+        {
+          "item": "chopped apple",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts or pecans",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins or snipped pitted whole dates",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "seedless green grapes",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "halved (optional)"
+        },
+        {
+          "item": "whipping cream or 1/3 cup frozen whipped dessert topping, thawed",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl toss apple with lemon juice. Stir in celery, nuts, raisins, and, if desired, grapes."
+        },
+        {
+          "step": 2,
+          "text": "For dressing, if using whipping cream, in a chilled mixing bowl whip cream to soft peaks. Fold mayonnaise into the whipped cream or dessert topping. Spread dressing over the top of the apple mixture. Sprinkle with nutmeg."
+        },
+        {
+          "step": 3,
+          "text": "Cover and chill for 2 to 24 hours. To serve, fold dressing into fruit mixture. Makes 4 to 6 side-dish servings."
+        }
+      ],
+      "tags": [
+        "salad",
+        "waldorf",
+        "apple",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5512 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "five-cup-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Five-Cup Salad",
+      "category": "salads",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 351",
+      "description": "Simple, sweet fruit salad with coconut and marshmallows.",
+      "servings_yield": "6 side-dish servings",
+      "ingredients": [
+        {
+          "item": "pineapple chunks",
+          "quantity": "8.25",
+          "unit": "oz",
+          "prep_note": "one can"
+        },
+        {
+          "item": "mandarin orange sections",
+          "quantity": "11",
+          "unit": "oz",
+          "prep_note": "one can, drained"
+        },
+        {
+          "item": "coconut",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "tiny marshmallows",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one carton"
+        },
+        {
+          "item": "chopped pecans",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain pineapple chunks, reserving 1 tablespoon syrup. Combine pineapple chunks, reserved syrup, mandarin orange sections, coconut, marshmallows, and sour cream."
+        },
+        {
+          "step": 2,
+          "text": "Cover and chill for 2 to 24 hours. Before serving, sprinkle with pecans. Makes 6 side-dish servings."
+        }
+      ],
+      "tags": [
+        "salad",
+        "fruit",
+        "easy",
+        "marshmallow",
+        "coconut"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5513 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "mayonnaise-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mayonnaise",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 355",
+      "description": "Homemade mayonnaise - creamy and fresh.",
+      "servings_yield": "about 2 cups (thirty-two 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "dry mustard",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar or lemon juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salad oil",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small mixer bowl combine mustard, salt, paprika, if desired, and red pepper. Add egg yolks and vinegar or lemon juice. Beat with an electric mixer on medium speed till combined."
+        },
+        {
+          "step": 2,
+          "text": "With mixer running, add the oil, 1 teaspoon at a time, till 2 tablespoons oil have been added. Add the remaining oil in a thin, steady stream. (This should take about 5 minutes.)"
+        },
+        {
+          "step": 3,
+          "text": "Cover and store in the refrigerator up to 2 weeks. Makes about 2 cups (thirty-two 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "Variations: Blender Mayonnaise, Herb Blender Mayonnaise, Citrus Blender Mayonnaise"
+      ],
+      "tags": [
+        "condiment",
+        "mayonnaise",
+        "homemade",
+        "dressing"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5517 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "green-goddess-dressing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Green Goddess Dressing",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 356",
+      "description": "Creamy herb dressing with anchovy - transforms into a refreshing vegetable dip without the milk.",
+      "servings_yield": "about 1 cup (sixteen 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "packed parsley leaves",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dairy sour cream or plain yogurt",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "anchovy paste or 1 anchovy fillet",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried tarragon",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 to 2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a blender container or food processor bowl combine parsley, mayonnaise, sour cream, onion, vinegar, anchovy paste, basil, garlic powder, and tarragon. Cover and blend or process till smooth."
+        },
+        {
+          "step": 2,
+          "text": "Cover and store in the refrigerator up to 2 weeks. Before serving, stir in milk to make of desired consistency. Makes about 1 cup (sixteen 1-tablespoon servings)."
+        }
+      ],
+      "tags": [
+        "dressing",
+        "green-goddess",
+        "herb",
+        "anchovy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5518 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "thousand-island-dressing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Thousand Island Dressing",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 356",
+      "description": "Classic creamy dressing with chili sauce and eggs.",
+      "servings_yield": "1 1/4 cups (twenty-four 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chili sauce",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "hard-cooked egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "pimiento-stuffed olives",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "green or sweet red pepper",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "Worcestershire sauce or prepared horseradish",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 to 2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine mayonnaise and chili sauce. Stir in egg, olives, sweet pepper, onion, and, if desired, Worcestershire sauce."
+        },
+        {
+          "step": 2,
+          "text": "Cover; store in the refrigerator up to 1 week. If necessary, stir in milk to make of desired consistency. Makes 1 1/4 cups (twenty-four 1-tablespoon servings)."
+        }
+      ],
+      "tags": [
+        "dressing",
+        "thousand-island",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5518 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "vinaigrette-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vinaigrette",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 358",
+      "description": "Basic oil and vinegar dressing with herbs.",
+      "servings_yield": "1/4 cup (twelve 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "salad oil",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "white wine vinegar or vinegar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped fresh thyme, oregano, or basil; or 1/2 teaspoon dried thyme, oregano, or basil, crushed",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard or 1 teaspoon Dijon-style mustard",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a screw-top jar mix oil, vinegar, sugar, herb, paprika, mustard, if desired, and pepper. Cover; shake well."
+        },
+        {
+          "step": 2,
+          "text": "Store in the refrigerator up to 2 weeks. Shake before serving. Makes 3/4 cup (twelve 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "Variations: French, Italian, Red Wine, Garlic, Onion, Ginger, Citrus and Poppy Seed Vinaigrette"
+      ],
+      "tags": [
+        "dressing",
+        "vinaigrette",
+        "basic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5520 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "white-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "White Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 361",
+      "description": "Basic white sauce - the foundation for many variations.",
+      "servings_yield": "3/4 cup (twelve 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan melt margarine or butter. Stir in flour, salt, and pepper. Add milk all at once."
+        },
+        {
+          "step": 2,
+          "text": "Cook and stir over medium heat till thickened and bubbly. Cook and stir 1 minute more. Makes 3/4 cup (twelve 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "Microwave directions available",
+        "Variations: Low-Calorie, Almond, Cheese, Curry, Herb-Garlic, Lemon-Chive, Mexicali, Parmesan, Sherry"
+      ],
+      "tags": [
+        "sauce",
+        "white-sauce",
+        "basic",
+        "bechamel"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5522 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "blue-cheese-dressing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blue Cheese Dressing",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 357",
+      "description": "Creamy dressing with crumbled blue cheese.",
+      "servings_yield": "1 1/2 cups (twenty 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "plain yogurt or dairy sour cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cream-style cottage cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "crumbled blue cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2 to 3",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a blender container or food processor bowl combine yogurt or sour cream, cottage cheese, mayonnaise, and 1/4 cup of the blue cheese. Cover and blend or process till smooth."
+        },
+        {
+          "step": 2,
+          "text": "Stir in remaining blue cheese. If necessary, stir in milk to make of desired consistency. Cover and store in the refrigerator up to 2 weeks. Makes 1 1/2 cups (twenty 1-tablespoon servings)."
+        }
+      ],
+      "tags": [
+        "dressing",
+        "blue-cheese",
+        "creamy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5519 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "hollandaise-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hollandaise Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 362",
+      "description": "A classic creamy sauce with a rich lemon flavor.",
+      "servings_yield": "3/4 cup (twelve 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg yolks",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "white pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut margarine or butter into thirds and bring it to room temperature."
+        },
+        {
+          "step": 2,
+          "text": "In the top of a double boiler combine egg yolks, water, lemon juice, pepper, and dash salt. Add one piece of the margarine or butter. Place over boiling water (upper pan should not touch water). Cook, stirring rapidly, till margarine melts and sauce begins to thicken."
+        },
+        {
+          "step": 3,
+          "text": "Add the remaining margarine or butter, a piece at a time, stirring constantly. Cook and stir till sauce thickens (1 to 2 minutes). Immediately remove from heat. If sauce is too thick or curdles, immediately beat in 1 to 2 tablespoons hot tap water."
+        },
+        {
+          "step": 4,
+          "text": "Serve the sauce with cooked vegetables, poultry, fish, or eggs. Makes about 3/4 cup (twelve 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "Microwave directions available"
+      ],
+      "tags": [
+        "sauce",
+        "hollandaise",
+        "classic",
+        "french",
+        "eggs-benedict"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5523 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "bearnaise-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "B\u00e9arnaise Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 363",
+      "description": "Classic French sauce with tarragon - perfect for steak.",
+      "servings_yield": "3/4 cup (twelve 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "white wine vinegar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped green onion",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped fresh tarragon or 1/4 teaspoon dried tarragon, crushed",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped fresh chervil or pinch dried chervil, crushed",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "white pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg yolks",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut margarine into thirds and bring it to room temperature. In a small saucepan combine vinegar, onion, tarragon, chervil, and pepper. Bring to boiling; boil 2 minutes on high or till reduced by about half."
+        },
+        {
+          "step": 2,
+          "text": "In the top of a double boiler combine yolks, 1 tablespoon water, and vinegar mixture. Add one piece of the margarine. Place over boiling water (upper pan should not touch water). Cook, stirring rapidly, till margarine melts and sauce begins to thicken."
+        },
+        {
+          "step": 3,
+          "text": "Add remaining margarine, a piece at a time, stirring constantly. Cook and stir till thickened (1 to 2 minutes). Immediately remove from heat. If sauce is too thick or curdles, immediately beat in 1 to 2 tablespoons hot tap water."
+        },
+        {
+          "step": 4,
+          "text": "Serve with beef, pork, or poultry. Makes 3/4 cup (twelve 1-tablespoon servings)."
+        }
+      ],
+      "tags": [
+        "sauce",
+        "bearnaise",
+        "french",
+        "steak",
+        "tarragon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5524 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "sweet-sour-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet-Sour Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 363",
+      "description": "Perfect for spareribs, egg rolls, or fried wontons.",
+      "servings_yield": "1 1/4 cups (twenty 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "red wine vinegar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "unsweetened pineapple juice",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan combine brown sugar and cornstarch. Stir in vinegar, pineapple juice, green pepper, pimiento, soy sauce, garlic powder, and ginger."
+        },
+        {
+          "step": 2,
+          "text": "Cook and stir till thickened and bubbly. Cook and stir 2 minutes more."
+        },
+        {
+          "step": 3,
+          "text": "Serve warm with spareribs, egg rolls, or fried wontons. Makes about 1 1/4 cups (twenty 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "FAST recipe tag",
+        "Microwave directions available"
+      ],
+      "tags": [
+        "sauce",
+        "sweet-sour",
+        "asian",
+        "chinese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5524 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "basic-barbecue-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Basic Barbecue Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 364",
+      "description": "Vary the hotness by adjusting the amount of hot pepper sauce.",
+      "servings_yield": "1 1/2 cups (twenty-eight 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "catsup",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped onion or 1 tablespoon dried minced onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 to 2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "celery seed",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "several dashes"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan combine catsup, onion, vinegar, sugar, Worcestershire sauce, celery seed, hot pepper sauce, 1/2 cup water, and 1/4 teaspoon salt."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boiling; reduce heat. Simmer 10 to 15 minutes or to desired consistency."
+        },
+        {
+          "step": 3,
+          "text": "Brush on beef, pork, or poultry during the last 10 to 20 minutes of grilling or roasting. If desired, pass remaining sauce. Makes 1 1/2 cups (twenty-eight 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "Hot-Style Barbecue Sauce: Add 1 teaspoon chili powder and 1/2 teaspoon ground red pepper with the catsup",
+        "Tangy Mustard Barbecue Sauce: Omit celery seed. Add 2 tablespoons prepared mustard and 1/4 teaspoon garlic powder with the catsup"
+      ],
+      "tags": [
+        "sauce",
+        "barbecue",
+        "bbq",
+        "grilling"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5525 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "tartar-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tartar Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 364",
+      "description": "Classic accompaniment for fish and seafood.",
+      "servings_yield": "1 1/4 cups (twenty 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped sweet or dill pickle or dill pickle relish",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "drained"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "diced pimiento",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine mayonnaise or salad dressing, pickle, onion, parsley, pimiento, and lemon juice."
+        },
+        {
+          "step": 2,
+          "text": "Cover and chill at least 2 hours before serving. Store in the refrigerator up to 2 weeks."
+        },
+        {
+          "step": 3,
+          "text": "Serve with fish or seafood. Makes 1 1/4 cups (twenty 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "EASY recipe tag",
+        "Low-Fat Tartar Sauce: Substitute 1/3 cup reduced-calorie mayonnaise or salad dressing and 2/3 cup plain yogurt for the mayonnaise. Omit lemon juice."
+      ],
+      "tags": [
+        "sauce",
+        "tartar",
+        "seafood",
+        "fish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5525 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "cranberry-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 365",
+      "description": "Fresh homemade cranberry sauce for the holidays.",
+      "servings_yield": "about 2 cups (eight 1/4-cup servings)",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cranberries",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "8 ounces"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan combine sugar and 1 cup water. Bring to boiling, stirring to dissolve sugar. Boil rapidly for 5 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Add cranberries. Return to boiling; reduce heat. Boil gently over medium-high heat for 3 to 4 minutes or till skins pop, stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "Remove from heat. Serve warm or chilled with beef, pork, or poultry. Makes about 2 cups (eight 1/4-cup servings)."
+        }
+      ],
+      "notes": [
+        "Molded Cranberry Sauce: Cook cranberry mixture for 13 to 16 minutes or till a drop gels on a cold plate. Pour into a 1 1/2-cup mold; chill till firm. Unmold.",
+        "Almond Cranberry Sauce: Substitute 1/3 cup honey for the sugar. Boil 8 minutes before adding cranberries. After removing from heat, stir in 1/4 cup apricot or peach preserves or orange marmalade and 1/4 cup toasted sliced almonds."
+      ],
+      "tags": [
+        "sauce",
+        "cranberry",
+        "thanksgiving",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5526 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "plum-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Plum Sauce",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 365",
+      "description": "Asian-inspired sauce for beef, lamb, pork, or poultry.",
+      "servings_yield": "3/4 cup (twelve 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "red plum jam",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan combine red plum jam, sliced green onion, and cornstarch. Add dry sherry, soy sauce, and vinegar."
+        },
+        {
+          "step": 2,
+          "text": "Cook and stir till bubbly. Cook and stir 2 minutes more."
+        },
+        {
+          "step": 3,
+          "text": "Serve with beef, lamb, pork, or poultry. Makes 3/4 cup (twelve 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "FAST recipe tag",
+        "Microwave directions available"
+      ],
+      "tags": [
+        "sauce",
+        "plum",
+        "asian",
+        "chinese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5526 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "cranberry-orange-relish-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry-Orange Relish",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 366",
+      "description": "Fresh relish that can be stored in the refrigerator up to 2 weeks or frozen up to 6 months.",
+      "servings_yield": "3 3/4 cups (fifteen 1/4-cup servings)",
+      "ingredients": [
+        {
+          "item": "medium oranges",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh cranberries",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "1 pound"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped walnuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Finely shred 1 tablespoon orange peel. Peel and section oranges. Using a food processor or food grinder with a coarse blade, process or grind orange sections and cranberries. (If using a food processor, process half at a time.)"
+        },
+        {
+          "step": 2,
+          "text": "Stir in sugar, walnuts, and orange peel. Cover and store in the refrigerator up to 2 weeks or freeze up to 6 months."
+        },
+        {
+          "step": 3,
+          "text": "Serve with ham or poultry. Makes 3 3/4 cups (fifteen 1/4-cup servings)."
+        }
+      ],
+      "tags": [
+        "relish",
+        "cranberry",
+        "orange",
+        "thanksgiving",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5527 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "salsa-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salsa",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 368",
+      "description": "Boost the flavor of omelets or scrambled eggs by spooning this spicy sauce over them.",
+      "servings_yield": "about 2 cups (thirty-two 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "finely chopped, peeled tomato",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "diced green chili peppers",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "one can, drained"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped cilantro or parsley",
+          "quantity": "1 to 2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "several dashes (optional)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine tomato; tomato sauce; chili peppers; green onion; green pepper; cilantro or parsley; lemon juice; garlic; hot pepper sauce, if desired; and 1/8 teaspoon pepper."
+        },
+        {
+          "step": 2,
+          "text": "Place about half of the tomato mixture in a blender container or food processor bowl. Cover and blend or process till smooth. Stir in remaining tomato mixture."
+        },
+        {
+          "step": 3,
+          "text": "Cover and chill at least 4 hours before serving, stirring occasionally. Store in refrigerator up to 1 week. Use as a dip for tortilla chips or spoon over main dishes or vegetables. Makes about 2 cups (thirty-two 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "Salsa Verde: Prepare as above, except omit tomato and tomato sauce. Add 6 to 8 fresh tomatillos, finely chopped, or one 13-ounce can tomatillos, rinsed, drained, and finely chopped, to chili pepper mixture. Makes about 1 3/4 cups."
+      ],
+      "tags": [
+        "salsa",
+        "mexican",
+        "dip",
+        "condiment"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5529 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "papaya-apple-chutney-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Papaya-Apple Chutney",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 367",
+      "description": "Chutneys are often served as a condiment with highly spiced dishes.",
+      "servings_yield": "2 1/4 cups (thirty-six 1-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "medium tart cooking apples",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "peeled, cored, and chopped (2 cups)"
+        },
+        {
+          "item": "medium papaya",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "seeded, peeled, and chopped (1 1/2 cups)"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lime or lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "slivered almonds",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "toasted (optional)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan combine apples, papaya, brown sugar, green pepper, vinegar, raisins, water, onion, lime or lemon juice, salt, and garlic."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boiling; reduce heat. Simmer for 30 minutes, stirring occasionally. Cool. Cover and store in the refrigerator up to 4 weeks. Or freeze up to 12 months."
+        },
+        {
+          "step": 3,
+          "text": "Before serving, if desired, stir in almonds. Serve with beef, ham, lamb, pork, or poultry. Makes about 2 1/4 cups (thirty-six 1-tablespoon servings)."
+        }
+      ],
+      "notes": [
+        "Pineapple-Date Chutney: Prepare as above, except omit apples, papaya, and raisins. Combine 1/2 of a medium pineapple, peeled, cored, and chopped (about 2 cups), or one 20-ounce can pineapple chunks, drained, 3/4 cup pitted whole dates, snipped, and 1/4 teaspoon ground cinnamon with vinegar mixture."
+      ],
+      "tags": [
+        "chutney",
+        "papaya",
+        "apple",
+        "indian",
+        "condiment"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5528 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "cucumber-relish-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cucumber Relish",
+      "category": "condiments",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 367",
+      "description": "Fresh cucumber relish for frankfurters or hamburgers.",
+      "servings_yield": "1 1/4 cups (ten 2-tablespoon servings)",
+      "ingredients": [
+        {
+          "item": "large cucumber",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "12 ounces"
+        },
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried dillweed or dried mint",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "several dashes"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Slice cucumber in half lengthwise; scoop out seeds and discard. Using a food processor or food grinder with a coarse blade, process or grind cucumber and onion (or finely chop by hand)."
+        },
+        {
+          "step": 2,
+          "text": "Drain. Stir in vinegar, sugar, oil, dillweed or mint, salt, and hot pepper sauce. Chill at least 8 hours before serving."
+        },
+        {
+          "step": 3,
+          "text": "Cover; store in the refrigerator up to 1 week. Serve with frankfurters or hamburgers. Makes 1 1/4 cups (ten 2-tablespoon servings)."
+        }
+      ],
+      "tags": [
+        "relish",
+        "cucumber",
+        "pickled",
+        "condiment"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5528 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "beef-stew-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beef Stew",
+      "category": "soups",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 371",
+      "description": "Hearty classic beef stew with vegetables.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beef or pork stew meat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable juice cocktail",
+          "quantity": "3 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "instant beef bouillon granules",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried thyme",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "cubed, peeled potatoes",
+          "quantity": "2 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced carrots",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place flour in a plastic bag. Add meat cubes, a few at a time, shaking to coat."
+        },
+        {
+          "step": 2,
+          "text": "In a large saucepan or Dutch oven brown meat, half at a time, in hot oil. Return meat to saucepan. Add juice cocktail, onion, bouillon granules, garlic, basil, and thyme."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover; simmer 1 to 1 1/4 hours for beef (30 minutes for pork) or till meat is nearly tender. Add potatoes, carrots, and celery. Cover; simmer 30 minutes more. Skim fat. Makes 4 main-dish servings."
+        }
+      ],
+      "notes": [
+        "Crockery-cooker directions: Prepare and brown meat as above. In the bottom of a 3 1/2- or 4-quart electric crockery cooker layer onion, potatoes, carrots, and celery. Sprinkle with bouillon granules, garlic, basil, and thyme; add meat. Pour 2 1/2 cups vegetable juice cocktail over meat. Cover; cook on low-heat setting for 10 to 12 hours or till meat and vegetables are tender."
+      ],
+      "tags": [
+        "stew",
+        "beef",
+        "main-dish",
+        "comfort-food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5532 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "beef-broth-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beef Broth",
+      "category": "soups",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 372",
+      "description": "Rich homemade beef broth from roasted soupbones.",
+      "servings_yield": "about 8 cups broth",
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "ingredients": [
+        {
+          "item": "meaty beef soupbones (shank crosscuts, short ribs, or arm bones)",
+          "quantity": "4",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "carrots",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "medium onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "stalks celery with leaves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "sprigs parsley",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "whole black peppers",
+          "quantity": "10",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil or thyme",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "halved"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place soupbones in a large shallow roasting pan. Bake in a 450\u00b0 oven about 30 minutes or till well browned, turning once. Place soupbones in a large Dutch oven. Pour 1/2 cup water into the roasting pan, scraping up crusty browned bits. Add water mixture to Dutch oven. Add carrots, onions, celery, parsley, peppers, bay leaves, basil, garlic, 10 cups water, and 1 teaspoon salt."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boiling; reduce heat. Cover and simmer 3 1/2 hours. Remove soupbones."
+        },
+        {
+          "step": 3,
+          "text": "Pour broth through a large sieve or colander lined with 2 layers of cheesecloth. Discard vegetables and seasonings. If desired, clarify broth (see tip, below). If using the broth while hot, skim fat. (Or chill broth, then lift off fat.) If desired, when bones are cool enough to handle, remove meat from bones and reserve meat for another use. Discard bones."
+        },
+        {
+          "step": 4,
+          "text": "Store broth and reserved meat, if any, in separate covered containers in the refrigerator up to 3 days or in the freezer up to 6 months. Makes about 8 cups broth."
+        }
+      ],
+      "tags": [
+        "broth",
+        "beef",
+        "stock",
+        "base",
+        "homemade"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5533 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "quick-vegetable-beef-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Quick Vegetable-Beef Soup",
+      "category": "soups",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 372",
+      "description": "Using ground beef and frozen vegetables yields soup in a jiffy.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beef broth",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "see recipe, left, or tip, opposite"
+        },
+        {
+          "item": "frozen mixed vegetables",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": "one package"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "7.5",
+          "unit": "oz",
+          "prep_note": "one can, cut up"
+        },
+        {
+          "item": "cubed, peeled potato",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced celery",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried marjoram",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large Dutch oven or kettle cook beef and onion till beef is brown and onion is tender. Drain fat."
+        },
+        {
+          "step": 2,
+          "text": "Stir in beef broth, mixed vegetables, undrained tomatoes, potato, celery, marjoram, oregano, salt, pepper, and bay leaf."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover; simmer for 15 to 20 minutes or till vegetables are tender. Discard bay leaf. Makes 4 main-dish servings."
+        }
+      ],
+      "notes": [
+        "EASY recipe tag in cookbook"
+      ],
+      "tags": [
+        "soup",
+        "beef",
+        "vegetable",
+        "quick",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5533 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-broth-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Broth",
+      "category": "soups",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 373",
+      "description": "For richer color, use an unpeeled yellow onion.",
+      "servings_yield": "about 5 cups broth and 2 1/2 cups meat",
+      "ingredients": [
+        {
+          "item": "bony chicken pieces (backs, necks, and wings from 2 chickens)",
+          "quantity": "2.5",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "stalks celery with leaves",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "carrots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "sprigs parsley",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried thyme, sage, or basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large Dutch oven or kettle place chicken pieces, celery, carrots, onion, parsley, salt, thyme, sage, or basil, pepper, and bay leaves. Add water."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boiling; reduce heat. Cover and simmer for 2 hours. Remove chicken."
+        },
+        {
+          "step": 3,
+          "text": "To strain, pour broth through a large sieve or colander lined with 2 layers of cheesecloth. Discard vegetables and seasonings. If desired, clarify broth (see tip, opposite). If using the broth while hot, skim fat. (Or chill broth, then lift off fat.) If desired, when bones are cool enough to handle, remove meat from bones and reserve meat for another use. Discard bones."
+        },
+        {
+          "step": 4,
+          "text": "Store broth and reserved meat, if any, in separate covered containers in the refrigerator up to 3 days or in the freezer up to 6 months. Makes about 5 cups broth and 2 1/2 cups meat."
+        }
+      ],
+      "notes": [
+        "Crockery-cooker directions: In a 3 1/2- or 4-quart electric crockery cooker combine chicken pieces, celery, carrots, onion, parsley, salt, thyme, sage, or basil, pepper, bay leaves, and 4 cups water. Cover and cook on low-heat setting for 8 to 10 hours. Remove chicken. Strain and store broth and meat as above."
+      ],
+      "tags": [
+        "broth",
+        "chicken",
+        "stock",
+        "base",
+        "homemade"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5534 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "alphabet-meatball-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Alphabet-Meatball Soup",
+      "category": "soups",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 373",
+      "description": "Fun soup for kids with tiny meatballs and alphabet pasta.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "beef broth",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "see recipe, opposite, or tip, below"
+        },
+        {
+          "item": "dark red kidney beans",
+          "quantity": "15.5",
+          "unit": "oz",
+          "prep_note": "one can"
+        },
+        {
+          "item": "stewed tomatoes",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one can"
+        },
+        {
+          "item": "thinly sliced carrot",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried Italian seasoning",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "alphabet pasta or other small pasta",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh spinach",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "coarsely chopped, or 1/2 of a 10-ounce package frozen chopped spinach, thawed and well drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, bread crumbs, parsley, Parmesan cheese, garlic salt, and pepper. Add ground beef; mix well. Shape meat mixture into sixteen 1-inch balls."
+        },
+        {
+          "step": 2,
+          "text": "In a medium saucepan combine beef broth, undrained beans, tomatoes, carrot, and Italian seasoning. Bring to boiling."
+        },
+        {
+          "step": 3,
+          "text": "Drop meatballs, one at a time, into hot broth mixture. Add pasta. Return to boiling; reduce heat. Cover and simmer for 10 to 12 minutes or till meatballs are no longer pink."
+        },
+        {
+          "step": 4,
+          "text": "Stir in spinach and heat through. Season to taste. Makes 4 main-dish servings."
+        }
+      ],
+      "tags": [
+        "soup",
+        "meatball",
+        "kids",
+        "pasta",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5534 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
       }
     }
   ],
