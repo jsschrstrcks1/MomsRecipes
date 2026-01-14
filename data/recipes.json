@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-13",
     "version": "3.0.2",
-    "total_recipes": 1389
+    "total_recipes": 1393
   },
   "recipes": [
     {
@@ -138750,6 +138750,411 @@
       "image_refs": [
         "IMG_5320 Large.jpeg",
         "IMG_5321 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cookie-chalets-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cookie Chalets",
+      "category": "cookies",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cakes, Cookies, Candies card",
+      "description": "These tiny houses, baked from a spiced cookie dough, are fun to decorate. Cover them with almond roofs and build red-hot cinnamon doors.",
+      "servings_yield": "24 cookies",
+      "prep_time": "2 hrs or up to 1 wk ahead",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2\u00bd",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "shortening",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "light molasses",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "\u00be",
+          "unit": "tsp"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "Sliced blanched almonds for decoration",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "Cinnamon red-hot candies for decoration",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Into large bowl, measure all the ingredients except almonds and candies. With mixer at low speed, beat ingredients until well blended, occasionally scraping bowl with rubber spatula. Shape the dough into a ball; wrap with plastic wrap or foil and refrigerate 1 hour or until dough is firm enough to handle. (Or, place dough in freezer 30 minutes.)"
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, from cardboard, with scissors, cut a 2\u00bd\" by 1\u00bd\" house-shaped pattern."
+        },
+        {
+          "step": 3,
+          "text": "On lightly floured surface with lightly floured rolling pin, gently roll out half of dough to \u215b-inch thick."
+        },
+        {
+          "step": 4,
+          "text": "Using pattern, cut as many cookie houses as possible. With pancake turner, place cookies on ungreased cookie sheet, about \u00bd inch apart."
+        },
+        {
+          "step": 5,
+          "text": "Preheat oven to 350\u00b0F. Arrange pecan or almond slices on top of each cookie to resemble a roof."
+        },
+        {
+          "step": 6,
+          "text": "Press cinnamon red-hot candies into each cookie to resemble a door. Bake cookies 5 to 6 minutes or until set (do not overbake or candies will melt). With pancake turner or metal spatula, remove cookies to wire racks to cool. Repeat with the remaining dough, trimmings, almonds, and candies. Store cookies in tightly-covered container to use up within 1 week."
+        }
+      ],
+      "notes": [
+        "125 cals per cookie"
+      ],
+      "tags": [
+        "cookies",
+        "christmas",
+        "holiday",
+        "gingerbread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5166 Large.jpeg"
+      ]
+    },
+    {
+      "id": "gingerbread-men-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Gingerbread Men",
+      "category": "cookies",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cakes, Cookies, Candies card",
+      "description": "These Pennsylvania Dutch spice cookies are Christmastime favorites; decorating them is always fun for the children.",
+      "servings_yield": "24 cookies",
+      "prep_time": "3 hrs or up to 1 wk ahead",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "3\u00bd",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "shortening",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "light molasses",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "Ornamental Cookie Frosting (p.338)",
+          "quantity": "\u00bd",
+          "unit": "quantity"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F. Into large bowl, measure all the ingredients except Ornamental Cookie Frosting. With mixer at low speed, beat the ingredients until well mixed, occasionally scraping the bowl with rubber spatula. Shape dough into a ball; wrap with plastic wrap and refrigerate 1 hour or until dough is firm enough to handle. (Or, place in the freezer 30 minutes.)"
+        },
+        {
+          "step": 2,
+          "text": "On lightly floured surface with lightly floured rolling pin, roll dough \u00bc-inch thick."
+        },
+        {
+          "step": 3,
+          "text": "With 4\u00bd-inch-long gingerbread man cookie cutter, cut out as many cookies as possible."
+        },
+        {
+          "step": 4,
+          "text": "With metal spatula, place cookies, about \u00bd inch apart, on ungreased cookie sheets."
+        },
+        {
+          "step": 5,
+          "text": "Re-roll trimmings and cut again. Bake cookies 8 minutes or until browned. With pancake turner, remove cookies to wire racks to cool. When the cookies are cooled, prepare the Ornamental Cookie Frosting."
+        },
+        {
+          "step": 6,
+          "text": "With frosting in waxed paper cone or decorating bag fitted with small writing tube, decorate cookies. Leave frosting to dry. Store cookies in tightly-covered container to use within 1 week."
+        }
+      ],
+      "notes": [
+        "140 cals per cookie"
+      ],
+      "tags": [
+        "cookies",
+        "christmas",
+        "holiday",
+        "gingerbread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5166 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chocolate-fudge-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chocolate Fudge",
+      "category": "candy",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cakes, Cookies, Candies card",
+      "servings_yield": "32 pieces",
+      "prep_time": "2\u00bd hrs ahead",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "light corn syrup",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "unsweetened chocolate",
+          "quantity": "2",
+          "unit": "squares"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "chopped walnuts or pecans",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large saucepan over medium heat, heat sugar, milk, corn syrup, and unsweetened chocolate squares to boiling, stirring constantly."
+        },
+        {
+          "step": 2,
+          "text": "Set candy thermometer in place and continue cooking, stirring occasionally, until temperature reaches 238\u00b0F, or until a small amount of mixture dropped into very cold water forms a soft ball."
+        },
+        {
+          "step": 3,
+          "text": "Remove from heat; immediately add butter or margarine and vanilla extract."
+        },
+        {
+          "step": 4,
+          "text": "Cool mixture, without stirring, to 110\u00b0F, or until outside of saucepan feels lukewarm to hand. Meanwhile, butter 8\" by 8\" baking pan."
+        },
+        {
+          "step": 5,
+          "text": "With spoon, beat until mixture becomes thick and begins to lose its gloss. Quickly stir in nuts; pour into pan. (Don't scrape saucepan; mixture on side may be sugary.) Cool in pan; when cold, cut into 32 squares."
+        }
+      ],
+      "notes": [
+        "122 cals per piece",
+        "Peanut Butter Fudge: Prepare as above but use \u00bc cup creamy peanut butter for butter and substitute 1 cup chopped salted peanuts for walnuts. Makes 32 pieces. 160 cals per piece.",
+        "Chocolate-Marshmallow Fudge: Prepare as above but stir in 1 cup miniature marshmallows just before pouring mixture into pan. Makes 32 pieces. 126 cals per piece."
+      ],
+      "tags": [
+        "candy",
+        "fudge",
+        "chocolate"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5167 Large.jpeg",
+        "IMG_5168 Large.jpeg"
+      ]
+    },
+    {
+      "id": "candy-apples-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Candy Apples",
+      "category": "candy",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cakes, Cookies, Candies card",
+      "description": "A classic fair treat - bright red candy-coated apples on a stick.",
+      "servings_yield": "8 apples",
+      "prep_time": "Begin early in day",
+      "ingredients": [
+        {
+          "item": "small Red Delicious apples",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "item": "wooden ice-cream-bar sticks",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "light corn syrup",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "red-hot candies",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "red food color",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Early in day: Wash and thoroughly dry apples; carefully insert a wooden stick part way through stem end of each. Grease large cookie sheet; set aside."
+        },
+        {
+          "step": 2,
+          "text": "In medium saucepan over medium heat, heat remaining ingredients to boiling, stirring frequently until sugar and candies are dissolved."
+        },
+        {
+          "step": 3,
+          "text": "Set candy thermometer in place and continue cooking, without stirring, until temperature reaches 290\u00b0F or until a small amount of mixture dropped into very cold water separates into thin, hard threads, about 20 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Immediately remove syrup from heat and dip in apples: Tip saucepan and swirl each apple in mixture to coat evenly; lift out apple and swirl over saucepan a few more seconds to catch drips. Place apples on greased cookie sheet to cool. Work quickly before syrup hardens; if it does harden, place over very low heat to soften. Cool apples for at least 1 hour before serving."
+        }
+      ],
+      "notes": [
+        "416 cals per apple"
+      ],
+      "tags": [
+        "candy",
+        "apples",
+        "fair food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5168 Large.jpeg",
+        "IMG_5169 Large.jpeg"
       ]
     }
   ],
