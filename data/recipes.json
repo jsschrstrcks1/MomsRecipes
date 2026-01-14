@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-13",
     "version": "3.0.2",
-    "total_recipes": 1366
+    "total_recipes": 1380
   },
   "recipes": [
     {
@@ -137060,6 +137060,949 @@
       "image_refs": [
         "IMG_5602 Large.jpeg",
         "IMG_5603 Large.jpeg"
+      ]
+    },
+    {
+      "id": "yeast-bread-tips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Yeast-Bread Tips",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 37",
+      "description": "Essential tips for making great yeast breads.",
+      "instructions": [
+        {
+          "step": 1,
+          "text": "When a recipe gives a range for the flour amount, use the minimum as a guide and knead in as much of the remaining flour as you can."
+        },
+        {
+          "step": 2,
+          "text": "Knead the dough to the stiffness called for in the recipe. Kneading develops the gluten of the flour, which determines the final structure of the bread loaf."
+        },
+        {
+          "step": 3,
+          "text": "To knead, fold the dough over and push down with the heel of your hand, curving your fingers over the dough. Give the dough a quarter-turn, then fold over and push down again. Continue this fold-push-turn procedure until the dough is smooth and elastic."
+        },
+        {
+          "step": 4,
+          "text": "Don't raise dough in a hot area because excessive heat will kill the yeast. Too much cold, on the other hand, will stunt the yeast's growth. The optimum temperature for raising dough is 80\u00b0F."
+        },
+        {
+          "step": 5,
+          "text": "For best results, place the bowl of dough in an unheated oven, then set a large pan of hot water under the bowl on the oven's lower rack."
+        },
+        {
+          "step": 6,
+          "text": "Let dough rise till it's nearly doubled in size. Don't let loaves rise to the top of the pan because the dough needs room to rise as it bakes."
+        },
+        {
+          "step": 7,
+          "text": "For a soft and shiny crust, brush loaves with margarine or butter after baking. For a glossy, crispy crust, brush before baking with milk, water, or beaten egg."
+        },
+        {
+          "step": 8,
+          "text": "Test for doneness by tapping the top of the loaf with your finger. A hollow sound means the loaf is properly baked."
+        },
+        {
+          "step": 9,
+          "text": "If you live at a high altitude, expect yeast doughs to rise faster than at sea level. The higher you live, the faster the doughs will rise."
+        }
+      ],
+      "notes": [
+        "Dough Stiffness Guide:",
+        "Soft dough - too sticky to knead, often used for batter breads",
+        "Moderately soft dough - slightly sticky, may be kneaded on a floured surface, used for most sweet breads",
+        "Moderately stiff dough - somewhat firm to the touch, kneads easily on a floured surface, used for most unsweet breads",
+        "Stiff dough - firm to the touch and easily rolled on a floured surface. French bread is made from this type of dough."
+      ],
+      "tags": [
+        "tips",
+        "reference",
+        "bread",
+        "yeast",
+        "baking"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5202 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cake-baking-tips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cake Baking Tips",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 75",
+      "description": "Essential tips for baking perfect cakes.",
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Use the exact ingredients listed in a recipe. Substitutions, such as shortening for margarine or butter, will alter the cake's texture and flavor."
+        },
+        {
+          "step": 2,
+          "text": "Turn your oven on to preheat, then start mixing your cake. Your oven should be preheated (allow 10 to 15 minutes) at about the same time you're done mixing the cake."
+        },
+        {
+          "step": 3,
+          "text": "Cool layer cakes in their pans on wire racks for 10 minutes (loaf cakes, 15 minutes), then loosen the edges. Place an inverted rack on each cake and turn over; lift off the pan. Place a second rack over the cake and invert again."
+        },
+        {
+          "step": 4,
+          "text": "Invert angel, sponge, and chiffon cakes in their pans as soon as they are removed from the oven to prevent them from shrinking or falling. Then cool completely."
+        }
+      ],
+      "tags": [
+        "tips",
+        "reference",
+        "cake",
+        "baking"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5240 Large.jpeg"
+      ]
+    },
+    {
+      "id": "candy-temperature-stages-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Candy Temperature Stages",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook pages 92-93",
+      "description": "Essential guide to candy-making temperature stages and testing methods.",
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Testing Candy Mixtures: The easiest way to make sure your candy comes out right is with a candy thermometer. Always begin each candy-making session by checking your thermometer's accuracy. Place the thermometer in boiling water for a few minutes, then read it. If the thermometer registers above or below 212\u00b0F, add or subtract the same difference in degrees from the recipe temperature."
+        },
+        {
+          "step": 2,
+          "text": "For an accurate reading, make sure the bulb of the thermometer is completely covered with liquid, not just foam, and that it doesn't touch the bottom of the pan."
+        },
+        {
+          "step": 3,
+          "text": "Cold Water Test: If you don't own a candy thermometer, use the following test. Working quickly, drop a few drops of the hot mixture from a spoon into a cup of very cold (but not icy) water. With your fingers, form the drops into a ball. Remove the ball from the water. The firmness of the ball will indicate the temperature of the mixture."
+        }
+      ],
+      "notes": [
+        "1. Thread stage (230\u00b0 to 233\u00b0F): When a teaspoon is dipped into the hot mixture, then removed, the candy falls off the spoon in a fine, thin thread.",
+        "2. Soft-ball stage (234\u00b0 to 240\u00b0F): When the ball of candy is removed from the cold water, the candy instantly flattens and runs between your fingers.",
+        "3. Firm-ball stage (244\u00b0 to 248\u00b0F): When the ball of candy is removed from the water, it is firm enough to hold its shape, but quickly flattens at room temperature.",
+        "4. Hard-ball stage (250\u00b0 to 266\u00b0F): When the ball of candy is removed from the water, it doesn't flatten until pressed.",
+        "5. Soft-crack stage (270\u00b0 to 290\u00b0F): When dropped into water, the candy separates into hard, but pliable and elastic, threads.",
+        "6. Hard-crack stage (295\u00b0 to 310\u00b0F): When dropped into water, the candy separates into hard, brittle threads that snap easily.",
+        "Storing Candies: Most candies will stay fresh for two to three weeks if kept tightly covered in a cool, dry place. Store different types of candies separately. Layer brittles and toffees between sheets of waxed paper in airtight containers. Wrap fudge and fondant in foil or clear plastic wrap and place in airtight containers. Store divinity in airtight containers lined with waxed paper."
+      ],
+      "tags": [
+        "tips",
+        "reference",
+        "candy",
+        "temperature"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5256 Large.jpeg",
+        "IMG_5257 Large.jpeg"
+      ]
+    },
+    {
+      "id": "pickle-problems-tips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pickle Problems Troubleshooting",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 200",
+      "description": "Troubleshooting guide for common pickle-making problems.",
+      "notes": [
+        "Hollow pickles: cucumbers poorly developed or not fresh",
+        "Shriveled pickles: salt, sugar, or vinegar solution too strong",
+        "Soft or slippery pickles: too little salt, or too little processing time"
+      ],
+      "tags": [
+        "tips",
+        "reference",
+        "pickles",
+        "canning",
+        "troubleshooting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5361 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cheese-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Identification Guide",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 157",
+      "description": "Visual guide to identifying common cheese varieties by texture category.",
+      "notes": [
+        "SEMISOFT TO HARD: These mild cheeses are usually compact and chewy in texture - Curd cheese, String cheese, Edam",
+        "BLUE-VEINED: Crumbly and pleasantly sharp or pungent. These cheeses are used in salads, dips, and cooking - Gorgonzola, Roquefort, Blue cheese",
+        "HARD: Smooth-textured, the cheeses in this category are used in recipes or sliced for snacking - Asiago, Cheddar, Cheshire, Colby, Gjetost, Gloucester, Gouda, Gruy\u00e8re, Jarlsberg, Provolone, Swiss",
+        "VERY HARD: Sharp and granular, these cheeses are usually grated for cooking or for seasoning - Sapsago, Parmesan, Romano"
+      ],
+      "tags": [
+        "reference",
+        "cheese",
+        "identification"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5318 Large.jpeg"
+      ]
+    },
+    {
+      "id": "macadamia-meltaways-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Macadamia Meltaways",
+      "category": "cookies",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cakes, Cookies, Candies card",
+      "servings_yield": "40 cookies",
+      "prep_time": "2 hrs",
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "ingredients": [
+        {
+          "item": "macadamia nuts",
+          "quantity": "2",
+          "unit": "7\u00bd-oz jars"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "butter or margarine, softened",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "powdered confectioners' sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "almond extract",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In blender at medium speed, blend 1 cup nuts until finely ground; place in large bowl. Reserve remaining nuts for tops."
+        },
+        {
+          "step": 2,
+          "text": "Into bowl with ground nuts, measure remaining ingredients. Knead until blended and dough holds together."
+        },
+        {
+          "step": 3,
+          "text": "With hands, shape scant tablespoonfuls of dough into balls. Place 1 inch apart on ungreased cookie sheets; press reserved nuts into tops."
+        },
+        {
+          "step": 4,
+          "text": "Bake 12 to 15 minutes, until lightly browned. Remove to wire racks; cool."
+        }
+      ],
+      "notes": [
+        "96 cals per cookie"
+      ],
+      "tags": [
+        "cookies",
+        "macadamia",
+        "nuts"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5164 Large.jpeg"
+      ]
+    },
+    {
+      "id": "oatmeal-cookies-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oatmeal Cookies",
+      "category": "cookies",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cakes, Cookies, Candies card",
+      "servings_yield": "32 cookies",
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "shortening",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "packed light brown sugar",
+          "quantity": "\u00be",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground allspice",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "\u00bc",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "quick-cooking oats, uncooked",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "walnuts, chopped",
+          "quantity": "\u00be",
+          "unit": "cup"
+        },
+        {
+          "item": "dark seedless raisins",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375\u00b0F. Grease large cookie sheet. In large bowl, measure first 9 ingredients. With mixer at low speed, beat until well blended, scraping bowl with rubber spatula. With spoon, stir in oats, walnuts, and raisins."
+        },
+        {
+          "step": 2,
+          "text": "Drop dough by heaping tablespoonfuls, 2 inches apart, onto cookie sheet; bake 12 minutes."
+        },
+        {
+          "step": 3,
+          "text": "With metal spatula, remove cookies to wire racks to cool. Repeat until all dough is used, greasing cookie sheet each time."
+        }
+      ],
+      "tags": [
+        "cookies",
+        "oatmeal",
+        "raisins"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5164 Large.jpeg"
+      ]
+    },
+    {
+      "id": "coconut-macaroons-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Coconut Macaroons",
+      "category": "cookies",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cakes, Cookies, Candies card",
+      "servings_yield": "30 cookies",
+      "prep_time": "3 days ahead",
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "ingredients": [
+        {
+          "item": "egg whites, at room temperature",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "flaked coconut",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "\u2153",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 325\u00b0F. Lightly grease two cookie sheets."
+        },
+        {
+          "step": 2,
+          "text": "In small bowl with mixer at high speed, beat whites until soft peaks form. At high speed, beat in sugar, 2 tablespoons at a time, beating well after each addition until completely dissolved. Beat in vanilla and salt; whites should stand in stiff, glossy peaks. With rubber spatula, gently fold in coconut and flour."
+        },
+        {
+          "step": 3,
+          "text": "Drop by heaping teaspoonfuls, 1 inch apart, onto cookie sheets; bake 20 minutes, until lightly browned. With metal spatula, carefully remove cookies to wire racks; cool."
+        }
+      ],
+      "notes": [
+        "38 cals per cookie"
+      ],
+      "tags": [
+        "cookies",
+        "coconut",
+        "macaroons"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5164 Large.jpeg"
+      ]
+    },
+    {
+      "id": "christmas-tree-cookies-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Christmas Tree Cookies",
+      "category": "cookies",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Christmas Cookies card",
+      "description": "Making sugar cookies is a traditional holiday pastime. Use them as festive Christmas tree ornaments by making a small hole in the top of the cookie before baking; use ribbon to tie onto the branches.",
+      "servings_yield": "72 cookies",
+      "prep_time": "3\u00bd hrs or up to 1 wk ahead",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2\u00bd",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "butter or margarine, softened",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "almond extract",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "green sugar crystals",
+          "quantity": "about \u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "container confetti decors",
+          "quantity": "1",
+          "unit": "1\u00bd-oz"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Into a large bowl, measure all-purpose flour, sugar, margarine, baking powder, salt, almond extract, and egg. With electric mixer at low speed, beat the ingredients until well blended, occasionally scraping the bowl with rubber spatula. Dough may be crumbly. With hand, gently knead the dough until mixture holds together."
+        },
+        {
+          "step": 2,
+          "text": "Reserve \u00bc cup dough; wrap in plastic wrap or aluminum foil and refrigerate. With hands, roll remaining dough into three 6-inch-long rolls."
+        },
+        {
+          "step": 3,
+          "text": "Roll in sugar crystals to coat. Form each roll into triangle-shaped log by pressing to flatten bottom, then pinching sides together to form a point."
+        },
+        {
+          "step": 4,
+          "text": "Wrap each log in plastic wrap and refrigerate 3 hours or until the dough is firm enough to slice (refrigerate up to 1 week)."
+        },
+        {
+          "step": 5,
+          "text": "Preheat oven to 350\u00b0F. Slice one log crosswise into \u00bc-inch-thick slices; place slices, 1-inch apart, on large ungreased cookie sheet."
+        },
+        {
+          "step": 6,
+          "text": "For each cookie, with fingers, shape \u00bc teaspoon reserved dough to resemble tree trunk; carefully attach to bottom of each slice."
+        },
+        {
+          "step": 7,
+          "text": "Lightly sprinkle each cookie with some confetti decors. Bake the cookies 10 to 12 minutes until lightly browned."
+        },
+        {
+          "step": 8,
+          "text": "With pancake turner or metal spatula, remove cookies to wire racks to cool. Repeat with remaining logs and confetti decors."
+        }
+      ],
+      "notes": [
+        "55 cals per cookie"
+      ],
+      "tags": [
+        "cookies",
+        "christmas",
+        "holiday",
+        "sugar cookies"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5165 Large.jpeg"
+      ]
+    },
+    {
+      "id": "italian-sausage-sandwiches-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Italian Sausage Sandwiches",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 238",
+      "servings_yield": "4 servings",
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "ingredients": [
+        {
+          "item": "bulk Italian sausage",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "pizza sauce",
+          "quantity": "1",
+          "unit": "8-oz can"
+        },
+        {
+          "item": "mushroom stems and pieces, drained",
+          "quantity": "1",
+          "unit": "4-oz can"
+        },
+        {
+          "item": "French-style rolls, split and toasted",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "green pepper, cut into rings",
+          "quantity": "1",
+          "unit": "medium"
+        },
+        {
+          "item": "mozzarella cheese, sliced",
+          "quantity": "6",
+          "unit": "oz"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a skillet cook sausage till no pink remains. Drain fat. Stir in pizza sauce and mushrooms. Top bottom halves of rolls and mushrooms. Spoon meat mixture on top. Place pepper rings on top. Place sandwich halves on a shallow baking pan or on a 375\u00b0 oven for 5 minutes. Top with cheese. Bake about 3 minutes more or till cheese melts. Cover with roll tops. If desired, serve with pepperoncini."
+        },
+        {
+          "step": 2,
+          "text": "Microwave directions: In a 1\u00bd-quart casserole cook sausage, covered, on 100% power (high) for 4 to 6 minutes or till no pink remains, stirring twice. Drain. Stir in pizza sauce and mushrooms. Micro-cook, uncovered, on high for 2 to 3 minutes or till heated through. Assemble and bake sandwiches as above."
+        }
+      ],
+      "tags": [
+        "sandwich",
+        "sausage",
+        "italian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5398 Large.jpeg"
+      ]
+    },
+    {
+      "id": "bacon-and-onion-bratwursts-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bacon and Onion Bratwursts",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 238",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "bacon slices",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "medium onions, sliced and separated into rings",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "green pepper, cut into strips",
+          "quantity": "1",
+          "unit": "medium"
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "fully cooked bratwursts or knackwurst, or 4 frankfurters",
+          "quantity": "4",
+          "unit": "links"
+        },
+        {
+          "item": "frankfurter buns, split and toasted",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook bacon till crisp. Drain bacon, reserving 2 tablespoons drippings. Crumble bacon and set aside."
+        },
+        {
+          "step": 2,
+          "text": "In same skillet with reserved drippings, cook onions and green pepper over medium heat about 5 minutes or till onion is tender but not brown. Remove from heat. Stir in 1 tablespoon mustard."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, in another skillet cook bratwursts, knackwurst, or frankfurters in a small amount of water about 5 minutes. Drain."
+        },
+        {
+          "step": 4,
+          "text": "Place sausages in buns. Top with onion mixture. Sprinkle with bacon. Pass additional Dijon-style mustard."
+        }
+      ],
+      "tags": [
+        "sandwich",
+        "bratwurst",
+        "bacon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5398 Large.jpeg"
+      ]
+    },
+    {
+      "id": "apple-stuffed-sausage-patties-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple-Stuffed Sausage Patties",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 238",
+      "servings_yield": "5 servings",
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "ingredients": [
+        {
+          "item": "bulk pork sausage",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped celery",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "apple juice or water",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "finely chopped peeled apple",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "applesauce, margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "\u00bc",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine sausage and beef; shape into ten \u00bc-inch-thick patties."
+        },
+        {
+          "step": 2,
+          "text": "In saucepan cook celery and onion in margarine till tender but not brown. Remove from heat. Add apple juice or water. Remove from heat. Stir in stuffing mix."
+        },
+        {
+          "step": 3,
+          "text": "Add apple, mustard, and pepper. Place about \u00bc cup stuffing atop each of five patties. Top with remaining patties. Press edges to seal. Place on a rack in a shallow baking dish or pan. Bake in a 375\u00b0 oven for 35 to 40 minutes or till no pink remains. Makes 5 servings."
+        }
+      ],
+      "tags": [
+        "main dish",
+        "sausage",
+        "apple",
+        "stuffed"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5398 Large.jpeg"
+      ]
+    },
+    {
+      "id": "liver-and-onions-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Liver and Onions",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 239",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "beef liver, cut into serving-size pieces",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "medium onion, sliced and separated",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "bacon drippings or margarine",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook onion in margarine till tender. Remove from skillet. Add more margarine if necessary."
+        },
+        {
+          "step": 2,
+          "text": "Add liver to skillet. Cook over medium heat for 3 minutes. Turn liver. Return onion to skillet. Cook for 2 to 3 minutes more or till liver is slightly pink in center. Pour lemon juice over. Serve immediately."
+        }
+      ],
+      "tags": [
+        "main dish",
+        "liver",
+        "onions"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5399 Large.jpeg"
+      ]
+    },
+    {
+      "id": "tomato-juice-cocktail-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tomato Juice Cocktail",
+      "category": "canning",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 199",
+      "description": "Start with the smaller amount of horseradish and add more until you get just the zest you like.",
+      "servings_yield": "About 5 pints",
+      "ingredients": [
+        {
+          "item": "tomatoes",
+          "quantity": "8",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "prepared horseradish",
+          "quantity": "1 to 2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "\u00bc",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thoroughly wash tomatoes. Remove stems. Cut tomatoes into pieces. In an 8- or 10-quart kettle or Dutch oven combine cut tomatoes, celery, and onion. Bring to boiling; cook 15 minutes, stirring often."
+        },
+        {
+          "step": 2,
+          "text": "Press tomato mixture through a food mill or sieve to extract juice; measure 12 cups juice. Discard solids. Return juice to kettle; add lemon juice, sugar, Worcestershire sauce, prepared horseradish, salt, and bottled hot pepper sauce. Bring to boiling."
+        },
+        {
+          "step": 3,
+          "text": "Pour hot juice into hot, clean pint jars, leaving \u00bd-inch headspace. Adjust lids. Process in a boiling-water canner for 35 minutes (start timing when water returns to boil)."
+        }
+      ],
+      "notes": [
+        "Pressure Canning: Pour hot juice into hot, clean pint jars, leaving \u00bd-inch headspace. Process for 15 minutes at 10 pounds pressure.",
+        "Freezing: Cool juice for 15 minutes. Pour into wide-top freezer containers, leaving a \u00bd-inch headspace. Seal, label, and freeze."
+      ],
+      "tags": [
+        "canning",
+        "tomato",
+        "juice",
+        "beverage"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5360 Large.jpeg"
       ]
     }
   ],
