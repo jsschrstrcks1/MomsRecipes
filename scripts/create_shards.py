@@ -9,6 +9,13 @@ This splits the monolithic recipes.json into:
 
 import json
 import os
+import re
+
+
+def sanitize_category(cat):
+    """Sanitize category name for use in filenames (replace spaces with hyphens)."""
+    return re.sub(r'\s+', '-', cat.strip().lower())
+
 
 def create_shards():
     # Load existing recipes
@@ -18,13 +25,28 @@ def create_shards():
     recipes = data['recipes']
     meta = data['meta']
 
-    # Group by category
+    # Group by category (with sanitization check)
     by_category = {}
+    problematic_categories = []
     for r in recipes:
         cat = r.get('category', 'uncategorized')
-        if cat not in by_category:
-            by_category[cat] = []
-        by_category[cat].append(r)
+        sanitized = sanitize_category(cat)
+
+        # Warn if category needs sanitization
+        if cat != sanitized and cat not in [p[0] for p in problematic_categories]:
+            problematic_categories.append((cat, sanitized))
+
+        # Use sanitized category for grouping
+        if sanitized not in by_category:
+            by_category[sanitized] = []
+        by_category[sanitized].append(r)
+
+    # Report problematic categories
+    if problematic_categories:
+        print("⚠ WARNING: Found categories with spaces/inconsistent casing:")
+        for orig, fixed in problematic_categories:
+            print(f"  '{orig}' -> '{fixed}'")
+        print("  Consider normalizing these in recipes.json\n")
 
     # Create index with minimal metadata for browsing/search
     index_recipes = []
@@ -32,7 +54,7 @@ def create_shards():
         index_recipes.append({
             'id': r.get('id'),
             'title': r.get('title'),
-            'category': r.get('category'),
+            'category': sanitize_category(r.get('category', 'uncategorized')),  # Sanitized for shard lookup
             'tags': r.get('tags', []),
             'collection': r.get('collection'),
             'description': (r.get('description', '') or '')[:100],
@@ -45,10 +67,10 @@ def create_shards():
             'canonical_id': r.get('canonical_id'),
         })
 
-    # Build shard manifest
+    # Build shard manifest (categories are already sanitized)
     shards = [
         {
-            'category': cat,
+            'category': cat,  # Already sanitized
             'file': f'recipes-{cat}.json',
             'count': len(recs)
         }
