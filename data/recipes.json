@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-13",
     "version": "3.0.2",
-    "total_recipes": 1393
+    "total_recipes": 1410
   },
   "recipes": [
     {
@@ -139155,6 +139155,1431 @@
       "image_refs": [
         "IMG_5168 Large.jpeg",
         "IMG_5169 Large.jpeg"
+      ]
+    },
+    {
+      "id": "creamy-poached-eggs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Poached Eggs",
+      "category": "eggs",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 143",
+      "servings_yield": "Serves 4",
+      "ingredients": [
+        {
+          "item": "English muffins or bagels, split",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "package cream cheese with chives, cut up",
+          "quantity": "1",
+          "unit": "3-oz"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast muffins or bagels. In a medium skillet combine cheeses, milk, and 1/8 teaspoon pepper. Cook and stir over medium heat till cheeses melt."
+        },
+        {
+          "step": 2,
+          "text": "Break 1 egg into a cup. Carefully slide egg into cheese mixture. Repeat with remaining eggs. Cover; cook over medium-low heat for 3 to 5 minutes or to desired doneness. Top each muffin or bagel half with an egg. Stir cheese mixture with a wire whisk. Spoon over eggs. Serves 4."
+        }
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "brunch",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5304 Large.jpeg"
+      ]
+    },
+    {
+      "id": "poached-eggs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Eggs",
+      "category": "eggs",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 144",
+      "description": "Eggs Benedict (pictured below right) makes a spectacular brunch entr\u00e9e. Serve fresh fruit and sparkling water or wine to complete the menu.",
+      "servings_yield": "2 per serving",
+      "ingredients": [
+        {
+          "item": "Cooking oil or shortening (optional)",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "instant chicken bouillon granules (optional)",
+          "quantity": "1 to 2",
+          "unit": "tsp"
+        },
+        {
+          "item": "Eggs",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Lightly grease a saucepan, if desired, using a 2-quart pan for 3 or 4 eggs or a 1-quart pan for 1 or 2 eggs. Add water to half-fill the pan; stir in bouillon granules, if desired. Bring water to boiling. Reduce heat to simmering (bubbles should begin to break the surface of the water)."
+        },
+        {
+          "step": 2,
+          "text": "Break 1 egg into a measuring cup. Carefully slide egg into simmering water, holding the lip of the cup as close to the water as possible. Repeat with remaining eggs, allowing each egg an equal amount of space."
+        },
+        {
+          "step": 3,
+          "text": "Simmer eggs, uncovered, for 3 to 5 minutes or to desired doneness. Remove with a slotted spoon. Season to taste with salt and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Poacher-cup directions: Grease each cup of an egg-poaching pan. Place poacher cups over the pan of boiling water (water should not touch bottoms of cups). Reduce heat to simmering. Break 1 egg into a measuring cup. Carefully slide egg into a poacher cup. Repeat with remaining eggs. Cover and cook for 4 to 6 minutes or to desired doneness. Run a knife around edges to loosen eggs. Invert poacher cups to remove eggs."
+        }
+      ],
+      "notes": [
+        "Eggs Benedict: Prepare as above, except, before poaching eggs, split 2 English muffins. Place muffin halves and 8 slices Canadian-style bacon on a baking sheet. Bake in a 350\u00b0 oven for 10 to 15 minutes or till muffins are toasted and bacon is hot. Keep warm. Place 4 poached eggs in a large pan of warm water to keep warm while preparing half of a recipe of Hollandaise Sauce (see recipe, page 362) or half of a recipe of Mock Hollandaise Sauce (see recipe, page 363). To serve, top each muffin half with 2 slices of bacon and an egg; spoon sauce over eggs. Sprinkle with paprika and garnish with orange slices and parsley, if desired. Serves 4."
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "brunch",
+        "poached"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5305 Large.jpeg"
+      ]
+    },
+    {
+      "id": "fettuccine-with-cheese-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fettuccine with Cheese Sauce",
+      "category": "pasta",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 158",
+      "description": "Elegant for entertaining.",
+      "servings_yield": "Serves 4",
+      "ingredients": [
+        {
+          "item": "packaged fettuccine, linguine, or egg noodles",
+          "quantity": "8",
+          "unit": "oz"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "1 or 2",
+          "unit": "cloves"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded process Swiss, Gruy\u00e8re, or American cheese (6 ounces)",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Freshly ground pepper",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook fettuccine according to package directions (or see chart, page 278). Drain; keep warm."
+        },
+        {
+          "step": 2,
+          "text": "For cheese sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour, bouillon granules, and the 1/4 teaspoon pepper. Add milk all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."
+        },
+        {
+          "step": 3,
+          "text": "Stir in cheese. Cook and stir till cheese melts. Stir in parsley. If cheese sauce is too thick, stir in 1 to 2 tablespoons additional milk."
+        },
+        {
+          "step": 4,
+          "text": "Serve cheese sauce over hot cooked pasta. Sprinkle with freshly ground pepper. Serves 4."
+        }
+      ],
+      "notes": [
+        "Microwave directions: Cook fettuccine as above. For cheese sauce, in a 4-cup measure micro-cook onion, garlic, and margarine or butter on 100% power (high) for 1 1/2 to 2 minutes or till onion is tender. Stir in flour, bouillon granules, and the 1/4 teaspoon pepper. Add milk. Stir to combine. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every minute till the sauce starts to thicken, then every 30 seconds. Cook for 30 seconds more. Add cheese; stir till melted. If necessary, cook on high for 15 to 30 seconds or till cheese melts. Serve as above.",
+        "Fettuccine with Broccoli and Cheese Sauce: Prepare as above, except add one 10-ounce package frozen chopped broccoli to pasta after it has simmered for 5 minutes.",
+        "Fettuccine with Asparagus and Swiss Cheese Sauce: Prepare as above, except add one 10-ounce package frozen cut asparagus to pasta after it has simmered for 5 minutes. For sauce, use the process Swiss cheese. Substitute 2 tablespoons toasted sliced almonds for the freshly ground pepper."
+      ],
+      "tags": [
+        "pasta",
+        "fettuccine",
+        "cheese",
+        "italian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cheese-fondue-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Fondue",
+      "category": "appetizers",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 158",
+      "description": "Also makes a great appetizer.",
+      "servings_yield": "5 servings",
+      "ingredients": [
+        {
+          "item": "coarsely shredded Gruy\u00e8re or Swiss cheese (12 ounces)",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic, halved",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1 1/4",
+          "unit": "cups"
+        },
+        {
+          "item": "kirsch or dry sherry",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Dash ground nutmeg",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "Dash pepper",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "Dippers (cubed French or Italian bread or raw vegetables)",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring shredded Gruy\u00e8re or Swiss cheese to room temperature. Toss flour with cheese; set aside. Rub inside of a fondue pot with garlic halves; discard garlic. Set pot aside."
+        },
+        {
+          "step": 2,
+          "text": "In medium saucepan heat wine over medium heat till small bubbles rise to surface. Just before wine boils, reduce heat to low and stir in cheese mixture, a little at a time, stirring constantly and making sure cheese melts before adding more. Stir till mixture bubbles gently."
+        },
+        {
+          "step": 3,
+          "text": "Stir in kirsch or sherry, nutmeg, and pepper. Transfer cheese mixture to the fondue pot; keep mixture bubbling gently over a fondue burner. Serve with bread cubes or raw vegetables. Makes 5 servings."
+        }
+      ],
+      "notes": [
+        "Onion-Cheese Fondue: Prepare as above, except stir 1/2 cup sliced green onion and 1/2 cup shredded carrot into the cheese mixture with the kirsch or sherry.",
+        "Note: For a milder flavor, substitute 1/4 cup chicken broth or water for 1/4 cup of the wine."
+      ],
+      "tags": [
+        "appetizer",
+        "fondue",
+        "cheese",
+        "swiss"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ]
+    },
+    {
+      "id": "ground-meat-doneness-tips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Judging Ground Meat Doneness",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 244",
+      "description": "Safety tips for cooking ground meat to proper doneness.",
+      "notes": [
+        "For safety's sake, cook all meat loaves and meat-loaf-type ground-meat patties to 170\u00b0F or till no pink remains.",
+        "Ground-meat patties with no other ingredients added, however, may be cooked till their centers are brownish pink (medium doneness)."
+      ],
+      "tags": [
+        "tips",
+        "reference",
+        "ground meat",
+        "safety",
+        "doneness"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5404 Large.jpeg"
+      ]
+    },
+    {
+      "id": "stuffed-burgers-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Burgers",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 244",
+      "servings_yield": "4 servings",
+      "description": "Burgers stuffed with olives, vegetables, or cheese for extra flavor.",
+      "ingredients": [
+        {
+          "item": "ground beef or ground lamb",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "stuffed olives, pimiento-stuffed green olives, or shredded zucchini, carrots, or cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "hamburger buns, split and toasted",
+          "quantity": "4",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, bread crumbs, milk, and basil. Add meat and mix well. Shape meat mixture into eight thin patties about 4 inches in diameter."
+        },
+        {
+          "step": 2,
+          "text": "Top each of four patties with olives, vegetables, or cheese. Spread to within 1/2 inch of edges. Top with remaining patties. Press edges to seal."
+        },
+        {
+          "step": 3,
+          "text": "Place patties on the unheated rack of a broiler pan. Broil 3 to 4 inches from the heat for 15 to 18 minutes or till no pink remains, turning once. Serve on buns. Makes 4 servings."
+        }
+      ],
+      "tags": [
+        "main dish",
+        "hamburger",
+        "stuffed",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5404 Large.jpeg"
+      ]
+    },
+    {
+      "id": "garden-burgers-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Garden Burgers",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 244",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "catsup",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded carrot",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "onion salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "parsley or zucchini, flawed or shredded",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ground beef or ground pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "lettuce",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine egg, catsup, bread crumbs, carrot, onion salt, and pepper. Stir in vegetables. Add meat; mix well. Shape meat mixture into four 3/4-inch-thick patties."
+        },
+        {
+          "step": 2,
+          "text": "Place patties on the unheated rack of a broiler pan. Broil 3 to 4 inches from heat for 15 to 18 minutes, turning once. Brush with catsup before serving. Serve on lettuce. Makes 4 servings."
+        }
+      ],
+      "tags": [
+        "main dish",
+        "hamburger",
+        "vegetables",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5404 Large.jpeg"
+      ]
+    },
+    {
+      "id": "tacos-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tacos",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 245",
+      "servings_yield": "12 tacos",
+      "ingredients": [
+        {
+          "item": "ground beef or ground pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "canned tomatoes, drained",
+          "quantity": "1",
+          "unit": "8-oz can"
+        },
+        {
+          "item": "canned green chili peppers, seeded and chopped",
+          "quantity": "1",
+          "unit": "4-oz can"
+        },
+        {
+          "item": "shredded lettuce",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "taco shells",
+          "quantity": "12",
+          "unit": ""
+        },
+        {
+          "item": "taco sauce (optional)",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat taco shells according to package directions."
+        },
+        {
+          "step": 2,
+          "text": "For filling, in a large skillet cook meat, onion, and garlic till meat is brown and onion is tender. Drain fat. Stir in tomatoes and chili peppers. Heat through. Fill each taco shell with meat mixture. Top with lettuce and cheese. If desired, serve with taco sauce. Makes 12 tacos."
+        }
+      ],
+      "tags": [
+        "main dish",
+        "mexican",
+        "tacos",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5405 Large.jpeg"
+      ]
+    },
+    {
+      "id": "sloppy-joes-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sloppy Joes",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 245",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "ground beef, ground pork, or ground raw turkey",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "catsup",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1 to 2",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "Dash",
+          "unit": ""
+        },
+        {
+          "item": "hamburger buns, split and toasted",
+          "quantity": "6",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook meat, onion, celery, and green pepper till meat is brown. Drain fat."
+        },
+        {
+          "step": 2,
+          "text": "Stir in catsup, water, Worcestershire sauce, garlic salt, chili powder, and hot pepper sauce. Bring to boiling; reduce heat. Simmer for 5 to 10 minutes or till mixture is of desired consistency."
+        },
+        {
+          "step": 3,
+          "text": "Serve on buns. Makes 6 servings."
+        }
+      ],
+      "tags": [
+        "main dish",
+        "sandwich",
+        "beef",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5405 Large.jpeg"
+      ]
+    },
+    {
+      "id": "lasagna-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lasagna",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 246",
+      "description": "For cheesy, vegetarian lasagna, see page 159.",
+      "servings_yield": "8 servings",
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "ingredients": [
+        {
+          "item": "ground beef, ground pork, or bulk Italian sausage",
+          "quantity": "3/4",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "canned tomatoes, cut up",
+          "quantity": "1",
+          "unit": "7 1/2-oz can"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "8-oz can"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "1",
+          "unit": "6-oz can"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried oregano, crushed",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "fennel seed, crushed (optional)",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "lasagna noodles (6 noodles)",
+          "quantity": "6",
+          "unit": "oz"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "ricotta or cottage cheese, drained",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "grated Parmesan or Romano cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried parsley flakes",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "mozzarella cheese, sliced",
+          "quantity": "6",
+          "unit": "oz"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For meat sauce, in a large saucepan cook meat, onion, and garlic till meat is brown and onion is tender. Drain fat. Stir in undrained tomatoes, tomato sauce, tomato paste, basil, oregano, fennel, and pepper. Bring to boiling; reduce heat. Cover and simmer for 15 minutes, stirring occasionally."
+        },
+        {
+          "step": 2,
+          "text": "For filling, combine egg, ricotta or cottage cheese, Parmesan or Romano, and parsley. Drain. Cook lasagna noodles according to package directions. Drain."
+        },
+        {
+          "step": 3,
+          "text": "Layer half of the cooked noodles in a 12x7 1/2x2-inch baking dish. Spread with half of the filling. Top with half of the meat sauce and half of the mozzarella cheese."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle the remaining Parmesan cheese atop. Bake in a 375\u00b0 oven for 30 to 35 minutes or till heated through. Let stand 10 minutes. Serves 8."
+        }
+      ],
+      "notes": [
+        "To make ahead: Prepare as above, except after assembling, cover with plastic wrap and refrigerate up to 24 hours. Remove plastic wrap and cover with foil. Bake in a 375\u00b0 oven for 35 minutes. Uncover and bake about 20 minutes more or till heated through."
+      ],
+      "tags": [
+        "main dish",
+        "pasta",
+        "italian",
+        "lasagna",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5406 Large.jpeg"
+      ]
+    },
+    {
+      "id": "fettuccine-with-cheese-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fettuccine with Cheese Sauce",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 158",
+      "description": "Rich pasta dish with creamy cheese sauce",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fettuccine or medium noodles",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "green onions",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "Gruyere, Swiss, or American cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "shredded (4 oz)"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "freshly ground pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook fettuccine or noodles according to package directions. Drain; keep warm."
+        },
+        {
+          "step": 2,
+          "text": "For cheese sauce, in a medium saucepan cook bacon till crisp. Remove bacon, reserving 2 tablespoons drippings in pan. Crumble bacon and set aside."
+        },
+        {
+          "step": 3,
+          "text": "Cook mushrooms, green onion, and garlic in reserved drippings till tender but not brown."
+        },
+        {
+          "step": 4,
+          "text": "Stir in butter or margarine till melted."
+        },
+        {
+          "step": 5,
+          "text": "Stir in flour, salt, and pepper. Add milk all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."
+        },
+        {
+          "step": 6,
+          "text": "Add cheese; stir till melted."
+        },
+        {
+          "step": 7,
+          "text": "Stir in bacon and parsley."
+        },
+        {
+          "step": 8,
+          "text": "Serve cheese sauce over hot fettuccine. If desired, sprinkle with freshly ground pepper."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can substitute butter for bacon drippings if desired"
+      ],
+      "tags": [
+        "pasta",
+        "cheese",
+        "main dish",
+        "bacon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cheese-fondue-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Fondue",
+      "category": "appetizers",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 158",
+      "description": "Classic Swiss cheese fondue with crusty bread dippers",
+      "servings_yield": "16 appetizer servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Gruyere cheese",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "shredded (12 oz)"
+        },
+        {
+          "item": "Swiss cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "shredded (8 oz)"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "halved"
+        },
+        {
+          "item": "kirsch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "French bread",
+          "quantity": "1",
+          "unit": "loaf",
+          "prep_note": "cubed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring cheese to room temperature. Toss together Gruyere, Swiss cheese, and flour."
+        },
+        {
+          "step": 2,
+          "text": "In a saucepan heat wine and garlic over medium heat till small bubbles rise to surface."
+        },
+        {
+          "step": 3,
+          "text": "Remove and discard garlic."
+        },
+        {
+          "step": 4,
+          "text": "Gradually add small amounts of cheese mixture to wine, stirring constantly with a wire whisk after each addition till cheese is melted. Make sure cheese melts completely before adding more."
+        },
+        {
+          "step": 5,
+          "text": "Stir till fondue bubbles gently."
+        },
+        {
+          "step": 6,
+          "text": "Stir in kirsch and nutmeg."
+        },
+        {
+          "step": 7,
+          "text": "Transfer fondue to a fondue pot; keep warm over fondue burner."
+        },
+        {
+          "step": 8,
+          "text": "Serve with French bread cubes. (If fondue becomes too thick, stir in a little warmed wine.)"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "fondue pot",
+      "notes": [
+        "Bring cheese to room temperature for best melting",
+        "If fondue becomes too thick, stir in a little warmed wine"
+      ],
+      "tags": [
+        "fondue",
+        "cheese",
+        "appetizer",
+        "Swiss",
+        "party"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ]
+    },
+    {
+      "id": "onion-cheese-fondue-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Onion-Cheese Fondue",
+      "category": "appetizers",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 158",
+      "description": "French onion soup-inspired fondue with crusty bread",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "condensed French onion soup",
+          "quantity": "1",
+          "unit": "can (10-3/4 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "process Swiss cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "softened"
+        },
+        {
+          "item": "French bread",
+          "quantity": "1",
+          "unit": "loaf",
+          "prep_note": "cubed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan bring soup to boiling."
+        },
+        {
+          "step": 2,
+          "text": "Gradually stir in Swiss cheese till melted."
+        },
+        {
+          "step": 3,
+          "text": "Beat cream cheese till smooth. Gradually stir cream cheese into fondue mixture."
+        },
+        {
+          "step": 4,
+          "text": "Heat and stir till smooth."
+        },
+        {
+          "step": 5,
+          "text": "Transfer to fondue pot; keep warm over fondue burner."
+        },
+        {
+          "step": 6,
+          "text": "Serve with French bread cubes. Stir in broth or water (by 1/4 cup) if the mixture gets too thick."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "fondue pot",
+      "notes": [
+        "Quick version using canned soup",
+        "Stir in broth or water by 1/4 cup if mixture gets too thick"
+      ],
+      "tags": [
+        "fondue",
+        "cheese",
+        "appetizer",
+        "quick",
+        "French onion"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ]
+    },
+    {
+      "id": "creamy-poached-eggs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Poached Eggs",
+      "category": "breakfast",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 143",
+      "description": "Poached eggs served on muffins with creamy cheese sauce",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "English muffins or bagels",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "split"
+        },
+        {
+          "item": "American cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "softened, cut up"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast muffins or bagels; keep warm."
+        },
+        {
+          "step": 2,
+          "text": "In a medium saucepan combine American cheese, cream cheese, milk, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 3,
+          "text": "Cook over low heat, stirring constantly, till cheese melts and mixture is smooth."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, poach eggs using water method."
+        },
+        {
+          "step": 5,
+          "text": "Place muffin halves on serving plate. Top each with a poached egg."
+        },
+        {
+          "step": 6,
+          "text": "Spoon cheese sauce over eggs. Serve immediately."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "poached eggs"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5304 Large.jpeg"
+      ]
+    },
+    {
+      "id": "poached-eggs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Eggs",
+      "category": "breakfast",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 144",
+      "description": "Basic technique for perfectly poached eggs",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "3-5 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Lightly grease a saucepan. If desired, add 1 tablespoon vinegar to 2 inches simmering water in the pan."
+        },
+        {
+          "step": 2,
+          "text": "Break one egg into a measuring cup. Carefully slide egg into simmering water, holding the lip of the cup as close to water as possible."
+        },
+        {
+          "step": 3,
+          "text": "Simmer eggs, uncovered, for 3 to 5 minutes or till the whites are completely set and yolks begin to thicken but are not hard."
+        },
+        {
+          "step": 4,
+          "text": "Remove eggs with a slotted spoon."
+        },
+        {
+          "step": 5,
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Vinegar helps eggs hold together better in the water",
+        "To dip the egg into cold water for a few seconds helps firm up the edges",
+        "For poacher-cup directions: Grease each cup of an egg poaching pan. Place pan insert over boiling water in the pan; reduce heat. Break an egg into a measuring cup. Carefully slide egg into the greased cup. Cover and cook for 4 to 6 minutes or till whites are completely set and yolks begin to thicken but are not hard."
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "technique",
+        "poached eggs",
+        "basics"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5305 Large.jpeg"
+      ]
+    },
+    {
+      "id": "eggs-benedict-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Eggs Benedict",
+      "category": "breakfast",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 144",
+      "description": "Classic brunch dish with Canadian bacon, poached eggs, and hollandaise sauce on English muffins",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "English muffins",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "split and toasted"
+        },
+        {
+          "item": "Canadian-style bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "poached"
+        },
+        {
+          "item": "Mock Hollandaise Sauce or Hollandaise Sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast English muffin halves."
+        },
+        {
+          "step": 2,
+          "text": "Broil Canadian-style bacon 3 to 4 inches from the heat for 2 to 3 minutes or till lightly brown, turning once."
+        },
+        {
+          "step": 3,
+          "text": "Place a bacon slice on each muffin half."
+        },
+        {
+          "step": 4,
+          "text": "Top each with a poached egg."
+        },
+        {
+          "step": 5,
+          "text": "Spoon Mock Hollandaise Sauce or Hollandaise Sauce over eggs."
+        }
+      ],
+      "temperature": "broil",
+      "pan_size": "",
+      "notes": [
+        "Eggs Florentine variation: Substitute fresh spinach leaves for the Canadian bacon",
+        "For Mock Hollandaise Sauce: place 2 egg yolks and 1 tablespoon lemon juice in a blender. Cover and blend till combined. With blender running, slowly add 1/2 cup melted butter in a steady stream."
+      ],
+      "tags": [
+        "breakfast",
+        "brunch",
+        "eggs",
+        "Canadian bacon",
+        "hollandaise",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5305 Large.jpeg"
+      ]
+    },
+    {
+      "id": "freezing-canning-tips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Freezing & Canning Reference",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 246 (Special Helps section)",
+      "description": "Reference guide for freezing and canning techniques",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Freezing and Canning section from Special Helps chapter",
+        "Contains techniques for preserving fish and shellfish",
+        "See cookbook for detailed instructions"
+      ],
+      "tags": [
+        "reference",
+        "tips",
+        "freezing",
+        "canning",
+        "preserving",
+        "fish",
+        "shellfish"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "reference material - image rotated/partially visible"
+        ]
+      },
+      "image_refs": [
+        "IMG_5406 Large.jpeg"
       ]
     }
   ],
