@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-13",
     "version": "3.0.2",
-    "total_recipes": 1380
+    "total_recipes": 1389
   },
   "recipes": [
     {
@@ -138003,6 +138003,753 @@
       },
       "image_refs": [
         "IMG_5360 Large.jpeg"
+      ]
+    },
+    {
+      "id": "create-your-own-meat-loaf-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Create-Your-Own Meat Loaf",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 241",
+      "description": "Customize your meat loaf with your choice of meat, bread, liquid, vegetable, and seasonings.",
+      "servings_yield": "6 servings",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "soft bread crumbs (1 slice) or dry bread crumbs, or quick-cooking oats",
+          "quantity": "\u00be",
+          "unit": "cup"
+        },
+        {
+          "item": "tomato juice, beef broth, apple juice, or water",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion, celery, carrot, or green pepper",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley or dried parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00be",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried thyme, basil, oregano, or sage, crushed (optional)",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "\u215b",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef or ground lamb",
+          "quantity": "1\u00bd",
+          "unit": "lb"
+        },
+        {
+          "item": "catsup (optional)",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, bread crumbs, tomato juice or other liquid, onion or other vegetable, parsley, salt, herb (if desired), and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Add ground meat; mix well. Shape into a 2-inch-circle ring with a 2-inch diameter hole in the center, or form into a 7\u00bdx3-inch loaf, or pat mixture into a 9x5x3-inch loaf pan or divide into a 7\u00bdx3\u00bd-inch loaf pan."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a 350\u00b0 oven for 45 to 50 minutes for the ring (25 to 30 minutes for the loaf or loaf pan) or till no pink remains. Transfer to a serving plate. Spoon sauce over meat, if desired; Makes 6 servings."
+        },
+        {
+          "step": 4,
+          "text": "Microwave directions: In a mixing bowl combine egg, bread crumbs, milk, onion, celery, and parsley, if desired. Add ground meat and mix well. Shape into a 2-inch-circle ring with a 6-inch diameter hole in center. Place ring in a 9-inch pie plate. Cover with waxed paper. Micro-cook on 100% power (high) for 8 to 10 minutes or till no pink remains, giving the dish a quarter-turn every 3 minutes. Transfer to a serving plate."
+        }
+      ],
+      "notes": [
+        "Ham Loaf: Prepare as above, except use soft bread crumbs. Substitute dry mustard for the herb and omit salt. Reduce ground beef or lamb to \u00bd pound and add \u00bd pound ground ham. Bake 50 minutes or till juices run clear."
+      ],
+      "tags": [
+        "main dish",
+        "meat loaf",
+        "beef"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5401 Large.jpeg"
+      ]
+    },
+    {
+      "id": "swedish-meatballs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Swedish Meatballs",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 241",
+      "servings_yield": "4 to 6 servings",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "light cream or milk",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "\u00be",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00be",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground allspice or nutmeg",
+          "quantity": "\u00bc",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef or ground veal",
+          "quantity": "\u00be",
+          "unit": "lb"
+        },
+        {
+          "item": "ground pork or ground lamb",
+          "quantity": "\u00bc",
+          "unit": "lb"
+        },
+        {
+          "item": "instant beef bouillon granules",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "hot cooked noodles",
+          "quantity": "3 to 5",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg, cream or milk, the bread crumbs, onion, parsley, salt, and allspice or nutmeg. Add the beef and pork; mix well. Shape into 30 meatballs. In a large skillet cook meatballs, half at a time, over medium heat about 10 minutes or till no pink remains, turning to brown on all sides (shake skillet or turn meatballs once to prevent sticking)."
+        },
+        {
+          "step": 2,
+          "text": "Remove meatballs from skillet, reserving 2 tablespoons drippings. Drain meatballs on paper towels. Repeat with remaining meatballs."
+        },
+        {
+          "step": 3,
+          "text": "Stir flour into reserved drippings. Add bouillon granules and 1\u00bc cups water. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Add meatballs to sauce. Cook on high for 4 to 6 minutes or till thickened and bubbly, stirring twice."
+        },
+        {
+          "step": 4,
+          "text": "Serve over noodles. Makes 4 to 6 servings."
+        }
+      ],
+      "notes": [
+        "Microwave directions: In a mixing bowl combine egg, \u00bc cup of the milk, the bread crumbs, onion, parsley, the \u00bc teaspoon salt, and allspice or nutmeg. Add beef and pork; mix well. Shape into 30 meatballs. In a dish or plate microwave-safe, place meatballs on 100% power (high), covered with waxed paper, on 100% power (high) for 3\u00bd to 5\u00bd minutes or till no pink remains, rearranging once. Drain meatballs on paper towels. Repeat with remaining meatballs in 2-quart casserole. Cook and stir flour into remaining milk, bouillon granules and 1 cup water. Micro-cook, uncovered, on high for 6 minutes or till thickened and bubbly, stirring every minute. Add meatballs. Micro-cook, covered, on high for 1 minute more. Serve with noodles."
+      ],
+      "tags": [
+        "main dish",
+        "meatballs",
+        "swedish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5401 Large.jpeg"
+      ]
+    },
+    {
+      "id": "spaghetti-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spaghetti Sauce",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 242",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "ground beef or ground pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "can tomatoes, cut up",
+          "quantity": "1",
+          "unit": "16-oz"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "1",
+          "unit": "6-oz can"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried oregano, crushed",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "hot cooked spaghetti",
+          "quantity": "6",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a Dutch oven cook meat, onion, and garlic till meat is brown. Drain. Stir in undrained tomatoes, tomato paste, sugar, basil, oregano, tomato paste, 1 teaspoon salt, and bay leaf. Bring to boiling; reduce heat. Cover and simmer about 30 minutes, stirring occasionally. Discard bay leaf."
+        },
+        {
+          "step": 2,
+          "text": "Serve sauce over spaghetti. If desired, pass grated Parmesan cheese. Makes 6 servings."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: Makes 6 servings. In a 3-quart casserole combine meat, onion, mushrooms, and garlic on 100% power (high) 6 to 8 minutes, stirring twice. Drain. Stir in remaining ingredients except spaghetti. Micro-cook, covered, on high for 15 minutes more or till slightly thickened, stirring occasionally. Discard bay leaf. Serve over spaghetti."
+        }
+      ],
+      "notes": [
+        "Spaghetti and Meatballs: Prepare as above, except omit ground meat. Prepare Swedish Meatballs (see recipe, page 241), but do not serve on noodles. Cook \u00bd pound bulk Italian sausage, onion, mushrooms in a large skillet. Drain. Add meatballs to sauce. Heat through. Serve over spaghetti. Makes 6 servings."
+      ],
+      "tags": [
+        "main dish",
+        "spaghetti",
+        "pasta",
+        "italian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5402 Large.jpeg"
+      ]
+    },
+    {
+      "id": "porcupine-meatballs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Porcupine Meatballs",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 242",
+      "description": "The rice pokes out like a porcupine's quills.",
+      "servings_yield": "4 or 5 servings",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "10\u00be-oz can condensed"
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine egg, \u00bc cup of the soup, uncooked rice, onion, salt, and Worcestershire. Add beef; mix well. Shape into 20 meatballs. Place in a large skillet."
+        },
+        {
+          "step": 2,
+          "text": "Combine remaining soup with \u00bd cup water. Pour over meatballs. Bring to boiling; reduce heat. Cover; simmer 35 to 40 minutes or till rice is tender. Stir in peas, if desired. Simmer 5 minutes more. Serves 4 or 5."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: Combine egg, \u00bc cup of the soup, uncooked rice, onion, salt, and Worcestershire. Add beef; mix well. Shape into 20 meatballs. In an 8x8x2-inch baking dish micro-cook meatballs, covered, on 100% power (high) for 6 minutes, rearranging once. Drain. Pour over sauce. Micro-cook meatballs, covered, on high for 3 to 5 minutes more or till rice is tender."
+        }
+      ],
+      "tags": [
+        "main dish",
+        "meatballs",
+        "rice"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5402 Large.jpeg"
+      ]
+    },
+    {
+      "id": "hamburgers-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hamburgers",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 243",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "\u00be",
+          "unit": "cup"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "prepared mustard or prepared horseradish",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "\u215b",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground beef, veal, or ground lamb",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "hamburger buns, split and toasted",
+          "quantity": "4",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a mixing bowl combine egg and milk. Stir in bread crumbs, onion, mustard or horseradish, salt, and pepper. Add meat; mix well."
+        },
+        {
+          "step": 2,
+          "text": "Form mixture into four \u00be-inch-thick patties (10 to 12 minutes for 15 to 18 patties). Broil 3 to 4 inches from the heat for 10 to 12 minutes for 15 to 18 patties. Broil 3 to 4 inches from the heat of broiler. Turn once. Serve on buns. Makes 4 servings."
+        }
+      ],
+      "notes": [
+        "Cheeseburgers: Prepare as above, except place sliced American, cheddar, Monterey Jack, or Swiss cheese on patties at end of cooking time. Broil about 1 minute or till cheese begins to melt.",
+        "Italian-Style Burgers: Prepare as above, except substitute grated Parmesan cheese for the milk. Stir in 2 tablespoons snipped parsley and 1 teaspoon dried Italian seasoning with the bread crumbs.",
+        "Mexican-Style Burgers: Prepare as above, except substitute salsa or taco sauce for the milk and mustard. Stir in 2 tablespoons chopped canned green chili peppers and 1 teaspoon chili powder with the bread crumbs. Serve with additional salsa or taco sauce, if desired.",
+        "Greek-Style Burgers: Prepare as above, except substitute plain yogurt for the milk and \u00bc teaspoon cracked wheat or \u00bc cup dried oregano, crushed, for the bread crumbs. Stir in \u00bc teaspoon ground cinnamon with the bread crumbs. If desired, serve with additional plain yogurt and 1 tablespoon curry powder with the bread crumbs.",
+        "Indian-Style Burgers: Prepare as above, except substitute plain yogurt for milk and omit mustard. Stir in 2 tablespoons chopped chutney and 1 tablespoon curry powder with the bread crumbs.",
+        "German-Style Burgers: Prepare as above, except stir in 2 tablespoons drained sauerkraut, chopped, and 1 teaspoon caraway seed with the bread crumbs. Serve with mustard."
+      ],
+      "tags": [
+        "main dish",
+        "hamburger",
+        "beef",
+        "burger"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5403 Large.jpeg"
+      ]
+    },
+    {
+      "id": "steak-and-burger-toppings-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Steak and Burger Toppings",
+      "category": "sauces",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 243",
+      "description": "Dress up steaks and burgers with one of these sauces. Each makes enough for 4 servings.",
+      "notes": [
+        "Mushroom-Onion Sauce: Cook 1 cup sliced fresh mushrooms and \u00bc cup sliced green onion in 2 tablespoons margarine or butter. Stir in \u00bd cup dairy sour cream and \u00bc teaspoon pepper. Heat through; do not boil.",
+        "Sour Cream and Chive Sauce: Combine \u00bd cup dairy sour cream, 2 tablespoons snipped chives, 1 tablespoon prepared horseradish, and dash pepper. Chill.",
+        "Mustard-Chive Sauce: In a saucepan melt 1 tablespoon margarine or butter. Stir in 2 tablespoons all-purpose flour and \u00bd teaspoon salt till bubbly. Add \u00be cup milk. Cook and stir till bubbly. Remove from heat. Stir in 1 tablespoon snipped chives and 1 teaspoon Dijon-style mustard.",
+        "Parsley Pesto: In a blender container place 2 cups lightly packed chopped parsley, 2 tablespoons chopped walnuts, 1 clove garlic, quartered. Cover and blend till nearly smooth. Stir in \u00bc cup grated Parmesan cheese."
+      ],
+      "tags": [
+        "sauces",
+        "toppings",
+        "steak",
+        "burgers"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5403 Large.jpeg"
+      ]
+    },
+    {
+      "id": "creamy-cheese-fondue-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Cheese Fondue",
+      "category": "appetizers",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 159",
+      "description": "If you don't have a fondue pot, just serve this creamy fondue from a casserole dish.",
+      "servings_yield": "Serves 3",
+      "ingredients": [
+        {
+          "item": "dry white wine or apple juice",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "\u00bd",
+          "unit": "tsp"
+        },
+        {
+          "item": "package cream cheese with chives, softened",
+          "quantity": "1",
+          "unit": "3-oz"
+        },
+        {
+          "item": "Dippers (breadsticks, cubed French bread, fruit wedges, or vegetables)",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan heat wine or juice just till bubbling. Add American cheese and mustard, stirring till smooth and bubbly. Stir in cream cheese; cook and stir over low heat till smooth."
+        },
+        {
+          "step": 2,
+          "text": "Transfer mixture to a fondue pot. If desired, keep cheese mixture bubbling gently over a fondue burner. Serve with dippers. Serves 3."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: In 1-quart casserole mix \u00bd cup wine or juice, American cheese, mustard, and cream cheese. Micro-cook on 100% power (high) for 4 to 5 minutes or till melted and bubbly, stir every minute. Serve as above."
+        }
+      ],
+      "tags": [
+        "appetizer",
+        "fondue",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5320 Large.jpeg",
+        "IMG_5321 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cheese-strata-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Strata",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 159",
+      "servings_yield": "Serves 6",
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "ingredients": [
+        {
+          "item": "slices bread, halved diagonally",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "slices American or Swiss cheese",
+          "quantity": "5",
+          "unit": "1-oz"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "prepared mustard or Dijon-style mustard",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "Paprika",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves. Beat eggs; stir in milk, onion, mustard, \u00bc teaspoon salt, and \u215b teaspoon pepper. Pour over bread and cheese layers. Sprinkle with paprika. Cover; chill in the refrigerator for 2 to 24 hours."
+        },
+        {
+          "step": 2,
+          "text": "Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes. Serves 6."
+        }
+      ],
+      "notes": [
+        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices.",
+        "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
+      ],
+      "tags": [
+        "main dish",
+        "cheese",
+        "strata",
+        "brunch"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5320 Large.jpeg",
+        "IMG_5321 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cheese-stuffed-manicotti-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese-Stuffed Manicotti",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 159",
+      "servings_yield": "Serves 4",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "ingredients": [
+        {
+          "item": "manicotti shells",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1\u00bd",
+          "unit": "cups"
+        },
+        {
+          "item": "shredded process Swiss cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "ricotta cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "shredded mozzarella cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "\u00bd",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "\u00bc",
+          "unit": "cup"
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "\u00bc",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "\u215b",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook manicotti according to package directions (or see chart, page 278); drain. For sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine; stir till cheese melts."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl stir together egg, ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, peel, and nutmeg. Fill manicotti with ricotta mixture. Arrange in a 12x7\u00bdx2-inch baking dish. Pour sauce over filled shells. Cover and bake in a 350\u00b0 oven for 35 to 40 minutes or till hot. Serves 4."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: Cook manicotti as above. For sauce, in a 4-cup measure combine onion, garlic, and margarine. Micro-cook on 100% power (high) for 1\u00bd to 2\u00bd minutes or till onion is tender. Stir in flour. Add 1 cup milk. Stir. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every minute till sauce starts to thicken, then every 30 seconds. Add Swiss cheese and wine; stir till cheese melts. Fill manicotti as above. Pour sauce atop. Cook, covered with vented clear plastic wrap, on high for 4 to 6 minutes or till heated through, turning dish once."
+        }
+      ],
+      "notes": [
+        "Spinach Manicotti: Prepare as above, except reduce ricotta to \u00bd cup. Omit mozzarella and parsley. Add \u00bd cup crumbled feta cheese and one 10-ounce package frozen chopped spinach, thawed and drained, to ricotta mixture.",
+        "Creamy Lasagna: Prepare as above, except substitute 8 lasagna noodles for the manicotti. Spread \u00bc cup ricotta mixture over each cooked lasagna noodle. Roll up noodles and place, seam side down, in an 8x8x2-inch baking dish."
+      ],
+      "tags": [
+        "main dish",
+        "pasta",
+        "manicotti",
+        "cheese",
+        "italian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5320 Large.jpeg",
+        "IMG_5321 Large.jpeg"
       ]
     }
   ],
