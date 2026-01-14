@@ -183,17 +183,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 41,
-          "fat_g": 0.6,
-          "protein_g": 0.0,
-          "carbs_g": 9.2
+          "calories": 50,
+          "fat_g": 0.7,
+          "protein_g": 0.3,
+          "carbs_g": 11.3
         },
         "missing_inputs": [
-          "Not in database: apricot halves or peach slices",
           "Not in database: Batter for Busy-Day Cake"
         ],
         "assumptions": [
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 4/5 ingredients (80% coverage)"
         ]
       }
     },
@@ -401,10 +400,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 292,
-          "fat_g": 16.2,
-          "protein_g": 4.0,
-          "carbs_g": 34.1
+          "calories": 239,
+          "fat_g": 10.4,
+          "protein_g": 3.7,
+          "carbs_g": 33.6
         },
         "missing_inputs": [],
         "assumptions": [
@@ -522,11 +521,9 @@
           "protein_g": 4.2,
           "carbs_g": 32.7
         },
-        "missing_inputs": [
-          "Not in database: ground nutmeg or allspice"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -868,18 +865,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 280,
+          "calories": 282,
           "fat_g": 3.2,
-          "protein_g": 4.9,
-          "carbs_g": 58.2
+          "protein_g": 5.0,
+          "carbs_g": 58.6
         },
-        "missing_inputs": [
-          "Not in database: finely shredded orange peel or finely shredded lemon peel",
-          "Not in database: Lemon Filling"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1 unit for Lemon Filling",
           "Assumed 1 unit for Lemon or Orange Butter Frosting",
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -1271,11 +1266,9 @@
           "protein_g": 4.5,
           "carbs_g": 52.3
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -1528,9 +1521,9 @@
         "status": "partial",
         "per_serving": {
           "calories": 170,
-          "fat_g": 2.1,
-          "protein_g": 3.3,
-          "carbs_g": 34.8
+          "fat_g": 1.7,
+          "protein_g": 3.6,
+          "carbs_g": 35.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -1674,16 +1667,14 @@
         "status": "partial",
         "per_serving": {
           "calories": 167,
-          "fat_g": 5.5,
-          "protein_g": 3.0,
-          "carbs_g": 27.1
+          "fat_g": 5.0,
+          "protein_g": 3.4,
+          "carbs_g": 27.8
         },
-        "missing_inputs": [
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for Coconut-Pecan Frosting",
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -1946,12 +1937,9 @@
           "protein_g": 3.7,
           "carbs_g": 36.8
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -2053,10 +2041,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 94,
-          "fat_g": 8.8,
-          "protein_g": 0.8,
-          "carbs_g": 3.4
+          "calories": 59,
+          "fat_g": 5.0,
+          "protein_g": 0.5,
+          "carbs_g": 3.1
         },
         "missing_inputs": [
           "Not in database: Fudge Cake",
@@ -2901,18 +2889,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 108,
+          "calories": 112,
           "fat_g": 3.3,
           "protein_g": 2.4,
           "carbs_g": 18.0
         },
         "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground nutmeg",
-          "Not in database: ground allspice"
+          "Not in database: diced mixed candied fruits and peels, or snipped mixed dried fruit"
         ],
         "assumptions": [
-          "Based on 11/17 ingredients (65% coverage)"
+          "Assumed 1 unit for brandy or fruit juice",
+          "Based on 16/17 ingredients (94% coverage)"
         ]
       }
     },
@@ -2999,6 +2986,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 90,
+          "fat_g": 0.3,
+          "protein_g": 0.9,
+          "carbs_g": 22.8
+        },
+        "missing_inputs": [
+          "Not in database: Batter for Busy-Day Cake"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
       }
     },
     {
@@ -3099,6 +3101,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 215,
+          "fat_g": 7.1,
+          "protein_g": 3.8,
+          "carbs_g": 33.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Broiled Coconut Topping or whipped cream and fresh fruit (optional)",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3192,6 +3208,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 275,
+          "fat_g": 2.4,
+          "protein_g": 5.1,
+          "carbs_g": 58.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3295,6 +3324,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 255,
+          "fat_g": 2.7,
+          "protein_g": 5.4,
+          "carbs_g": 52.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3423,6 +3465,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 203,
+          "fat_g": 2.1,
+          "protein_g": 4.3,
+          "carbs_g": 41.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 13/13 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3543,6 +3598,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 228,
+          "fat_g": 1.8,
+          "protein_g": 4.3,
+          "carbs_g": 49.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3661,6 +3729,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 173,
+          "fat_g": 1.6,
+          "protein_g": 3.0,
+          "carbs_g": 37.8
+        },
+        "missing_inputs": [
+          "Not in database: chopped nuts"
+        ],
+        "assumptions": [
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
       }
     },
     {
@@ -3763,6 +3846,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 202,
+          "fat_g": 1.7,
+          "protein_g": 3.6,
+          "carbs_g": 43.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3883,6 +3979,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 218,
+          "fat_g": 4.7,
+          "protein_g": 4.1,
+          "carbs_g": 40.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Coconut-Pecan Frosting",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3988,6 +4098,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 181,
+          "fat_g": 2.0,
+          "protein_g": 3.2,
+          "carbs_g": 38.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4094,6 +4217,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 210,
+          "fat_g": 1.9,
+          "protein_g": 3.2,
+          "carbs_g": 45.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4188,6 +4324,25 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 59,
+          "fat_g": 5.0,
+          "protein_g": 0.5,
+          "carbs_g": 3.1
+        },
+        "missing_inputs": [
+          "Not in database: Fudge Cake",
+          "Not in database: Choose-a-Fruit Filling (cherry option)"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Chocolate Butter Frosting",
+          "Assumed 1 unit for whipped cream (optional)",
+          "Assumed 1 unit for chocolate shavings (optional)",
+          "Based on 3/5 ingredients (60% coverage)"
+        ]
       }
     },
     {
@@ -4285,6 +4440,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 241,
+          "fat_g": 2.6,
+          "protein_g": 4.2,
+          "carbs_g": 50.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4394,6 +4562,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 195,
+          "fat_g": 4.5,
+          "protein_g": 4.0,
+          "carbs_g": 34.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4519,6 +4700,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 222,
+          "fat_g": 5.2,
+          "protein_g": 7.4,
+          "carbs_g": 36.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4607,6 +4801,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 162,
+          "fat_g": 1.8,
+          "protein_g": 3.2,
+          "carbs_g": 33.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4709,6 +4916,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 162,
+          "fat_g": 1.0,
+          "protein_g": 1.8,
+          "carbs_g": 37.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4822,6 +5042,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 272,
+          "fat_g": 6.7,
+          "protein_g": 9.4,
+          "carbs_g": 43.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4946,6 +5179,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 192,
+          "fat_g": 4.1,
+          "protein_g": 5.5,
+          "carbs_g": 33.6
+        },
+        "missing_inputs": [
+          "Not in database: jelly or jam"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for sifted powdered sugar",
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
       }
     },
     {
@@ -5045,6 +5294,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 267,
+          "fat_g": 19.5,
+          "protein_g": 6.5,
+          "carbs_g": 19.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Chocolate Butter Frosting",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     }
   ]

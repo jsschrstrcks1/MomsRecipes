@@ -117,14 +117,11 @@
           "protein_g": 0.7,
           "carbs_g": 4.9
         },
-        "missing_inputs": [
-          "Not in database: ground cumin",
-          "Not in database: curry powder",
-          "Not in database: hot pepper paste or Tabasco"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1 unit for hot pepper paste or Tabasco",
           "Estimated 4 servings based on total calories",
-          "Based on 6/10 ingredients (60% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -269,18 +266,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 30,
+          "calories": 31,
           "fat_g": 0.1,
           "protein_g": 0.5,
-          "carbs_g": 6.9
+          "carbs_g": 7.1
         },
         "missing_inputs": [
-          "Not in database: finely shredded orange peel",
-          "Not in database: ground cinnamon",
           "Not in database: canned or frozen fruit"
         ],
         "assumptions": [
-          "Based on 2/5 ingredients (40% coverage)"
+          "Based on 4/5 ingredients (80% coverage)"
         ]
       }
     },
@@ -362,11 +357,9 @@
           "protein_g": 0.5,
           "carbs_g": 23.3
         },
-        "missing_inputs": [
-          "Not in database: finely shredded orange peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -463,11 +456,9 @@
           "protein_g": 2.5,
           "carbs_g": 77.9
         },
-        "missing_inputs": [
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -622,18 +613,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 194,
-          "fat_g": 0.0,
-          "protein_g": 0.0,
-          "carbs_g": 50.0
+          "calories": 224,
+          "fat_g": 0.1,
+          "protein_g": 0.5,
+          "carbs_g": 57.5
         },
         "missing_inputs": [
-          "Not in database: water",
-          "Not in database: orange peel strip",
           "Not in database: rhubarb"
         ],
         "assumptions": [
-          "Based on 1/4 ingredients (25% coverage)"
+          "Based on 3/4 ingredients (75% coverage)"
         ]
       }
     },
@@ -795,17 +784,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 242,
+          "calories": 246,
           "fat_g": 3.9,
           "protein_g": 3.0,
           "carbs_g": 50.2
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: bourbon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -1133,14 +1119,11 @@
           "protein_g": 0.7,
           "carbs_g": 4.8
         },
-        "missing_inputs": [
-          "Not in database: ground cumin",
-          "Not in database: curry powder",
-          "Not in database: hot pepper paste or Tabasco"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1 unit for hot pepper paste or Tabasco",
           "Estimated 4 servings based on total calories",
-          "Based on 6/10 ingredients (60% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -2172,7 +2155,15 @@
       },
       "image_refs": [
         "IMG_5403 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [
+          "No ingredients listed"
+        ],
+        "assumptions": []
+      }
     },
     {
       "id": "spaghetti-sauce",
@@ -2293,9 +2284,16 @@
       ],
       "nutrition": {
         "status": "partial",
-        "per_serving": {},
+        "per_serving": {
+          "calories": 462,
+          "fat_g": 16.1,
+          "protein_g": 23.6,
+          "carbs_g": 53.6
+        },
         "missing_inputs": [],
-        "assumptions": []
+        "assumptions": [
+          "Based on 13/13 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2364,7 +2362,23 @@
       },
       "image_refs": [
         "IMG_5374 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 65,
+          "fat_g": 0.4,
+          "protein_g": 3.1,
+          "carbs_g": 11.9
+        },
+        "missing_inputs": [
+          "Not in database: pan drippings from roast"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for beef broth or water",
+          "Based on 2/3 ingredients (67% coverage)"
+        ]
+      }
     },
     {
       "id": "pan-gravy-roasted-meat-bhg",
@@ -2432,7 +2446,22 @@
       },
       "image_refs": [
         "IMG_5374 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 57,
+          "fat_g": 0.1,
+          "protein_g": 1.6,
+          "carbs_g": 11.9
+        },
+        "missing_inputs": [
+          "Not in database: pan drippings from roast"
+        ],
+        "assumptions": [
+          "Based on 2/3 ingredients (67% coverage)"
+        ]
+      }
     },
     {
       "id": "fruit-sauce-bhg",
@@ -2491,6 +2520,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 212,
+          "fat_g": 0.1,
+          "protein_g": 1.5,
+          "carbs_g": 54.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2551,6 +2593,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 843,
+          "fat_g": 44.7,
+          "protein_g": 2.5,
+          "carbs_g": 113.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2607,6 +2662,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 95,
+          "fat_g": 0.3,
+          "protein_g": 0.5,
+          "carbs_g": 23.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2657,6 +2725,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 224,
+          "fat_g": 0.1,
+          "protein_g": 0.5,
+          "carbs_g": 57.5
+        },
+        "missing_inputs": [
+          "Not in database: 1/2-inch rhubarb slices"
+        ],
+        "assumptions": [
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
       }
     },
     {
@@ -2714,6 +2797,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1109,
+          "fat_g": 98.0,
+          "protein_g": 17.0,
+          "carbs_g": 45.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2771,6 +2867,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 246,
+          "fat_g": 3.9,
+          "protein_g": 3.0,
+          "carbs_g": 50.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2819,6 +2928,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 458,
+          "fat_g": 44.0,
+          "protein_g": 2.5,
+          "carbs_g": 16.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2870,6 +2992,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 246,
+          "fat_g": 1.4,
+          "protein_g": 0.0,
+          "carbs_g": 59.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2922,6 +3057,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 19,
+          "fat_g": 2.1,
+          "protein_g": 0.0,
+          "carbs_g": 0.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     }
   ]

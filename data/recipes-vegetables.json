@@ -70,7 +70,21 @@
       },
       "image_refs": [
         "IMG_5549 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 74,
+          "fat_g": 1.6,
+          "protein_g": 4.1,
+          "carbs_g": 13.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Lemon juice",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "artichokes-au-gratin-bhg",
@@ -162,7 +176,20 @@
       },
       "image_refs": [
         "IMG_5550 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 80,
+          "fat_g": 2.4,
+          "protein_g": 4.4,
+          "carbs_g": 11.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "asparagus-dijon-bhg",
@@ -226,7 +253,20 @@
       },
       "image_refs": [
         "IMG_5550 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 94,
+          "fat_g": 8.4,
+          "protein_g": 2.5,
+          "carbs_g": 3.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "sesame-asparagus-bhg",
@@ -291,7 +331,22 @@
       },
       "image_refs": [
         "IMG_5551 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 11,
+          "fat_g": 0.3,
+          "protein_g": 1.1,
+          "carbs_g": 1.4
+        },
+        "missing_inputs": [
+          "Not in database: sesame seed"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "green-beans-amandine-bhg",
@@ -345,7 +400,20 @@
       },
       "image_refs": [
         "IMG_5551 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 42,
+          "fat_g": 3.2,
+          "protein_g": 1.6,
+          "carbs_g": 2.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamy-green-bean-bake-bhg",
@@ -401,7 +469,22 @@
       },
       "image_refs": [
         "IMG_5551 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 132,
+          "fat_g": 10.2,
+          "protein_g": 2.2,
+          "carbs_g": 8.7
+        },
+        "missing_inputs": [
+          "Not in database: diced pimiento"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "creole-style-green-beans-bhg",
@@ -462,7 +545,20 @@
       },
       "image_refs": [
         "IMG_5551 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 55,
+          "fat_g": 1.8,
+          "protein_g": 6.9,
+          "carbs_g": 3.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cheesy-bean-combo-bhg",
@@ -531,7 +627,20 @@
       },
       "image_refs": [
         "IMG_5552 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 127,
+          "fat_g": 4.7,
+          "protein_g": 6.1,
+          "carbs_g": 16.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "lima-beans-and-mushrooms-bhg",
@@ -590,7 +699,20 @@
       },
       "image_refs": [
         "IMG_5552 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 14,
+          "fat_g": 0.2,
+          "protein_g": 1.1,
+          "carbs_g": 2.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "baked-bean-quintet-bhg",
@@ -699,7 +821,22 @@
       },
       "image_refs": [
         "IMG_5552 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 125,
+          "fat_g": 3.2,
+          "protein_g": 5.9,
+          "carbs_g": 19.2
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Based on 13/14 ingredients (93% coverage)"
+        ]
+      }
     },
     {
       "id": "baked-beans-bhg",
@@ -783,7 +920,20 @@
       },
       "image_refs": [
         "IMG_5553 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 56,
+          "fat_g": 0.2,
+          "protein_g": 1.8,
+          "carbs_g": 12.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "shortcut-baked-beans-bhg",
@@ -859,7 +1009,22 @@
       },
       "image_refs": [
         "IMG_5553 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 81,
+          "fat_g": 2.6,
+          "protein_g": 3.3,
+          "carbs_g": 12.0
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "harvard-beets-bhg",
@@ -915,7 +1080,20 @@
       },
       "image_refs": [
         "IMG_5554 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 84,
+          "fat_g": 0.4,
+          "protein_g": 2.0,
+          "carbs_g": 19.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "orange-glazed-beets-bhg",
@@ -979,7 +1157,20 @@
       },
       "image_refs": [
         "IMG_5554 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 80,
+          "fat_g": 0.4,
+          "protein_g": 2.1,
+          "carbs_g": 18.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "broccoli-oriental-bhg",
@@ -1038,7 +1229,21 @@
       },
       "image_refs": [
         "IMG_5554 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 37,
+          "fat_g": 0.7,
+          "protein_g": 1.4,
+          "carbs_g": 6.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Dash ground red pepper",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "golden-broccoli-bake-bhg",
@@ -1105,7 +1310,22 @@
       },
       "image_refs": [
         "IMG_5554 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 62,
+          "fat_g": 3.8,
+          "protein_g": 1.7,
+          "carbs_g": 5.6
+        },
+        "missing_inputs": [
+          "Not in database: chopped pimiento"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "curried-brussels-sprouts-bhg",
@@ -1175,7 +1395,20 @@
       },
       "image_refs": [
         "IMG_5555 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 48,
+          "fat_g": 2.8,
+          "protein_g": 2.6,
+          "carbs_g": 4.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamy-brussels-sprouts-bhg",
@@ -1250,7 +1483,20 @@
       },
       "image_refs": [
         "IMG_5555 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 95,
+          "fat_g": 7.0,
+          "protein_g": 2.6,
+          "carbs_g": 6.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "pennsylvania-red-cabbage-bhg",
@@ -1311,7 +1557,22 @@
       },
       "image_refs": [
         "IMG_5556 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 76,
+          "fat_g": 0.4,
+          "protein_g": 0.8,
+          "carbs_g": 18.6
+        },
+        "missing_inputs": [
+          "Not in database: caraway seed"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "pecan-cabbage-toss-bhg",
@@ -1371,7 +1632,20 @@
       },
       "image_refs": [
         "IMG_5556 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 79,
+          "fat_g": 5.2,
+          "protein_g": 1.9,
+          "carbs_g": 7.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "brown-sugar-glazed-carrots-bhg",
@@ -1420,7 +1694,20 @@
       },
       "image_refs": [
         "IMG_5556 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 33,
+          "fat_g": 0.2,
+          "protein_g": 0.4,
+          "carbs_g": 7.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "sweet-and-sour-carrots-bhg",
@@ -1490,7 +1777,20 @@
       },
       "image_refs": [
         "IMG_5556 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 84,
+          "fat_g": 0.8,
+          "protein_g": 2.9,
+          "carbs_g": 18.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "carrots-in-almond-sauce-bhg",
@@ -1559,7 +1859,20 @@
       },
       "image_refs": [
         "IMG_5557 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 67,
+          "fat_g": 4.9,
+          "protein_g": 2.2,
+          "carbs_g": 4.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cauliflower-in-cheese-sauce-bhg",
@@ -1623,7 +1936,20 @@
       },
       "image_refs": [
         "IMG_5557 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 50,
+          "fat_g": 2.4,
+          "protein_g": 2.8,
+          "carbs_g": 4.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "nutty-cauliflower-bhg",
@@ -1683,7 +2009,20 @@
       },
       "image_refs": [
         "IMG_5557 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 60,
+          "fat_g": 5.2,
+          "protein_g": 1.3,
+          "carbs_g": 3.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamy-curried-corn-bhg",
@@ -1757,7 +2096,21 @@
       },
       "image_refs": [
         "IMG_5557 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 99,
+          "fat_g": 3.6,
+          "protein_g": 3.2,
+          "carbs_g": 16.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Dash pepper",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "corn-on-the-cob-bhg",
@@ -1802,7 +2155,22 @@
       },
       "image_refs": [
         "IMG_5558 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 33,
+          "fat_g": 0.5,
+          "protein_g": 1.2,
+          "carbs_g": 7.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Fresh ears of corn",
+          "Estimated 4 servings based on total calories",
+          "Based on 1/1 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "scalloped-corn-bhg",
@@ -1873,7 +2241,20 @@
       },
       "image_refs": [
         "IMG_5558 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 300,
+          "fat_g": 25.6,
+          "protein_g": 5.6,
+          "carbs_g": 14.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "eggplant-parmigiana-bhg",
@@ -1949,7 +2330,20 @@
       },
       "image_refs": [
         "IMG_5558 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 141,
+          "fat_g": 4.0,
+          "protein_g": 6.6,
+          "carbs_g": 19.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "kohlrabi-with-honey-butter-bhg",
@@ -2024,7 +2418,22 @@
       },
       "image_refs": [
         "IMG_5559 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 15,
+          "fat_g": 0.2,
+          "protein_g": 0.3,
+          "carbs_g": 3.2
+        },
+        "missing_inputs": [
+          "Not in database: small kohlrabies (about 1 pound), peeled and cut into 1/4-inch-thick julienne strips (3 cups)"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "herb-buttered-mushrooms-bhg",
@@ -2090,7 +2499,20 @@
       },
       "image_refs": [
         "IMG_5559 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 14,
+          "fat_g": 0.4,
+          "protein_g": 0.7,
+          "carbs_g": 2.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "smothered-okra-bhg",
@@ -2165,7 +2587,20 @@
       },
       "image_refs": [
         "IMG_5559 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 49,
+          "fat_g": 0.7,
+          "protein_g": 2.3,
+          "carbs_g": 10.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "fried-onion-rings-bhg",
@@ -2231,7 +2666,21 @@
       },
       "image_refs": [
         "IMG_5560 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 226,
+          "fat_g": 6.6,
+          "protein_g": 7.4,
+          "carbs_g": 35.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Shortening or cooking oil for deep-fat frying",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "parsnip-puff-bhg",
@@ -2300,7 +2749,20 @@
       },
       "image_refs": [
         "IMG_5560 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 131,
+          "fat_g": 3.8,
+          "protein_g": 5.6,
+          "carbs_g": 19.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cheese-topped-parsnips-bhg",
@@ -2350,7 +2812,20 @@
       },
       "image_refs": [
         "IMG_5560 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 35,
+          "fat_g": 1.0,
+          "protein_g": 0.9,
+          "carbs_g": 6.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "dilled-peas-and-walnuts-bhg",
@@ -2420,7 +2895,20 @@
       },
       "image_refs": [
         "IMG_5560 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 124,
+          "fat_g": 5.3,
+          "protein_g": 5.6,
+          "carbs_g": 15.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "swiss-cheese-creamed-peas-bhg",
@@ -2501,7 +2989,21 @@
       },
       "image_refs": [
         "IMG_5561 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 439,
+          "fat_g": 39.5,
+          "protein_g": 7.3,
+          "carbs_g": 16.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Light cream or milk (optional)",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "mashed-potatoes-bhg",
@@ -2552,7 +3054,21 @@
       },
       "image_refs": [
         "IMG_5561 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 303,
+          "fat_g": 2.6,
+          "protein_g": 8.8,
+          "carbs_g": 63.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Milk",
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "baked-potatoes-bhg",
@@ -2595,7 +3111,22 @@
       },
       "image_refs": [
         "IMG_5562 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 26,
+          "fat_g": 0.0,
+          "protein_g": 0.5,
+          "carbs_g": 6.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Baking potatoes or sweet potatoes",
+          "Estimated 4 servings based on total calories",
+          "Based on 1/1 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "scalloped-potatoes-bhg",
@@ -2668,7 +3199,20 @@
       },
       "image_refs": [
         "IMG_5562 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 331,
+          "fat_g": 3.2,
+          "protein_g": 9.8,
+          "carbs_g": 67.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "twice-baked-potatoes-bhg",
@@ -2732,7 +3276,21 @@
       },
       "image_refs": [
         "IMG_5562 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 495,
+          "fat_g": 12.5,
+          "protein_g": 14.1,
+          "carbs_g": 84.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Milk (optional)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "french-fries-bhg",
@@ -2785,7 +3343,21 @@
       },
       "image_refs": [
         "IMG_5563 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 378,
+          "fat_g": 3.6,
+          "protein_g": 9.0,
+          "carbs_g": 80.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Shortening or cooking oil for deep-fat frying",
+          "Based on 2/2 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cottage-fried-potatoes-bhg",
@@ -2839,7 +3411,20 @@
       },
       "image_refs": [
         "IMG_5563 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 283,
+          "fat_g": 0.9,
+          "protein_g": 7.3,
+          "carbs_g": 63.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "hashed-brown-potatoes-bhg",
@@ -2884,7 +3469,20 @@
       },
       "image_refs": [
         "IMG_5563 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 269,
+          "fat_g": 0.8,
+          "protein_g": 6.9,
+          "carbs_g": 60.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "candied-sweet-potatoes-bhg",
@@ -2937,7 +3535,20 @@
       },
       "image_refs": [
         "IMG_5563 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 118,
+          "fat_g": 0.2,
+          "protein_g": 1.5,
+          "carbs_g": 28.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamy-spinach-bhg",
@@ -2997,7 +3608,20 @@
       },
       "image_refs": [
         "IMG_5564 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 32,
+          "fat_g": 1.7,
+          "protein_g": 1.7,
+          "carbs_g": 2.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "candied-acorn-squash-bhg",
@@ -3054,7 +3678,20 @@
       },
       "image_refs": [
         "IMG_5564 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 102,
+          "fat_g": 0.5,
+          "protein_g": 0.5,
+          "carbs_g": 25.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "spaghetti-squash-marinara-bhg",
@@ -3145,7 +3782,24 @@
       },
       "image_refs": [
         "IMG_5564 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 56,
+          "fat_g": 0.7,
+          "protein_g": 2.3,
+          "carbs_g": 10.6
+        },
+        "missing_inputs": [
+          "Not in database: dried Italian seasoning",
+          "Not in database: fennel seed, crushed (optional)"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Grated Parmesan cheese (optional)",
+          "Based on 8/10 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "scalloped-tomatoes-bhg",
@@ -3216,7 +3870,20 @@
       },
       "image_refs": [
         "IMG_5565 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 108,
+          "fat_g": 1.5,
+          "protein_g": 4.0,
+          "carbs_g": 21.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "crumb-topped-tomatoes-bhg",
@@ -3282,7 +3949,21 @@
       },
       "image_refs": [
         "IMG_5565 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 33,
+          "fat_g": 0.6,
+          "protein_g": 1.4,
+          "carbs_g": 6.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Dash garlic or onion salt",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "lemon-buttered-turnips-bhg",
@@ -3333,7 +4014,20 @@
       },
       "image_refs": [
         "IMG_5565 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 38,
+          "fat_g": 0.5,
+          "protein_g": 1.3,
+          "carbs_g": 7.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cheddar-zucchini-puff-bhg",
@@ -3423,7 +4117,20 @@
       },
       "image_refs": [
         "IMG_5565 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 92,
+          "fat_g": 6.8,
+          "protein_g": 4.0,
+          "carbs_g": 4.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "zucchini-in-dill-sauce-bhg",
@@ -3498,7 +4205,20 @@
       },
       "image_refs": [
         "IMG_5566 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 77,
+          "fat_g": 5.9,
+          "protein_g": 1.4,
+          "carbs_g": 5.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "broccoli-carrot-stir-fry-bhg",
@@ -3577,7 +4297,20 @@
       },
       "image_refs": [
         "IMG_5566 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 68,
+          "fat_g": 2.8,
+          "protein_g": 1.9,
+          "carbs_g": 9.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "asparagus-tomato-stir-fry-bhg",
@@ -3666,7 +4399,20 @@
       },
       "image_refs": [
         "IMG_5567 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 63,
+          "fat_g": 0.8,
+          "protein_g": 4.4,
+          "carbs_g": 12.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cauliflower-broccoli-bake-bhg",
@@ -3756,7 +4502,20 @@
       },
       "image_refs": [
         "IMG_5567 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 176,
+          "fat_g": 12.6,
+          "protein_g": 4.2,
+          "carbs_g": 12.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "ratatouille-bhg",
@@ -3839,7 +4598,20 @@
       },
       "image_refs": [
         "IMG_5567 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 55,
+          "fat_g": 1.7,
+          "protein_g": 2.5,
+          "carbs_g": 9.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "broccoli-onion-casserole-bhg",
@@ -3935,7 +4707,20 @@
       },
       "image_refs": [
         "IMG_5568 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 145,
+          "fat_g": 3.6,
+          "protein_g": 5.4,
+          "carbs_g": 23.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamed-peas-and-new-potatoes-bhg",
@@ -4010,7 +4795,21 @@
       },
       "image_refs": [
         "IMG_5568 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 188,
+          "fat_g": 2.6,
+          "protein_g": 7.5,
+          "carbs_g": 35.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Dash pepper",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "saucy-rutabaga-potato-combo-bhg",
@@ -4075,7 +4874,22 @@
       },
       "image_refs": [
         "IMG_5568 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 76,
+          "fat_g": 1.2,
+          "protein_g": 2.1,
+          "carbs_g": 14.7
+        },
+        "missing_inputs": [
+          "Not in database: cubed, peeled rutabaga"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "cheesy-potato-carrot-bake-bhg",
@@ -4147,7 +4961,22 @@
       },
       "image_refs": [
         "IMG_5569 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 307,
+          "fat_g": 2.8,
+          "protein_g": 9.1,
+          "carbs_g": 63.5
+        },
+        "missing_inputs": [
+          "Not in database: caraway seed"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "vegetables-au-gratin-bhg",
@@ -4222,7 +5051,23 @@
       },
       "image_refs": [
         "IMG_5569 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 81,
+          "fat_g": 3.8,
+          "protein_g": 3.3,
+          "carbs_g": 8.6
+        },
+        "missing_inputs": [
+          "Not in database: cooked or canned vegetables, drained"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Dash pepper",
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "squash-corn-medley-bhg",
@@ -4292,7 +5137,22 @@
       },
       "image_refs": [
         "IMG_5569 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 129,
+          "fat_g": 4.4,
+          "protein_g": 4.0,
+          "carbs_g": 21.3
+        },
+        "missing_inputs": [
+          "Not in database: chopped pimiento"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "carrot-rice-casserole-bhg",
@@ -4373,7 +5233,20 @@
       },
       "image_refs": [
         "IMG_5569 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 118,
+          "fat_g": 4.2,
+          "protein_g": 4.5,
+          "carbs_g": 16.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cheesy-artichoke-casserole-bhg",
@@ -4473,7 +5346,21 @@
       },
       "image_refs": [
         "IMG_5570 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 173,
+          "fat_g": 11.0,
+          "protein_g": 5.3,
+          "carbs_g": 15.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Dash pepper",
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "turnip-zucchini-casserole-bhg",
@@ -4549,7 +5436,20 @@
       },
       "image_refs": [
         "IMG_5570 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 44,
+          "fat_g": 1.1,
+          "protein_g": 2.1,
+          "carbs_g": 7.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamy-succotash-bhg",
@@ -4614,7 +5514,23 @@
       },
       "image_refs": [
         "IMG_5570 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 39,
+          "fat_g": 1.6,
+          "protein_g": 1.7,
+          "carbs_g": 4.7
+        },
+        "missing_inputs": [
+          "Not in database: package frozen succotash"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Dash pepper",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "spinach-green-bean-casserole-bhg",
@@ -4710,7 +5626,20 @@
       },
       "image_refs": [
         "IMG_5570 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 127,
+          "fat_g": 4.0,
+          "protein_g": 4.9,
+          "carbs_g": 18.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "garden-vegetable-stir-fry-bhg",
@@ -4812,7 +5741,22 @@
       },
       "image_refs": [
         "IMG_5571 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 64,
+          "fat_g": 0.6,
+          "protein_g": 2.6,
+          "carbs_g": 14.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Dash pepper",
+          "Assumed 1 unit for Tomato wedges (optional)",
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "green-pepper-boats-bhg",
@@ -4886,7 +5830,20 @@
       },
       "image_refs": [
         "IMG_5571 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 149,
+          "fat_g": 6.9,
+          "protein_g": 5.0,
+          "carbs_g": 16.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     }
   ]
 }

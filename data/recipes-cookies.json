@@ -2653,17 +2653,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 227,
-          "fat_g": 15.4,
-          "protein_g": 1.8,
-          "carbs_g": 23.0
+          "calories": 224,
+          "fat_g": 11.2,
+          "protein_g": 3.9,
+          "carbs_g": 28.7
         },
-        "missing_inputs": [
-          "Not in database: dry Chinese noodles"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Estimated 4 servings based on total calories",
-          "Based on 2/3 ingredients (67% coverage)"
+          "Estimated 6 servings based on total calories",
+          "Based on 3/3 ingredients (100% coverage)"
         ]
       }
     },
@@ -3200,7 +3198,23 @@
       },
       "image_refs": [
         "IMG_5164 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 112,
+          "fat_g": 5.4,
+          "protein_g": 1.2,
+          "carbs_g": 15.7
+        },
+        "missing_inputs": [
+          "Not in database: almond extract"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for sugar",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "oatmeal-cookies-bhg",
@@ -3299,7 +3313,20 @@
       },
       "image_refs": [
         "IMG_5164 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 68,
+          "fat_g": 3,
+          "protein_g": 1,
+          "carbs_g": 10,
+          "cholesterol_mg": 35,
+          "sodium_mg": 3
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "coconut-macaroons-bhg",
@@ -3372,7 +3399,20 @@
       },
       "image_refs": [
         "IMG_5164 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 34,
+          "fat_g": 1,
+          "protein_g": 0,
+          "carbs_g": 6,
+          "cholesterol_mg": 4,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "christmas-tree-cookies-bhg",
@@ -3477,7 +3517,25 @@
       },
       "image_refs": [
         "IMG_5165 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 37,
+          "fat_g": 0.3,
+          "protein_g": 0.4,
+          "carbs_g": 8.2
+        },
+        "missing_inputs": [
+          "Not in database: almond extract",
+          "Not in database: container confetti decors"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for green sugar crystals",
+          "Based on 6/8 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "cookie-chalets-bhg",
@@ -3599,7 +3657,24 @@
       },
       "image_refs": [
         "IMG_5166 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 115,
+          "fat_g": 3.9,
+          "protein_g": 2.6,
+          "carbs_g": 18.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for sugar",
+          "Assumed 1 unit for shortening",
+          "Assumed 1 unit for light molasses",
+          "Assumed 1 unit for ground cinnamon",
+          "Assumed 1 unit for baking soda"
+        ]
+      }
     },
     {
       "id": "gingerbread-men-bhg",
@@ -3711,7 +3786,26 @@
       },
       "image_refs": [
         "IMG_5166 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 99,
+          "fat_g": 0.9,
+          "protein_g": 1.9,
+          "carbs_g": 20.9
+        },
+        "missing_inputs": [
+          "Not in database: Ornamental Cookie Frosting (p.338)"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for sugar",
+          "Assumed 1 unit for shortening",
+          "Assumed 1 unit for light molasses",
+          "Assumed 1 unit for baking soda",
+          "Assumed 1 unit for salt"
+        ]
+      }
     },
     {
       "id": "lemon-bars-bhg",
@@ -3814,6 +3908,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 100,
+          "fat_g": 4,
+          "protein_g": 1,
+          "carbs_g": 16,
+          "cholesterol_mg": 47,
+          "sodium_mg": 2
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -3920,6 +4027,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 139,
+          "fat_g": 8,
+          "protein_g": 2,
+          "carbs_g": 16,
+          "cholesterol_mg": 28,
+          "sodium_mg": 5
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -3995,6 +4115,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 112,
+          "fat_g": 5,
+          "protein_g": 3,
+          "carbs_g": 14,
+          "cholesterol_mg": 109,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4081,6 +4214,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 96,
+          "fat_g": 4,
+          "protein_g": 1,
+          "carbs_g": 14,
+          "cholesterol_mg": 56,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4200,6 +4346,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 56,
+          "fat_g": 3,
+          "protein_g": 1,
+          "carbs_g": 8,
+          "cholesterol_mg": 5,
+          "sodium_mg": 2
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4311,6 +4470,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 115,
+          "fat_g": 6,
+          "protein_g": 1,
+          "carbs_g": 14,
+          "cholesterol_mg": 51,
+          "sodium_mg": 5
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4416,6 +4588,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 56,
+          "fat_g": 3,
+          "protein_g": 2,
+          "carbs_g": 6,
+          "cholesterol_mg": 69,
+          "sodium_mg": 3
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4542,6 +4727,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 145,
+          "fat_g": 7,
+          "protein_g": 2,
+          "carbs_g": 20,
+          "cholesterol_mg": 72,
+          "sodium_mg": 12
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4645,6 +4843,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 115,
+          "fat_g": 7,
+          "protein_g": 2,
+          "carbs_g": 13,
+          "cholesterol_mg": 51,
+          "sodium_mg": 23
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4756,6 +4967,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 112,
+          "fat_g": 7,
+          "protein_g": 2,
+          "carbs_g": 12,
+          "cholesterol_mg": 56,
+          "sodium_mg": 16
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4899,6 +5123,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 158,
+          "fat_g": 7,
+          "protein_g": 2,
+          "carbs_g": 23,
+          "cholesterol_mg": 138,
+          "sodium_mg": 5
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5025,6 +5262,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 115,
+          "fat_g": 5,
+          "protein_g": 1,
+          "carbs_g": 16,
+          "cholesterol_mg": 74,
+          "sodium_mg": 4
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5126,6 +5376,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 115,
+          "fat_g": 7,
+          "protein_g": 2,
+          "carbs_g": 13,
+          "cholesterol_mg": 51,
+          "sodium_mg": 23
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5240,6 +5503,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 84,
+          "fat_g": 4,
+          "protein_g": 1,
+          "carbs_g": 12,
+          "cholesterol_mg": 42,
+          "sodium_mg": 8
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5349,6 +5625,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 65,
+          "fat_g": 4,
+          "protein_g": 1,
+          "carbs_g": 7,
+          "cholesterol_mg": 23,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5453,6 +5742,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 95,
+          "fat_g": 0,
+          "protein_g": 1,
+          "carbs_g": 11,
+          "cholesterol_mg": 15,
+          "sodium_mg": 6
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5575,6 +5877,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 62,
+          "fat_g": 3,
+          "protein_g": 1,
+          "carbs_g": 9,
+          "cholesterol_mg": 32,
+          "sodium_mg": 4
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5681,6 +5996,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 48,
+          "fat_g": 2,
+          "protein_g": 1,
+          "carbs_g": 6,
+          "cholesterol_mg": 15,
+          "sodium_mg": 5
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5739,6 +6067,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 115,
+          "fat_g": 7,
+          "protein_g": 1,
+          "carbs_g": 11,
+          "cholesterol_mg": 66,
+          "sodium_mg": 15
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5819,6 +6160,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 28,
+          "fat_g": 1,
+          "protein_g": 0,
+          "carbs_g": 4,
+          "cholesterol_mg": 1,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5896,6 +6250,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 80,
+          "fat_g": 5,
+          "protein_g": 1,
+          "carbs_g": 8,
+          "cholesterol_mg": 57,
+          "sodium_mg": 15
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5973,6 +6340,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 76,
+          "fat_g": 4,
+          "protein_g": 1,
+          "carbs_g": 10,
+          "cholesterol_mg": 17,
+          "sodium_mg": 17
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     }
   ]

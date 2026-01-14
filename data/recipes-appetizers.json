@@ -1706,17 +1706,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 9,
+          "calories": 11,
           "fat_g": 0.6,
           "protein_g": 0.5,
-          "carbs_g": 0.6
+          "carbs_g": 0.9
         },
-        "missing_inputs": [
-          "Not in database: large dill pickles",
-          "Not in database: medium jalapeno pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/9 ingredients (78% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -1812,17 +1809,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 4,
-          "fat_g": 0.3,
-          "protein_g": 0.3,
-          "carbs_g": 0.1
+          "calories": 12,
+          "fat_g": 0.6,
+          "protein_g": 0.5,
+          "carbs_g": 1.0
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: herb seasoned stuffing mix"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -1914,18 +1908,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 71,
-          "fat_g": 4.5,
-          "protein_g": 4.0,
-          "carbs_g": 4.2
+          "calories": 103,
+          "fat_g": 6.9,
+          "protein_g": 3.2,
+          "carbs_g": 8.0
         },
         "missing_inputs": [
-          "Not in database: kalamata olives",
-          "Not in database: mint leaves",
-          "Not in database: cucumbers"
+          "Not in database: Greek vinaigrette dressing"
         ],
         "assumptions": [
-          "Based on 2/7 ingredients (29% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -2056,18 +2048,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 244,
-          "fat_g": 20.4,
-          "protein_g": 10.2,
-          "carbs_g": 4.2
+          "calories": 311,
+          "fat_g": 23.0,
+          "protein_g": 12.9,
+          "carbs_g": 13.0
         },
         "missing_inputs": [
-          "Not in database: refried beans",
-          "Not in database: taco seasoning mix",
-          "Not in database: chopped green chilies"
+          "Not in database: taco seasoning mix"
         ],
         "assumptions": [
-          "Based on 5/11 ingredients (45% coverage)"
+          "Assumed 1 unit for tortilla chips",
+          "Based on 10/11 ingredients (91% coverage)"
         ]
       }
     },
@@ -2231,7 +2222,20 @@
       "image_refs": [
         "IMG_5320 Large.jpeg",
         "IMG_5321 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 429,
+          "fat_g": 34,
+          "protein_g": 19,
+          "carbs_g": 4,
+          "cholesterol_mg": 1169,
+          "sodium_mg": 103
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "cheese-fondue-bhg",
@@ -2315,7 +2319,20 @@
       },
       "image_refs": [
         "IMG_5319 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 359,
+          "fat_g": 22,
+          "protein_g": 21,
+          "carbs_g": 2,
+          "cholesterol_mg": 228,
+          "sodium_mg": 75
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "cheese-fondue-bhg",
@@ -2433,7 +2450,20 @@
       },
       "image_refs": [
         "IMG_5319 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 359,
+          "fat_g": 22,
+          "protein_g": 21,
+          "carbs_g": 2,
+          "cholesterol_mg": 228,
+          "sodium_mg": 75
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "onion-cheese-fondue-bhg",
@@ -2519,7 +2549,20 @@
       },
       "image_refs": [
         "IMG_5319 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 359,
+          "fat_g": 22,
+          "protein_g": 21,
+          "carbs_g": 2,
+          "cholesterol_mg": 228,
+          "sodium_mg": 75
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "creamy-cheese-fondue-bhg",
@@ -2601,7 +2644,20 @@
       },
       "image_refs": [
         "IMG_5321 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 429,
+          "fat_g": 34,
+          "protein_g": 19,
+          "carbs_g": 4,
+          "cholesterol_mg": 1169,
+          "sodium_mg": 103
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "pepperoni-bites-bhg",
@@ -2684,7 +2740,25 @@
       },
       "image_refs": [
         "IMG_5176 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 13,
+          "fat_g": 1.0,
+          "protein_g": 0.7,
+          "carbs_g": 0.1
+        },
+        "missing_inputs": [
+          "Not in database: pizza sauce",
+          "Not in database: refrigerated biscuits"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for chopped pepperoni",
+          "Assumed 1 unit for grated Parmesan cheese",
+          "Based on 4/6 ingredients (67% coverage)"
+        ]
+      }
     },
     {
       "id": "crunchy-party-mix-bhg",
@@ -2787,7 +2861,25 @@
       },
       "image_refs": [
         "IMG_5177 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 77,
+          "fat_g": 1.2,
+          "protein_g": 1.8,
+          "carbs_g": 15.7
+        },
+        "missing_inputs": [
+          "Not in database: small pretzels or pretzel sticks",
+          "Not in database: mixed nuts"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for garlic powder",
+          "Assumed 1 unit for bottled hot pepper sauce",
+          "Based on 7/9 ingredients (78% coverage)"
+        ]
+      }
     },
     {
       "id": "toasted-chili-nuts-bhg",
@@ -2865,7 +2957,20 @@
       },
       "image_refs": [
         "IMG_5177 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 466,
+          "fat_g": 14,
+          "protein_g": 34,
+          "carbs_g": 35,
+          "cholesterol_mg": 1171,
+          "sodium_mg": 727
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "nachos-bhg",
@@ -2959,7 +3064,23 @@
       },
       "image_refs": [
         "IMG_5177 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 283,
+          "fat_g": 16.3,
+          "protein_g": 14.6,
+          "carbs_g": 19.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for bulk pork sausage or ground beef",
+          "Assumed 1 unit for chopped onion",
+          "Assumed 1 unit for sliced pitted ripe olives",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "italian-style-popcorn-bhg",
@@ -3029,7 +3150,25 @@
       },
       "image_refs": [
         "IMG_5178 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 144,
+          "fat_g": 3.2,
+          "protein_g": 5.2,
+          "carbs_g": 29.0
+        },
+        "missing_inputs": [
+          "Not in database: dried Italian seasoning"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for margarine or butter",
+          "Assumed 1 unit for garlic powder",
+          "Assumed 1 unit for grated Parmesan cheese",
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "potato-skins-bhg",
@@ -3110,7 +3249,24 @@
       },
       "image_refs": [
         "IMG_5178 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 96,
+          "fat_g": 0.7,
+          "protein_g": 2.6,
+          "carbs_g": 20.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for margarine or butter",
+          "Assumed 1 unit for garlic or seasoned salt",
+          "Assumed 1 unit for salsa",
+          "Assumed 1 unit for sliced green onion",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "stuffed-mushrooms-bhg",
@@ -3198,7 +3354,24 @@
       },
       "image_refs": [
         "IMG_5178 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 43,
+          "fat_g": 1.2,
+          "protein_g": 2.9,
+          "carbs_g": 5.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for sliced green onion",
+          "Assumed 1 unit for margarine or butter",
+          "Assumed 1 unit for fine dry bread crumbs",
+          "Assumed 1 unit for shredded cheddar or crumbled blue cheese",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamy-dill-dip-bhg",
@@ -3277,7 +3450,22 @@
       },
       "image_refs": [
         "IMG_5179 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 339,
+          "fat_g": 29.5,
+          "protein_g": 5.1,
+          "carbs_g": 15.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for seasoned salt or salt",
+          "Assumed 1 unit for vegetable dippers, assorted crackers, or chips",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "chili-con-queso-bhg",
@@ -3370,7 +3558,20 @@
       },
       "image_refs": [
         "IMG_5179 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 466,
+          "fat_g": 14,
+          "protein_g": 34,
+          "carbs_g": 35,
+          "cholesterol_mg": 1171,
+          "sodium_mg": 727
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "sour-cream-fruit-dip-bhg",
@@ -3432,7 +3633,23 @@
       },
       "image_refs": [
         "IMG_5179 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 614,
+          "fat_g": 45.9,
+          "protein_g": 7.5,
+          "carbs_g": 50.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for apricot or peach preserves",
+          "Assumed 1 unit for ground cinnamon",
+          "Assumed 1 unit for apple, pear, or peach slices",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "hot-cheese-dip-bhg",
@@ -3526,7 +3743,24 @@
       },
       "image_refs": [
         "IMG_5179 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 295,
+          "fat_g": 19.7,
+          "protein_g": 12.1,
+          "carbs_g": 19.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for finely chopped green onion",
+          "Assumed 1 unit for dried tarragon",
+          "Assumed 1 unit for beer or milk",
+          "Assumed 1 unit for French bread cubes or tortilla chips",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "guacamole-bhg",
@@ -3621,7 +3855,24 @@
       },
       "image_refs": [
         "IMG_5180 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 415,
+          "fat_g": 30.5,
+          "protein_g": 6.7,
+          "carbs_g": 36.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for small onion",
+          "Assumed 1 unit for diced green chili peppers",
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for tortilla chips",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "cheese-and-pesto-spread-bhg",
@@ -3731,7 +3982,24 @@
       },
       "image_refs": [
         "IMG_5180 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 740,
+          "fat_g": 72.6,
+          "protein_g": 12.5,
+          "carbs_g": 17.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for firmly packed parsley sprigs",
+          "Assumed 1 unit for grated Parmesan cheese",
+          "Assumed 1 unit for pine nuts, walnuts, or almonds",
+          "Assumed 1 unit for olive oil or cooking oil",
+          "Assumed 1 unit for whipping cream"
+        ]
+      }
     },
     {
       "id": "cheddar-cheese-ball-bhg",
@@ -3842,7 +4110,26 @@
       },
       "image_refs": [
         "IMG_5181 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1149,
+          "fat_g": 101.5,
+          "protein_g": 31.3,
+          "carbs_g": 43.9
+        },
+        "missing_inputs": [
+          "Not in database: diced pimiento",
+          "Not in database: pimiento strips"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for bottled hot pepper sauce",
+          "Assumed 1 unit for snipped parsley or finely chopped walnuts or pecans",
+          "Assumed 1 unit for assorted crackers",
+          "Based on 9/11 ingredients (82% coverage)"
+        ]
+      }
     },
     {
       "id": "feta-cheese-ball-bhg",
@@ -3925,7 +4212,24 @@
       },
       "image_refs": [
         "IMG_5181 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 690,
+          "fat_g": 59.0,
+          "protein_g": 20.1,
+          "carbs_g": 28.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for margarine or butter",
+          "Assumed 1 unit for chopped ripe olives",
+          "Assumed 1 unit for snipped parsley or finely chopped toasted almonds",
+          "Assumed 1 unit for assorted crackers",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "eight-layer-spread-bhg",
@@ -4027,7 +4331,24 @@
       },
       "image_refs": [
         "IMG_5181 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 85,
+          "fat_g": 5.8,
+          "protein_g": 2.4,
+          "carbs_g": 6.8
+        },
+        "missing_inputs": [
+          "Not in database: picante or taco sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for sliced green onion",
+          "Assumed 1 unit for tortilla chips or crackers",
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
+      }
     },
     {
       "id": "cream-cheese-stuffed-slices-bhg",
@@ -4116,7 +4437,24 @@
       },
       "image_refs": [
         "IMG_5181 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 27,
+          "fat_g": 2.0,
+          "protein_g": 0.5,
+          "carbs_g": 1.8
+        },
+        "missing_inputs": [
+          "Not in database: diced pimiento"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for dairy sour cream",
+          "Assumed 1 unit for seasoned salt or salt",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "shrimp-cucumber-spread-bhg",
@@ -4208,7 +4546,25 @@
       },
       "image_refs": [
         "IMG_5182 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 742,
+          "fat_g": 23.1,
+          "protein_g": 98.0,
+          "carbs_g": 33.1
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for garlic powder",
+          "Assumed 1 unit for finely chopped seeded cucumber",
+          "Assumed 1 unit for melba toast rounds or assorted crackers or bread",
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
+      }
     },
     {
       "id": "nutty-cheese-spread-bhg",
@@ -4294,7 +4650,24 @@
       },
       "image_refs": [
         "IMG_5182 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1258,
+          "fat_g": 107.0,
+          "protein_g": 38.1,
+          "carbs_g": 51.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for shredded Swiss or cheddar cheese",
+          "Assumed 1 unit for chopped walnuts",
+          "Assumed 1 unit for milk",
+          "Assumed 1 unit for onion powder",
+          "Assumed 1 unit for celery sticks, apple slices, assorted crackers, or melba toast rounds"
+        ]
+      }
     },
     {
       "id": "curried-chicken-spread-bhg",
@@ -4389,7 +4762,26 @@
       },
       "image_refs": [
         "IMG_5182 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 148,
+          "fat_g": 5.1,
+          "protein_g": 10.2,
+          "carbs_g": 15.2
+        },
+        "missing_inputs": [
+          "Not in database: finely chopped nuts"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for curry powder",
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for finely chopped cooked chicken",
+          "Assumed 1 unit for snipped parsley",
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
+      }
     },
     {
       "id": "avocado-pita-wedges-bhg",
@@ -4472,7 +4864,25 @@
       },
       "image_refs": [
         "IMG_5182 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 62,
+          "fat_g": 3.9,
+          "protein_g": 1.7,
+          "carbs_g": 5.9
+        },
+        "missing_inputs": [
+          "Not in database: alfalfa sprouts"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for mayonnaise or salad dressing",
+          "Assumed 1 unit for shredded mozzarella cheese",
+          "Assumed 1 unit for small tomato",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "cocktail-meatballs-bhg",
@@ -4576,7 +4986,24 @@
       },
       "image_refs": [
         "IMG_5183 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 181,
+          "fat_g": 10.7,
+          "protein_g": 10.8,
+          "carbs_g": 9.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for fine dry bread crumbs",
+          "Assumed 1 unit for milk",
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for pepper",
+          "Assumed 1 unit for Tangy Cranberry Sauce, Dill Sauce, or Polynesian Sauce"
+        ]
+      }
     },
     {
       "id": "sweet-and-sour-franks-bhg",
@@ -4663,7 +5090,24 @@
       },
       "image_refs": [
         "IMG_5183 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 15,
+          "fat_g": 0.0,
+          "protein_g": 0.3,
+          "carbs_g": 3.7
+        },
+        "missing_inputs": [
+          "Not in database: maple-flavored syrup",
+          "Not in database: frankfurters"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for orange or pineapple juice",
+          "Based on 6/8 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "mustard-glazed-ribs-bhg",
@@ -4764,7 +5208,24 @@
       },
       "image_refs": [
         "IMG_5183 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 484,
+          "fat_g": 24.1,
+          "protein_g": 27.0,
+          "carbs_g": 38.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for packed brown sugar",
+          "Assumed 1 unit for ground turmeric",
+          "Assumed 1 unit for chopped onion",
+          "Assumed 1 unit for vinegar",
+          "Assumed 1 unit for prepared mustard"
+        ]
+      }
     },
     {
       "id": "barbecue-style-chicken-wings-bhg",
@@ -4845,7 +5306,23 @@
       },
       "image_refs": [
         "IMG_5184 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 55,
+          "fat_g": 2.8,
+          "protein_g": 5.9,
+          "carbs_g": 1.1
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for finely chopped onion",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "rumaki-bhg",
@@ -4945,7 +5422,24 @@
       },
       "image_refs": [
         "IMG_5184 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 404,
+          "fat_g": 22.7,
+          "protein_g": 44.6,
+          "carbs_g": 1.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for dry sherry",
+          "Assumed 1 unit for soy sauce",
+          "Assumed 1 unit for garlic powder",
+          "Assumed 1 unit for ground ginger",
+          "Assumed 1 unit for sliced water chestnuts"
+        ]
+      }
     },
     {
       "id": "cheese-twists-bhg",
@@ -5045,7 +5539,26 @@
       },
       "image_refs": [
         "IMG_5184 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 18,
+          "fat_g": 0.7,
+          "protein_g": 0.6,
+          "carbs_g": 2.4
+        },
+        "missing_inputs": [
+          "Not in database: toasted sesame seed or poppy seed"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for garlic powder",
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for ground red pepper",
+          "Assumed 1 unit for margarine or butter",
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
+      }
     },
     {
       "id": "pastry-wrapped-olives-bhg",
@@ -5110,7 +5623,24 @@
       },
       "image_refs": [
         "IMG_5184 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 150,
+          "fat_g": 15.3,
+          "protein_g": 1.3,
+          "carbs_g": 4.2
+        },
+        "missing_inputs": [
+          "Not in database: piecrust mix"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for shredded cheddar cheese",
+          "Assumed 1 unit for ground red pepper",
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "egg-rolls-bhg",
@@ -5190,7 +5720,25 @@
       },
       "image_refs": [
         "IMG_5185 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 162,
+          "fat_g": 4.7,
+          "protein_g": 14.5,
+          "carbs_g": 15.5
+        },
+        "missing_inputs": [
+          "Not in database: Sweet-Sour Sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Crab Filling, Pork and Shrimp Filling, Ham-Orange Filling, or Vegetable Filling",
+          "Assumed 1 unit for shortening or cooking oil",
+          "Assumed 1 unit for Oriental-Style Mustard Sauce",
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "wontons-bhg",
@@ -5266,7 +5814,26 @@
       },
       "image_refs": [
         "IMG_5185 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 15,
+          "fat_g": 0.5,
+          "protein_g": 2.3,
+          "carbs_g": 0.1
+        },
+        "missing_inputs": [
+          "Not in database: wonton skins",
+          "Not in database: Sweet-Sour Sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Crab Filling, Pork and Shrimp Filling, Ham-Orange Filling, or Vegetable Filling",
+          "Assumed 1 unit for shortening or cooking oil",
+          "Assumed 1 unit for Oriental-Style Mustard Sauce",
+          "Based on 3/5 ingredients (60% coverage)"
+        ]
+      }
     },
     {
       "id": "crab-filling-bhg",
@@ -5362,7 +5929,24 @@
       },
       "image_refs": [
         "IMG_5186 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 254,
+          "fat_g": 2.5,
+          "protein_g": 41.3,
+          "carbs_g": 11.6
+        },
+        "missing_inputs": [
+          "Not in database: finely chopped pea pods"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for chopped water chestnuts",
+          "Assumed 1 unit for pepper",
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
+      }
     },
     {
       "id": "pork-and-shrimp-filling-bhg",
@@ -5440,7 +6024,25 @@
       },
       "image_refs": [
         "IMG_5186 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 764,
+          "fat_g": 40.2,
+          "protein_g": 88.1,
+          "carbs_g": 6.6
+        },
+        "missing_inputs": [
+          "Not in database: finely chopped bean sprouts"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for finely chopped cooked pork",
+          "Assumed 1 unit for finely chopped fresh mushrooms",
+          "Assumed 1 unit for sliced green onion",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "ham-orange-filling-bhg",
@@ -5514,7 +6116,24 @@
       },
       "image_refs": [
         "IMG_5186 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 393,
+          "fat_g": 12.8,
+          "protein_g": 53.4,
+          "carbs_g": 16.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for finely chopped fully cooked ham",
+          "Assumed 1 unit for chopped bamboo shoots",
+          "Assumed 1 unit for finely chopped onion",
+          "Assumed 1 unit for finely chopped broccoli",
+          "Assumed 1 unit for finely shredded orange peel"
+        ]
+      }
     },
     {
       "id": "vegetable-filling-bhg",
@@ -5604,7 +6223,24 @@
       },
       "image_refs": [
         "IMG_5186 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 79,
+          "fat_g": 0.5,
+          "protein_g": 3.8,
+          "carbs_g": 17.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for shredded zucchini",
+          "Assumed 1 unit for finely chopped onion",
+          "Assumed 1 unit for dry mustard",
+          "Assumed 1 unit for pepper",
+          "Assumed 1 unit for garlic powder"
+        ]
+      }
     },
     {
       "id": "spinach-phyllo-triangles-bhg",
@@ -5692,7 +6328,25 @@
       },
       "image_refs": [
         "IMG_5186 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 10,
+          "fat_g": 0.7,
+          "protein_g": 0.3,
+          "carbs_g": 0.7
+        },
+        "missing_inputs": [
+          "Not in database: sheets phyllo dough"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for chopped onion",
+          "Assumed 1 unit for dried oregano",
+          "Assumed 1 unit for margarine or butter",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "oysters-rockefeller-bhg",
@@ -5800,7 +6454,24 @@
       },
       "image_refs": [
         "IMG_5187 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 577,
+          "fat_g": 19.1,
+          "protein_g": 56.3,
+          "carbs_g": 42.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for finely chopped onion",
+          "Assumed 1 unit for bottled hot pepper sauce",
+          "Assumed 1 unit for fine dry seasoned bread crumbs",
+          "Assumed 1 unit for rock salt",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "salmon-mousse-bhg",
@@ -5917,7 +6588,26 @@
       },
       "image_refs": [
         "IMG_5187 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 85,
+          "fat_g": 6.6,
+          "protein_g": 4.9,
+          "carbs_g": 1.5
+        },
+        "missing_inputs": [
+          "Not in database: chili sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for mayonnaise or salad dressing",
+          "Assumed 1 unit for finely chopped celery",
+          "Assumed 1 unit for whipping cream",
+          "Assumed 1 unit for lettuce leaves",
+          "Assumed 1 unit for assorted crackers"
+        ]
+      }
     },
     {
       "id": "shrimp-cocktail-bhg",
@@ -5981,7 +6671,24 @@
       },
       "image_refs": [
         "IMG_5187 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 84,
+          "fat_g": 1.4,
+          "protein_g": 15.5,
+          "carbs_g": 1.7
+        },
+        "missing_inputs": [
+          "Not in database: Cocktail Sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for lettuce",
+          "Assumed 1 unit for lemon wedges",
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "codfish-balls-bhg",
@@ -6076,7 +6783,22 @@
       },
       "image_refs": [
         "IMG_5187 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 41,
+          "fat_g": 1.3,
+          "protein_g": 1.2,
+          "carbs_g": 6.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for chopped onion",
+          "Assumed 1 unit for shortening or cooking oil",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "batter-fried-vegetables-bhg",
@@ -6161,7 +6883,23 @@
       },
       "image_refs": [
         "IMG_5188 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 144,
+          "fat_g": 2.5,
+          "protein_g": 3.6,
+          "carbs_g": 26.9
+        },
+        "missing_inputs": [
+          "Not in database: Dipping Sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for shortening or cooking oil",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "fried-cheese-bhg",
@@ -6243,7 +6981,25 @@
       },
       "image_refs": [
         "IMG_5188 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 25,
+          "fat_g": 1.6,
+          "protein_g": 1.2,
+          "carbs_g": 1.6
+        },
+        "missing_inputs": [
+          "Not in database: fines herbes",
+          "Not in database: taco sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for cornflake crumbs",
+          "Assumed 1 unit for shortening or cooking oil",
+          "Based on 4/6 ingredients (67% coverage)"
+        ]
+      }
     },
     {
       "id": "stuffed-cherry-tomatoes-bhg",
@@ -6326,7 +7082,23 @@
       },
       "image_refs": [
         "IMG_5188 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 37,
+          "fat_g": 0.8,
+          "protein_g": 1.7,
+          "carbs_g": 7.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for dried basil",
+          "Assumed 1 unit for black pepper",
+          "Assumed 1 unit for garlic powder",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "chicken-liver-pate-bhg",
@@ -6429,7 +7201,24 @@
       },
       "image_refs": [
         "IMG_5189 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1053,
+          "fat_g": 53.8,
+          "protein_g": 98.2,
+          "carbs_g": 39.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for chopped onion",
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for ground nutmeg or \u215b teaspoon ground allspice",
+          "Assumed 1 unit for pepper",
+          "Assumed 1 unit for assorted crackers"
+        ]
+      }
     },
     {
       "id": "marinated-cheese-and-olives-bhg",
@@ -6524,7 +7313,24 @@
       },
       "image_refs": [
         "IMG_5189 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 103,
+          "fat_g": 10.1,
+          "protein_g": 2.4,
+          "carbs_g": 1.6
+        },
+        "missing_inputs": [
+          "Not in database: fennel seed"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for olive oil or salad oil",
+          "Assumed 1 unit for pepper",
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "lemon-and-herb-mushrooms-bhg",
@@ -6630,7 +7436,24 @@
       },
       "image_refs": [
         "IMG_5189 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 147,
+          "fat_g": 2.2,
+          "protein_g": 4.2,
+          "carbs_g": 30.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for small fresh whole mushrooms",
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for coarse ground black pepper",
+          "Assumed 1 unit for dried oregano",
+          "Assumed 1 unit for dried thyme"
+        ]
+      }
     },
     {
       "id": "melon-and-prosciutto-bhg",
@@ -6683,7 +7506,20 @@
       },
       "image_refs": [
         "IMG_5189 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 8,
+          "fat_g": 0.3,
+          "protein_g": 1.1,
+          "carbs_g": 0.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 2/2 ingredients (100% coverage)"
+        ]
+      }
     }
   ]
 }

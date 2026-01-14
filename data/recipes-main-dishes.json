@@ -1213,7 +1213,20 @@
       "image_refs": [
         "IMG_5602 Large.jpeg",
         "IMG_5603 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 283,
+          "fat_g": 21.1,
+          "protein_g": 6.9,
+          "carbs_g": 16.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "italian-sausage-sandwiches-bhg",
@@ -1278,7 +1291,23 @@
       },
       "image_refs": [
         "IMG_5398 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 409,
+          "fat_g": 28.2,
+          "protein_g": 19.4,
+          "carbs_g": 17.7
+        },
+        "missing_inputs": [
+          "Not in database: pizza sauce",
+          "Not in database: mushroom stems and pieces, drained"
+        ],
+        "assumptions": [
+          "Based on 4/6 ingredients (67% coverage)"
+        ]
+      }
     },
     {
       "id": "bacon-and-onion-bratwursts-bhg",
@@ -1355,7 +1384,23 @@
       },
       "image_refs": [
         "IMG_5398 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 180,
+          "fat_g": 3.9,
+          "protein_g": 6.8,
+          "carbs_g": 31.1
+        },
+        "missing_inputs": [
+          "Not in database: fully cooked bratwursts or knackwurst, or 4 frankfurters"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Dijon-style mustard",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "apple-stuffed-sausage-patties-bhg",
@@ -1445,7 +1490,24 @@
       },
       "image_refs": [
         "IMG_5398 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 511,
+          "fat_g": 38.0,
+          "protein_g": 28.6,
+          "carbs_g": 10.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for ground beef",
+          "Assumed 1 unit for finely chopped celery",
+          "Assumed 1 unit for finely chopped onion",
+          "Assumed 1 unit for finely chopped peeled apple",
+          "Assumed 1 unit for dry mustard"
+        ]
+      }
     },
     {
       "id": "liver-and-onions-bhg",
@@ -1499,7 +1561,20 @@
       },
       "image_refs": [
         "IMG_5399 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 157,
+          "fat_g": 3.9,
+          "protein_g": 25.5,
+          "carbs_g": 7.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "create-your-own-meat-loaf-bhg",
@@ -1596,7 +1671,20 @@
       },
       "image_refs": [
         "IMG_5401 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 254,
+          "fat_g": 15,
+          "protein_g": 17,
+          "carbs_g": 13,
+          "cholesterol_mg": 95,
+          "sodium_mg": 339
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "swedish-meatballs-bhg",
@@ -1696,7 +1784,24 @@
       },
       "image_refs": [
         "IMG_5401 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1099,
+          "fat_g": 74.1,
+          "protein_g": 49.8,
+          "carbs_g": 55.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for light cream or milk",
+          "Assumed 1 unit for finely chopped onion",
+          "Assumed 1 unit for soft bread crumbs",
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for ground allspice or nutmeg"
+        ]
+      }
     },
     {
       "id": "spaghetti-sauce-bhg",
@@ -1793,7 +1898,23 @@
       },
       "image_refs": [
         "IMG_5402 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 442,
+          "fat_g": 16.2,
+          "protein_g": 22.9,
+          "carbs_g": 49.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for chopped onion",
+          "Assumed 1 unit for chopped green pepper",
+          "Assumed 1 unit for dried oregano, crushed",
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "porcupine-meatballs-bhg",
@@ -1867,7 +1988,23 @@
       },
       "image_refs": [
         "IMG_5402 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 388,
+          "fat_g": 23.5,
+          "protein_g": 23.8,
+          "carbs_g": 18.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for long grain rice",
+          "Assumed 1 unit for finely chopped onion",
+          "Assumed 1 unit for salt",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "hamburgers-bhg",
@@ -1955,7 +2092,20 @@
       },
       "image_refs": [
         "IMG_5403 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 243,
+          "fat_g": 16,
+          "protein_g": 22,
+          "carbs_g": 0,
+          "cholesterol_mg": 79,
+          "sodium_mg": 68
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "cheese-strata-bhg",
@@ -2031,7 +2181,20 @@
       "image_refs": [
         "IMG_5320 Large.jpeg",
         "IMG_5321 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 260,
+          "fat_g": 14,
+          "protein_g": 15,
+          "carbs_g": 19,
+          "cholesterol_mg": 673,
+          "sodium_mg": 213
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "cheese-stuffed-manicotti-bhg",
@@ -2152,7 +2315,20 @@
       "image_refs": [
         "IMG_5320 Large.jpeg",
         "IMG_5321 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 577,
+          "fat_g": 29,
+          "protein_g": 35,
+          "carbs_g": 39,
+          "cholesterol_mg": 1026,
+          "sodium_mg": 142
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "stuffed-burgers-bhg",
@@ -2222,7 +2398,20 @@
       },
       "image_refs": [
         "IMG_5404 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 364,
+          "fat_g": 27,
+          "protein_g": 27,
+          "carbs_g": 4,
+          "cholesterol_mg": 20,
+          "sodium_mg": 294
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "garden-burgers-bhg",
@@ -2302,7 +2491,23 @@
       },
       "image_refs": [
         "IMG_5404 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 365,
+          "fat_g": 24.1,
+          "protein_g": 23.5,
+          "carbs_g": 11.1
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for lettuce",
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
+      }
     },
     {
       "id": "tacos-bhg",
@@ -2382,7 +2587,20 @@
       },
       "image_refs": [
         "IMG_5405 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 297,
+          "fat_g": 14,
+          "protein_g": 17,
+          "carbs_g": 31,
+          "cholesterol_mg": 729,
+          "sodium_mg": 570
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "sloppy-joes-bhg",
@@ -2476,7 +2694,23 @@
       },
       "image_refs": [
         "IMG_5405 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 848,
+          "fat_g": 39.7,
+          "protein_g": 113.6,
+          "carbs_g": 5.5
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for bottled hot pepper sauce",
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
+      }
     },
     {
       "id": "lasagna-bhg",
@@ -2600,7 +2834,20 @@
       },
       "image_refs": [
         "IMG_5406 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 610,
+          "fat_g": 30,
+          "protein_g": 36,
+          "carbs_g": 46,
+          "cholesterol_mg": 1026,
+          "sodium_mg": 142
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "fettuccine-with-cheese-sauce-bhg",
@@ -2746,7 +2993,20 @@
       },
       "image_refs": [
         "IMG_5319 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 420,
+          "fat_g": 15,
+          "protein_g": 19,
+          "carbs_g": 51,
+          "cholesterol_mg": 819,
+          "sodium_mg": 39
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "crab-mornay-bhg",
@@ -2860,7 +3120,21 @@
       },
       "image_refs": [
         "IMG_5341 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 285,
+          "fat_g": 5.6,
+          "protein_g": 44.5,
+          "carbs_g": 7.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for paprika",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "deviled-crab-bhg",
@@ -2982,7 +3256,24 @@
       },
       "image_refs": [
         "IMG_5341 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 494,
+          "fat_g": 24.8,
+          "protein_g": 35.5,
+          "carbs_g": 32.4
+        },
+        "missing_inputs": [
+          "Not in database: chopped pimiento"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for dry bread crumbs",
+          "Assumed 1 unit for sliced almonds",
+          "Based on 11/12 ingredients (92% coverage)"
+        ]
+      }
     },
     {
       "id": "crab-cakes-bhg",
@@ -3087,7 +3378,23 @@
       },
       "image_refs": [
         "IMG_5341 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 218,
+          "fat_g": 7.2,
+          "protein_g": 23.6,
+          "carbs_g": 11.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for ground red pepper",
+          "Assumed 1 unit for cooking oil",
+          "Estimated 4 servings based on total calories",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "shrimp-creole-bhg",
@@ -3251,7 +3558,20 @@
       },
       "image_refs": [
         "IMG_5342 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 333,
+          "fat_g": 3.9,
+          "protein_g": 38.3,
+          "carbs_g": 34.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 17/17 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "shrimp-chow-mein-bhg",
@@ -3393,7 +3713,26 @@
       },
       "image_refs": [
         "IMG_5342 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 183,
+          "fat_g": 2.7,
+          "protein_g": 25.3,
+          "carbs_g": 13.5
+        },
+        "missing_inputs": [
+          "Not in database: frozen pea pods",
+          "Not in database: bean sprouts"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for fresh mushrooms",
+          "Assumed 1 unit for chow mein noodles or hot cooked rice",
+          "Estimated 6 servings based on total calories",
+          "Based on 12/14 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "shrimp-in-garlic-butter-bhg",
@@ -3468,7 +3807,21 @@
       },
       "image_refs": [
         "IMG_5343 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 186,
+          "fat_g": 3.3,
+          "protein_g": 34.7,
+          "carbs_g": 2.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "french-fried-shrimp-bhg",
@@ -3600,7 +3953,25 @@
       },
       "image_refs": [
         "IMG_5343 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 271,
+          "fat_g": 6.3,
+          "protein_g": 33.7,
+          "carbs_g": 17.9
+        },
+        "missing_inputs": [
+          "Not in database: Cocktail Sauce"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for shortening or cooking oil",
+          "Assumed 1 unit for dash pepper",
+          "Estimated 6 servings based on total calories",
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
+      }
     },
     {
       "id": "cheese-strata-bhg",
@@ -3702,7 +4073,20 @@
       },
       "image_refs": [
         "IMG_5321 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 260,
+          "fat_g": 14,
+          "protein_g": 15,
+          "carbs_g": 19,
+          "cholesterol_mg": 673,
+          "sodium_mg": 213
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "cheese-stuffed-manicotti-bhg",
@@ -3847,7 +4231,20 @@
       },
       "image_refs": [
         "IMG_5321 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 577,
+          "fat_g": 29,
+          "protein_g": 35,
+          "carbs_g": 39,
+          "cholesterol_mg": 1026,
+          "sodium_mg": 142
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "meatless-red-beans-and-rice-bhg",
@@ -3950,7 +4347,22 @@
       },
       "image_refs": [
         "IMG_5324 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 170,
+          "fat_g": 0.5,
+          "protein_g": 6.1,
+          "carbs_g": 34.9
+        },
+        "missing_inputs": [
+          "Not in database: fennel seed"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "cider-caraway-pot-roast-bhg",
@@ -4058,7 +4470,20 @@
       },
       "image_refs": [
         "IMG_5372 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 303,
+          "fat_g": 15,
+          "protein_g": 31,
+          "carbs_g": 9,
+          "cholesterol_mg": 90,
+          "sodium_mg": 56
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "horseradish-rubbed-beef-rib-roast-bhg",
@@ -4145,7 +4570,21 @@
       },
       "image_refs": [
         "IMG_5372 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 369,
+          "fat_g": 27.1,
+          "protein_g": 26.9,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 12 servings based on total calories",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "standing-rib-roast-bhg",
@@ -4207,7 +4646,21 @@
       },
       "image_refs": [
         "IMG_5373 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 362,
+          "fat_g": 23.4,
+          "protein_g": 27.4,
+          "carbs_g": 6.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Oven-Browned Potatoes, Yorkshire Pudding, or Beef au Jus",
+          "Based on 2/2 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "beef-pot-roast-bhg",
@@ -4324,7 +4777,20 @@
       },
       "image_refs": [
         "IMG_5374 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 303,
+          "fat_g": 15,
+          "protein_g": 31,
+          "carbs_g": 9,
+          "cholesterol_mg": 90,
+          "sodium_mg": 56
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "beef-wellington-bhg",
@@ -4428,7 +4894,23 @@
       },
       "image_refs": [
         "IMG_5375 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 489,
+          "fat_g": 21.5,
+          "protein_g": 33.4,
+          "carbs_g": 36.8
+        },
+        "missing_inputs": [
+          "Not in database: Bordelaise Sauce"
+        ],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
     },
     {
       "id": "vegetable-stuffed-rolled-roast-bhg",
@@ -4519,7 +5001,20 @@
       },
       "image_refs": [
         "IMG_5375 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 287,
+          "fat_g": 19.2,
+          "protein_g": 22.0,
+          "carbs_g": 3.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "new-england-boiled-dinner-bhg",
@@ -4625,7 +5120,20 @@
       },
       "image_refs": [
         "IMG_5376 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 473,
+          "fat_g": 27,
+          "protein_g": 26,
+          "carbs_g": 30,
+          "cholesterol_mg": 79,
+          "sodium_mg": 232
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "herbed-rump-roast-bhg",
@@ -4736,7 +5244,23 @@
       },
       "image_refs": [
         "IMG_5376 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 275,
+          "fat_g": 17.8,
+          "protein_g": 20.7,
+          "carbs_g": 5.0
+        },
+        "missing_inputs": [
+          "Not in database: dried marjoram"
+        ],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
+      }
     },
     {
       "id": "zesty-short-ribs-bhg",
@@ -4817,7 +5341,22 @@
       },
       "image_refs": [
         "IMG_5376 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 753,
+          "fat_g": 52.5,
+          "protein_g": 60.0,
+          "carbs_g": 0.8
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "five-spice-beef-ribs-bhg",
@@ -4933,7 +5472,24 @@
       },
       "image_refs": [
         "IMG_5377 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 384,
+          "fat_g": 26.3,
+          "protein_g": 30.3,
+          "carbs_g": 2.0
+        },
+        "missing_inputs": [
+          "Not in database: aniseed"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for pepper",
+          "Estimated 8 servings based on total calories",
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
+      }
     },
     {
       "id": "lemon-marinated-chuck-steak-bhg",
@@ -5030,7 +5586,20 @@
       },
       "image_refs": [
         "IMG_5377 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 274,
+          "fat_g": 18.4,
+          "protein_g": 20.1,
+          "carbs_g": 4.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "swiss-steak-bhg",
@@ -5130,7 +5699,20 @@
       },
       "image_refs": [
         "IMG_5377 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 267,
+          "fat_g": 14,
+          "protein_g": 31,
+          "carbs_g": 4,
+          "cholesterol_mg": 90,
+          "sodium_mg": 786
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "steak-and-spinach-pinwheels-bhg",
@@ -5220,7 +5802,22 @@
       },
       "image_refs": [
         "IMG_5378 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 339,
+          "fat_g": 24.2,
+          "protein_g": 26.4,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [
+          "Not in database: Mock Hollandaise Sauce"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "london-broil-bhg",
@@ -5289,7 +5886,20 @@
       },
       "image_refs": [
         "IMG_5379 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 258,
+          "fat_g": 18.4,
+          "protein_g": 20.0,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "pepper-rubbed-steaks-bhg",
@@ -5364,7 +5974,20 @@
       },
       "image_refs": [
         "IMG_5379 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1108,
+          "fat_g": 81.2,
+          "protein_g": 80.6,
+          "carbs_g": 0.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "french-onion-sandwiches-bhg",
@@ -5445,7 +6068,24 @@
       },
       "image_refs": [
         "IMG_5379 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 165,
+          "fat_g": 9.4,
+          "protein_g": 5.0,
+          "carbs_g": 16.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for butter",
+          "Assumed 1 unit for Worcestershire sauce",
+          "Assumed 1 unit for London Broil steak slices",
+          "Assumed 1 unit for Swiss cheese",
+          "Estimated 4 servings based on total calories"
+        ]
+      }
     },
     {
       "id": "veal-cordon-bleu-bhg",
@@ -5541,7 +6181,20 @@
       },
       "image_refs": [
         "IMG_5379 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 211,
+          "fat_g": 10,
+          "protein_g": 34,
+          "carbs_g": 22,
+          "cholesterol_mg": 79,
+          "sodium_mg": 215
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "veal-marsala-bhg",
@@ -5635,7 +6288,20 @@
       },
       "image_refs": [
         "IMG_5380 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 329,
+          "fat_g": 17,
+          "protein_g": 34,
+          "carbs_g": 6,
+          "cholesterol_mg": 79,
+          "sodium_mg": 344
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "beef-fajitas-bhg",
@@ -5755,7 +6421,23 @@
       },
       "image_refs": [
         "IMG_5380 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 433,
+          "fat_g": 21.7,
+          "protein_g": 21.7,
+          "carbs_g": 36.5
+        },
+        "missing_inputs": [
+          "Not in database: Guacamole"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Shredded cheddar or Monterey Jack cheese",
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
+      }
     },
     {
       "id": "beef-stroganoff-bhg",
@@ -5850,7 +6532,21 @@
       },
       "image_refs": [
         "IMG_5381 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 441,
+          "fat_g": 30.0,
+          "protein_g": 24.7,
+          "carbs_g": 16.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for hot cooked noodles",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "beef-teriyaki-kabobs-bhg",
@@ -5948,7 +6644,20 @@
       },
       "image_refs": [
         "IMG_5381 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 258,
+          "fat_g": 17.5,
+          "protein_g": 20.1,
+          "carbs_g": 1.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "ginger-beef-stir-fry-bhg",
@@ -6079,7 +6788,22 @@
       },
       "image_refs": [
         "IMG_5381 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 314,
+          "fat_g": 18.1,
+          "protein_g": 23.2,
+          "carbs_g": 12.5
+        },
+        "missing_inputs": [
+          "Not in database: frozen pea pods"
+        ],
+        "assumptions": [
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
+      }
     },
     {
       "id": "spinach-stuffed-lamb-roast-bhg",
@@ -6170,7 +6894,20 @@
       },
       "image_refs": [
         "IMG_5383 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 280,
+          "fat_g": 20.3,
+          "protein_g": 21.3,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "herb-rubbed-leg-of-lamb-bhg",
@@ -6278,7 +7015,21 @@
       },
       "image_refs": [
         "IMG_5383 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 459,
+          "fat_g": 33.3,
+          "protein_g": 35.0,
+          "carbs_g": 0.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Mint jelly",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "currant-glazed-rack-of-lamb-bhg",
@@ -6350,7 +7101,22 @@
       },
       "image_refs": [
         "IMG_5384 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 282,
+          "fat_g": 20.0,
+          "protein_g": 21.0,
+          "carbs_g": 1.8
+        },
+        "missing_inputs": [
+          "Not in database: currant jelly"
+        ],
+        "assumptions": [
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "curried-lamb-bhg",
@@ -6456,7 +7222,21 @@
       },
       "image_refs": [
         "IMG_5384 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 433,
+          "fat_g": 20.6,
+          "protein_g": 23.5,
+          "carbs_g": 37.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for hot cooked rice",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "vegetable-lamb-skillet-bhg",
@@ -6561,7 +7341,21 @@
       },
       "image_refs": [
         "IMG_5384 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1340,
+          "fat_g": 84.5,
+          "protein_g": 89.8,
+          "carbs_g": 46.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for pitted ripe olives",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "saucy-lamb-shanks-bhg",
@@ -6670,7 +7464,20 @@
       },
       "image_refs": [
         "IMG_5384 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 597,
+          "fat_g": 35,
+          "protein_g": 39,
+          "carbs_g": 31,
+          "cholesterol_mg": 138,
+          "sodium_mg": 766
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "lamb-chops-with-herb-sauce-bhg",
@@ -6766,7 +7573,20 @@
       },
       "image_refs": [
         "IMG_5385 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1166,
+          "fat_g": 85.9,
+          "protein_g": 84.9,
+          "carbs_g": 2.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "lamb-chops-honey-mustard-glaze-bhg",
@@ -6843,7 +7663,20 @@
       },
       "image_refs": [
         "IMG_5385 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1102,
+          "fat_g": 80.0,
+          "protein_g": 84.0,
+          "carbs_g": 0.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "lamb-shish-kabobs-bhg",
@@ -6946,7 +7779,20 @@
       },
       "image_refs": [
         "IMG_5385 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 416,
+          "fat_g": 22.1,
+          "protein_g": 32.8,
+          "carbs_g": 24.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creole-stuffed-roast-bhg",
@@ -7069,7 +7915,20 @@
       },
       "image_refs": [
         "IMG_5388 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 411,
+          "fat_g": 27.7,
+          "protein_g": 31.3,
+          "carbs_g": 6.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "rib-crown-roast-pork-bhg",
@@ -7148,7 +8007,22 @@
       },
       "image_refs": [
         "IMG_5388 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 501,
+          "fat_g": 36.0,
+          "protein_g": 40.0,
+          "carbs_g": 0.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for pepper",
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "harvest-pot-roast-pork-bhg",
@@ -7273,7 +8147,20 @@
       },
       "image_refs": [
         "IMG_5389 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 303,
+          "fat_g": 15,
+          "protein_g": 31,
+          "carbs_g": 9,
+          "cholesterol_mg": 90,
+          "sodium_mg": 56
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "roast-pork-mushroom-butter-sauce-bhg",
@@ -7370,7 +8257,20 @@
       },
       "image_refs": [
         "IMG_5389 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 383,
+          "fat_g": 27.3,
+          "protein_g": 30.6,
+          "carbs_g": 0.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "pork-apple-nutmeg-sauce-bhg",
@@ -7457,7 +8357,20 @@
       },
       "image_refs": [
         "IMG_5390 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 313,
+          "fat_g": 18.4,
+          "protein_g": 20.1,
+          "carbs_g": 15.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "citrus-glazed-pork-ribs-bhg",
@@ -7538,7 +8451,20 @@
       },
       "image_refs": [
         "IMG_5390 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 758,
+          "fat_g": 54.0,
+          "protein_g": 60.2,
+          "carbs_g": 1.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "barbecue-style-ribs-bhg",
@@ -7636,7 +8562,22 @@
       },
       "image_refs": [
         "IMG_5390 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1058,
+          "fat_g": 72.0,
+          "protein_g": 80.2,
+          "carbs_g": 14.9
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "braised-steaks-italian-bhg",
@@ -7745,7 +8686,22 @@
       },
       "image_refs": [
         "IMG_5390 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1027,
+          "fat_g": 72.4,
+          "protein_g": 81.0,
+          "carbs_g": 5.6
+        },
+        "missing_inputs": [
+          "Not in database: Italian seasoning"
+        ],
+        "assumptions": [
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
+      }
     },
     {
       "id": "linguine-white-clam-sauce-bhg",
@@ -7860,7 +8816,20 @@
       },
       "image_refs": [
         "IMG_5344 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 220,
+          "fat_g": 12.3,
+          "protein_g": 10.5,
+          "carbs_g": 16.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "linguine-red-clam-sauce-bhg",
@@ -7975,7 +8944,21 @@
       },
       "image_refs": [
         "IMG_5344 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 401,
+          "fat_g": 3.6,
+          "protein_g": 28.6,
+          "carbs_g": 65.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for grated Parmesan cheese",
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "coquilles-saint-jacques-bhg",
@@ -8104,7 +9087,21 @@
       },
       "image_refs": [
         "IMG_5344 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 208,
+          "fat_g": 3.8,
+          "protein_g": 22.6,
+          "carbs_g": 17.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for parsley",
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "curried-scallop-kabobs-bhg",
@@ -8193,7 +9190,20 @@
       },
       "image_refs": [
         "IMG_5345 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 124,
+          "fat_g": 1.9,
+          "protein_g": 19.9,
+          "carbs_g": 7.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "crawfish-etouffee-bhg",
@@ -8306,7 +9316,20 @@
       },
       "image_refs": [
         "IMG_5345 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 246,
+          "fat_g": 3.7,
+          "protein_g": 22.8,
+          "carbs_g": 27.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "fried-seafood-bhg",
@@ -8388,7 +9411,21 @@
       },
       "image_refs": [
         "IMG_5345 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 296,
+          "fat_g": 10.1,
+          "protein_g": 16.0,
+          "carbs_g": 34.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for shortening or cooking oil",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "oysters-au-gratin-bhg",
@@ -8507,7 +9544,20 @@
       },
       "image_refs": [
         "IMG_5345 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 248,
+          "fat_g": 6.8,
+          "protein_g": 17.3,
+          "carbs_g": 23.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "citrus-ginger-pot-roast-bhg",
@@ -8601,7 +9651,20 @@
       },
       "image_refs": [
         "IMG_5372 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 303,
+          "fat_g": 15,
+          "protein_g": 31,
+          "carbs_g": 9,
+          "cholesterol_mg": 90,
+          "sodium_mg": 56
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "horseradish-rubbed-beef-roast-bhg",
@@ -8695,7 +9758,20 @@
       },
       "image_refs": [
         "IMG_5372 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 369,
+          "fat_g": 27.1,
+          "protein_g": 26.9,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "beef-pot-roast-classic-bhg",
@@ -8816,7 +9892,20 @@
       },
       "image_refs": [
         "IMG_5374 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 303,
+          "fat_g": 15,
+          "protein_g": 31,
+          "carbs_g": 9,
+          "cholesterol_mg": 90,
+          "sodium_mg": 56
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "barbecue-style-pot-roast-bhg",
@@ -8914,7 +10003,20 @@
       },
       "image_refs": [
         "IMG_5374 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 303,
+          "fat_g": 15,
+          "protein_g": 31,
+          "carbs_g": 9,
+          "cholesterol_mg": 90,
+          "sodium_mg": 56
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "steak-spinach-pinwheels-bhg",
@@ -8996,7 +10098,22 @@
       },
       "image_refs": [
         "IMG_5378 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 338,
+          "fat_g": 24.2,
+          "protein_g": 26.2,
+          "carbs_g": 0.3
+        },
+        "missing_inputs": [
+          "Not in database: Mock Hollandaise Sauce"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "lamb-chops-herb-sauce-bhg",
@@ -9101,7 +10218,20 @@
       },
       "image_refs": [
         "IMG_5385 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1173,
+          "fat_g": 85.9,
+          "protein_g": 85.1,
+          "carbs_g": 4.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "rib-crown-roast-pork-stuffed-bhg",
@@ -9219,7 +10349,22 @@
       },
       "image_refs": [
         "IMG_5388 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 430,
+          "fat_g": 29.0,
+          "protein_g": 33.0,
+          "carbs_g": 6.3
+        },
+        "missing_inputs": [
+          "Not in database: dried Italian seasoning"
+        ],
+        "assumptions": [
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
+      }
     },
     {
       "id": "corn-stuffed-pork-chops-bhg",
@@ -9318,7 +10463,22 @@
       },
       "image_refs": [
         "IMG_5391 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1066,
+          "fat_g": 74.2,
+          "protein_g": 81.6,
+          "carbs_g": 10.6
+        },
+        "missing_inputs": [
+          "Not in database: chopped pimiento"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "mexican-pork-chops-bhg",
@@ -9421,7 +10581,21 @@
       },
       "image_refs": [
         "IMG_5392 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1107,
+          "fat_g": 72.5,
+          "protein_g": 85.4,
+          "carbs_g": 20.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for pepper",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "creamy-herbed-pork-chops-bhg",
@@ -9518,7 +10692,21 @@
       },
       "image_refs": [
         "IMG_5392 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1158,
+          "fat_g": 86.9,
+          "protein_g": 81.2,
+          "carbs_g": 4.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for water",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "honey-orange-pork-chops-bhg",
@@ -9617,7 +10805,20 @@
       },
       "image_refs": [
         "IMG_5392 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1032,
+          "fat_g": 72.1,
+          "protein_g": 80.4,
+          "carbs_g": 7.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "pork-fiesta-kabobs-bhg",
@@ -9704,7 +10905,20 @@
       },
       "image_refs": [
         "IMG_5393 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 328,
+          "fat_g": 19.4,
+          "protein_g": 22.8,
+          "carbs_g": 16.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "pork-chop-suey-bhg",
@@ -9833,7 +11047,22 @@
       },
       "image_refs": [
         "IMG_5393 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 468,
+          "fat_g": 19.1,
+          "protein_g": 28.7,
+          "carbs_g": 46.5
+        },
+        "missing_inputs": [
+          "Not in database: bean sprouts"
+        ],
+        "assumptions": [
+          "Based on 12/13 ingredients (92% coverage)"
+        ]
+      }
     },
     {
       "id": "pork-mediterranean-bhg",
@@ -9938,7 +11167,20 @@
       },
       "image_refs": [
         "IMG_5393 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 426,
+          "fat_g": 21.1,
+          "protein_g": 26.1,
+          "carbs_g": 31.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "sweet-and-sour-pork-bhg",
@@ -10069,7 +11311,22 @@
       },
       "image_refs": [
         "IMG_5394 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 524,
+          "fat_g": 19.8,
+          "protein_g": 25.5,
+          "carbs_g": 59.3
+        },
+        "missing_inputs": [
+          "Not in database: catsup"
+        ],
+        "assumptions": [
+          "Based on 13/14 ingredients (93% coverage)"
+        ]
+      }
     },
     {
       "id": "cashew-pork-pea-pods-bhg",
@@ -10191,7 +11448,24 @@
       },
       "image_refs": [
         "IMG_5394 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 362,
+          "fat_g": 22.9,
+          "protein_g": 21.2,
+          "carbs_g": 18.7
+        },
+        "missing_inputs": [
+          "Not in database: frozen pea pods",
+          "Not in database: canned peach slices"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for hot cooked rice",
+          "Based on 10/12 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "dijon-sauced-fish-bhg",
@@ -10305,6 +11579,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 179,
+          "fat_g": 8.2,
+          "protein_g": 21.1,
+          "carbs_g": 3.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for fresh dill",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -10376,6 +11664,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 117,
+          "fat_g": 2.9,
+          "protein_g": 20.1,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for salt",
+          "Assumed 1 unit for pepper",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -10422,6 +11725,14 @@
         "flags": [
           "Tip/suggestion format rather than full recipe"
         ]
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [
+          "Not in database: frozen breaded fish portions"
+        ],
+        "assumptions": []
       }
     },
     {
@@ -10524,6 +11835,23 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 555,
+          "fat_g": 38.7,
+          "protein_g": 41.6,
+          "carbs_g": 7.8
+        },
+        "missing_inputs": [
+          "Not in database: baked patty shells"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Dash red pepper",
+          "Assumed 1 unit for parsley sprigs",
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
       }
     },
     {
@@ -10598,6 +11926,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 466,
+          "fat_g": 6.9,
+          "protein_g": 92.0,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -10701,6 +12042,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 142,
+          "fat_g": 3.7,
+          "protein_g": 4.0,
+          "carbs_g": 23.2
+        },
+        "missing_inputs": [
+          "Not in database: frankfurters"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for shortening or cooking oil",
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
       }
     },
     {
@@ -10809,6 +12166,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 267,
+          "fat_g": 10.7,
+          "protein_g": 7.7,
+          "carbs_g": 35.8
+        },
+        "missing_inputs": [
+          "Not in database: fully cooked bratwurst"
+        ],
+        "assumptions": [
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
       }
     },
     {
@@ -10893,6 +12265,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 282,
+          "fat_g": 11.1,
+          "protein_g": 14.8,
+          "carbs_g": 30.9
+        },
+        "missing_inputs": [
+          "Not in database: frankfurters"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for shredded cheddar cheese",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -10978,6 +12366,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 180,
+          "fat_g": 3.9,
+          "protein_g": 6.8,
+          "carbs_g": 31.1
+        },
+        "missing_inputs": [
+          "Not in database: fully cooked bratwursts or frankfurters"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Dijon-style mustard",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -11085,6 +12489,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 362,
+          "fat_g": 9.0,
+          "protein_g": 23.2,
+          "carbs_g": 51.8
+        },
+        "missing_inputs": [
+          "Not in database: thinly sliced salami"
+        ],
+        "assumptions": [
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
       }
     }
   ]

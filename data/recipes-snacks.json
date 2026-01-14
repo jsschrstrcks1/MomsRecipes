@@ -190,11 +190,10 @@
           "protein_g": 1.0,
           "carbs_g": 4.2
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Assumed 1 unit for salt",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -312,18 +311,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 28,
-          "fat_g": 2.8,
-          "protein_g": 0.6,
-          "carbs_g": 0.0
+          "calories": 855,
+          "fat_g": 73.0,
+          "protein_g": 38.2,
+          "carbs_g": 8.4
         },
         "missing_inputs": [
-          "Not in database: Hormel Pepperoni",
           "Not in database: Italian seasoning",
           "Not in database: pizza sauce"
         ],
         "assumptions": [
-          "Based on 3/6 ingredients (50% coverage)"
+          "Based on 4/6 ingredients (67% coverage)"
         ]
       }
     },
@@ -420,9 +418,9 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 116,
-          "fat_g": 9.6,
-          "protein_g": 7.2,
+          "calories": 91,
+          "fat_g": 6.6,
+          "protein_g": 6.2,
           "carbs_g": 1.0
         },
         "missing_inputs": [
@@ -532,17 +530,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 90,
-          "fat_g": 3.1,
-          "protein_g": 2.2,
-          "carbs_g": 13.8
+          "calories": 103,
+          "fat_g": 3.3,
+          "protein_g": 2.7,
+          "carbs_g": 16.3
         },
-        "missing_inputs": [
-          "Not in database: Flatout Rustic White Thin Crust Flatbread",
-          "Not in database: chives"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/6 ingredients (67% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -638,18 +633,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 12,
+          "calories": 17,
           "fat_g": 1.2,
-          "protein_g": 0.4,
-          "carbs_g": 0.2
+          "protein_g": 0.5,
+          "carbs_g": 1.0
         },
         "missing_inputs": [
-          "Not in database: Farm Rich Original Meatballs",
-          "Not in database: scoop-style tortilla chips",
-          "Not in database: Pace Salsa"
+          "Not in database: Farm Rich Original Meatballs"
         ],
         "assumptions": [
-          "Based on 3/6 ingredients (50% coverage)"
+          "Based on 5/6 ingredients (83% coverage)"
         ]
       }
     },
@@ -827,17 +820,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 4,
-          "fat_g": 0.4,
-          "protein_g": 0.1,
-          "carbs_g": 0.0
+          "calories": 8,
+          "fat_g": 0.5,
+          "protein_g": 0.2,
+          "carbs_g": 0.7
         },
         "missing_inputs": [
-          "Not in database: Pillsbury Original Crescent Rolls",
           "Not in database: Oscar Mayer Mini Smokies"
         ],
         "assumptions": [
-          "Based on 1/3 ingredients (33% coverage)"
+          "Based on 2/3 ingredients (67% coverage)"
         ]
       }
     },
@@ -933,18 +925,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 552,
-          "fat_g": 53.2,
-          "protein_g": 12.5,
-          "carbs_g": 8.2
+          "calories": 559,
+          "fat_g": 53.4,
+          "protein_g": 12.8,
+          "carbs_g": 10.3
         },
         "missing_inputs": [
-          "Not in database: Hidden Valley Ranch Dip Seasoning Mix",
-          "Not in database: chipotle peppers in adobo sauce",
-          "Not in database: chives"
+          "Not in database: Hidden Valley Ranch Dip Seasoning Mix"
         ],
         "assumptions": [
-          "Based on 2/5 ingredients (40% coverage)"
+          "Assumed 1 unit for chives",
+          "Based on 4/5 ingredients (80% coverage)"
         ]
       }
     },
@@ -2815,18 +2806,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 7,
-          "fat_g": 0.7,
-          "protein_g": 0.1,
-          "carbs_g": 0.2
+          "calories": 16,
+          "fat_g": 0.9,
+          "protein_g": 0.4,
+          "carbs_g": 1.6
         },
         "missing_inputs": [
-          "Not in database: French-style rolls",
-          "Not in database: diced pimiento",
-          "Not in database: snipped parsley"
+          "Not in database: diced pimiento"
         ],
         "assumptions": [
-          "Based on 3/7 ingredients (43% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -3368,15 +3357,12 @@
           "calories": 137,
           "fat_g": 9.7,
           "protein_g": 9.2,
-          "carbs_g": 2.3
+          "carbs_g": 2.5
         },
-        "missing_inputs": [
-          "Not in database: parsley",
-          "Not in database: salt",
-          "Not in database: pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/8 ingredients (62% coverage)"
+          "Assumed 1 unit for pepper",
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -4015,10 +4001,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 100,
-          "fat_g": 8.2,
-          "protein_g": 6.0,
-          "carbs_g": 0.4
+          "calories": 115,
+          "fat_g": 5.2,
+          "protein_g": 3.0,
+          "carbs_g": 15.0
         },
         "missing_inputs": [
           "Not in database: filling of choice"
@@ -4226,18 +4212,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 221,
+          "calories": 231,
           "fat_g": 2.5,
-          "protein_g": 40.8,
-          "carbs_g": 4.0
+          "protein_g": 40.9,
+          "carbs_g": 6.0
         },
         "missing_inputs": [
-          "Not in database: pea pods",
-          "Not in database: water chestnuts",
-          "Not in database: dry sherry"
+          "Not in database: pea pods"
         ],
         "assumptions": [
-          "Based on 6/10 ingredients (60% coverage)"
+          "Based on 9/10 ingredients (90% coverage)"
         ]
       }
     },
@@ -4329,17 +4313,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 627,
+          "calories": 623,
           "fat_g": 31.1,
           "protein_g": 76.8,
-          "carbs_g": 4.4
+          "carbs_g": 3.4
         },
         "missing_inputs": [
-          "Not in database: bean sprouts",
-          "Not in database: gingerroot"
+          "Not in database: bean sprouts"
         ],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -4427,18 +4410,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 274,
+          "calories": 279,
           "fat_g": 9.5,
-          "protein_g": 38.8,
-          "carbs_g": 8.4
+          "protein_g": 39.1,
+          "carbs_g": 9.1
         },
-        "missing_inputs": [
-          "Not in database: bamboo shoots",
-          "Not in database: orange peel",
-          "Not in database: ground red pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/7 ingredients (57% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -4546,11 +4525,9 @@
           "protein_g": 2.7,
           "carbs_g": 10.4
         },
-        "missing_inputs": [
-          "Not in database: pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },

@@ -114,18 +114,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 82,
-          "fat_g": 6.2,
-          "protein_g": 2.9,
-          "carbs_g": 4.1
+          "calories": 88,
+          "fat_g": 6.1,
+          "protein_g": 3.0,
+          "carbs_g": 5.8
         },
-        "missing_inputs": [
-          "Not in database: day-old unsliced French bread",
-          "Not in database: cinnamon and/or nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for butter flavored shortening",
-          "Based on 7/9 ingredients (78% coverage)"
+          "Assumed 1 unit for cinnamon and/or nutmeg",
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -317,16 +315,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 319,
-          "fat_g": 7.8,
-          "protein_g": 9.5,
-          "carbs_g": 51.3
+          "calories": 317,
+          "fat_g": 4.4,
+          "protein_g": 12.5,
+          "carbs_g": 55.8
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -740,17 +736,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 237,
-          "fat_g": 20.0,
-          "protein_g": 11.5,
-          "carbs_g": 0.9
+          "calories": 259,
+          "fat_g": 20.5,
+          "protein_g": 12.3,
+          "carbs_g": 4.6
         },
-        "missing_inputs": [
-          "Not in database: crushed red pepper",
-          "Not in database: refrigerated crescent dinner rolls"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -1013,7 +1006,20 @@
       },
       "image_refs": [
         "IMG_5304 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 323,
+          "fat_g": 21,
+          "protein_g": 17,
+          "carbs_g": 17,
+          "cholesterol_mg": 451,
+          "sodium_mg": 320
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "poached-eggs-bhg",
@@ -1090,7 +1096,20 @@
       },
       "image_refs": [
         "IMG_5305 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 148,
+          "fat_g": 10,
+          "protein_g": 12,
+          "carbs_g": 1,
+          "cholesterol_mg": 423,
+          "sodium_mg": 138
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "eggs-benedict-bhg",
@@ -1173,7 +1192,20 @@
       },
       "image_refs": [
         "IMG_5305 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 358,
+          "fat_g": 23,
+          "protein_g": 21,
+          "carbs_g": 17,
+          "cholesterol_mg": 873,
+          "sodium_mg": 401
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     }
   ]
 }

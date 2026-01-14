@@ -1040,17 +1040,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 300,
+          "calories": 303,
           "fat_g": 2.9,
-          "protein_g": 26.7,
-          "carbs_g": 39.5
+          "protein_g": 26.9,
+          "carbs_g": 40.3
         },
-        "missing_inputs": [
-          "Not in database: finely chopped green pepper",
-          "Not in database: ground red pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/9 ingredients (78% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },

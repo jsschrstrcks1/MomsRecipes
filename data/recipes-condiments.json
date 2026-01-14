@@ -69,7 +69,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 118,
+          "fat_g": 14,
+          "protein_g": 0,
+          "carbs_g": 0,
+          "cholesterol_mg": 0,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -160,7 +170,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 102,
+          "fat_g": 11,
+          "protein_g": 0,
+          "carbs_g": 0,
+          "cholesterol_mg": 17,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -262,7 +282,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 47,
+          "fat_g": 3,
+          "protein_g": 0,
+          "carbs_g": 5,
+          "cholesterol_mg": 4,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -351,7 +381,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 74,
+          "fat_g": 8,
+          "protein_g": 0,
+          "carbs_g": 1,
+          "cholesterol_mg": 111,
+          "sodium_mg": 7
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -437,7 +477,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 85,
+          "fat_g": 9,
+          "protein_g": 0,
+          "carbs_g": 1,
+          "cholesterol_mg": 0,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -1018,7 +1068,20 @@
       },
       "image_refs": [
         "IMG_5361 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 335,
+          "fat_g": 1.6,
+          "protein_g": 6.7,
+          "carbs_g": 81.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "dill-pickles-bhg",
@@ -1111,7 +1174,23 @@
       },
       "image_refs": [
         "IMG_5362 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 20,
+          "fat_g": 0.2,
+          "protein_g": 0.8,
+          "carbs_g": 4.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for fresh dill",
+          "Assumed 1 unit for mustard seed",
+          "Estimated 4 servings based on total calories",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "bread-n-butter-pickles-bhg",
@@ -1226,7 +1305,23 @@
       },
       "image_refs": [
         "IMG_5362 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 372,
+          "fat_g": 0.2,
+          "protein_g": 1.6,
+          "carbs_g": 95.0
+        },
+        "missing_inputs": [
+          "Not in database: cracked ice"
+        ],
+        "assumptions": [
+          "Estimated 12 servings based on total calories",
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
+      }
     },
     {
       "id": "corn-relish-bhg",
@@ -1331,7 +1426,20 @@
       },
       "image_refs": [
         "IMG_5362 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 497,
+          "fat_g": 3.5,
+          "protein_g": 9.1,
+          "carbs_g": 118.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "vegetable-relish-bhg",
@@ -1463,7 +1571,20 @@
       },
       "image_refs": [
         "IMG_5363 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 276,
+          "fat_g": 0.8,
+          "protein_g": 3.8,
+          "carbs_g": 68.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "fruit-juice-jelly-bhg",
@@ -1538,7 +1659,22 @@
       },
       "image_refs": [
         "IMG_5364 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 593,
+          "fat_g": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 154.0
+        },
+        "missing_inputs": [
+          "Not in database: fruit pectin"
+        ],
+        "assumptions": [
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "peach-jam-bhg",
@@ -1625,7 +1761,22 @@
       },
       "image_refs": [
         "IMG_5364 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 570,
+          "fat_g": 0.1,
+          "protein_g": 0.4,
+          "carbs_g": 147.2
+        },
+        "missing_inputs": [
+          "Not in database: fruit pectin"
+        ],
+        "assumptions": [
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "grape-jam-bhg",
@@ -1696,7 +1847,20 @@
       },
       "image_refs": [
         "IMG_5364 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 568,
+          "fat_g": 0.1,
+          "protein_g": 0.5,
+          "carbs_g": 146.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 2/2 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "orange-marmalade-bhg",
@@ -1796,7 +1960,22 @@
       },
       "image_refs": [
         "IMG_5364 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 689,
+          "fat_g": 0.2,
+          "protein_g": 0.8,
+          "carbs_g": 177.5
+        },
+        "missing_inputs": [
+          "Not in database: liquid fruit pectin"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "rhubarb-raspberry-jam-bhg",
@@ -1880,7 +2059,22 @@
       },
       "image_refs": [
         "IMG_5365 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 662,
+          "fat_g": 0.5,
+          "protein_g": 2.1,
+          "carbs_g": 169.0
+        },
+        "missing_inputs": [
+          "Not in database: fresh rhubarb"
+        ],
+        "assumptions": [
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "berry-freezer-jam-bhg",
@@ -1967,7 +2161,22 @@
       },
       "image_refs": [
         "IMG_5365 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 831,
+          "fat_g": 0.5,
+          "protein_g": 1.1,
+          "carbs_g": 213.9
+        },
+        "missing_inputs": [
+          "Not in database: liquid fruit pectin"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
+      }
     },
     {
       "id": "harvest-applesauce-bhg",
@@ -2052,7 +2261,20 @@
       },
       "image_refs": [
         "IMG_5365 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 257,
+          "fat_g": 0.4,
+          "protein_g": 0.7,
+          "carbs_g": 67.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "apple-butter-bhg",
@@ -2143,7 +2365,20 @@
       },
       "image_refs": [
         "IMG_5365 Large 2.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 447,
+          "fat_g": 0.2,
+          "protein_g": 0.4,
+          "carbs_g": 114.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     }
   ]
 }

@@ -1838,20 +1838,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 120,
-          "fat_g": 4.9,
-          "protein_g": 6.6,
-          "carbs_g": 13.8
+          "calories": 212,
+          "fat_g": 5.3,
+          "protein_g": 11.4,
+          "carbs_g": 30.9
         },
-        "missing_inputs": [
-          "Not in database: dried navy beans",
-          "Not in database: water",
-          "Not in database: bay leaf"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for grated Parmesan cheese",
           "Estimated 4 servings based on total calories",
-          "Based on 7/15 ingredients (47% coverage)"
+          "Based on 15/15 ingredients (100% coverage)"
         ]
       }
     },
@@ -1996,18 +1992,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 202,
-          "fat_g": 3.6,
-          "protein_g": 11.0,
-          "carbs_g": 32.1
+          "calories": 284,
+          "fat_g": 4.6,
+          "protein_g": 24.4,
+          "carbs_g": 37.0
         },
         "missing_inputs": [
-          "Not in database: green pepper",
-          "Not in database: ocean scallops",
-          "Not in database: salt"
+          "Not in database: bay leaves"
         ],
         "assumptions": [
-          "Based on 6/14 ingredients (43% coverage)"
+          "Assumed 1 unit for black pepper",
+          "Assumed 1 unit for Tabasco",
+          "Based on 13/14 ingredients (93% coverage)"
         ]
       }
     },
@@ -2082,12 +2078,11 @@
           "carbs_g": 3.8
         },
         "missing_inputs": [
-          "Not in database: salt",
           "Not in database: [INCOMPLETE]"
         ],
         "assumptions": [
           "Estimated 4 servings based on total calories",
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 3/4 ingredients (75% coverage)"
         ]
       }
     },
@@ -2209,7 +2204,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 378,
+          "fat_g": 22,
+          "protein_g": 28,
+          "carbs_g": 12,
+          "cholesterol_mg": 289,
+          "sodium_mg": 463
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2315,7 +2320,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 0,
+          "fat_g": 0,
+          "protein_g": 0,
+          "carbs_g": 0,
+          "cholesterol_mg": 0,
+          "sodium_mg": 965
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2437,7 +2452,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 311,
+          "fat_g": 18,
+          "protein_g": 23,
+          "carbs_g": 17,
+          "cholesterol_mg": 655,
+          "sodium_mg": 323
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2551,7 +2576,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 0,
+          "fat_g": 0,
+          "protein_g": 0,
+          "carbs_g": 0,
+          "cholesterol_mg": 0,
+          "sodium_mg": 426
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2796,7 +2831,20 @@
       },
       "image_refs": [
         "IMG_5541 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 506,
+          "fat_g": 31,
+          "protein_g": 29,
+          "carbs_g": 28,
+          "cholesterol_mg": 578,
+          "sodium_mg": 874
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "manhattan-clam-chowder-bhg",
@@ -2880,7 +2928,20 @@
       },
       "image_refs": [
         "IMG_5541 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 213,
+          "fat_g": 4,
+          "protein_g": 13,
+          "carbs_g": 32,
+          "cholesterol_mg": 970,
+          "sodium_mg": 34
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "bean-and-sausage-soup-bhg",
@@ -2939,7 +3000,20 @@
       },
       "image_refs": [
         "IMG_5542 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 404,
+          "fat_g": 14,
+          "protein_g": 20,
+          "carbs_g": 38,
+          "cholesterol_mg": 689,
+          "sodium_mg": 381
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "lentil-stew-bhg",
@@ -3045,7 +3119,20 @@
       },
       "image_refs": [
         "IMG_5542 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 466,
+          "fat_g": 22,
+          "protein_g": 26,
+          "carbs_g": 42,
+          "cholesterol_mg": 1261,
+          "sodium_mg": 39
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "black-bean-soup-bhg",
@@ -3138,7 +3225,20 @@
       },
       "image_refs": [
         "IMG_5542 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 182,
+          "fat_g": 11,
+          "protein_g": 9,
+          "carbs_g": 5,
+          "cholesterol_mg": 43,
+          "sodium_mg": 71
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "split-pea-soup-bhg",
@@ -3208,7 +3308,22 @@
       },
       "image_refs": [
         "IMG_5543 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 336,
+          "fat_g": 18.8,
+          "protein_g": 26.4,
+          "carbs_g": 14.1
+        },
+        "missing_inputs": [
+          "Not in database: dried marjoram, crushed"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "minestrone-bhg",
@@ -3316,7 +3431,20 @@
       },
       "image_refs": [
         "IMG_5543 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 80,
+          "fat_g": 2,
+          "protein_g": 4,
+          "carbs_g": 12,
+          "cholesterol_mg": 230,
+          "sodium_mg": 3
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "tortellini-vegetable-soup-bhg",
@@ -3406,7 +3534,21 @@
       },
       "image_refs": [
         "IMG_5543 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 40,
+          "fat_g": 1.5,
+          "protein_g": 3.0,
+          "carbs_g": 4.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Grated Parmesan cheese (optional)",
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "wild-rice-soup-bhg",
@@ -3482,7 +3624,21 @@
       },
       "image_refs": [
         "IMG_5544 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 263,
+          "fat_g": 22.6,
+          "protein_g": 4.5,
+          "carbs_g": 12.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Snipped parsley or chives",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "wonton-soup-bhg",
@@ -3540,7 +3696,22 @@
       },
       "image_refs": [
         "IMG_5544 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 24,
+          "fat_g": 0.6,
+          "protein_g": 2.3,
+          "carbs_g": 3.2
+        },
+        "missing_inputs": [
+          "Not in database: Wontons"
+        ],
+        "assumptions": [
+          "Based on 3/4 ingredients (75% coverage)"
+        ]
+      }
     },
     {
       "id": "cheese-soup-bhg",
@@ -3614,7 +3785,20 @@
       },
       "image_refs": [
         "IMG_5545 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 159,
+          "fat_g": 10,
+          "protein_g": 9,
+          "carbs_g": 7,
+          "cholesterol_mg": 578,
+          "sodium_mg": 374
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "corn-chowder-bhg",
@@ -3693,7 +3877,20 @@
       },
       "image_refs": [
         "IMG_5545 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 186,
+          "fat_g": 6,
+          "protein_g": 7,
+          "carbs_g": 28,
+          "cholesterol_mg": 286,
+          "sodium_mg": 8
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "cream-of-vegetable-soup-bhg",
@@ -3770,7 +3967,24 @@
       },
       "image_refs": [
         "IMG_5545 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 294,
+          "fat_g": 29.9,
+          "protein_g": 3.0,
+          "carbs_g": 5.5
+        },
+        "missing_inputs": [
+          "Not in database: Cooked vegetable (see chart)",
+          "Not in database: Seasonings (see chart)"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Dash pepper",
+          "Based on 6/8 ingredients (75% coverage)"
+        ]
+      }
     }
   ]
 }

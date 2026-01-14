@@ -73,6 +73,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 416,
+          "fat_g": 24,
+          "protein_g": 17,
+          "carbs_g": 31,
+          "cholesterol_mg": 654,
+          "sodium_mg": 558
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -158,6 +171,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 364,
+          "fat_g": 21,
+          "protein_g": 18,
+          "carbs_g": 26,
+          "cholesterol_mg": 336,
+          "sodium_mg": 436
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     }
   ]

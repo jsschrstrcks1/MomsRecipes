@@ -79,6 +79,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 163,
+          "fat_g": 1.2,
+          "protein_g": 1.5,
+          "carbs_g": 37.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -138,6 +151,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 115,
+          "fat_g": 1.3,
+          "protein_g": 1.5,
+          "carbs_g": 25.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -202,6 +228,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 280,
+          "fat_g": 1.8,
+          "protein_g": 0.2,
+          "carbs_g": 67.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -269,6 +308,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 249,
+          "fat_g": 1.6,
+          "protein_g": 0.2,
+          "carbs_g": 59.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -327,6 +379,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 474,
+          "fat_g": 0.0,
+          "protein_g": 0.1,
+          "carbs_g": 120.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -416,6 +481,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 931,
+          "fat_g": 0.2,
+          "protein_g": 0.0,
+          "carbs_g": 239.7
+        },
+        "missing_inputs": [
+          "Not in database: food coloring (optional)"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for sifted powdered sugar",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
       }
     },
     {
@@ -496,6 +577,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 290,
+          "fat_g": 1.7,
+          "protein_g": 1.2,
+          "carbs_g": 68.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for milk",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -565,6 +660,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 284,
+          "fat_g": 0.7,
+          "protein_g": 0.1,
+          "carbs_g": 70.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -630,6 +738,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 202,
+          "fat_g": 5.0,
+          "protein_g": 0.6,
+          "carbs_g": 39.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -691,6 +812,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 80,
+          "fat_g": 0.7,
+          "protein_g": 0.1,
+          "carbs_g": 18.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -775,6 +909,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 97,
+          "fat_g": 6,
+          "protein_g": 2,
+          "carbs_g": 10,
+          "cholesterol_mg": 13,
+          "sodium_mg": 3
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -849,6 +996,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 121,
+          "fat_g": 7.3,
+          "protein_g": 2.0,
+          "carbs_g": 13.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -918,6 +1078,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 47,
+          "fat_g": 1.9,
+          "protein_g": 0.2,
+          "carbs_g": 7.6
+        },
+        "missing_inputs": [
+          "Not in database: chopped nuts (optional)"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
       }
     },
     {
@@ -988,6 +1163,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 57,
+          "fat_g": 2,
+          "protein_g": 0,
+          "carbs_g": 17,
+          "cholesterol_mg": 39,
+          "sodium_mg": 5
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -1054,6 +1242,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 21,
+          "fat_g": 0.1,
+          "protein_g": 0.2,
+          "carbs_g": 5.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1139,6 +1340,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 92,
+          "fat_g": 1.3,
+          "protein_g": 1.5,
+          "carbs_g": 19.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     }
   ]

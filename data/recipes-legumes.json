@@ -92,18 +92,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 113,
-          "fat_g": 0.2,
-          "protein_g": 2.4,
-          "carbs_g": 24.9
+          "calories": 184,
+          "fat_g": 0.5,
+          "protein_g": 7.0,
+          "carbs_g": 37.4
         },
         "missing_inputs": [
-          "Not in database: dry red beans or dry red kidney beans",
-          "Not in database: bay leaf",
-          "Not in database: salt"
+          "Not in database: fennel seed, crushed"
         ],
         "assumptions": [
-          "Based on 3/8 ingredients (38% coverage)"
+          "Based on 7/8 ingredients (88% coverage)"
         ]
       }
     },
@@ -384,6 +382,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 378,
+          "fat_g": 19,
+          "protein_g": 16,
+          "carbs_g": 36,
+          "cholesterol_mg": 604,
+          "sodium_mg": 7
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -461,6 +472,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 170,
+          "fat_g": 10,
+          "protein_g": 5,
+          "carbs_g": 15,
+          "cholesterol_mg": 115,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -554,6 +578,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 274,
+          "fat_g": 8.2,
+          "protein_g": 12.7,
+          "carbs_g": 39.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for ground red pepper",
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -629,6 +667,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 382,
+          "fat_g": 10,
+          "protein_g": 29,
+          "carbs_g": 65,
+          "cholesterol_mg": 762,
+          "sodium_mg": 1196
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     }
   ]
