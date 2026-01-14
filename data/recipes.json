@@ -5,7 +5,7 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-13",
     "version": "3.0.2",
-    "total_recipes": 1410
+    "total_recipes": 1426
   },
   "recipes": [
     {
@@ -140580,6 +140580,1562 @@
       },
       "image_refs": [
         "IMG_5406 Large.jpeg"
+      ]
+    },
+    {
+      "id": "crunchy-snack-bars-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crunchy Snack Bars",
+      "category": "desserts",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook - Cakes, Cookies, Candies section",
+      "description": "Easy-to-make crunchy bar cookies using condensed milk, invented in 1856 to eliminate milk-based diseases",
+      "servings_yield": "48 bars",
+      "prep_time": "",
+      "cook_time": "45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "1",
+          "unit": "12-oz package (2 cups)",
+          "prep_note": ""
+        },
+        {
+          "item": "sweetened condensed milk",
+          "quantity": "1",
+          "unit": "14-oz can (1-1/4 cups)",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "pecans or walnuts",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "packed light brown sugar",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "quick-cooking oats",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "uncooked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In double boiler over hot, not boiling, water, heat chocolate pieces, sweetened condensed milk, and 3 tablespoons butter or margarine, stirring occasionally, until chocolate is melted and mixture is smooth. Stir in 3/4 cup chopped nuts and 1 teaspoon vanilla; remove from heat; keep mixture warm."
+        },
+        {
+          "step": 2,
+          "text": "Preheat oven to 350\u00b0F. Grease 13x9 baking pan."
+        },
+        {
+          "step": 3,
+          "text": "Into large bowl, measure flour, sugar, baking soda, salt, eggs, 1 cup butter, and 1 tablespoon vanilla."
+        },
+        {
+          "step": 4,
+          "text": "With mixer at low speed, beat until mixed, scraping bowl. Increase speed to medium; beat 3 minutes. Stir in oats and rest of nuts."
+        },
+        {
+          "step": 5,
+          "text": "Pat half of dough onto bottom of pan. Spread chocolate over dough; drop remaining dough by teaspoonfuls to cover chocolate mixture."
+        },
+        {
+          "step": 6,
+          "text": "Bake 45 minutes or until top is firm when lightly touched. Cool completely in pan on wire rack."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "13x9 inch baking pan",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "bars",
+        "chocolate",
+        "oatmeal",
+        "condensed milk"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5162 Large.jpeg"
+      ]
+    },
+    {
+      "id": "apricot-meringue-strips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apricot Meringue Strips",
+      "category": "desserts",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook - Cakes, Cookies, Candies section",
+      "description": "Cookie bars with apricot preserves topped with meringue",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "apricot preserves",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F. Into small bowl, mix first 4 ingredients, egg yolk, and 1/4 cup sugar."
+        },
+        {
+          "step": 2,
+          "text": "With mixer at low speed, beat until blended, scraping bowl with rubber spatula."
+        },
+        {
+          "step": 3,
+          "text": "Press mixture onto bottom of ungreased 8-inch pan; bake 10 minutes."
+        },
+        {
+          "step": 4,
+          "text": "In another small bowl with mixer beat egg white until soft peaks form. At high speed, gradually beat in 1/4 cup sugar until stiff, glossy peaks form."
+        },
+        {
+          "step": 5,
+          "text": "Remove from oven. Spread apricot preserves over base; top with meringue. Bake 20 minutes or till lightly browned."
+        },
+        {
+          "step": 6,
+          "text": "Cool 15 minutes; cut into 4x1 inch strips. Store immediately."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8-inch pan",
+      "notes": [
+        "Topping cookies: Evenly spread apricot preserves over cooked base, then top with meringue"
+      ],
+      "tags": [
+        "cookies",
+        "bars",
+        "apricot",
+        "meringue"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "partial page visibility"
+        ]
+      },
+      "image_refs": [
+        "IMG_5162 Large.jpeg"
+      ]
+    },
+    {
+      "id": "peanut-choco-nuggets-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut-Choco Nuggets",
+      "category": "desserts",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 350 - Nut and grain cookies",
+      "description": "Half of America's peanut crop goes into peanut butter. Combined with chocolate for these superb cookies.",
+      "servings_yield": "48 cookies",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "semisweet chocolate pieces",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "peanut butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cocoa",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "peanuts",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Chocolate Filling: In heavy 2-quart saucepan over low heat, heat chocolate pieces until melted and smooth, stirring often."
+        },
+        {
+          "step": 2,
+          "text": "Remove saucepan from heat; with wooden spoon stir in peanut butter, cocoa, peanuts, and confectioners' sugar until blended."
+        },
+        {
+          "step": 3,
+          "text": "Drop by teaspoon-fuls onto ungreased cookie sheet. With fingers, smooth and shape into mounds. Cover; refrigerate 30 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, prepare Cookie-Shell Dough: In large bowl with hand, quickly knead the flour, butter, vanilla, and 1 cup confectioners' sugar until blended and stiff."
+        },
+        {
+          "step": 5,
+          "text": "With hands, gently shape stiff dough into a 25-inch-long log. With sharp knife, carefully cut the log into 50 1/2-inch slices. Preheat the oven to 400\u00b0F."
+        },
+        {
+          "step": 6,
+          "text": "Place a mound of Chocolate Filling on a slice of Cookie-Shell Dough; shape the dough around filling to cover completely, pinching the edges to seal."
+        },
+        {
+          "step": 7,
+          "text": "Shape cookie into a 2-inch-long log; place on ungreased cookie sheets. Repeat with remaining chocolate filling and dough."
+        },
+        {
+          "step": 8,
+          "text": "Bake 10 to 12 minutes, until golden. With pancake turner, remove to wire racks; cool. Onto waxed paper, measure 1/4 cup sugar."
+        },
+        {
+          "step": 9,
+          "text": "When cold, roll cookies in the confectioners' sugar to coat completely. Store in tightly-covered container to use up within 1 week."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "peanut butter",
+        "chocolate",
+        "nuts"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5163 Large.jpeg"
+      ]
+    },
+    {
+      "id": "peanut-butter-candy-tops-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Candy Tops",
+      "category": "desserts",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 350",
+      "description": "Peanut butter cookies with chocolate candy press-ins",
+      "servings_yield": "64 cookies",
+      "prep_time": "",
+      "cook_time": "12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chunky peanut butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chocolate-covered candies",
+          "quantity": "5",
+          "unit": "oz package",
+          "prep_note": "about 64"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 300\u00b0F. Into large bowl, measure all ingredients except candies. With mixer at low speed, beat until well blended, occasionally scraping bowl with rubber spatula."
+        },
+        {
+          "step": 2,
+          "text": "Shape dough into 1-inch balls. Place balls, about 2 inches apart, on ungreased cookie sheets. Bake 12 minutes, until lightly browned."
+        },
+        {
+          "step": 3,
+          "text": "Remove from oven, quickly press 3 or 4 candies into tops; return to oven; bake 3 minutes."
+        },
+        {
+          "step": 4,
+          "text": "With pancake turner, carefully remove cookies to wire racks; cool."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "peanut butter",
+        "chocolate",
+        "candy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5163 Large.jpeg"
+      ]
+    },
+    {
+      "id": "almond-lace-rolls-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Almond Lace Rolls",
+      "category": "desserts",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 350",
+      "description": "Delicate lace cookies rolled around a wooden spoon handle",
+      "servings_yield": "30 cookies",
+      "prep_time": "",
+      "cook_time": "5 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blanched almonds",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "ground"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "confectioners' sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for dusting"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F. Grease and flour large cookie sheet. Into large skillet, measure all ingredients except confectioners' sugar."
+        },
+        {
+          "step": 2,
+          "text": "Cook over low heat, stirring, until butter melts and mixture is blended. Keeping over very low heat, drop 4 heaping teaspoonfuls, 2 inches apart, onto cookie sheet; bake 5 minutes."
+        },
+        {
+          "step": 3,
+          "text": "With metal spatula, quickly remove cookies, one by one, and immediately roll around wooden spoon handle."
+        },
+        {
+          "step": 4,
+          "text": "Cool; repeat until all batter is used, greasing and flouring cookie sheet each time."
+        },
+        {
+          "step": 5,
+          "text": "To serve, dust with confectioners' sugar."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [
+        "Shaping rolls: One by one, roll around wooden spoon handle",
+        "Work quickly as cookies harden fast"
+      ],
+      "tags": [
+        "cookies",
+        "almond",
+        "lace cookies",
+        "rolled cookies"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5163 Large.jpeg"
+      ]
+    },
+    {
+      "id": "bread-history-kneading-tips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bread History and Kneading Tips",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook - Candies section intro",
+      "description": "History of bread in America and how to knead bread properly",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "American Indians had long been using cornmeal to make their flatbreads by the time the earliest settlers arrived",
+        "Plymouth colonists planted wheat and rye seeds brought from Europe; these first crops saved them from starvation",
+        "After the Civil War, more bakeries were established producing purer, whiter bread",
+        "America's 'wheat belt' from Minnesota and Wisconsin to Iowa and Kansas became the world's greatest producer of grain",
+        "Sourdough bread made using an ancient system based on natural 'starter' rather than yeast was brought to America with the first settlers",
+        "The invention of the 'sandwich' loaf in 1920 probably revolutionized the American diet",
+        "HOW TO KNEAD BREAD: Kneading should be done on a lightly floured surface, a board or counter top; add a little more flour if the dough remains sticky. Knead 8 to 10 minutes until smooth and elastic; it should have tiny air bubbles under the surface.",
+        "Turn the dough onto a lightly floured board or counter top. With lightly floured hands, shape the dough into a ball and fold it toward you.",
+        "With the heels of hands, using a rolling motion, push it away. Give dough a quarter of a turn.",
+        "Knead 8 to 10 minutes; dough should no longer stick and will be ready for second rising or shaping, as recipe directs."
+      ],
+      "tags": [
+        "reference",
+        "tips",
+        "bread",
+        "history",
+        "technique",
+        "kneading"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5171 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cookbook-intro-cooking-today-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "For the Way You Cook Today - Cookbook Introduction",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook pages 4-6",
+      "description": "Introduction to the Better Homes and Gardens New Cook Book",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Every page of this revised edition is designed with you, the cook of the '90s, in mind",
+        "All of the recipes, meal-planning hints, and cooking tips have been updated to fit the hurried life you lead",
+        "Both Old and New: You'll see many recipes you remember from childhood, such as Beef Pot Roast and Chicken and Dumplings, right alongside relative newcomers like Taco Salad and Turkey Manicotti",
+        "Changing Tastes: We're frequently serving light meals with just one or two courses to a few people instead of big meals to a bunch. We're also preparing more ethnic and regional favorites",
+        "FAST symbol means you can prepare main dishes or desserts in 30 minutes or less",
+        "Saving Time: Look for the FAST symbol - recipes can be done in under 20 minutes",
+        "Eating Right: We looked for ways to reduce salt, sugar, and fat while maintaining good flavor",
+        "Test Kitchen Seal of Approval: No recipe receives this seal unless it meets our high standards"
+      ],
+      "tags": [
+        "reference",
+        "introduction",
+        "cooking tips"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5172 Large.jpeg",
+        "IMG_5173 Large.jpeg",
+        "IMG_5174 Large.jpeg"
+      ]
+    },
+    {
+      "id": "shellfish-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shellfish Identification Guide",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 178",
+      "description": "Visual guide to identifying and selecting shellfish",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Shellfish types shown: Oysters, Sea and bay scallops, Crawfish, Shrimp (in shells and peeled), Lobster tails, Clams, Mussels, Snow crab legs",
+        "Buying: Whether you eat shellfish steamed or boiled, or use them in classic dishes like Crab Mornay or Lobster Newburg, you'll find them irresistible",
+        "Shellfish come available live, partially cooked. When buying live shellfish, look for oysters and hard-shell clams that close their shells when you tap them",
+        "Storing and Freezing: Cook live shellfish the day you buy them or freeze them immediately. Shuck oysters, clams, and scallops, freeze in freezer containers for up to three months",
+        "How Much to Buy: For each serving you'll need these amounts: 6 oysters or clams in the shell, 1/4 cup shucked oysters or clams",
+        "How to Tell When Seafood Is Cooked: Shellfish can be boiled, broiled, baked, steamed, or fried. When done, shelled oysters, mussels, and clams become plump and opaque; clams and mussels open. Lobsters and crawfish turn bright red. Shrimp turn pink."
+      ],
+      "tags": [
+        "reference",
+        "shellfish",
+        "seafood",
+        "identification",
+        "buying guide"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5340 Large.jpeg"
+      ]
+    },
+    {
+      "id": "crab-mornay-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crab Mornay",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 179",
+      "description": "Elegant crab dish in creamy cheese sauce",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "crab meat",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "flaked"
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded process Swiss cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "diced red pepper",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan cook mushrooms, onion in butter or margarine till tender. Stir in flour."
+        },
+        {
+          "step": 2,
+          "text": "Add milk all at once; cook and stir till thickened and bubbly. Cook and stir 1 minute more."
+        },
+        {
+          "step": 3,
+          "text": "Add Swiss cheese and crabmeat; stir till cheese melts. Stir in parsley, wine, and red pepper."
+        },
+        {
+          "step": 4,
+          "text": "Serve over patty shells or toast points. Sprinkle with paprika if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Shrimp Mornay: Prepare as above, except substitute 8 ounces cooked, peeled, and deveined shrimp or two 4-1/2-ounce cans shrimp",
+        "Lobster Mornay: Prepare as above, except substitute 1 cup cooked lobster or one 6-1/2-ounce can lobster, drained, broken into large pieces, and cartilage removed, for crabmeat"
+      ],
+      "tags": [
+        "seafood",
+        "crab",
+        "cheese sauce",
+        "elegant",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5341 Large.jpeg"
+      ]
+    },
+    {
+      "id": "deviled-crab-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Deviled Crab",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 179",
+      "description": "Classic deviled crab baked in shells or ramekins",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "crabmeat",
+          "quantity": "1",
+          "unit": "6-oz can",
+          "prep_note": "drained and cartilage removed"
+        },
+        {
+          "item": "hard-cooked egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "shredded process Swiss cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry bread crumbs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "sliced almonds",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "toasted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan melt the 2 tablespoons margarine. Stir in flour. Add milk and hot pepper sauce all at once. Cook and stir till thickened and bubbly."
+        },
+        {
+          "step": 2,
+          "text": "Stir in crabmeat, chopped egg, cheese, pimiento, and mustard. Spoon into four 10-ounce casseroles or coquille shells."
+        },
+        {
+          "step": 3,
+          "text": "Toss bread crumbs with the 1 tablespoon melted margarine; sprinkle over casseroles. Top with almonds."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 375\u00b0 oven about 20 minutes or till tops brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "10-ounce casseroles or coquille shells",
+      "notes": [],
+      "tags": [
+        "seafood",
+        "crab",
+        "baked",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5341 Large.jpeg"
+      ]
+    },
+    {
+      "id": "crab-cakes-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crab Cakes",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 179",
+      "description": "Classic pan-fried crab cakes",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "crabmeat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "flaked"
+        },
+        {
+          "item": "mayonnaise",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "dry bread crumbs",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium mixing bowl combine crabmeat, mayonnaise, egg, bread crumbs, green onion, Worcestershire, dry mustard, and red pepper."
+        },
+        {
+          "step": 2,
+          "text": "Stir to mix well. Form into 6 patties about 3 inches in diameter."
+        },
+        {
+          "step": 3,
+          "text": "In a large skillet heat about 3 tablespoons oil. Add half of crab cakes. Cook over medium heat for 3 to 4 minutes on each side or till golden brown. Remove; keep warm."
+        },
+        {
+          "step": 4,
+          "text": "Repeat with remaining crab cakes, adding more oil if necessary."
+        }
+      ],
+      "temperature": "medium heat",
+      "pan_size": "large skillet",
+      "notes": [],
+      "tags": [
+        "seafood",
+        "crab",
+        "fried",
+        "crab cakes",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5341 Large.jpeg"
+      ]
+    },
+    {
+      "id": "shrimp-creole-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shrimp Creole",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 180",
+      "description": "Classic Louisiana-style shrimp in spicy tomato sauce served over rice",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen shrimp",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "peeled and deveined"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "butter, margarine, or olive oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "16-oz can",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "8-oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "hot cooked rice",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw shrimp, if frozen. In a large skillet cook onion, celery, green pepper, and garlic in butter, margarine, or olive oil till tender but not brown."
+        },
+        {
+          "step": 2,
+          "text": "Stir in undrained tomatoes, tomato sauce, bay leaf, sugar, salt, paprika, red pepper, and parsley. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 3,
+          "text": "Simmer, covered, for 15 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Stir together cornstarch and cold water; add to tomato mixture. Cook and stir till thickened and bubbly."
+        },
+        {
+          "step": 5,
+          "text": "Add shrimp; return to boiling. Cover and simmer for 1 to 3 minutes more or till shrimp turn pink."
+        },
+        {
+          "step": 6,
+          "text": "Discard bay leaf. Serve over hot cooked rice."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Fish Creole: Prepare as above, except substitute 12 ounces fresh fish fillets for shrimp. Thaw fish, if frozen. Cut fillets into 1-inch pieces. Add fish to the tomato mixture. Cover and simmer for 3 to 5 minutes or till fish flakes with a fork."
+      ],
+      "tags": [
+        "seafood",
+        "shrimp",
+        "Creole",
+        "Louisiana",
+        "rice",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5342 Large.jpeg"
+      ]
+    },
+    {
+      "id": "shrimp-chow-mein-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shrimp Chow Mein",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 180",
+      "description": "Stir-fried shrimp with vegetables in Asian-style sauce",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen shrimp",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "peeled and deveined"
+        },
+        {
+          "item": "water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "grated gingerroot or ground ginger",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "halved lengthwise and cut crosswise"
+        },
+        {
+          "item": "sliced water chestnuts",
+          "quantity": "1",
+          "unit": "8-oz can",
+          "prep_note": "drained"
+        },
+        {
+          "item": "frozen pea pods",
+          "quantity": "1",
+          "unit": "6-oz package",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "bean sprouts",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chow mein noodles or hot cooked rice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw shrimp, if frozen. Cut any large shrimp in half lengthwise. For sauce, combine water, soy sauce, cornstarch, bouillon granules, and ginger."
+        },
+        {
+          "step": 2,
+          "text": "Preheat a wok or large skillet over high heat; add cooking oil."
+        },
+        {
+          "step": 3,
+          "text": "Stir-fry mushrooms, onion, and garlic for 1 minute. Remove. Stir-fry vegetables. Stir-fry shrimp for 2 to 3 minutes or till shrimp turn pink."
+        },
+        {
+          "step": 4,
+          "text": "Push to side of wok. Stir sauce; add to center of wok. Cook and stir till thickened and bubbly. Add water chestnuts, bean sprouts, pea pods, and cooked vegetables. Stir-fry through."
+        },
+        {
+          "step": 5,
+          "text": "Serve over chow mein noodles or hot cooked rice."
+        }
+      ],
+      "temperature": "high heat",
+      "pan_size": "wok or large skillet",
+      "notes": [
+        "Scallop Chow Mein: Prepare as above, except substitute 12 ounces fresh or frozen scallops for the shrimp. Thaw scallops if frozen. Cut any large scallops into bite-size pieces. Stir-fry scallops for 2 to 3 minutes or till they turn opaque."
+      ],
+      "tags": [
+        "seafood",
+        "shrimp",
+        "Asian",
+        "stir-fry",
+        "chow mein",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5342 Large.jpeg"
+      ]
+    },
+    {
+      "id": "shrimp-in-garlic-butter-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shrimp in Garlic Butter",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 181",
+      "description": "Quick saut\u00e9ed shrimp in garlic butter sauce",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "3-5 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen shrimp",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "peeled and deveined"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw shrimp, if frozen. In a large skillet heat margarine or butter over medium-high heat."
+        },
+        {
+          "step": 2,
+          "text": "Add shrimp and garlic; cook, stirring for 3 to 5 minutes or till shrimp turn pink."
+        },
+        {
+          "step": 3,
+          "text": "Stir in parsley. Serve immediately."
+        }
+      ],
+      "temperature": "medium-high heat",
+      "pan_size": "large skillet",
+      "notes": [
+        "Scallops in Garlic Butter: Prepare as above, except substitute 12 ounces scallops for the shrimp. Cook for 3 to 5 minutes or till scallops turn opaque."
+      ],
+      "tags": [
+        "seafood",
+        "shrimp",
+        "garlic",
+        "butter",
+        "quick",
+        "FAST",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5343 Large.jpeg"
+      ]
+    },
+    {
+      "id": "french-fried-shrimp-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French-Fried Shrimp",
+      "category": "main dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 181",
+      "description": "Classic crispy fried shrimp with instructions for butterflying",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen shrimp",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": "in shells"
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "yellow cornmeal",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dash pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Cocktail Sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw shrimp, if frozen. Peel shrimp, leaving last section before the tails and the tails intact. To devein shrimp, use a sharp knife to make a shallow slit along the back of shrimp. Remove the sandy black vein, if present."
+        },
+        {
+          "step": 2,
+          "text": "To butterfly the shrimp, make a deeper slit along the back of the shrimp, cutting almost all the way through the shrimp on a flat surface so that the sides open to resemble a butterfly. Rinse; pat dry with paper towels. Set aside."
+        },
+        {
+          "step": 3,
+          "text": "In a large deep saucepan or deep-fat fryer, heat 2 inches melted shortening or oil to 375\u00b0."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, for batter, stir together flour, cornmeal, sugar, salt, and dash pepper. Make a well with the dry ingredients. Beat egg slightly."
+        },
+        {
+          "step": 5,
+          "text": "Combine egg, cold water, and the 2 tablespoons oil; add to dry ingredients. Beat with a rotary beater till smooth."
+        },
+        {
+          "step": 6,
+          "text": "Dip shrimp in batter. Fry a few at a time in hot oil for 2 to 3 minutes or till golden. Drain on paper towels. Keep warm in a 300\u00b0 oven while frying remainder."
+        },
+        {
+          "step": 7,
+          "text": "Serve with Cocktail Sauce, if desired."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C) for frying",
+      "pan_size": "deep saucepan or deep-fat fryer",
+      "notes": [
+        "How to devein a shrimp: use the tip of a knife to lift out the black vein",
+        "To butterfly the shrimp: make a deep cut down the back. Do not cut all the way through"
+      ],
+      "tags": [
+        "seafood",
+        "shrimp",
+        "fried",
+        "deep-fried",
+        "main dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5343 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cheese-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Identification Guide",
+      "category": "reference",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 156",
+      "description": "Visual guide to identifying soft and semisoft cheeses",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "SOFT CHEESES: These cheeses range in texture from soft and smooth to grainy and dry",
+        "Soft cheeses shown: Feta, Brie, Camembert, Boursin, Gourmandise, Ricotta, Chevret or ch\u00e8vre, Cream cheese, Neufch\u00e2tel, Farmer cheese, Cottage cheese",
+        "SEMISOFT CHEESES: These white or yellow cheeses are mild to mellow in flavor. They are used in cooking, salads, and desserts.",
+        "Semisoft cheeses shown: Havarti, Mozzarella, Scamorza, Brick, Monterey Jack, Muenster, Port du Salut, Bel Paese, Fontina, Colby-Monterey Jack"
+      ],
+      "tags": [
+        "reference",
+        "cheese",
+        "identification",
+        "guide"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5317 Large.jpeg"
       ]
     }
   ],
