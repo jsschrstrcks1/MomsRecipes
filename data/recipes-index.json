@@ -8,7 +8,7 @@
     "total_recipes": 1943,
     "sharded": true,
     "shard_strategy": "by_category",
-    "shard_count": 30
+    "shard_count": 29
   },
   "shards": [
     {
@@ -87,14 +87,9 @@
       "count": 7
     },
     {
-      "category": "main dishes",
-      "file": "recipes-main dishes.json",
-      "count": 90
-    },
-    {
       "category": "main-dishes",
       "file": "recipes-main-dishes.json",
-      "count": 19
+      "count": 109
     },
     {
       "category": "mains",
@@ -24341,7 +24336,7 @@
     {
       "id": "bacon-double-cheese-quiche-gahb",
       "title": "Bacon and Double Cheese Quiche",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "quiche",
         "bacon",
@@ -24520,7 +24515,7 @@
     {
       "id": "italian-sausage-sandwiches-bhg",
       "title": "Italian Sausage Sandwiches",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "sandwich",
         "sausage",
@@ -24537,7 +24532,7 @@
     {
       "id": "bacon-and-onion-bratwursts-bhg",
       "title": "Bacon and Onion Bratwursts",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "sandwich",
         "bratwurst",
@@ -24554,7 +24549,7 @@
     {
       "id": "apple-stuffed-sausage-patties-bhg",
       "title": "Apple-Stuffed Sausage Patties",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "sausage",
@@ -24572,7 +24567,7 @@
     {
       "id": "liver-and-onions-bhg",
       "title": "Liver and Onions",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "liver",
@@ -24607,7 +24602,7 @@
     {
       "id": "create-your-own-meat-loaf-bhg",
       "title": "Create-Your-Own Meat Loaf",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "meat loaf",
@@ -24624,7 +24619,7 @@
     {
       "id": "swedish-meatballs-bhg",
       "title": "Swedish Meatballs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "meatballs",
@@ -24641,7 +24636,7 @@
     {
       "id": "spaghetti-sauce-bhg",
       "title": "Spaghetti Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "spaghetti",
@@ -24659,7 +24654,7 @@
     {
       "id": "porcupine-meatballs-bhg",
       "title": "Porcupine Meatballs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "meatballs",
@@ -24676,7 +24671,7 @@
     {
       "id": "hamburgers-bhg",
       "title": "Hamburgers",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "hamburger",
@@ -24729,7 +24724,7 @@
     {
       "id": "cheese-strata-bhg",
       "title": "Cheese Strata",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "cheese",
@@ -24747,7 +24742,7 @@
     {
       "id": "cheese-stuffed-manicotti-bhg",
       "title": "Cheese-Stuffed Manicotti",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "pasta",
@@ -24927,7 +24922,7 @@
     {
       "id": "stuffed-burgers-bhg",
       "title": "Stuffed Burgers",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "hamburger",
@@ -24945,7 +24940,7 @@
     {
       "id": "garden-burgers-bhg",
       "title": "Garden Burgers",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "hamburger",
@@ -24963,7 +24958,7 @@
     {
       "id": "tacos-bhg",
       "title": "Tacos",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "mexican",
@@ -24981,7 +24976,7 @@
     {
       "id": "sloppy-joes-bhg",
       "title": "Sloppy Joes",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "sandwich",
@@ -24999,7 +24994,7 @@
     {
       "id": "lasagna-bhg",
       "title": "Lasagna",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "main dish",
         "pasta",
@@ -25018,7 +25013,7 @@
     {
       "id": "fettuccine-with-cheese-sauce-bhg",
       "title": "Fettuccine with Cheese Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pasta",
         "cheese",
@@ -25299,7 +25294,7 @@
     {
       "id": "crab-mornay-bhg",
       "title": "Crab Mornay",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "crab",
@@ -25318,7 +25313,7 @@
     {
       "id": "deviled-crab-bhg",
       "title": "Deviled Crab",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "crab",
@@ -25336,7 +25331,7 @@
     {
       "id": "crab-cakes-bhg",
       "title": "Crab Cakes",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "crab",
@@ -25355,7 +25350,7 @@
     {
       "id": "shrimp-creole-bhg",
       "title": "Shrimp Creole",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "shrimp",
@@ -25375,7 +25370,7 @@
     {
       "id": "shrimp-chow-mein-bhg",
       "title": "Shrimp Chow Mein",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "shrimp",
@@ -25395,7 +25390,7 @@
     {
       "id": "shrimp-in-garlic-butter-bhg",
       "title": "Shrimp in Garlic Butter",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "shrimp",
@@ -25416,7 +25411,7 @@
     {
       "id": "french-fried-shrimp-bhg",
       "title": "French-Fried Shrimp",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "shrimp",
@@ -25471,7 +25466,7 @@
     {
       "id": "cheese-strata-bhg",
       "title": "Cheese Strata",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "breakfast",
         "brunch",
@@ -25492,7 +25487,7 @@
     {
       "id": "cheese-stuffed-manicotti-bhg",
       "title": "Cheese-Stuffed Manicotti",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pasta",
         "cheese",
@@ -25530,7 +25525,7 @@
     {
       "id": "meatless-red-beans-and-rice-bhg",
       "title": "Meatless Red Beans and Rice",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "vegetarian",
         "beans",
@@ -26432,7 +26427,7 @@
     {
       "id": "cider-caraway-pot-roast-bhg",
       "title": "Cider-Caraway Pot Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "pot roast",
@@ -26450,7 +26445,7 @@
     {
       "id": "horseradish-rubbed-beef-rib-roast-bhg",
       "title": "Horseradish-Rubbed Beef Rib Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "roast",
@@ -26488,7 +26483,7 @@
     {
       "id": "standing-rib-roast-bhg",
       "title": "Standing Rib Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "roast",
@@ -26544,7 +26539,7 @@
     {
       "id": "beef-pot-roast-bhg",
       "title": "Beef Pot Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "pot roast",
@@ -26581,7 +26576,7 @@
     {
       "id": "beef-wellington-bhg",
       "title": "Beef Wellington",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "tenderloin",
@@ -26601,7 +26596,7 @@
     {
       "id": "vegetable-stuffed-rolled-roast-bhg",
       "title": "Vegetable-Stuffed Rolled Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "roast",
@@ -26620,7 +26615,7 @@
     {
       "id": "new-england-boiled-dinner-bhg",
       "title": "New England Boiled Dinner",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "corned beef",
@@ -26640,7 +26635,7 @@
     {
       "id": "herbed-rump-roast-bhg",
       "title": "Herbed Rump Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "roast",
@@ -26659,7 +26654,7 @@
     {
       "id": "zesty-short-ribs-bhg",
       "title": "Zesty Short Ribs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "short ribs",
@@ -26678,7 +26673,7 @@
     {
       "id": "five-spice-beef-ribs-bhg",
       "title": "Five-Spice Beef Ribs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "short ribs",
@@ -26698,7 +26693,7 @@
     {
       "id": "lemon-marinated-chuck-steak-bhg",
       "title": "Lemon-Marinated Chuck Steak",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "steak",
@@ -26717,7 +26712,7 @@
     {
       "id": "swiss-steak-bhg",
       "title": "Swiss Steak",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "steak",
@@ -26737,7 +26732,7 @@
     {
       "id": "steak-and-spinach-pinwheels-bhg",
       "title": "Steak and Spinach Pinwheels",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "steak",
@@ -26758,7 +26753,7 @@
     {
       "id": "london-broil-bhg",
       "title": "London Broil",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "steak",
@@ -26777,7 +26772,7 @@
     {
       "id": "pepper-rubbed-steaks-bhg",
       "title": "Pepper-Rubbed Steaks",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "steak",
@@ -26798,7 +26793,7 @@
     {
       "id": "french-onion-sandwiches-bhg",
       "title": "French Onion Sandwiches",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "sandwiches",
@@ -26817,7 +26812,7 @@
     {
       "id": "veal-cordon-bleu-bhg",
       "title": "Veal Cordon Bleu",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "veal",
         "ham",
@@ -26837,7 +26832,7 @@
     {
       "id": "veal-marsala-bhg",
       "title": "Veal Marsala",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "veal",
         "Marsala",
@@ -26857,7 +26852,7 @@
     {
       "id": "beef-fajitas-bhg",
       "title": "Beef Fajitas",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "Mexican",
@@ -26877,7 +26872,7 @@
     {
       "id": "beef-stroganoff-bhg",
       "title": "Beef Stroganoff",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "stroganoff",
@@ -26898,7 +26893,7 @@
     {
       "id": "beef-teriyaki-kabobs-bhg",
       "title": "Beef Teriyaki Kabobs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "kabobs",
@@ -26918,7 +26913,7 @@
     {
       "id": "ginger-beef-stir-fry-bhg",
       "title": "Ginger-Beef Stir-Fry",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "stir-fry",
@@ -26957,7 +26952,7 @@
     {
       "id": "spinach-stuffed-lamb-roast-bhg",
       "title": "Spinach-Stuffed Lamb Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "roast",
@@ -26978,7 +26973,7 @@
     {
       "id": "herb-rubbed-leg-of-lamb-bhg",
       "title": "Herb-Rubbed Leg of Lamb",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "roast",
@@ -26998,7 +26993,7 @@
     {
       "id": "currant-glazed-rack-of-lamb-bhg",
       "title": "Currant-Glazed Rack of Lamb",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "rack",
@@ -27018,7 +27013,7 @@
     {
       "id": "curried-lamb-bhg",
       "title": "Curried Lamb",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "curry",
@@ -27038,7 +27033,7 @@
     {
       "id": "vegetable-lamb-skillet-bhg",
       "title": "Vegetable-Lamb Skillet",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "vegetables",
@@ -27057,7 +27052,7 @@
     {
       "id": "saucy-lamb-shanks-bhg",
       "title": "Saucy Lamb Shanks",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "shanks",
@@ -27076,7 +27071,7 @@
     {
       "id": "lamb-chops-with-herb-sauce-bhg",
       "title": "Lamb Chops with Herb Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "chops",
@@ -27096,7 +27091,7 @@
     {
       "id": "lamb-chops-honey-mustard-glaze-bhg",
       "title": "Lamb Chops with Honey-Mustard Glaze",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "chops",
@@ -27117,7 +27112,7 @@
     {
       "id": "lamb-shish-kabobs-bhg",
       "title": "Lamb Shish Kabobs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "kabobs",
@@ -27176,7 +27171,7 @@
     {
       "id": "creole-stuffed-roast-bhg",
       "title": "Creole Stuffed Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "roast",
@@ -27195,7 +27190,7 @@
     {
       "id": "rib-crown-roast-pork-bhg",
       "title": "Rib Crown Roast of Pork",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "roast",
@@ -27214,7 +27209,7 @@
     {
       "id": "harvest-pot-roast-pork-bhg",
       "title": "Harvest Pot Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "pot roast",
@@ -27233,7 +27228,7 @@
     {
       "id": "roast-pork-mushroom-butter-sauce-bhg",
       "title": "Roast Pork with Mushroom-Butter Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "roast",
@@ -27271,7 +27266,7 @@
     {
       "id": "pork-apple-nutmeg-sauce-bhg",
       "title": "Pork with Apple-Nutmeg Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "tenderloin",
@@ -27290,7 +27285,7 @@
     {
       "id": "citrus-glazed-pork-ribs-bhg",
       "title": "Citrus-Glazed Pork Ribs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "ribs",
@@ -27309,7 +27304,7 @@
     {
       "id": "barbecue-style-ribs-bhg",
       "title": "Barbecue-Style Ribs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "ribs",
@@ -27327,7 +27322,7 @@
     {
       "id": "braised-steaks-italian-bhg",
       "title": "Braised Steaks Italian",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "steaks",
@@ -27527,7 +27522,7 @@
     {
       "id": "linguine-white-clam-sauce-bhg",
       "title": "Linguine with White Clam Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pasta",
         "seafood",
@@ -27546,7 +27541,7 @@
     {
       "id": "linguine-red-clam-sauce-bhg",
       "title": "Linguine with Red Clam Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pasta",
         "seafood",
@@ -27565,7 +27560,7 @@
     {
       "id": "coquilles-saint-jacques-bhg",
       "title": "Coquilles Saint Jacques",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "scallops",
@@ -27584,7 +27579,7 @@
     {
       "id": "curried-scallop-kabobs-bhg",
       "title": "Curried Scallop Kabobs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "scallops",
@@ -27603,7 +27598,7 @@
     {
       "id": "crawfish-etouffee-bhg",
       "title": "Crawfish \u00c9touff\u00e9e",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "crawfish",
@@ -27623,7 +27618,7 @@
     {
       "id": "fried-seafood-bhg",
       "title": "Fried Seafood",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "fried",
@@ -27642,7 +27637,7 @@
     {
       "id": "oysters-au-gratin-bhg",
       "title": "Oysters au Gratin",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "seafood",
         "oysters",
@@ -27852,7 +27847,7 @@
     {
       "id": "citrus-ginger-pot-roast-bhg",
       "title": "Citrus-Ginger Pot Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "pot roast",
@@ -27872,7 +27867,7 @@
     {
       "id": "horseradish-rubbed-beef-roast-bhg",
       "title": "Horseradish-Rubbed Beef Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "roast",
@@ -27891,7 +27886,7 @@
     {
       "id": "beef-pot-roast-classic-bhg",
       "title": "Beef Pot Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "pot roast",
@@ -27928,7 +27923,7 @@
     {
       "id": "barbecue-style-pot-roast-bhg",
       "title": "Barbecue-Style Pot Roast",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "pot roast",
@@ -27946,7 +27941,7 @@
     {
       "id": "steak-spinach-pinwheels-bhg",
       "title": "Steak and Spinach Pinwheels",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "beef",
         "steak",
@@ -27984,7 +27979,7 @@
     {
       "id": "lamb-chops-herb-sauce-bhg",
       "title": "Lamb Chops with Herb Sauce",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "lamb",
         "chops",
@@ -28042,7 +28037,7 @@
     {
       "id": "rib-crown-roast-pork-stuffed-bhg",
       "title": "Rib Crown Roast of Pork with Rice Stuffing",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "crown roast",
@@ -28081,7 +28076,7 @@
     {
       "id": "corn-stuffed-pork-chops-bhg",
       "title": "Corn-Stuffed Pork Chops",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "chops",
@@ -28100,7 +28095,7 @@
     {
       "id": "mexican-pork-chops-bhg",
       "title": "Mexican Pork Chops",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "chops",
@@ -28119,7 +28114,7 @@
     {
       "id": "creamy-herbed-pork-chops-bhg",
       "title": "Creamy Herbed Pork Chops",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "chops",
@@ -28138,7 +28133,7 @@
     {
       "id": "honey-orange-pork-chops-bhg",
       "title": "Honey-Orange Pork Chops",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "chops",
@@ -28157,7 +28152,7 @@
     {
       "id": "pork-fiesta-kabobs-bhg",
       "title": "Pork Fiesta Kabobs",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "kabobs",
@@ -28176,7 +28171,7 @@
     {
       "id": "pork-chop-suey-bhg",
       "title": "Pork Chop Suey",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "stir-fry",
@@ -28195,7 +28190,7 @@
     {
       "id": "pork-mediterranean-bhg",
       "title": "Pork Mediterranean",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "mediterranean",
@@ -28214,7 +28209,7 @@
     {
       "id": "sweet-and-sour-pork-bhg",
       "title": "Sweet-and-Sour Pork",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "chinese",
@@ -28233,7 +28228,7 @@
     {
       "id": "cashew-pork-pea-pods-bhg",
       "title": "Cashew Pork and Pea Pods",
-      "category": "main dishes",
+      "category": "main-dishes",
       "tags": [
         "pork",
         "stir-fry",
