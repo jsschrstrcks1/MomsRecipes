@@ -400,14 +400,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 239,
-          "fat_g": 10.4,
-          "protein_g": 3.7,
-          "carbs_g": 33.6
+          "calories": 275,
+          "fat_g": 13.8,
+          "protein_g": 4.0,
+          "carbs_g": 35.1
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Broiled Coconut Topping",
+          "Inferred 2 for Broiled Coconut Topping (standard quantity)",
           "Assumed 1 unit for whipped cream and fresh fruit",
           "Based on 9/9 ingredients (100% coverage)"
         ]
@@ -865,15 +865,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 282,
-          "fat_g": 3.2,
+          "calories": 290,
+          "fat_g": 4.2,
           "protein_g": 5.0,
           "carbs_g": 58.6
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for Lemon Filling",
-          "Assumed 1 unit for Lemon or Orange Butter Frosting",
+          "Inferred 2 for Lemon or Orange Butter Frosting (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
       }
@@ -2041,17 +2041,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 59,
-          "fat_g": 5.0,
-          "protein_g": 0.5,
-          "carbs_g": 3.1
+          "calories": 72,
+          "fat_g": 5.8,
+          "protein_g": 0.7,
+          "carbs_g": 4.5
         },
         "missing_inputs": [
           "Not in database: Fudge Cake",
           "Not in database: Choose-a-Fruit Filling (cherry option)"
         ],
         "assumptions": [
-          "Assumed 1 unit for Chocolate Butter Frosting",
+          "Inferred 2 for Chocolate Butter Frosting (standard quantity)",
           "Assumed 1 unit for whipped cream",
           "Assumed 1 unit for chocolate shavings",
           "Based on 3/5 ingredients (60% coverage)"
@@ -2578,7 +2578,7 @@
           "Not in database: jelly or jam"
         ],
         "assumptions": [
-          "Assumed 1 unit for sifted powdered sugar",
+          "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Based on 8/9 ingredients (89% coverage)"
         ]
       }
@@ -3105,14 +3105,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 215,
-          "fat_g": 7.1,
-          "protein_g": 3.8,
-          "carbs_g": 33.9
+          "calories": 265,
+          "fat_g": 12.3,
+          "protein_g": 4.1,
+          "carbs_g": 34.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Broiled Coconut Topping or whipped cream and fresh fruit (optional)",
+          "Inferred 2 for Broiled Coconut Topping or whipped cream and fresh fruit (optional) (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
       }
@@ -4328,17 +4328,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 59,
-          "fat_g": 5.0,
-          "protein_g": 0.5,
-          "carbs_g": 3.1
+          "calories": 72,
+          "fat_g": 5.8,
+          "protein_g": 0.7,
+          "carbs_g": 4.5
         },
         "missing_inputs": [
           "Not in database: Fudge Cake",
           "Not in database: Choose-a-Fruit Filling (cherry option)"
         ],
         "assumptions": [
-          "Assumed 1 unit for Chocolate Butter Frosting",
+          "Inferred 2 for Chocolate Butter Frosting (standard quantity)",
           "Assumed 1 unit for whipped cream (optional)",
           "Assumed 1 unit for chocolate shavings (optional)",
           "Based on 3/5 ingredients (60% coverage)"
@@ -5192,7 +5192,7 @@
           "Not in database: jelly or jam"
         ],
         "assumptions": [
-          "Assumed 1 unit for sifted powdered sugar",
+          "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Based on 8/9 ingredients (89% coverage)"
         ]
       }
@@ -5298,14 +5298,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 267,
-          "fat_g": 19.5,
-          "protein_g": 6.5,
-          "carbs_g": 19.9
+          "calories": 280,
+          "fat_g": 20.3,
+          "protein_g": 6.6,
+          "carbs_g": 21.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Chocolate Butter Frosting",
+          "Inferred 2 for Chocolate Butter Frosting (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }

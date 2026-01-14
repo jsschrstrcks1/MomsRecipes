@@ -377,6 +377,112 @@ NUTRITION_DB = {
     'tahini': {'per': '1 tbsp', 'cal': 89, 'fat': 8, 'protein': 3, 'carbs': 3},
 }
 
+# Standard can/jar sizes (in cups or units as appropriate)
+# These are typical US sizes used when can/jar size isn't specified
+STANDARD_CAN_SIZES = {
+    # Soups - typically 10.5-10.75 oz condensed
+    'cream of mushroom soup': 1.25,  # cups when prepared
+    'cream of chicken soup': 1.25,
+    'cream of celery soup': 1.25,
+    'tomato soup': 1.25,
+    'soup': 1.5,  # generic soup can
+
+    # Vegetables/fruits - typically 14.5-15 oz
+    'tomatoes': 1.75,
+    'diced tomatoes': 1.75,
+    'crushed tomatoes': 1.75,
+    'tomato sauce': 1.0,  # 8 oz can
+    'beans': 1.75,
+    'corn': 1.75,
+    'peas': 1.75,
+    'green beans': 1.75,
+    'pumpkin': 1.875,  # 15 oz
+    'fruit cocktail': 1.875,
+    'pineapple': 1.5,
+    'mandarin oranges': 1.375,  # 11 oz
+    'olives': 0.75,  # 6 oz
+    'green chilies': 0.5,  # 4 oz
+    'rotel': 1.25,  # 10 oz
+
+    # Seafood
+    'tuna': 1.0,  # 5-6 oz drained
+    'salmon': 1.75,  # 14.75 oz
+    'crab': 0.75,  # 6 oz
+    'shrimp': 0.5,  # 4 oz small can
+    'clams': 0.8,  # 6.5 oz
+
+    # Dairy
+    'evaporated milk': 1.5,  # 12 oz
+    'condensed milk': 1.25,  # 14 oz
+
+    # Other
+    'broth': 1.75,  # 14 oz
+    'chicken broth': 1.75,
+    'beef broth': 1.75,
+    'coconut milk': 1.75,  # 13.5 oz
+}
+
+# Standard jar sizes (in cups)
+STANDARD_JAR_SIZES = {
+    'salsa': 2.0,  # 16 oz
+    'picante sauce': 2.0,
+    'spaghetti sauce': 3.0,  # 24 oz
+    'pasta sauce': 3.0,
+    'marinara': 3.0,
+    'alfredo sauce': 2.0,
+    'peanut butter': 2.0,  # 16 oz
+    'jelly': 1.5,  # 12 oz
+    'jam': 1.5,
+    'mayonnaise': 2.0,
+    'pickles': 2.0,
+    'relish': 1.0,  # 8 oz
+    'mustard': 1.0,
+    'applesauce': 3.0,  # 24 oz
+    'maraschino cherries': 0.625,  # 10 oz with liquid
+}
+
+# Default quantities when not specified (by ingredient type)
+DEFAULT_QUANTITIES = {
+    # Proteins (typically 1 lb for main dishes)
+    'chicken': 1.0,
+    'beef': 1.0,
+    'pork': 1.0,
+    'ground beef': 1.0,
+    'ground turkey': 1.0,
+    'ham': 0.5,
+    'bacon': 6,  # slices
+    'sausage': 1.0,
+    'fish': 1.0,
+    'shrimp': 1.0,
+    'crab': 0.5,
+
+    # Dairy
+    'egg': 2,
+    'eggs': 2,
+    'milk': 1.0,  # cup
+    'butter': 2,  # tbsp
+    'cheese': 1.0,  # cup shredded
+    'cream cheese': 8,  # oz (1 package)
+    'sour cream': 1.0,  # cup
+
+    # Vegetables (typically 1 cup or 1 medium)
+    'onion': 1.0,
+    'garlic': 2,  # cloves
+    'celery': 0.5,  # cup
+    'carrot': 1.0,
+    'potato': 2,  # medium
+    'tomato': 1,
+    'bell pepper': 1,
+    'mushrooms': 1.0,  # cup
+
+    # Pantry staples
+    'flour': 2.0,  # cups for baking
+    'sugar': 1.0,  # cup
+    'oil': 2,  # tbsp
+    'salt': 1,  # tsp
+    'pepper': 0.25,  # tsp
+}
+
 # Unit conversions to standard
 UNIT_CONVERSIONS = {
     # Volume
@@ -509,8 +615,18 @@ def calculate_recipe_nutrition(recipe):
             if match_num:
                 qty = parse_fraction(match_num.group())
             else:
-                qty = 1  # Default assumption
-                assumptions.append(f"Assumed 1 unit for {item}")
+                # Try to infer from DEFAULT_QUANTITIES
+                item_lower = item.lower()
+                default_found = False
+                for default_item, default_qty in DEFAULT_QUANTITIES.items():
+                    if default_item in item_lower or item_lower in default_item:
+                        qty = default_qty
+                        assumptions.append(f"Inferred {qty} for {item} (standard quantity)")
+                        default_found = True
+                        break
+                if not default_found:
+                    qty = 1  # Fallback assumption
+                    assumptions.append(f"Assumed 1 unit for {item}")
 
         # Get nutrition data
         nut_data = NUTRITION_DB[match]
@@ -519,8 +635,37 @@ def calculate_recipe_nutrition(recipe):
         multiplier = qty
         unit_lower = unit.lower() if unit else ''
 
+        # Handle can/jar sizes when no specific size given
+        if unit_lower in ['can', 'cans']:
+            # Look up standard can size for this ingredient
+            item_lower = item.lower()
+            can_size = None
+            for can_item, size in STANDARD_CAN_SIZES.items():
+                if can_item in item_lower or item_lower in can_item:
+                    can_size = size
+                    break
+            if can_size:
+                multiplier = qty * can_size
+                assumptions.append(f"Used standard can size ({can_size} cups) for {item}")
+            else:
+                multiplier = qty * 1.5  # Default 12oz can
+                assumptions.append(f"Assumed 1.5 cup can for {item}")
+        elif unit_lower in ['jar', 'jars']:
+            # Look up standard jar size
+            item_lower = item.lower()
+            jar_size = None
+            for jar_item, size in STANDARD_JAR_SIZES.items():
+                if jar_item in item_lower or item_lower in jar_item:
+                    jar_size = size
+                    break
+            if jar_size:
+                multiplier = qty * jar_size
+                assumptions.append(f"Used standard jar size ({jar_size} cups) for {item}")
+            else:
+                multiplier = qty * 2.0  # Default 16oz jar
+                assumptions.append(f"Assumed 2 cup jar for {item}")
         # Handle special cases
-        if match in ['butter', 'margarine'] and unit_lower in ['stick', 'sticks']:
+        elif match in ['butter', 'margarine'] and unit_lower in ['stick', 'sticks']:
             multiplier = qty * 8  # 8 tbsp per stick
         elif match in ['egg', 'eggs']:
             multiplier = qty  # per egg

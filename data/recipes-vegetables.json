@@ -1233,14 +1233,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 37,
-          "fat_g": 0.7,
-          "protein_g": 1.4,
-          "carbs_g": 6.9
+          "calories": 28,
+          "fat_g": 0.6,
+          "protein_g": 1.1,
+          "carbs_g": 5.1
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Dash ground red pepper",
+          "Inferred 0.25 for Dash ground red pepper (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -2100,14 +2100,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 99,
-          "fat_g": 3.6,
+          "calories": 97,
+          "fat_g": 3.5,
           "protein_g": 3.2,
-          "carbs_g": 16.6
+          "carbs_g": 16.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Dash pepper",
+          "Inferred 0.25 for Dash pepper (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
       }
@@ -2670,14 +2670,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 226,
-          "fat_g": 6.6,
+          "calories": 254,
+          "fat_g": 9.9,
           "protein_g": 7.4,
           "carbs_g": 35.2
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Shortening or cooking oil for deep-fat frying",
+          "Inferred 2 for Shortening or cooking oil for deep-fat frying (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -3000,7 +3000,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Light cream or milk (optional)",
+          "Inferred 1.0 for Light cream or milk (optional) (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }
@@ -3065,7 +3065,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Milk",
+          "Inferred 1.0 for Milk (standard quantity)",
           "Based on 3/3 ingredients (100% coverage)"
         ]
       }
@@ -3115,14 +3115,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 26,
-          "fat_g": 0.0,
-          "protein_g": 0.5,
-          "carbs_g": 6.0
+          "calories": 52,
+          "fat_g": 0.1,
+          "protein_g": 1.0,
+          "carbs_g": 12.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Baking potatoes or sweet potatoes",
+          "Inferred 2 for Baking potatoes or sweet potatoes (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 1/1 ingredients (100% coverage)"
         ]
@@ -3287,7 +3287,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Milk (optional)",
+          "Inferred 1.0 for Milk (optional) (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -3347,14 +3347,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 378,
-          "fat_g": 3.6,
+          "calories": 406,
+          "fat_g": 6.9,
           "protein_g": 9.0,
           "carbs_g": 80.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Shortening or cooking oil for deep-fat frying",
+          "Inferred 2 for Shortening or cooking oil for deep-fat frying (standard quantity)",
           "Based on 2/2 ingredients (100% coverage)"
         ]
       }
@@ -3796,7 +3796,7 @@
           "Not in database: fennel seed, crushed (optional)"
         ],
         "assumptions": [
-          "Assumed 1 unit for Grated Parmesan cheese (optional)",
+          "Inferred 1.0 for Grated Parmesan cheese (optional) (standard quantity)",
           "Based on 8/10 ingredients (80% coverage)"
         ]
       }
@@ -3960,7 +3960,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Dash garlic or onion salt",
+          "Inferred 1.0 for Dash garlic or onion salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -4799,14 +4799,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 188,
-          "fat_g": 2.6,
+          "calories": 187,
+          "fat_g": 2.5,
           "protein_g": 7.5,
-          "carbs_g": 35.3
+          "carbs_g": 34.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Dash pepper",
+          "Inferred 0.25 for Dash pepper (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
       }
@@ -5055,16 +5055,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 81,
+          "calories": 79,
           "fat_g": 3.8,
           "protein_g": 3.3,
-          "carbs_g": 8.6
+          "carbs_g": 8.2
         },
         "missing_inputs": [
           "Not in database: cooked or canned vegetables, drained"
         ],
         "assumptions": [
-          "Assumed 1 unit for Dash pepper",
+          "Inferred 0.25 for Dash pepper (standard quantity)",
           "Based on 7/8 ingredients (88% coverage)"
         ]
       }
@@ -5352,12 +5352,12 @@
         "per_serving": {
           "calories": 173,
           "fat_g": 11.0,
-          "protein_g": 5.3,
-          "carbs_g": 15.7
+          "protein_g": 5.2,
+          "carbs_g": 15.4
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Dash pepper",
+          "Inferred 0.25 for Dash pepper (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
       }
@@ -5518,16 +5518,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 39,
+          "calories": 37,
           "fat_g": 1.6,
-          "protein_g": 1.7,
-          "carbs_g": 4.7
+          "protein_g": 1.6,
+          "carbs_g": 4.2
         },
         "missing_inputs": [
           "Not in database: package frozen succotash"
         ],
         "assumptions": [
-          "Assumed 1 unit for Dash pepper",
+          "Inferred 0.25 for Dash pepper (standard quantity)",
           "Based on 6/7 ingredients (86% coverage)"
         ]
       }
@@ -5745,15 +5745,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 64,
+          "calories": 62,
           "fat_g": 0.6,
           "protein_g": 2.6,
-          "carbs_g": 14.2
+          "carbs_g": 13.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Dash pepper",
-          "Assumed 1 unit for Tomato wedges (optional)",
+          "Inferred 0.25 for Dash pepper (standard quantity)",
+          "Inferred 1 for Tomato wedges (optional) (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
       }

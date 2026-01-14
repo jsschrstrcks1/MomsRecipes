@@ -369,8 +369,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 527,
-          "fat_g": 37.8,
+          "calories": 540,
+          "fat_g": 39.3,
           "protein_g": 40.6,
           "carbs_g": 0.9
         },
@@ -378,7 +378,7 @@
           "Not in database: coarsened (8 ribs)"
         ],
         "assumptions": [
-          "Assumed 1 unit for Mushroom-Butter Sauce",
+          "Inferred 2 for Mushroom-Butter Sauce (standard quantity)",
           "Based on 8/9 ingredients (89% coverage)"
         ]
       }

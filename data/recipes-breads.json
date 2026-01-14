@@ -2558,7 +2558,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }
@@ -7697,7 +7697,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -7818,7 +7818,7 @@
           "Not in database: caraway seed"
         ],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Assumed 1 unit for cornmeal",
           "Based on 8/9 ingredients (89% coverage)"
         ]
@@ -8203,8 +8203,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 292,
-          "fat_g": 2.5,
+          "calories": 303,
+          "fat_g": 3.7,
           "protein_g": 3.6,
           "carbs_g": 64.9
         },
@@ -8214,10 +8214,10 @@
           "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for quick-cooking rolled oats"
         ]
       }
@@ -8330,8 +8330,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 151,
-          "fat_g": 3.9,
+          "calories": 161,
+          "fat_g": 5.1,
           "protein_g": 3.6,
           "carbs_g": 25.7
         },
@@ -8339,11 +8339,11 @@
           "Not in database: Sourdough Starter"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for cooking oil",
-          "Assumed 1 unit for shredded cheddar cheese"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Inferred 1.0 for shredded cheddar cheese (standard quantity)"
         ]
       }
     },
@@ -8670,14 +8670,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2780,
-          "fat_g": 36.5,
+          "calories": 2880,
+          "fat_g": 47.5,
           "protein_g": 81.0,
           "carbs_g": 526.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for yellow cornmeal",
           "Based on 8/8 ingredients (100% coverage)"
         ]
@@ -8802,16 +8802,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 3470,
-          "fat_g": 54.4,
+          "calories": 3570,
+          "fat_g": 65.4,
           "protein_g": 89.0,
           "carbs_g": 653.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for water",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for ground cinnamon",
           "Based on 10/10 ingredients (100% coverage)"
         ]
@@ -8959,8 +8959,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1558,
-          "fat_g": 34.0,
+          "calories": 1592,
+          "fat_g": 37.8,
           "protein_g": 34.7,
           "carbs_g": 286.2
         },
@@ -8969,10 +8969,10 @@
         ],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for sugar",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for chopped blanched almonds",
-          "Assumed 1 unit for margarine or butter"
+          "Inferred 2 for margarine or butter (standard quantity)"
         ]
       }
     },
@@ -9101,8 +9101,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
           "Assumed 1 unit for slivered almonds",
           "Based on 11/11 ingredients (100% coverage)"
         ]
@@ -9260,8 +9260,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2498,
-          "fat_g": 57.7,
+          "calories": 2548,
+          "fat_g": 63.2,
           "protein_g": 61.3,
           "carbs_g": 447.4
         },
@@ -9270,10 +9270,10 @@
         ],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for vanilla",
-          "Assumed 1 unit for milk"
+          "Inferred 1.0 for milk (standard quantity)"
         ]
       }
     },
@@ -9399,17 +9399,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1997,
-          "fat_g": 37.2,
+          "calories": 2047,
+          "fat_g": 42.7,
           "protein_g": 62.5,
           "carbs_g": 357.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
       }
@@ -9616,7 +9616,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -9760,8 +9760,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for sesame seed, poppy seed, or coarse salt",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for sesame seed, poppy seed, or coarse salt (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -9966,16 +9966,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 129,
-          "fat_g": 2.0,
+          "calories": 133,
+          "fat_g": 2.5,
           "protein_g": 4.8,
           "carbs_g": 24.4
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -10301,16 +10301,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 87,
-          "fat_g": 1.3,
+          "calories": 92,
+          "fat_g": 1.8,
           "protein_g": 2.0,
           "carbs_g": 16.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -10566,17 +10566,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 112,
-          "fat_g": 2.2,
+          "calories": 118,
+          "fat_g": 2.9,
           "protein_g": 2.7,
           "carbs_g": 21.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for cooking oil",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for currants or raisins"
         ]
       }
@@ -10682,18 +10682,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 112,
-          "fat_g": 2.9,
+          "calories": 127,
+          "fat_g": 4.6,
           "protein_g": 2.4,
           "carbs_g": 19.6
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for shortening, margarine, or butter",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for cooking oil"
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for shortening, margarine, or butter (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)"
         ]
       }
     },
@@ -11085,18 +11085,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2206,
-          "fat_g": 96.4,
+          "calories": 2326,
+          "fat_g": 110.4,
           "protein_g": 38.4,
           "carbs_g": 315.6
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for ground nutmeg",
-          "Assumed 1 unit for cooking oil"
+          "Inferred 2 for cooking oil (standard quantity)"
         ]
       }
     },
@@ -11203,8 +11203,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2481,
-          "fat_g": 30.6,
+          "calories": 2601,
+          "fat_g": 44.6,
           "protein_g": 53.0,
           "carbs_g": 497.5
         },
@@ -11212,9 +11212,9 @@
           "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for cooking oil",
+          "Inferred 2 for cooking oil (standard quantity)",
           "Based on 8/9 ingredients (89% coverage)"
         ]
       }
@@ -11357,11 +11357,11 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for baking soda",
           "Assumed 1 unit for ground nutmeg",
           "Assumed 1 unit for ground ginger or ground cloves",
-          "Assumed 1 unit for milk"
+          "Inferred 1.0 for milk (standard quantity)"
         ]
       }
     },
@@ -11476,8 +11476,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2414,
-          "fat_g": 102.1,
+          "calories": 2534,
+          "fat_g": 116.1,
           "protein_g": 45.3,
           "carbs_g": 351.2
         },
@@ -11747,8 +11747,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 165,
-          "fat_g": 4.2,
+          "calories": 173,
+          "fat_g": 5.1,
           "protein_g": 3.7,
           "carbs_g": 28.8
         },
@@ -11756,9 +11756,9 @@
         "assumptions": [
           "Assumed 1 unit for baking soda",
           "Assumed 1 unit for ground nutmeg or mace",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for cooking oil",
-          "Assumed 1 unit for milk"
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)"
         ]
       }
     },
@@ -11964,16 +11964,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 157,
-          "fat_g": 2.8,
+          "calories": 169,
+          "fat_g": 4.2,
           "protein_g": 2.7,
           "carbs_g": 30.7
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for cooking oil",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -12226,8 +12226,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 146,
-          "fat_g": 2.4,
+          "calories": 156,
+          "fat_g": 3.6,
           "protein_g": 2.5,
           "carbs_g": 29.2
         },
@@ -12235,10 +12235,10 @@
           "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for ground nutmeg",
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for cooking oil",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
           "Based on 11/12 ingredients (92% coverage)"
         ]
       }
@@ -12350,18 +12350,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 106,
-          "fat_g": 2.5,
-          "protein_g": 3.6,
-          "carbs_g": 17.6
+          "calories": 150,
+          "fat_g": 3.9,
+          "protein_g": 4.9,
+          "carbs_g": 24.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for whole wheat flour",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for milk",
+          "Inferred 2.0 for whole wheat flour (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
           "Assumed 1 unit for honey",
-          "Assumed 1 unit for cooking oil"
+          "Inferred 2 for cooking oil (standard quantity)"
         ]
       }
     },
@@ -12873,18 +12873,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 227,
-          "fat_g": 3.2,
-          "protein_g": 4.2,
-          "carbs_g": 46.0
+          "calories": 274,
+          "fat_g": 4.9,
+          "protein_g": 5.5,
+          "carbs_g": 52.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for all-purpose flour",
-          "Assumed 1 unit for peanut butter",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 2.0 for all-purpose flour (standard quantity)",
+          "Inferred 2 for peanut butter (standard quantity)",
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for salt"
+          "Inferred 1 for salt (standard quantity)"
         ]
       }
     },
@@ -13172,8 +13172,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 207,
-          "fat_g": 4.2,
+          "calories": 221,
+          "fat_g": 5.8,
           "protein_g": 3.3,
           "carbs_g": 39.7
         },
@@ -13181,10 +13181,10 @@
           "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for cooking oil",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
           "Assumed 1 unit for raisins or semisweet chocolate pieces"
         ]
       }
@@ -13661,18 +13661,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 301,
-          "fat_g": 8.4,
+          "calories": 311,
+          "fat_g": 9.5,
           "protein_g": 4.3,
           "carbs_g": 54.2
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for light corn syrup or maple-flavored syrup",
-          "Assumed 1 unit for packed brown sugar",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Assumed 1 unit for coarsely chopped pecans or walnuts",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for shortening, margarine, or butter"
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 2 for shortening, margarine, or butter (standard quantity)"
         ]
       }
     },
@@ -13865,7 +13865,7 @@
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking powder",
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Based on 4/4 ingredients (100% coverage)"
         ]
       }
@@ -13971,15 +13971,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 150,
-          "fat_g": 7.0,
+          "calories": 156,
+          "fat_g": 7.7,
           "protein_g": 3.3,
           "carbs_g": 18.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for milk",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
           "Assumed 1 unit for finely chopped pecans",
           "Based on 9/9 ingredients (100% coverage)"
         ]
@@ -14072,18 +14072,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 129,
-          "fat_g": 6.3,
+          "calories": 135,
+          "fat_g": 6.9,
           "protein_g": 1.9,
           "carbs_g": 17.4
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for finely chopped walnuts",
           "Assumed 1 unit for ground cinnamon",
-          "Assumed 1 unit for shredded cheddar cheese",
-          "Assumed 1 unit for margarine or butter"
+          "Inferred 1.0 for shredded cheddar cheese (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)"
         ]
       }
     },
@@ -14186,7 +14186,7 @@
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for buttermilk or sour milk",
+          "Inferred 1.0 for buttermilk or sour milk (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -14299,18 +14299,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 129,
-          "fat_g": 3.9,
+          "calories": 137,
+          "fat_g": 4.9,
           "protein_g": 4.0,
           "carbs_g": 19.3
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for ground cinnamon",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for raisins, coarsely chopped; currants; or miniature semisweet chocolate pieces",
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for milk"
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)"
         ]
       }
     },
@@ -14653,16 +14653,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 89,
-          "fat_g": 1.9,
-          "protein_g": 2.8,
-          "carbs_g": 15.5
+          "calories": 130,
+          "fat_g": 2.9,
+          "protein_g": 3.7,
+          "carbs_g": 22.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for buttermilk or sour milk",
-          "Assumed 1 unit for sliced green onion",
-          "Assumed 1 unit for all-purpose flour",
+          "Inferred 1.0 for buttermilk or sour milk (standard quantity)",
+          "Inferred 1.0 for sliced green onion (standard quantity)",
+          "Inferred 2.0 for all-purpose flour (standard quantity)",
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for baking soda"
         ]
@@ -14751,15 +14751,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 55,
-          "fat_g": 0.8,
+          "calories": 61,
+          "fat_g": 1.4,
           "protein_g": 0.7,
           "carbs_g": 11.6
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil",
-          "Assumed 1 unit for sifted powdered sugar",
+          "Inferred 2 for shortening or cooking oil (standard quantity)",
+          "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Assumed 1 unit for honey",
           "Based on 6/6 ingredients (100% coverage)"
         ]
@@ -14849,16 +14849,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 120,
-          "fat_g": 1.7,
-          "protein_g": 1.6,
-          "carbs_g": 25.0
+          "calories": 168,
+          "fat_g": 2.9,
+          "protein_g": 2.7,
+          "carbs_g": 32.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for all-purpose flour",
-          "Assumed 1 unit for shortening or cooking oil",
-          "Assumed 1 unit for sugar",
+          "Inferred 2.0 for all-purpose flour (standard quantity)",
+          "Inferred 2 for shortening or cooking oil (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -14962,7 +14962,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -15134,14 +15134,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 126,
-          "fat_g": 10.9,
-          "protein_g": 2.9,
-          "carbs_g": 6.0
+          "calories": 146,
+          "fat_g": 12.0,
+          "protein_g": 3.1,
+          "carbs_g": 8.1
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for caramel topping, butterscotch topping, or chocolate-flavored syrup",
+          "Inferred 2 for caramel topping, butterscotch topping, or chocolate-flavored syrup (standard quantity)",
           "Assumed 1 unit for chopped pecans or walnuts",
           "Based on 4/4 ingredients (100% coverage)"
         ]
@@ -15241,15 +15241,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 338,
-          "fat_g": 14.4,
+          "calories": 378,
+          "fat_g": 19.1,
           "protein_g": 15.0,
           "carbs_g": 36.2
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for cooking oil",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -15353,7 +15353,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -15535,18 +15535,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 233,
-          "fat_g": 4.3,
-          "protein_g": 6.6,
-          "carbs_g": 42.0
+          "calories": 308,
+          "fat_g": 4.5,
+          "protein_g": 8.8,
+          "carbs_g": 57.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for all-purpose flour",
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for salt",
+          "Inferred 2.0 for all-purpose flour (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for Apple-Raisin Sauce",
-          "Assumed 1 unit for powdered sugar"
+          "Inferred 1.0 for powdered sugar (standard quantity)"
         ]
       }
     },
@@ -16555,7 +16555,7 @@
           "Not in database: Sourdough Starter"
         ],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 9/10 ingredients (90% coverage)"
         ]
       }
@@ -17691,7 +17691,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -17890,7 +17890,7 @@
           "Not in database: diced mixed candied fruits and peels"
         ],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Assumed 1 unit for almonds",
           "Assumed 1 unit for candied cherries",
           "Based on 16/17 ingredients (94% coverage)"
@@ -19571,7 +19571,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -23845,7 +23845,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
       }
@@ -24634,7 +24634,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for powdered sugar",
+          "Inferred 1.0 for powdered sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -25916,8 +25916,8 @@
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for warm water",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -26016,7 +26016,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -26137,7 +26137,7 @@
           "Not in database: caraway seed"
         ],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Assumed 1 unit for cornmeal",
           "Based on 8/9 ingredients (89% coverage)"
         ]
@@ -26615,8 +26615,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 292,
-          "fat_g": 2.5,
+          "calories": 303,
+          "fat_g": 3.7,
           "protein_g": 3.6,
           "carbs_g": 64.9
         },
@@ -26626,10 +26626,10 @@
           "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for quick-cooking rolled oats"
         ]
       }
@@ -26746,8 +26746,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 151,
-          "fat_g": 3.9,
+          "calories": 161,
+          "fat_g": 5.1,
           "protein_g": 3.6,
           "carbs_g": 25.7
         },
@@ -26755,11 +26755,11 @@
           "Not in database: Sourdough Starter"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for cooking oil",
-          "Assumed 1 unit for shredded cheddar cheese"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Inferred 1.0 for shredded cheddar cheese (standard quantity)"
         ]
       }
     },
@@ -26876,7 +26876,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for cream-style cottage cheese",
+          "Inferred 1.0 for cream-style cottage cheese (standard quantity)",
           "Assumed 1 unit for toasted wheat germ",
           "Based on 9/9 ingredients (100% coverage)"
         ]
@@ -26985,7 +26985,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -27091,14 +27091,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2780,
-          "fat_g": 36.5,
+          "calories": 2880,
+          "fat_g": 47.5,
           "protein_g": 81.0,
           "carbs_g": 526.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for yellow cornmeal",
           "Based on 8/8 ingredients (100% coverage)"
         ]
@@ -27234,8 +27234,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 3808,
-          "fat_g": 73.4,
+          "calories": 3908,
+          "fat_g": 84.4,
           "protein_g": 106.0,
           "carbs_g": 678.8
         },
@@ -27243,10 +27243,10 @@
           "Not in database: Streusel Topping"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for water",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for evaporated milk",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for evaporated milk (standard quantity)",
           "Assumed 1 unit for ground cinnamon"
         ]
       }
@@ -27393,8 +27393,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1558,
-          "fat_g": 34.0,
+          "calories": 1592,
+          "fat_g": 37.8,
           "protein_g": 34.7,
           "carbs_g": 286.2
         },
@@ -27403,10 +27403,10 @@
         ],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for sugar",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for chopped blanched almonds",
-          "Assumed 1 unit for margarine or butter"
+          "Inferred 2 for margarine or butter (standard quantity)"
         ]
       }
     },
@@ -27539,8 +27539,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
           "Assumed 1 unit for slivered almonds",
           "Based on 11/11 ingredients (100% coverage)"
         ]
@@ -27698,8 +27698,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2498,
-          "fat_g": 57.7,
+          "calories": 2548,
+          "fat_g": 63.2,
           "protein_g": 61.3,
           "carbs_g": 447.4
         },
@@ -27708,10 +27708,10 @@
         ],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for vanilla",
-          "Assumed 1 unit for milk"
+          "Inferred 1.0 for milk (standard quantity)"
         ]
       }
     },
@@ -27842,17 +27842,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1997,
-          "fat_g": 37.2,
+          "calories": 2047,
+          "fat_g": 42.7,
           "protein_g": 62.5,
           "carbs_g": 357.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
       }
@@ -27951,14 +27951,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 272,
-          "fat_g": 3.3,
+          "calories": 282,
+          "fat_g": 4.4,
           "protein_g": 8.1,
           "carbs_g": 52.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for shortening, margarine, or butter",
+          "Inferred 2 for shortening, margarine, or butter (standard quantity)",
           "Assumed 1 unit for cornmeal",
           "Based on 7/7 ingredients (100% coverage)"
         ]
@@ -28062,7 +28062,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -28208,8 +28208,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for sesame seed, poppy seed, or coarse salt",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for sesame seed, poppy seed, or coarse salt (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -28313,16 +28313,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 126,
-          "fat_g": 1.5,
+          "calories": 131,
+          "fat_g": 2.0,
           "protein_g": 3.1,
           "carbs_g": 24.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for shortening, margarine, or butter",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for shortening, margarine, or butter (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -28422,16 +28422,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 129,
-          "fat_g": 2.0,
+          "calories": 133,
+          "fat_g": 2.5,
           "protein_g": 4.8,
           "carbs_g": 24.4
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -28534,7 +28534,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -28651,18 +28651,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 131,
-          "fat_g": 1.8,
+          "calories": 136,
+          "fat_g": 2.3,
           "protein_g": 3.6,
           "carbs_g": 24.9
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for warm water",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for milk"
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)"
         ]
       }
     },
@@ -28763,16 +28763,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 125,
-          "fat_g": 1.4,
+          "calories": 130,
+          "fat_g": 1.9,
           "protein_g": 3.1,
           "carbs_g": 24.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
       }
@@ -28902,8 +28902,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
       }
@@ -29024,17 +29024,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 158,
-          "fat_g": 2.3,
+          "calories": 164,
+          "fat_g": 3.0,
           "protein_g": 4.0,
           "carbs_g": 30.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for cooking oil",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for currants or raisins"
         ]
       }
@@ -29142,18 +29142,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 141,
-          "fat_g": 3.0,
+          "calories": 155,
+          "fat_g": 4.7,
           "protein_g": 3.2,
           "carbs_g": 25.6
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for shortening, margarine, or butter",
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for cooking oil"
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for shortening, margarine, or butter (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)"
         ]
       }
     },
@@ -29283,18 +29283,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 239,
-          "fat_g": 5.0,
+          "calories": 248,
+          "fat_g": 6.0,
           "protein_g": 2.8,
           "carbs_g": 47.1
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for shortening, margarine, or butter",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for margarine or butter"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for shortening, margarine, or butter (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)"
         ]
       }
     },
@@ -30319,14 +30319,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 165,
-          "fat_g": 8.5,
+          "calories": 190,
+          "fat_g": 11.2,
           "protein_g": 6.8,
           "carbs_g": 15.7
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -31958,7 +31958,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Powdered Sugar Glaze",
+          "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }
@@ -32067,7 +32067,7 @@
           "Not in database: raspberry, strawberry, or peach preserves"
         ],
         "assumptions": [
-          "Assumed 1 unit for Powdered Sugar Glaze",
+          "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
           "Based on 5/6 ingredients (83% coverage)"
         ]
       }
@@ -32890,7 +32890,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
       }
@@ -33021,15 +33021,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 195,
-          "fat_g": 3.4,
+          "calories": 203,
+          "fat_g": 4.4,
           "protein_g": 4.7,
           "carbs_g": 36.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil for deep-fat frying",
-          "Assumed 1 unit for Chocolate Glaze or sugar (optional)",
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
+          "Inferred 1.0 for Chocolate Glaze or sugar (optional) (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
       }
@@ -33123,15 +33123,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 53,
-          "fat_g": 1.3,
+          "calories": 58,
+          "fat_g": 1.8,
           "protein_g": 1.7,
           "carbs_g": 8.7
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for shortening or cooking oil for deep-fat frying",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -33234,14 +33234,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 59,
-          "fat_g": 1.7,
+          "calories": 67,
+          "fat_g": 2.6,
           "protein_g": 1.7,
           "carbs_g": 9.6
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil for deep-fat frying",
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }
@@ -33336,15 +33336,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 55,
-          "fat_g": 0.8,
+          "calories": 61,
+          "fat_g": 1.4,
           "protein_g": 0.7,
           "carbs_g": 11.6
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil for deep-fat frying",
-          "Assumed 1 unit for sifted powdered sugar",
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
+          "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Assumed 1 unit for honey",
           "Based on 6/6 ingredients (100% coverage)"
         ]
@@ -33439,15 +33439,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 102,
-          "fat_g": 1.7,
+          "calories": 111,
+          "fat_g": 2.7,
           "protein_g": 1.0,
           "carbs_g": 21.2
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil for deep-fat frying",
-          "Assumed 1 unit for sugar",
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -33639,8 +33639,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 143,
-          "fat_g": 6.0,
+          "calories": 163,
+          "fat_g": 8.2,
           "protein_g": 6.2,
           "carbs_g": 16.4
         },
@@ -33648,7 +33648,7 @@
           "Not in database: maple-flavored syrup (optional)"
         ],
         "assumptions": [
-          "Assumed 1 unit for margarine, butter, or cooking oil",
+          "Inferred 2 for margarine, butter, or cooking oil (standard quantity)",
           "Based on 6/7 ingredients (86% coverage)"
         ]
       }
@@ -34130,7 +34130,7 @@
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for Apple-Raisin Sauce",
-          "Assumed 1 unit for powdered sugar",
+          "Inferred 1.0 for powdered sugar (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }

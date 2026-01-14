@@ -582,14 +582,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 274,
-          "fat_g": 8.2,
-          "protein_g": 12.7,
-          "carbs_g": 39.8
+          "calories": 267,
+          "fat_g": 8.1,
+          "protein_g": 12.6,
+          "carbs_g": 38.5
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for ground red pepper",
+          "Inferred 0.25 for ground red pepper (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
       }

@@ -1494,16 +1494,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 511,
+          "calories": 509,
           "fat_g": 38.0,
           "protein_g": 28.6,
-          "carbs_g": 10.1
+          "carbs_g": 9.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for ground beef",
-          "Assumed 1 unit for finely chopped celery",
-          "Assumed 1 unit for finely chopped onion",
+          "Inferred 1.0 for ground beef (standard quantity)",
+          "Inferred 0.5 for finely chopped celery (standard quantity)",
+          "Inferred 1.0 for finely chopped onion (standard quantity)",
           "Assumed 1 unit for finely chopped peeled apple",
           "Assumed 1 unit for dry mustard"
         ]
@@ -1795,10 +1795,10 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for light cream or milk",
-          "Assumed 1 unit for finely chopped onion",
+          "Inferred 1.0 for light cream or milk (standard quantity)",
+          "Inferred 1.0 for finely chopped onion (standard quantity)",
           "Assumed 1 unit for soft bread crumbs",
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for ground allspice or nutmeg"
         ]
       }
@@ -1902,15 +1902,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 442,
+          "calories": 439,
           "fat_g": 16.2,
-          "protein_g": 22.9,
-          "carbs_g": 49.5
+          "protein_g": 22.8,
+          "carbs_g": 48.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for chopped onion",
-          "Assumed 1 unit for chopped green pepper",
+          "Inferred 1.0 for chopped onion (standard quantity)",
+          "Inferred 0.25 for chopped green pepper (standard quantity)",
           "Assumed 1 unit for dried oregano, crushed",
           "Based on 11/11 ingredients (100% coverage)"
         ]
@@ -2000,8 +2000,8 @@
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for long grain rice",
-          "Assumed 1 unit for finely chopped onion",
-          "Assumed 1 unit for salt",
+          "Inferred 1.0 for finely chopped onion (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -2698,16 +2698,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 848,
+          "calories": 847,
           "fat_g": 39.7,
-          "protein_g": 113.6,
-          "carbs_g": 5.5
+          "protein_g": 113.5,
+          "carbs_g": 5.2
         },
         "missing_inputs": [
           "Not in database: catsup"
         ],
         "assumptions": [
-          "Assumed 1 unit for bottled hot pepper sauce",
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
           "Based on 10/11 ingredients (91% coverage)"
         ]
       }
@@ -3382,15 +3382,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 218,
-          "fat_g": 7.2,
-          "protein_g": 23.6,
-          "carbs_g": 11.8
+          "calories": 241,
+          "fat_g": 10.7,
+          "protein_g": 23.4,
+          "carbs_g": 10.5
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for ground red pepper",
-          "Assumed 1 unit for cooking oil",
+          "Inferred 0.25 for ground red pepper (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 9/9 ingredients (100% coverage)"
         ]
@@ -3727,7 +3727,7 @@
           "Not in database: bean sprouts"
         ],
         "assumptions": [
-          "Assumed 1 unit for fresh mushrooms",
+          "Inferred 1.0 for fresh mushrooms (standard quantity)",
           "Assumed 1 unit for chow mein noodles or hot cooked rice",
           "Estimated 6 servings based on total calories",
           "Based on 12/14 ingredients (86% coverage)"
@@ -3957,17 +3957,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 271,
-          "fat_g": 6.3,
+          "calories": 289,
+          "fat_g": 8.5,
           "protein_g": 33.7,
-          "carbs_g": 17.9
+          "carbs_g": 17.6
         },
         "missing_inputs": [
           "Not in database: Cocktail Sauce"
         ],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil",
-          "Assumed 1 unit for dash pepper",
+          "Inferred 2 for shortening or cooking oil (standard quantity)",
+          "Inferred 0.25 for dash pepper (standard quantity)",
           "Estimated 6 servings based on total calories",
           "Based on 10/11 ingredients (91% coverage)"
         ]
@@ -4657,7 +4657,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Oven-Browned Potatoes, Yorkshire Pudding, or Beef au Jus",
+          "Inferred 1.0 for Oven-Browned Potatoes, Yorkshire Pudding, or Beef au Jus (standard quantity)",
           "Based on 2/2 ingredients (100% coverage)"
         ]
       }
@@ -5485,7 +5485,7 @@
           "Not in database: aniseed"
         ],
         "assumptions": [
-          "Assumed 1 unit for pepper",
+          "Inferred 1 for pepper (standard quantity)",
           "Estimated 8 servings based on total calories",
           "Based on 9/10 ingredients (90% coverage)"
         ]
@@ -6072,17 +6072,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 165,
-          "fat_g": 9.4,
-          "protein_g": 5.0,
+          "calories": 221,
+          "fat_g": 15.8,
+          "protein_g": 5.1,
           "carbs_g": 16.4
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for butter",
+          "Inferred 2 for butter (standard quantity)",
           "Assumed 1 unit for Worcestershire sauce",
-          "Assumed 1 unit for London Broil steak slices",
-          "Assumed 1 unit for Swiss cheese",
+          "Inferred 2 for London Broil steak slices (standard quantity)",
+          "Inferred 1.0 for Swiss cheese (standard quantity)",
           "Estimated 4 servings based on total calories"
         ]
       }
@@ -6434,7 +6434,7 @@
           "Not in database: Guacamole"
         ],
         "assumptions": [
-          "Assumed 1 unit for Shredded cheddar or Monterey Jack cheese",
+          "Inferred 1.0 for Shredded cheddar or Monterey Jack cheese (standard quantity)",
           "Based on 10/11 ingredients (91% coverage)"
         ]
       }
@@ -8018,8 +8018,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for pepper",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1 for pepper (standard quantity)",
           "Based on 3/3 ingredients (100% coverage)"
         ]
       }
@@ -8955,7 +8955,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for grated Parmesan cheese",
+          "Inferred 1.0 for grated Parmesan cheese (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -9415,14 +9415,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 296,
-          "fat_g": 10.1,
+          "calories": 324,
+          "fat_g": 13.3,
           "protein_g": 16.0,
           "carbs_g": 34.5
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil",
+          "Inferred 2 for shortening or cooking oil (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -10592,7 +10592,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for pepper",
+          "Inferred 1 for pepper (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }
@@ -11675,8 +11675,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for pepper",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1 for pepper (standard quantity)",
           "Based on 4/4 ingredients (100% coverage)"
         ]
       }
@@ -11839,16 +11839,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 555,
+          "calories": 548,
           "fat_g": 38.7,
-          "protein_g": 41.6,
-          "carbs_g": 7.8
+          "protein_g": 41.4,
+          "carbs_g": 6.5
         },
         "missing_inputs": [
           "Not in database: baked patty shells"
         ],
         "assumptions": [
-          "Assumed 1 unit for Dash red pepper",
+          "Inferred 0.25 for Dash red pepper (standard quantity)",
           "Assumed 1 unit for parsley sprigs",
           "Based on 8/9 ingredients (89% coverage)"
         ]
@@ -12046,8 +12046,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 142,
-          "fat_g": 3.7,
+          "calories": 156,
+          "fat_g": 5.4,
           "protein_g": 4.0,
           "carbs_g": 23.2
         },
@@ -12055,7 +12055,7 @@
           "Not in database: frankfurters"
         ],
         "assumptions": [
-          "Assumed 1 unit for shortening or cooking oil",
+          "Inferred 2 for shortening or cooking oil (standard quantity)",
           "Based on 9/10 ingredients (90% coverage)"
         ]
       }
@@ -12170,15 +12170,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 267,
+          "calories": 269,
           "fat_g": 10.7,
-          "protein_g": 7.7,
-          "carbs_g": 35.8
+          "protein_g": 8.0,
+          "carbs_g": 36.1
         },
         "missing_inputs": [
           "Not in database: fully cooked bratwurst"
         ],
         "assumptions": [
+          "Assumed 1.5 cup can for sliced mushrooms",
           "Based on 10/11 ingredients (91% coverage)"
         ]
       }
@@ -12269,16 +12270,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 282,
-          "fat_g": 11.1,
-          "protein_g": 14.8,
-          "carbs_g": 30.9
+          "calories": 310,
+          "fat_g": 11.2,
+          "protein_g": 16.7,
+          "carbs_g": 35.9
         },
         "missing_inputs": [
           "Not in database: frankfurters"
         ],
         "assumptions": [
-          "Assumed 1 unit for shredded cheddar cheese",
+          "Used standard can size (1.0 cups) for tomato sauce",
+          "Used standard can size (1.75 cups) for red kidney beans",
+          "Inferred 1.0 for shredded cheddar cheese (standard quantity)",
           "Based on 6/7 ingredients (86% coverage)"
         ]
       }

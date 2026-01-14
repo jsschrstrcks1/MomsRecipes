@@ -521,7 +521,7 @@
           "Not in database: mushroom stems and pieces"
         ],
         "assumptions": [
-          "Assumed 1 unit for salt",
+          "Inferred 1 for salt (standard quantity)",
           "Based on 14/15 ingredients (93% coverage)"
         ]
       }
@@ -888,17 +888,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 261,
-          "fat_g": 17.5,
-          "protein_g": 20.5,
-          "carbs_g": 2.4
+          "calories": 262,
+          "fat_g": 17.6,
+          "protein_g": 20.6,
+          "carbs_g": 2.5
         },
         "missing_inputs": [
           "Not in database: fancy mixed Chinese vegetables",
           "Not in database: monosodium glutamate"
         ],
         "assumptions": [
-          "Assumed 1 unit for diced onion",
+          "Assumed 1.5 cup can for mushrooms",
+          "Inferred 1.0 for diced onion (standard quantity)",
           "Estimated 8 servings based on total calories",
           "Based on 6/8 ingredients (75% coverage)"
         ]
@@ -1271,13 +1272,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 235,
-          "fat_g": 11.6,
-          "protein_g": 17.5,
-          "carbs_g": 14.1
+          "calories": 247,
+          "fat_g": 12.4,
+          "protein_g": 17.7,
+          "carbs_g": 15.0
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of chicken soup",
           "Estimated 6 servings based on total calories",
           "Based on 6/6 ingredients (100% coverage)"
         ]
@@ -1355,13 +1357,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 74,
-          "fat_g": 4.5,
-          "protein_g": 4.0,
+          "calories": 102,
+          "fat_g": 6.8,
+          "protein_g": 5.8,
           "carbs_g": 4.5
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.5 cups) for Cheddar cheese soup",
+          "Assumed 1.5 cup can for water",
           "Estimated 4 servings based on total calories",
           "Based on 4/4 ingredients (100% coverage)"
         ]
@@ -1438,13 +1442,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 151,
-          "fat_g": 2.1,
-          "protein_g": 5.5,
-          "carbs_g": 33.3
+          "calories": 169,
+          "fat_g": 2.3,
+          "protein_g": 6.0,
+          "carbs_g": 37.5
         },
         "missing_inputs": [],
         "assumptions": [
+          "Assumed 2 cup jar for all-fruit apricot preserves",
           "Estimated 4 servings based on total calories",
           "Based on 3/3 ingredients (100% coverage)"
         ]
@@ -1539,15 +1544,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 296,
-          "fat_g": 9.2,
-          "protein_g": 47.2,
-          "carbs_g": 2.6
+          "calories": 305,
+          "fat_g": 9.7,
+          "protein_g": 47.4,
+          "carbs_g": 3.2
         },
         "missing_inputs": [
           "Not in database: Good Seasons Italian dressing mix"
         ],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
           "Estimated 8 servings based on total calories",
           "Based on 4/5 ingredients (80% coverage)"
         ]
@@ -1758,7 +1764,7 @@
           "Not in database: mushroom soup"
         ],
         "assumptions": [
-          "Assumed 1 unit for chopped onion and celery",
+          "Inferred 1.0 for chopped onion and celery (standard quantity)",
           "Estimated 6 servings based on total calories",
           "Based on 6/7 ingredients (86% coverage)"
         ]
@@ -1909,7 +1915,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for duck or chicken broth",
+          "Inferred 1.0 for duck or chicken broth (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -2060,15 +2066,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 385,
+          "calories": 392,
           "fat_g": 19.1,
-          "protein_g": 35.2,
-          "carbs_g": 16.2
+          "protein_g": 35.5,
+          "carbs_g": 17.6
         },
         "missing_inputs": [
           "Not in database: crust pastry"
         ],
         "assumptions": [
+          "Assumed 1.5 cup can for sliced mushrooms",
+          "Assumed 1.5 cup can for small whole onions",
           "Based on 12/13 ingredients (92% coverage)"
         ]
       }
@@ -2736,16 +2744,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 286,
-          "fat_g": 19.4,
-          "protein_g": 6.4,
-          "carbs_g": 23.4
+          "calories": 308,
+          "fat_g": 20.8,
+          "protein_g": 6.9,
+          "carbs_g": 25.1
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for celery and onion",
-          "Estimated 6 servings based on total calories",
-          "Based on 9/9 ingredients (100% coverage)"
+          "Inferred 1.0 for celery and onion (standard quantity)",
+          "Assumed 1.5 cup can for mushrooms",
+          "Used standard can size (1.25 cups) for cream of celery soup",
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Estimated 6 servings based on total calories"
         ]
       }
     },
@@ -2845,7 +2855,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for pepper",
+          "Inferred 1 for pepper (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -3629,14 +3639,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 293,
-          "fat_g": 14.1,
-          "protein_g": 30.3,
-          "carbs_g": 9.5
+          "calories": 273,
+          "fat_g": 13.2,
+          "protein_g": 28.4,
+          "carbs_g": 8.7
         },
         "missing_inputs": [],
         "assumptions": [
-          "Estimated 6 servings based on total calories",
+          "Used standard can size (1.75 cups) for French style green beans",
+          "Assumed 1.5 cup can for water chestnuts",
+          "Used standard can size (1.5 cups) for cream of chicken or celery soup",
+          "Estimated 8 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -3945,13 +3958,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 331,
-          "fat_g": 21.6,
-          "protein_g": 23.8,
-          "carbs_g": 9.0
+          "calories": 348,
+          "fat_g": 22.7,
+          "protein_g": 24.1,
+          "carbs_g": 10.3
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Used standard can size (1.25 cups) for cream of chicken soup",
           "Estimated 8 servings based on total calories",
           "Based on 6/6 ingredients (100% coverage)"
         ]
@@ -4172,15 +4187,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 319,
-          "fat_g": 15.0,
-          "protein_g": 37.6,
-          "carbs_g": 5.8
+          "calories": 334,
+          "fat_g": 16.0,
+          "protein_g": 37.9,
+          "carbs_g": 7.0
         },
         "missing_inputs": [
           "Not in database: toothpicks"
         ],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Used standard can size (1.25 cups) for cream of celery soup",
           "Estimated 8 servings based on total calories",
           "Based on 5/6 ingredients (83% coverage)"
         ]
@@ -4289,15 +4306,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 348,
-          "fat_g": 12.8,
-          "protein_g": 22.5,
-          "carbs_g": 35.1
+          "calories": 357,
+          "fat_g": 13.4,
+          "protein_g": 22.7,
+          "carbs_g": 35.8
         },
         "missing_inputs": [
           "Not in database: frozen vegetables"
         ],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of chicken soup",
           "Estimated 8 servings based on total calories",
           "Based on 6/7 ingredients (86% coverage)"
         ]
@@ -4424,18 +4442,20 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 696,
-          "fat_g": 25.9,
-          "protein_g": 95.4,
-          "carbs_g": 9.3
+          "calories": 724,
+          "fat_g": 27.7,
+          "protein_g": 96.1,
+          "carbs_g": 11.6
         },
         "missing_inputs": [
           "Not in database: monosodium glutamate"
         ],
         "assumptions": [
-          "Assumed 1 unit for salt and pepper",
-          "Estimated 12 servings based on total calories",
-          "Based on 11/12 ingredients (92% coverage)"
+          "Used standard can size (1.25 cups) for cream of chicken soup",
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Used standard can size (1.25 cups) for cream of celery soup",
+          "Assumed 1.5 cup can for sliced mushrooms",
+          "Inferred 1 for salt and pepper (standard quantity)"
         ]
       }
     },
@@ -4578,14 +4598,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 486,
-          "fat_g": 23.6,
-          "protein_g": 38.1,
-          "carbs_g": 28.9
+          "calories": 497,
+          "fat_g": 24.4,
+          "protein_g": 38.3,
+          "carbs_g": 29.7
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for pepper",
+          "Inferred 1 for pepper (standard quantity)",
+          "Used standard can size (1.25 cups) for condensed cream of mushroom soup",
           "Based on 12/12 ingredients (100% coverage)"
         ]
       }
@@ -4816,15 +4837,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 431,
-          "fat_g": 19.1,
-          "protein_g": 51.4,
-          "carbs_g": 9.7
+          "calories": 448,
+          "fat_g": 20.3,
+          "protein_g": 51.7,
+          "carbs_g": 11.0
         },
         "missing_inputs": [
           "Not in database: Doritos"
         ],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Used standard can size (1.25 cups) for cream of chicken soup",
           "Estimated 8 servings based on total calories",
           "Based on 8/9 ingredients (89% coverage)"
         ]
@@ -4931,13 +4954,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 188,
+          "calories": 195,
           "fat_g": 3.7,
-          "protein_g": 31.3,
-          "carbs_g": 6.0
+          "protein_g": 31.4,
+          "carbs_g": 7.8
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.5 cups) for pineapple slices",
           "Assumed 1 unit for grated peel from 2 limes",
           "Estimated 6 servings based on total calories",
           "Based on 8/8 ingredients (100% coverage)"
@@ -5199,15 +5223,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 431,
+          "calories": 396,
           "fat_g": 18.3,
-          "protein_g": 49.8,
-          "carbs_g": 13.2
+          "protein_g": 40.7,
+          "carbs_g": 14.3
         },
         "missing_inputs": [],
         "assumptions": [
-          "Estimated 12 servings based on total calories",
-          "Based on 15/15 ingredients (100% coverage)"
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Used standard can size (0.5 cups) for shrimp",
+          "Used standard can size (1.0 cups) for tuna",
+          "Used standard can size (0.75 cups) for crabmeat",
+          "Assumed 1.5 cup can for water chestnuts"
         ]
       }
     },
@@ -5352,16 +5379,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 249,
+          "calories": 248,
           "fat_g": 4.3,
           "protein_g": 18.0,
-          "carbs_g": 35.7
+          "carbs_g": 35.5
         },
         "missing_inputs": [
           "Not in database: bay leaves"
         ],
         "assumptions": [
-          "Assumed 1 unit for freshly ground pepper",
+          "Inferred 0.25 for freshly ground pepper (standard quantity)",
           "Assumed 1 unit for Tabasco",
           "Based on 13/14 ingredients (93% coverage)"
         ]
@@ -6305,7 +6332,7 @@
           "Not in database: linguine"
         ],
         "assumptions": [
-          "Assumed 1 unit for grated Parmesan cheese",
+          "Inferred 1.0 for grated Parmesan cheese (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 9/11 ingredients (82% coverage)"
         ]
@@ -6549,7 +6576,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt and pepper",
+          "Inferred 1 for salt and pepper (standard quantity)",
           "Assumed 1 unit for juice of 1/2 lemon",
           "Estimated 6 servings based on total calories",
           "Based on 7/7 ingredients (100% coverage)"
@@ -6716,8 +6743,8 @@
           "Not in database: poultry seasoning"
         ],
         "assumptions": [
-          "Assumed 1 unit for pepper",
-          "Assumed 1 unit for chopped onion",
+          "Inferred 1 for pepper (standard quantity)",
+          "Inferred 1.0 for chopped onion (standard quantity)",
           "Assumed 1 unit for parsley",
           "Based on 11/12 ingredients (92% coverage)"
         ]
@@ -6807,13 +6834,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 523,
-          "fat_g": 37.5,
-          "protein_g": 40.5,
-          "carbs_g": 1.8
+          "calories": 528,
+          "fat_g": 37.9,
+          "protein_g": 40.6,
+          "carbs_g": 2.3
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
           "Estimated 12 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
@@ -6913,7 +6941,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt and pepper",
+          "Inferred 1 for salt and pepper (standard quantity)",
           "Assumed 1 unit for bread crumbs",
           "Estimated 8 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
@@ -7053,14 +7081,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 148,
-          "fat_g": 5.9,
-          "protein_g": 19.0,
-          "carbs_g": 4.8
+          "calories": 202,
+          "fat_g": 8.0,
+          "protein_g": 27.3,
+          "carbs_g": 5.1
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for grated Parmesan cheese",
+          "Inferred 1.0 for grated Parmesan cheese (standard quantity)",
+          "Assumed 1.5 cup can for chunk ham",
           "Based on 10/10 ingredients (100% coverage)"
         ]
       }
@@ -7137,13 +7166,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 472,
-          "fat_g": 25.6,
-          "protein_g": 30.0,
-          "carbs_g": 28.3
+          "calories": 477,
+          "fat_g": 26.0,
+          "protein_g": 30.1,
+          "carbs_g": 28.8
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
           "Estimated 12 servings based on total calories",
           "Based on 3/3 ingredients (100% coverage)"
         ]
@@ -7775,13 +7805,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 551,
-          "fat_g": 25.4,
+          "calories": 556,
+          "fat_g": 25.8,
           "protein_g": 73.0,
-          "carbs_g": 7.0
+          "carbs_g": 7.4
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
           "Estimated 12 servings based on total calories",
           "Based on 6/6 ingredients (100% coverage)"
         ]
@@ -8102,7 +8133,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Parmesan cheese",
+          "Inferred 1.0 for Parmesan cheese (standard quantity)",
           "Estimated 8 servings based on total calories",
           "Based on 7/7 ingredients (100% coverage)"
         ]
@@ -8501,16 +8532,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 196,
-          "fat_g": 8.0,
-          "protein_g": 23.6,
-          "carbs_g": 6.1
+          "calories": 217,
+          "fat_g": 8.8,
+          "protein_g": 25.8,
+          "carbs_g": 7.3
         },
         "missing_inputs": [
           "Not in database: pie shell"
         ],
         "assumptions": [
-          "Assumed 1 unit for pepper",
+          "Assumed 1.5 cup can for smoked oysters",
+          "Inferred 1 for pepper (standard quantity)",
           "Based on 10/11 ingredients (91% coverage)"
         ]
       }
@@ -8625,7 +8657,7 @@
           "Not in database: unbaked pie shells"
         ],
         "assumptions": [
-          "Assumed 1 unit for garlic and onion salt",
+          "Inferred 1.0 for garlic and onion salt (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 7/8 ingredients (88% coverage)"
         ]
@@ -8874,7 +8906,7 @@
           "Not in database: unbaked pastry shell"
         ],
         "assumptions": [
-          "Assumed 1 unit for pepper",
+          "Inferred 1 for pepper (standard quantity)",
           "Estimated 6 servings based on total calories",
           "Based on 8/9 ingredients (89% coverage)"
         ]
@@ -9372,7 +9404,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt and pepper",
+          "Inferred 1 for salt and pepper (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }
@@ -9887,14 +9919,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 624,
+          "calories": 571,
           "fat_g": 26.1,
-          "protein_g": 73.6,
-          "carbs_g": 18.2
+          "protein_g": 59.9,
+          "carbs_g": 19.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Based on 15/15 ingredients (100% coverage)"
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Used standard can size (0.5 cups) for shrimp",
+          "Used standard can size (1.0 cups) for tuna",
+          "Used standard can size (0.75 cups) for crabmeat",
+          "Assumed 1.5 cup can for water chestnuts"
         ]
       }
     },
@@ -10907,8 +10943,8 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for red onion",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for red onion (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
       }
@@ -15321,8 +15357,8 @@
           "Not in database: Guacamole"
         ],
         "assumptions": [
-          "Assumed 1 unit for dairy sour cream",
-          "Assumed 1 unit for shredded cheddar or Monterey Jack cheese",
+          "Inferred 1.0 for dairy sour cream (standard quantity)",
+          "Inferred 1.0 for shredded cheddar or Monterey Jack cheese (standard quantity)",
           "Assumed 1 unit for Salsa",
           "Based on 11/12 ingredients (92% coverage)"
         ]
@@ -23835,7 +23871,7 @@
           "Not in database: barbecue sauce or catsup"
         ],
         "assumptions": [
-          "Assumed 1 unit for ground pork or ground lamb",
+          "Inferred 1.0 for ground pork or ground lamb (standard quantity)",
           "Assumed 1 unit for lettuce",
           "Based on 9/11 ingredients (82% coverage)"
         ]

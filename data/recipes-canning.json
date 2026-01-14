@@ -1005,9 +1005,9 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for chopped onion",
+          "Inferred 1.0 for chopped onion (standard quantity)",
           "Assumed 1 unit for lemon juice",
-          "Assumed 1 unit for bottled hot pepper sauce",
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }

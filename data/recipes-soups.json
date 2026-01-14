@@ -1845,7 +1845,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for grated Parmesan cheese",
+          "Inferred 1.0 for grated Parmesan cheese (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 15/15 ingredients (100% coverage)"
         ]
@@ -1992,16 +1992,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 284,
+          "calories": 283,
           "fat_g": 4.6,
           "protein_g": 24.4,
-          "carbs_g": 37.0
+          "carbs_g": 36.7
         },
         "missing_inputs": [
           "Not in database: bay leaves"
         ],
         "assumptions": [
-          "Assumed 1 unit for black pepper",
+          "Inferred 0.25 for black pepper (standard quantity)",
           "Assumed 1 unit for Tabasco",
           "Based on 13/14 ingredients (93% coverage)"
         ]
@@ -3545,7 +3545,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Grated Parmesan cheese (optional)",
+          "Inferred 1.0 for Grated Parmesan cheese (optional) (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -3971,17 +3971,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 294,
-          "fat_g": 29.9,
+          "calories": 293,
+          "fat_g": 29.8,
           "protein_g": 3.0,
-          "carbs_g": 5.5
+          "carbs_g": 5.0
         },
         "missing_inputs": [
           "Not in database: Cooked vegetable (see chart)",
           "Not in database: Seasonings (see chart)"
         ],
         "assumptions": [
-          "Assumed 1 unit for Dash pepper",
+          "Inferred 0.25 for Dash pepper (standard quantity)",
           "Based on 6/8 ingredients (75% coverage)"
         ]
       }

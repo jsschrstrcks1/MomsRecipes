@@ -2653,13 +2653,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 224,
-          "fat_g": 11.2,
-          "protein_g": 3.9,
-          "carbs_g": 28.7
+          "calories": 261,
+          "fat_g": 11.8,
+          "protein_g": 5.2,
+          "carbs_g": 35.3
         },
         "missing_inputs": [],
         "assumptions": [
+          "Assumed 1.5 cup can for dry Chinese noodles",
           "Estimated 6 servings based on total calories",
           "Based on 3/3 ingredients (100% coverage)"
         ]
@@ -3211,7 +3212,7 @@
           "Not in database: almond extract"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Based on 5/6 ingredients (83% coverage)"
         ]
       }
@@ -3531,8 +3532,8 @@
           "Not in database: container confetti decors"
         ],
         "assumptions": [
-          "Assumed 1 unit for salt",
-          "Assumed 1 unit for green sugar crystals",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for green sugar crystals (standard quantity)",
           "Based on 6/8 ingredients (75% coverage)"
         ]
       }
@@ -3668,7 +3669,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for shortening",
           "Assumed 1 unit for light molasses",
           "Assumed 1 unit for ground cinnamon",
@@ -3799,11 +3800,11 @@
           "Not in database: Ornamental Cookie Frosting (p.338)"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for shortening",
           "Assumed 1 unit for light molasses",
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for salt"
+          "Inferred 1 for salt (standard quantity)"
         ]
       }
     },

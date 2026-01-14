@@ -114,14 +114,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 88,
-          "fat_g": 6.1,
+          "calories": 102,
+          "fat_g": 7.7,
           "protein_g": 3.0,
           "carbs_g": 5.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for butter flavored shortening",
+          "Inferred 2 for butter flavored shortening (standard quantity)",
           "Assumed 1 unit for cinnamon and/or nutmeg",
           "Based on 9/9 ingredients (100% coverage)"
         ]
@@ -736,13 +736,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 259,
-          "fat_g": 20.5,
-          "protein_g": 12.3,
-          "carbs_g": 4.6
+          "calories": 270,
+          "fat_g": 20.8,
+          "protein_g": 12.6,
+          "carbs_g": 6.5
         },
         "missing_inputs": [],
         "assumptions": [
+          "Assumed 1.5 cup can for refrigerated crescent dinner rolls",
           "Based on 4/4 ingredients (100% coverage)"
         ]
       }

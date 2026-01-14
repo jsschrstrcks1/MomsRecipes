@@ -119,7 +119,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for hot pepper paste or Tabasco",
+          "Inferred 0.25 for hot pepper paste or Tabasco (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 10/10 ingredients (100% coverage)"
         ]
@@ -1121,7 +1121,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for hot pepper paste or Tabasco",
+          "Inferred 0.25 for hot pepper paste or Tabasco (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 10/10 ingredients (100% coverage)"
         ]
@@ -2375,7 +2375,7 @@
           "Not in database: pan drippings from roast"
         ],
         "assumptions": [
-          "Assumed 1 unit for beef broth or water",
+          "Inferred 1.0 for beef broth or water (standard quantity)",
           "Based on 2/3 ingredients (67% coverage)"
         ]
       }

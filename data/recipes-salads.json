@@ -2990,13 +2990,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 222,
-          "fat_g": 9.4,
-          "protein_g": 15.0,
-          "carbs_g": 20.6
+          "calories": 279,
+          "fat_g": 9.6,
+          "protein_g": 18.7,
+          "carbs_g": 30.6
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.75 cups) for red kidney beans",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -3375,7 +3376,7 @@
         ],
         "assumptions": [
           "Assumed 1 unit for leaf lettuce",
-          "Assumed 1 unit for grated Parmesan cheese",
+          "Inferred 1.0 for grated Parmesan cheese (standard quantity)",
           "Based on 7/9 ingredients (78% coverage)"
         ]
       }
@@ -3597,13 +3598,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 516,
-          "fat_g": 25.7,
-          "protein_g": 50.5,
-          "carbs_g": 19.7
+          "calories": 566,
+          "fat_g": 26.5,
+          "protein_g": 53.3,
+          "carbs_g": 28.1
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.75 cups) for garbanzo beans",
           "Assumed 1 unit for leaf lettuce",
           "Based on 12/12 ingredients (100% coverage)"
         ]
@@ -3825,12 +3827,12 @@
         "per_serving": {
           "calories": 270,
           "fat_g": 10.1,
-          "protein_g": 23.0,
-          "carbs_g": 27.3
+          "protein_g": 22.9,
+          "carbs_g": 27.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for bottled hot pepper sauce",
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
       }
@@ -4065,6 +4067,7 @@
           "Not in database: Vinaigrette"
         ],
         "assumptions": [
+          "Used standard can size (1.0 cups) for chunk white tuna",
           "Based on 9/12 ingredients (75% coverage)"
         ]
       }
@@ -5325,7 +5328,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
@@ -5809,13 +5812,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 178,
-          "fat_g": 3.2,
-          "protein_g": 18.4,
-          "carbs_g": 17.9
+          "calories": 138,
+          "fat_g": 2.6,
+          "protein_g": 10.8,
+          "carbs_g": 17.6
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (0.5 cups) for shrimp",
           "Based on 14/14 ingredients (100% coverage)"
         ]
       }
@@ -6049,17 +6053,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 77,
-          "fat_g": 0.4,
-          "protein_g": 1.2,
-          "carbs_g": 18.7
+          "calories": 95,
+          "fat_g": 0.5,
+          "protein_g": 1.4,
+          "carbs_g": 23.4
         },
         "missing_inputs": [],
         "assumptions": [
+          "Assumed 1.5 cup can for unpeeled apricot halves",
           "Assumed 1 unit for ground nutmeg",
+          "Used standard can size (1.5 cups) for pineapple chunks",
           "Assumed 1 unit for leaf lettuce",
-          "Assumed 1 unit for fresh mint sprigs",
-          "Based on 10/10 ingredients (100% coverage)"
+          "Assumed 1 unit for fresh mint sprigs"
         ]
       }
     },

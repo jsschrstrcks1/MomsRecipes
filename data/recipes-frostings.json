@@ -494,7 +494,7 @@
           "Not in database: food coloring (optional)"
         ],
         "assumptions": [
-          "Assumed 1 unit for sifted powdered sugar",
+          "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Based on 5/6 ingredients (83% coverage)"
         ]
       }
@@ -588,7 +588,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
