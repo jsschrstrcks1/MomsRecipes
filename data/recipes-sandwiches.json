@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "category": "sandwiches",
+    "count": 2,
+    "parent_collection": "mommom"
+  },
+  "recipes": [
+    {
+      "id": "egg-salad-sandwiches-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Egg-Salad Sandwiches",
+      "category": "sandwiches",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 147",
+      "ingredients": [
+        {
+          "item": "hard-cooked eggs, chopped",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "finely chopped green onion",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "diced pimiento",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "mayonnaise or salad dressing",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "prepared mustard or Dijon-style mustard",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "slices bread, or 2 small pita bread rounds or 2 bagels, split",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "lettuce leaves",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine chopped eggs, green onion, and pimiento; stir in mayonnaise and mustard. Add salt and pepper to taste. Spread egg mixture on 2 slices of bread, in pita rounds, or on bagel bottoms. Top with lettuce and, if not using pitas, remaining bread slices or bagel tops."
+        }
+      ],
+      "servings_yield": "Serves 2",
+      "notes": [
+        "Greek-Style Egg-Salad Sandwiches: Prepare as above, except omit the pimiento and mustard. Stir 1/4 cup crumbled feta cheese, 1/4 cup finely chopped tomato, and 2 tablespoons chopped pitted ripe olives into egg mixture.",
+        "California-Style Egg-Salad Sandwiches: Prepare as above, except omit pimiento. Stir 1/4 cup chopped avocado and 1/4 cup shredded Monterey Jack cheese into egg mixture. Substitute alfalfa sprouts for lettuce."
+      ],
+      "tags": [
+        "sandwiches",
+        "eggs",
+        "lunch",
+        "egg salad"
+      ],
+      "image_refs": [
+        "IMG_5308 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "egg-pita-sandwiches-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Egg-Pita Sandwiches",
+      "category": "sandwiches",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 149",
+      "ingredients": [
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced green onion or chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "pita bread round",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium skillet cook mushrooms and green onion or chopped green pepper in margarine or butter till tender. In a bowl beat together 3 eggs; 3 tablespoons milk; 1/8 teaspoon dried basil, crushed; dash salt; and dash pepper. Pour over mushroom mixture. Cook, without stirring, till eggs begin to set on bottom and around edge. Lift and fold partially cooked eggs so uncooked portion flows underneath. Continue cooking till thoroughly cooked but still glossy and moist."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle 1/4 cup shredded cheddar cheese over eggs. Remove from heat. Let stand 1 minute or till cheese melts slightly. Halve 1 pita bread round; spoon egg mixture into halves."
+        }
+      ],
+      "servings_yield": "Serves 2",
+      "tags": [
+        "sandwiches",
+        "eggs",
+        "breakfast",
+        "pita"
+      ],
+      "image_refs": [
+        "IMG_5310 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    }
+  ]
+}
