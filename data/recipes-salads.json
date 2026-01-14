@@ -1745,17 +1745,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 41,
-          "fat_g": 2.4,
-          "protein_g": 2.4,
-          "carbs_g": 3.4
+          "calories": 144,
+          "fat_g": 2.3,
+          "protein_g": 5.6,
+          "carbs_g": 25.0
         },
-        "missing_inputs": [
-          "Not in database: penne pasta",
-          "Not in database: fresh basil leaves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/6 ingredients (67% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -1846,18 +1843,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 46,
-          "fat_g": 1.5,
-          "protein_g": 2.3,
-          "carbs_g": 7.2
+          "calories": 71,
+          "fat_g": 3.9,
+          "protein_g": 2.2,
+          "carbs_g": 8.5
         },
         "missing_inputs": [
           "Not in database: mixed salad greens",
-          "Not in database: ripe olives",
-          "Not in database: cucumber"
+          "Not in database: Greek vinaigrette dressing"
         ],
         "assumptions": [
-          "Based on 3/7 ingredients (43% coverage)"
+          "Based on 5/7 ingredients (71% coverage)"
         ]
       }
     },
@@ -2113,7 +2109,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 431,
+          "fat_g": 26,
+          "protein_g": 25,
+          "carbs_g": 22,
+          "cholesterol_mg": 900,
+          "sodium_mg": 91
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2442,7 +2448,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 242,
+          "fat_g": 21,
+          "protein_g": 5,
+          "carbs_g": 13,
+          "cholesterol_mg": 7,
+          "sodium_mg": 5
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2552,7 +2568,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 168,
+          "fat_g": 8,
+          "protein_g": 3,
+          "carbs_g": 19,
+          "cholesterol_mg": 84,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2652,7 +2678,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "complete",
+        "per_serving": {
+          "calories": 283,
+          "fat_g": 23,
+          "protein_g": 2,
+          "carbs_g": 19,
+          "cholesterol_mg": 95,
+          "sodium_mg": 35
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -2828,7 +2864,22 @@
       },
       "image_refs": [
         "IMG_5546 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 99,
+          "fat_g": 0.0,
+          "protein_g": 1.2,
+          "carbs_g": 24.8
+        },
+        "missing_inputs": [
+          "Not in database: Nuts"
+        ],
+        "assumptions": [
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
+      }
     },
     {
       "id": "bean-sausage-bowl-bhg",
@@ -2935,6 +2986,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 279,
+          "fat_g": 9.6,
+          "protein_g": 18.7,
+          "carbs_g": 30.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.75 cups) for red kidney beans",
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3032,6 +3097,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 601,
+          "fat_g": 79,
+          "protein_g": 17,
+          "carbs_g": 40,
+          "cholesterol_mg": 352,
+          "sodium_mg": 981
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -3175,6 +3253,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 60,
+          "fat_g": 4,
+          "protein_g": 2,
+          "carbs_g": 3,
+          "cholesterol_mg": 497,
+          "sodium_mg": 65
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -3270,6 +3361,24 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 194,
+          "fat_g": 12.0,
+          "protein_g": 5.8,
+          "carbs_g": 18.9
+        },
+        "missing_inputs": [
+          "Not in database: fully cooked smoked bratwurst",
+          "Not in database: dried Italian seasoning"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for leaf lettuce",
+          "Inferred 1.0 for grated Parmesan cheese (standard quantity)",
+          "Based on 7/9 ingredients (78% coverage)"
+        ]
       }
     },
     {
@@ -3358,6 +3467,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 515,
+          "fat_g": 70,
+          "protein_g": 40,
+          "carbs_g": 8,
+          "cholesterol_mg": 480,
+          "sodium_mg": 149
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -3472,6 +3594,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 566,
+          "fat_g": 26.5,
+          "protein_g": 53.3,
+          "carbs_g": 28.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.75 cups) for garbanzo beans",
+          "Assumed 1 unit for leaf lettuce",
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3568,6 +3705,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 387,
+          "fat_g": 19.8,
+          "protein_g": 38.7,
+          "carbs_g": 13.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3671,6 +3821,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 270,
+          "fat_g": 10.1,
+          "protein_g": 22.9,
+          "carbs_g": 27.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3759,6 +3923,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 259,
+          "fat_g": 4.8,
+          "protein_g": 44.1,
+          "carbs_g": 5.5
+        },
+        "missing_inputs": [
+          "Not in database: Louis Dressing"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for paprika",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -3872,6 +4052,24 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 266,
+          "fat_g": 7.2,
+          "protein_g": 21.1,
+          "carbs_g": 34.8
+        },
+        "missing_inputs": [
+          "Not in database: torn romaine",
+          "Not in database: anchovy fillets",
+          "Not in database: Vinaigrette"
+        ],
+        "assumptions": [
+          "Used standard can size (1.0 cups) for chunk white tuna",
+          "Based on 9/12 ingredients (75% coverage)"
+        ]
       }
     },
     {
@@ -3963,6 +4161,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 528,
+          "fat_g": 41,
+          "protein_g": 22,
+          "carbs_g": 19,
+          "cholesterol_mg": 435,
+          "sodium_mg": 44
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4083,6 +4294,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 57,
+          "fat_g": 3,
+          "protein_g": 2,
+          "carbs_g": 9,
+          "cholesterol_mg": 291,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4175,6 +4399,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 68,
+          "fat_g": 5,
+          "protein_g": 2,
+          "carbs_g": 4,
+          "cholesterol_mg": 11,
+          "sodium_mg": 1
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4282,6 +4519,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 117,
+          "fat_g": 10,
+          "protein_g": 0,
+          "carbs_g": 8,
+          "cholesterol_mg": 83,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4414,6 +4664,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 274,
+          "fat_g": 18,
+          "protein_g": 21,
+          "carbs_g": 10,
+          "cholesterol_mg": 149,
+          "sodium_mg": 98
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4533,6 +4796,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 127,
+          "fat_g": 10,
+          "protein_g": 2,
+          "carbs_g": 9,
+          "cholesterol_mg": 23,
+          "sodium_mg": 4
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4621,6 +4897,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 147,
+          "fat_g": 10,
+          "protein_g": 9,
+          "carbs_g": 6,
+          "cholesterol_mg": 480,
+          "sodium_mg": 83
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4697,6 +4986,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 53,
+          "fat_g": 3.8,
+          "protein_g": 0.9,
+          "carbs_g": 4.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4804,6 +5106,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 229,
+          "fat_g": 19,
+          "protein_g": 8,
+          "carbs_g": 7,
+          "cholesterol_mg": 143,
+          "sodium_mg": 8
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4905,6 +5220,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 357,
+          "fat_g": 32,
+          "protein_g": 11,
+          "carbs_g": 8,
+          "cholesterol_mg": 459,
+          "sodium_mg": 127
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -4989,6 +5317,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 130,
+          "fat_g": 5.0,
+          "protein_g": 3.6,
+          "carbs_g": 19.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for milk (standard quantity)",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5091,6 +5433,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 226,
+          "fat_g": 3.6,
+          "protein_g": 7.8,
+          "carbs_g": 41.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5187,6 +5542,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 204,
+          "fat_g": 10,
+          "protein_g": 4,
+          "carbs_g": 21,
+          "cholesterol_mg": 14,
+          "sodium_mg": 6
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
       }
     },
     {
@@ -5301,6 +5669,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 438,
+          "fat_g": 5.0,
+          "protein_g": 14.0,
+          "carbs_g": 86.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5427,6 +5808,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 138,
+          "fat_g": 2.6,
+          "protein_g": 10.8,
+          "carbs_g": 17.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (0.5 cups) for shrimp",
+          "Based on 14/14 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5536,6 +5931,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 111,
+          "fat_g": 6.5,
+          "protein_g": 3.7,
+          "carbs_g": 10.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5641,6 +6049,23 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 95,
+          "fat_g": 0.5,
+          "protein_g": 1.4,
+          "carbs_g": 23.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1.5 cup can for unpeeled apricot halves",
+          "Assumed 1 unit for ground nutmeg",
+          "Used standard can size (1.5 cups) for pineapple chunks",
+          "Assumed 1 unit for leaf lettuce",
+          "Assumed 1 unit for fresh mint sprigs"
+        ]
       }
     },
     {
@@ -5753,6 +6178,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 126,
+          "fat_g": 0.8,
+          "protein_g": 1.6,
+          "carbs_g": 31.3
+        },
+        "missing_inputs": [
+          "Not in database: medium peach"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for leaf lettuce",
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
       }
     }
   ]

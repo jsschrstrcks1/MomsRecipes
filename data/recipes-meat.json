@@ -79,18 +79,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 306,
+          "calories": 307,
           "fat_g": 21.6,
           "protein_g": 24.2,
-          "carbs_g": 1.3
+          "carbs_g": 1.6
         },
-        "missing_inputs": [
-          "Not in database: finely chopped green pepper",
-          "Not in database: ground black pepper",
-          "Not in database: ground red pepper"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/7 ingredients (57% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -185,15 +181,13 @@
           "calories": 427,
           "fat_g": 28.9,
           "protein_g": 32.5,
-          "carbs_g": 6.1
+          "carbs_g": 6.2
         },
         "missing_inputs": [
-          "Not in database: chopped green pepper",
-          "Not in database: dried Italian seasoning",
-          "Not in database: salt"
+          "Not in database: dried Italian seasoning"
         ],
         "assumptions": [
-          "Based on 6/9 ingredients (67% coverage)"
+          "Based on 8/9 ingredients (89% coverage)"
         ]
       }
     },
@@ -375,19 +369,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 522,
-          "fat_g": 37.8,
+          "calories": 540,
+          "fat_g": 39.3,
           "protein_g": 40.6,
-          "carbs_g": 1.0
+          "carbs_g": 0.9
         },
         "missing_inputs": [
-          "Not in database: dry white wine",
-          "Not in database: snipped parsley",
           "Not in database: coarsened (8 ribs)"
         ],
         "assumptions": [
-          "Assumed 1 unit for Mushroom-Butter Sauce",
-          "Based on 6/9 ingredients (67% coverage)"
+          "Inferred 2 for Mushroom-Butter Sauce (standard quantity)",
+          "Based on 8/9 ingredients (89% coverage)"
         ]
       }
     },
@@ -470,17 +462,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 353,
-          "fat_g": 23.0,
-          "protein_g": 25.8,
-          "carbs_g": 9.0
+          "calories": 355,
+          "fat_g": 22.7,
+          "protein_g": 25.2,
+          "carbs_g": 9.9
         },
-        "missing_inputs": [
-          "Not in database: ground white pepper",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -543,16 +532,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 500,
+          "calories": 503,
           "fat_g": 36.0,
-          "protein_g": 40.0,
-          "carbs_g": 0.0
+          "protein_g": 40.1,
+          "carbs_g": 0.8
         },
-        "missing_inputs": [
-          "Not in database: orange marmalade"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -703,10 +690,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1170,
-          "fat_g": 72.3,
-          "protein_g": 83.5,
-          "carbs_g": 37.5
+          "calories": 1181,
+          "fat_g": 74.3,
+          "protein_g": 86.5,
+          "carbs_g": 33.8
         },
         "missing_inputs": [
           "Not in database: can pizza sauce"
@@ -799,18 +786,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 139,
-          "fat_g": 12.0,
-          "protein_g": 1.5,
-          "carbs_g": 8.2
+          "calories": 168,
+          "fat_g": 13.7,
+          "protein_g": 1.7,
+          "carbs_g": 10.6
         },
         "missing_inputs": [
-          "Not in database: chopped green pepper",
-          "Not in database: tablespoons chopped pimiento",
-          "Not in database: pepper"
+          "Not in database: tablespoons chopped pimiento"
         ],
         "assumptions": [
-          "Based on 4/8 ingredients (50% coverage)"
+          "Based on 7/8 ingredients (88% coverage)"
         ]
       }
     },

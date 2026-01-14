@@ -2385,6 +2385,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 137,
+          "fat_g": 2.8,
+          "protein_g": 24.2,
+          "carbs_g": 2.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1 for pepper (standard quantity)",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2456,6 +2470,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 176,
+          "fat_g": 3.2,
+          "protein_g": 26.7,
+          "carbs_g": 9.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2516,6 +2543,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 143,
+          "fat_g": 5.4,
+          "protein_g": 20.4,
+          "carbs_g": 0.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2588,6 +2628,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 127,
+          "fat_g": 2.7,
+          "protein_g": 24.0,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2659,6 +2712,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 151,
+          "fat_g": 2.8,
+          "protein_g": 17.6,
+          "carbs_g": 15.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2730,6 +2796,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 103,
+          "fat_g": 1.6,
+          "protein_g": 10.6,
+          "carbs_g": 12.6
+        },
+        "missing_inputs": [
+          "Not in database: drained"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -2807,6 +2888,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 456,
+          "fat_g": 10.7,
+          "protein_g": 80.0,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [
+          "Not in database: melted"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
       }
     },
     {
@@ -2884,6 +2980,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 172,
+          "fat_g": 5.4,
+          "protein_g": 22.5,
+          "carbs_g": 4.5
+        },
+        "missing_inputs": [
+          "Not in database: caraway seed (optional)"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
       }
     },
     {
@@ -2942,6 +3053,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 131,
+          "fat_g": 3.2,
+          "protein_g": 24.0,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3005,6 +3129,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 531,
+          "fat_g": 14.3,
+          "protein_g": 83.3,
+          "carbs_g": 7.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for dill",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3067,6 +3205,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 121,
+          "fat_g": 3.0,
+          "protein_g": 20.5,
+          "carbs_g": 0.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for paprika",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3159,6 +3311,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 154,
+          "fat_g": 3.1,
+          "protein_g": 22.2,
+          "carbs_g": 7.3
+        },
+        "missing_inputs": [
+          "Not in database: finely chopped pimiento"
+        ],
+        "assumptions": [
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
       }
     },
     {
@@ -3260,6 +3427,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 510,
+          "fat_g": 11.6,
+          "protein_g": 82.1,
+          "carbs_g": 10.4
+        },
+        "missing_inputs": [
+          "Not in database: parchment paper or brown paper"
+        ],
+        "assumptions": [
+          "Based on 11/12 ingredients (92% coverage)"
+        ]
       }
     },
     {
@@ -3335,6 +3517,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 208,
+          "fat_g": 4.7,
+          "protein_g": 36.2,
+          "carbs_g": 3.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3398,6 +3593,18 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [
+          "Not in database: fresh or frozen dressed fish",
+          "Not in database: water",
+          "Not in database: bay leaf",
+          "Not in database: dried tarragon",
+          "Not in database: lemon slices"
+        ],
+        "assumptions": []
       }
     },
     {
@@ -3469,6 +3676,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 29,
+          "fat_g": 1.0,
+          "protein_g": 0.8,
+          "carbs_g": 4.9
+        },
+        "missing_inputs": [
+          "Not in database: dried summer savory, crushed"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -3550,6 +3772,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 723,
+          "fat_g": 31.2,
+          "protein_g": 89.5,
+          "carbs_g": 14.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3616,6 +3851,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 258,
+          "fat_g": 11.2,
+          "protein_g": 23.8,
+          "carbs_g": 13.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 2 for shortening or cooking oil for frying (standard quantity)",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3701,6 +3950,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 309,
+          "fat_g": 3.5,
+          "protein_g": 22.8,
+          "carbs_g": 45.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3776,6 +4038,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 452,
+          "fat_g": 11.5,
+          "protein_g": 28.6,
+          "carbs_g": 56.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
+          "Assumed 1 unit for malt vinegar or cider vinegar",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -3854,6 +4131,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 104,
+          "fat_g": 9.4,
+          "protein_g": 1.6,
+          "carbs_g": 4.0
+        },
+        "missing_inputs": [
+          "Not in database: English muffins, split and toasted"
+        ],
+        "assumptions": [
+          "Based on 8/9 ingredients (89% coverage)"
+        ]
       }
     },
     {
@@ -3934,6 +4226,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 51,
+          "fat_g": 2.4,
+          "protein_g": 2.3,
+          "carbs_g": 6.0
+        },
+        "missing_inputs": [
+          "Not in database: package (6) refrigerated biscuits"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
       }
     },
     {
@@ -4008,6 +4315,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 406,
+          "fat_g": 15.6,
+          "protein_g": 30.3,
+          "carbs_g": 33.1
+        },
+        "missing_inputs": [
+          "Not in database: chopped pimiento"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for parsley sprigs (optional)",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -4114,6 +4437,23 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 261,
+          "fat_g": 17.6,
+          "protein_g": 15.9,
+          "carbs_g": 12.7
+        },
+        "missing_inputs": [
+          "Not in database: Crepes (see recipe, page 72)"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for paprika",
+          "Assumed 1 unit for sliced or slivered almonds, toasted (optional)",
+          "Based on 11/12 ingredients (92% coverage)"
+        ]
       }
     },
     {
@@ -4203,6 +4543,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 220,
+          "fat_g": 5.2,
+          "protein_g": 20.2,
+          "carbs_g": 23.7
+        },
+        "missing_inputs": [
+          "Not in database: refrigerated biscuits"
+        ],
+        "assumptions": [
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
       }
     },
     {
@@ -4276,6 +4631,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 193,
+          "fat_g": 7.9,
+          "protein_g": 8.6,
+          "carbs_g": 21.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for Cheese Sauce (see recipe, page 361) (standard quantity)",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -4348,6 +4717,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 308,
+          "fat_g": 12.7,
+          "protein_g": 28.2,
+          "carbs_g": 17.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     }
   ]

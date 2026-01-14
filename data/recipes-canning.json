@@ -994,7 +994,23 @@
       },
       "image_refs": [
         "IMG_5360 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 78,
+          "fat_g": 0.7,
+          "protein_g": 3.1,
+          "carbs_g": 17.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for chopped onion (standard quantity)",
+          "Assumed 1 unit for lemon juice",
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "tomato-juice-canning-bhg",
@@ -1058,6 +1074,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 51,
+          "fat_g": 0.6,
+          "protein_g": 2.6,
+          "carbs_g": 11.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 1/1 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1137,6 +1166,19 @@
         "overall": "medium",
         "flags": [
           "Some text difficult to read"
+        ]
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 8,
+          "fat_g": 0.1,
+          "protein_g": 0.5,
+          "carbs_g": 1.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     }

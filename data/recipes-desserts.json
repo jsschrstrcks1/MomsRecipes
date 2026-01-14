@@ -1131,18 +1131,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 274,
+          "calories": 330,
           "fat_g": 12.9,
-          "protein_g": 2.0,
-          "carbs_g": 38.6
+          "protein_g": 2.2,
+          "carbs_g": 52.6
         },
         "missing_inputs": [
-          "Not in database: Dream Whip",
-          "Not in database: cherry pie filling or other fruit topping"
+          "Not in database: Dream Whip"
         ],
         "assumptions": [
+          "Assumed 1.5 cup can for cherry pie filling or other fruit topping",
           "Estimated 8 servings based on total calories",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -1249,18 +1249,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 354,
+          "calories": 355,
           "fat_g": 4.0,
           "protein_g": 5.8,
-          "carbs_g": 74.9
+          "carbs_g": 75.0
         },
-        "missing_inputs": [
-          "Not in database: soda",
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 7/9 ingredients (78% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -1440,14 +1437,12 @@
           "carbs_g": 46.4
         },
         "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: ground cinnamon",
           "Not in database: nuts"
         ],
         "assumptions": [
           "Assumed 1 unit for shortening",
           "Estimated 6 servings based on total calories",
-          "Based on 12/15 ingredients (80% coverage)"
+          "Based on 14/15 ingredients (93% coverage)"
         ]
       }
     },
@@ -1560,19 +1555,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 305,
+          "calories": 310,
           "fat_g": 2.9,
-          "protein_g": 8.7,
-          "carbs_g": 60.2
+          "protein_g": 8.9,
+          "carbs_g": 61.8
         },
         "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: water",
           "Not in database: whole berry cranberry sauce"
         ],
         "assumptions": [
+          "Inferred 1 for salt (standard quantity)",
           "Estimated 6 servings based on total calories",
-          "Based on 6/10 ingredients (60% coverage)"
+          "Based on 9/10 ingredients (90% coverage)"
         ]
       }
     },
@@ -1647,18 +1641,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 94,
-          "fat_g": 7.6,
-          "protein_g": 6.0,
-          "carbs_g": 0.4
+          "calories": 113,
+          "fat_g": 7.8,
+          "protein_g": 6.5,
+          "carbs_g": 4.8
         },
-        "missing_inputs": [
-          "Not in database: lemon cake mix",
-          "Not in database: apricot nectar"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 4 servings based on total calories",
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -1766,19 +1757,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 321,
-          "fat_g": 6.1,
-          "protein_g": 8.7,
-          "carbs_g": 57.7
+          "calories": 270,
+          "fat_g": 6.2,
+          "protein_g": 6.7,
+          "carbs_g": 46.6
         },
         "missing_inputs": [
-          "Not in database: instant lemon pudding",
-          "Not in database: oleo",
-          "Not in database: Cool Whip"
+          "Not in database: oleo"
         ],
         "assumptions": [
-          "Estimated 6 servings based on total calories",
-          "Based on 4/7 ingredients (57% coverage)"
+          "Estimated 8 servings based on total calories",
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -1907,12 +1896,10 @@
           "protein_g": 6.1,
           "carbs_g": 74.9
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -2026,12 +2013,11 @@
           "protein_g": 6.5,
           "carbs_g": 44.4
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Inferred 1 for salt (standard quantity)",
           "Estimated 6 servings based on total calories",
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -2178,12 +2164,10 @@
           "carbs_g": 47.7
         },
         "missing_inputs": [
-          "Not in database: water",
-          "Not in database: salt",
-          "Not in database: cinnamon"
+          "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Based on 8/12 ingredients (67% coverage)"
+          "Based on 11/12 ingredients (92% coverage)"
         ]
       }
     },
@@ -2301,12 +2285,10 @@
           "protein_g": 5.5,
           "carbs_g": 74.4
         },
-        "missing_inputs": [
-          "Not in database: cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 12 servings based on total calories",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -2431,15 +2413,11 @@
           "calories": 201,
           "fat_g": 1.0,
           "protein_g": 2.6,
-          "carbs_g": 45.7
+          "carbs_g": 45.8
         },
-        "missing_inputs": [
-          "Not in database: soda",
-          "Not in database: salt",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/9 ingredients (67% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -2547,15 +2525,12 @@
           "calories": 267,
           "fat_g": 2.4,
           "protein_g": 4.9,
-          "carbs_g": 56.7
+          "carbs_g": 56.8
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: orange rind"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 6/8 ingredients (75% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -2644,15 +2619,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 414,
-          "fat_g": 29.7,
-          "protein_g": 8.4,
-          "carbs_g": 30.8
+          "calories": 368,
+          "fat_g": 21.2,
+          "protein_g": 8.8,
+          "carbs_g": 36.9
         },
         "missing_inputs": [
           "Not in database: pecan pieces"
         ],
         "assumptions": [
+          "Used standard can size (1.25 cups) for sweetened condensed milk",
           "Estimated 12 servings based on total calories",
           "Based on 5/6 ingredients (83% coverage)"
         ]
@@ -2773,19 +2749,20 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 492,
-          "fat_g": 30.2,
-          "protein_g": 22.4,
-          "carbs_g": 33.8
+          "calories": 377,
+          "fat_g": 21.8,
+          "protein_g": 15.5,
+          "carbs_g": 30.4
         },
         "missing_inputs": [
-          "Not in database: nuts",
-          "Not in database: Cool Whip"
+          "Not in database: nuts"
         ],
         "assumptions": [
+          "Used standard can size (1.25 cups) for condensed milk",
+          "Used standard can size (1.5 cups) for pineapple chunks",
           "Assumed 1 unit for cherries",
-          "Estimated 8 servings based on total calories",
-          "Based on 7/9 ingredients (78% coverage)"
+          "Estimated 12 servings based on total calories",
+          "Based on 8/9 ingredients (89% coverage)"
         ]
       }
     },
@@ -2881,17 +2858,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 227,
-          "fat_g": 10.3,
-          "protein_g": 21.9,
-          "carbs_g": 10.5
+          "calories": 189,
+          "fat_g": 10.2,
+          "protein_g": 5.5,
+          "carbs_g": 17.0
         },
-        "missing_inputs": [
-          "Not in database: Cool Whip"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1.5 cup can for chocolate fudge frosting",
           "Estimated 4 servings based on total calories",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -3107,17 +3083,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 320,
+          "calories": 321,
           "fat_g": 7.4,
           "protein_g": 6.8,
-          "carbs_g": 57.4
+          "carbs_g": 57.5
         },
-        "missing_inputs": [
-          "Not in database: grated orange peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -3236,19 +3210,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 326,
-          "fat_g": 1.5,
-          "protein_g": 4.8,
-          "carbs_g": 74.6
+          "calories": 251,
+          "fat_g": 1.2,
+          "protein_g": 3.8,
+          "carbs_g": 57.4
         },
         "missing_inputs": [
-          "Not in database: cinnamon",
-          "Not in database: chopped nuts",
-          "Not in database: canned pumpkin"
+          "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Estimated 6 servings based on total calories",
-          "Based on 6/9 ingredients (67% coverage)"
+          "Estimated 8 servings based on total calories",
+          "Based on 8/9 ingredients (89% coverage)"
         ]
       }
     },
@@ -3388,7 +3360,7 @@
           "Not in database: oleo"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Estimated 12 servings based on total calories",
           "Based on 10/11 ingredients (91% coverage)"
         ]
@@ -3508,15 +3480,12 @@
           "calories": 328,
           "fat_g": 2.8,
           "protein_g": 5.3,
-          "carbs_g": 70.6
+          "carbs_g": 70.7
         },
-        "missing_inputs": [
-          "Not in database: cinnamon",
-          "Not in database: ginger"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 6 servings based on total calories",
-          "Based on 7/9 ingredients (78% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -3625,12 +3594,11 @@
           "carbs_g": 43.1
         },
         "missing_inputs": [
-          "Not in database: almond extract",
-          "Not in database: salt"
+          "Not in database: almond extract"
         ],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -3744,11 +3712,10 @@
           "carbs_g": 108.3
         },
         "missing_inputs": [
-          "Not in database: salt",
           "Not in database: almond extract"
         ],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -3880,18 +3847,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 384,
-          "fat_g": 13.7,
+          "calories": 339,
+          "fat_g": 7.6,
           "protein_g": 5.2,
-          "carbs_g": 61.7
+          "carbs_g": 63.7
         },
         "missing_inputs": [
-          "Not in database: salt",
           "Not in database: chopped nuts"
         ],
         "assumptions": [
           "Estimated 12 servings based on total calories",
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 9/10 ingredients (90% coverage)"
         ]
       }
     },
@@ -4012,12 +3978,10 @@
           "protein_g": 5.3,
           "carbs_g": 60.2
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -4150,13 +4114,11 @@
           "carbs_g": 57.1
         },
         "missing_inputs": [
-          "Not in database: soda",
-          "Not in database: salt",
           "Not in database: Crisco"
         ],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 8/11 ingredients (73% coverage)"
+          "Based on 10/11 ingredients (91% coverage)"
         ]
       }
     },
@@ -4274,19 +4236,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 342,
-          "fat_g": 2.4,
-          "protein_g": 6.4,
-          "carbs_g": 73.6
+          "calories": 334,
+          "fat_g": 2.0,
+          "protein_g": 5.9,
+          "carbs_g": 73.0
         },
         "missing_inputs": [
-          "Not in database: flavoring",
-          "Not in database: salt",
-          "Not in database: soda"
+          "Not in database: flavoring"
         ],
         "assumptions": [
           "Estimated 12 servings based on total calories",
-          "Based on 6/9 ingredients (67% coverage)"
+          "Based on 8/9 ingredients (89% coverage)"
         ]
       }
     },
@@ -4470,12 +4430,10 @@
           "protein_g": 4.8,
           "carbs_g": 44.4
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 6 servings based on total calories",
-          "Based on 5/6 ingredients (83% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -4633,12 +4591,10 @@
           "protein_g": 5.2,
           "carbs_g": 58.3
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 11/12 ingredients (92% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -4869,12 +4825,10 @@
           "protein_g": 5.4,
           "carbs_g": 49.9
         },
-        "missing_inputs": [
-          "Not in database: cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -4987,18 +4941,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 350,
-          "fat_g": 21.5,
-          "protein_g": 5.7,
-          "carbs_g": 40.9
+          "calories": 370,
+          "fat_g": 21.7,
+          "protein_g": 6.5,
+          "carbs_g": 44.6
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: Pillsbury nut or date quick bread mix"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 6/8 ingredients (75% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -5148,13 +5099,11 @@
           "carbs_g": 33.2
         },
         "missing_inputs": [
-          "Not in database: hot water",
-          "Not in database: cold water",
-          "Not in database: cold water"
+          "Not in database: finely chopped nuts"
         ],
         "assumptions": [
           "Estimated 6 servings based on total calories",
-          "Based on 8/13 ingredients (62% coverage)"
+          "Based on 12/13 ingredients (92% coverage)"
         ]
       }
     },
@@ -5360,18 +5309,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1015,
-          "fat_g": 39.9,
+          "calories": 1012,
+          "fat_g": 38.6,
           "protein_g": 150.4,
-          "carbs_g": 10.9
+          "carbs_g": 12.3
         },
-        "missing_inputs": [
-          "Not in database: cold water",
-          "Not in database: Cool Whip"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 12 servings based on total calories",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -5516,10 +5462,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 448,
-          "fat_g": 20.6,
-          "protein_g": 14.9,
-          "carbs_g": 54.9
+          "calories": 427,
+          "fat_g": 20.7,
+          "protein_g": 14.7,
+          "carbs_g": 50.1
         },
         "missing_inputs": [
           "Not in database: oleo",
@@ -5734,17 +5680,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 243,
+          "calories": 250,
           "fat_g": 1.8,
-          "protein_g": 3.4,
-          "carbs_g": 54.3
+          "protein_g": 3.5,
+          "carbs_g": 56.2
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1.5 cup can for cherries (sweetened)",
           "Estimated 6 servings based on total calories",
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -6135,11 +6080,11 @@
         },
         "missing_inputs": [
           "Not in database: sandwich cookies (Oreos)",
-          "Not in database: water",
-          "Not in database: salt"
+          "Not in database: miniature marshmallows",
+          "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Based on 2/8 ingredients (25% coverage)"
+          "Based on 4/8 ingredients (50% coverage)"
         ]
       }
     },
@@ -6234,13 +6179,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 179,
-          "fat_g": 12.2,
-          "protein_g": 6.3,
-          "carbs_g": 12.1
+          "calories": 189,
+          "fat_g": 12.5,
+          "protein_g": 6.6,
+          "carbs_g": 13.8
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.25 cups) for sweetened condensed milk",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -6348,11 +6294,9 @@
           "protein_g": 1.7,
           "carbs_g": 15.6
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -6461,11 +6405,9 @@
           "protein_g": 1.3,
           "carbs_g": 15.2
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -6680,13 +6622,12 @@
           "carbs_g": 76.5
         },
         "missing_inputs": [
-          "Not in database: oleo",
-          "Not in database: salt"
+          "Not in database: oleo"
         ],
         "assumptions": [
           "Assumed 1 unit for pecans",
-          "Assumed 1 unit for confectioners sugar",
-          "Based on 6/8 ingredients (75% coverage)"
+          "Inferred 1.0 for confectioners sugar (standard quantity)",
+          "Based on 7/8 ingredients (88% coverage)"
         ]
       }
     },
@@ -6833,13 +6774,9 @@
           "protein_g": 1.9,
           "carbs_g": 25.7
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: salt",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 11/14 ingredients (79% coverage)"
+          "Based on 14/14 ingredients (100% coverage)"
         ]
       }
     },
@@ -6942,17 +6879,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 164,
-          "fat_g": 1.5,
-          "protein_g": 3.8,
-          "carbs_g": 36.5
+          "calories": 165,
+          "fat_g": 1.4,
+          "protein_g": 3.7,
+          "carbs_g": 36.8
         },
-        "missing_inputs": [
-          "Not in database: cinnamon",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -7068,16 +7002,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 344,
-          "fat_g": 5.5,
+          "calories": 309,
+          "fat_g": 1.4,
           "protein_g": 3.7,
           "carbs_g": 73.4
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -7171,16 +7103,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 110,
+          "calories": 111,
           "fat_g": 3.9,
           "protein_g": 4.7,
-          "carbs_g": 14.3
+          "carbs_g": 14.6
         },
-        "missing_inputs": [
-          "Not in database: cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "Assumed 1 unit for cinnamon",
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -7296,17 +7227,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 101,
-          "fat_g": 4.0,
+          "calories": 97,
+          "fat_g": 2.7,
           "protein_g": 0.6,
-          "carbs_g": 17.0
+          "carbs_g": 18.4
         },
         "missing_inputs": [
-          "Not in database: crushed pretzels",
-          "Not in database: Cool Whip"
+          "Not in database: crushed pretzels"
         ],
         "assumptions": [
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 9/10 ingredients (90% coverage)"
         ]
       }
     },
@@ -7403,11 +7333,10 @@
           "carbs_g": 11.3
         },
         "missing_inputs": [
-          "Not in database: oleo",
-          "Not in database: salt"
+          "Not in database: oleo"
         ],
         "assumptions": [
-          "Based on 4/6 ingredients (67% coverage)"
+          "Based on 5/6 ingredients (83% coverage)"
         ]
       }
     },
@@ -7500,12 +7429,9 @@
           "protein_g": 13.0,
           "carbs_g": 95.0
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: cold water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -7591,17 +7517,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 37,
+          "calories": 46,
           "fat_g": 2.3,
-          "protein_g": 2.3,
-          "carbs_g": 1.7
+          "protein_g": 2.7,
+          "carbs_g": 4.0
         },
         "missing_inputs": [
-          "Not in database: Libby's Easy Pumpkin Pie Mix",
           "Not in database: unbaked deep-dish pie shell"
         ],
         "assumptions": [
-          "Based on 2/4 ingredients (50% coverage)"
+          "Used standard can size (1.875 cups) for Libby's Easy Pumpkin Pie Mix",
+          "Based on 3/4 ingredients (75% coverage)"
         ]
       }
     },
@@ -7987,18 +7913,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 354,
+          "calories": 384,
           "fat_g": 34.8,
-          "protein_g": 4.1,
-          "carbs_g": 11.3
+          "protein_g": 4.4,
+          "carbs_g": 19.0
         },
-        "missing_inputs": [
-          "Not in database: mandarin oranges",
-          "Not in database: green grapes"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.5 cups) for pineapple tidbits",
+          "Used standard can size (1.375 cups) for mandarin oranges",
           "Estimated 12 servings based on total calories",
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -8107,17 +8032,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 111,
-          "fat_g": 4.0,
-          "protein_g": 2.3,
-          "carbs_g": 17.4
+          "calories": 132,
+          "fat_g": 5.8,
+          "protein_g": 3.1,
+          "carbs_g": 18.1
         },
         "missing_inputs": [
           "Not in database: almond extract",
           "Not in database: strawberry preserves"
         ],
         "assumptions": [
-          "Assumed 1 unit for confectioners' sugar",
+          "Assumed 1.5 cup can for blanched whole almonds",
+          "Inferred 1.0 for confectioners' sugar (standard quantity)",
           "Assumed 1 unit for lemon juice",
           "Based on 5/7 ingredients (71% coverage)"
         ]
@@ -8243,12 +8169,11 @@
           "carbs_g": 8.6
         },
         "missing_inputs": [
-          "Not in database: salt",
           "Not in database: nonpareils or other decorations"
         ],
         "assumptions": [
           "Assumed 1 unit for heavy or whipping cream",
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 9/10 ingredients (90% coverage)"
         ]
       }
     },
@@ -8372,13 +8297,9 @@
           "protein_g": 0.6,
           "carbs_g": 6.1
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: water",
-          "Not in database: candied ginger"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/10 ingredients (70% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -8632,13 +8553,9 @@
           "protein_g": 0.8,
           "carbs_g": 9.0
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground ginger",
-          "Not in database: ground allspice"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/11 ingredients (64% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -8773,14 +8690,10 @@
           "protein_g": 0.6,
           "carbs_g": 14.1
         },
-        "missing_inputs": [
-          "Not in database: lemon peel",
-          "Not in database: ground ginger",
-          "Not in database: ground cloves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Based on 6/10 ingredients (60% coverage)"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -8899,16 +8812,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 224,
+          "calories": 225,
           "fat_g": 6.5,
           "protein_g": 4.6,
-          "carbs_g": 37.2
+          "carbs_g": 37.4
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -9038,11 +8949,9 @@
           "protein_g": 44.1,
           "carbs_g": 257.5
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -9115,10 +9024,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 479,
-          "fat_g": 0.7,
-          "protein_g": 0.5,
-          "carbs_g": 119.8
+          "calories": 469,
+          "fat_g": 0.2,
+          "protein_g": 0.0,
+          "carbs_g": 119.0
         },
         "missing_inputs": [],
         "assumptions": [
@@ -9246,18 +9155,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 75,
-          "fat_g": 0.2,
-          "protein_g": 0.0,
-          "carbs_g": 18.8
+          "calories": 84,
+          "fat_g": 0.3,
+          "protein_g": 0.3,
+          "carbs_g": 20.5
         },
-        "missing_inputs": [
-          "Not in database: Classic White Bread Dough",
-          "Not in database: ground cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for Powdered Sugar Glaze",
-          "Based on 3/5 ingredients (60% coverage)"
+          "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -9450,13 +9356,10 @@
           "protein_g": 0.0,
           "carbs_g": 14.9
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 4 servings based on total calories",
-          "Based on 1/3 ingredients (33% coverage)"
+          "Based on 3/3 ingredients (100% coverage)"
         ]
       }
     },
@@ -9515,14 +9418,12 @@
           "calories": 59,
           "fat_g": 0.0,
           "protein_g": 0.0,
-          "carbs_g": 15.0
+          "carbs_g": 15.1
         },
-        "missing_inputs": [
-          "Not in database: lemon or orange peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 4 servings based on total calories",
-          "Based on 2/3 ingredients (67% coverage)"
+          "Based on 3/3 ingredients (100% coverage)"
         ]
       }
     },
@@ -9695,13 +9596,9 @@
           "protein_g": 0.2,
           "carbs_g": 30.1
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: ground cinnamon",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/8 ingredients (50% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -9813,18 +9710,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 194,
+          "calories": 195,
           "fat_g": 0.2,
           "protein_g": 0.3,
-          "carbs_g": 50.5
+          "carbs_g": 50.6
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: cinnamon",
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/8 ingredients (50% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -9916,12 +9809,9 @@
           "protein_g": 3.3,
           "carbs_g": 23.8
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: cold water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -10030,10 +9920,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 323,
-          "fat_g": 1.5,
-          "protein_g": 6.2,
-          "carbs_g": 68.9
+          "calories": 280,
+          "fat_g": 1.8,
+          "protein_g": 5.7,
+          "carbs_g": 59.4
         },
         "missing_inputs": [
           "Not in database: Kraft Jet-Puffed Miniature Marshmallows",
@@ -10336,19 +10226,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 475,
-          "fat_g": 26.3,
-          "protein_g": 18.6,
-          "carbs_g": 43.9
+          "calories": 481,
+          "fat_g": 26.4,
+          "protein_g": 18.8,
+          "carbs_g": 45.4
         },
-        "missing_inputs": [
-          "Not in database: solid pack pumpkin",
-          "Not in database: cinnamon",
-          "Not in database: nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 9/13 ingredients (69% coverage)"
+          "Based on 13/13 ingredients (100% coverage)"
         ]
       }
     },
@@ -10575,17 +10461,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 60,
+          "calories": 62,
           "fat_g": 2.1,
           "protein_g": 1.2,
-          "carbs_g": 9.6
+          "carbs_g": 9.9
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: apricot preserves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -10723,11 +10606,9 @@
           "protein_g": 9.9,
           "carbs_g": 66.1
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -10983,11 +10864,9 @@
           "protein_g": 0.4,
           "carbs_g": 7.8
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -11094,7 +10973,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for confectioners' sugar",
+          "Inferred 1.0 for confectioners' sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -11467,12 +11346,12 @@
           "carbs_g": 7.6
         },
         "missing_inputs": [
-          "Not in database: salt",
           "Not in database: almond extract",
-          "Not in database: Ornamental Cookie Frosting"
+          "Not in database: Ornamental Cookie Frosting",
+          "Not in database: dried currants"
         ],
         "assumptions": [
-          "Based on 6/10 ingredients (60% coverage)"
+          "Based on 7/10 ingredients (70% coverage)"
         ]
       }
     },
@@ -11618,12 +11497,10 @@
           "carbs_g": 16.4
         },
         "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground ginger",
-          "Not in database: salt"
+          "Not in database: Ornamental Cookie Frosting"
         ],
         "assumptions": [
-          "Based on 7/12 ingredients (58% coverage)"
+          "Based on 11/12 ingredients (92% coverage)"
         ]
       }
     },
@@ -11856,11 +11733,10 @@
         },
         "missing_inputs": [
           "Not in database: red-hot candies",
-          "Not in database: red food color",
-          "Not in database: water"
+          "Not in database: red food color"
         ],
         "assumptions": [
-          "Based on 4/7 ingredients (57% coverage)"
+          "Based on 5/7 ingredients (71% coverage)"
         ]
       }
     },
@@ -12160,17 +12036,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 332,
-          "fat_g": 17.5,
+          "calories": 327,
+          "fat_g": 16.5,
           "protein_g": 4.4,
-          "carbs_g": 40.8
+          "carbs_g": 41.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for milk",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for Broiled Coconut Topping",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 2 for Broiled Coconut Topping (standard quantity)",
           "Assumed 1 unit for whipped cream and fresh fruit"
         ]
       }
@@ -12764,11 +12640,9 @@
           "protein_g": 4.5,
           "carbs_g": 52.3
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -12888,19 +12762,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 168,
-          "fat_g": 3.2,
+          "calories": 158,
+          "fat_g": 2.1,
           "protein_g": 2.4,
           "carbs_g": 33.8
         },
         "missing_inputs": [
-          "Not in database: salt",
           "Not in database: chopped nuts"
         ],
         "assumptions": [
           "Assumed 1 unit for baking soda",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for shortening",
-          "Based on 9/11 ingredients (82% coverage)"
+          "Based on 10/11 ingredients (91% coverage)"
         ]
       }
     },
@@ -13133,14 +13007,14 @@
         "status": "partial",
         "per_serving": {
           "calories": 179,
-          "fat_g": 3.1,
-          "protein_g": 3.3,
-          "carbs_g": 34.8
+          "fat_g": 2.3,
+          "protein_g": 3.9,
+          "carbs_g": 35.8
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for buttermilk or sour milk",
+          "Inferred 1.0 for buttermilk or sour milk (standard quantity)",
           "Assumed 1 unit for shortening",
           "Based on 9/9 ingredients (100% coverage)"
         ]
@@ -13257,16 +13131,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 151,
-          "fat_g": 4.1,
-          "protein_g": 2.8,
-          "carbs_g": 26.1
+          "calories": 160,
+          "fat_g": 4.5,
+          "protein_g": 3.4,
+          "carbs_g": 27.1
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for buttermilk or sour milk",
-          "Assumed 1 unit for margarine or butter, or shortening",
+          "Inferred 1.0 for buttermilk or sour milk (standard quantity)",
+          "Inferred 2 for margarine or butter, or shortening (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
       }
@@ -13388,7 +13262,7 @@
         "assumptions": [
           "Assumed 1 unit for unsweetened cocoa powder",
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Assumed 1 unit for shortening",
           "Assumed 1 unit for vanilla"
         ]
@@ -13510,14 +13384,12 @@
           "protein_g": 3.7,
           "carbs_g": 36.8
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
+          "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for shortening",
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -13607,10 +13479,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 94,
-          "fat_g": 8.8,
-          "protein_g": 0.8,
-          "carbs_g": 3.4
+          "calories": 59,
+          "fat_g": 5.0,
+          "protein_g": 0.5,
+          "carbs_g": 3.1
         },
         "missing_inputs": [
           "Not in database: Fudge Cake",
@@ -14192,7 +14064,7 @@
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for milk",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
       }
@@ -14432,20 +14304,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 236,
-          "fat_g": 7.4,
+          "calories": 246,
+          "fat_g": 8.5,
           "protein_g": 9.2,
           "carbs_g": 33.0
         },
-        "missing_inputs": [
-          "Not in database: orange peel",
-          "Not in database: lemon peel",
-          "Not in database: cold water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for cooking oil",
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Assumed 1 unit for cold water",
           "Assumed 1 unit for cream of tartar",
-          "Based on 8/11 ingredients (73% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -14569,20 +14438,20 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 305,
-          "fat_g": 4.1,
-          "protein_g": 6.1,
-          "carbs_g": 61.7
+          "calories": 350,
+          "fat_g": 4.2,
+          "protein_g": 7.4,
+          "carbs_g": 71.2
         },
         "missing_inputs": [
           "Not in database: jelly or jam"
         ],
         "assumptions": [
-          "Assumed 1 unit for all-purpose flour",
+          "Inferred 2.0 for all-purpose flour (standard quantity)",
           "Assumed 1 unit for vanilla",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for powdered sugar"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1.0 for powdered sugar (standard quantity)"
         ]
       }
     },
@@ -14750,22 +14619,20 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 184,
-          "fat_g": 6.2,
+          "calories": 194,
+          "fat_g": 6.9,
           "protein_g": 3.2,
           "carbs_g": 30.8
         },
         "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground nutmeg",
-          "Not in database: ground allspice"
+          "Not in database: mixed candied fruits and peels or snipped mixed dried fruit"
         ],
         "assumptions": [
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for baking soda",
-          "Assumed 1 unit for raisins or snipped pitted dates",
-          "Assumed 1 unit for candied red or green cherries",
-          "Assumed 1 unit for pecans, walnuts, or toasted slivered almonds"
+          "Assumed 1 unit for ground nutmeg",
+          "Assumed 1 unit for ground allspice",
+          "Assumed 1 unit for ground cloves"
         ]
       }
     },
@@ -14859,17 +14726,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 221,
-          "fat_g": 14.3,
-          "protein_g": 5.1,
-          "carbs_g": 20.5
+          "calories": 235,
+          "fat_g": 15.3,
+          "protein_g": 5.5,
+          "carbs_g": 21.7
         },
-        "missing_inputs": [
-          "Not in database: orange peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Based on 5/6 ingredients (83% coverage)"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -15040,12 +14905,11 @@
           "protein_g": 1.5,
           "carbs_g": 25.1
         },
-        "missing_inputs": [
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1 unit for water",
           "Assumed 1 unit for cream of tartar",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -15130,11 +14994,10 @@
           "protein_g": 0.2,
           "carbs_g": 59.8
         },
-        "missing_inputs": [
-          "Not in database: lemon extract, orange extract, or almond extract"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Assumed 1 unit for lemon extract, orange extract, or almond extract",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -15289,14 +15152,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 271,
-          "fat_g": 3.9,
+          "calories": 283,
+          "fat_g": 5.2,
           "protein_g": 0.5,
           "carbs_g": 59.8
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Based on 4/4 ingredients (100% coverage)"
         ]
       }
@@ -15476,15 +15339,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 265,
-          "fat_g": 2.4,
+          "calories": 277,
+          "fat_g": 3.8,
           "protein_g": 1.0,
           "carbs_g": 61.0
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for butter or margarine",
-          "Assumed 1 unit for milk",
+          "Inferred 2 for butter or margarine (standard quantity)",
+          "Inferred 1.0 for milk (standard quantity)",
           "Based on 4/4 ingredients (100% coverage)"
         ]
       }
@@ -15566,16 +15429,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 263,
-          "fat_g": 3.2,
+          "calories": 260,
+          "fat_g": 2.8,
           "protein_g": 0.1,
           "carbs_g": 59.9
         },
         "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for unsweetened cocoa powder",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for boiling water",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 2 for boiling water (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -15652,15 +15515,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 204,
-          "fat_g": 8.1,
+          "calories": 217,
+          "fat_g": 9.5,
           "protein_g": 0.9,
           "carbs_g": 32.9
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for dairy sour cream",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for dairy sour cream (standard quantity)",
           "Based on 4/4 ingredients (100% coverage)"
         ]
       }
@@ -15741,11 +15604,9 @@
           "protein_g": 0.8,
           "carbs_g": 18.7
         },
-        "missing_inputs": [
-          "Not in database: hot water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -15940,16 +15801,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 178,
-          "fat_g": 10.8,
+          "calories": 186,
+          "fat_g": 11.6,
           "protein_g": 2.8,
           "carbs_g": 19.4
         },
         "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for evaporated milk",
-          "Assumed 1 unit for sugar",
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 1.0 for evaporated milk (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for pecans",
           "Based on 6/6 ingredients (100% coverage)"
         ]
@@ -16040,7 +15901,7 @@
           "Not in database: chopped nuts"
         ],
         "assumptions": [
-          "Assumed 1 unit for packed brown sugar",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Assumed 1 unit for flaked coconut",
           "Based on 4/5 ingredients (80% coverage)"
         ]
@@ -16194,16 +16055,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 86,
+          "calories": 94,
           "fat_g": 0.5,
-          "protein_g": 1.0,
-          "carbs_g": 21.4
+          "protein_g": 1.1,
+          "carbs_g": 23.3
         },
-        "missing_inputs": [
-          "Not in database: cherry liqueur or orange liqueur"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 2/3 ingredients (67% coverage)"
+          "Based on 3/3 ingredients (100% coverage)"
         ]
       }
     },
@@ -16299,15 +16158,13 @@
           "calories": 929,
           "fat_g": 10.7,
           "protein_g": 12.0,
-          "carbs_g": 201.9
+          "carbs_g": 202.0
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: lemon peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Assumed 1 unit for water",
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -22509,19 +22366,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 222,
-          "fat_g": 0.1,
-          "protein_g": 0.5,
-          "carbs_g": 56.5
+          "calories": 326,
+          "fat_g": 0.3,
+          "protein_g": 1.1,
+          "carbs_g": 84.5
         },
-        "missing_inputs": [
-          "Not in database: stick cinnamon",
-          "Not in database: medium pears"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for sweet white wine or orange juice",
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -22703,13 +22557,12 @@
           "protein_g": 5.7,
           "carbs_g": 80.0
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1 unit for ground cinnamon",
+          "Assumed 1 unit for ground nutmeg",
           "Assumed 1 unit for shortening",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -22801,19 +22654,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 253,
+          "calories": 258,
           "fat_g": 0.5,
-          "protein_g": 1.9,
-          "carbs_g": 66.8
+          "protein_g": 1.8,
+          "carbs_g": 67.5
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for raisins, snipped pitted whole dates, or mixed dried fruit bits",
+          "Assumed 1 unit for ground cinnamon",
+          "Assumed 1 unit for ground nutmeg",
           "Assumed 1 unit for apple juice or water",
-          "Based on 4/6 ingredients (67% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -22923,20 +22775,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 398,
-          "fat_g": 7.7,
-          "protein_g": 5.7,
-          "carbs_g": 79.8
+          "calories": 534,
+          "fat_g": 12.2,
+          "protein_g": 8.7,
+          "carbs_g": 100.7
         },
-        "missing_inputs": [
-          "Not in database: ground nutmeg, ginger, or cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for regular rolled oats",
-          "Assumed 1 unit for packed brown sugar",
-          "Assumed 1 unit for all-purpose flour",
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for chopped nuts or coconut"
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Inferred 2.0 for all-purpose flour (standard quantity)",
+          "Assumed 1 unit for ground nutmeg, ginger, or cinnamon",
+          "Inferred 2 for margarine or butter (standard quantity)"
         ]
       }
     },
@@ -23040,12 +22890,12 @@
           "carbs_g": 49.6
         },
         "missing_inputs": [
-          "Not in database: Desired filling",
-          "Not in database: ground cinnamon"
+          "Not in database: Desired filling"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Based on 6/8 ingredients (75% coverage)"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Assumed 1 unit for ground cinnamon",
+          "Based on 7/8 ingredients (88% coverage)"
         ]
       }
     },
@@ -23126,18 +22976,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 146,
-          "fat_g": 0.0,
-          "protein_g": 0.2,
-          "carbs_g": 37.2
+          "calories": 200,
+          "fat_g": 2.6,
+          "protein_g": 1.1,
+          "carbs_g": 42.2
         },
-        "missing_inputs": [
-          "Not in database: brandy, cherry brandy, or kirsch"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Assumed 1 unit for brandy, cherry brandy, or kirsch",
           "Assumed 1 unit for vanilla ice cream",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -23220,19 +23069,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 342,
-          "fat_g": 3.1,
-          "protein_g": 1.3,
-          "carbs_g": 81.1
+          "calories": 448,
+          "fat_g": 9.7,
+          "protein_g": 2.5,
+          "carbs_g": 88.8
         },
-        "missing_inputs": [
-          "Not in database: light rum"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
-          "Assumed 1 unit for packed brown sugar",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Inferred 1.0 for packed brown sugar (standard quantity)",
+          "Assumed 1 unit for light rum",
           "Assumed 1 unit for vanilla ice cream",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -23342,21 +23190,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 351,
-          "fat_g": 9.0,
-          "protein_g": 3.5,
-          "carbs_g": 68.2
+          "calories": 380,
+          "fat_g": 9.2,
+          "protein_g": 4.3,
+          "carbs_g": 74.8
         },
-        "missing_inputs": [
-          "Not in database: medium oranges",
-          "Not in database: lemon or lime peel",
-          "Not in database: lemon or lime juice"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Assumed 1 unit for sugar or honey",
+          "Inferred 1.0 for sugar or honey (standard quantity)",
+          "Assumed 1 unit for lemon or lime peel",
+          "Assumed 1 unit for ground cinnamon, ginger, or nutmeg",
           "Assumed 1 unit for fruit-flavored yogurt",
-          "Assumed 1 unit for toasted coconut or toasted slivered almonds",
-          "Based on 6/10 ingredients (60% coverage)"
+          "Assumed 1 unit for toasted coconut or toasted slivered almonds"
         ]
       }
     },
@@ -23464,19 +23309,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 78,
+          "calories": 91,
           "fat_g": 0.1,
-          "protein_g": 0.7,
-          "carbs_g": 20.5
+          "protein_g": 0.8,
+          "carbs_g": 23.6
         },
         "missing_inputs": [
           "Not in database: mixed dried fruit",
-          "Not in database: water",
-          "Not in database: stick cinnamon"
+          "Not in database: quick-cooking tapioca",
+          "Not in database: currant jelly"
         ],
         "assumptions": [
           "Assumed 1 unit for raisins",
-          "Based on 3/9 ingredients (33% coverage)"
+          "Based on 6/9 ingredients (67% coverage)"
         ]
       }
     },
@@ -23575,21 +23420,20 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 164,
-          "fat_g": 1.9,
-          "protein_g": 0.3,
-          "carbs_g": 37.7
+          "calories": 202,
+          "fat_g": 3.8,
+          "protein_g": 0.5,
+          "carbs_g": 40.2
         },
         "missing_inputs": [
-          "Not in database: Dessert Crepes",
-          "Not in database: orange peel",
-          "Not in database: orange liqueur"
+          "Not in database: Dessert Crepes"
         ],
         "assumptions": [
-          "Assumed 1 unit for margarine or butter",
+          "Inferred 2 for margarine or butter (standard quantity)",
+          "Assumed 1 unit for orange peel",
           "Assumed 1 unit for orange juice",
-          "Assumed 1 unit for sugar",
-          "Based on 3/7 ingredients (43% coverage)"
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Assumed 1 unit for orange liqueur"
         ]
       }
     },
@@ -23684,11 +23528,9 @@
           "protein_g": 2.3,
           "carbs_g": 25.2
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -23806,18 +23648,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 406,
-          "fat_g": 33.1,
-          "protein_g": 6.9,
-          "carbs_g": 22.1
+          "calories": 322,
+          "fat_g": 23.9,
+          "protein_g": 6.3,
+          "carbs_g": 21.3
         },
-        "missing_inputs": [
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for whipped cream",
           "Assumed 1 unit for chocolate curls or grated chocolate",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -24020,10 +23860,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 213,
-          "fat_g": 14.2,
+          "calories": 145,
+          "fat_g": 5.1,
           "protein_g": 4.4,
-          "carbs_g": 17.8
+          "carbs_g": 20.8
         },
         "missing_inputs": [
           "Not in database: cake layer"
@@ -24161,17 +24001,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 230,
-          "fat_g": 9.6,
-          "protein_g": 17.3,
-          "carbs_g": 19.2
+          "calories": 144,
+          "fat_g": 6.2,
+          "protein_g": 2.8,
+          "carbs_g": 20.2
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: finely shredded lemon peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/12 ingredients (83% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -24276,10 +24113,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 326,
-          "fat_g": 13.3,
-          "protein_g": 6.0,
-          "carbs_g": 47.2
+          "calories": 274,
+          "fat_g": 7.6,
+          "protein_g": 5.7,
+          "carbs_g": 46.7
         },
         "missing_inputs": [],
         "assumptions": [
@@ -24396,8 +24233,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 252,
-          "fat_g": 8.3,
+          "calories": 229,
+          "fat_g": 5.7,
           "protein_g": 3.3,
           "carbs_g": 42.9
         },
@@ -24472,17 +24309,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 227,
-          "fat_g": 15.4,
-          "protein_g": 1.8,
-          "carbs_g": 23.0
+          "calories": 261,
+          "fat_g": 11.8,
+          "protein_g": 5.2,
+          "carbs_g": 35.3
         },
-        "missing_inputs": [
-          "Not in database: dry Chinese noodles"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Estimated 4 servings based on total calories",
-          "Based on 2/3 ingredients (67% coverage)"
+          "Assumed 1.5 cup can for dry Chinese noodles",
+          "Estimated 6 servings based on total calories",
+          "Based on 3/3 ingredients (100% coverage)"
         ]
       }
     },
@@ -24576,12 +24412,9 @@
           "protein_g": 0.5,
           "carbs_g": 38.5
         },
-        "missing_inputs": [
-          "Not in database: cinnamon",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -24648,13 +24481,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 405,
-          "fat_g": 31.6,
-          "protein_g": 3.2,
-          "carbs_g": 29.5
+          "calories": 426,
+          "fat_g": 32.8,
+          "protein_g": 4.3,
+          "carbs_g": 31.1
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.5 cups) for evaporated milk",
           "Estimated 8 servings based on total calories",
           "Based on 4/4 ingredients (100% coverage)"
         ]
@@ -24943,11 +24777,9 @@
           "protein_g": 8.6,
           "carbs_g": 24.6
         },
-        "missing_inputs": [
-          "Not in database: finely shredded lemon peel"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -25228,18 +25060,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 298,
-          "fat_g": 7.7,
-          "protein_g": 5.1,
-          "carbs_g": 56.6
+          "calories": 330,
+          "fat_g": 8.1,
+          "protein_g": 6.2,
+          "carbs_g": 62.3
         },
         "missing_inputs": [
-          "Not in database: white bread",
-          "Not in database: finely shredded orange peel",
           "Not in database: diced mixed candied fruits and peels"
         ],
         "assumptions": [
-          "Based on 10/17 ingredients (59% coverage)"
+          "Based on 16/17 ingredients (94% coverage)"
         ]
       }
     },
@@ -25447,19 +25277,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 206,
-          "fat_g": 11.2,
-          "protein_g": 4.2,
-          "carbs_g": 22.3
+          "calories": 164,
+          "fat_g": 6.6,
+          "protein_g": 3.9,
+          "carbs_g": 21.9
         },
-        "missing_inputs": [
-          "Not in database: water",
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for pudding, whipped cream, ice cream, sherbet, or fresh fruit",
-          "Assumed 1 unit for powdered sugar",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Inferred 1.0 for powdered sugar (standard quantity)",
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -25549,10 +25376,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 491,
-          "fat_g": 48.9,
-          "protein_g": 7.2,
-          "carbs_g": 8.0
+          "calories": 386,
+          "fat_g": 37.4,
+          "protein_g": 6.5,
+          "carbs_g": 7.0
         },
         "missing_inputs": [],
         "assumptions": [
@@ -25751,16 +25578,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 175,
+          "calories": 176,
           "fat_g": 6.8,
           "protein_g": 7.5,
-          "carbs_g": 21.5
+          "carbs_g": 22.0
         },
-        "missing_inputs": [
-          "Not in database: ground nutmeg or cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Assumed 1 unit for ground nutmeg or cinnamon",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -25854,17 +25680,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 199,
-          "fat_g": 6.1,
-          "protein_g": 7.1,
-          "carbs_g": 30.5
+          "calories": 238,
+          "fat_g": 6.6,
+          "protein_g": 8.6,
+          "carbs_g": 38.0
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: dry bread cubes"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -26043,11 +25866,9 @@
           "protein_g": 5.7,
           "carbs_g": 30.9
         },
-        "missing_inputs": [
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -26157,10 +25978,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 195,
-          "fat_g": 13.8,
-          "protein_g": 6.1,
-          "carbs_g": 13.1
+          "calories": 178,
+          "fat_g": 11.8,
+          "protein_g": 6.0,
+          "carbs_g": 12.9
         },
         "missing_inputs": [
           "Not in database: Stirred Custard",
@@ -26450,15 +26271,13 @@
           "calories": 604,
           "fat_g": 4.0,
           "protein_g": 7.0,
-          "carbs_g": 139.7
+          "carbs_g": 139.8
         },
         "missing_inputs": [
-          "Not in database: water",
-          "Not in database: finely shredded lemon peel",
           "Not in database: yellow food coloring"
         ],
         "assumptions": [
-          "Based on 4/7 ingredients (57% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -26535,16 +26354,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 215,
+          "calories": 218,
           "fat_g": 0.7,
           "protein_g": 1.7,
-          "carbs_g": 54.0
+          "carbs_g": 54.6
         },
-        "missing_inputs": [
-          "Not in database: orange liqueur"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -26746,11 +26563,9 @@
           "protein_g": 6.0,
           "carbs_g": 22.9
         },
-        "missing_inputs": [
-          "Not in database: instant coffee crystals"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -26973,17 +26788,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 905,
-          "fat_g": 14.1,
-          "protein_g": 2.8,
-          "carbs_g": 195.9
+          "calories": 910,
+          "fat_g": 14.2,
+          "protein_g": 2.9,
+          "carbs_g": 197.4
         },
         "missing_inputs": [
-          "Not in database: frozen loaf pound cake",
-          "Not in database: crushed peppermint candies, crushed toffee, or chopped nuts"
+          "Not in database: frozen loaf pound cake"
         ],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -27343,11 +27157,10 @@
         },
         "missing_inputs": [
           "Not in database: red-hot candies",
-          "Not in database: red food color",
-          "Not in database: water"
+          "Not in database: red food color"
         ],
         "assumptions": [
-          "Based on 4/7 ingredients (57% coverage)"
+          "Based on 5/7 ingredients (71% coverage)"
         ]
       }
     },
@@ -27436,17 +27249,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 23,
-          "fat_g": 0.2,
-          "protein_g": 0.4,
-          "carbs_g": 4.8
+          "calories": 55,
+          "fat_g": 3.6,
+          "protein_g": 0.8,
+          "carbs_g": 5.5
         },
         "missing_inputs": [
-          "Not in database: macadamia nuts",
           "Not in database: almond extract"
         ],
         "assumptions": [
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 4/5 ingredients (80% coverage)"
         ]
       }
     },
@@ -27558,15 +27370,12 @@
         "per_serving": {
           "calories": 18,
           "fat_g": 0.2,
-          "protein_g": 0.3,
+          "protein_g": 0.4,
           "carbs_g": 3.6
         },
-        "missing_inputs": [
-          "Not in database: salt",
-          "Not in database: poppy seeds"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -27662,17 +27471,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 19,
-          "fat_g": 0.2,
-          "protein_g": 0.4,
-          "carbs_g": 3.8
+          "calories": 39,
+          "fat_g": 2.1,
+          "protein_g": 0.9,
+          "carbs_g": 4.3
         },
-        "missing_inputs": [
-          "Not in database: filberts (hazelnuts)",
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/6 ingredients (67% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -27811,11 +27617,10 @@
         },
         "missing_inputs": [
           "Not in database: almond extract",
-          "Not in database: salt",
           "Not in database: container confetti decors"
         ],
         "assumptions": [
-          "Based on 6/9 ingredients (67% coverage)"
+          "Based on 7/9 ingredients (78% coverage)"
         ]
       }
     },
@@ -27954,11 +27759,10 @@
           "carbs_g": 25.2
         },
         "missing_inputs": [
-          "Not in database: salt",
           "Not in database: decorative candies"
         ],
         "assumptions": [
-          "Based on 9/11 ingredients (82% coverage)"
+          "Based on 10/11 ingredients (91% coverage)"
         ]
       }
     },
@@ -28114,19 +27918,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 89,
+          "calories": 90,
           "fat_g": 3.6,
           "protein_g": 2.6,
-          "carbs_g": 12.1
+          "carbs_g": 12.2
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground ginger",
-          "Not in database: ground cloves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for sliced blanched almonds",
-          "Based on 8/14 ingredients (57% coverage)"
+          "Assumed 1 unit for cinnamon red-hot candies",
+          "Based on 14/14 ingredients (100% coverage)"
         ]
       }
     },
@@ -28196,16 +27997,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 178,
+          "calories": 181,
           "fat_g": 0.5,
           "protein_g": 1.8,
-          "carbs_g": 44.9
+          "carbs_g": 45.9
         },
-        "missing_inputs": [
-          "Not in database: stick cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -28360,12 +28159,9 @@
           "protein_g": 6.3,
           "carbs_g": 92.3
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -28437,17 +28233,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 165,
+          "calories": 167,
           "fat_g": 0.4,
-          "protein_g": 1.0,
-          "carbs_g": 43.4
+          "protein_g": 0.9,
+          "carbs_g": 43.7
         },
-        "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: ground nutmeg"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/6 ingredients (67% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -28549,17 +28342,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 198,
-          "fat_g": 2.4,
-          "protein_g": 2.8,
-          "carbs_g": 43.8
+          "calories": 242,
+          "fat_g": 4.9,
+          "protein_g": 3.6,
+          "carbs_g": 48.9
         },
-        "missing_inputs": [
-          "Not in database: ground nutmeg, ginger, or cinnamon"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for vanilla ice cream or light cream",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -28656,11 +28447,10 @@
           "carbs_g": 24.6
         },
         "missing_inputs": [
-          "Not in database: desired filling",
-          "Not in database: ground cinnamon"
+          "Not in database: desired filling"
         ],
         "assumptions": [
-          "Based on 6/8 ingredients (75% coverage)"
+          "Based on 7/8 ingredients (88% coverage)"
         ]
       }
     },
@@ -28727,17 +28517,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 49,
-          "fat_g": 0.0,
-          "protein_g": 0.2,
-          "carbs_g": 12.2
+          "calories": 95,
+          "fat_g": 2.6,
+          "protein_g": 1.1,
+          "carbs_g": 17.2
         },
-        "missing_inputs": [
-          "Not in database: brandy, cherry brandy, or kirsch"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for vanilla ice cream",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -28803,17 +28591,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 219,
-          "fat_g": 1.1,
-          "protein_g": 1.3,
-          "carbs_g": 54.1
+          "calories": 288,
+          "fat_g": 4.8,
+          "protein_g": 2.5,
+          "carbs_g": 61.8
         },
-        "missing_inputs": [
-          "Not in database: light rum"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for vanilla ice cream",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -28906,20 +28692,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 230,
-          "fat_g": 9.0,
-          "protein_g": 3.5,
-          "carbs_g": 37.0
+          "calories": 257,
+          "fat_g": 9.2,
+          "protein_g": 4.4,
+          "carbs_g": 43.1
         },
-        "missing_inputs": [
-          "Not in database: medium oranges",
-          "Not in database: finely shredded lemon or lime peel",
-          "Not in database: lemon or lime juice"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for fruit-flavored yogurt",
           "Assumed 1 unit for toasted coconut or toasted slivered almonds",
-          "Based on 6/10 ingredients (60% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -29001,18 +28783,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 37,
+          "calories": 50,
           "fat_g": 0.0,
           "protein_g": 0.3,
-          "carbs_g": 9.7
+          "carbs_g": 12.8
         },
         "missing_inputs": [
           "Not in database: mixed dried fruit",
-          "Not in database: water",
-          "Not in database: stick cinnamon"
+          "Not in database: quick-cooking tapioca",
+          "Not in database: currant jelly"
         ],
         "assumptions": [
-          "Based on 3/9 ingredients (33% coverage)"
+          "Based on 6/9 ingredients (67% coverage)"
         ]
       }
     },
@@ -29100,18 +28882,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 41,
+          "calories": 46,
           "fat_g": 0.5,
           "protein_g": 0.1,
-          "carbs_g": 9.4
+          "carbs_g": 10.1
         },
         "missing_inputs": [
-          "Not in database: Dessert Crepes",
-          "Not in database: finely shredded orange peel",
-          "Not in database: orange liqueur"
+          "Not in database: Dessert Crepes"
         ],
         "assumptions": [
-          "Based on 3/7 ingredients (43% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -29193,11 +28973,10 @@
           "protein_g": 2.3,
           "carbs_g": 25.2
         },
-        "missing_inputs": [
-          "Not in database: salt"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Inferred 1 for salt (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -29301,18 +29080,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 487,
-          "fat_g": 37.8,
-          "protein_g": 7.9,
-          "carbs_g": 31.0
+          "calories": 403,
+          "fat_g": 28.6,
+          "protein_g": 7.3,
+          "carbs_g": 30.2
         },
-        "missing_inputs": [
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for whipped cream",
           "Assumed 1 unit for chocolate curls or grated chocolate",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -29481,10 +29258,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 213,
-          "fat_g": 14.2,
+          "calories": 145,
+          "fat_g": 5.1,
           "protein_g": 4.4,
-          "carbs_g": 17.8
+          "carbs_g": 20.8
         },
         "missing_inputs": [
           "Not in database: cake layer (any flavor)"
@@ -29604,18 +29381,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 230,
-          "fat_g": 9.6,
-          "protein_g": 17.3,
-          "carbs_g": 19.2
+          "calories": 144,
+          "fat_g": 6.2,
+          "protein_g": 2.8,
+          "carbs_g": 20.2
         },
         "missing_inputs": [
-          "Not in database: ground cinnamon",
-          "Not in database: finely shredded lemon peel",
           "Not in database: Fruit Sauce"
         ],
         "assumptions": [
-          "Based on 10/13 ingredients (77% coverage)"
+          "Based on 12/13 ingredients (92% coverage)"
         ]
       }
     },
@@ -29695,10 +29470,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 329,
-          "fat_g": 13.7,
-          "protein_g": 6.0,
-          "carbs_g": 47.2
+          "calories": 277,
+          "fat_g": 7.9,
+          "protein_g": 5.7,
+          "carbs_g": 46.7
         },
         "missing_inputs": [],
         "assumptions": [
@@ -29794,8 +29569,8 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 252,
-          "fat_g": 8.3,
+          "calories": 229,
+          "fat_g": 5.7,
           "protein_g": 3.3,
           "carbs_g": 42.9
         },
@@ -29875,12 +29650,9 @@
           "protein_g": 0.5,
           "carbs_g": 38.5
         },
-        "missing_inputs": [
-          "Not in database: cinnamon",
-          "Not in database: water"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -29938,13 +29710,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 405,
-          "fat_g": 31.6,
-          "protein_g": 3.2,
-          "carbs_g": 29.5
+          "calories": 426,
+          "fat_g": 32.8,
+          "protein_g": 4.3,
+          "carbs_g": 31.1
         },
         "missing_inputs": [],
         "assumptions": [
+          "Used standard can size (1.5 cups) for Pet milk (evaporated milk)",
           "Estimated 8 servings based on total calories",
           "Based on 4/4 ingredients (100% coverage)"
         ]
@@ -31834,19 +31607,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 97,
+          "calories": 134,
           "fat_g": 0.0,
-          "protein_g": 0.0,
-          "carbs_g": 25.0
+          "protein_g": 0.1,
+          "carbs_g": 34.4
         },
         "missing_inputs": [
-          "Not in database: Fruit-Pie Filling",
           "Not in database: Flavoring",
           "Not in database: Pastry for Double-Crust Pie"
         ],
         "assumptions": [
-          "Assumed 1 unit for sugar",
-          "Based on 1/4 ingredients (25% coverage)"
+          "Assumed 1 unit for Fruit-Pie Filling",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Based on 2/4 ingredients (50% coverage)"
         ]
       }
     },
@@ -31933,19 +31706,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 141,
+          "calories": 178,
           "fat_g": 0.2,
-          "protein_g": 0.8,
-          "carbs_g": 34.3
+          "protein_g": 0.9,
+          "carbs_g": 43.7
         },
         "missing_inputs": [
-          "Not in database: Fruit-Pie Filling",
           "Not in database: Flavoring",
           "Not in database: Pastry for Single-Crust Pie"
         ],
         "assumptions": [
-          "Assumed 1 unit for Powdered Sugar Icing",
-          "Based on 4/7 ingredients (57% coverage)"
+          "Assumed 1 unit for Fruit-Pie Filling",
+          "Inferred 1.0 for Powdered Sugar Icing (standard quantity)",
+          "Based on 5/7 ingredients (71% coverage)"
         ]
       }
     },
@@ -34774,7 +34547,20 @@
       },
       "image_refs": [
         "IMG_5162 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 125,
+          "fat_g": 4.7,
+          "protein_g": 3.2,
+          "carbs_g": 18.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "apricot-meringue-strips-bhg",
@@ -34890,7 +34676,22 @@
       },
       "image_refs": [
         "IMG_5162 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 255,
+          "fat_g": 9.2,
+          "protein_g": 5.8,
+          "carbs_g": 38.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for vanilla",
+          "Estimated 6 servings based on total calories",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "peanut-choco-nuggets-bhg",
@@ -34990,7 +34791,23 @@
       },
       "image_refs": [
         "IMG_5163 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 37,
+          "fat_g": 1.7,
+          "protein_g": 0.9,
+          "carbs_g": 5.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for cocoa",
+          "Assumed 1 unit for peanuts",
+          "Inferred 1.0 for confectioners' sugar (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "peanut-butter-candy-tops-bhg",
@@ -35094,7 +34911,20 @@
       },
       "image_refs": [
         "IMG_5163 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 40,
+          "fat_g": 0.9,
+          "protein_g": 0.4,
+          "carbs_g": 7.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "almond-lace-rolls-bhg",
@@ -35187,7 +35017,21 @@
       },
       "image_refs": [
         "IMG_5163 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 56,
+          "fat_g": 1.4,
+          "protein_g": 0.6,
+          "carbs_g": 10.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for confectioners' sugar (standard quantity)",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "filbert-cookie-rafts-bhg",
@@ -35272,7 +35116,25 @@
       },
       "image_refs": [
         "IMG_5164 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 45,
+          "fat_g": 0.7,
+          "protein_g": 0.4,
+          "carbs_g": 9.2
+        },
+        "missing_inputs": [
+          "Not in database: filberts"
+        ],
+        "assumptions": [
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for butter or margarine (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
     },
     {
       "id": "poppy-seed-pinwheels-bhg",
@@ -35366,7 +35228,24 @@
       },
       "image_refs": [
         "IMG_5164 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 26,
+          "fat_g": 0.5,
+          "protein_g": 0.3,
+          "carbs_g": 5.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 2 for butter or margarine (standard quantity)",
+          "Assumed 1 unit for vanilla extract",
+          "Inferred 1 for salt (standard quantity)",
+          "Assumed 1 unit for poppy seeds"
+        ]
+      }
     },
     {
       "id": "frosted-snowmen-bhg",
@@ -35488,7 +35367,26 @@
       },
       "image_refs": [
         "IMG_5165 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 119,
+          "fat_g": 3.7,
+          "protein_g": 2.1,
+          "carbs_g": 19.7
+        },
+        "missing_inputs": [
+          "Not in database: decorations"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for shortening",
+          "Inferred 1 for salt (standard quantity)",
+          "Inferred 1.0 for confectioners' sugar (standard quantity)",
+          "Assumed 1 unit for cream of tartar",
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
+      }
     },
     {
       "id": "jolly-santas-bhg",
@@ -35598,7 +35496,27 @@
       },
       "image_refs": [
         "IMG_5165 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 48,
+          "fat_g": 0.8,
+          "protein_g": 0.9,
+          "carbs_g": 9.1
+        },
+        "missing_inputs": [
+          "Not in database: almond extract",
+          "Not in database: Ornamental Cookie Frosting",
+          "Not in database: dried currants"
+        ],
+        "assumptions": [
+          "Inferred 2 for butter (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Inferred 1 for salt (standard quantity)",
+          "Based on 7/10 ingredients (70% coverage)"
+        ]
+      }
     },
     {
       "id": "peanut-butter-fudge-bhg",
@@ -35674,7 +35592,21 @@
       },
       "image_refs": [
         "IMG_5167 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 119,
+          "fat_g": 3.6,
+          "protein_g": 1.8,
+          "carbs_g": 21.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 2 for creamy peanut butter (standard quantity)",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
+      }
     },
     {
       "id": "chocolate-marshmallow-fudge-bhg",
@@ -35757,7 +35689,22 @@
       },
       "image_refs": [
         "IMG_5167 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 112,
+          "fat_g": 3.3,
+          "protein_g": 0.9,
+          "carbs_g": 20.8
+        },
+        "missing_inputs": [
+          "Not in database: miniature marshmallows"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
     },
     {
       "id": "peanut-brittle-bhg",
@@ -35849,7 +35796,20 @@
       },
       "image_refs": [
         "IMG_5170 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 72,
+          "fat_g": 10,
+          "protein_g": 1,
+          "carbs_g": 7,
+          "cholesterol_mg": 37,
+          "sodium_mg": 3
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     },
     {
       "id": "poached-pears-bhg",
@@ -35911,6 +35871,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 181,
+          "fat_g": 0.5,
+          "protein_g": 1.8,
+          "carbs_g": 45.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -35987,6 +35960,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 407,
+          "fat_g": 2.5,
+          "protein_g": 6.3,
+          "carbs_g": 92.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36081,6 +36067,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 242,
+          "fat_g": 4.9,
+          "protein_g": 3.6,
+          "carbs_g": 48.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for vanilla ice cream or light cream (optional)",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36163,6 +36163,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 128,
+          "fat_g": 1.6,
+          "protein_g": 3.4,
+          "carbs_g": 24.6
+        },
+        "missing_inputs": [
+          "Not in database: desired filling (see below)"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
       }
     },
     {
@@ -36226,6 +36241,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 95,
+          "fat_g": 2.6,
+          "protein_g": 1.1,
+          "carbs_g": 17.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for vanilla ice cream",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36313,6 +36342,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 257,
+          "fat_g": 9.2,
+          "protein_g": 4.4,
+          "carbs_g": 43.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for fruit-flavored yogurt (optional)",
+          "Assumed 1 unit for toasted coconut or toasted slivered almonds (optional)",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36375,6 +36419,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 288,
+          "fat_g": 4.8,
+          "protein_g": 2.5,
+          "carbs_g": 61.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for vanilla ice cream",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36453,6 +36511,23 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 50,
+          "fat_g": 0.0,
+          "protein_g": 0.3,
+          "carbs_g": 12.8
+        },
+        "missing_inputs": [
+          "Not in database: 8-oz package (about 3/4 cup) mixed dried fruit",
+          "Not in database: quick-cooking tapioca",
+          "Not in database: currant jelly"
+        ],
+        "assumptions": [
+          "Based on 6/9 ingredients (67% coverage)"
+        ]
       }
     },
     {
@@ -36536,6 +36611,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 57,
+          "fat_g": 0.5,
+          "protein_g": 0.1,
+          "carbs_g": 12.9
+        },
+        "missing_inputs": [
+          "Not in database: Dessert Crepes (see recipe, page 72)"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -36609,6 +36699,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 124,
+          "fat_g": 1.9,
+          "protein_g": 2.3,
+          "carbs_g": 25.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1 for salt (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36704,6 +36808,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 321,
+          "fat_g": 23.7,
+          "protein_g": 6.3,
+          "carbs_g": 21.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for whipped cream (optional)",
+          "Assumed 1 unit for chocolate curls or grated chocolate (optional)",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36787,6 +36906,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 176,
+          "fat_g": 8.7,
+          "protein_g": 9.6,
+          "carbs_g": 14.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -36857,6 +36989,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 145,
+          "fat_g": 5.1,
+          "protein_g": 4.4,
+          "carbs_g": 20.8
+        },
+        "missing_inputs": [
+          "Not in database: 9-inch cake layer (any flavor)"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
       }
     },
     {
@@ -36964,6 +37111,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 144,
+          "fat_g": 6.2,
+          "protein_g": 2.8,
+          "carbs_g": 20.2
+        },
+        "missing_inputs": [
+          "Not in database: Fruit Sauce (see recipe, page 139) (optional)"
+        ],
+        "assumptions": [
+          "Based on 12/13 ingredients (92% coverage)"
+        ]
       }
     },
     {
@@ -37037,6 +37199,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 277,
+          "fat_g": 7.9,
+          "protein_g": 5.7,
+          "carbs_g": 46.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Whipped Cream (see recipe, page 140)",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37123,6 +37299,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 229,
+          "fat_g": 5.7,
+          "protein_g": 3.3,
+          "carbs_g": 42.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37199,6 +37388,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 231,
+          "fat_g": 7.4,
+          "protein_g": 8.6,
+          "carbs_g": 32.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37284,6 +37486,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 208,
+          "fat_g": 14.0,
+          "protein_g": 5.3,
+          "carbs_g": 16.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37414,6 +37629,22 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 338,
+          "fat_g": 8.7,
+          "protein_g": 6.8,
+          "carbs_g": 62.3
+        },
+        "missing_inputs": [
+          "Not in database: diced mixed candied fruits and peels",
+          "Not in database: Hard Sauce (see recipe, page 140)"
+        ],
+        "assumptions": [
+          "Based on 16/18 ingredients (89% coverage)"
+        ]
       }
     },
     {
@@ -37485,6 +37716,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 235,
+          "fat_g": 7.5,
+          "protein_g": 8.4,
+          "carbs_g": 34.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37550,6 +37794,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 166,
+          "fat_g": 6.9,
+          "protein_g": 3.9,
+          "carbs_g": 21.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for pudding, whipped cream, ice cream, sherbet, or fresh fruit",
+          "Inferred 1.0 for powdered sugar (optional) (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37612,6 +37871,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 406,
+          "fat_g": 38.5,
+          "protein_g": 6.8,
+          "carbs_g": 9.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for whipped cream (optional)",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37686,6 +37959,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 255,
+          "fat_g": 21.7,
+          "protein_g": 8.0,
+          "carbs_g": 8.7
+        },
+        "missing_inputs": [
+          "Not in database: Fruit Sauce (see recipe, page 139) or fresh fruit"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
       }
     },
     {
@@ -37752,6 +38040,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 176,
+          "fat_g": 6.8,
+          "protein_g": 7.5,
+          "carbs_g": 22.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for ground nutmeg or cinnamon (optional)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37812,6 +38114,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 178,
+          "fat_g": 4.9,
+          "protein_g": 5.5,
+          "carbs_g": 29.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -37872,6 +38187,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 683,
+          "fat_g": 63.7,
+          "protein_g": 9.3,
+          "carbs_g": 21.7
+        },
+        "missing_inputs": [
+          "Not in database: sponge cake or fresh fruit"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
       }
     },
     {
@@ -37956,6 +38286,23 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 103,
+          "fat_g": 7.8,
+          "protein_g": 2.0,
+          "carbs_g": 6.9
+        },
+        "missing_inputs": [
+          "Not in database: Stirred Custard (see recipe, left)",
+          "Not in database: strawberry preserves or currant jelly"
+        ],
+        "assumptions": [
+          "Inferred 1.0 for Hot-Milk Sponge Cake (see recipe, page 85) (standard quantity)",
+          "Based on 7/9 ingredients (78% coverage)"
+        ]
       }
     },
     {
@@ -38017,6 +38364,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 3041,
+          "fat_g": 264.0,
+          "protein_g": 15.0,
+          "carbs_g": 171.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -38081,6 +38441,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 2863,
+          "fat_g": 244.7,
+          "protein_g": 29.3,
+          "carbs_g": 152.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -38151,6 +38524,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 669,
+          "fat_g": 4.0,
+          "protein_g": 7.0,
+          "carbs_g": 156.5
+        },
+        "missing_inputs": [
+          "Not in database: yellow food coloring"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
       }
     },
     {
@@ -38211,6 +38599,20 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 255,
+          "fat_g": 0.8,
+          "protein_g": 2.4,
+          "carbs_g": 63.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for orange juice",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -38258,6 +38660,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 785,
+          "fat_g": 17.0,
+          "protein_g": 20.0,
+          "carbs_g": 146.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -38340,6 +38755,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 190,
+          "fat_g": 8.4,
+          "protein_g": 6.0,
+          "carbs_g": 22.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -38425,6 +38853,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 242,
+          "fat_g": 11.7,
+          "protein_g": 3.4,
+          "carbs_g": 32.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -38505,6 +38946,21 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 1006,
+          "fat_g": 22.6,
+          "protein_g": 4.5,
+          "carbs_g": 200.8
+        },
+        "missing_inputs": [
+          "Not in database: frozen loaf pound cake"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -38558,6 +39014,19 @@
       "confidence": {
         "overall": "high",
         "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 2489,
+          "fat_g": 220.8,
+          "protein_g": 29.3,
+          "carbs_g": 113.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     }
   ]

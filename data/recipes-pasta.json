@@ -321,7 +321,20 @@
       },
       "image_refs": [
         "IMG_5319 Large.jpeg"
-      ]
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 420,
+          "fat_g": 15,
+          "protein_g": 19,
+          "carbs_g": 51,
+          "cholesterol_mg": 819,
+          "sodium_mg": 39
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
     }
   ]
 }
