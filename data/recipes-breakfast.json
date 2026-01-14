@@ -1,0 +1,1179 @@
+{
+  "meta": {
+    "category": "breakfast",
+    "count": 12,
+    "parent_collection": "mommom"
+  },
+  "recipes": [
+    {
+      "id": "pecan-stuffed-french-toast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pecan Stuffed French Toast",
+      "category": "breakfast",
+      "attribution": "Ann Dodge, The Grand Victoria Inn, Thomasville, GA, by C. Kehoe",
+      "source_note": "Church cookbook",
+      "description": "Elegant stuffed French toast with cream cheese and pecans.",
+      "servings_yield": "About 8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "Few minutes per slice",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pecans",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "coarsely chopped"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "day-old unsliced French bread",
+          "quantity": "1",
+          "unit": "loaf",
+          "prep_note": ""
+        },
+        {
+          "item": "water or milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter flavored shortening",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        },
+        {
+          "item": "cinnamon and/or nutmeg",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Blend cream cheese, vanilla, nuts, and 1 tablespoon sugar. Slice bread almost through every other slice to form pocket."
+        },
+        {
+          "step": 2,
+          "text": "Spread with 1 tablespoon cream cheese mixture in each pocket."
+        },
+        {
+          "step": 3,
+          "text": "Mix eggs, water, and other tablespoon of sugar. Dip bread and let it soak in mixture for a few minutes."
+        },
+        {
+          "step": 4,
+          "text": "Fry on griddle or in pan with butter flavored shortening."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle with cinnamon or nutmeg. Serve with maple syrup or fruit sauce."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From The Grand Victoria Inn in Thomasville, Georgia"
+      ],
+      "tags": [
+        "breakfast",
+        "french toast",
+        "pecans",
+        "stuffed"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 82,
+          "fat_g": 6.2,
+          "protein_g": 2.9,
+          "carbs_g": 4.1
+        },
+        "missing_inputs": [
+          "Not in database: day-old unsliced French bread",
+          "Not in database: cinnamon and/or nutmeg"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for butter flavored shortening",
+          "Based on 7/9 ingredients (78% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "sausage-apple-pocket",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sausage-Apple Pocket",
+      "category": "breakfast",
+      "attribution": "Wendy Downey",
+      "source_note": "Church cookbook",
+      "description": "Turkey sausage and apple in a pita pocket with pancake syrup.",
+      "servings_yield": "1 serving",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "fresh mild turkey breakfast sausage links",
+          "quantity": "2",
+          "unit": "1 oz links",
+          "prep_note": "diagonally sliced"
+        },
+        {
+          "item": "small red or Golden Delicious apple",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "about 1/4 lb, cored, pared, and thinly sliced"
+        },
+        {
+          "item": "reduced-calorie pancake syrup",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "60 calories per oz"
+        },
+        {
+          "item": "small pita",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "or 1/2 pita (1 oz)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Spray skillet with nonstick cooking spray; add sausages and cook over medium heat, stirring occasionally, until browned, about 5 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Add apples and stir to combine; cover and cook until apples are tender and soft, about 3 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Stir in syrup and cook, stirring constantly, until thoroughly heated, about 1 minute."
+        },
+        {
+          "step": 4,
+          "text": "Open pita to form pocket. Fill pocket with apple sausage mixture."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "A lighter breakfast option with turkey sausage"
+      ],
+      "tags": [
+        "breakfast",
+        "sausage",
+        "apple",
+        "pita",
+        "healthy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 2495,
+          "fat_g": 200.3,
+          "protein_g": 120.5,
+          "carbs_g": 33.0
+        },
+        "missing_inputs": [
+          "Not in database: reduced-calorie pancake syrup",
+          "Not in database: small pita"
+        ],
+        "assumptions": [
+          "Based on 2/4 ingredients (50% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "pancakes-for-four",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pancakes for Four",
+      "category": "breakfast",
+      "attribution": "Ellen Martindale by Christopher Vergnand",
+      "source_note": "Church cookbook",
+      "description": "Classic buttermilk pancakes recipe sized for four people.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "+/-"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "rounded tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sift flour, sugar, salt, baking powder, and soda into a medium size bowl."
+        },
+        {
+          "step": 2,
+          "text": "Add buttermilk and eggs. Beat until smooth."
+        },
+        {
+          "step": 3,
+          "text": "Bake on a hot griddle to desired brownness."
+        },
+        {
+          "step": 4,
+          "text": "Must use oil or baking spray to prevent sticking."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Use oil or baking spray on griddle to prevent sticking"
+      ],
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "buttermilk"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 319,
+          "fat_g": 7.8,
+          "protein_g": 9.5,
+          "carbs_g": 51.3
+        },
+        "missing_inputs": [
+          "Not in database: salt"
+        ],
+        "assumptions": [
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "breakfast-pizza-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Breakfast Pizza",
+      "category": "breakfast",
+      "attribution": "Wendy Downey",
+      "source_note": "Church cookbook",
+      "description": "Hearty breakfast pizza with sausage, eggs, and hash browns.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "25-30 minutes",
+      "ingredients": [
+        {
+          "item": "ground pork",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "Cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Mozzarella cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "5",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "refrigerated crescent rolls",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen hash browns",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brown ground pork; drain."
+        },
+        {
+          "step": 2,
+          "text": "Form crust with rolls on an ungreased 12 inch pizza pan. Spoon pork over crust."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle with potatoes and mushrooms. Top with cheeses."
+        },
+        {
+          "step": 4,
+          "text": "Beat eggs and milk. Pour into crust. Sprinkle on Parmesan cheese."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 375\u00b0F for 25 to 30 minutes."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "12 inch pizza pan",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "pizza",
+        "sausage",
+        "eggs"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 325,
+          "fat_g": 25,
+          "protein_g": 15,
+          "carbs_g": 10,
+          "cholesterol_mg": 203,
+          "sodium_mg": 354
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "cheese-strata",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Strata",
+      "category": "breakfast",
+      "attribution": "",
+      "source_note": "Church cookbook",
+      "description": "Make-ahead breakfast casserole with bread and cheese.",
+      "servings_yield": "8-10 servings",
+      "prep_time": "20 minutes + overnight",
+      "cook_time": "",
+      "ingredients": [
+        {
+          "item": "stale bread",
+          "quantity": "8",
+          "unit": "slices",
+          "prep_note": "Arnolds or Pepperidge Farm"
+        },
+        {
+          "item": "sharp grated cheese",
+          "quantity": "1 1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut crusts from bread; butter both sides. Break up bread. Put in baking dish (9x12 inches), then add 1/2 the cheese."
+        },
+        {
+          "step": 2,
+          "text": "Reheat. To eggs, add milk, brown sugar, dry mustard, salt and Worcestershire."
+        },
+        {
+          "step": 3,
+          "text": "Recipe continues on next page."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "9x12 inch baking dish",
+      "notes": [
+        "Make ahead - refrigerate overnight before baking"
+      ],
+      "tags": [
+        "breakfast",
+        "casserole",
+        "cheese",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "partial recipe - continues on next page"
+        ]
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 260,
+          "fat_g": 14,
+          "protein_g": 15,
+          "carbs_g": 19,
+          "cholesterol_mg": 673,
+          "sodium_mg": 213
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "easy-cheesy-scrambled-eggs-microwave",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Easy Cheesy Scrambled Eggs (Microwave)",
+      "category": "breakfast",
+      "attribution": "Marsha Sayre",
+      "source_note": "Church cookbook",
+      "description": "Fluffy microwave scrambled eggs with bacon and cheese.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "8-10 minutes",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place bacon on microwave safe rack or paper plate. Cover with paper towel. Microwave 1 1/2 to 2 1/2 minutes, or till done. Drain, crumble, and set aside."
+        },
+        {
+          "step": 2,
+          "text": "In 1 quart casserole, combine green pepper, onion, and water. Cover and cook on HIGH 1 to 2 minutes, or until tender."
+        },
+        {
+          "step": 3,
+          "text": "Stir in beaten eggs and cheese. Cook, uncovered, on HIGH 3 1/2 to 6 minutes, or till eggs are almost set, pushing cooked portions to the center several times during cooking."
+        },
+        {
+          "step": 4,
+          "text": "Let stand till eggs are set. Sprinkle with crumbled bacon."
+        }
+      ],
+      "temperature": "Microwave HIGH",
+      "pan_size": "1 quart casserole",
+      "notes": [
+        "Push cooked portions to center during cooking for fluffy eggs"
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "microwave",
+        "cheese",
+        "bacon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 181,
+          "fat_g": 15,
+          "protein_g": 12,
+          "carbs_g": 2,
+          "cholesterol_mg": 417,
+          "sodium_mg": 575
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "cream-cheese-sausage-crescents",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cream Cheese and Sausage Stuffed Crescents",
+      "category": "breakfast",
+      "attribution": "Philadelphia Cream Cheese",
+      "source_note": "Philadelphia Cream Cheese packaging",
+      "description": "Savory crescent rolls stuffed with maple sausage and cream cheese.",
+      "servings_yield": "8 servings (2 crescents each)",
+      "prep_time": "15 minutes",
+      "cook_time": "14-16 minutes",
+      "total_time": "31 minutes",
+      "ingredients": [
+        {
+          "item": "maple breakfast pork sausage links",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "14 links, casings removed"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "8 oz., softened"
+        },
+        {
+          "item": "crushed red pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "refrigerated crescent dinner rolls",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": "8 oz. each"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 375\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Crumble sausage links into bite-size pieces; place in large skillet. Cook over medium heat 5 min. or until done, stirring frequently. Drain."
+        },
+        {
+          "step": 3,
+          "text": "Add sausage to cream cheese and crushed pepper in medium bowl; mix well."
+        },
+        {
+          "step": 4,
+          "text": "Separate each can of dough into 8 triangles. Spoon cream cheese mixture evenly onto short sides of dough triangles, adding about 2 Tbsp. cream cheese mixture to each triangle."
+        },
+        {
+          "step": 5,
+          "text": "Roll up, starting at short side of each triangle. Place, point sides down, on baking sheet."
+        },
+        {
+          "step": 6,
+          "text": "Bake 14 to 16 min. or until golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [
+        "Make Ahead: Fill crescent triangles with cream cheese mixture and place on baking sheet as directed; cover. Refrigerate up to 12 hours before baking."
+      ],
+      "tags": [
+        "breakfast",
+        "sausage",
+        "crescents",
+        "cream cheese",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 237,
+          "fat_g": 20.0,
+          "protein_g": 11.5,
+          "carbs_g": 0.9
+        },
+        "missing_inputs": [
+          "Not in database: crushed red pepper",
+          "Not in database: refrigerated crescent dinner rolls"
+        ],
+        "assumptions": [
+          "Based on 2/4 ingredients (50% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "granola",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Granola",
+      "category": "breakfast",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 274",
+      "description": "Choose your favorite nuts and fruits to make this crispy snack or cereal.",
+      "servings_yield": "6 cups (12 servings)",
+      "prep_time": "10 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "regular rolled oats",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "coconut",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "coarsely chopped almonds or peanuts",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sunflower nuts",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sesame seed",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "honey or maple-flavored syrup",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl stir together rolled oats, coconut, almonds or peanuts, sunflower nuts, and sesame seed. In another bowl combine honey or syrup and oil; stir into oat mixture. Spread evenly into a greased 15x10x1-inch baking pan."
+        },
+        {
+          "step": 2,
+          "text": "Bake in a 300\u00b0 oven for 30 to 35 minutes or till lightly browned, stirring after 20 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Remove from the oven and immediately turn out onto a large piece of foil. Cool, then break into clumps. Store in tightly covered jars or plastic bags at room temperature for up to 2 weeks."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "pan_size": "15x10x1-inch baking pan",
+      "notes": [
+        "Apple-Cinnamon Granola: Reduce rolled oats to 1 1/2 cups. Stir 1 teaspoon ground cinnamon into honey-oil mixture. Just before serving, stir in 1 cup coarsely chopped dried apple.",
+        "Raisin-Date Granola: After removing granola from the oven, stir in 1/3 cup raisins and 1/2 cup snipped pitted whole dates."
+      ],
+      "tags": [
+        "granola",
+        "breakfast",
+        "cereal",
+        "snack"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5435 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 227,
+          "fat_g": 14,
+          "protein_g": 4,
+          "carbs_g": 24,
+          "cholesterol_mg": 0,
+          "sodium_mg": 3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 274)"
+        ]
+      }
+    },
+    {
+      "id": "grits",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grits",
+      "category": "breakfast",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 274",
+      "description": "Southern-style grits, perfect for breakfast or as a side dish.",
+      "servings_yield": "2 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "6 minutes",
+      "total_time": "11 minutes",
+      "ingredients": [
+        {
+          "item": "water or chicken broth",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "quick-cooking grits",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan bring 2 cups water or chicken broth and 1/4 teaspoon salt to boiling. Slowly add 1/2 cup quick-cooking grits, stirring constantly."
+        },
+        {
+          "step": 2,
+          "text": "Cook and stir till boiling. Reduce heat; cook and stir for 5 to 6 minutes or till water is absorbed and mixture is thick. Serve with margarine, butter, or milk, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Cheesy Grits: Omit salt. Stir 1 cup shredded American or cheddar cheese and 1 tablespoon margarine or butter into hot grits till melted. Gradually stir about 1/2 cup of the hot grits into 1 beaten egg. Return all to the saucepan and stir to combine. Pour into a greased 1-quart casserole. Bake in a 325\u00b0 oven about 25 minutes or till nearly set. Let stand 5 minutes. Makes 4 servings."
+      ],
+      "tags": [
+        "grits",
+        "breakfast",
+        "southern",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5435 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 168,
+          "fat_g": 0,
+          "protein_g": 4,
+          "carbs_g": 32,
+          "cholesterol_mg": 0,
+          "sodium_mg": 268
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 274)"
+        ]
+      }
+    },
+    {
+      "id": "creamy-poached-eggs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Poached Eggs",
+      "category": "breakfast",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 143",
+      "description": "Poached eggs served on muffins with creamy cheese sauce",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "English muffins or bagels",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "split"
+        },
+        {
+          "item": "American cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "softened, cut up"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast muffins or bagels; keep warm."
+        },
+        {
+          "step": 2,
+          "text": "In a medium saucepan combine American cheese, cream cheese, milk, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 3,
+          "text": "Cook over low heat, stirring constantly, till cheese melts and mixture is smooth."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, poach eggs using water method."
+        },
+        {
+          "step": 5,
+          "text": "Place muffin halves on serving plate. Top each with a poached egg."
+        },
+        {
+          "step": 6,
+          "text": "Spoon cheese sauce over eggs. Serve immediately."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "poached eggs"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5304 Large.jpeg"
+      ]
+    },
+    {
+      "id": "poached-eggs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poached Eggs",
+      "category": "breakfast",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 144",
+      "description": "Basic technique for perfectly poached eggs",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "3-5 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Lightly grease a saucepan. If desired, add 1 tablespoon vinegar to 2 inches simmering water in the pan."
+        },
+        {
+          "step": 2,
+          "text": "Break one egg into a measuring cup. Carefully slide egg into simmering water, holding the lip of the cup as close to water as possible."
+        },
+        {
+          "step": 3,
+          "text": "Simmer eggs, uncovered, for 3 to 5 minutes or till the whites are completely set and yolks begin to thicken but are not hard."
+        },
+        {
+          "step": 4,
+          "text": "Remove eggs with a slotted spoon."
+        },
+        {
+          "step": 5,
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Vinegar helps eggs hold together better in the water",
+        "To dip the egg into cold water for a few seconds helps firm up the edges",
+        "For poacher-cup directions: Grease each cup of an egg poaching pan. Place pan insert over boiling water in the pan; reduce heat. Break an egg into a measuring cup. Carefully slide egg into the greased cup. Cover and cook for 4 to 6 minutes or till whites are completely set and yolks begin to thicken but are not hard."
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "technique",
+        "poached eggs",
+        "basics"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5305 Large.jpeg"
+      ]
+    },
+    {
+      "id": "eggs-benedict-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Eggs Benedict",
+      "category": "breakfast",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 144",
+      "description": "Classic brunch dish with Canadian bacon, poached eggs, and hollandaise sauce on English muffins",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "English muffins",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "split and toasted"
+        },
+        {
+          "item": "Canadian-style bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "poached"
+        },
+        {
+          "item": "Mock Hollandaise Sauce or Hollandaise Sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast English muffin halves."
+        },
+        {
+          "step": 2,
+          "text": "Broil Canadian-style bacon 3 to 4 inches from the heat for 2 to 3 minutes or till lightly brown, turning once."
+        },
+        {
+          "step": 3,
+          "text": "Place a bacon slice on each muffin half."
+        },
+        {
+          "step": 4,
+          "text": "Top each with a poached egg."
+        },
+        {
+          "step": 5,
+          "text": "Spoon Mock Hollandaise Sauce or Hollandaise Sauce over eggs."
+        }
+      ],
+      "temperature": "broil",
+      "pan_size": "",
+      "notes": [
+        "Eggs Florentine variation: Substitute fresh spinach leaves for the Canadian bacon",
+        "For Mock Hollandaise Sauce: place 2 egg yolks and 1 tablespoon lemon juice in a blender. Cover and blend till combined. With blender running, slowly add 1/2 cup melted butter in a steady stream."
+      ],
+      "tags": [
+        "breakfast",
+        "brunch",
+        "eggs",
+        "Canadian bacon",
+        "hollandaise",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5305 Large.jpeg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6156 @@
+{
+  "meta": {
+    "category": "sides",
+    "count": 63,
+    "parent_collection": "mommom"
+  },
+  "recipes": [
+    {
+      "id": "cornmeal-recipe-handwritten-unclear",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cornmeal Recipe [UNCLEAR]",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Vintage handwritten recipe card with stove illustration",
+      "description": "An old handwritten cornmeal recipe. Much of the text is faded and difficult to read.",
+      "servings_yield": "[UNCLEAR]",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "[UNCLEAR - possibly flour]",
+          "quantity": "2",
+          "unit": "cup",
+          "prep_note": "[GUESS 0.4]"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "[UNCLEAR]",
+          "unit": "tsp",
+          "prep_note": "[GUESS 0.5] - visible on card"
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "[UNCLEAR]",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "[GUESS 0.6] - possibly powdered milk"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "[GUESS 0.7]"
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "[GUESS 0.7]"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix dry ingredients [UNCLEAR]"
+        },
+        {
+          "step": 2,
+          "text": "[UNCLEAR] shortening until it looks like [UNCLEAR]"
+        },
+        {
+          "step": 3,
+          "text": "[UNCLEAR] cornmeal [UNCLEAR] well covered in [UNCLEAR]"
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Original card is badly faded and torn",
+        "Card header reads 'Here's what's cookin'' with vintage stove illustration",
+        "2026-01-07: Reviewed and corrected - shortening 1/2 cup (was 1 3/4), salt 1 tsp (was 1 tbsp), added baking powder"
+      ],
+      "tags": [
+        "cornmeal",
+        "vintage",
+        "handwritten"
+      ],
+      "confidence": {
+        "overall": "low",
+        "flags": [
+          {
+            "field": "ingredients",
+            "issue": "Most quantities and items are illegible",
+            "candidates": []
+          },
+          {
+            "field": "instructions",
+            "issue": "Steps are largely illegible",
+            "candidates": []
+          }
+        ]
+      },
+      "image_refs": [
+        "Moms Recipes - 1.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": [
+          "Most ingredients unclear"
+        ]
+      }
+    },
+    {
+      "id": "cucumber-pickles-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cucumber Pickles",
+      "category": "sides",
+      "attribution": "Karen Talbot",
+      "source_note": "Church cookbook",
+      "description": "Simple refrigerator pickles with a sweet and tangy brine.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "large cucumbers",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "skin on"
+        },
+        {
+          "item": "medium onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "sliced thin"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cover cucumbers and onions with water and let set for 2 hours."
+        },
+        {
+          "step": 2,
+          "text": "Drain and rinse."
+        },
+        {
+          "step": 3,
+          "text": "Bring sugar, vinegar, and pepper to a boil."
+        },
+        {
+          "step": 4,
+          "text": "Pour liquid over cucumbers and refrigerate. Add parsley flakes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "pickles",
+        "side",
+        "refrigerator",
+        "cucumber"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "refrigerator-pickles-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Refrigerator Pickles",
+      "category": "sides",
+      "attribution": "Marsha Sayre",
+      "source_note": "Church cookbook",
+      "description": "Easy no-cook refrigerator pickles with turmeric and celery seed.",
+      "servings_yield": "1/2 gallon",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "5 days",
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "sliced thin"
+        },
+        {
+          "item": "onion slices",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "turmeric",
+          "quantity": "1",
+          "unit": "scant tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "celery seed",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "mustard seed",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Alternate cucumbers and onions in glass jar or jars."
+        },
+        {
+          "step": 2,
+          "text": "Bring remaining ingredients to a boil."
+        },
+        {
+          "step": 3,
+          "text": "Pour over pickles. Put on lid; cool and refrigerate."
+        },
+        {
+          "step": 4,
+          "text": "Do not open for 5 days. Makes 1/2 gallon."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "pickles",
+        "side",
+        "refrigerator",
+        "no-cook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "karens-baked-beans",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Karen's Baked Beans",
+      "category": "sides",
+      "attribution": "Fay Doorneweerd",
+      "source_note": "Church cookbook",
+      "description": "Hearty baked beans with hamburger, bacon, and three kinds of beans.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "hamburger",
+          "quantity": "1 1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "cut slices in thirds"
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "catsup",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "mustard",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pork and beans",
+          "quantity": "2 or 3",
+          "unit": "cans",
+          "prep_note": ""
+        },
+        {
+          "item": "kidney beans",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": "drained"
+        },
+        {
+          "item": "green limas",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": "drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brown hamburger and bacon. Add onion and cook."
+        },
+        {
+          "step": 2,
+          "text": "Drain. Add all ingredients and bake, uncovered, at 350\u00b0F for 40 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "side",
+        "baked-beans",
+        "beans",
+        "beef",
+        "bacon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "broccoli-casserole-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broccoli Casserole",
+      "category": "sides",
+      "attribution": "Bonnie Lord",
+      "source_note": "Church cookbook",
+      "description": "Cheesy broccoli and rice casserole with mushrooms.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "35 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cooked rice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped frozen broccoli",
+          "quantity": "1",
+          "unit": "10 oz pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "oleo",
+          "quantity": "1/2",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "Cheddar cheese soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "crumbled onion rings",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook rice to make 1 cup. Cook broccoli and drain."
+        },
+        {
+          "step": 2,
+          "text": "In large skillet, put oleo. Saute the onion, but not brown."
+        },
+        {
+          "step": 3,
+          "text": "Put in the Cheddar cheese soup, the mushrooms, and juice."
+        },
+        {
+          "step": 4,
+          "text": "Blend in rice and broccoli."
+        },
+        {
+          "step": 5,
+          "text": "Pour mixture in buttered baking dish. Sprinkle top with crumbled onion rings."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 325\u00b0F for 35 minutes or until bubbly."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "baking dish",
+      "notes": [],
+      "tags": [
+        "side",
+        "casserole",
+        "broccoli",
+        "cheese",
+        "rice"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "french-salad-dressing",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Salad Dressing",
+      "category": "sides",
+      "attribution": "Karen Talbot",
+      "source_note": "Church cookbook",
+      "description": "Homemade French dressing - makes 1 cup.",
+      "servings_yield": "1 cup",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients and chill. Makes 1 cup of dressing."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "dressing",
+        "salad-dressing",
+        "french"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "russian-dressing",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Russian Dressing",
+      "category": "sides",
+      "attribution": "Cindy Baker, Karen Talbot",
+      "source_note": "Church cookbook",
+      "description": "Homemade Russian dressing with paprika and lemon juice.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "celery seed",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salad oil",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "catsup",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "grated onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all with beaters on high speed. Chill before serving."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "dressing",
+        "salad-dressing",
+        "russian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 56,
+          "fat_g": 5,
+          "protein_g": 0,
+          "carbs_g": 3,
+          "cholesterol_mg": 118,
+          "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "thousand-island-dressing-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Thousand Island Dressing",
+      "category": "sides",
+      "attribution": "Rosemary Weis",
+      "source_note": "Church cookbook",
+      "description": "Classic Thousand Island dressing with pickle relish and hard-boiled egg.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Miracle Whip salad dressing",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Heinz catsup",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sweet pickle relish",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "hard-boiled egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together. Cover and chill."
+        },
+        {
+          "step": 2,
+          "text": "Serve over salad greens."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "dressing",
+        "salad-dressing",
+        "thousand-island"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 74,
+          "fat_g": 8,
+          "protein_g": 0,
+          "carbs_g": 1,
+          "cholesterol_mg": 111,
+          "sodium_mg": 7
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "boston-baked-beans-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Boston Baked Beans",
+      "category": "sides",
+      "attribution": "Dene Deweerd",
+      "source_note": "Church cookbook",
+      "description": "Baked beans with ground beef, jalapenos, and bell pepper.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "45 minutes to 1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "pork 'n beans",
+          "quantity": "4",
+          "unit": "15 oz cans",
+          "prep_note": ""
+        },
+        {
+          "item": "jalapeno peppers",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped bell pepper",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ketchup",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brown and drain ground beef."
+        },
+        {
+          "step": 2,
+          "text": "Combine all ingredients and place in 9x13 inch pan."
+        },
+        {
+          "step": 3,
+          "text": "Cook at 350\u00b0F for 45 minutes to 1 hour, until juice is absorbed and bubbly."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x13 inch pan",
+      "notes": [],
+      "tags": [
+        "side",
+        "baked-beans",
+        "beef",
+        "spicy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "warm-winter-fruit-compote",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Warm Winter Fruit Compote",
+      "category": "sides",
+      "attribution": "Elaine Greene",
+      "source_note": "Church cookbook",
+      "description": "Warm fruit compote with orange sauce - serve with whipped cream.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange rind",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pineapple chunks",
+          "quantity": "1",
+          "unit": "11 oz can",
+          "prep_note": "well drained"
+        },
+        {
+          "item": "mandarin oranges",
+          "quantity": "1",
+          "unit": "11 oz can",
+          "prep_note": "well drained"
+        },
+        {
+          "item": "pear slices",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "peach slices",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "maraschino cherries",
+          "quantity": "10",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan, combine all ingredients, except the fruit."
+        },
+        {
+          "step": 2,
+          "text": "Cook over low heat, stirring constantly, until slightly thickened."
+        },
+        {
+          "step": 3,
+          "text": "Stir in fruit. Simmer just until fruit is warm."
+        },
+        {
+          "step": 4,
+          "text": "Serve warm with a dollop of whipped cream."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [],
+      "tags": [
+        "side",
+        "fruit",
+        "compote",
+        "dessert",
+        "winter"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "caesar-salad-dressing-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caesar Salad Dressing",
+      "category": "sides",
+      "attribution": "Karen Talbot",
+      "source_note": "Church cookbook",
+      "description": "Homemade Caesar dressing - makes 3/4 cup.",
+      "servings_yield": "3/4 cup",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "grated lemon peel",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "instant minced garlic",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "oregano",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients. Chill. Makes 3/4 cup dressing."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "dressing",
+        "salad-dressing",
+        "caesar"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "cranberry-apple-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry-Apple Casserole",
+      "category": "sides",
+      "attribution": "Carol Willison",
+      "source_note": "Church cookbook",
+      "description": "A warm fruit side dish with apples, cranberries, and oat topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "diced apples",
+          "quantity": "4 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh cranberries",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "oatmeal",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel and dice apples."
+        },
+        {
+          "step": 2,
+          "text": "Rinse cranberries."
+        },
+        {
+          "step": 3,
+          "text": "Mix apples, cranberries, and sugar in baking dish."
+        },
+        {
+          "step": 4,
+          "text": "In a separate bowl, mix oats, brown sugar, flour, nuts, and butter."
+        },
+        {
+          "step": 5,
+          "text": "Spread oat mix over apples."
+        },
+        {
+          "step": 6,
+          "text": "Bake 1 hour at 350\u00b0F."
+        },
+        {
+          "step": 7,
+          "text": "Serve warm or cold."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "baking dish",
+      "notes": [],
+      "tags": [
+        "side",
+        "fruit",
+        "cranberry",
+        "apple",
+        "casserole",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "squash-casserole-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Squash Casserole",
+      "category": "sides",
+      "attribution": "Florence Keller",
+      "source_note": "Church cookbook",
+      "description": "Creamy squash casserole with eggs and cheese topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "squash (yellow or zucchini)",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "oleo",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "condensed cream soup (chicken, celery, or mushroom)",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook squash and onion until tender. Drain and mash with butter."
+        },
+        {
+          "step": 2,
+          "text": "Fold in remaining ingredients."
+        },
+        {
+          "step": 3,
+          "text": "Place in buttered casserole and top with grated cheese and cracker crumbs."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 350\u00b0F for 30 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "casserole dish",
+      "notes": [],
+      "tags": [
+        "side",
+        "casserole",
+        "squash",
+        "vegetable"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "sweet-potato-casserole-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Potato Casserole",
+      "category": "sides",
+      "attribution": "Janice Jones",
+      "source_note": "Church cookbook",
+      "description": "Classic sweet potato casserole with pecan streusel topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sweet potatoes",
+          "quantity": "1",
+          "unit": "40 oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "3/4",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "butter",
+          "quantity": "1 1/4",
+          "unit": "sticks",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "pecans",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped, for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain and mash potatoes."
+        },
+        {
+          "step": 2,
+          "text": "Mix butter, eggs, milk, vanilla, and cinnamon; add potatoes."
+        },
+        {
+          "step": 3,
+          "text": "Mix well. Spread in lightly greased cake pan."
+        },
+        {
+          "step": 4,
+          "text": "Topping: Melt butter and sugar. Add flour and pecans. Spread on top of potatoes."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F for 45 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "cake pan",
+      "notes": [],
+      "tags": [
+        "side",
+        "casserole",
+        "sweet-potato",
+        "holiday",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "green-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Green Rice",
+      "category": "sides",
+      "attribution": "Evelyn Bell",
+      "source_note": "Church cookbook",
+      "description": "Cheesy broccoli rice casserole with mushroom soup and Cheez Whiz.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frozen chopped broccoli",
+          "quantity": "2",
+          "unit": "pkg",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "Cheez Whiz",
+          "quantity": "1",
+          "unit": "8 oz",
+          "prep_note": ""
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "water chestnuts",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "Minute rice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "uncooked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix together in baking dish."
+        },
+        {
+          "step": 2,
+          "text": "Cover; bake at 350\u00b0F for 1 hour."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "baking dish",
+      "notes": [],
+      "tags": [
+        "side",
+        "casserole",
+        "rice",
+        "broccoli",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "ole-spanish-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ole Spanish Rice",
+      "category": "sides",
+      "attribution": "Patty Jordan",
+      "source_note": "Church cookbook",
+      "description": "Easy baked Spanish rice with tomatoes and bay leaf.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "1 1/4 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "uncooked rice",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "28 oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "small bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix ingredients together."
+        },
+        {
+          "step": 2,
+          "text": "Pour into 2 quart casserole."
+        },
+        {
+          "step": 3,
+          "text": "Cover and bake 1 1/4 hours at 350\u00b0F. Stir occasionally."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "2 quart casserole",
+      "notes": [],
+      "tags": [
+        "side",
+        "rice",
+        "spanish-rice",
+        "casserole"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "wild-rice-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Rice Casserole",
+      "category": "sides",
+      "attribution": "Lorraine C. Buck",
+      "source_note": "Church cookbook",
+      "description": "Hearty wild rice and ground beef casserole with mushroom and chicken soups.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "1 1/2 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1 1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "Uncle Ben's long grain and wild rice",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "do not use seasoning packet"
+        },
+        {
+          "item": "diced celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "optional"
+        },
+        {
+          "item": "onion, diced",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of chicken soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "1",
+          "unit": "small can",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brown ground beef."
+        },
+        {
+          "step": 2,
+          "text": "Add remaining ingredients."
+        },
+        {
+          "step": 3,
+          "text": "Combine and pour in greased casserole dish."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 325\u00b0F for 1 1/2 hours."
+        },
+        {
+          "step": 5,
+          "text": "If desired, sprinkle with peanuts or cashews."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "casserole dish",
+      "notes": [],
+      "tags": [
+        "side",
+        "casserole",
+        "wild-rice",
+        "beef",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "missing_inputs": []
+      }
+    },
+    {
+      "id": "potatoes-deluxe",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Potatoes Deluxe",
+      "category": "sides",
+      "attribution": "Karen Hundley",
+      "source_note": "Church cookbook",
+      "description": "Cheesy hash brown casserole with sour cream.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "onion",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of chicken soup",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded Cheddar cheese",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": "melted"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "hash browns",
+          "quantity": "1",
+          "unit": "large bag",
+          "prep_note": "thawed 20 minutes"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix with large bag hash browns (thawed 20 minutes)."
+        },
+        {
+          "step": 2,
+          "text": "Spread into 9x13 inch pan."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle with bread crumbs."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 350\u00b0F (175\u00b0C) for 1 hour."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x13 inch",
+      "notes": [],
+      "tags": [
+        "potatoes",
+        "casserole",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 323,
+          "fat_g": 29.7,
+          "protein_g": 4.1,
+          "carbs_g": 9.6
+        },
+        "missing_inputs": [
+          "Not in database: salt and pepper",
+          "Not in database: hash browns"
+        ],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 5/7 ingredients (71% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "scalloped-potatoes-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scalloped Potatoes",
+      "category": "sides",
+      "attribution": "Celeste Cochran",
+      "source_note": "Church cookbook",
+      "description": "Classic layered potato casserole with cheese and pimento.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "55-60 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "white pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "diced pimento",
+          "quantity": "1",
+          "unit": "jar (2 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "potatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "peeled and sliced"
+        },
+        {
+          "item": "small onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "shredded Cheddar cheese",
+          "quantity": "2",
+          "unit": "cups (8 oz)",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt butter in heavy saucepan over low heat. Add flour, stirring until smooth."
+        },
+        {
+          "step": 2,
+          "text": "Cook 1 minute, stirring constantly. Gradually add milk; cook over medium heat, stirring constantly, until thick and bubbly."
+        },
+        {
+          "step": 3,
+          "text": "Stir in salt, pepper, and pimento."
+        },
+        {
+          "step": 4,
+          "text": "Spoon 1/4 cup white sauce into greased 9x13 inch dish."
+        },
+        {
+          "step": 5,
+          "text": "Top with potatoes, onions, cheese, and sauce in layers."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 350\u00b0F (175\u00b0C) for 55 to 60 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x13 inch",
+      "notes": [],
+      "tags": [
+        "potatoes",
+        "casserole",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 274,
+          "fat_g": 4.9,
+          "protein_g": 9.2,
+          "carbs_g": 49.8
+        },
+        "missing_inputs": [
+          "Not in database: salt",
+          "Not in database: white pepper",
+          "Not in database: diced pimento"
+        ],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 6/9 ingredients (67% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "stuffed-baked-potatoes-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Baked Potatoes",
+      "category": "sides",
+      "attribution": "Karen Hundley",
+      "source_note": "Church cookbook",
+      "description": "Twice-baked potatoes with yogurt and Parmesan.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "15-20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "large potatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "yogurt",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh chives",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bake potatoes; halve and scoop out insides."
+        },
+        {
+          "step": 2,
+          "text": "Mash well; gradually add yogurt."
+        },
+        {
+          "step": 3,
+          "text": "Season with salt, chives, and cayenne."
+        },
+        {
+          "step": 4,
+          "text": "Spoon mixture into potato shells; sprinkle with Parmesan, then paprika."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F (175\u00b0C) for 15 to 20 minutes (until heated through)."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "potatoes",
+        "healthy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 262,
+          "fat_g": 1.8,
+          "protein_g": 7.8,
+          "carbs_g": 55.2
+        },
+        "missing_inputs": [
+          "Not in database: salt",
+          "Not in database: fresh chives",
+          "Not in database: cayenne pepper"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for Parmesan cheese",
+          "Estimated 6 servings based on total calories",
+          "Based on 3/7 ingredients (43% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "florences-sweet-potato-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Florence's Sweet Potato Casserole",
+      "category": "sides",
+      "attribution": "Florence Keller",
+      "source_note": "Church cookbook",
+      "description": "Sweet potato casserole with pecan corn flake topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "canned sweet potatoes",
+          "quantity": "1",
+          "unit": "can (29 oz)",
+          "prep_note": "drained and mashed"
+        },
+        {
+          "item": "softened butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat all ingredients together in a large bowl."
+        },
+        {
+          "step": 2,
+          "text": "Put in buttered 2 1/2 quart casserole."
+        },
+        {
+          "step": 3,
+          "text": "Top with: 1/2 cup crushed pecans, 1/4 cup brown sugar, 6 tbsp soft butter, 3/4 cup crushed corn flakes."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 350\u00b0F (175\u00b0C) for 45 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "2 1/2 quart casserole",
+      "notes": [
+        "Topping: 1/2 cup crushed pecans, 1/4 cup brown sugar, 6 tbsp soft butter, 3/4 cup crushed corn flakes"
+      ],
+      "tags": [
+        "sweet potato",
+        "casserole",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 227,
+          "fat_g": 3.3,
+          "protein_g": 5.3,
+          "carbs_g": 45.2
+        },
+        "missing_inputs": [
+          "Not in database: salt"
+        ],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "fall-medley",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fall Medley",
+      "category": "sides",
+      "attribution": "Evelyn Hoeldtke",
+      "source_note": "Church cookbook",
+      "description": "Vegetable medley with pimento cheese.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "carrots",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "potatoes",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "cauliflower",
+          "quantity": "1",
+          "unit": "head",
+          "prep_note": ""
+        },
+        {
+          "item": "bulk pimento cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen peas",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Clean carrots; slice to bite-size. Place into boiling water in soup kettle. Keep boiling."
+        },
+        {
+          "step": 2,
+          "text": "Clean potatoes; slice to bite-size. Add to boiling mixture."
+        },
+        {
+          "step": 3,
+          "text": "Prepare cauliflower; cut to bite-size. Add to boiling mixture."
+        },
+        {
+          "step": 4,
+          "text": "Cut cheese into easy melting size. Add to boiling mixture."
+        },
+        {
+          "step": 5,
+          "text": "When vegetables are crunchy soft and cheese melted, add defrosted peas (do not cook)."
+        },
+        {
+          "step": 6,
+          "text": "Stir mixture and serve hot. Salt is optional."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "vegetables",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 183,
+          "fat_g": 8.0,
+          "protein_g": 6.7,
+          "carbs_g": 22.7
+        },
+        "missing_inputs": [
+          "Not in database: cauliflower"
+        ],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "corn-casserole-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Casserole",
+      "category": "sides",
+      "attribution": "Janice Jones",
+      "source_note": "Church cookbook",
+      "description": "Easy corn casserole with Jiffy corn bread mix.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "45 minutes to 1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "whole corn",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "drained"
+        },
+        {
+          "item": "creamed corn",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "Jiffy corn bread mix",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "beaten"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt butter in 9x9 inch dish."
+        },
+        {
+          "step": 2,
+          "text": "Mix whole corn, sour cream, and corn bread. Mix very well."
+        },
+        {
+          "step": 3,
+          "text": "Add creamed corn and eggs; mix well."
+        },
+        {
+          "step": 4,
+          "text": "Pour into dish. Bake at 375\u00b0F (190\u00b0C) for 45 minutes to 1 hour."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "9x9 inch",
+      "notes": [],
+      "tags": [
+        "corn",
+        "casserole"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 329,
+          "fat_g": 31.1,
+          "protein_g": 5.6,
+          "carbs_g": 9.3
+        },
+        "missing_inputs": [
+          "Not in database: salt and pepper"
+        ],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "corn-pudding-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Pudding",
+      "category": "sides",
+      "attribution": "Esther Starnes",
+      "source_note": "Church cookbook",
+      "description": "Southern-style corn pudding with Jiffy mix.",
+      "servings_yield": "6-10 servings",
+      "prep_time": "",
+      "cook_time": "35-40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cream corn",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded Cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Jiffy corn bread mix",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "onion powder",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix preceding ingredients all together."
+        },
+        {
+          "step": 2,
+          "text": "Pour into casserole baking dish."
+        },
+        {
+          "step": 3,
+          "text": "Bake at 350\u00b0F (175\u00b0C) for 35 to 40 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Serves 6 to 10. Serve as vegetable."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "corn",
+        "pudding",
+        "southern"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 228,
+          "fat_g": 19.2,
+          "protein_g": 5.6,
+          "carbs_g": 10.2
+        },
+        "missing_inputs": [
+          "Not in database: salt"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for onion powder",
+          "Based on 7/8 ingredients (88% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "gourmet-cheese-potatoes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Gourmet Cheese Potatoes",
+      "category": "sides",
+      "attribution": "Dianne Kraxberger",
+      "source_note": "Church cookbook",
+      "description": "Shredded potato casserole with Muenster cheese.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "",
+      "cook_time": "40-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "medium potatoes",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "about 1 1/2 lb"
+        },
+        {
+          "item": "shredded Muenster cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "melted margarine",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "minced onion",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil potatoes, unpeeled, for 10 minutes. Reduce heat to medium and cook for 20 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Drain and cool slightly. Peel and shred into bowl."
+        },
+        {
+          "step": 3,
+          "text": "Stir together cheese, sour cream, onion, melted butter, salt, and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Fold in potatoes. Pour mixture into a lightly greased 2 quart casserole."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle with paprika. Bake in 350\u00b0F (175\u00b0C) oven for 40 to 45 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Makes 6 to 8 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "2 quart casserole",
+      "notes": [],
+      "tags": [
+        "potatoes",
+        "cheese",
+        "casserole"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 470,
+          "fat_g": 11.5,
+          "protein_g": 12.3,
+          "carbs_g": 82.5
+        },
+        "missing_inputs": [
+          "Not in database: salt",
+          "Not in database: pepper",
+          "Not in database: paprika"
+        ],
+        "assumptions": [
+          "Based on 5/8 ingredients (62% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "carrot-casserole-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Carrot Casserole",
+      "category": "sides",
+      "attribution": "Karen Hundley",
+      "source_note": "Church cookbook",
+      "description": "Cheesy carrot casserole with Ritz cracker topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "grated carrots",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oleo",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "Velveeta",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "oleo",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "Ritz cracker crumbs",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook carrots until tender and drain."
+        },
+        {
+          "step": 2,
+          "text": "Mix: 1 stick oleo and 1/2 lb Velveeta."
+        },
+        {
+          "step": 3,
+          "text": "Melt together and pour over carrots."
+        },
+        {
+          "step": 4,
+          "text": "Top: Melt 1 stick oleo and mix with crumbs."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle over carrot/cheese mixture."
+        },
+        {
+          "step": 6,
+          "text": "Bake until hot through."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "carrots",
+        "casserole",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 72,
+          "fat_g": 0.3,
+          "protein_g": 1.4,
+          "carbs_g": 17.0
+        },
+        "missing_inputs": [
+          "Not in database: oleo",
+          "Not in database: Velveeta",
+          "Not in database: oleo"
+        ],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 3/7 ingredients (43% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "ethelyns-carrot-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ethelyn's Carrot Casserole",
+      "category": "sides",
+      "attribution": "Rosemary Weis",
+      "source_note": "Church cookbook",
+      "description": "Layered carrot casserole with stuffing and cheese.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "vegetable shortening",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "carrots",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of celery soup",
+          "quantity": "1",
+          "unit": "can (10 1/2 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "herb seasoned stuffing",
+          "quantity": "1",
+          "unit": "small bag",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter or margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sharp Cheddar cheese",
+          "quantity": "2",
+          "unit": "cups (8 oz)",
+          "prep_note": "shredded"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saute onions until tender. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "Peel carrots. Slice in 1/2 inch rounds. Cook until tender-crisp in small amount of water; drain."
+        },
+        {
+          "step": 3,
+          "text": "Combine with soup and sauteed onions. Toss stuffing with melted butter."
+        },
+        {
+          "step": 4,
+          "text": "In a greased 2 quart casserole, layer first the stuffing, then carrot mixture, then cheese."
+        },
+        {
+          "step": 5,
+          "text": "Repeat layers again; end with cheese on top."
+        },
+        {
+          "step": 6,
+          "text": "Bake, uncovered, at 350\u00b0F (175\u00b0C) for about 20 minutes, or until mixture is bubbly and cheese melted."
+        },
+        {
+          "step": 7,
+          "text": "Makes 6 to 8 servings, which even children love!"
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "2 quart casserole",
+      "notes": [
+        "Kids love this recipe!"
+      ],
+      "tags": [
+        "carrots",
+        "casserole",
+        "cheese",
+        "kid-friendly"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 99,
+          "fat_g": 6.0,
+          "protein_g": 3.5,
+          "carbs_g": 7.6
+        },
+        "missing_inputs": [
+          "Not in database: herb seasoned stuffing"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "corn-fritters-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Fritters",
+      "category": "sides",
+      "attribution": "Marge Shogren",
+      "source_note": "Church cookbook",
+      "description": "Quick and easy fried corn fritters.",
+      "servings_yield": "About 12 fritters",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "corn",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "cut off cob or use frozen"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "melted shortening",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut corn off cob - or use frozen corn. Add all other ingredients. Mix well."
+        },
+        {
+          "step": 2,
+          "text": "Drop by tablespoon onto greased, hot griddle or frying pan."
+        },
+        {
+          "step": 3,
+          "text": "Fry till browned on both sides."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can use fresh corn off the cob or frozen corn"
+      ],
+      "tags": [
+        "side",
+        "corn",
+        "fritters",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 50,
+          "fat_g": 2,
+          "protein_g": 2,
+          "carbs_g": 7,
+          "cholesterol_mg": 12,
+          "sodium_mg": 90
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 69)"
+        ]
+      }
+    },
+    {
+      "id": "mexican-nopales",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mexican Nopales",
+      "category": "sides",
+      "attribution": "Peter Ohan",
+      "source_note": "Church cookbook",
+      "description": "Traditional Mexican cactus paddle dish.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "20-30 minutes",
+      "ingredients": [
+        {
+          "item": "cactus leaves (nopales)",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "tender new leaves"
+        },
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "olive oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pick tender new leaves before 11 A.M. Remove spines with a knife, being careful not to take off the skin."
+        },
+        {
+          "step": 2,
+          "text": "Cut leaves into small cubes. Cube onion, garlic, and tomatoes."
+        },
+        {
+          "step": 3,
+          "text": "Saute all 4 in olive oil. Add chicken broth. Simmer until tender."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Pick cactus leaves early in the morning for best tenderness"
+      ],
+      "tags": [
+        "side",
+        "mexican",
+        "cactus",
+        "vegetable"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 250,
+          "fat_g": 14.1,
+          "protein_g": 22.9,
+          "carbs_g": 7.5
+        },
+        "missing_inputs": [
+          "Not in database: cactus leaves (nopales)"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for garlic",
+          "Assumed 1 unit for olive oil",
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "bisquick-dumplings",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bisquick Dumplings",
+      "category": "sides",
+      "attribution": "Bisquick box recipe",
+      "source_note": "Printed recipe from Bisquick baking mix box",
+      "description": "Simple drop dumplings to add to soups and stews.",
+      "servings_yield": "10-12 dumplings",
+      "prep_time": "5 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "Bisquick baking mix",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix ingredients until soft dough forms."
+        },
+        {
+          "step": 2,
+          "text": "Drop by spoonfuls onto boiling stew."
+        },
+        {
+          "step": 3,
+          "text": "Cook uncovered over low heat 10 minutes; cover and cook 10 more minutes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "HIGH ALTITUDE: No adjustments needed"
+      ],
+      "tags": [
+        "dumplings",
+        "bisquick",
+        "side dish",
+        "comfort food",
+        "stew"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 10,
+          "fat_g": 0.5,
+          "protein_g": 0.5,
+          "carbs_g": 0.8
+        },
+        "missing_inputs": [
+          "Not in database: Bisquick baking mix"
+        ],
+        "assumptions": [
+          "Based on 1/2 ingredients (50% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "spoon-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spoon Bread",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Newspaper/magazine clipping",
+      "description": "Soft, souffle-like Southern corn bread served with butter.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "plus 1 cup more"
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "egg whites",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "stiffly beaten"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir 2 cups milk into 1 cup cornmeal to the consistency of mush."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat; add 1 cup milk, 2 tablespoons butter, 1 teaspoon each baking powder and salt."
+        },
+        {
+          "step": 3,
+          "text": "Stir a moderate amount into egg yolks; return to mixture and fold in stiffly beaten egg whites."
+        },
+        {
+          "step": 4,
+          "text": "Pour into 2-quart casserole. Bake at 325\u00b0F (165\u00b0C)."
+        },
+        {
+          "step": 5,
+          "text": "Serve with butter."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "2-quart casserole",
+      "notes": [
+        "Bake time not specified in clipping - typically 45-60 minutes until set"
+      ],
+      "tags": [
+        "bread",
+        "corn",
+        "Southern",
+        "side dish"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Baking time and exact egg amounts not specified in clipping"
+        ]
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 150,
+          "fat_g": 5.3,
+          "protein_g": 6.3,
+          "carbs_g": 19.8
+        },
+        "missing_inputs": [
+          "Not in database: salt"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for egg yolks",
+          "Assumed 1 unit for egg whites",
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "strawberry-jam-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Strawberry Jam (Bread Machine)",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 45",
+      "description": "Quick homemade strawberry jam made in the bread machine.",
+      "servings_yield": "About 3 cups",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh strawberries",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered low-sugar fruit pectin",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients into bread pan."
+        },
+        {
+          "step": 2,
+          "text": "Select Basic setting. Press \"Start/Stop\"."
+        },
+        {
+          "step": 3,
+          "text": "Allow to mix 5-6 minutes, scraping sides of pan with rubber spatula."
+        },
+        {
+          "step": 4,
+          "text": "Press \"Start/Stop\" to cancel."
+        },
+        {
+          "step": 5,
+          "text": "Select Bake Setting. Press \"Start/Stop\"."
+        },
+        {
+          "step": 6,
+          "text": "When unit signals and display reads 0:00, press \"Start/Stop\"."
+        },
+        {
+          "step": 7,
+          "text": "Using hot pads, remove bread pan."
+        },
+        {
+          "step": 8,
+          "text": "Pour jam into containers; cover. Refrigerate to set."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Bake Setting \u2013 Not for Timer"
+      ],
+      "tags": [
+        "jam",
+        "strawberry",
+        "bread machine",
+        "preserves",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 290,
+          "fat_g": 0.2,
+          "protein_g": 0.3,
+          "carbs_g": 74.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "orange-marmalade-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Orange Marmalade (Bread Machine)",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 45",
+      "description": "Classic orange marmalade with lemon peel made in the bread machine.",
+      "servings_yield": "About 3 cups",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "large oranges",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1-1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered low-sugar fruit pectin",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "With a vegetable peeler, shave off the bright layer of peel from one orange and lemon; chop finely."
+        },
+        {
+          "step": 2,
+          "text": "Remove remaining white peel from orange and lemon, discard."
+        },
+        {
+          "step": 3,
+          "text": "Peel remaining oranges, discard peels. Slice fruit into 1/2-inch pieces."
+        },
+        {
+          "step": 4,
+          "text": "Combine chopped peels, fruit, sugar and pectin in bread pan."
+        },
+        {
+          "step": 5,
+          "text": "Select Basic setting. Press \"Start/Stop\"."
+        },
+        {
+          "step": 6,
+          "text": "Allow to mix 5-6 minutes, scraping sides of pan with rubber spatula."
+        },
+        {
+          "step": 7,
+          "text": "Press \"Start/Stop\" to cancel. Select Bake Setting. Press \"Start/Stop\"."
+        },
+        {
+          "step": 8,
+          "text": "When unit signals and display reads 0:00, press \"Start/Stop\"."
+        },
+        {
+          "step": 9,
+          "text": "Using hot pads, remove bread pan. Pour jam into containers; cover. Refrigerate to set."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Bake Setting \u2013 Not for Timer"
+      ],
+      "tags": [
+        "marmalade",
+        "orange",
+        "citrus",
+        "bread machine",
+        "preserves",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 290,
+          "fat_g": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 75.0
+        },
+        "missing_inputs": [
+          "Not in database: large oranges",
+          "Not in database: lemon"
+        ],
+        "assumptions": [
+          "Based on 2/4 ingredients (50% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "frozen-berry-jam-bread-machine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Frozen Berry Jam (Bread Machine)",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 45",
+      "description": "Easy jam using frozen berries - great for year-round jam making.",
+      "servings_yield": "About 3 cups",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frozen berries",
+          "quantity": "10-12",
+          "unit": "oz",
+          "prep_note": "1 package; strawberries and raspberries are ideal"
+        },
+        {
+          "item": "liquid fruit pectin",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "1 pouch"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine ingredients into bread pan."
+        },
+        {
+          "step": 2,
+          "text": "Select Basic setting. Press \"Start/Stop\"."
+        },
+        {
+          "step": 3,
+          "text": "Allow to mix 5-6 minutes, scraping sides of pan with rubber spatula."
+        },
+        {
+          "step": 4,
+          "text": "Press \"Start/Stop\" to cancel. Select Bake Setting. Press \"Start/Stop\"."
+        },
+        {
+          "step": 5,
+          "text": "When unit signals and display reads 0:00, press \"Start/Stop\"."
+        },
+        {
+          "step": 6,
+          "text": "Using hot pads, remove bread pan. Pour jam into containers; cover. Refrigerate to set."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Bake Setting \u2013 Not for Timer",
+        "Strawberries and raspberries are ideal for this recipe"
+      ],
+      "tags": [
+        "jam",
+        "frozen berries",
+        "berry",
+        "bread machine",
+        "preserves",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 258,
+          "fat_g": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 66.7
+        },
+        "missing_inputs": [
+          "Not in database: frozen berries",
+          "Not in database: liquid fruit pectin"
+        ],
+        "assumptions": [
+          "Based on 2/4 ingredients (50% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "garlic-butter-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Garlic Butter",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Simple garlic butter spread for bread.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        }
+      ],
+      "tags": [
+        "butter",
+        "spread",
+        "garlic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 6,
+          "fat_g": 0.7,
+          "protein_g": 0.0,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 2/2 ingredients (100% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "herb-cheese-butter",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herb-Cheese Butter",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Italian-style herb butter with Parmesan cheese.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "grated"
+        },
+        {
+          "item": "fresh parsley",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "dried oregano leaves",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        }
+      ],
+      "tags": [
+        "butter",
+        "spread",
+        "herb",
+        "Parmesan",
+        "Italian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 8,
+          "fat_g": 0.7,
+          "protein_g": 0.1,
+          "carbs_g": 0.3
+        },
+        "missing_inputs": [
+          "Not in database: fresh parsley",
+          "Not in database: dried oregano leaves"
+        ],
+        "assumptions": [
+          "Assumed 1 unit for garlic salt",
+          "Estimated 4 servings based on total calories",
+          "Based on 3/5 ingredients (60% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "italian-herb-butter",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Italian Herb Butter",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Quick Italian seasoned butter spread.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "Italian seasoning",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        }
+      ],
+      "tags": [
+        "butter",
+        "spread",
+        "Italian",
+        "herb"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 6,
+          "fat_g": 0.7,
+          "protein_g": 0.0,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [
+          "Not in database: Italian seasoning",
+          "Not in database: salt"
+        ],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 1/3 ingredients (33% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "ham-and-swiss-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ham and Swiss Spread",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Savory cream cheese spread with ham and Swiss cheese.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "1 package, softened"
+        },
+        {
+          "item": "fully cooked smoked ham",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "Swiss cheese",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        }
+      ],
+      "tags": [
+        "spread",
+        "cream cheese",
+        "ham",
+        "Swiss cheese",
+        "savory"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 31,
+          "fat_g": 1.9,
+          "protein_g": 3.4,
+          "carbs_g": 0.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "herb-cream-cheese-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herb-Cream Cheese Spread",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Light dill and garlic cream cheese spread.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "whipped cream cheese",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "1 container"
+        },
+        {
+          "item": "dill weed",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "chopped fresh, or 1/2 tsp dried"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "small clove",
+          "prep_note": "finely chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        }
+      ],
+      "tags": [
+        "spread",
+        "cream cheese",
+        "dill",
+        "garlic",
+        "herb"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 13,
+          "fat_g": 1.2,
+          "protein_g": 0.3,
+          "carbs_g": 0.4
+        },
+        "missing_inputs": [
+          "Not in database: dill weed"
+        ],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 2/3 ingredients (67% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "honey-walnut-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Honey-Walnut Spread",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Sweet cream cheese spread with honey and walnuts.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "1 package, softened"
+        },
+        {
+          "item": "walnuts",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        }
+      ],
+      "tags": [
+        "spread",
+        "cream cheese",
+        "honey",
+        "walnut",
+        "sweet"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 22,
+          "fat_g": 2.1,
+          "protein_g": 0.5,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "ripe-olive-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ripe Olive Spread (Tapenade)",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Mediterranean-style olive spread with capers and anchovies.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "pitted ripe olives",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "olive oil",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "capers",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "drained"
+        },
+        {
+          "item": "flat anchovy fillets",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "drained"
+        },
+        {
+          "item": "Italian seasoning",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cover and process all ingredients in food processor or blender until slightly coarse."
+        }
+      ],
+      "tags": [
+        "spread",
+        "olive",
+        "tapenade",
+        "Mediterranean",
+        "Italian",
+        "appetizer"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 8,
+          "fat_g": 0.6,
+          "protein_g": 0.1,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [
+          "Not in database: pitted ripe olives",
+          "Not in database: capers",
+          "Not in database: flat anchovy fillets"
+        ],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 2/6 ingredients (33% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "fruited-cream-cheese-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fruited Cream Cheese Spread",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Sweet cream cheese spread with fruit preserves.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "1 package, softened"
+        },
+        {
+          "item": "fruit preserves",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "your favourite"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat cream cheese and preserves on medium speed until fluffy."
+        }
+      ],
+      "tags": [
+        "spread",
+        "cream cheese",
+        "fruit",
+        "sweet",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 25,
+          "fat_g": 2.5,
+          "protein_g": 0.5,
+          "carbs_g": 0.2
+        },
+        "missing_inputs": [
+          "Not in database: fruit preserves"
+        ],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 1/2 ingredients (50% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "whipped-honey-orange-spread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Whipped Honey-Orange Spread",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Bread machine recipe book, page 46",
+      "description": "Light and fluffy honey butter with orange zest.",
+      "servings_yield": "",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange peel",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat all ingredients on medium speed until fluffy."
+        }
+      ],
+      "tags": [
+        "spread",
+        "butter",
+        "honey",
+        "orange",
+        "sweet",
+        "whipped"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 27,
+          "fat_g": 2.8,
+          "protein_g": 0.0,
+          "carbs_g": 0.5
+        },
+        "missing_inputs": [
+          "Not in database: orange peel"
+        ],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 2/3 ingredients (67% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "country-corn-bread-dressing",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Country Corn Bread Dressing",
+      "category": "sides",
+      "attribution": "Aunt Jemima",
+      "source_note": "Aunt Jemima corn bread mix package",
+      "description": "Traditional Southern-style corn bread dressing perfect for stuffing turkey or as a side dish.",
+      "servings_yield": "6 cups",
+      "prep_time": "",
+      "cook_time": "40-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "1 stick"
+        },
+        {
+          "item": "corn bread",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": "1 pan, cooled and crumbled"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "13-3/4",
+          "unit": "oz",
+          "prep_note": "one can"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "poultry seasoning",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground sage",
+          "quantity": "1 to 1-1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Saut\u00e9 celery and onion in margarine until tender."
+        },
+        {
+          "step": 3,
+          "text": "Combine celery mixture and remaining ingredients."
+        },
+        {
+          "step": 4,
+          "text": "Toss lightly until bread is thoroughly moistened."
+        },
+        {
+          "step": 5,
+          "text": "Place in 8-inch square baking dish or 1-1/2-quart casserole."
+        },
+        {
+          "step": 6,
+          "text": "Bake 40 to 45 minutes or until heated through."
+        },
+        {
+          "step": 7,
+          "text": "Alternatively, lightly stuff dressing into body and neck cavities of one 12-pound turkey; roast according to standard roasting directions."
+        }
+      ],
+      "temperature": "350\u00b0F (177\u00b0C)",
+      "pan_size": "8-inch square baking dish or 1-1/2-quart casserole",
+      "notes": [
+        "Dressing can also be prepared using 1/2 pan crumbled corn bread (about 3 cups) and 3 cups soft bread cubes",
+        "Can be used as stuffing for a 12-pound turkey"
+      ],
+      "tags": [
+        "dressing",
+        "stuffing",
+        "corn bread",
+        "Thanksgiving",
+        "holiday",
+        "Southern",
+        "side dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 369,
+          "fat_g": 15.2,
+          "protein_g": 29.7,
+          "carbs_g": 32.1
+        },
+        "missing_inputs": [
+          "Not in database: poultry seasoning",
+          "Not in database: ground sage",
+          "Not in database: salt"
+        ],
+        "assumptions": [
+          "Based on 6/10 ingredients (60% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "cranberry-salad-jello",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Salad",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Typed recipe",
+      "description": "Traditional cranberry gelatin salad with pineapple and nuts - a holiday classic.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Raspberry Jello",
+          "quantity": "1",
+          "unit": "small pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "unflavored gelatin",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "hot water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "celery",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4 to 1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "crushed pineapple",
+          "quantity": "6",
+          "unit": "oz can",
+          "prep_note": "reserve juice"
+        },
+        {
+          "item": "fresh cranberries",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "nuts",
+          "quantity": "1/2 to 1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Add juice of pineapple to the unflavored gelatin to dissolve."
+        },
+        {
+          "step": 2,
+          "text": "Dissolve Jello in hot water, add cold water."
+        },
+        {
+          "step": 3,
+          "text": "Grind cranberries in a food processor."
+        },
+        {
+          "step": 4,
+          "text": "Add sugar to cranberries, mix well."
+        },
+        {
+          "step": 5,
+          "text": "When Jello begins to thicken, fold in cranberry mix and remainder of ingredients."
+        },
+        {
+          "step": 6,
+          "text": "Pour into a large mold or serving dish."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large mold or serving dish",
+      "notes": [],
+      "tags": [
+        "cranberry",
+        "gelatin",
+        "Jello",
+        "salad",
+        "holiday",
+        "Thanksgiving",
+        "Christmas"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 197,
+          "fat_g": 0.2,
+          "protein_g": 2.3,
+          "carbs_g": 50.3
+        },
+        "missing_inputs": [
+          "Not in database: hot water",
+          "Not in database: cold water",
+          "Not in database: fresh cranberries"
+        ],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 5/9 ingredients (56% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "cranberry-orange-pecan-butter-roll",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Orange Pecan Butter Roll",
+      "category": "sides",
+      "attribution": "Walmart Holiday",
+      "source_note": "Walmart holiday entertaining recipe",
+      "description": "Festive compound butter with cranberries, orange zest, and pecans - perfect for holiday bread.",
+      "servings_yield": "8-10 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "total_time": "45 minutes (including 30 min freezing)",
+      "ingredients": [
+        {
+          "item": "Land O'Lakes Salted Butter",
+          "quantity": "2",
+          "unit": "sticks",
+          "prep_note": ""
+        },
+        {
+          "item": "dried cranberries",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "orange zest",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "toasted chopped pecans",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "wax paper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "12x12 inch piece"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Divide the dried cranberries and pecans in half. Place 1/4 cup of cranberries and 1/4 cup of pecans in a small bowl and set aside."
+        },
+        {
+          "step": 2,
+          "text": "Combine the butter, 1/4 cup cranberries, zest and 1/4 cup of pecans in a large mixing bowl."
+        },
+        {
+          "step": 3,
+          "text": "Place the butter mixture onto a 12\" x 12\" piece of wax paper."
+        },
+        {
+          "step": 4,
+          "text": "Fold the top of the wax paper over the butter mixture and press into a log shape."
+        },
+        {
+          "step": 5,
+          "text": "Place the butter log into the freezer for 30 minutes to harden."
+        },
+        {
+          "step": 6,
+          "text": "Remove the butter from the freezer and remove the wax paper."
+        },
+        {
+          "step": 7,
+          "text": "Roll the butter in the remaining mixture of cranberries and pecan until the outside is fully coated."
+        },
+        {
+          "step": 8,
+          "text": "Refrigerate until needed."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Great for holiday entertaining",
+        "Can be made ahead"
+      ],
+      "tags": [
+        "compound butter",
+        "cranberry",
+        "orange",
+        "pecan",
+        "holiday",
+        "Christmas",
+        "make-ahead"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 251,
+          "fat_g": 27.9,
+          "protein_g": 0.8,
+          "carbs_g": 0.9
+        },
+        "missing_inputs": [
+          "Not in database: dried cranberries",
+          "Not in database: orange zest",
+          "Not in database: wax paper"
+        ],
+        "assumptions": [
+          "Based on 2/5 ingredients (40% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "spaetzle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spaetzle",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 263",
+      "description": "Serve spaetzle (SHPETS-luh) with sauces or in soups as you would noodles. Or serve it with sauerbraten, the traditional German way.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fine dry bread crumbs",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan or Dutch oven bring about 3 quarts lightly salted water to boiling."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for spaetzle batter, in a bowl stir together flour and salt. In another bowl stir together egg and milk. Stir egg mixture into the flour mixture."
+        },
+        {
+          "step": 3,
+          "text": "Set a colander with large holes (at least 3/16-inch diameter) on a large piece of waxed paper."
+        },
+        {
+          "step": 4,
+          "text": "Pour the spaetzle batter into the colander. Immediately hold the colander over the pan of boiling water; press the batter through the colander with a wooden spoon to form the spaetzle. Cook about 5 minutes or till done, stirring occasionally. Drain well."
+        },
+        {
+          "step": 5,
+          "text": "Melt margarine or butter; toss with bread crumbs. Sprinkle crumb mixture over the hot spaetzle."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan or Dutch oven",
+      "notes": [
+        "Whole Wheat Spaetzle: Prepare as above, except reduce all-purpose flour to 1/2 cup and add 1/2 cup whole wheat flour.",
+        "Pesto Spaetzle: Prepare as above, except omit margarine and crumbs. Toss hot cooked spaetzle with 1 portion (about 1/4 cup) Pesto for Pasta (see recipe, page 269)."
+      ],
+      "tags": [
+        "spaetzle",
+        "german",
+        "noodles",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5424 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 228,
+          "fat_g": 7,
+          "protein_g": 8,
+          "carbs_g": 33,
+          "cholesterol_mg": 70,
+          "sodium_mg": 393
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 263)"
+        ]
+      }
+    },
+    {
+      "id": "homemade-pasta",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Pasta",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 266",
+      "description": "In recipes that call for packaged pasta, substitute half of this recipe for each 4 ounces of the packaged product.",
+      "servings_yield": "1 pound fresh pasta (8 servings)",
+      "prep_time": "45 minutes",
+      "cook_time": "varies",
+      "total_time": "varies",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "water",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil or olive oil",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large mixing bowl stir together 2 cups of the flour and the salt. Make a well in the center of the mixture. In a bowl combine eggs, water, and oil. Add to flour mixture; mix well."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle kneading surface with the remaining flour. Turn dough out onto floured surface. Knead till dough is smooth and elastic (8 to 10 minutes). Cover and let rest for 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Divide dough into fourths. On a lightly floured surface, roll each fourth into a 12x12-inch square (about 1/16 inch thick). Let stand 20 minutes. Cut as desired."
+        },
+        {
+          "step": 4,
+          "text": "Or, if using a pasta machine, pass dough through machine according to manufacturer's directions till 1/16 inch thick. Cut as desired."
+        },
+        {
+          "step": 5,
+          "text": "Cook pasta (see chart, page 278), allowing a few more minutes for dried or frozen pasta. Drain well."
+        },
+        {
+          "step": 6,
+          "text": "To store: After cutting and shaping the pasta, hang it from a pasta drying rack or clothes hanger, or spread it on a wire cooling rack. Let dry overnight or till completely dry. Place in an airtight container and refrigerate for up to 3 days. Or, dry the pasta for at least 1 hour. Seal it in a freezer bag or freezer container. Freeze for up to 8 months."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Whole Wheat Pasta: Prepare as above, except substitute whole wheat flour for the all-purpose flour.",
+        "Spinach Pasta: Prepare as above, except increase all-purpose flour to 2 3/4 cups, reduce water to 1/4 cup, and add 1/4 cup very finely chopped cooked spinach, well drained, to the egg mixture. Makes 1 1/4 pounds fresh pasta (10 servings).",
+        "Herb Pasta: Prepare as above, except add 1 teaspoon dried basil, marjoram, or sage, crushed, to flour mixture.",
+        "Egg Noodles: Prepare as above, except substitute 1 egg plus 2 egg yolks for the 2 eggs. Reduce flour to 1 3/4 cups in flour mixture and 1/4 cup for kneading. Cut dough into 1/4-inch-wide strips, then cut into 2- to 3-inch lengths."
+      ],
+      "tags": [
+        "pasta",
+        "homemade",
+        "from-scratch",
+        "noodles"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5427 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 145,
+          "fat_g": 3,
+          "protein_g": 6,
+          "carbs_g": 26,
+          "cholesterol_mg": 69,
+          "sodium_mg": 154
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 266)"
+        ]
+      }
+    },
+    {
+      "id": "herb-buttered-pasta",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herb-Buttered Pasta",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 267",
+      "description": "Simple herb-tossed pasta that makes a delicious side dish.",
+      "servings_yield": "4 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "packaged spaghetti, linguine, or fettuccine",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "dried basil, oregano, thyme, or marjoram, crushed; dried dillweed; or caraway seed",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook pasta (see chart, page 278). Drain well."
+        },
+        {
+          "step": 2,
+          "text": "Return to hot saucepan. Add margarine and desired herb. Toss gently till pasta is well coated."
+        },
+        {
+          "step": 3,
+          "text": "Season to taste with salt and pepper. Serves 4."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Lemon-Chive Pasta: Prepare as above, except omit herb and add 1/4 cup snipped chives and 1 teaspoon finely shredded lemon peel with margarine or butter.",
+        "Nutty Cheese Pasta: Prepare as above, except omit herb and add 1/2 cup chopped walnuts, pecans, or almonds and 2 tablespoons grated Parmesan or Romano cheese with margarine."
+      ],
+      "tags": [
+        "pasta",
+        "herb",
+        "side-dish",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5428 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 156,
+          "fat_g": 4,
+          "protein_g": 4,
+          "carbs_g": 26,
+          "cholesterol_mg": 11,
+          "sodium_mg": 25
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 267)"
+        ]
+      }
+    },
+    {
+      "id": "couscous-and-tomatoes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Couscous and Tomatoes",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 269",
+      "description": "Try quick-cooking rice in place of the couscous.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "canned stewed tomatoes",
+          "quantity": "14.5",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/8 to 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced pitted ripe olives",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "couscous",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan combine undrained stewed tomatoes, onion, pepper, garlic powder. Bring to boiling. Stir in couscous; remove from heat. Let stand 5 minutes. Stir in olives and parsley. Serves 4."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [],
+      "tags": [
+        "couscous",
+        "tomatoes",
+        "side-dish",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5430 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 116,
+          "fat_g": 1,
+          "protein_g": 4,
+          "carbs_g": 23,
+          "cholesterol_mg": 0,
+          "sodium_mg": 603
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 269)"
+        ]
+      }
+    },
+    {
+      "id": "rice-mold",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice Mold",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 272",
+      "description": "Plain or perked up, rice shaped into a mold turns an ordinary meal into special dinner.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "15-35 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "water or chicken broth",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "long grain rice or brown rice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan combine water or broth, rice, and salt. Bring to boiling; reduce heat. Cover and simmer about 15 minutes for long grain rice (35 minutes for brown rice) or till rice is tender and liquid is absorbed."
+        },
+        {
+          "step": 2,
+          "text": "Press hot rice into a buttered 3-cup mold or bowl. Unmold at once. Makes 4 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "saucepan, 3-cup mold",
+      "notes": [
+        "Parsley Rice Mold: Stir 1/4 cup snipped parsley into cooked rice.",
+        "Confetti Rice Mold: Stir in 1/2 cup frozen mixed vegetables and 1/4 teaspoon dried dillweed with the uncooked rice.",
+        "Peppery Rice Mold: Stir in one 4-ounce can diced green chili peppers, drained, and 1/8 teaspoon ground red pepper with the uncooked rice."
+      ],
+      "tags": [
+        "rice",
+        "mold",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5433 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 126,
+          "fat_g": 1,
+          "protein_g": 2,
+          "carbs_g": 26,
+          "cholesterol_mg": 10,
+          "sodium_mg": 3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 272)"
+        ]
+      }
+    },
+    {
+      "id": "risotto",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Risotto",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 272",
+      "description": "Parmesan flavors this creamy rice dish.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried sage, crushed",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan cook mushrooms, rice, and green pepper in margarine till green pepper is tender. Remove from heat."
+        },
+        {
+          "step": 2,
+          "text": "Stir in broth, water, sherry, sage, and 1/4 teaspoon pepper. Bring to boiling; reduce heat. Cover and simmer about 15 minutes or till tender."
+        },
+        {
+          "step": 3,
+          "text": "Remove from heat. Let stand, covered, for 5 minutes. Fluff with a fork. Sprinkle with Parmesan cheese. Serves 4."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "medium saucepan",
+      "notes": [],
+      "tags": [
+        "risotto",
+        "rice",
+        "italian",
+        "mushroom"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5433 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 214,
+          "fat_g": 5,
+          "protein_g": 5,
+          "carbs_g": 38,
+          "cholesterol_mg": 0,
+          "sodium_mg": 242
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 272)"
+        ]
+      }
+    },
+    {
+      "id": "spanish-rice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spanish Rice",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 272",
+      "description": "Classic tomato-flavored rice with peppers and onion.",
+      "servings_yield": "6 to 8 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic clove",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "canned tomatoes",
+          "quantity": "28",
+          "unit": "oz",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook onion, green pepper, and garlic in oil till tender but not brown."
+        },
+        {
+          "step": 2,
+          "text": "Stir in undrained tomatoes, rice, sugar, chili powder, 1/8 teaspoon pepper, several dashes hot pepper sauce, and 1 cup water. Bring to boiling; reduce heat. Cover and simmer for 20 to 25 minutes or till rice is tender and most of the liquid is absorbed. Sprinkle with shredded cheddar cheese, if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Mexican Rice: Omit onion, green pepper, garlic, and cooking oil. Substitute stewed tomatoes for canned tomatoes. Stir in one 4-ounce can diced green chili peppers, drained, and 1 tablespoon Worcestershire sauce."
+      ],
+      "tags": [
+        "spanish-rice",
+        "rice",
+        "tomato",
+        "mexican"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5433 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 184,
+          "fat_g": 5,
+          "protein_g": 4,
+          "carbs_g": 28,
+          "cholesterol_mg": 70,
+          "sodium_mg": 163
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 272)"
+        ]
+      }
+    },
+    {
+      "id": "rice-pilaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice Pilaf",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 273",
+      "description": "Add a nutty flavor to the rice by browning it lightly in margarine or butter before beginning the recipe.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped celery or green pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic clove",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "instant chicken or beef bouillon granules",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "bacon",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": "crisp-cooked and crumbled"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan cook onion, mushrooms, celery or green pepper, and garlic in margarine till tender but not brown."
+        },
+        {
+          "step": 2,
+          "text": "Stir in rice, bouillon granules, 1/4 teaspoon pepper, and 1 1/2 cups water. Bring to boiling; reduce heat. Cover and simmer about 15 minutes or till rice is tender and liquid is absorbed. Stir in crumbled bacon."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Curried Rice Pilaf: Omit mushrooms and add 1/4 to 1 teaspoon curry powder with onion. Stir in 1/2 cup raisins with rice.",
+        "Brown and Wild Rice Pilaf: Substitute 1/2 cup brown rice and 1/4 cup wild rice for the long grain rice. Cook rice mixture about 40 minutes.",
+        "Bulgur Pilaf: Substitute bulgur for the long grain rice."
+      ],
+      "tags": [
+        "rice",
+        "pilaf",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5434 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 187,
+          "fat_g": 0,
+          "protein_g": 4,
+          "carbs_g": 31,
+          "cholesterol_mg": 5,
+          "sodium_mg": 242
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 273)"
+        ]
+      }
+    },
+    {
+      "id": "baked-gnocchi",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Gnocchi",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 275",
+      "description": "Baking makes the Parmesan-flavored gnocchi (NYAH-kee) extra crisp.",
+      "servings_yield": "5 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "1 hour 45 minutes",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "quick-cooking farina",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan heat milk and margarine to boiling. Mix 1/3 cup milk, the farina, and salt. Slowly add farina mixture to boiling milk, stirring constantly. Cook and stir 3 to 4 minutes or till thick."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat; stir about 1/3 cup of the hot mixture into egg. Return all to the saucepan; stir in the 1/3 cup Parmesan cheese. Pour into a well-buttered 10x6x2-inch baking dish. Chill about 1 hour or till firm."
+        },
+        {
+          "step": 3,
+          "text": "Turn out of baking dish onto a cutting board. Cut into 3x1-inch rectangles. Sprinkle tops with the 1/4 cup Parmesan cheese. Place on a well-greased baking sheet. Bake in a 425\u00b0 oven about 25 minutes or till golden."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "10x6x2-inch baking dish",
+      "notes": [
+        "Spinach Gnocchi: Reduce milk to 1 1/4 cups. Cook one 10-ounce package frozen chopped spinach. Drain well. Stir spinach into hot farina mixture.",
+        "Boiled Gnocchi: Do not pour into baking dish. Cool slightly. Shape mixture into compact balls. Drop into gently boiling water. Cook about 4 minutes.",
+        "Herb-Garlic Gnocchi: Omit salt and stir in 1 teaspoon dried basil, oregano, or marjoram, crushed, and 1/2 teaspoon garlic salt with the farina."
+      ],
+      "tags": [
+        "gnocchi",
+        "italian",
+        "side-dish",
+        "baked"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5436 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 231,
+          "fat_g": 11,
+          "protein_g": 12,
+          "carbs_g": 20,
+          "cholesterol_mg": 72,
+          "sodium_mg": 447
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 275)"
+        ]
+      }
+    },
+    {
+      "id": "choose-a-grain-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Choose-a-Grain Casserole",
+      "category": "sides",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens New Cookbook, page 275",
+      "description": "Great with baked chicken or fish.",
+      "servings_yield": "5 or 6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "40 minutes",
+      "ingredients": [
+        {
+          "item": "chopped green or sweet red pepper",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic clove",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cooked rice, bulgur, wheat berries, or barley",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "soft-style cream cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan cook pepper, onion, celery, and garlic in margarine till tender."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, in a bowl combine cooked grain, cream cheese, salt, and pepper. Stir in onion mixture. Transfer to a 1-quart casserole."
+        },
+        {
+          "step": 3,
+          "text": "Bake, covered, in a 375\u00b0 oven for 25 minutes or till heated through. Sprinkle with cheese. Bake 2 to 3 minutes more or till cheese melts."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "1-quart casserole",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "grain",
+        "rice",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5436 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 226,
+          "fat_g": 7,
+          "protein_g": 6,
+          "carbs_g": 14,
+          "cholesterol_mg": 4,
+          "sodium_mg": 144
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "From Better Homes and Gardens cookbook nutrition analysis (p. 275)"
+        ]
+      }
+    },
+    {
+      "id": "old-fashioned-bread-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Old-Fashioned Bread Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 323",
+      "description": "Classic sage-seasoned bread stuffing for poultry.",
+      "servings_yield": "8 to 10 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "poultry seasoning or dried sage leaves",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth or water",
+          "quantity": "3/4 to 1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan cook celery and onion in margarine or butter till tender but not brown."
+        },
+        {
+          "step": 2,
+          "text": "Stir in poultry seasoning or sage, 1/4 teaspoon pepper, and 1/4 teaspoon salt."
+        },
+        {
+          "step": 3,
+          "text": "Place dry bread cubes in a bowl. Add onion mixture. Drizzle with enough broth or water to moisten, tossing lightly. Use to stuff one 8- to 10-pound turkey. Makes 8 to 10 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions available in original",
+        "Variations: Mushroom Stuffing, Giblet Stuffing, Oyster Stuffing, Chestnut Stuffing, Peanut or Raisin Stuffing, Herb and Onion Stuffing"
+      ],
+      "tags": [
+        "stuffing",
+        "bread",
+        "thanksgiving",
+        "poultry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5486 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "harvest-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Harvest Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 323",
+      "description": "Apple and walnut bread stuffing with wheat germ.",
+      "servings_yield": "8 to 10 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "shredded carrots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "finely chopped peeled apple",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "toasted wheat germ",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2 to 1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook carrots, celery, and onion in margarine or butter till tender. Stir in nutmeg, 1/4 teaspoon salt, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl combine bread cubes, apple, walnuts, and wheat germ. Add carrot mixture. Drizzle with enough broth to moisten, tossing lightly. Use to stuff one 8- to 10-pound turkey. Makes 8 to 10 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "stuffing",
+        "apple",
+        "walnut",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5486 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "corn-bread-bacon-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Bread and Bacon Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 324",
+      "description": "Southern-style stuffing with corn bread and bacon.",
+      "servings_yield": "8 to 10 servings",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "poultry seasoning",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "coarsely crumbled Corn Bread",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "see recipe, page 59"
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2 to 3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a skillet cook chopped bacon, celery, and onion over medium heat till bacon is crisp and vegetables are tender. Do not drain."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, in a bowl combine eggs, parsley, poultry seasoning, and pepper. Add Corn Bread and bread cubes; toss lightly till mixed. Add bacon mixture. Drizzle with enough of the broth to moisten, tossing lightly till mixed. Use to stuff one 8- to 10-pound turkey or domestic goose. Makes 8 to 10 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "stuffing",
+        "cornbread",
+        "bacon",
+        "thanksgiving",
+        "southern"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5487 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "wild-rice-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Rice Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 324",
+      "description": "Delicious nutty stuffing with wild rice, mushrooms, and almonds.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "wild rice",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown rice",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground sage or nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "toasted slivered almonds or pine nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse wild rice in a strainer under cold water about 1 minute. In a medium saucepan combine wild rice, brown rice, bouillon granules, sage or nutmeg, and 1 cup water. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 2,
+          "text": "Cover and simmer for 45 minutes. Add mushrooms, celery, and green onions. Cook, covered, over medium-low heat for 10 to 20 minutes more or till vegetables are just tender, stirring frequently. Stir in nuts, if desired. Use to stuff one 2 1/2- to 3-pound broiler-fryer chicken. (Or, add 1/4 cup water and transfer to a 1-quart casserole. Bake in a 375\u00b0 oven for 25 to 30 minutes.) Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "1-quart casserole",
+      "notes": [
+        "Apricot-Wild-Rice Stuffing variation available"
+      ],
+      "tags": [
+        "stuffing",
+        "wild-rice",
+        "mushrooms",
+        "thanksgiving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5487 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "bulgur-pilaf-stuffing-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bulgur Pilaf Stuffing",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 324",
+      "description": "Hearty stuffing with bulgur wheat and turkey sausage.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bulgur",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pork sausage or ground turkey sausage",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded carrot",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small saucepan bring broth and Worcestershire sauce to boiling. Add bulgur. Remove from heat. Cover and let stand for 15 minutes."
+        },
+        {
+          "step": 2,
+          "text": "In a medium skillet crumble sausage; add onion, celery, and carrot. Cook about 6 minutes or till sausage is no longer pink and vegetables are tender, stirring often to break up large pieces."
+        },
+        {
+          "step": 3,
+          "text": "Drain. Stir in bulgur mixture. Use to stuff one 2 1/2- to 3-pound broiler-fryer chicken. Serves 6."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions available"
+      ],
+      "tags": [
+        "stuffing",
+        "bulgur",
+        "sausage",
+        "healthy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5487 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "yorkshire-pudding-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Yorkshire Pudding",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 213",
+      "description": "Classic British accompaniment to roast beef",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "20-25 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "beef drippings from roast",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "After removing roast from oven, increase oven temperature to 450\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "In a bowl combine 4 eggs and 2 cups milk. Add 2 cups all-purpose flour. Beat with a rotary beater till smooth."
+        },
+        {
+          "step": 3,
+          "text": "Add 2 tablespoons beef drippings from roast pan to batter; stir."
+        },
+        {
+          "step": 4,
+          "text": "Pour batter into a 13x9x2-inch baking pan."
+        },
+        {
+          "step": 5,
+          "text": "Bake for 20 to 25 minutes or till puffy and golden. Season to taste."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "13x9x2-inch baking pan",
+      "notes": [
+        "Best served immediately while still puffy"
+      ],
+      "tags": [
+        "sides",
+        "British",
+        "beef accompaniment",
+        "pudding"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5373 Large.jpeg"
+      ]
+    },
+    {
+      "id": "oven-browned-potatoes-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oven-Browned Potatoes",
+      "category": "sides",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 213",
+      "description": "Roasted potatoes cooked alongside the roast",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "30-40 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "medium potatoes",
+          "quantity": "5",
+          "unit": "",
+          "prep_note": "peeled and quartered"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel and quarter 5 medium potatoes. Cook in boiling salted water for 10 minutes. Drain."
+        },
+        {
+          "step": 2,
+          "text": "About 30 to 40 minutes before roast is done (the roast temperature should be about 100\u00b0), add 1/2 cup water to pan. Arrange potatoes around roast, turning to coat."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "sides",
+        "potatoes",
+        "roasted",
+        "beef accompaniment"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5373 Large.jpeg"
+      ]
+    }
+  ]
+}

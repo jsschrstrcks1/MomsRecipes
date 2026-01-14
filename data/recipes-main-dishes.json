@@ -1,0 +1,1998 @@
+{
+  "meta": {
+    "category": "main-dishes",
+    "count": 19,
+    "parent_collection": "mommom"
+  },
+  "recipes": [
+    {
+      "id": "chicken-jambalaya-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Jambalaya",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 318",
+      "description": "A quick Cajun-style one-pot meal with chicken, rice, tomatoes, and vegetables.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "14.5",
+          "unit": "oz",
+          "prep_note": "one can, cut up"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil or thyme",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "1/4 to 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "cubed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook celery, onion, and green pepper in margarine or butter till vegetables are tender."
+        },
+        {
+          "step": 2,
+          "text": "Stir in the undrained tomatoes, chicken broth, rice, basil or thyme, garlic salt, pepper, hot pepper sauce, and bay leaf."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover and simmer about 20 minutes or till rice is tender."
+        },
+        {
+          "step": 4,
+          "text": "Stir in chicken; cook till heated through. Discard bay leaf. Makes 4 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "FAST recipe tag in cookbook"
+      ],
+      "tags": [
+        "chicken",
+        "cajun",
+        "rice",
+        "one-pot",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5481 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-cheese-crepes-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken-Cheese Crepes",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 318",
+      "description": "Elegant crepes filled with chicken, peas, carrots, and a creamy cheese sauce.",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Crepes",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": "see recipe, page 72"
+        },
+        {
+          "item": "frozen peas and carrots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded process Swiss, Gruyere, or American cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "several dashes"
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "2.5",
+          "unit": "oz",
+          "prep_note": "one jar, drained"
+        },
+        {
+          "item": "cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Crepes. Cook frozen peas and carrots according to package directions. Drain and season to taste with salt and pepper; set aside."
+        },
+        {
+          "step": 2,
+          "text": "For sauce, in a medium saucepan cook onion and green pepper in margarine till tender. Stir in flour. Add milk and broth all at once. Cook and stir till bubbly. Cook and stir 1 minute more. Stir in cheese; sherry, if desired; parsley; and hot pepper sauce. Remove 1 cup of the sauce; set aside."
+        },
+        {
+          "step": 3,
+          "text": "Drain mushrooms; stir into remaining sauce. For filling, combine cooked peas and carrots, the 1 cup sauce, and chicken or turkey. Spread 1/4 cup filling over the unbrowned side of each crepe, leaving a 1/4-inch rim around edge. Roll up crepes."
+        },
+        {
+          "step": 4,
+          "text": "Place, seam side down, in a 12x7 1/2x2-inch baking dish. Cover; bake in a 375\u00b0 oven for 15 to 18 minutes or till heated through. Reheat remaining sauce; drizzle some over crepes. Pass remaining sauce. Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "12x7 1/2x2-inch baking dish",
+      "notes": [
+        "Microwave directions available in original"
+      ],
+      "tags": [
+        "chicken",
+        "crepes",
+        "cheese",
+        "elegant"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5481 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-divan-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Divan",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 319",
+      "description": "Classic casserole with chicken and broccoli in a creamy cheese sauce, topped with Parmesan.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frozen chopped broccoli",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "light cream or milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded Swiss cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "grated Parmesan cheese",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook broccoli according to package directions; drain. Arrange in a 10x6x2-inch baking dish."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, for sauce, in a medium saucepan melt margarine or butter. Stir in flour, pepper, and nutmeg. Add cream or milk and chicken broth all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine, stirring till cheese melts."
+        },
+        {
+          "step": 3,
+          "text": "Pour half of the sauce over broccoli. Top with chicken or turkey, then the remaining sauce. Sprinkle with Parmesan cheese and paprika."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 350\u00b0 oven about 20 minutes or till heated through. Makes 4 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "10x6x2-inch baking dish",
+      "notes": [
+        "Microwave directions available in original"
+      ],
+      "tags": [
+        "chicken",
+        "broccoli",
+        "casserole",
+        "cheese"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5482 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-asparagus-stacks-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken-Asparagus Stacks",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 319",
+      "description": "English muffins topped with asparagus, chicken, and a creamy yogurt sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frozen asparagus or broccoli spears",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": "one package"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "condensed cream of chicken soup",
+          "quantity": "10.75",
+          "unit": "oz",
+          "prep_note": "one can"
+        },
+        {
+          "item": "plain yogurt",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "one carton"
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "toasted slivered almonds",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        },
+        {
+          "item": "English muffins",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "rusks or 4, split and toasted"
+        },
+        {
+          "item": "hard-cooked eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook asparagus or broccoli according to package directions. Drain; keep warm."
+        },
+        {
+          "step": 2,
+          "text": "In a saucepan cook onion in margarine till onion is tender. Stir in condensed soup and yogurt till smooth. Stir in chicken. Heat through. If desired, stir in almonds. Top rusks or muffin halves with the asparagus or broccoli, chicken mixture, and egg slices. Makes 4 servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "FAST recipe tag in cookbook",
+        "Microwave directions available"
+      ],
+      "tags": [
+        "chicken",
+        "asparagus",
+        "quick",
+        "english-muffin"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5482 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "chicken-submarines-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Submarines",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 319",
+      "description": "Hearty submarine sandwiches filled with chicken, avocado, and a creamy yogurt dressing.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "dairy sour cream, plain yogurt, mayonnaise, or salad dressing",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "avocado",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "small, halved, seed removed, peeled, and thinly sliced"
+        },
+        {
+          "item": "French rolls",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "individual, split"
+        },
+        {
+          "item": "cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "cheese",
+          "quantity": "1",
+          "unit": "slice",
+          "prep_note": "American, Swiss, cheddar, or Monterey Jack"
+        },
+        {
+          "item": "tomato",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "thin slices"
+        },
+        {
+          "item": "cucumber",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "thin slices"
+        },
+        {
+          "item": "alfalfa sprouts",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "if desired, top with"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl mix 1/2 cup dairy sour cream, plain yogurt, mayonnaise, or salad dressing; 2 teaspoons prepared mustard; 1/2 teaspoon dried basil, crushed; and 1/8 teaspoon garlic powder."
+        },
+        {
+          "step": 2,
+          "text": "Halve, seed, peel, and thinly slice 1 small avocado. If desired, brush avocado with lemon juice."
+        },
+        {
+          "step": 3,
+          "text": "Split 4 individual French rolls and scoop out some of the center of each half. Spread both halves of rolls with some of the yogurt mixture."
+        },
+        {
+          "step": 4,
+          "text": "On the bottom half of each roll, layer 1 leaf lettuce; 2 slices cooked chicken or turkey; 1 slice American, Swiss, cheddar, or Monterey Jack cheese; 3 thin slices tomato or 6 thin slices cucumber; and the avocado slices. If desired, top with alfalfa sprouts. Replace roll tops. Serves 4."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "chicken",
+        "sandwich",
+        "submarine",
+        "avocado"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5482 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "glazed-chicken-vegetables-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Glazed Chicken and Vegetables",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 320",
+      "description": "Roasted chicken with potatoes, carrots, and apples in a honey-mustard glaze.",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2.5 to 3",
+          "unit": "lb",
+          "prep_note": "one"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "medium potatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "peeled and quartered, or 6 new potatoes"
+        },
+        {
+          "item": "medium carrots",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "bias-sliced into 1/2-inch pieces"
+        },
+        {
+          "item": "honey",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "curry powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "crushed red pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "medium apples",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cored"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse chicken and pat dry. Skewer neck skin to back. Tie legs to tail. Twist wing tips under back. Place, breast side up, on a rack in a shallow roasting pan. Brush with oil. Roast chicken, uncovered, in a 375\u00b0 oven for 1 hour."
+        },
+        {
+          "step": 2,
+          "text": "Cook potatoes and carrots in boiling water for 20 to 25 minutes or till nearly tender. Drain."
+        },
+        {
+          "step": 3,
+          "text": "For glaze, in a saucepan combine honey, mustard, margarine, onion, curry powder, garlic salt, red pepper, and ginger. Bring to boiling, stirring constantly. Remove from heat; set aside."
+        },
+        {
+          "step": 4,
+          "text": "Discard fat in roasting pan. Cut apples into wedges. Arrange potatoes, carrots, and apples around chicken in the pan. Spoon glaze over poultry, vegetables, and apples. Roast for 15 to 20 minutes more or till chicken is no longer pink, the drumsticks move easily in their sockets, and the vegetables are tender. Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [
+        "Microwave directions available in original"
+      ],
+      "tags": [
+        "chicken",
+        "roast",
+        "vegetables",
+        "honey-mustard",
+        "one-pan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5483 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "roast-herb-chicken-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Herb Chicken",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 321",
+      "description": "Roasted chicken brushed with a tangy herb-lemon mixture.",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "1 to 1.5 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2.5 to 3",
+          "unit": "lb",
+          "prep_note": "one"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried tarragon, oregano, basil, thyme, savory, or sage",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "crushed; or 3 cloves garlic, minced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse chicken and pat dry. Skewer neck skin to back; tie legs to tail. Twist wings under back."
+        },
+        {
+          "step": 2,
+          "text": "Place, breast side up, on a rack in a shallow roasting pan. Melt margarine or butter; stir in lemon juice and a herb or garlic. Brush over chicken."
+        },
+        {
+          "step": 3,
+          "text": "Roast, uncovered, in a 375\u00b0 oven for 1 1/4 to 1 1/2 hours or till no longer pink and the drumsticks move easily in their sockets, brushing occasionally with drippings. Season to taste with salt and pepper. Makes 6 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [],
+      "tags": [
+        "chicken",
+        "roast",
+        "herb",
+        "lemon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5484 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "honey-spice-duckling-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Honey and Spice Duckling",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 321",
+      "description": "Roasted duck with a sweet and spicy Szechwan pepper glaze.",
+      "servings_yield": "3 or 4 servings",
+      "prep_time": "",
+      "cook_time": "1.75 to 2.25 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "domestic duckling",
+          "quantity": "3 to 5",
+          "unit": "lb",
+          "prep_note": "one"
+        },
+        {
+          "item": "Szechwan pepper",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "coarsely ground, or 1 teaspoon whole pepper, coarsely ground"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "five-spice powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse duck; pat dry. In a bowl combine pepper, salt, ginger, and five-spice powder. Sprinkle body cavity of duck with some of the salt mixture; rub remaining mixture on skin of duck. Skewer neck skin to back; tie legs to tail. Twist wing tips under back. Prick skin all over with a fork."
+        },
+        {
+          "step": 2,
+          "text": "Place duckling, breast side up, on a rack in a shallow roasting pan. Roast in a 375\u00b0 oven for 1 3/4 to 2 1/4 hours or till the drumsticks move easily in their sockets and duck is no longer pink, spooning off fat occasionally. Meanwhile, mix honey and soy sauce; baste duck with honey mixture once or twice during the last 10 minutes of roasting. Makes 3 or 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [],
+      "tags": [
+        "duck",
+        "duckling",
+        "asian",
+        "honey",
+        "five-spice"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5484 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "stuffed-cornish-game-hens-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Cornish Game Hens",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 321",
+      "description": "Elegant individual game hens stuffed with a savory bread stuffing and glazed with orange sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "3",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded carrot",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried savory",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "dry bread cubes",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Cornish game hens",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "1- to 1 1/2-pound"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dry red or white wine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook bacon till crisp. Remove bacon; drain and crumble. Cook carrot in drippings over medium heat till tender; remove from heat. Stir in bacon, parsley, savory, and pepper. Stir in bread cubes."
+        },
+        {
+          "step": 2,
+          "text": "Dissolve the 1/4 teaspoon bouillon granules in 2 tablespoons hot water. Drizzle over bread mixture, tossing lightly."
+        },
+        {
+          "step": 3,
+          "text": "Rinse hens; pat dry. Season cavities with salt. Lightly stuff hens with bread mixture. Pull neck skin, if present, to back of each hen. Twist wing tips under back, holding skin in place. Tie legs to tail."
+        },
+        {
+          "step": 4,
+          "text": "Place hens, breast side up, on a rack in a shallow roasting pan. Brush with oil; cover loosely with foil. Roast in a 375\u00b0 oven for 30 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Stir together wine, melted margarine or butter, and the 2 tablespoons orange juice; brush on hens. Roast hens, uncovered, about 1 hour more or till tender and no longer pink, brushing with wine mixture twice."
+        },
+        {
+          "step": 6,
+          "text": "For sauce, add additional orange juice to remaining wine mixture to make 3/4 cup. In a small saucepan combine cornstarch, brown sugar, and the 1/2 teaspoon bouillon granules. Stir in wine mixture. Cook and stir till thickened and bubbly. Cook and stir 2 minutes more. Serve sauce with hens. Makes 4 servings."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "shallow roasting pan",
+      "notes": [],
+      "tags": [
+        "cornish-hen",
+        "game-hen",
+        "stuffed",
+        "elegant",
+        "orange-sauce"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5484 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data"
+      }
+    },
+    {
+      "id": "dijon-sauced-fish-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dijon-Sauced Fish",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 168",
+      "description": "Quick and easy fish fillets with a creamy Dijon mustard sauce",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "fresh or frozen fish fillets",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "about 1/2 inch thick"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white wine or chicken broth",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "white pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh dill",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for garnish, optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Rinse fish; pat dry with paper towels. Cut fish into 4 serving-size portions. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "In a large skillet combine water, wine or broth, lemon juice, bouillon granules, and white pepper. Bring to boiling."
+        },
+        {
+          "step": 3,
+          "text": "Add fish to skillet. Return to boiling; reduce heat. Cover and simmer for 4 to 6 minutes or until fish flakes easily when tested with a fork. Using a slotted spatula, remove fish from skillet. Cover and keep warm."
+        },
+        {
+          "step": 4,
+          "text": "For sauce, stir together sour cream, flour, and mustard. Stir into liquid in skillet. Cook and stir until thickened and bubbly. Cook and stir for 1 minute more."
+        },
+        {
+          "step": 5,
+          "text": "Spoon sauce over fish. If desired, garnish with fresh dill."
+        }
+      ],
+      "notes": [
+        "This is marked as an EASY recipe"
+      ],
+      "tags": [
+        "fish",
+        "main-dish",
+        "quick",
+        "easy",
+        "sauced"
+      ],
+      "image_refs": [
+        "IMG_5330 Large 2.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "baked-fish-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Fish",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 171",
+      "description": "Simple oven-baked fish fillets or steaks with butter and seasoning",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "12 minutes",
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "ingredients": [
+        {
+          "item": "fresh or frozen fish fillets or steaks",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "1/2 to 1 inch thick"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Rinse fish; pat dry with paper towels. Cut fish into 4 serving-size portions, if necessary."
+        },
+        {
+          "step": 2,
+          "text": "Place fish in a greased shallow baking pan. Tuck under any thin edges. Brush fish with melted margarine or butter. Sprinkle with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Bake, uncovered, in a 450\u00b0 oven until fish flakes easily when tested with a fork. Allow 4 to 6 minutes per 1/2-inch thickness of fish."
+        }
+      ],
+      "notes": [
+        "Spicy Hot Baked Fish: Prepare as above, except omit margarine. Combine 1/4 cup margarine, melted; 1/4 cup lime juice; 1 tbsp Worcestershire sauce; 1 tsp chili powder; 1/2 tsp garlic powder; and several dashes bottled hot pepper sauce. Brush half of the sauce mixture on fish before baking. Pass remaining sauce.",
+        "Sesame-Coated Baked Fish: Prepare as above, except substitute 1/4 cup margarine, melted, for the 2 tbsp margarine. Combine 1/2 cup fine dry bread crumbs, 2 tbsp sesame seed, and 1/4 tsp paprika. Brush fish with margarine, then coat with crumb mixture."
+      ],
+      "tags": [
+        "fish",
+        "main-dish",
+        "baked",
+        "simple"
+      ],
+      "image_refs": [
+        "IMG_5333 Large 2.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "fast-fish-fix-ups-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fast Fish Fix-Ups",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 177",
+      "description": "Quick sauce ideas for frozen breaded fish portions",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "frozen breaded fish portions",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "or sticks"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For a delicious dinner in a hurry, put frozen breaded fish portions or sticks in the oven and fix up one of these sauces while they bake."
+        }
+      ],
+      "notes": [
+        "Dilly Sauce: In a saucepan melt 1 tablespoon margarine or butter. Stir in 1 tablespoon all-purpose flour and 1/4 tsp dried dillweed. Add 3/4 cup milk. Cook and stir till thickened and bubbly. Stir in one 2 1/2-oz jar sliced mushrooms, drained, and 1/4 cup shredded process Swiss cheese. Cook and stir till cheese melts.",
+        "Tex-Mex Sauce: Cook one 8-ounce can diced green chili peppers, one 4-ounce can diced tomato sauce, 1/2 tsp ground coriander, sugar, and 1/4 tsp hot pepper sauce. Cook till heated through.",
+        "Sweet-Sour Sauce: Cook one 10-ounce can pineapple sauce, one 8-ounce jar sweet-sour sauce, and half of a green or sweet red pepper, cut into strips, till heated through."
+      ],
+      "tags": [
+        "fish",
+        "quick",
+        "easy",
+        "sauces",
+        "main-dish"
+      ],
+      "image_refs": [
+        "IMG_5339 Large 2.jpeg"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Tip/suggestion format rather than full recipe"
+        ]
+      }
+    },
+    {
+      "id": "lobster-newburg-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lobster Newburg",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 184",
+      "description": "Rich and elegant lobster in cream and sherry sauce served in patty shells",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "cooked lobster",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "cut up, or two 5-oz cans, drained"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Dash red pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "light cream or milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg yolks",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "Madeira or dry sherry",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baked patty shells",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "parsley sprigs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan melt margarine or butter. Stir in flour and red pepper. Add cream all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."
+        },
+        {
+          "step": 2,
+          "text": "Stir about half of the hot mixture into egg yolks; return all to saucepan. Cook and stir till just bubbly. Stir in lobster and Madeira or sherry. Heat through."
+        },
+        {
+          "step": 3,
+          "text": "Spoon into patty shells. Garnish with parsley, if desired. Makes 4 servings."
+        }
+      ],
+      "notes": [
+        "Crab Newburg: Prepare as above, except substitute two 6-oz packages frozen crabmeat, thawed and drained, flaked, and cartilage removed, for the lobster.",
+        "Shrimp Newburg: Prepare as above, except substitute 8 oz frozen cooked, peeled, and deveined shrimp, thawed and halved, for the lobster."
+      ],
+      "tags": [
+        "lobster",
+        "shellfish",
+        "main-dish",
+        "elegant",
+        "newburg",
+        "cream-sauce"
+      ],
+      "image_refs": [
+        "IMG_5346 Large 2.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "boiled-lobster-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Boiled Lobster",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 184",
+      "description": "Simple boiled whole lobster with clarified butter",
+      "servings_yield": "2 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "live lobsters",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "1 1/4 to 1 1/2 pounds each"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "8",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "Clarified Butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a 12-quart Dutch oven bring 8 quarts water and 2 tsp salt to boiling. Use two 1 to 1 1/4-pound live lobsters. Grasp each lobster just behind the eyes; rinse lobsters under cold running water."
+        },
+        {
+          "step": 2,
+          "text": "Quickly plunge lobsters headfirst into the boiling water. Return to boiling; reduce heat. Cover and simmer for 20 minutes. Drain lobsters."
+        },
+        {
+          "step": 3,
+          "text": "Place each lobster on its back. With kitchen shears, cut the membrane on the tail to expose the tail meat. Cut through the underside from head to tail. Remove the black vein near the head and the small sac (found only in the head). Reserve any red roe or green tomalley."
+        },
+        {
+          "step": 4,
+          "text": "Remove the meat from claws. Twist the large claws with the body; remove meat using a nutcracker. Serve with Clarified Butter. Makes 2 servings."
+        }
+      ],
+      "notes": [
+        "Clarified Butter: Melt 3/4 cup butter over very low heat without stirring; cool slightly. Pour off clear top layer; discard milky bottom layer. Makes 1/2 cup."
+      ],
+      "tags": [
+        "lobster",
+        "shellfish",
+        "main-dish",
+        "boiled",
+        "simple"
+      ],
+      "image_refs": [
+        "IMG_5346 Large 2.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "corn-dogs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Dogs",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 237",
+      "description": "Classic fair-style corn-battered hot dogs on sticks",
+      "servings_yield": "8 to 10 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "frankfurters",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "8 to 10"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "yellow cornmeal",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pat frankfurters with a paper towel; set aside. Combine flour, cornmeal, sugar, baking powder, and dry mustard."
+        },
+        {
+          "step": 2,
+          "text": "Combine egg, milk, and the 2 tablespoons oil. Add to flour mixture. Corn mixture with a fork until smooth or until it coats a large skillet."
+        },
+        {
+          "step": 3,
+          "text": "Insert a wooden skewer into one end of each frankfurter. Cook at 375\u00b0F oil for 10 seconds. Dip frankfurters in batter. If batter is too thick to coat, add milk or water. If desired, sprinkle with corn meal and mustard. If desired, serve 8 to 10."
+        }
+      ],
+      "tags": [
+        "sausage",
+        "frankfurters",
+        "main-dish",
+        "fried",
+        "fair-food"
+      ],
+      "image_refs": [
+        "IMG_5397 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "creamed-bratwurst-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamed Bratwurst",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 237",
+      "description": "Bratwurst in creamy mushroom sauce over noodles",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fully cooked bratwurst",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "sliced into 1/2-inch pieces"
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "4 oz, drained"
+        },
+        {
+          "item": "beef broth",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "hot cooked noodles",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook onion and mustard in margarine till tender, sugar, and 1/4 teaspoon pepper. Simmer 5 minutes. Stir flour into sour cream mixture to thin."
+        },
+        {
+          "step": 2,
+          "text": "Add bratwurst mixture. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Serve over noodles. Sprinkle with parsley. Serves 4."
+        }
+      ],
+      "notes": [
+        "Marked as FAST recipe"
+      ],
+      "tags": [
+        "sausage",
+        "bratwurst",
+        "main-dish",
+        "cream-sauce",
+        "noodles"
+      ],
+      "image_refs": [
+        "IMG_5397 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "coney-islands-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Coney Islands",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 237",
+      "description": "Classic chili-topped hot dogs",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "8 oz"
+        },
+        {
+          "item": "red kidney beans",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "8 oz"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "frankfurter buns",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "split and toasted"
+        },
+        {
+          "item": "frankfurters",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook meat and 1/2 cup water. Return. For sauce, add tomato sauce. Bring to boiling; reduce heat. Stir in beef and tomatoes. Cook and stir till thickened and bubbly."
+        },
+        {
+          "step": 2,
+          "text": "Serve on frankfurters in buns, topping each with frankly chili. If desired, top with shredded cheddar cheese. Serves 6."
+        }
+      ],
+      "notes": [
+        "Marked as FAST recipe"
+      ],
+      "tags": [
+        "sausage",
+        "frankfurters",
+        "main-dish",
+        "chili",
+        "hot-dogs"
+      ],
+      "image_refs": [
+        "IMG_5397 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "bacon-onion-bratwursts-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bacon and Onion Bratwursts",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 238",
+      "description": "Grilled bratwurst with bacon, onion, and mustard",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "medium onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced and separated into strips"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "medium",
+          "prep_note": "cut into strips"
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fully cooked bratwursts or frankfurters",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "frankfurter buns",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "split and toasted"
+        },
+        {
+          "item": "Dijon-style mustard",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "additional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet cook bacon till crisp. Drain bacon, reserving 2 tablespoons drippings. Crumble bacon; set aside."
+        },
+        {
+          "step": 2,
+          "text": "In drippings cook onion and pepper until tender. Remove from heat. Stir in the 1 tablespoon mustard."
+        },
+        {
+          "step": 3,
+          "text": "Place bratwursts on buns. Top with onion mixture and crumbled bacon. Serve with additional mustard."
+        }
+      ],
+      "tags": [
+        "sausage",
+        "bratwurst",
+        "sandwiches",
+        "main-dish",
+        "grilled"
+      ],
+      "image_refs": [
+        "IMG_5398 Large 2.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "submarine-sandwich-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Submarine Sandwich",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 239",
+      "description": "Classic Italian cold cut sub sandwich",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "Italian bread or French loaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "16-oz loaf, halved"
+        },
+        {
+          "item": "Italian salad dressing",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "French-style rolls",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "split lengthwise"
+        },
+        {
+          "item": "lettuce",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "leaves"
+        },
+        {
+          "item": "thinly sliced salami",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced provolone cheese",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "thinly sliced Italian ham or cooked ham",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced Swiss cheese",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "mozzarella cheese",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "onion",
+          "quantity": "12",
+          "unit": "slices",
+          "prep_note": "thin"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "medium, sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Spread cut side of the bottom half of bread or rolls horizontally. Spread dressing on the cut side of the bottom half."
+        },
+        {
+          "step": 2,
+          "text": "Layer lettuce, chopped well-drained meat or vegetables atop lettuce. Add 1/4 cup chopped, well-drained pickled mild peppersons. Layer mixture atop lettuce."
+        }
+      ],
+      "notes": [
+        "Muffuletta: Prepare as above except add 1/4 cup chopped, well-drained mixed pickled vegetables atop the lettuce."
+      ],
+      "tags": [
+        "sausage",
+        "sandwiches",
+        "main-dish",
+        "italian",
+        "cold-cuts"
+      ],
+      "image_refs": [
+        "IMG_5399 Large 2.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    }
+  ]
+}
