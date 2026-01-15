@@ -183,10 +183,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 50,
-          "fat_g": 0.7,
-          "protein_g": 0.3,
-          "carbs_g": 11.3
+          "calories": 48,
+          "fat_g": 0.6,
+          "protein_g": 0.2,
+          "carbs_g": 11.1
         },
         "missing_inputs": [
           "Not in database: Batter for Busy-Day Cake"
@@ -400,10 +400,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 275,
-          "fat_g": 13.8,
-          "protein_g": 4.0,
-          "carbs_g": 35.1
+          "calories": 231,
+          "fat_g": 9.3,
+          "protein_g": 3.8,
+          "carbs_g": 34.7
         },
         "missing_inputs": [],
         "assumptions": [
@@ -2041,10 +2041,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 72,
-          "fat_g": 5.8,
-          "protein_g": 0.7,
-          "carbs_g": 4.5
+          "calories": 43,
+          "fat_g": 2.8,
+          "protein_g": 0.5,
+          "carbs_g": 4.2
         },
         "missing_inputs": [
           "Not in database: Fudge Cake",
@@ -2889,17 +2889,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 112,
+          "calories": 142,
           "fat_g": 3.3,
           "protein_g": 2.4,
-          "carbs_g": 18.0
+          "carbs_g": 25.5
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels, or snipped mixed dried fruit"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for brandy or fruit juice",
-          "Based on 16/17 ingredients (94% coverage)"
+          "Based on 17/17 ingredients (100% coverage)"
         ]
       }
     },
@@ -3105,10 +3103,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 265,
-          "fat_g": 12.3,
-          "protein_g": 4.1,
-          "carbs_g": 34.3
+          "calories": 178,
+          "fat_g": 3.3,
+          "protein_g": 3.6,
+          "carbs_g": 33.6
         },
         "missing_inputs": [],
         "assumptions": [
@@ -3733,16 +3731,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 173,
-          "fat_g": 1.6,
-          "protein_g": 3.0,
-          "carbs_g": 37.8
+          "calories": 239,
+          "fat_g": 7.6,
+          "protein_g": 4.5,
+          "carbs_g": 39.6
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -4328,10 +4324,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 72,
-          "fat_g": 5.8,
-          "protein_g": 0.7,
-          "carbs_g": 4.5
+          "calories": 43,
+          "fat_g": 2.8,
+          "protein_g": 0.5,
+          "carbs_g": 4.2
         },
         "missing_inputs": [
           "Not in database: Fudge Cake",

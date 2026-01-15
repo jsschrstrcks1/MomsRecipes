@@ -478,11 +478,9 @@
           "protein_g": 2.2,
           "carbs_g": 8.7
         },
-        "missing_inputs": [
-          "Not in database: diced pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -632,9 +630,9 @@
         "status": "partial",
         "per_serving": {
           "calories": 127,
-          "fat_g": 4.7,
-          "protein_g": 6.1,
-          "carbs_g": 16.2
+          "fat_g": 4.8,
+          "protein_g": 5.4,
+          "carbs_g": 16.5
         },
         "missing_inputs": [],
         "assumptions": [
@@ -825,16 +823,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 125,
+          "calories": 126,
           "fat_g": 3.2,
-          "protein_g": 5.9,
-          "carbs_g": 19.2
+          "protein_g": 5.6,
+          "carbs_g": 19.6
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 13/14 ingredients (93% coverage)"
+          "Based on 14/14 ingredients (100% coverage)"
         ]
       }
     },
@@ -1013,16 +1009,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 81,
+          "calories": 82,
           "fat_g": 2.6,
           "protein_g": 3.3,
-          "carbs_g": 12.0
+          "carbs_g": 12.3
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -1233,10 +1227,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 28,
+          "calories": 34,
           "fat_g": 0.6,
-          "protein_g": 1.1,
-          "carbs_g": 5.1
+          "protein_g": 1.3,
+          "carbs_g": 6.6
         },
         "missing_inputs": [],
         "assumptions": [
@@ -1319,11 +1313,9 @@
           "protein_g": 1.7,
           "carbs_g": 5.6
         },
-        "missing_inputs": [
-          "Not in database: chopped pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -5146,11 +5138,9 @@
           "protein_g": 4.0,
           "carbs_g": 21.3
         },
-        "missing_inputs": [
-          "Not in database: chopped pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -5350,10 +5340,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 173,
-          "fat_g": 11.0,
-          "protein_g": 5.2,
-          "carbs_g": 15.4
+          "calories": 175,
+          "fat_g": 11.6,
+          "protein_g": 5.0,
+          "carbs_g": 14.8
         },
         "missing_inputs": [],
         "assumptions": [

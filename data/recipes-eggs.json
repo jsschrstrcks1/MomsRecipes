@@ -1253,7 +1253,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 193,
+          "fat_g": 11.3,
+          "protein_g": 13.0,
+          "carbs_g": 9.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2743,11 +2753,9 @@
           "protein_g": 13.0,
           "carbs_g": 9.7
         },
-        "missing_inputs": [
-          "Not in database: diced pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },

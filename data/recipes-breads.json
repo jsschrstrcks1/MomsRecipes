@@ -122,8 +122,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 1889,
+          "fat_g": 55.0,
+          "protein_g": 45.0,
+          "carbs_g": 305.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -260,8 +269,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 473,
+          "fat_g": 8.0,
+          "protein_g": 16.5,
+          "carbs_g": 81.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for squeeze margarine",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -391,10 +410,16 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": [
-          "baking temperature",
-          "baking time"
+        "status": "partial",
+        "per_serving": {
+          "calories": 2272,
+          "fat_g": 13.1,
+          "protein_g": 40.0,
+          "carbs_g": 502.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -505,8 +530,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 358,
+          "fat_g": 14.3,
+          "protein_g": 6.9,
+          "carbs_g": 52.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -613,8 +648,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 450,
+          "fat_g": 3.2,
+          "protein_g": 8.5,
+          "carbs_g": 97.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 12 servings based on total calories",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -859,8 +904,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 175,
+          "fat_g": 1.9,
+          "protein_g": 5.3,
+          "carbs_g": 33.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -968,8 +1023,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 93,
+          "fat_g": 0.7,
+          "protein_g": 2.8,
+          "carbs_g": 18.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1057,8 +1121,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 362,
+          "fat_g": 4.3,
+          "protein_g": 10.2,
+          "carbs_g": 68.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 12 servings based on total calories",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1170,8 +1244,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 2125,
+          "fat_g": 57.0,
+          "protein_g": 41.5,
+          "carbs_g": 366.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1278,8 +1361,20 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 334,
+          "fat_g": 14.1,
+          "protein_g": 1.4,
+          "carbs_g": 52.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1.5 cup can for prepared biscuits",
+          "Assumed 1 unit for raisins/nuts",
+          "Estimated 12 servings based on total calories",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1407,8 +1502,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 2314,
+          "fat_g": 57.0,
+          "protein_g": 43.3,
+          "carbs_g": 412.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1501,9 +1605,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": [
-          "baking temp and time"
+        "status": "partial",
+        "per_serving": {
+          "calories": 376,
+          "fat_g": 12.7,
+          "protein_g": 9.6,
+          "carbs_g": 59.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -1639,8 +1751,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 2358,
+          "fat_g": 46.4,
+          "protein_g": 42.6,
+          "carbs_g": 445.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1762,8 +1883,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 3103,
+          "fat_g": 92.0,
+          "protein_g": 63.6,
+          "carbs_g": 519.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1892,9 +2022,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": [
-          "pumpkin can size"
+        "status": "partial",
+        "per_serving": {
+          "calories": 1612,
+          "fat_g": 35.1,
+          "protein_g": 27.3,
+          "carbs_g": 301.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.875 cups) for pumpkin",
+          "Based on 13/13 ingredients (100% coverage)"
         ]
       }
     },
@@ -4239,16 +4377,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2126,
-          "fat_g": 9.2,
-          "protein_g": 64.1,
-          "carbs_g": 433.6
+          "calories": 2376,
+          "fat_g": 10.5,
+          "protein_g": 71.6,
+          "carbs_g": 483.6
         },
-        "missing_inputs": [
-          "Not in database: sourdough starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -4602,8 +4738,8 @@
         "per_serving": {
           "calories": 2283,
           "fat_g": 25.0,
-          "protein_g": 94.2,
-          "carbs_g": 409.1
+          "protein_g": 94.1,
+          "carbs_g": 409.0
         },
         "missing_inputs": [],
         "assumptions": [
@@ -5623,8 +5759,8 @@
         "status": "partial",
         "per_serving": {
           "calories": 2811,
-          "fat_g": 96.7,
-          "protein_g": 66.9,
+          "fat_g": 96.6,
+          "protein_g": 66.5,
           "carbs_g": 431.0
         },
         "missing_inputs": [],
@@ -5753,16 +5889,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2220,
-          "fat_g": 43.8,
-          "protein_g": 46.9,
-          "carbs_g": 420.1
+          "calories": 2620,
+          "fat_g": 79.8,
+          "protein_g": 55.9,
+          "carbs_g": 431.1
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -5871,16 +6005,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2070,
-          "fat_g": 20.9,
-          "protein_g": 51.8,
-          "carbs_g": 415.4
+          "calories": 2870,
+          "fat_g": 92.9,
+          "protein_g": 69.8,
+          "carbs_g": 437.4
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -8064,17 +8196,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1230,
-          "fat_g": 4.2,
-          "protein_g": 34.0,
-          "carbs_g": 257.8
+          "calories": 1330,
+          "fat_g": 4.7,
+          "protein_g": 37.0,
+          "carbs_g": 277.8
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -8203,22 +8333,20 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 303,
-          "fat_g": 3.7,
-          "protein_g": 3.6,
-          "carbs_g": 64.9
+          "calories": 414,
+          "fat_g": 11.8,
+          "protein_g": 6.3,
+          "carbs_g": 71.8
         },
         "missing_inputs": [
-          "Not in database: Sourdough Starter",
-          "Not in database: Cherry Filling",
-          "Not in database: chopped nuts"
+          "Not in database: Cherry Filling"
         ],
         "assumptions": [
           "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for baking soda",
           "Inferred 2 for margarine or butter (standard quantity)",
-          "Assumed 1 unit for quick-cooking rolled oats"
+          "Assumed 1 unit for Sourdough Starter"
         ]
       }
     },
@@ -8330,20 +8458,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 161,
-          "fat_g": 5.1,
-          "protein_g": 3.6,
-          "carbs_g": 25.7
+          "calories": 178,
+          "fat_g": 5.2,
+          "protein_g": 4.1,
+          "carbs_g": 29.0
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for sugar (standard quantity)",
           "Inferred 1 for salt (standard quantity)",
           "Inferred 1.0 for milk (standard quantity)",
-          "Inferred 2 for cooking oil (standard quantity)",
-          "Inferred 1.0 for shredded cheddar cheese (standard quantity)"
+          "Assumed 1 unit for Sourdough Starter",
+          "Inferred 2 for cooking oil (standard quantity)"
         ]
       }
     },
@@ -8959,20 +9085,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1592,
+          "calories": 1832,
           "fat_g": 37.8,
           "protein_g": 34.7,
-          "carbs_g": 286.2
+          "carbs_g": 346.2
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
           "Inferred 2 for margarine or butter (standard quantity)",
           "Inferred 1.0 for sugar (standard quantity)",
-          "Assumed 1 unit for chopped blanched almonds",
-          "Inferred 2 for margarine or butter (standard quantity)"
+          "Assumed 1 unit for diced mixed candied fruits and peels",
+          "Assumed 1 unit for chopped blanched almonds"
         ]
       }
     },
@@ -9260,14 +9384,12 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2548,
+          "calories": 2908,
           "fat_g": 63.2,
           "protein_g": 61.3,
-          "carbs_g": 447.4
+          "carbs_g": 537.4
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
           "Inferred 1.0 for sugar (standard quantity)",
@@ -11203,19 +11325,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2601,
-          "fat_g": 44.6,
-          "protein_g": 53.0,
-          "carbs_g": 497.5
+          "calories": 3401,
+          "fat_g": 116.6,
+          "protein_g": 71.0,
+          "carbs_g": 519.5
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for baking soda",
           "Inferred 2 for cooking oil (standard quantity)",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Assumed 1 unit for chopped nuts",
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -12226,20 +12347,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 156,
-          "fat_g": 3.6,
-          "protein_g": 2.5,
-          "carbs_g": 29.2
+          "calories": 223,
+          "fat_g": 9.6,
+          "protein_g": 4.0,
+          "carbs_g": 31.0
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for ground nutmeg",
           "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Inferred 2 for cooking oil (standard quantity)",
-          "Based on 11/12 ingredients (92% coverage)"
+          "Assumed 1 unit for chopped nuts"
         ]
       }
     },
@@ -13172,14 +13291,12 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 221,
-          "fat_g": 5.8,
-          "protein_g": 3.3,
-          "carbs_g": 39.7
+          "calories": 309,
+          "fat_g": 13.8,
+          "protein_g": 5.3,
+          "carbs_g": 42.2
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for sugar (standard quantity)",
           "Inferred 1 for salt (standard quantity)",
@@ -16302,7 +16419,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 245,
+          "fat_g": 0.7,
+          "protein_g": 7.2,
+          "carbs_g": 51.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -16423,16 +16551,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1230,
-          "fat_g": 4.2,
-          "protein_g": 34.0,
-          "carbs_g": 257.8
+          "calories": 1330,
+          "fat_g": 4.7,
+          "protein_g": 37.0,
+          "carbs_g": 277.8
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -16546,17 +16672,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1522,
-          "fat_g": 8.5,
-          "protein_g": 40.5,
-          "carbs_g": 321.3
+          "calories": 1622,
+          "fat_g": 9.0,
+          "protein_g": 43.5,
+          "carbs_g": 341.3
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for milk (standard quantity)",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -16693,17 +16817,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 206,
-          "fat_g": 1.9,
-          "protein_g": 3.0,
-          "carbs_g": 44.7
+          "calories": 239,
+          "fat_g": 4.0,
+          "protein_g": 3.8,
+          "carbs_g": 47.6
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter",
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/12 ingredients (83% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -16832,16 +16953,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 83,
+          "calories": 91,
           "fat_g": 2.3,
-          "protein_g": 2.8,
-          "carbs_g": 12.7
+          "protein_g": 3.1,
+          "carbs_g": 14.3
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -17534,16 +17653,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1140,
+          "calories": 1260,
           "fat_g": 14.1,
           "protein_g": 27.2,
-          "carbs_g": 229.2
+          "carbs_g": 259.2
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 14/15 ingredients (93% coverage)"
+          "Based on 15/15 ingredients (100% coverage)"
         ]
       }
     },
@@ -17881,19 +17998,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2280,
+          "calories": 2640,
           "fat_g": 55.0,
           "protein_g": 61.3,
-          "carbs_g": 397.4
+          "carbs_g": 487.4
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for milk (standard quantity)",
           "Assumed 1 unit for almonds",
           "Assumed 1 unit for candied cherries",
-          "Based on 16/17 ingredients (94% coverage)"
+          "Based on 17/17 ingredients (100% coverage)"
         ]
       }
     },
@@ -20949,16 +21064,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2391,
-          "fat_g": 20.1,
-          "protein_g": 53.0,
-          "carbs_g": 497.5
+          "calories": 2991,
+          "fat_g": 74.1,
+          "protein_g": 66.5,
+          "carbs_g": 514.0
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -22539,16 +22652,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 104,
-          "fat_g": 1.6,
-          "protein_g": 2.5,
-          "carbs_g": 20.2
+          "calories": 137,
+          "fat_g": 4.6,
+          "protein_g": 3.3,
+          "carbs_g": 21.1
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 11/12 ingredients (92% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -22952,16 +23063,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 115,
+          "calories": 117,
           "fat_g": 1.3,
-          "protein_g": 2.6,
-          "carbs_g": 23.4
+          "protein_g": 2.7,
+          "carbs_g": 23.9
         },
-        "missing_inputs": [
-          "Not in database: fresh or frozen cut-up rhubarb"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -24737,7 +24846,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 199,
+          "fat_g": 3.5,
+          "protein_g": 4.5,
+          "carbs_g": 37.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -24923,7 +25042,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 101,
+          "fat_g": 2.3,
+          "protein_g": 3.3,
+          "carbs_g": 16.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -25199,7 +25328,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 175,
+          "fat_g": 4.3,
+          "protein_g": 3.4,
+          "carbs_g": 31.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -25351,7 +25490,20 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 61,
+          "fat_g": 1.4,
+          "protein_g": 0.7,
+          "carbs_g": 11.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
+          "Inferred 1.0 for sifted powdered sugar (standard quantity)",
+          "Assumed 1 unit for honey",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -25432,7 +25584,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 67,
+          "fat_g": 2.6,
+          "protein_g": 1.7,
+          "carbs_g": 9.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -25500,7 +25663,19 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 111,
+          "fat_g": 2.7,
+          "protein_g": 1.0,
+          "carbs_g": 21.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
+          "Inferred 1.0 for sugar (standard quantity)",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -26476,17 +26651,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1230,
-          "fat_g": 4.2,
-          "protein_g": 34.0,
-          "carbs_g": 257.8
+          "calories": 1330,
+          "fat_g": 4.7,
+          "protein_g": 37.0,
+          "carbs_g": 277.8
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -26615,22 +26788,20 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 303,
-          "fat_g": 3.7,
-          "protein_g": 3.6,
-          "carbs_g": 64.9
+          "calories": 414,
+          "fat_g": 11.8,
+          "protein_g": 6.3,
+          "carbs_g": 71.8
         },
         "missing_inputs": [
-          "Not in database: Sourdough Starter",
-          "Not in database: Cherry Filling",
-          "Not in database: chopped nuts"
+          "Not in database: Cherry Filling"
         ],
         "assumptions": [
           "Inferred 1.0 for sugar (standard quantity)",
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for baking soda",
           "Inferred 2 for margarine or butter (standard quantity)",
-          "Assumed 1 unit for quick-cooking rolled oats"
+          "Assumed 1 unit for Sourdough Starter"
         ]
       }
     },
@@ -26746,20 +26917,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 161,
-          "fat_g": 5.1,
-          "protein_g": 3.6,
-          "carbs_g": 25.7
+          "calories": 178,
+          "fat_g": 5.2,
+          "protein_g": 4.1,
+          "carbs_g": 29.0
         },
-        "missing_inputs": [
-          "Not in database: Sourdough Starter"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for sugar (standard quantity)",
           "Inferred 1 for salt (standard quantity)",
           "Inferred 1.0 for milk (standard quantity)",
-          "Inferred 2 for cooking oil (standard quantity)",
-          "Inferred 1.0 for shredded cheddar cheese (standard quantity)"
+          "Assumed 1 unit for Sourdough Starter",
+          "Inferred 2 for cooking oil (standard quantity)"
         ]
       }
     },
@@ -26871,8 +27040,8 @@
         "per_serving": {
           "calories": 1305,
           "fat_g": 19.1,
-          "protein_g": 65.1,
-          "carbs_g": 216.2
+          "protein_g": 65.0,
+          "carbs_g": 216.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -27393,20 +27562,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1592,
+          "calories": 1832,
           "fat_g": 37.8,
           "protein_g": 34.7,
-          "carbs_g": 286.2
+          "carbs_g": 346.2
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
           "Inferred 2 for margarine or butter (standard quantity)",
           "Inferred 1.0 for sugar (standard quantity)",
-          "Assumed 1 unit for chopped blanched almonds",
-          "Inferred 2 for margarine or butter (standard quantity)"
+          "Assumed 1 unit for diced mixed candied fruits and peels",
+          "Assumed 1 unit for chopped blanched almonds"
         ]
       }
     },
@@ -27698,14 +27865,12 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2548,
+          "calories": 2908,
           "fat_g": 63.2,
           "protein_g": 61.3,
-          "carbs_g": 447.4
+          "carbs_g": 537.4
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for ground cardamom",
           "Inferred 1.0 for sugar (standard quantity)",
@@ -29413,16 +29578,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1618,
-          "fat_g": 17.8,
-          "protein_g": 37.0,
-          "carbs_g": 328.9
+          "calories": 1818,
+          "fat_g": 35.8,
+          "protein_g": 41.5,
+          "carbs_g": 334.4
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -29668,16 +29831,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2466,
-          "fat_g": 24.1,
-          "protein_g": 57.0,
-          "carbs_g": 503.5
+          "calories": 3066,
+          "fat_g": 78.1,
+          "protein_g": 70.5,
+          "carbs_g": 520.0
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -30782,16 +30943,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 113,
-          "fat_g": 1.6,
-          "protein_g": 2.8,
-          "carbs_g": 22.1
+          "calories": 147,
+          "fat_g": 4.6,
+          "protein_g": 3.5,
+          "carbs_g": 23.0
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 11/12 ingredients (92% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -31151,16 +31310,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 155,
-          "fat_g": 1.6,
-          "protein_g": 3.1,
-          "carbs_g": 32.2
+          "calories": 178,
+          "fat_g": 3.6,
+          "protein_g": 3.6,
+          "carbs_g": 32.9
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -31279,16 +31436,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 189,
-          "fat_g": 3.3,
-          "protein_g": 4.2,
-          "carbs_g": 36.1
+          "calories": 211,
+          "fat_g": 5.3,
+          "protein_g": 4.7,
+          "carbs_g": 36.7
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -31702,16 +31857,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 188,
-          "fat_g": 2.4,
-          "protein_g": 3.5,
-          "carbs_g": 38.3
+          "calories": 233,
+          "fat_g": 6.4,
+          "protein_g": 4.5,
+          "carbs_g": 39.5
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 12/13 ingredients (92% coverage)"
+          "Based on 13/13 ingredients (100% coverage)"
         ]
       }
     },
@@ -32058,17 +32211,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 127,
+          "calories": 129,
           "fat_g": 3.5,
           "protein_g": 1.6,
-          "carbs_g": 22.2
+          "carbs_g": 22.7
         },
-        "missing_inputs": [
-          "Not in database: raspberry, strawberry, or peach preserves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
-          "Based on 5/6 ingredients (83% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },

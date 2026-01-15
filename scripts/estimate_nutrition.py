@@ -375,6 +375,129 @@ NUTRITION_DB = {
     'chia seeds': {'per': '1 tbsp', 'cal': 58, 'fat': 4, 'protein': 2, 'carbs': 5},
     'almond butter': {'per': '1 tbsp', 'cal': 98, 'fat': 9, 'protein': 3, 'carbs': 3},
     'tahini': {'per': '1 tbsp', 'cal': 89, 'fat': 8, 'protein': 3, 'carbs': 3},
+
+    # Nuts - generic entries for "chopped nuts", "ground nuts", etc.
+    'nuts': {'per': '1 cup', 'cal': 800, 'fat': 72, 'protein': 18, 'carbs': 22},
+    'chopped nuts': {'per': '1 cup', 'cal': 800, 'fat': 72, 'protein': 18, 'carbs': 22},
+    'ground nuts': {'per': '1 cup', 'cal': 800, 'fat': 72, 'protein': 18, 'carbs': 22},
+    'mixed nuts': {'per': '1 cup', 'cal': 813, 'fat': 71, 'protein': 21, 'carbs': 32},
+
+    # Bread products
+    'english muffin': {'per': '1 muffin', 'cal': 134, 'fat': 1, 'protein': 5, 'carbs': 26},
+    'english muffins': {'per': '1 muffin', 'cal': 134, 'fat': 1, 'protein': 5, 'carbs': 26},
+    'biscuits': {'per': '1 biscuit', 'cal': 127, 'fat': 6, 'protein': 2, 'carbs': 17},
+    'prepared biscuits': {'per': '1 biscuit', 'cal': 127, 'fat': 6, 'protein': 2, 'carbs': 17},
+    'refrigerator biscuits': {'per': '1 biscuit', 'cal': 127, 'fat': 6, 'protein': 2, 'carbs': 17},
+    'crescent rolls': {'per': '1 roll', 'cal': 100, 'fat': 5, 'protein': 2, 'carbs': 12},
+    'pie crust': {'per': '1 crust', 'cal': 800, 'fat': 52, 'protein': 7, 'carbs': 72},
+    'pastry': {'per': '1 crust', 'cal': 800, 'fat': 52, 'protein': 7, 'carbs': 72},
+    'pie shell': {'per': '1 shell', 'cal': 800, 'fat': 52, 'protein': 7, 'carbs': 72},
+    'pumpernickel': {'per': '1 slice', 'cal': 80, 'fat': 1, 'protein': 3, 'carbs': 15},
+    'pumpernickel bread': {'per': '1 loaf', 'cal': 1200, 'fat': 15, 'protein': 45, 'carbs': 225},
+
+    # Processed cheese products
+    'cheez whiz': {'per': '2 tbsp', 'cal': 91, 'fat': 7, 'protein': 4, 'carbs': 3},
+    'cheese spread': {'per': '2 tbsp', 'cal': 91, 'fat': 7, 'protein': 4, 'carbs': 3},
+    'old english cheese': {'per': '1 oz', 'cal': 106, 'fat': 9, 'protein': 6, 'carbs': 1},
+    'velveeta': {'per': '1 oz', 'cal': 80, 'fat': 6, 'protein': 5, 'carbs': 3},
+
+    # Cranberry products
+    'cranberry sauce': {'per': '1 cup', 'cal': 418, 'fat': 0, 'protein': 1, 'carbs': 108},
+    'whole cranberry sauce': {'per': '1 cup', 'cal': 418, 'fat': 0, 'protein': 1, 'carbs': 108},
+    'whole berry cranberry sauce': {'per': '1 cup', 'cal': 418, 'fat': 0, 'protein': 1, 'carbs': 108},
+    'cranberries': {'per': '1 cup', 'cal': 46, 'fat': 0, 'protein': 0, 'carbs': 12},
+
+    # Condiments and sauces
+    'catsup': {'per': '1 tbsp', 'cal': 19, 'fat': 0, 'protein': 0, 'carbs': 5},
+    'ketchup': {'per': '1 tbsp', 'cal': 19, 'fat': 0, 'protein': 0, 'carbs': 5},
+    'seafood sauce': {'per': '1 tbsp', 'cal': 20, 'fat': 0, 'protein': 0, 'carbs': 5},
+    'cocktail sauce': {'per': '1 tbsp', 'cal': 20, 'fat': 0, 'protein': 0, 'carbs': 5},
+    'taco sauce': {'per': '2 tbsp', 'cal': 15, 'fat': 0, 'protein': 0, 'carbs': 3},
+    'taco seasoning': {'per': '1 tbsp', 'cal': 20, 'fat': 0, 'protein': 1, 'carbs': 4},
+    'taco seasoning mix': {'per': '1 packet', 'cal': 60, 'fat': 1, 'protein': 2, 'carbs': 12},
+    'heinz 57': {'per': '1 tbsp', 'cal': 18, 'fat': 0, 'protein': 0, 'carbs': 4},
+    'steak sauce': {'per': '1 tbsp', 'cal': 18, 'fat': 0, 'protein': 0, 'carbs': 4},
+    'bean dip': {'per': '2 tbsp', 'cal': 35, 'fat': 1, 'protein': 2, 'carbs': 5},
+    'refried bean dip': {'per': '2 tbsp', 'cal': 35, 'fat': 1, 'protein': 2, 'carbs': 5},
+
+    # Dairy alternatives and toppings
+    'oleo': {'per': '1 tbsp', 'cal': 102, 'fat': 12, 'protein': 0, 'carbs': 0},
+    'whipped topping': {'per': '2 tbsp', 'cal': 25, 'fat': 2, 'protein': 0, 'carbs': 2},
+    'cool whip': {'per': '2 tbsp', 'cal': 25, 'fat': 2, 'protein': 0, 'carbs': 2},
+    'whipped cream': {'per': '2 tbsp', 'cal': 52, 'fat': 6, 'protein': 0, 'carbs': 0},
+    'marshmallow cream': {'per': '2 tbsp', 'cal': 91, 'fat': 0, 'protein': 0, 'carbs': 22},
+    'marshmallow creme': {'per': '2 tbsp', 'cal': 91, 'fat': 0, 'protein': 0, 'carbs': 22},
+
+    # Preserves and jellies
+    'strawberry preserves': {'per': '1 tbsp', 'cal': 50, 'fat': 0, 'protein': 0, 'carbs': 13},
+    'preserves': {'per': '1 tbsp', 'cal': 50, 'fat': 0, 'protein': 0, 'carbs': 13},
+    'currant jelly': {'per': '1 tbsp', 'cal': 52, 'fat': 0, 'protein': 0, 'carbs': 13},
+    'fruit pectin': {'per': '1 packet', 'cal': 10, 'fat': 0, 'protein': 0, 'carbs': 2},
+    'liquid fruit pectin': {'per': '1 pouch', 'cal': 10, 'fat': 0, 'protein': 0, 'carbs': 2},
+    'powdered fruit pectin': {'per': '1 packet', 'cal': 10, 'fat': 0, 'protein': 0, 'carbs': 2},
+
+    # Dry mixes and seasonings
+    'accent': {'per': '1 tsp', 'cal': 0, 'fat': 0, 'protein': 0, 'carbs': 0},
+    'msg': {'per': '1 tsp', 'cal': 0, 'fat': 0, 'protein': 0, 'carbs': 0},
+    'vegetable soup mix': {'per': '1 packet', 'cal': 60, 'fat': 1, 'protein': 2, 'carbs': 10},
+    'knorr vegetable soup': {'per': '1 packet', 'cal': 60, 'fat': 1, 'protein': 2, 'carbs': 10},
+    'onion soup mix': {'per': '1 packet', 'cal': 50, 'fat': 1, 'protein': 2, 'carbs': 9},
+    'lipton onion soup': {'per': '1 packet', 'cal': 50, 'fat': 1, 'protein': 2, 'carbs': 9},
+    'ranch mix': {'per': '1 packet', 'cal': 35, 'fat': 0, 'protein': 1, 'carbs': 7},
+    'italian dressing mix': {'per': '1 packet', 'cal': 10, 'fat': 0, 'protein': 0, 'carbs': 2},
+
+    # Vegetables (additional)
+    'pimiento': {'per': '2 tbsp', 'cal': 6, 'fat': 0, 'protein': 0, 'carbs': 1},
+    'pimento': {'per': '2 tbsp', 'cal': 6, 'fat': 0, 'protein': 0, 'carbs': 1},
+    'water chestnuts': {'per': '1 cup', 'cal': 97, 'fat': 0, 'protein': 2, 'carbs': 24},
+    'frozen vegetables': {'per': '1 cup', 'cal': 80, 'fat': 0, 'protein': 4, 'carbs': 16},
+    'mixed vegetables': {'per': '1 cup', 'cal': 80, 'fat': 0, 'protein': 4, 'carbs': 16},
+    'green limas': {'per': '1 cup', 'cal': 216, 'fat': 1, 'protein': 12, 'carbs': 40},
+    'lima beans': {'per': '1 cup', 'cal': 216, 'fat': 1, 'protein': 12, 'carbs': 40},
+    'wax beans': {'per': '1 cup', 'cal': 44, 'fat': 0, 'protein': 2, 'carbs': 10},
+    'pea pods': {'per': '1 cup', 'cal': 41, 'fat': 0, 'protein': 3, 'carbs': 7},
+    'snow peas': {'per': '1 cup', 'cal': 41, 'fat': 0, 'protein': 3, 'carbs': 7},
+    'rhubarb': {'per': '1 cup', 'cal': 26, 'fat': 0, 'protein': 1, 'carbs': 6},
+
+    # Fruits (additional)
+    'peaches': {'per': '1 cup', 'cal': 60, 'fat': 0, 'protein': 1, 'carbs': 15},
+    'peach slices': {'per': '1 cup', 'cal': 60, 'fat': 0, 'protein': 1, 'carbs': 15},
+    'cherry juice': {'per': '1 cup', 'cal': 140, 'fat': 0, 'protein': 0, 'carbs': 34},
+    'candied fruit': {'per': '1 cup', 'cal': 720, 'fat': 0, 'protein': 0, 'carbs': 180},
+    'candied peel': {'per': '1 cup', 'cal': 720, 'fat': 0, 'protein': 0, 'carbs': 180},
+    'mixed candied fruit': {'per': '1 cup', 'cal': 720, 'fat': 0, 'protein': 0, 'carbs': 180},
+
+    # Gelatin and pudding
+    'jell-o': {'per': '1 package', 'cal': 80, 'fat': 0, 'protein': 2, 'carbs': 19},
+    'gelatin': {'per': '1 package', 'cal': 80, 'fat': 0, 'protein': 2, 'carbs': 19},
+    'raspberry jell-o': {'per': '1 package', 'cal': 80, 'fat': 0, 'protein': 2, 'carbs': 19},
+    'unflavored gelatin': {'per': '1 envelope', 'cal': 25, 'fat': 0, 'protein': 6, 'carbs': 0},
+    'pudding mix': {'per': '1 package', 'cal': 100, 'fat': 0, 'protein': 0, 'carbs': 25},
+
+    # Baking starters
+    'sourdough starter': {'per': '1 cup', 'cal': 200, 'fat': 1, 'protein': 6, 'carbs': 40},
+    'yeast starter': {'per': '1 cup', 'cal': 200, 'fat': 1, 'protein': 6, 'carbs': 40},
+
+    # Spices and herbs (additional)
+    'marjoram': {'per': '1 tsp', 'cal': 2, 'fat': 0, 'protein': 0, 'carbs': 0},
+    'sage': {'per': '1 tsp', 'cal': 2, 'fat': 0, 'protein': 0, 'carbs': 0},
+    'thyme': {'per': '1 tsp', 'cal': 3, 'fat': 0, 'protein': 0, 'carbs': 1},
+    'rosemary': {'per': '1 tsp', 'cal': 4, 'fat': 0, 'protein': 0, 'carbs': 1},
+    'dill': {'per': '1 tsp', 'cal': 3, 'fat': 0, 'protein': 0, 'carbs': 1},
+    'tarragon': {'per': '1 tsp', 'cal': 2, 'fat': 0, 'protein': 0, 'carbs': 0},
+    'chives': {'per': '1 tbsp', 'cal': 1, 'fat': 0, 'protein': 0, 'carbs': 0},
+
+    # Meat and seafood (additional)
+    'ground chuck': {'per': '1 lb', 'cal': 1152, 'fat': 92, 'protein': 77, 'carbs': 0},
+    'ground round': {'per': '1 lb', 'cal': 908, 'fat': 64, 'protein': 80, 'carbs': 0},
+    'chuck': {'per': '1 lb', 'cal': 1152, 'fat': 92, 'protein': 77, 'carbs': 0},
+    'clam juice': {'per': '1 cup', 'cal': 5, 'fat': 0, 'protein': 1, 'carbs': 0},
+
+    # Dessert components
+    'hard sauce': {'per': '2 tbsp', 'cal': 150, 'fat': 8, 'protein': 0, 'carbs': 18},
+    'fruit sauce': {'per': '1/4 cup', 'cal': 60, 'fat': 0, 'protein': 0, 'carbs': 15},
+    'custard': {'per': '1/2 cup', 'cal': 150, 'fat': 5, 'protein': 5, 'carbs': 20},
+    'sponge cake': {'per': '1 slice', 'cal': 187, 'fat': 3, 'protein': 5, 'carbs': 36},
 }
 
 # Ingredient aliases - maps alternative names to canonical names in NUTRITION_DB
@@ -1072,9 +1195,8 @@ def process_recipes(dry_run=False):
         if nut.get('status') in ['complete']:
             continue
 
-        # Skip if already marked insufficient
-        if nut.get('status') == 'insufficient_data':
-            continue
+        # Retry insufficient_data recipes (database may have been updated)
+        # Only skip if already partial with good coverage
 
         # Calculate nutrition
         result = calculate_recipe_nutrition(recipe)

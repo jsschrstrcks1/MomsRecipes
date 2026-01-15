@@ -99,8 +99,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 148,
+          "fat_g": 3.7,
+          "protein_g": 2.0,
+          "carbs_g": 28.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -419,18 +428,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 95,
-          "fat_g": 7.1,
-          "protein_g": 6.2,
-          "carbs_g": 1.0
+          "calories": 101,
+          "fat_g": 7.4,
+          "protein_g": 6.3,
+          "carbs_g": 1.8
         },
         "missing_inputs": [
-          "Not in database: Pillsbury Grands Flaky Layers Original Biscuits",
           "Not in database: wooden skewers or toothpicks"
         ],
         "assumptions": [
+          "Assumed 1.5 cup can for Pillsbury Grands Flaky Layers Original Biscuits",
           "Inferred 2 for canola oil (standard quantity)",
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 4/5 ingredients (80% coverage)"
         ]
       }
     },
@@ -822,9 +831,9 @@
         "status": "partial",
         "per_serving": {
           "calories": 10,
-          "fat_g": 0.5,
+          "fat_g": 0.6,
           "protein_g": 0.3,
-          "carbs_g": 1.0
+          "carbs_g": 0.9
         },
         "missing_inputs": [
           "Not in database: Oscar Mayer Mini Smokies"
@@ -929,8 +938,8 @@
         "per_serving": {
           "calories": 559,
           "fat_g": 53.4,
-          "protein_g": 12.8,
-          "carbs_g": 10.3
+          "protein_g": 12.7,
+          "carbs_g": 10.2
         },
         "missing_inputs": [
           "Not in database: Hidden Valley Ranch Dip Seasoning Mix"
@@ -2813,11 +2822,9 @@
           "protein_g": 0.4,
           "carbs_g": 1.6
         },
-        "missing_inputs": [
-          "Not in database: diced pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -4214,16 +4221,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 231,
+          "calories": 246,
           "fat_g": 2.5,
-          "protein_g": 40.9,
-          "carbs_g": 6.0
+          "protein_g": 41.8,
+          "carbs_g": 8.9
         },
-        "missing_inputs": [
-          "Not in database: pea pods"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },

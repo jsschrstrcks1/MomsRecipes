@@ -113,8 +113,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 568,
+          "fat_g": 34.2,
+          "protein_g": 49.6,
+          "carbs_g": 13.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -772,17 +781,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 116,
+          "calories": 117,
           "fat_g": 0.3,
           "protein_g": 3.6,
-          "carbs_g": 26.4
+          "carbs_g": 26.7
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 4 servings based on total calories",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -1002,16 +1009,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 52,
-          "fat_g": 1.4,
-          "protein_g": 2.5,
+          "calories": 340,
+          "fat_g": 24.4,
+          "protein_g": 21.8,
           "carbs_g": 7.7
         },
-        "missing_inputs": [
-          "Not in database: ground chuck"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -1272,10 +1277,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 247,
-          "fat_g": 12.4,
-          "protein_g": 17.7,
-          "carbs_g": 15.0
+          "calories": 245,
+          "fat_g": 12.2,
+          "protein_g": 17.6,
+          "carbs_g": 15.1
         },
         "missing_inputs": [],
         "assumptions": [
@@ -1442,10 +1447,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 169,
-          "fat_g": 2.3,
-          "protein_g": 6.0,
-          "carbs_g": 37.5
+          "calories": 157,
+          "fat_g": 2.0,
+          "protein_g": 5.0,
+          "carbs_g": 35.5
         },
         "missing_inputs": [],
         "assumptions": [
@@ -1544,18 +1549,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 305,
+          "calories": 306,
           "fat_g": 9.7,
           "protein_g": 47.4,
-          "carbs_g": 3.2
+          "carbs_g": 3.5
         },
-        "missing_inputs": [
-          "Not in database: Good Seasons Italian dressing mix"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Used standard can size (1.25 cups) for cream of mushroom soup",
           "Estimated 8 servings based on total calories",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -2066,18 +2069,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 392,
-          "fat_g": 19.1,
-          "protein_g": 35.5,
-          "carbs_g": 17.6
+          "calories": 525,
+          "fat_g": 27.8,
+          "protein_g": 36.7,
+          "carbs_g": 29.6
         },
-        "missing_inputs": [
-          "Not in database: crust pastry"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1.5 cup can for sliced mushrooms",
           "Assumed 1.5 cup can for small whole onions",
-          "Based on 12/13 ingredients (92% coverage)"
+          "Based on 13/13 ingredients (100% coverage)"
         ]
       }
     },
@@ -2985,18 +2986,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 275,
+          "calories": 276,
           "fat_g": 6.5,
           "protein_g": 14.2,
-          "carbs_g": 40.1
+          "carbs_g": 40.3
         },
         "missing_inputs": [
-          "Not in database: meatloaf mixture",
-          "Not in database: catsup"
+          "Not in database: meatloaf mixture"
         ],
         "assumptions": [
           "Estimated 6 servings based on total calories",
-          "Based on 10/12 ingredients (83% coverage)"
+          "Based on 11/12 ingredients (92% coverage)"
         ]
       }
     },
@@ -3201,18 +3201,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 258,
-          "fat_g": 5.5,
-          "protein_g": 46.8,
-          "carbs_g": 1.9
+          "calories": 335,
+          "fat_g": 5.6,
+          "protein_g": 46.9,
+          "carbs_g": 21.4
         },
         "missing_inputs": [
-          "Not in database: Russian dressing",
-          "Not in database: whole cranberry sauce"
+          "Not in database: Russian dressing"
         ],
         "assumptions": [
+          "Assumed 1.5 cup can for whole cranberry sauce",
           "Estimated 8 servings based on total calories",
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 3/4 ingredients (75% coverage)"
         ]
       }
     },
@@ -3435,19 +3435,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 261,
+          "calories": 263,
           "fat_g": 19.1,
           "protein_g": 19.5,
-          "carbs_g": 2.0
+          "carbs_g": 2.3
         },
         "missing_inputs": [
           "Not in database: Bisquick baking mix",
-          "Not in database: diced pimiento",
           "Not in database: mushroom stems and pieces"
         ],
         "assumptions": [
+          "Assumed 2 cup jar for diced pimiento",
           "Estimated 6 servings based on total calories",
-          "Based on 9/12 ingredients (75% coverage)"
+          "Based on 10/12 ingredients (83% coverage)"
         ]
       }
     },
@@ -3639,10 +3639,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 273,
+          "calories": 280,
           "fat_g": 13.2,
-          "protein_g": 28.4,
-          "carbs_g": 8.7
+          "protein_g": 28.6,
+          "carbs_g": 10.4
         },
         "missing_inputs": [],
         "assumptions": [
@@ -3759,10 +3759,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 525,
-          "fat_g": 25.9,
-          "protein_g": 49.5,
-          "carbs_g": 21.1
+          "calories": 528,
+          "fat_g": 26.7,
+          "protein_g": 49.2,
+          "carbs_g": 20.4
         },
         "missing_inputs": [],
         "assumptions": [
@@ -4306,18 +4306,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 357,
+          "calories": 367,
           "fat_g": 13.4,
-          "protein_g": 22.7,
-          "carbs_g": 35.8
+          "protein_g": 23.2,
+          "carbs_g": 37.8
         },
-        "missing_inputs": [
-          "Not in database: frozen vegetables"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Used standard can size (1.25 cups) for cream of chicken soup",
           "Estimated 8 servings based on total calories",
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -5223,10 +5221,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 396,
+          "calories": 401,
           "fat_g": 18.3,
-          "protein_g": 40.7,
-          "carbs_g": 14.3
+          "protein_g": 40.8,
+          "carbs_g": 15.5
         },
         "missing_inputs": [],
         "assumptions": [
@@ -6459,14 +6457,12 @@
         "per_serving": {
           "calories": 4,
           "fat_g": 0.1,
-          "protein_g": 0.2,
+          "protein_g": 0.1,
           "carbs_g": 0.9
         },
-        "missing_inputs": [
-          "Not in database: marjoram"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 11/12 ingredients (92% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -6837,7 +6833,7 @@
           "calories": 528,
           "fat_g": 37.9,
           "protein_g": 40.6,
-          "carbs_g": 2.3
+          "carbs_g": 2.2
         },
         "missing_inputs": [],
         "assumptions": [
@@ -8267,16 +8263,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 306,
-          "fat_g": 27.2,
-          "protein_g": 11.4,
-          "carbs_g": 5.1
+          "calories": 506,
+          "fat_g": 40.2,
+          "protein_g": 13.2,
+          "carbs_g": 23.1
         },
-        "missing_inputs": [
-          "Not in database: frozen 9 inch pie shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -8394,17 +8388,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 257,
-          "fat_g": 7.8,
-          "protein_g": 14.9,
-          "carbs_g": 32.1
+          "calories": 357,
+          "fat_g": 14.3,
+          "protein_g": 15.8,
+          "carbs_g": 41.1
         },
-        "missing_inputs": [
-          "Not in database: unbaked pie shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -8532,18 +8524,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 217,
-          "fat_g": 8.8,
-          "protein_g": 25.8,
-          "carbs_g": 7.3
+          "calories": 417,
+          "fat_g": 21.8,
+          "protein_g": 27.6,
+          "carbs_g": 25.3
         },
-        "missing_inputs": [
-          "Not in database: pie shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1.5 cup can for smoked oysters",
           "Inferred 1 for pepper (standard quantity)",
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -8648,18 +8638,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 206,
-          "fat_g": 14.8,
-          "protein_g": 14.9,
-          "carbs_g": 2.9
+          "calories": 303,
+          "fat_g": 20.4,
+          "protein_g": 9.2,
+          "carbs_g": 19.5
         },
-        "missing_inputs": [
-          "Not in database: unbaked pie shells"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for garlic and onion salt (standard quantity)",
-          "Estimated 4 servings based on total calories",
-          "Based on 7/8 ingredients (88% coverage)"
+          "Estimated 8 servings based on total calories",
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -8897,18 +8885,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 170,
-          "fat_g": 12.5,
-          "protein_g": 11.5,
-          "carbs_g": 2.4
+          "calories": 304,
+          "fat_g": 21.2,
+          "protein_g": 12.7,
+          "carbs_g": 14.4
         },
-        "missing_inputs": [
-          "Not in database: unbaked pastry shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1 for pepper (standard quantity)",
           "Estimated 6 servings based on total calories",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -9919,10 +9905,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 571,
+          "calories": 578,
           "fat_g": 26.1,
-          "protein_g": 59.9,
-          "carbs_g": 19.9
+          "protein_g": 60.1,
+          "carbs_g": 21.6
         },
         "missing_inputs": [],
         "assumptions": [
@@ -12835,11 +12821,9 @@
           "protein_g": 13.0,
           "carbs_g": 9.7
         },
-        "missing_inputs": [
-          "Not in database: diced pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -17644,10 +17628,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 295,
-          "fat_g": 7.3,
-          "protein_g": 42.3,
-          "carbs_g": 11.1
+          "calories": 298,
+          "fat_g": 8.0,
+          "protein_g": 42.1,
+          "carbs_g": 10.4
         },
         "missing_inputs": [],
         "assumptions": [
@@ -19197,16 +19181,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 59,
-          "fat_g": 1.5,
-          "protein_g": 3.2,
-          "carbs_g": 9.3
+          "calories": 80,
+          "fat_g": 2.5,
+          "protein_g": 3.6,
+          "carbs_g": 12.1
         },
-        "missing_inputs": [
-          "Not in database: refrigerated biscuits"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -23861,19 +23843,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1328,
+          "calories": 1333,
           "fat_g": 73.7,
           "protein_g": 140.6,
-          "carbs_g": 19.2
+          "carbs_g": 20.7
         },
-        "missing_inputs": [
-          "Not in database: shredded catsup",
-          "Not in database: barbecue sauce or catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for ground pork or ground lamb (standard quantity)",
+          "Assumed 1 unit for barbecue sauce or catsup",
           "Assumed 1 unit for lettuce",
-          "Based on 9/11 ingredients (82% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -24295,16 +24275,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 849,
+          "calories": 852,
           "fat_g": 39.7,
           "protein_g": 113.6,
-          "carbs_g": 5.8
+          "carbs_g": 6.4
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
