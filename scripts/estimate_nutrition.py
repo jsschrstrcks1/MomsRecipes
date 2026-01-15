@@ -377,6 +377,338 @@ NUTRITION_DB = {
     'tahini': {'per': '1 tbsp', 'cal': 89, 'fat': 8, 'protein': 3, 'carbs': 3},
 }
 
+# Ingredient aliases - maps alternative names to canonical names in NUTRITION_DB
+# This helps match OCR variations, regional terms, and common abbreviations
+INGREDIENT_ALIASES = {
+    # Flour aliases
+    "ap flour": "flour",
+    "plain flour": "flour",
+    "white flour": "flour",
+    "unbleached flour": "flour",
+    "bleached flour": "flour",
+    "strong flour": "bread flour",
+    "pastry flour": "cake flour",
+    "ww flour": "whole wheat flour",
+    "wholewheat flour": "whole wheat flour",
+    "graham flour": "whole wheat flour",
+
+    # Sugar aliases
+    "caster sugar": "sugar",
+    "superfine sugar": "sugar",
+    "granulated sugar": "sugar",
+    "white sugar": "sugar",
+    "light brown sugar": "brown sugar",
+    "dark brown sugar": "brown sugar",
+    "demerara sugar": "brown sugar",
+    "muscovado sugar": "brown sugar",
+    "turbinado sugar": "brown sugar",
+    "icing sugar": "powdered sugar",
+    "confectioner's sugar": "powdered sugar",
+    "10x sugar": "powdered sugar",
+
+    # Butter/fat aliases
+    "unsalted butter": "butter",
+    "salted butter": "butter",
+    "sweet butter": "butter",
+    "clarified butter": "butter",
+    "ghee": "butter",
+    "oleo": "margarine",
+    "vegetable shortening": "shortening",
+    "crisco": "shortening",
+    "bacon fat": "bacon grease",
+    "bacon drippings": "bacon grease",
+
+    # Oil aliases
+    "cooking oil": "vegetable oil",
+    "salad oil": "vegetable oil",
+    "corn oil": "vegetable oil",
+    "soybean oil": "vegetable oil",
+    "evoo": "olive oil",
+    "extra virgin olive oil": "olive oil",
+    "canola oil": "vegetable oil",
+
+    # Egg aliases
+    "large egg": "egg",
+    "large eggs": "eggs",
+    "whole egg": "egg",
+    "whole eggs": "eggs",
+    "beaten egg": "egg",
+    "beaten eggs": "eggs",
+
+    # Milk/cream aliases
+    "whole milk": "milk",
+    "2% milk": "milk",
+    "1% milk": "milk",
+    "skim milk": "milk",
+    "heavy whipping cream": "heavy cream",
+    "whipped cream": "whipping cream",
+    "double cream": "heavy cream",
+    "light cream": "half and half",
+    "table cream": "half and half",
+    "coffee cream": "half and half",
+
+    # Cheese aliases
+    "cheddar": "cheddar cheese",
+    "sharp cheddar": "cheddar cheese",
+    "mild cheddar": "cheddar cheese",
+    "american": "american cheese",
+    "mozarella": "mozzarella",
+    "fresh mozzarella": "mozzarella",
+    "parmigiano": "parmesan",
+    "parmigiano-reggiano": "parmesan",
+    "grated parmesan": "parmesan",
+    "romano": "parmesan",
+    "pecorino": "parmesan",
+    "gruyere": "swiss cheese",
+    "emmental": "swiss cheese",
+    "philadelphia": "cream cheese",
+    "neufchatel": "cream cheese",
+    "ricotta cheese": "ricotta",
+
+    # Yogurt aliases
+    "plain yogurt": "yogurt",
+    "greek yogurt": "yogurt",
+    "natural yogurt": "yogurt",
+
+    # Vegetable aliases
+    "yellow onion": "onion",
+    "white onion": "onion",
+    "sweet onion": "onion",
+    "vidalia onion": "onion",
+    "spanish onion": "onion",
+    "red onion": "onion",
+    "shallots": "shallot",
+    "garlic clove": "garlic",
+    "garlic cloves": "garlic",
+    "minced garlic": "garlic",
+    "celery stalk": "celery",
+    "celery stalks": "celery",
+    "celery ribs": "celery",
+    "russet potato": "potato",
+    "white potato": "potato",
+    "baking potato": "potato",
+    "yam": "sweet potato",
+    "roma tomato": "tomato",
+    "plum tomato": "tomato",
+    "cherry tomatoes": "tomato",
+    "grape tomatoes": "tomato",
+    "green bell pepper": "green pepper",
+    "red bell pepper": "red pepper",
+    "fresh spinach": "spinach",
+    "baby spinach": "spinach",
+    "romaine lettuce": "lettuce",
+    "iceberg lettuce": "lettuce",
+    "button mushrooms": "mushrooms",
+    "cremini mushrooms": "mushrooms",
+    "white mushrooms": "mushrooms",
+    "yellow squash": "squash",
+    "summer squash": "squash",
+    "butternut squash": "squash",
+    "acorn squash": "squash",
+    "scallions": "scallion",
+    "green onions": "green onion",
+
+    # Fruit aliases
+    "granny smith apple": "apple",
+    "gala apple": "apple",
+    "fresh lemon juice": "lemon juice",
+    "fresh lime juice": "lime juice",
+    "frozen strawberries": "strawberries",
+    "frozen blueberries": "blueberries",
+    "dried cranberries": "cranberries",
+    "craisins": "cranberries",
+    "golden raisins": "raisins",
+    "sultanas": "raisins",
+
+    # Nut aliases
+    "sliced almonds": "almonds",
+    "slivered almonds": "almonds",
+    "chopped walnuts": "walnuts",
+    "walnut pieces": "walnuts",
+    "chopped pecans": "pecans",
+    "pecan halves": "pecans",
+    "roasted peanuts": "peanuts",
+    "creamy peanut butter": "peanut butter",
+    "crunchy peanut butter": "peanut butter",
+    "shredded coconut": "coconut",
+    "desiccated coconut": "coconut",
+    "flaked coconut": "coconut",
+
+    # Chocolate/baking aliases
+    "chocolate morsels": "chocolate chips",
+    "semi-sweet chocolate chips": "chocolate chips",
+    "semisweet chocolate chips": "chocolate chips",
+    "unsweetened cocoa": "cocoa",
+    "cocoa powder": "cocoa",
+    "dutch process cocoa": "cocoa",
+    "vanilla extract": "vanilla",
+    "pure vanilla extract": "vanilla",
+    "vanilla essence": "vanilla",
+    "active dry yeast": "yeast",
+    "instant yeast": "yeast",
+    "rapid rise yeast": "yeast",
+    "unflavored gelatin": "gelatin",
+
+    # Canned goods aliases
+    "crushed tomatoes": "canned tomatoes",
+    "stewed tomatoes": "canned tomatoes",
+    "whole tomatoes": "canned tomatoes",
+    "fire roasted tomatoes": "canned tomatoes",
+    "marinara sauce": "tomato sauce",
+    "pasta sauce": "tomato sauce",
+    "white beans": "navy beans",
+    "great northern beans": "navy beans",
+    "cannellini beans": "navy beans",
+    "garbanzo": "chickpeas",
+    "chick peas": "chickpeas",
+    "solid pack pumpkin": "pumpkin puree",
+    "pure pumpkin": "pumpkin puree",
+    "canned pumpkin": "pumpkin puree",
+
+    # Condiment/seasoning aliases
+    "kosher salt": "salt",
+    "sea salt": "salt",
+    "table salt": "salt",
+    "ground black pepper": "pepper",
+    "black pepper": "pepper",
+    "freshly ground pepper": "pepper",
+    "tamari": "soy sauce",
+    "low sodium soy sauce": "soy sauce",
+    "regular mayonnaise": "mayonnaise",
+    "hellmann's": "mayonnaise",
+    "yellow mustard": "mustard",
+    "prepared mustard": "mustard",
+    "dijon mustard": "mustard",
+    "tomato ketchup": "ketchup",
+    "catsup": "ketchup",
+    "white vinegar": "vinegar",
+    "distilled vinegar": "vinegar",
+    "cider vinegar": "vinegar",
+    "apple cider vinegar": "vinegar",
+    "red wine vinegar": "vinegar",
+    "balsamic vinegar": "vinegar",
+
+    # Spice/herb aliases
+    "ground cinnamon": "cinnamon",
+    "ground nutmeg": "nutmeg",
+    "fresh ginger": "ginger",
+    "ground ginger": "ginger",
+    "ginger root": "ginger",
+    "ground cloves": "cloves",
+    "ground allspice": "allspice",
+    "ground cumin": "cumin",
+    "sweet paprika": "paprika",
+    "smoked paprika": "paprika",
+    "hungarian paprika": "paprika",
+    "ancho chili powder": "chili powder",
+    "ground cayenne": "cayenne",
+    "red pepper flakes": "cayenne",
+    "crushed red pepper": "cayenne",
+    "dried oregano": "oregano",
+    "fresh oregano": "oregano",
+    "dried basil": "basil",
+    "fresh basil": "basil",
+    "dried thyme": "thyme",
+    "fresh thyme": "thyme",
+    "dried rosemary": "rosemary",
+    "fresh rosemary": "rosemary",
+    "dried sage": "sage",
+    "fresh sage": "sage",
+    "dried dill": "dill",
+    "fresh dill": "dill",
+    "dill weed": "dill",
+    "flat leaf parsley": "parsley",
+    "curly parsley": "parsley",
+    "fresh parsley": "parsley",
+    "italian parsley": "parsley",
+    "fresh cilantro": "cilantro",
+    "coriander leaves": "cilantro",
+    "fresh mint": "mint",
+    "dried mint": "mint",
+    "bay leaves": "bay leaf",
+    "garlic powder": "garlic",
+    "granulated garlic": "garlic",
+    "onion powder": "onion",
+    "dried minced onion": "onion",
+    "italian seasoning": "oregano",
+    "herbs de provence": "thyme",
+    "ground turmeric": "turmeric",
+
+    # Stock/broth aliases
+    "chicken stock": "chicken broth",
+    "low sodium chicken broth": "chicken broth",
+    "beef stock": "beef broth",
+    "vegetable stock": "vegetable broth",
+    "veggie broth": "vegetable broth",
+
+    # Pasta/grain aliases
+    "penne": "pasta",
+    "rigatoni": "pasta",
+    "ziti": "pasta",
+    "elbow macaroni": "macaroni",
+    "fettuccine": "pasta",
+    "linguine": "pasta",
+    "angel hair": "pasta",
+    "rotini": "pasta",
+    "farfalle": "pasta",
+    "bow tie pasta": "pasta",
+    "old fashioned oats": "oats",
+    "quick oats": "oats",
+    "rolled oats": "oats",
+    "jasmine rice": "rice",
+    "basmati rice": "rice",
+    "long grain rice": "rice",
+    "white rice": "rice",
+    "brown rice": "wild rice",
+
+    # Meat aliases
+    "skinless chicken breast": "chicken breast",
+    "boneless chicken breast": "chicken breast",
+    "chicken breasts": "chicken breast",
+    "chicken thighs": "chicken",
+    "lean ground beef": "ground beef",
+    "ground chuck": "ground beef",
+    "ground sirloin": "ground beef",
+    "hamburger meat": "ground beef",
+    "hamburger": "ground beef",
+    "minced beef": "ground beef",
+    "lean ground turkey": "ground turkey",
+    "streaky bacon": "bacon",
+    "thick cut bacon": "bacon",
+    "turkey bacon": "bacon",
+    "canadian bacon": "ham",
+    "deli ham": "ham",
+    "smoked ham": "ham",
+    "pork chops": "pork",
+    "pork loin": "pork",
+    "pork tenderloin": "pork",
+
+    # Seafood aliases
+    "salmon fillet": "salmon",
+    "atlantic salmon": "salmon",
+    "sockeye salmon": "salmon",
+    "tuna steak": "tuna",
+    "ahi tuna": "tuna",
+    "canned tuna": "tuna",
+    "raw shrimp": "shrimp",
+    "cooked shrimp": "shrimp",
+    "large shrimp": "shrimp",
+    "jumbo shrimp": "shrimp",
+    "prawns": "shrimp",
+    "lump crab": "crab",
+    "crab meat": "crab",
+    "imitation crab": "crab",
+    "lobster tail": "lobster",
+
+    # Beverage aliases
+    "dry white wine": "wine",
+    "white wine": "wine",
+    "red wine": "wine",
+    "cooking wine": "wine",
+    "sherry wine": "sherry",
+    "marsala wine": "wine",
+}
+
 # Standard can/jar sizes (in cups or units as appropriate)
 # These are typical US sizes used when can/jar size isn't specified
 STANDARD_CAN_SIZES = {
@@ -549,11 +881,20 @@ def parse_fraction(s):
 
 def find_ingredient_match(item):
     """Find the best match for an ingredient in our database."""
-    item_lower = item.lower()
+    item_lower = item.lower().strip()
 
-    # Direct match
+    # Direct match in NUTRITION_DB
     if item_lower in NUTRITION_DB:
         return item_lower
+
+    # Check aliases first (exact match)
+    if item_lower in INGREDIENT_ALIASES:
+        return INGREDIENT_ALIASES[item_lower]
+
+    # Check if any alias is contained in the item
+    for alias, canonical in sorted(INGREDIENT_ALIASES.items(), key=lambda x: len(x[0]), reverse=True):
+        if alias in item_lower:
+            return canonical
 
     # Check if any DB key is in the item
     for key in sorted(NUTRITION_DB.keys(), key=len, reverse=True):
