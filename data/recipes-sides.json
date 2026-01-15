@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "sides",
-    "count": 63,
+    "count": 73,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -6355,6 +6355,953 @@
           "Based on 1/1 ingredients (100% coverage)"
         ]
       }
+    },
+    {
+      "id": "hungarian-bread-dumplings-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hungarian Bread Dumplings a la Matt Kubick",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 18",
+      "ingredients": [
+        {
+          "item": "dried cubed bread",
+          "quantity": "5",
+          "unit": "slices or rolls",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "sm.",
+          "prep_note": "minced, optional"
+        },
+        {
+          "item": "parsley",
+          "quantity": "2",
+          "unit": "sprigs",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "add more as needed"
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "add as required"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "maggi",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saute onions and parsley in margarine."
+        },
+        {
+          "step": 2,
+          "text": "Place bread in pan and brown to slightly yellow, add salt, flour and stir until well mixed."
+        },
+        {
+          "step": 3,
+          "text": "Beat egg and milk and add to bread mix; let stand until absorbed."
+        },
+        {
+          "step": 4,
+          "text": "Bring water to boil (add salt). Make large balls and drop into boiling water."
+        },
+        {
+          "step": 5,
+          "text": "Cook 10 minutes; drain and run cold water on."
+        }
+      ],
+      "cook_time": "10 minutes",
+      "notes": [],
+      "tags": [
+        "side dish",
+        "dumplings",
+        "hungarian",
+        "bread"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5680 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "spinach-squares-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spinach Squares",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 28",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen spinach",
+          "quantity": "2",
+          "unit": "10 oz pkg",
+          "prep_note": "drained and squeezed dry"
+        },
+        {
+          "item": "lg. curd cottage cheese",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "7",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion and parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped, combined"
+        },
+        {
+          "item": "eggs",
+          "quantity": "7",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "1",
+          "unit": "dash",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Cut cheeses and butter into small pieces. In large bowl, combine with spinach, cottage cheese, flour, onion and parsley."
+        },
+        {
+          "step": 3,
+          "text": "In separate bowl, beat eggs with seasonings until well beaten, fold into spinach mixture."
+        },
+        {
+          "step": 4,
+          "text": "Pour into well-buttered 9x13x2 inch baking dish."
+        },
+        {
+          "step": 5,
+          "text": "Bake about 1 hour or until brown and bubbly."
+        },
+        {
+          "step": 6,
+          "text": "Cool slightly, cut into squares."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "1 hour",
+      "servings_yield": "20 servings",
+      "pan_size": "9x13x2 inch baking dish",
+      "notes": [],
+      "tags": [
+        "side dish",
+        "spinach",
+        "vegetable",
+        "cheese",
+        "party food"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5690 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "vegetable-casserole-ritz-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetable Casserole",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 129",
+      "ingredients": [
+        {
+          "item": "mixed vegetables",
+          "quantity": "3",
+          "unit": "cans",
+          "prep_note": "drained"
+        },
+        {
+          "item": "mayonnaise",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": "melted"
+        },
+        {
+          "item": "Ritz crackers",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix vegetables, mayonnaise, celery, onion, and cheese."
+        },
+        {
+          "step": 2,
+          "text": "Put in baking dish."
+        },
+        {
+          "step": 3,
+          "text": "Mix melted margarine with crushed Ritz crackers."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle over vegetable mixture."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F for 30 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "30 minutes",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "vegetable",
+        "side dish",
+        "cheese"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5795 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "rice-casserole-consomme-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice Casserole",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 134",
+      "ingredients": [
+        {
+          "item": "rice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beef consomme",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "drained"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients in crock pot and cook on low all day."
+        },
+        {
+          "step": 2,
+          "text": "OR cook in 350 degree oven for 2 to 2 1/2 hours."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "2 to 2 1/2 hours (oven) or all day (crock pot)",
+      "notes": [
+        "Can be made in crock pot or oven"
+      ],
+      "tags": [
+        "side dish",
+        "rice",
+        "casserole",
+        "slow cooker"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5800 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "celery-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Celery Casserole",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 139",
+      "ingredients": [
+        {
+          "item": "celery",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "diced"
+        },
+        {
+          "item": "diced pimento",
+          "quantity": "1",
+          "unit": "jar",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of chicken soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced water chestnuts",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "slivered almonds",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook celery only for 5 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Mix the rest together with the celery."
+        },
+        {
+          "step": 3,
+          "text": "Place in pan of melted butter."
+        },
+        {
+          "step": 4,
+          "text": "Top with 1/2 cup of butter and 1/2 cup slivered almonds."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F for 30 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "30 minutes",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "side dish",
+        "celery",
+        "vegetable",
+        "almonds"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5805 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "corn-salad-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Salad Casserole",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 139",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "sm. carton",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped black olives",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "drained"
+        },
+        {
+          "item": "chopped pimento",
+          "quantity": "1",
+          "unit": "jar",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "whole kernel corn",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": "drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream together the cream cheese, sour cream, lemon juice and garlic."
+        },
+        {
+          "step": 2,
+          "text": "Add the rest of the ingredients and stir."
+        },
+        {
+          "step": 3,
+          "text": "Serve hot for a casserole or cold for a salad dish."
+        }
+      ],
+      "notes": [
+        "Versatile - can be served hot as a casserole or cold as a salad"
+      ],
+      "tags": [
+        "casserole",
+        "salad",
+        "side dish",
+        "corn",
+        "cream cheese"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5805 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "spinach-artichoke-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spinach Casserole",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 143",
+      "ingredients": [
+        {
+          "item": "frozen chopped spinach",
+          "quantity": "2",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen artichoke hearts",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "marinated artichoke hearts",
+          "quantity": "1",
+          "unit": "jar",
+          "prep_note": ""
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3 to 1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green onion dip mix",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat cream cheese, butter, milk and green onion dip mix until creamy."
+        },
+        {
+          "step": 2,
+          "text": "Layer artichoke hearts on bottom of ungreased casserole."
+        },
+        {
+          "step": 3,
+          "text": "Mix 1/2 creamy mix with drained spinach, pour remainder of creamy mix over top."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle with Parmesan."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F for 30 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "30 minutes",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "side dish",
+        "spinach",
+        "artichoke",
+        "vegetable"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5810 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "zucchini-casserole-stuffing-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Zucchini Casserole",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 143",
+      "ingredients": [
+        {
+          "item": "zucchini",
+          "quantity": "3",
+          "unit": "lbs",
+          "prep_note": "cut in chunks, peeled if large"
+        },
+        {
+          "item": "onions",
+          "quantity": "2",
+          "unit": "med.",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "margarine",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Stove Top stuffing",
+          "quantity": "1",
+          "unit": "box",
+          "prep_note": "chicken flavor, prepared as directed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Steam zucchini for about 5 minutes or cook in microwave until partially cooked. Drain."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, saute onions in margarine, remove from heat."
+        },
+        {
+          "step": 3,
+          "text": "Add cream of chicken soup, and sour cream."
+        },
+        {
+          "step": 4,
+          "text": "In greased casserole, layer 1/2 of zucchini, 1/2 of onion and soup mixture and 1/2 of stuffing."
+        },
+        {
+          "step": 5,
+          "text": "Repeat layers ending with stuffing."
+        },
+        {
+          "step": 6,
+          "text": "Bake for 1 hour at 350\u00b0F."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "1 hour",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "side dish",
+        "zucchini",
+        "vegetable"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5810 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "sweet-potato-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Potato Casserole",
+      "category": "sides",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 146",
+      "ingredients": [
+        {
+          "item": "yams",
+          "quantity": "2",
+          "unit": "16 oz cans",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": "melted"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "well beaten"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "margarine",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": "melted, for topping"
+        },
+        {
+          "item": "pecans",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "chopped, for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix yams, margarine, sugar, eggs and vanilla together."
+        },
+        {
+          "step": 2,
+          "text": "Pour into 9 x 13 inch pan."
+        },
+        {
+          "step": 3,
+          "text": "For topping: Mix brown sugar, milk, flour, melted margarine and pecans."
+        },
+        {
+          "step": 4,
+          "text": "Mix and slowly pour over potatoes. Spread evenly."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F for 1 hour."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "1 hour",
+      "pan_size": "9 x 13 inch pan",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "side dish",
+        "sweet potato",
+        "holiday",
+        "thanksgiving"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5815 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "corn-fritters-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Fritters",
+      "category": "sides",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "Crispy deep-fried corn fritters that can be served with maple syrup or powdered sugar.",
+      "servings_yield": "24-28 fritters",
+      "prep_time": "",
+      "cook_time": "2-3 minutes per batch",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Green Giant frozen cream style corn",
+          "quantity": "10",
+          "unit": "oz pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "oil for deep frying",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "yellow cornmeal",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "instant minced onion",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place unopened corn pouch in warm water for 10 to 15 minutes to thaw."
+        },
+        {
+          "step": 2,
+          "text": "In deep fat fryer or heavy saucepan, heat 2 to 3 inches of oil to 375\u00b0F (190\u00b0C)."
+        },
+        {
+          "step": 3,
+          "text": "In medium bowl, combine thawed corn and remaining ingredients; stir until well combined."
+        },
+        {
+          "step": 4,
+          "text": "Drop batter by level tablespoonfuls into hot oil, 375\u00b0F."
+        },
+        {
+          "step": 5,
+          "text": "Fry 2 to 3 minutes or until golden brown."
+        },
+        {
+          "step": 6,
+          "text": "Drain on paper towel. 24 to 28 fritters."
+        },
+        {
+          "step": 7,
+          "text": "TIP: Corn Fritters can be served with maple syrup or sprinkled with powdered sugar."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C) oil",
+      "pan_size": "",
+      "notes": [
+        "Can be served with maple syrup or powdered sugar"
+      ],
+      "tags": [
+        "corn",
+        "fritters",
+        "fried",
+        "side-dish",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5727 Medium.jpeg"
+      ]
     }
   ]
 }

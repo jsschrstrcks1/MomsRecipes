@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "sauces",
-    "count": 38,
+    "count": 43,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -3187,6 +3187,362 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
+      }
+    },
+    {
+      "id": "red-chile-sauce-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Red Chile Sauce",
+      "category": "sauces",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 37",
+      "ingredients": [
+        {
+          "item": "shortening",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "red chile powder",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cold chicken broth",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt the shortening, add the flour, and stir. Add the chile powder and continue to stir until mixed."
+        },
+        {
+          "step": 2,
+          "text": "Gradually add the chicken broth and stir until there are no lumps."
+        },
+        {
+          "step": 3,
+          "text": "Season with salt and garlic powder and simmer for 10 to 15 minutes."
+        }
+      ],
+      "notes": [
+        "Use with Mrs. Mondragon's Cocktail Meatballs"
+      ],
+      "tags": [
+        "sauce",
+        "red chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6024 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "caramel-syrup-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Caramel Syrup",
+      "category": "sauces",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 86",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan heat the sugar slowly until brown; add the remaining ingredients and bring to a boil."
+        },
+        {
+          "step": 2,
+          "text": "Serve hot over Sweet Chile Albondigas."
+        }
+      ],
+      "notes": [
+        "In New Mexico this is a traditional holiday dish among the Spanish-surnamed population, and it is usually served at Spanish weddings."
+      ],
+      "tags": [
+        "sauce",
+        "syrup",
+        "caramel",
+        "sweet"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6069 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "enchilada-sauce-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Enchilada Sauce",
+      "category": "sauces",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 138",
+      "servings_yield": "Makes 4 cups",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chile powder",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cumin",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "1",
+          "unit": "can (6 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make a roux of the butter and flour. Add the spices and tomato paste. Stir until well blended. Gradually add the milk, stirring constantly until all blended. Heat until hot. Serve over squares of Do-Ahead Chile Relleno Casserole."
+        }
+      ],
+      "notes": [
+        "Serve over Do-Ahead Chile Relleno Casserole"
+      ],
+      "tags": [
+        "sauce",
+        "enchilada sauce",
+        "chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6124 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "onion-soup-swedish-meatball-sauce-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Onion-Soup-Based Swedish Meatball Sauce",
+      "category": "sauces",
+      "attribution": "Handwritten/printed recipe",
+      "source_note": "FBC Jasmine Cook Book",
+      "ingredients": [
+        {
+          "item": "mushroom gravy mix",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "onion soup mix",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "1 can of water"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "1/2 container"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine gravy and soup mixes and water."
+        },
+        {
+          "step": 2,
+          "text": "Bring to a boil stirring constantly."
+        },
+        {
+          "step": 3,
+          "text": "Simmer for one minute, reduce heat to low, and add sour cream."
+        }
+      ],
+      "notes": [
+        "Use as sauce for Swedish meatballs"
+      ],
+      "tags": [
+        "sauce",
+        "meatballs",
+        "Swedish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5650 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "onion-soup-swedish-meatball-sauce-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Onion-Soup-Based Swedish Meatball Sauce",
+      "category": "sauces",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Handwritten recipe insert",
+      "ingredients": [
+        {
+          "item": "mushroom gravy",
+          "quantity": "3",
+          "unit": "cans",
+          "prep_note": "soup style"
+        },
+        {
+          "item": "mushroom gravy mix",
+          "quantity": "2",
+          "unit": "packages",
+          "prep_note": ""
+        },
+        {
+          "item": "onion soup mix",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "about 1 can"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "about 1/2 container"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine gravy and soup mixes and water."
+        },
+        {
+          "step": 2,
+          "text": "Bring to a boil stirring constantly."
+        },
+        {
+          "step": 3,
+          "text": "Simmer for one minute."
+        },
+        {
+          "step": 4,
+          "text": "Reduce heat to low, and add sour cream."
+        }
+      ],
+      "notes": [
+        "Serve over meatballs with egg noodles"
+      ],
+      "tags": [
+        "sauce",
+        "meatballs",
+        "swedish",
+        "creamy"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5650 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
       }
     }
   ]

@@ -5,16 +5,16 @@
     "created": "2026-01-05",
     "last_updated": "2026-01-13",
     "version": "3.0.2",
-    "total_recipes": 1943,
+    "total_recipes": 2285,
     "sharded": true,
     "shard_strategy": "by_category",
-    "shard_count": 29
+    "shard_count": 30
   },
   "shards": [
     {
       "category": "appetizers",
       "file": "recipes-appetizers.json",
-      "count": 72
+      "count": 118
     },
     {
       "category": "basics",
@@ -24,17 +24,17 @@
     {
       "category": "beverages",
       "file": "recipes-beverages.json",
-      "count": 57
+      "count": 70
     },
     {
       "category": "breads",
       "file": "recipes-breads.json",
-      "count": 284
+      "count": 301
     },
     {
       "category": "breakfast",
       "file": "recipes-breakfast.json",
-      "count": 12
+      "count": 46
     },
     {
       "category": "cakes",
@@ -59,12 +59,12 @@
     {
       "category": "cookies",
       "file": "recipes-cookies.json",
-      "count": 60
+      "count": 61
     },
     {
       "category": "desserts",
       "file": "recipes-desserts.json",
-      "count": 372
+      "count": 478
     },
     {
       "category": "eggs",
@@ -89,12 +89,12 @@
     {
       "category": "main-dishes",
       "file": "recipes-main-dishes.json",
-      "count": 109
+      "count": 170
     },
     {
       "category": "mains",
       "file": "recipes-mains.json",
-      "count": 207
+      "count": 208
     },
     {
       "category": "meat",
@@ -114,7 +114,7 @@
     {
       "category": "salads",
       "file": "recipes-salads.json",
-      "count": 55
+      "count": 64
     },
     {
       "category": "sandwiches",
@@ -124,7 +124,7 @@
     {
       "category": "sauces",
       "file": "recipes-sauces.json",
-      "count": 38
+      "count": 43
     },
     {
       "category": "shellfish",
@@ -132,19 +132,24 @@
       "count": 11
     },
     {
+      "category": "side-dishes",
+      "file": "recipes-side-dishes.json",
+      "count": 35
+    },
+    {
       "category": "sides",
       "file": "recipes-sides.json",
-      "count": 63
+      "count": 73
     },
     {
       "category": "snacks",
       "file": "recipes-snacks.json",
-      "count": 63
+      "count": 65
     },
     {
       "category": "soups",
       "file": "recipes-soups.json",
-      "count": 35
+      "count": 37
     },
     {
       "category": "tips",
@@ -35083,6 +35088,6348 @@
       "servings_yield": "4 side-dish servings",
       "total_time": "",
       "attribution": "Better Homes and Gardens New Cook Book",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-breakfast-whirls-gcb",
+      "title": "Chile Breakfast Whirls",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "appetizer",
+        "sausage",
+        "green chile",
+        "make-ahead",
+        "freezer-friendly"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 50 to 60",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "huevos-y-chilaquiles-gcb",
+      "title": "Huevos y Chilaquiles",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "tortillas",
+        "green chile",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chiles-con-huevos-gcb",
+      "title": "Chiles con Huevos",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "casserole",
+        "green chile",
+        "ham",
+        "mushrooms"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "i-cant-stand-eggs-gcb",
+      "title": "\"I Can't Stand Eggs\"",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "green chile",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-eggs-with-cheese-and-chile-gcb",
+      "title": "Baked Eggs with Cheese and Chile",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "green chile",
+        "brunch"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4 to 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chil-once-gcb",
+      "title": "Chil-Once",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "bacon",
+        "corn",
+        "green chile",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "egg-and-chile-omelet-gcb",
+      "title": "Egg and Chile Omelet",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "green chile",
+        "make-ahead",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-cheese-sausage-pancakes-or-waffles-gcb",
+      "title": "Chile-Cheese-Sausage Pancakes or Waffles",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "waffles",
+        "sausage",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "tomato-ice-gcb",
+      "title": "Tomato Ice",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "frozen",
+        "tomato",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cheese-roll-ole-gcb",
+      "title": "Cheese Roll Ol\u00e9",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "cheese",
+        "green chile",
+        "make-ahead"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 18",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "guacamole-gcb",
+      "title": "Guacamole",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "avocado",
+        "green chile",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 2 1/2 cups",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chicken-livered-cheese-n-chile-puffs-gcb",
+      "title": "Chicken Livered Cheese 'n Chile Puffs",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "chicken liver",
+        "cheese",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cornmeal-puffs-gcb",
+      "title": "Cornmeal Puffs",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "puffs",
+        "cornmeal"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 48",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "seviche-gcb",
+      "title": "Seviche",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "seafood",
+        "scallops",
+        "green chile",
+        "no-cook"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broccoli-dip-gcb",
+      "title": "Broccoli Dip",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "broccoli",
+        "cheese",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 5 cups",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "picante-dip-gcb",
+      "title": "Picante Dip",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "tomato",
+        "green chile",
+        "cream cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 12 to 14",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "green-chile-dip-gcb",
+      "title": "Green Chile Dip",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "sour cream",
+        "green chile",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "avocado-dip-gcb",
+      "title": "Avocado Dip",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "avocado",
+        "cheese",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "blended-chile-avocado-dip-gcb",
+      "title": "Blended Chile-Avocado Dip",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "avocado",
+        "green chile",
+        "blender"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 15",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "garden-dip-gcb",
+      "title": "Garden Dip",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "cream cheese",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 20",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "traditional-chile-con-queso-gcb",
+      "title": "Traditional Chile con Queso",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "cheese",
+        "green chile",
+        "queso"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 15 to 20",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-con-queso-sauce-gcb",
+      "title": "Chile con Queso Sauce",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "dip",
+        "sauce",
+        "cheese",
+        "green chile",
+        "queso"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mrs-mondragons-cocktail-meatballs-gcb",
+      "title": "Mrs. Mondragon's Cocktail Meatballs",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "meatballs",
+        "beef",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "red-chile-sauce-gcb",
+      "title": "Red Chile Sauce",
+      "category": "sauces",
+      "tags": [
+        "sauce",
+        "red chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-cheese-squares-gcb",
+      "title": "Chile-Cheese Squares",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "cheese",
+        "green chile",
+        "eggs"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chil-e-ums-gcb",
+      "title": "Chil-E-Ums",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "rolls",
+        "bacon",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 48",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-izzas-gcb",
+      "title": "Chile-Izzas",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "pizza",
+        "beef",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 80",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "perritos-verdes-gcb",
+      "title": "Perritos Verdes (Green Chile Puppies)",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "hot dogs",
+        "green chile",
+        "fried"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "green-chile-salad-gcb",
+      "title": "Green Chile Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "green chile",
+        "tomato"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "marinated-garden-salad-gcb",
+      "title": "Marinated Garden Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "green chile",
+        "tomato",
+        "marinated"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "piquant-salad-gcb",
+      "title": "Piquant Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "gelatin",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "green-chile-cucumber-salad-gcb",
+      "title": "Green Chile and Cucumber Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "gelatin",
+        "cucumber",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 12",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "southwestern-corn-chowder-gcb",
+      "title": "Southwestern Corn Chowder",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "chowder",
+        "corn",
+        "green chile",
+        "bacon"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "traditional-gazpacho-gcb",
+      "title": "Traditional Gazpacho",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "cold soup",
+        "gazpacho",
+        "green chile",
+        "no-cook"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fire-chiefs-hot-stew-gcb",
+      "title": "Fire Chief's Hot Stew",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "stew",
+        "beef",
+        "green chile",
+        "potatoes"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-con-carne-de-venado-gcb",
+      "title": "Chile con Carne de Venado (Chile with Venison)",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "venison",
+        "game",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8 to 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "bean-and-chicken-stew-gcb",
+      "title": "Bean and Chicken Stew",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "stew",
+        "chicken",
+        "beans",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4 to 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-gumbo-gcb",
+      "title": "Chile Gumbo",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "gumbo",
+        "beef",
+        "green chile",
+        "okra"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "southwest-baked-beans-gcb",
+      "title": "Southwest Baked Beans",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "beans",
+        "green chile",
+        "bacon"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8 to 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broccoli-green-chile-delight-gcb",
+      "title": "Broccoli-Green Chile Delight",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "broccoli",
+        "rice",
+        "cheese",
+        "green chile",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cauliflower-chile-souffle-gcb",
+      "title": "Cauliflower-Chile Souffl\u00e9",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "cauliflower",
+        "souffle",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "creamy-corn-casserole-gcb",
+      "title": "Creamy Corn Casserole",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "corn",
+        "casserole",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "curried-corn-with-chile-gcb",
+      "title": "Curried Corn with Chile",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "corn",
+        "curry",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cornfetti-casserole-gcb",
+      "title": "Cornfetti Casserole",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "corn",
+        "casserole",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "corn-and-green-chile-gcb",
+      "title": "Corn and Green Chile",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "corn",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "eggplant-ole-gcb",
+      "title": "Eggplant Ol\u00e9",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "eggplant",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "garbanzos-calientes-gcb",
+      "title": "Garbanzos Calientes",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "beans",
+        "chickpeas",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mexicali-spuds-gcb",
+      "title": "Mexicali Spuds",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "potatoes",
+        "bacon",
+        "green chile",
+        "sour cream"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "green-chile-mashed-potatoes-gcb",
+      "title": "Green Chile Mashed Potatoes",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "potatoes",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "roundup-mashed-potatoes-gcb",
+      "title": "Roundup Mashed Potatoes",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "potatoes",
+        "green chile",
+        "cheese",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "southwestern-spinach-gcb",
+      "title": "Southwestern Spinach",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "spinach",
+        "green chile",
+        "cheese",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "zucchini-espanolas-gcb",
+      "title": "Zucchini Espa\u00f1olas",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "zucchini",
+        "corn",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "zucchini-esquibel-gcb",
+      "title": "Zucchini Esquibel",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "zucchini",
+        "green chile",
+        "cheese",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "creamy-vegetable-melange-gcb",
+      "title": "Creamy Vegetable M\u00e9lange",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "vegetables",
+        "zucchini",
+        "corn",
+        "green chile",
+        "cream sauce"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8 to 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "calabacitas-zovio-gcb",
+      "title": "Calabacitas Zovio",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "squash",
+        "zucchini",
+        "corn",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-mushroom-fritters-gcb",
+      "title": "Chile-Mushroom Fritters",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "fritters",
+        "mushrooms",
+        "green chile",
+        "fried"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "southwestern-corn-bread-gcb",
+      "title": "Southwestern Corn Bread",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "cornbread",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8 to 10",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sour-cream-corn-bread-gcb",
+      "title": "Sour Cream Corn Bread",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "cornbread",
+        "sour cream",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 9",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "noodles-with-green-chile-gcb",
+      "title": "Noodles with Green Chile",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "noodles",
+        "pasta",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "yum-yum-rice-casserole-gcb",
+      "title": "Yum-Yum Rice Casserole",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "rice",
+        "green chile",
+        "cheese",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hominy-grits-casserole-gcb",
+      "title": "Hominy Grits Casserole",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "grits",
+        "cheese",
+        "green chile",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "green-chile-gnocci-gcb",
+      "title": "Green Chile Gnocci",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "gnocci",
+        "grits",
+        "green chile",
+        "cheese",
+        "casserole"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sweet-chile-albondigas-gcb",
+      "title": "Sweet Chile Albondigas",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "meatballs",
+        "beef",
+        "pork",
+        "green chile",
+        "sweet"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 24",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "caramel-syrup-gcb",
+      "title": "Caramel Syrup",
+      "category": "sauces",
+      "tags": [
+        "sauce",
+        "syrup",
+        "caramel",
+        "sweet"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mrs-lujans-green-chile-stew-gcb",
+      "title": "Mrs. Lujan's Green Chile Stew",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "stew",
+        "green chile",
+        "beef",
+        "pork"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sour-cream-enchiladas-stack-gcb",
+      "title": "Sour Cream Enchiladas in a Stack",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "enchiladas",
+        "chicken",
+        "green chile",
+        "sour cream",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-with-fresh-corn-gcb",
+      "title": "Chile with Fresh Corn",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "beef",
+        "pork",
+        "corn",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "stuffed-cabbage-spanish-style-gcb",
+      "title": "Stuffed Cabbage, Spanish Style",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "cabbage",
+        "beef",
+        "pork",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 5",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "stuffed-green-chiles-gcb",
+      "title": "Stuffed Green Chiles",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "stuffed peppers",
+        "beef",
+        "green chile",
+        "rice"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 5 to 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "great-green-bean-chile-gcb",
+      "title": "Great Green Bean Chile",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "beef",
+        "green beans",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "little-boats-gcb",
+      "title": "Little Boats (Stuffed Eggplant)",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "eggplant",
+        "stuffed vegetables",
+        "lamb",
+        "beef",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "big-wheel-chile-burger-gcb",
+      "title": "Big Wheel Chile Burger",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "beef",
+        "burger",
+        "green chile",
+        "beans"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 5 or 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cottage-enchiladas-gcb",
+      "title": "Cottage Enchiladas",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "enchiladas",
+        "beef",
+        "green chile",
+        "cheese",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "southwestern-lasagne-gcb",
+      "title": "Southwestern Lasagne",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "lasagne",
+        "beef",
+        "green chile",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4 to 5",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "basic-ground-beef-mixture-gcb",
+      "title": "Basic Ground Beef Mixture",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "beef",
+        "base recipe"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hearty-casserole-gcb",
+      "title": "Hearty Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "casserole",
+        "beef",
+        "potatoes",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "weekday-casserole-gcb",
+      "title": "Weekday Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "casserole",
+        "pork",
+        "beef",
+        "zucchini",
+        "corn",
+        "green chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4 to 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "macaroni-green-chile-pie-gcb",
+      "title": "Macaroni-Green Chile Pie",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "pasta",
+        "beef",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "round-steak-roll-ups-gcb",
+      "title": "Round Steak Roll Ups",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "beef",
+        "steak",
+        "green chile",
+        "wine"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chicken-mexicana-gcb",
+      "title": "Chicken Mexicana",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chicken",
+        "green chile",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chicken-breasts-sauterne-chile-avocado-gcb",
+      "title": "Chicken Breasts Sauterne with Chile and Avocado",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chicken",
+        "green chile",
+        "avocado",
+        "wine"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pollo-ranchero-gcb",
+      "title": "Pollo Ranchero",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chicken",
+        "green chile",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 3 generous servings or 6 conservative ones",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chicken-tomato-casserole-gcb",
+      "title": "Chicken-Tomato Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chicken",
+        "casserole",
+        "green chile",
+        "tortillas"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fiesta-casserole-gcb",
+      "title": "Fiesta Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "tuna",
+        "casserole",
+        "green chile",
+        "noodles"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pork-loin-in-green-sauce-gcb",
+      "title": "Pork Loin in Green Sauce",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "pork",
+        "green chile",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "italian-green-chile-casserole-gcb",
+      "title": "Italian Green Chile Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "sausage",
+        "beef",
+        "green chile",
+        "Italian"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4 to 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cornmeal-mush-gcb",
+      "title": "Cornmeal Mush",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "cornmeal",
+        "base recipe"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chile-sausage-saute-gcb",
+      "title": "Chile-Sausage Saut\u00e9",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "sausage",
+        "green chile",
+        "Italian"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "spinach-quiche-gcb",
+      "title": "Spinach Quiche",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "quiche",
+        "spinach",
+        "rice",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chiles-rellenos-guillermos-gcb",
+      "title": "Chiles Rellenos Guillermos",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "green-chile-casserole-gcb",
+      "title": "Green Chile Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "casserole",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4 to 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "easy-relleno-bake-gcb",
+      "title": "Easy Relleno Bake",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 3 to 4",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "rellenos-on-spanish-rice-gcb",
+      "title": "Rellenos on Spanish Rice",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "spanish rice",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "relleno-bean-bake-gcb",
+      "title": "Relleno Bean Bake",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "beans",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "enchilada-sauce-gcb",
+      "title": "Enchilada Sauce",
+      "category": "sauces",
+      "tags": [
+        "sauce",
+        "enchilada sauce",
+        "chile"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 4 cups",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sopaipillas-rellenas-gcb",
+      "title": "Sopaipillas Rellenas",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "sopaipillas",
+        "beans",
+        "green chile",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mesa-verde-maize-gcb",
+      "title": "Mesa Verde Maize",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "corn",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 6 to 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "green-chile-pizza-gcb",
+      "title": "Green Chile Pizza",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "pizza",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "california-casserole-gcb",
+      "title": "California Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "casserole",
+        "rice",
+        "green chile",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "",
+      "attribution": "Green Chile Bible",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "salad-joshua-cwa",
+      "title": "Salad Joshua",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "feta",
+        "grapes",
+        "pine nuts",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "lotta-lentils-cwa",
+      "title": "Lotta Lentils",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "lentils",
+        "herbs",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "saintly-eggs-cwa",
+      "title": "Saintly Eggs",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "king-samuels-stuffed-eggs-cwa",
+      "title": "King Samuel's Stuffed Eggs",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "eggs",
+        "deviled eggs",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "asparagus-ruth-cwa",
+      "title": "Asparagus Ruth",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "asparagus",
+        "eggs",
+        "cream sauce",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "basic-barley-cwa",
+      "title": "Basic Barley",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "barley",
+        "grains",
+        "walnuts",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cakes-of-barley-cwa",
+      "title": "Cakes of Barley",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "barley",
+        "raisins",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "1 loaf (12-16 slices)",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "basic-beans-cwa",
+      "title": "Basic Beans",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "fava beans",
+        "Parmesan",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fava-beans-corinthian-cwa",
+      "title": "Fava Beans Corinthian",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "fava beans",
+        "fried",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-lentils-lazarus-cwa",
+      "title": "Baked Lentils Lazarus",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "lentils",
+        "casserole",
+        "cheese",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "esaus-pottage-cwa",
+      "title": "Esau's Pottage",
+      "category": "side-dishes",
+      "tags": [
+        "side dish",
+        "lentils",
+        "barley",
+        "onions",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pomegranate-kidneys-cwa",
+      "title": "Pomegranate Kidneys",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "kidneys",
+        "lamb",
+        "pomegranate",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pilaf-cwa",
+      "title": "Pilaf",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "pilaf",
+        "barley",
+        "chicken",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fish-of-galilee-cwa",
+      "title": "Fish of Galilee",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "fish",
+        "Parmesan",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "honey-walnut-trout-cwa",
+      "title": "Honey Walnut Trout",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "fish",
+        "trout",
+        "walnuts",
+        "honey",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "methuselahs-egg-bread-cwa",
+      "title": "Methuselah's Egg Bread",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "egg bread",
+        "braided",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "1 loaf (12-16 slices)",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sweet-anise-challah-cwa",
+      "title": "Sweet Anise Challah",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "challah",
+        "anise",
+        "orange",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "1 loaf (12-16 slices)",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "not-for-prophet-bread-cwa",
+      "title": "Not For Prophet Bread",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "sourdough",
+        "cheese",
+        "onion",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "1 loaf (12-16 slices)",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "raisin-cain-cwa",
+      "title": "Raisin Cain",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "sourdough",
+        "raisins",
+        "walnuts",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "1 loaf (12-16 slices)",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "wholly-pancakes-cwa",
+      "title": "Wholly Pancakes",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "sourdough",
+        "whole wheat",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 4-6",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cheesed-popovers-cwa",
+      "title": "Cheesed Popovers",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "popovers",
+        "cheese",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "1 loaf (12-16 slices)",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "judean-fruit-salad-cwa",
+      "title": "Judean Fruit Salad",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "fruit salad",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "a-date-with-melons-cwa",
+      "title": "A Date With Melons",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "melon",
+        "dates",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "stuffed-apples-athena-cwa",
+      "title": "Stuffed Apples Athena",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "baked apples",
+        "nuts",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chicken-salad-ancients",
+      "title": "Chicken Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "chicken",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "juliuth-icthus-salad-ancients",
+      "title": "Juliuth Icthus Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "caesar-style",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "A Caesar-style salad with homemade croutons",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "more-cucumber-salad-ancients",
+      "title": "More Cucumber Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "cucumber",
+        "yogurt",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "naomis-carrot-cheese-bake-ancients",
+      "title": "Naomi's Carrot-Cheese Bake",
+      "category": "side-dishes",
+      "tags": [
+        "vegetable",
+        "cheese",
+        "side-dish",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ezras-fritters-ancients",
+      "title": "Ezra's Fritters",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "fritters",
+        "eggs",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "shepherds-cheese-bake-ancients",
+      "title": "Shepherd's Cheese Bake",
+      "category": "main-dishes",
+      "tags": [
+        "breakfast",
+        "brunch",
+        "cheese",
+        "casserole",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "onion-tart-hiram-ancients",
+      "title": "Onion Tart Hiram",
+      "category": "main-dishes",
+      "tags": [
+        "tart",
+        "quiche",
+        "onion",
+        "cheese",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mahanaim-beans-ancients",
+      "title": "Mahanaim Beans",
+      "category": "side-dishes",
+      "tags": [
+        "beans",
+        "fava",
+        "side-dish",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "our-fava-beans-ancients",
+      "title": "Our Fava Beans",
+      "category": "side-dishes",
+      "tags": [
+        "beans",
+        "fava",
+        "pistachio",
+        "side-dish",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fricassee-festus-ancients",
+      "title": "Fricassee Festus",
+      "category": "main-dishes",
+      "tags": [
+        "lamb",
+        "fricassee",
+        "egg-lemon sauce",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "Lamb fricassee with egg-lemon sauce",
+      "servings_yield": "4-6 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "biblical-medley-ancients",
+      "title": "Biblical Medley",
+      "category": "desserts",
+      "tags": [
+        "fruit",
+        "dessert",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "apple-blackberry-saul-ancients",
+      "title": "Apple Blackberry Saul",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "fruit",
+        "crisp",
+        "apple",
+        "blackberry",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-figs-in-wine-ancients",
+      "title": "Baked Figs in Wine",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "figs",
+        "wine",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "saras-sponge-cake-ancients",
+      "title": "Sara's Sponge Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "sponge cake",
+        "dessert",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "apricot-sauce-ancients",
+      "title": "Apricot Sauce",
+      "category": "desserts",
+      "tags": [
+        "sauce",
+        "dessert",
+        "apricot",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 2 cups",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "a-to-zion-pastries-ancients",
+      "title": "A to Zion Pastries",
+      "category": "desserts",
+      "tags": [
+        "pastry",
+        "apple",
+        "dessert",
+        "biblical"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "Cooking With the Ancients",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fudgy-chocolate-layer-cake-gahb",
+      "title": "Fudgy Chocolate Layer Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "layer cake",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "25-30 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "boston-cream-pie-gahb",
+      "title": "Boston Cream Pie",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "cream pie",
+        "chocolate",
+        "dessert",
+        "classic"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8 servings",
+      "total_time": "",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "toffee-topped-bars-gahb",
+      "title": "Toffee-Topped Bars",
+      "category": "desserts",
+      "tags": [
+        "bars",
+        "cookies",
+        "toffee",
+        "chocolate",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "24 bars",
+      "total_time": "35 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "apple-oatmeal-cookies-gahb",
+      "title": "Apple-Oatmeal Cookies",
+      "category": "desserts",
+      "tags": [
+        "cookies",
+        "oatmeal",
+        "apple",
+        "healthy",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "Soft, chewy cookies perfect for filling the cookie jar",
+      "servings_yield": "3 dozen cookies",
+      "total_time": "10-12 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "spicy-meatballs-jasmine",
+      "title": "Spicy Meatballs",
+      "category": "main-dishes",
+      "tags": [
+        "meatballs",
+        "appetizer",
+        "main dish",
+        "party food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4 servings",
+      "total_time": "",
+      "attribution": "Handwritten recipe",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "almond-streusel-cake-gahb",
+      "title": "Almond Streusel Cake",
+      "category": "desserts",
+      "tags": [
+        "coffee cake",
+        "streusel",
+        "almond",
+        "dessert",
+        "breakfast"
+      ],
+      "collection": "mommom",
+      "description": "Transform a plain cake into an irresistible delight with a crumbly almond streusel",
+      "servings_yield": "16 servings",
+      "total_time": "30-35 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "orange-glazed-coffee-cake-gahb",
+      "title": "Orange-Glazed Coffee Cake",
+      "category": "desserts",
+      "tags": [
+        "coffee cake",
+        "yeast",
+        "orange",
+        "braided",
+        "breakfast",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "Light and refreshing, this cake doubles the flavor and fragrance of fresh orange",
+      "servings_yield": "12 servings",
+      "total_time": "2 hours (including rising)",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chicken-pot-pie-gahb",
+      "title": "Chicken Pot Pie",
+      "category": "main-dishes",
+      "tags": [
+        "pot pie",
+        "chicken",
+        "comfort food",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "Using leftover cooked chicken cuts the preparation time in this flavorful pot pie",
+      "servings_yield": "6 servings",
+      "total_time": "25-30 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fresh-berry-crumb-pie-gahb",
+      "title": "Fresh Berry Crumb Pie",
+      "category": "desserts",
+      "tags": [
+        "pie",
+        "berry",
+        "fruit",
+        "crumb topping",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "A hazelnut mixture does double duty as a crust and topping in this berry-filled pie",
+      "servings_yield": "6 servings",
+      "total_time": "30 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "peach-apricot-cobbler-gahb",
+      "title": "Peach-Apricot Cobbler",
+      "category": "desserts",
+      "tags": [
+        "cobbler",
+        "peach",
+        "apricot",
+        "fruit",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "These two fruits combine beautifully to make a homey, warm-from-the-oven dessert",
+      "servings_yield": "8 servings",
+      "total_time": "30 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crumbly-apple-pie-gahb",
+      "title": "Crumbly Apple Pie",
+      "category": "desserts",
+      "tags": [
+        "pie",
+        "apple",
+        "crumb topping",
+        "dessert",
+        "classic"
+      ],
+      "collection": "mommom",
+      "description": "A buttery brown sugar topping is a fabulous variation on this classic American apple pie",
+      "servings_yield": "8 servings",
+      "total_time": "30 minutes chilling",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "lemon-meringue-pie-gahb",
+      "title": "Lemon Meringue Pie",
+      "category": "desserts",
+      "tags": [
+        "pie",
+        "lemon",
+        "meringue",
+        "dessert",
+        "classic"
+      ],
+      "collection": "mommom",
+      "description": "Sweet meringue offsets the citrus flavor in this classic lemon-filled pie",
+      "servings_yield": "10 servings",
+      "total_time": "12-15 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "miniature-chocolate-eclairs-gahb",
+      "title": "Miniature Chocolate Eclairs",
+      "category": "desserts",
+      "tags": [
+        "eclairs",
+        "chocolate",
+        "pastry",
+        "dessert",
+        "french"
+      ],
+      "collection": "mommom",
+      "description": "No store-bought eclairs can compare to these bite-size pastries with their rich chocolate center",
+      "servings_yield": "12 eclairs",
+      "total_time": "45 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cherry-strudel-gahb",
+      "title": "Cherry Strudel",
+      "category": "desserts",
+      "tags": [
+        "strudel",
+        "cherry",
+        "phyllo",
+        "pastry",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "This old-world favorite gets a quick and easy update from ready-made phyllo pastry",
+      "servings_yield": "10 servings",
+      "total_time": "15-20 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chocolate-cheesecake-gahb",
+      "title": "Chocolate Cheesecake",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "chocolate",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "Impressive to look at, this dessert will surely please cheesecake and chocolate lovers alike!",
+      "servings_yield": "one 9-inch cheesecake",
+      "total_time": "2 hours chilling",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "carrot-cake-cream-cheese-icing-gahb",
+      "title": "Carrot Cake with Cream Cheese Icing",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "carrot",
+        "cream cheese",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "A nut-sprinkled cream cheese icing is the perfect foil for this moist, not-too-sweet carrot cake",
+      "servings_yield": "10 servings",
+      "total_time": "40 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "banana-nut-muffins-gahb",
+      "title": "Banana-Nut Muffins",
+      "category": "breads",
+      "tags": [
+        "muffins",
+        "banana",
+        "nuts",
+        "quick bread",
+        "breakfast"
+      ],
+      "collection": "mommom",
+      "description": "Use ripe bananas, and you'll be pleasantly surprised with extra-sweet, moist wholesome muffins",
+      "servings_yield": "12 muffins",
+      "total_time": "15-18 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "healthy-apple-walnut-muffins-gahb",
+      "title": "Healthy Apple-Walnut Muffins",
+      "category": "breads",
+      "tags": [
+        "muffins",
+        "apple",
+        "healthy",
+        "no added sugar",
+        "breakfast"
+      ],
+      "collection": "mommom",
+      "description": "Made with no added fat or sugar, these tasty muffins use fruit and buttermilk to keep them moist",
+      "servings_yield": "12 muffins",
+      "total_time": "25 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "buttermilk-biscuits-gahb",
+      "title": "Buttermilk Biscuits",
+      "category": "breads",
+      "tags": [
+        "biscuits",
+        "quick bread",
+        "Southern",
+        "breakfast"
+      ],
+      "collection": "mommom",
+      "description": "The buttermilk makes this traditional Southern specialty especially light and tender",
+      "servings_yield": "12 biscuits",
+      "total_time": "12-15 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "butter-crescents-gahb",
+      "title": "Butter Crescents",
+      "category": "breads",
+      "tags": [
+        "rolls",
+        "yeast bread",
+        "crescents",
+        "breakfast"
+      ],
+      "collection": "mommom",
+      "description": "Start the day on a high note with a cup of tea and these melt-in-your-mouth crescents",
+      "servings_yield": "1 dozen crescents",
+      "total_time": "1 hour 40 minutes rising and resting",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "best-ever-chocolate-chip-cookies-gahb",
+      "title": "Best-Ever Chocolate Chip Cookies",
+      "category": "desserts",
+      "tags": [
+        "cookies",
+        "chocolate chip",
+        "oatmeal",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "These are about as good as cookies get, so make several batches and watch them disappear fast",
+      "servings_yield": "4 dozen cookies",
+      "total_time": "10-12 minutes per batch",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chocolate-pecan-brownies-gahb",
+      "title": "Chocolate-Pecan Brownies",
+      "category": "desserts",
+      "tags": [
+        "brownies",
+        "chocolate",
+        "pecans",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "Ready in less than an hour, these fudgy treats are delightfully sweet and rich",
+      "servings_yield": "16 brownies",
+      "total_time": "30-35 minutes",
+      "attribution": "Great American Home Baking",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "low-carb-pumpkin-cheesecake-bars-jasmine",
+      "title": "Low-Carb Pumpkin Cheesecake Bars",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "pumpkin",
+        "low-carb",
+        "dessert",
+        "bars"
+      ],
+      "collection": "mommom",
+      "description": "Low carb cheesecake bars with few ingredients that taste like the inside of a pumpkin pie",
+      "servings_yield": "16 bars",
+      "total_time": "50 minutes",
+      "attribution": "AllRecipes.com",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "onion-soup-swedish-meatball-sauce-jasmine",
+      "title": "Onion-Soup-Based Swedish Meatball Sauce",
+      "category": "sauces",
+      "tags": [
+        "sauce",
+        "meatballs",
+        "Swedish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Handwritten/printed recipe",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "italian-meatballs-baked-jasmine",
+      "title": "Italian Meatballs (Baked)",
+      "category": "main-dishes",
+      "tags": [
+        "meatballs",
+        "Italian",
+        "baked",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4 servings",
+      "total_time": "",
+      "attribution": "Printed recipe",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "conch-fritters-bahamian-style-jasmine",
+      "title": "Conch Fritters: Bahamian Style",
+      "category": "appetizers",
+      "tags": [
+        "fritters",
+        "conch",
+        "seafood",
+        "Bahamian",
+        "appetizer"
+      ],
+      "collection": "mommom",
+      "description": "Traditional Bahamian recipe made with conch, wonderful shellfish from the Bahamas",
+      "servings_yield": "8 servings",
+      "total_time": "35 minutes",
+      "attribution": "Food.com",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "watermelon-smoothie-jasmine",
+      "title": "Watermelon Smoothie",
+      "category": "beverages",
+      "tags": [
+        "smoothie",
+        "beverage",
+        "watermelon",
+        "quick"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "2-4 servings",
+      "total_time": "",
+      "attribution": "Handwritten recipe",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "banana-punch-fbc",
+      "title": "Banana Punch",
+      "category": "beverages",
+      "tags": [
+        "punch",
+        "beverage",
+        "party"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "25 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "citrus-sherbet-punch-fbc",
+      "title": "Citrus Sherbet Punch",
+      "category": "beverages",
+      "tags": [
+        "punch",
+        "sherbet",
+        "beverage",
+        "party"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "24 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fireside-coffee-mix-fbc",
+      "title": "Fireside Coffee Mix",
+      "category": "beverages",
+      "tags": [
+        "coffee",
+        "beverage",
+        "mix",
+        "gift"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "orange-julius-fbc",
+      "title": "Orange Julius",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "orange",
+        "smoothie"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "5 1/2 cups (may be frozen)",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hungarian-bread-dumplings-fbc",
+      "title": "Hungarian Bread Dumplings a la Matt Kubick",
+      "category": "side-dishes",
+      "tags": [
+        "dumplings",
+        "Hungarian",
+        "side dish",
+        "bread"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broccoli-bread-quiche-fbc",
+      "title": "Broccoli Bread Quiche",
+      "category": "main-dishes",
+      "tags": [
+        "quiche",
+        "broccoli",
+        "healthy",
+        "breakfast"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "60 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "vegetable-pie-fbc",
+      "title": "Vegetable Pie",
+      "category": "main-dishes",
+      "tags": [
+        "vegetable",
+        "pie",
+        "meatless",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "35 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "turkish-pancakes-fbc",
+      "title": "Turkish Pancakes",
+      "category": "breakfast",
+      "tags": [
+        "pancakes",
+        "breakfast",
+        "Turkish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "30 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "basic-crepe-fbc",
+      "title": "Crepe (Basic)",
+      "category": "breakfast",
+      "tags": [
+        "crepes",
+        "breakfast",
+        "basic"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "about 15 crepes",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broccoli-cheddar-rolls-fbc",
+      "title": "Broccoli Cheddar Rolls",
+      "category": "appetizers",
+      "tags": [
+        "rolls",
+        "broccoli",
+        "cheese",
+        "appetizer"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8 servings",
+      "total_time": "25 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "aebleskiver-fbc",
+      "title": "Aebleskiver",
+      "category": "breakfast",
+      "tags": [
+        "Danish",
+        "pancakes",
+        "breakfast",
+        "aebleskiver"
+      ],
+      "collection": "mommom",
+      "description": "Danish pancake balls",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ugly-duckling-cake-fbc",
+      "title": "Ugly Duckling Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "coconut",
+        "fruit",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "1 hour and 45 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "carrot-walnut-cake-fbc",
+      "title": "Carrot Walnut Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "carrot",
+        "walnut",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sour-cream-pound-cake-fbc",
+      "title": "Sour Cream Pound Cake",
+      "category": "desserts",
+      "tags": [
+        "pound cake",
+        "sour cream",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "one 10-inch cake",
+      "total_time": "1 1/2 hours",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "coco-lopez-cake-fbc",
+      "title": "Coco Lopez Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "coconut",
+        "tropical",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "about 1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mamie-eisenhower-chocolate-fudge-fbc",
+      "title": "Mamie Eisenhower Chocolate Fudge",
+      "category": "desserts",
+      "tags": [
+        "fudge",
+        "chocolate",
+        "candy",
+        "classic"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "johns-maple-candy-fbc",
+      "title": "John's Maple Candy",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "maple",
+        "peanut butter",
+        "no-bake"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "about 5 dozen",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "english-toffee-fbc",
+      "title": "English Toffee",
+      "category": "desserts",
+      "tags": [
+        "toffee",
+        "candy",
+        "chocolate",
+        "almonds"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "about 1 1/4 pounds",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pralines-fbc",
+      "title": "Pralines",
+      "category": "desserts",
+      "tags": [
+        "pralines",
+        "candy",
+        "pecans",
+        "Southern"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "2 to 2 1/2 dozen",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "creamy-crabmeat-casserole-fbc",
+      "title": "Creamy Crabmeat Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "crabmeat",
+        "seafood",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6 main servings",
+      "total_time": "1 to 1 1/2 hours",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "wild-rice-casserole-fbc",
+      "title": "Wild Rice Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "wild rice",
+        "shrimp",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "wild-rice-sausage-casserole-fbc",
+      "title": "Wild Rice-Sausage Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "sausage",
+        "wild rice",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8 servings",
+      "total_time": "2 to 2 1/2 hours in crock pot",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "spinach-casserole-fbc",
+      "title": "Spinach Casserole",
+      "category": "side-dishes",
+      "tags": [
+        "spinach",
+        "artichoke",
+        "casserole",
+        "side dish",
+        "vegetable"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "45 to 60 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "zucchini-casserole-fbc",
+      "title": "Zucchini Casserole",
+      "category": "side-dishes",
+      "tags": [
+        "zucchini",
+        "casserole",
+        "side dish",
+        "vegetable"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fudgy-caramel-apples-fbc",
+      "title": "Fudgy Caramel Apples",
+      "category": "desserts",
+      "tags": [
+        "caramel apples",
+        "candy",
+        "dessert",
+        "fall"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "monkey-malt-fbc",
+      "title": "Monkey Malt",
+      "category": "beverages",
+      "tags": [
+        "milkshake",
+        "banana",
+        "beverage"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "summer-slush-fbc",
+      "title": "Summer Slush",
+      "category": "beverages",
+      "tags": [
+        "slush",
+        "beverage",
+        "summer",
+        "frozen"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "double-chocolate-ice-cream-fbc",
+      "title": "Double Chocolate Ice Cream",
+      "category": "desserts",
+      "tags": [
+        "ice cream",
+        "chocolate",
+        "Oreo",
+        "dessert",
+        "kids"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ice-cream-clowns-fbc",
+      "title": "Ice Cream Clowns",
+      "category": "desserts",
+      "tags": [
+        "ice cream",
+        "kids",
+        "fun",
+        "dessert"
+      ],
+      "collection": "mommom",
+      "description": "Fun ice cream treat decorated to look like clowns",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "peanut-butter-popcorn-fbc",
+      "title": "Peanut Butter Popcorn",
+      "category": "snacks",
+      "tags": [
+        "popcorn",
+        "peanut butter",
+        "snack"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "stuffed-artichoke-bottoms-fbc",
+      "title": "Stuffed Artichoke Bottoms",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "artichoke",
+        "spinach"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "48 wedges",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crab-puffs-fbc",
+      "title": "Crab Puffs",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "crab",
+        "freezer-friendly"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "10 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cheese-bowl-fbc",
+      "title": "Cheese Bowl",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "cheese",
+        "dip",
+        "party"
+      ],
+      "collection": "mommom",
+      "description": "A unique cheese ball served in a bread bowl - great for Hostess Gifts!",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crabbies-fbc",
+      "title": "Crabbies",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "crab",
+        "freezer-friendly"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "15 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "braunschweiger-ball-fbc",
+      "title": "Braunschweiger Ball",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "liver",
+        "cheese ball"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12-16 servings",
+      "total_time": "15 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "spinach-balls-fbc",
+      "title": "Spinach Balls",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "spinach",
+        "freezer-friendly"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12-16 servings",
+      "total_time": "10 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "guacamole-fbc",
+      "title": "Guacamole",
+      "category": "appetizers",
+      "tags": [
+        "dip",
+        "guacamole",
+        "avocado",
+        "Mexican"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "homemade-salami-fbc",
+      "title": "Homemade Salami",
+      "category": "appetizers",
+      "tags": [
+        "salami",
+        "homemade",
+        "meat",
+        "appetizer"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hot-chipped-beef-dip-fbc",
+      "title": "Hot Chipped Beef Dip",
+      "category": "appetizers",
+      "tags": [
+        "dip",
+        "beef",
+        "hot dip",
+        "appetizer"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 2 cups",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ham-cream-cheese-roll-ups-fbc",
+      "title": "Ham & Cream Cheese Roll Ups",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "ham",
+        "roll-ups",
+        "party"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook - Kathy Ayers",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baby-cheese-ball-fbc-jasmine",
+      "title": "Baby Cheese Ball",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "cheese ball",
+        "party food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12-16 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "won-ton-fbc-jasmine",
+      "title": "Won Ton",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "asian",
+        "fried",
+        "party food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 12",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "tortilla-roll-ups-fbc-jasmine",
+      "title": "Tortilla Roll-Ups",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "mexican",
+        "party food",
+        "make-ahead"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crab-canapes-fbc-jasmine",
+      "title": "Crab Canapes",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "seafood",
+        "crab",
+        "make-ahead",
+        "freezer-friendly"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "carrot-cheese-ball-fbc-jasmine",
+      "title": "Carrot-Cheese Ball",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "cheese ball",
+        "healthy",
+        "vegetables"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12-16 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "aunt-maudes-cheese-ball-fbc-jasmine",
+      "title": "Aunt Maude's Cheese Ball",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "cheese",
+        "baked",
+        "party food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12-16 servings",
+      "total_time": "20 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "salmon-ball-fbc-jasmine",
+      "title": "Salmon Ball",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "seafood",
+        "salmon",
+        "party food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12-16 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "olive-cheese-ball-fbc-jasmine",
+      "title": "Olive Cheese Ball",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "cheese ball",
+        "olives",
+        "make-ahead"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12-16 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chicken-liver-pate-fbc-jasmine",
+      "title": "Chicken Liver Pate",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "pate",
+        "liver",
+        "spread"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8-12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "veggie-bites-fbc-jasmine",
+      "title": "Veggie Bites",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "vegetable",
+        "broccoli",
+        "pastry"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 24-36 appetizer servings",
+      "total_time": "40 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "nuts-n-bolts-fbc-jasmine",
+      "title": "Nuts 'N' Bolts",
+      "category": "snacks",
+      "tags": [
+        "snack",
+        "candy",
+        "nuts",
+        "microwave",
+        "party food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chocolate-pizza-fbc-jasmine",
+      "title": "Chocolate Pizza",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "candy",
+        "no-bake",
+        "fun",
+        "kids"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "honey-sand-balls-fbc-jasmine",
+      "title": "Honey Sand Balls",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cookies",
+        "holiday",
+        "christmas"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 24",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "orange-balls-fbc-jasmine",
+      "title": "Orange Balls",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "candy",
+        "no-bake",
+        "citrus",
+        "holiday"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 5 dozen",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "frosty-date-and-nut-balls-fbc-jasmine",
+      "title": "Frosty Date and Nut Balls",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cookies",
+        "dates",
+        "nuts",
+        "holiday"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 24",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "onion-soup-swedish-meatball-sauce-fbc",
+      "title": "Onion-Soup-Based Swedish Meatball Sauce",
+      "category": "sauces",
+      "tags": [
+        "sauce",
+        "meatballs",
+        "swedish",
+        "creamy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "conch-fritters-bahamian-fbc",
+      "title": "Conch Fritters: Bahamian Style",
+      "category": "appetizers",
+      "tags": [
+        "appetizer",
+        "seafood",
+        "conch",
+        "fritters",
+        "bahamian",
+        "caribbean",
+        "fried"
+      ],
+      "collection": "mommom",
+      "description": "A traditional Bahamian recipe that is made with conch, the wonderful shellfish. These fritters are g",
+      "servings_yield": "Servings: 8",
+      "total_time": "35 minutes",
+      "attribution": "Food.com",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fireside-coffee-mix-fbc-jasmine",
+      "title": "Fireside Coffee Mix",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "coffee",
+        "mix",
+        "gift",
+        "hot drink"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "orange-julius-fbc-jasmine",
+      "title": "Orange Julius",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "orange",
+        "smoothie",
+        "blender",
+        "frozen"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 5 1/2 cups",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fox-grape-juice-fbc-jasmine",
+      "title": "Fox Grape Juice",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "grape",
+        "canning",
+        "preserving",
+        "homemade"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hot-cranberry-spice-punch-fbc-jasmine",
+      "title": "Hot Cranberry Spice Punch",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "punch",
+        "cranberry",
+        "hot drink",
+        "holiday",
+        "spiced"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "kool-aid-slush-fbc-jasmine",
+      "title": "Kool-Aid Slush",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "slush",
+        "frozen",
+        "punch",
+        "kids"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "georgia-spiced-tea-fbc-jasmine",
+      "title": "Georgia Spiced Tea",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "tea",
+        "mix",
+        "spiced",
+        "gift"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "orange-mallow-cream-fbc-jasmine",
+      "title": "Orange Mallow Cream",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "dip",
+        "fruit dip",
+        "cream",
+        "orange"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "2 cups",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ham-muffins-fbc-jasmine",
+      "title": "Ham Muffins",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "meatloaf",
+        "ham",
+        "pineapple",
+        "retro"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 12 large or 16 small muffins",
+      "total_time": "35 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "meatloaf-in-round-bread-fbc-jasmine",
+      "title": "Meatloaf in Round Bread",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "meatloaf",
+        "bread",
+        "creative"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "1 hour 15 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hungarian-bread-dumplings-fbc-jasmine",
+      "title": "Hungarian Bread Dumplings a la Matt Kubick",
+      "category": "sides",
+      "tags": [
+        "side dish",
+        "dumplings",
+        "hungarian",
+        "bread"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "10 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broccoli-bread-quiche-fbc-jasmine",
+      "title": "Broccoli Bread Quiche",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "quiche",
+        "broccoli",
+        "healthy",
+        "low-fat"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "60 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "onion-bread-fbc-jasmine",
+      "title": "Onion Bread",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "yeast",
+        "onion",
+        "bacon",
+        "german"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 8",
+      "total_time": "30-35 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "blueberry-buttermilk-muffins-fbc-jasmine",
+      "title": "Blueberry Buttermilk Muffins",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "muffins",
+        "blueberry",
+        "breakfast",
+        "buttermilk"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 12 muffins",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "spinach-squares-fbc-jasmine",
+      "title": "Spinach Squares",
+      "category": "sides",
+      "tags": [
+        "side dish",
+        "spinach",
+        "vegetable",
+        "cheese",
+        "party food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "20 servings",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "vegetable-pie-fbc-jasmine",
+      "title": "Vegetable Pie",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "vegetarian",
+        "pie",
+        "vegetables",
+        "healthy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "35 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-apple-pancake-fbc-jasmine",
+      "title": "Baked Apple Pancake",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "pancake",
+        "apple",
+        "german",
+        "dutch baby"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "15 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "strawberry-blossom-pancakes-fbc-jasmine",
+      "title": "Strawberry Blossom Pancakes",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "strawberry",
+        "fruit"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "turkish-pancakes-fbc-jasmine",
+      "title": "Turkish Pancakes",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "pancake",
+        "baked",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "30 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "basic-crepe-fbc-jasmine",
+      "title": "Basic Crepe",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "crepe",
+        "basic",
+        "french"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 15",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crepes-egg-sausage-fbc-jasmine",
+      "title": "Crepes (Egg and Sausage)",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "crepe",
+        "eggs",
+        "sausage",
+        "brunch"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crepes-fruit-fbc-jasmine",
+      "title": "Crepes (Fruit)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "crepe",
+        "fruit",
+        "strawberry",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Serves 12",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pineapple-brunch-cake-fbc-jasmine",
+      "title": "Pineapple Brunch Cake",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "brunch",
+        "pineapple",
+        "cream cheese",
+        "quick"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "6-8 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-spanish-potato-omelet-fbc-jasmine",
+      "title": "Baked Spanish Potato Omelet",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "omelet",
+        "spanish",
+        "potatoes",
+        "baked"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "25-30 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sour-cream-coffee-cake-fbc-jasmine",
+      "title": "Sour Cream Coffee Cake",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "coffee cake",
+        "sour cream",
+        "cinnamon",
+        "streusel"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "45 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broccoli-cheddar-rolls-fbc-jasmine",
+      "title": "Broccoli Cheddar Rolls",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "rolls",
+        "broccoli",
+        "cheese",
+        "make-ahead"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "8 servings",
+      "total_time": "25 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "scalloped-eggs-fbc-jasmine",
+      "title": "Scalloped Eggs",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "casserole",
+        "make-ahead",
+        "brunch"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "do-ahead-brunch-eggs-fbc-jasmine",
+      "title": "Do Ahead Brunch Eggs",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "casserole",
+        "make-ahead",
+        "brunch",
+        "party"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "maridadi-eggs-fbc-jasmine",
+      "title": "Maridadi Eggs",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "elegant",
+        "quick"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 3 to 6 servings",
+      "total_time": "4-6 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crab-breakfast-casserole-fbc-jasmine",
+      "title": "Crab Breakfast Casserole",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "casserole",
+        "crab",
+        "seafood",
+        "make-ahead",
+        "brunch"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-eggs-sour-cream-fbc-jasmine",
+      "title": "Baked Eggs in Sour Cream",
+      "category": "breakfast",
+      "tags": [
+        "breakfast",
+        "eggs",
+        "sour cream",
+        "cheese",
+        "elegant"
+      ],
+      "collection": "mommom",
+      "description": "Here is a recipe for baking eggs in a delicious sauce. One of these baked eggs makes an ample servin",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "wacky-cake-whipped-cream-icing-fbc",
+      "title": "Wacky Cake with Whipped Cream Icing",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "chocolate",
+        "wacky cake",
+        "depression era"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "45 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hummingbird-cake-fbc-jasmine",
+      "title": "Hummingbird Cake",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "southern",
+        "banana",
+        "pineapple"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ugly-duckling-cake-fbc-jasmine",
+      "title": "Ugly Duckling Cake",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "coconut",
+        "fruit cocktail",
+        "retro"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "45 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "carrot-walnut-cake-fbc-jasmine",
+      "title": "Carrot Walnut Cake",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "carrot",
+        "walnuts"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "carrot-cake-pecans-fbc-jasmine",
+      "title": "Carrot Cake with Pecans",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "carrot",
+        "cream cheese frosting",
+        "pecans"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "35-40 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "carrot-cake-safflower-oil-fbc-jasmine",
+      "title": "Carrot Cake (Safflower Oil Version)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "carrot",
+        "cream cheese frosting",
+        "healthy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "coco-lopez-cake-fbc-jasmine",
+      "title": "Coco Lopez Cake",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "coconut",
+        "easy",
+        "poke cake"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sour-cream-pound-cake-fbc-jasmine",
+      "title": "Sour Cream Pound Cake",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "pound cake",
+        "sour cream",
+        "classic"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Yield: one 10 inch cake",
+      "total_time": "1 1/2 hours",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "watergate-cake-fbc-jasmine",
+      "title": "Watergate Cake",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "pistachio",
+        "retro",
+        "1970s"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "seven-layer-dessert-fbc-jasmine",
+      "title": "Seven Layer Dessert",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "no-bake",
+        "layered",
+        "banana",
+        "pineapple",
+        "retro"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "graham-wafer-candy-fbc-jasmine",
+      "title": "Graham Wafer Candy",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "dessert",
+        "graham cracker",
+        "toffee",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "One box of graham crackers makes 2 batches",
+      "total_time": "8-10 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mamie-eisenhower-fudge-fbc-jasmine",
+      "title": "Mamie Eisenhower Chocolate Fudge",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "fudge",
+        "chocolate",
+        "classic",
+        "holiday"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "johns-maple-candy-fbc-jasmine",
+      "title": "John's Maple Candy",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "peanut butter",
+        "no-bake",
+        "maple",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 5 dozen",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "microwave-fudge-fbc-jasmine",
+      "title": "Microwave Fudge",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "fudge",
+        "chocolate",
+        "microwave",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "20-22 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "marshmallow-fudge-fbc-jasmine",
+      "title": "Marshmallow Fudge",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "fudge",
+        "chocolate",
+        "marshmallow"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "english-toffee-fbc-jasmine",
+      "title": "English Toffee",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "toffee",
+        "chocolate",
+        "almonds",
+        "holiday"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 1 1/4 pounds",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pralines-fbc-jasmine",
+      "title": "Pralines",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "pralines",
+        "pecans",
+        "southern",
+        "new orleans"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 2 to 2 1/2 dozen, 1 1/2 inch patties",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "taffy-fbc-jasmine",
+      "title": "Taffy",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "taffy",
+        "molasses",
+        "old-fashioned",
+        "pull candy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "praline-grahams-fbc-jasmine",
+      "title": "Praline Grahams",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "graham cracker",
+        "praline",
+        "pecans",
+        "easy"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "10 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "creamy-crabmeat-casserole-fbc-jasmine",
+      "title": "Creamy Crabmeat Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "seafood",
+        "crab",
+        "cheese",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 6 main meal servings. About 350 calories per serving",
+      "total_time": "20 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "wild-rice-casserole-shrimp-fbc-jasmine",
+      "title": "Wild Rice Casserole with Shrimp",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "wild rice",
+        "shrimp",
+        "seafood",
+        "main dish"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "vegetable-casserole-ritz-fbc-jasmine",
+      "title": "Vegetable Casserole",
+      "category": "sides",
+      "tags": [
+        "casserole",
+        "vegetable",
+        "side dish",
+        "cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "30 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "two-way-casserole-fbc-jasmine",
+      "title": "Two Way Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "main dish",
+        "ham",
+        "chicken",
+        "noodles"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes about 7 cups",
+      "total_time": "25 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "rice-casserole-consomme-fbc-jasmine",
+      "title": "Rice Casserole",
+      "category": "sides",
+      "tags": [
+        "side dish",
+        "rice",
+        "casserole",
+        "slow cooker"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "2 to 2 1/2 hours (oven) or all day (crock pot)",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "wild-rice-sausage-casserole-fbc-jasmine",
+      "title": "Wild Rice-Sausage Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "sausage",
+        "wild rice",
+        "main dish",
+        "hearty"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Yield: 8 servings",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "celery-casserole-fbc-jasmine",
+      "title": "Celery Casserole",
+      "category": "sides",
+      "tags": [
+        "casserole",
+        "side dish",
+        "celery",
+        "vegetable",
+        "almonds"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "30 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "corn-salad-casserole-fbc-jasmine",
+      "title": "Corn Salad Casserole",
+      "category": "sides",
+      "tags": [
+        "casserole",
+        "salad",
+        "side dish",
+        "corn",
+        "cream cheese"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "spinach-artichoke-casserole-fbc-jasmine",
+      "title": "Spinach Casserole",
+      "category": "sides",
+      "tags": [
+        "casserole",
+        "side dish",
+        "spinach",
+        "artichoke",
+        "vegetable"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "30 minutes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "zucchini-casserole-stuffing-fbc-jasmine",
+      "title": "Zucchini Casserole",
+      "category": "sides",
+      "tags": [
+        "casserole",
+        "side dish",
+        "zucchini",
+        "vegetable"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sweet-potato-casserole-fbc-jasmine",
+      "title": "Sweet Potato Casserole",
+      "category": "sides",
+      "tags": [
+        "casserole",
+        "side dish",
+        "sweet potato",
+        "holiday",
+        "thanksgiving"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "lively-shrimp-casserole-fbc-jasmine",
+      "title": "Lively Shrimp Casserole",
+      "category": "main-dishes",
+      "tags": [
+        "casserole",
+        "main dish",
+        "shrimp",
+        "seafood",
+        "rice"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4-6 servings",
+      "total_time": "1 hour",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "hungarian-cabbage-rolls-fbc-jasmine",
+      "title": "Hungarian Cabbage Rolls",
+      "category": "main-dishes",
+      "tags": [
+        "main dish",
+        "cabbage rolls",
+        "hungarian",
+        "beef",
+        "comfort food"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "4 servings",
+      "total_time": "3 hours",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fudgy-caramel-apples-fbc-jasmine",
+      "title": "Fudgy Caramel Apples",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "candy",
+        "apples",
+        "caramel",
+        "fall",
+        "halloween"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chocolate-chip-candy-fbc-jasmine",
+      "title": "Chocolate Chip Candy",
+      "category": "desserts",
+      "tags": [
+        "candy",
+        "dessert",
+        "chocolate",
+        "peanut butter",
+        "no-bake",
+        "kids"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "6-8 servings",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "peanut-butter-nests-fbc-jasmine",
+      "title": "Peanut Butter Nests",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "candy",
+        "peanut butter",
+        "no-bake",
+        "kids",
+        "easter"
+      ],
+      "collection": "mommom",
+      "description": "",
+      "servings_yield": "Makes 3-4 nests",
+      "total_time": "",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "rhubarb-cake-fbc-jasmine",
+      "title": "Rhubarb Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "rhubarb",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A moist cake featuring chopped rhubarb with a cinnamon sugar topping.",
+      "servings_yield": "12 servings",
+      "total_time": "45-50 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "quick-easy-lemon-coffee-cake-fbc-jasmine",
+      "title": "Quick, Easy Lemon Coffee Cake",
+      "category": "breakfast",
+      "tags": [
+        "coffee-cake",
+        "breakfast",
+        "easy",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A simple coffee cake made with yellow cake mix and lemon filling.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "benedictine-sandwich-fbc-jasmine",
+      "title": "Benedictine Sandwich",
+      "category": "appetizers",
+      "tags": [
+        "sandwich",
+        "appetizer",
+        "cucumber",
+        "cream-cheese",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A Kentucky classic cucumber and cream cheese spread for sandwiches or finger food.",
+      "servings_yield": "1 1/2 cups",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "seafood-luncheon-dish-fbc-jasmine",
+      "title": "Seafood Luncheon Dish",
+      "category": "mains",
+      "tags": [
+        "seafood",
+        "casserole",
+        "shrimp",
+        "crab",
+        "tuna",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A baked seafood casserole with shrimp, crab, and tuna in a creamy mushroom sauce.",
+      "servings_yield": "4-6 servings",
+      "total_time": "1 hour",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "bacon-pepper-bread-fbc-jasmine",
+      "title": "Bacon Pepper Bread",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "yeast",
+        "bacon",
+        "savory",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A savory yeast bread with bacon and black pepper, perfect for sandwiches.",
+      "servings_yield": "2 loaves",
+      "total_time": "45 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cheese-grits-souffle-fbc-jasmine",
+      "title": "Cheese Grits Souffle",
+      "category": "breakfast",
+      "tags": [
+        "grits",
+        "souffle",
+        "cheese",
+        "breakfast",
+        "southern",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A Southern classic - fluffy cheese grits baked into a souffle.",
+      "servings_yield": "",
+      "total_time": "40-50 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-stuffed-peaches-fbc-jasmine",
+      "title": "Baked Stuffed Peaches",
+      "category": "desserts",
+      "tags": [
+        "peaches",
+        "dessert",
+        "fruit",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Fresh peaches stuffed with macaroon crumbs and baked - serve with cream for those who don't count ca",
+      "servings_yield": "6 servings",
+      "total_time": "30 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "baked-eggs-in-sour-cream-fbc-jasmine",
+      "title": "Baked Eggs in Sour Cream",
+      "category": "breakfast",
+      "tags": [
+        "eggs",
+        "sour-cream",
+        "cheese",
+        "breakfast",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A delicious way to bake eggs with plenty of rich cheese and sour cream sauce.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fruit-pizza-fbc-jasmine",
+      "title": "Fruit Pizza",
+      "category": "desserts",
+      "tags": [
+        "pizza",
+        "dessert",
+        "fruit",
+        "cream-cheese",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A dessert pizza with cookie dough crust, cream cheese filling, and fresh fruit topping.",
+      "servings_yield": "6-8 servings",
+      "total_time": "12-15 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "lemony-poppy-seed-bread-fbc-jasmine",
+      "title": "Lemony Poppy Seed Bread",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "quick-bread",
+        "lemon",
+        "poppy-seed",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A moist quick bread made with cake mix, lemon and poppy seeds.",
+      "servings_yield": "1 loaf",
+      "total_time": "50-60 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "egg-salad-turnovers-fbc-jasmine",
+      "title": "Egg Salad Turnovers",
+      "category": "appetizers",
+      "tags": [
+        "eggs",
+        "turnovers",
+        "appetizer",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Savory egg salad baked in flaky biscuit turnovers.",
+      "servings_yield": "4 servings",
+      "total_time": "10-15 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "corn-fritters-fbc-jasmine",
+      "title": "Corn Fritters",
+      "category": "sides",
+      "tags": [
+        "corn",
+        "fritters",
+        "fried",
+        "side-dish",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Crispy deep-fried corn fritters that can be served with maple syrup or powdered sugar.",
+      "servings_yield": "24-28 fritters",
+      "total_time": "2-3 minutes per batch",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "skillet-orange-coffee-cake-fbc-jasmine",
+      "title": "Skillet Orange Coffee Cake",
+      "category": "breakfast",
+      "tags": [
+        "coffee-cake",
+        "breakfast",
+        "orange",
+        "skillet",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A coffee cake baked in an oven-proof skillet with an orange-bread crumb topping.",
+      "servings_yield": "12 servings",
+      "total_time": "25-30 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "friendship-cake-fbc-jasmine",
+      "title": "Friendship Cake",
+      "category": "desserts",
+      "tags": [
+        "sentiment",
+        "friendship",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A sweet sentiment cake with ingredient names that spell out friendship - greetings, smiles, hugs, lo",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cake-doughnuts-fbc-jasmine",
+      "title": "Cake Doughnuts",
+      "category": "breakfast",
+      "tags": [
+        "doughnuts",
+        "breakfast",
+        "fried",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Classic homemade cake doughnuts fried in hot oil until golden brown.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "grandmas-fry-cakes-fbc-jasmine",
+      "title": "Grandma's Fry Cakes",
+      "category": "breakfast",
+      "tags": [
+        "doughnuts",
+        "fry-cakes",
+        "breakfast",
+        "fried",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Traditional fry cakes (doughnuts) made with buttermilk and fried in lard or shortening.",
+      "servings_yield": "3 dozen",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crescent-chocolate-chip-cheese-cake-fbc-jasmine",
+      "title": "Crescent Chocolate Chip Cheese Cake",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "chocolate",
+        "crescent-rolls",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A layered dessert with crescent roll crust, cream cheese filling, and chocolate chips.",
+      "servings_yield": "24-36 squares",
+      "total_time": "25-30 minutes",
+      "attribution": "Cheryl Wood, FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "dirt-cake-fbc-jasmine",
+      "title": "Dirt Cake",
+      "category": "desserts",
+      "tags": [
+        "no-bake",
+        "dessert",
+        "oreo",
+        "fun",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A fun layered dessert with crushed Oreos, cream cheese, and vanilla pudding - looks like dirt!",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mini-cheesecakes-fbc-jasmine",
+      "title": "Mini Cheesecakes",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "mini",
+        "individual",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Individual cheesecakes baked in cupcake liners with vanilla wafer crusts.",
+      "servings_yield": "12 servings",
+      "total_time": "25 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "peanut-butter-cake-fbc-jasmine",
+      "title": "Peanut Butter Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "peanut-butter",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A moist cake featuring peanut butter and brown sugar.",
+      "servings_yield": "12 servings",
+      "total_time": "30 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "heavenly-cheese-cake-fbc-jasmine",
+      "title": "Heavenly Cheese Cake",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "sour-cream",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich cheesecake with a graham cracker crust and sour cream topping.",
+      "servings_yield": "12 servings",
+      "total_time": "60+ minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "grandmas-pound-cake-fbc-jasmine",
+      "title": "Grandma's Pound Cake",
+      "category": "desserts",
+      "tags": [
+        "pound-cake",
+        "buttermilk",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A classic Southern pound cake with buttermilk.",
+      "servings_yield": "12 servings",
+      "total_time": "60 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "twinkie-cake-fbc-jasmine",
+      "title": "Twinkie Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "twinkie",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A homemade version of the classic Twinkie using chocolate cake and a creamy filling.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "wacky-cake-whipped-cream-icing-fbc-jasmine",
+      "title": "Wacky Cake with Whipped Cream Icing",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "wacky-cake",
+        "depression-era",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A classic depression-era chocolate cake made without eggs, milk or butter, topped with whipped cream",
+      "servings_yield": "12 servings",
+      "total_time": "45 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mexican-fruit-cake-fbc-jasmine",
+      "title": "Mexican Fruit Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "fruit",
+        "pineapple",
+        "cream-cheese-icing",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A moist, easy fruit cake with crushed pineapple and pecans, topped with cream cheese icing.",
+      "servings_yield": "12 servings",
+      "total_time": "1 hour 10 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mountain-cake-fbc-jasmine",
+      "title": "Mountain Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "unique",
+        "whipped-cream",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A unique cake with farina and bread crumbs that is crumbled when cool and served in a mountain form ",
+      "servings_yield": "12 servings",
+      "total_time": "40 minutes",
+      "attribution": "Janice Pearl Curts, FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cheese-cake-lemon-jello-fbc-jasmine",
+      "title": "Cheese Cake (Lemon Jello)",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "no-bake",
+        "jello",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A no-bake cheesecake made with lemon Jello and evaporated milk.",
+      "servings_yield": "15 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "black-magic-cake-fbc-jasmine",
+      "title": "Black Magic Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "coffee",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich, dark chocolate cake made with cocoa and black coffee.",
+      "servings_yield": "12 servings",
+      "total_time": "35-40 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cheese-cake-philadelphia-fbc-jasmine",
+      "title": "Cheese Cake (Philadelphia Cream Cheese)",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "philadelphia",
+        "sour-cream",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich baked cheesecake using Philadelphia cream cheese and sour cream.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "earthquake-cake-fbc-jasmine",
+      "title": "Earthquake Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "german-chocolate",
+        "cream-cheese",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich German chocolate cake with pecans, coconut, and cream cheese topping that creates 'earthquake",
+      "servings_yield": "12 servings",
+      "total_time": "45 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "toll-house-cup-cakes-fbc-jasmine",
+      "title": "Toll House Cup Cakes",
+      "category": "desserts",
+      "tags": [
+        "cupcakes",
+        "chocolate-chip",
+        "toll-house",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Chocolate chip cupcakes with a brown sugar and walnut topping.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "fresh-apple-cake-fbc-jasmine",
+      "title": "Fresh Apple Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "apple",
+        "fruit",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A moist cake with fresh apples, coconut, and chocolate chips - can be made as cupcakes too.",
+      "servings_yield": "16 or 18-24 cupcakes",
+      "total_time": "35-40 minutes",
+      "attribution": "Mary Miranda, FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "vanilla-butternut-cake-fbc-jasmine",
+      "title": "Vanilla Butternut Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "butternut",
+        "vanilla",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich butternut-flavored cake with Crisco and nuts.",
+      "servings_yield": "12 servings",
+      "total_time": "1 hour 45 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chocolate-pudding-banana-cake-fbc-jasmine",
+      "title": "Chocolate Pudding Banana Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "banana",
+        "pudding",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A moist chocolate fudge cake with mashed bananas and chocolate pudding.",
+      "servings_yield": "12 servings",
+      "total_time": "35 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "helens-whole-fruit-cake-fbc-jasmine",
+      "title": "Helen's Whole Fruit Cake",
+      "category": "desserts",
+      "tags": [
+        "fruitcake",
+        "holiday",
+        "brandy",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A traditional fruit cake with dates, cherries, Brazil nuts, and English walnuts, soaked in brandy.",
+      "servings_yield": "12 servings",
+      "total_time": "1 1/2 hours",
+      "attribution": "Mother of LaVona & LaVelda Richmond, FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "buttercream-icing-cake-decorating-fbc-jasmine",
+      "title": "Buttercream Icing for Cake Decorating",
+      "category": "desserts",
+      "tags": [
+        "icing",
+        "frosting",
+        "buttercream",
+        "cake-decorating",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A classic buttercream icing perfect for decorating cakes - stays white with the right ingredients.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chocolate-mousse-torte-fbc-jasmine",
+      "title": "Chocolate Mousse Torte",
+      "category": "desserts",
+      "tags": [
+        "torte",
+        "chocolate",
+        "mousse",
+        "elegant",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "An elegant layered chocolate mousse dessert with vanilla wafer crust and whipped cream topping.",
+      "servings_yield": "6-8 servings",
+      "total_time": "5 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "low-cholesterol-chocolate-cake-fbc-jasmine",
+      "title": "Low Cholesterol Chocolate Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "low-cholesterol",
+        "eggless",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A chocolate cake made without eggs - uses vinegar and baking soda for leavening.",
+      "servings_yield": "12 servings",
+      "total_time": "20-25 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sour-cream-chocolate-cake-fbc-jasmine",
+      "title": "Sour Cream Chocolate Cake & Frosting",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "sour-cream",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich chocolate cake made with sour cream and topped with a sour cream chocolate frosting.",
+      "servings_yield": "12 servings",
+      "total_time": "40-45 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chocolate-pudding-cake-fbc-jasmine",
+      "title": "Chocolate Pudding Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "chocolate",
+        "pudding",
+        "layered",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich chocolate cake with cream cheese, nuts, and instant pudding layers.",
+      "servings_yield": "12 servings",
+      "total_time": "20 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mocha-cake-fbc-jasmine",
+      "title": "Mocha Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "mocha",
+        "coffee",
+        "chocolate",
+        "no-bake",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A no-bake layered dessert with chocolate wafers, coffee, and whipped cream.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "upside-down-raisin-carrot-cake-fbc-jasmine",
+      "title": "Upside Down Raisin Carrot Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "carrot",
+        "raisin",
+        "upside-down",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A unique carrot cake with pineapple, raisins, and a cream cheese frosting with orange rind.",
+      "servings_yield": "12 servings",
+      "total_time": "1 hour 15 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "moist-pineapple-cake-fbc-jasmine",
+      "title": "Moist Pineapple Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "pineapple",
+        "coconut",
+        "moist",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A very moist cake made with crushed pineapple and topped with coconut icing.",
+      "servings_yield": "12 servings",
+      "total_time": "45 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "strawberry-angel-food-cake-fbc-jasmine",
+      "title": "Strawberry Angel Food Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "angel-food",
+        "strawberry",
+        "no-bake",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A light angel food cake with cream cheese, sweetened condensed milk, and fresh strawberries.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "quick-tomato-spice-cake-fbc-jasmine",
+      "title": "Quick Tomato Spice Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "spice",
+        "tomato-soup",
+        "unusual",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "An unusual spice cake made with condensed tomato soup - creates a moist, flavorful cake.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "coconut-cake-fbc-jasmine",
+      "title": "Coconut Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "coconut",
+        "layer-cake",
+        "sour-cream",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A four-layer coconut cake with sour cream and coconut filling.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mystery-cake-fbc-jasmine",
+      "title": "Mystery Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "coconut",
+        "pudding",
+        "easy",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A simple cake using coconut and coconut pudding mix.",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cream-cheese-pound-cake-fbc-jasmine",
+      "title": "Cream Cheese Pound Cake",
+      "category": "desserts",
+      "tags": [
+        "pound-cake",
+        "cream-cheese",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich pound cake made with cream cheese, baked in a bundt pan and frozen.",
+      "servings_yield": "12 servings",
+      "total_time": "2 hours 15 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "lemon-cream-cheese-filled-cake-fbc-jasmine",
+      "title": "Lemon Cream Cheese Filled Cake",
+      "category": "desserts",
+      "tags": [
+        "cake",
+        "lemon",
+        "cream-cheese",
+        "filled",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A yellow cake with apricot nectar, filled with lemon cream cheese and glazed.",
+      "servings_yield": "12 servings",
+      "total_time": "50-55 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ice-cream-cone-cakes-fbc-jasmine",
+      "title": "Ice Cream Cone Cakes",
+      "category": "desserts",
+      "tags": [
+        "cupcakes",
+        "ice-cream-cones",
+        "kids",
+        "party",
+        "fun",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Fun cupcakes baked right in flat-bottomed waffle ice cream cones - perfect for kids' parties.",
+      "servings_yield": "30 approx",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "real-mccoy-ny-italian-cheesecake-fbc-jasmine",
+      "title": "The Real McCoy New York Italian Cheesecake",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "italian",
+        "new-york-style",
+        "ricotta",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "An authentic Italian-style cheesecake made with ricotta cheese, cream cheese, and sour cream.",
+      "servings_yield": "12 servings",
+      "total_time": "1 hour + 1 hour",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pumpkin-cheesecake-fbc-jasmine",
+      "title": "Pumpkin Cheesecake",
+      "category": "desserts",
+      "tags": [
+        "cheesecake",
+        "pumpkin",
+        "fall",
+        "holiday",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A rich pumpkin cheesecake with graham cracker crust, topped with maple syrup.",
+      "servings_yield": "12 servings",
+      "total_time": "1 hour 45 minutes",
+      "attribution": "FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "aunt-margarets-rob-roys-fbc-jasmine",
+      "title": "Aunt Margaret's Rob Roys",
+      "category": "cookies",
+      "tags": [
+        "cookies",
+        "oatmeal",
+        "raisin",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "Hearty oatmeal cookies with white wheat flour, nuts, and raisins.",
+      "servings_yield": "Makes about 3 dozen cookies",
+      "total_time": "10-15 minutes",
+      "attribution": "Aunt Margaret, FBC Jasmine",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "banana-split-cake-fbc-jasmine",
+      "title": "Banana Split Cake",
+      "category": "desserts",
+      "tags": [
+        "no-bake",
+        "dessert",
+        "banana",
+        "layered",
+        "church-cookbook"
+      ],
+      "collection": "mommom",
+      "description": "A spectacular 7-layer no-bake dessert with graham cracker crust, cream cheese, bananas, pineapple, C",
+      "servings_yield": "12 servings",
+      "total_time": "",
+      "attribution": "FBC Jasmine",
       "variant_of": null,
       "canonical_id": null
     }
