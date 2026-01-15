@@ -3382,7 +3382,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 179",
       "description": "Classic pan-fried crab cakes",
-      "servings_yield": "",
+      "servings_yield": "4 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -3680,7 +3680,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 180",
       "description": "Stir-fried shrimp with vegetables in Asian-style sauce",
-      "servings_yield": "",
+      "servings_yield": "4 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -3840,7 +3840,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 181",
       "description": "Quick saut\u00e9ed shrimp in garlic butter sauce",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "3-5 minutes",
       "total_time": "",
@@ -3929,7 +3929,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 181",
       "description": "Classic crispy fried shrimp with instructions for butterflying",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -4590,7 +4590,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 212",
       "description": "Prime rib roast with horseradish crust",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -4897,7 +4897,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 215",
       "description": "Elegant beef tenderloin wrapped in puff pastry with liver p\u00e2t\u00e9",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -5121,7 +5121,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 216",
       "description": "Classic corned beef and cabbage - Serve on Saint Patrick's Day or as a great way to prepare corned beef brisket",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "2 to 2-1/2 hours",
       "total_time": "",
@@ -5240,7 +5240,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 216",
       "description": "Braised beef rump roast with herbs",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -5459,7 +5459,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 217",
       "description": "Asian-inspired beef short ribs with five-spice powder",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -6090,7 +6090,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 219",
       "description": "Open-faced steak sandwiches with melted Swiss cheese",
-      "servings_yield": "",
+      "servings_yield": "4-6 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -9090,6 +9090,12 @@
           "prep_note": "slightly beaten"
         },
         {
+          "item": "heavy cream",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "[RECONSTRUCTED - referenced in step 5]"
+        },
+        {
           "item": "dry white wine",
           "quantity": "1/4",
           "unit": "cup",
@@ -9169,7 +9175,13 @@
       ],
       "confidence": {
         "overall": "high",
-        "flags": []
+        "flags": [
+          {
+            "field": "ingredients",
+            "issue": "Cream reconstructed from instructions",
+            "candidates": []
+          }
+        ]
       },
       "image_refs": [
         "IMG_5344 Large.jpeg"

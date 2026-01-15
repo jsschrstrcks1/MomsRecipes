@@ -1420,6 +1420,12 @@
           "prep_note": ""
         },
         {
+          "item": "cider vinegar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "[RECONSTRUCTED - standard corn relish ingredient]"
+        },
+        {
           "item": "apple cider or apple juice",
           "quantity": "2",
           "unit": "cups",
@@ -1474,7 +1480,13 @@
       ],
       "confidence": {
         "overall": "high",
-        "flags": []
+        "flags": [
+          {
+            "field": "ingredients",
+            "issue": "Vinegar reconstructed - required for corn relish preservation",
+            "candidates": []
+          }
+        ]
       },
       "image_refs": [
         "IMG_5362 Large 2.jpeg"
