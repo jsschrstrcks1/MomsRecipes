@@ -3382,7 +3382,7 @@
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 179",
       "description": "Classic pan-fried crab cakes",
-      "servings_yield": "",
+      "servings_yield": "4 servings",
       "prep_time": "",
       "cook_time": "",
       "total_time": "",
@@ -9090,6 +9090,12 @@
           "prep_note": "slightly beaten"
         },
         {
+          "item": "heavy cream",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "[RECONSTRUCTED - referenced in step 5]"
+        },
+        {
           "item": "dry white wine",
           "quantity": "1/4",
           "unit": "cup",
@@ -9169,7 +9175,13 @@
       ],
       "confidence": {
         "overall": "high",
-        "flags": []
+        "flags": [
+          {
+            "field": "ingredients",
+            "issue": "Cream reconstructed from instructions",
+            "candidates": []
+          }
+        ]
       },
       "image_refs": [
         "IMG_5344 Large.jpeg"

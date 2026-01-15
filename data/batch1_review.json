@@ -1,0 +1,783 @@
+{
+  "batch": 1,
+  "total_reviewed": 179,
+  "good": 88,
+  "attention": 71,
+  "critical": 20,
+  "critical_details": [
+    {
+      "id": "eggs-in-a-puff-bhg",
+      "title": "Eggs in a Puff",
+      "issues": [
+        "Suspicious: 1/3 cup chopped green or sweet red pepper - too much pepper"
+      ]
+    },
+    {
+      "id": "nut-bread",
+      "title": "Nut Bread",
+      "issues": [
+        "Instructions mention 'icing' but no frosting ingredients listed"
+      ]
+    },
+    {
+      "id": "vanilla-pudding-bhg",
+      "title": "Vanilla Pudding",
+      "issues": [
+        "Instructions mention 'the sauce' but no sauce ingredients listed"
+      ]
+    },
+    {
+      "id": "puffed-oven-pancake-bhg",
+      "title": "Puffed Oven Pancake",
+      "issues": [
+        "Ingredient 'Apple-Raisin Sauce' missing quantity",
+        "Ingredient 'powdered sugar' missing quantity"
+      ]
+    },
+    {
+      "id": "rice-stuffed-rib-crown-roast",
+      "title": "Rice-Stuffed Rib Crown Roast",
+      "issues": [
+        "Suspicious: 1/4 cup chopped green pepper - too much pepper"
+      ]
+    },
+    {
+      "id": "toffee-bars-bhg",
+      "title": "Toffee Bars",
+      "issues": [
+        "Instructions mention 'icing' but no frosting ingredients listed"
+      ]
+    },
+    {
+      "id": "penuche-frosting-bhg",
+      "title": "Penuche Frosting",
+      "issues": [
+        "Instructions mention 'frost' but no frosting ingredients listed"
+      ]
+    },
+    {
+      "id": "chicken-strata",
+      "title": "Chicken Strata",
+      "issues": [
+        "Suspicious: 1/2 cup chopped green pepper - too much pepper"
+      ]
+    },
+    {
+      "id": "cheesy-brunch-roll-ups-bhg",
+      "title": "Cheesy Brunch Roll-Ups",
+      "issues": [
+        "Suspicious: 1/2 cup chopped green pepper - too much pepper"
+      ]
+    },
+    {
+      "id": "sweet-sour-sauce-bhg",
+      "title": "Sweet-Sour Sauce",
+      "issues": [
+        "Suspicious: 1/4 cup finely chopped green pepper - too much pepper"
+      ]
+    },
+    {
+      "id": "smothered-okra-bhg",
+      "title": "Smothered Okra",
+      "issues": [
+        "Suspicious: 1/2 cup chopped green pepper - too much pepper"
+      ]
+    },
+    {
+      "id": "spanish-rice",
+      "title": "Spanish Rice",
+      "issues": [
+        "Suspicious: 1/2 cup chopped green pepper - too much pepper"
+      ]
+    },
+    {
+      "id": "dill-pickles-bhg",
+      "title": "Dill Pickles",
+      "issues": [
+        "Suspicious: 1/2 cup pickling salt - too much salt",
+        "Missing servings_yield",
+        "Ingredient 'fresh dill' missing quantity",
+        "Ingredient 'mustard seed' missing quantity"
+      ]
+    },
+    {
+      "id": "cream-cheese-hearts-bhg",
+      "title": "Cream Cheese Hearts",
+      "issues": [
+        "Ingredient 'Fruit Sauce (see recipe, page 139) or fresh fruit' missing quantity"
+      ]
+    },
+    {
+      "id": "zesty-short-ribs-bhg",
+      "title": "Zesty Short Ribs",
+      "issues": [
+        "Instructions mention 'prepare sauce' but no sauce ingredients listed",
+        "Missing temperature for baked item"
+      ]
+    },
+    {
+      "id": "shrimp-cocktail-bhg",
+      "title": "Shrimp Cocktail",
+      "issues": [
+        "Ingredient 'lettuce' missing quantity",
+        "Ingredient 'Cocktail Sauce' missing quantity",
+        "Ingredient 'lemon wedges' missing quantity"
+      ]
+    },
+    {
+      "id": "gingerbread-men-cookies",
+      "title": "Gingerbread Men",
+      "issues": [
+        "Ingredient 'Ornamental Cookie Frosting' missing quantity"
+      ]
+    },
+    {
+      "id": "coconut-pecan-frosting",
+      "title": "Coconut-Pecan Frosting",
+      "issues": [
+        "Instructions mention 'frost' but no frosting ingredients listed"
+      ]
+    },
+    {
+      "id": "french-fried-shrimp",
+      "title": "French-Fried Shrimp",
+      "issues": [
+        "Ingredient 'shortening or cooking oil for deep-fat frying' missing quantity",
+        "Ingredient 'Cocktail Sauce' missing quantity"
+      ]
+    },
+    {
+      "id": "chicken-enchiladas",
+      "title": "Chicken Enchiladas",
+      "issues": [
+        "Instructions mention 'the sauce' but no sauce ingredients listed",
+        "Instructions mention 'filling' but no filling ingredients listed",
+        "Ingredient 'sliced pitted ripe olives' missing quantity",
+        "Ingredient 'chopped tomatoes' missing quantity",
+        "Ingredient 'sliced green onions' missing quantity"
+      ]
+    }
+  ],
+  "attention_details": [
+    {
+      "id": "lemon-bars-cookies",
+      "title": "Lemon Bars",
+      "issues": [
+        "Ingredient 'powdered sugar' missing quantity"
+      ]
+    },
+    {
+      "id": "lobster-newburg",
+      "title": "Lobster Newburg",
+      "issues": [
+        "Ingredient 'red pepper, dashed' missing quantity"
+      ]
+    },
+    {
+      "id": "cherry-sourdough-coffee-cake",
+      "title": "Cherry Sourdough Coffee Cake",
+      "issues": [
+        "Instructions mention 'filling' but no filling ingredients listed"
+      ]
+    },
+    {
+      "id": "shogu-chicken",
+      "title": "Shogu Chicken",
+      "issues": [
+        "Instructions mention 'basting' but no basting ingredients listed",
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "pan-gravy-bhg",
+      "title": "Pan Gravy",
+      "issues": [
+        "Missing temperature for baked item",
+        "Ingredient 'pan drippings from roast poultry' missing quantity",
+        "Ingredient 'chicken broth or water' missing quantity"
+      ]
+    },
+    {
+      "id": "cheese-strata-bhg",
+      "title": "Cheese Strata",
+      "issues": [
+        "Ingredient 'paprika' missing quantity"
+      ]
+    },
+    {
+      "id": "boiled-lobster-bhg",
+      "title": "Boiled Lobster",
+      "issues": [
+        "Missing temperature for baked item"
+      ]
+    },
+    {
+      "id": "cinnamon-rolls-bread-machine",
+      "title": "Cinnamon Rolls (Bread Machine Dough)",
+      "issues": [
+        "Ingredient 'Powdered Sugar Glaze' missing quantity"
+      ]
+    },
+    {
+      "id": "chicken-kabobs",
+      "title": "Chicken Kabobs",
+      "issues": [
+        "Instructions mention 'glaze' but no glaze ingredients listed"
+      ]
+    },
+    {
+      "id": "ritzy-chicken-casserole",
+      "title": "Ritzy Chicken Casserole",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "chilled-salmon-steaks",
+      "title": "Chilled Salmon Steaks",
+      "issues": [
+        "Instructions mention 'marinade' but no marinade ingredients listed"
+      ]
+    },
+    {
+      "id": "baked-eggs-bhg",
+      "title": "Baked Eggs",
+      "issues": [
+        "Ingredient 'margarine or butter' missing quantity",
+        "Ingredient 'snipped chives or desired herb' missing quantity"
+      ]
+    },
+    {
+      "id": "corn-dogs-bhg",
+      "title": "Corn Dogs",
+      "issues": [
+        "Ingredient 'shortening or cooking oil' missing quantity"
+      ]
+    },
+    {
+      "id": "cheesy-bacon-bombs",
+      "title": "Cheesy Bacon Bombs",
+      "issues": [
+        "Ingredient 'wooden skewers or toothpicks' missing quantity",
+        "Ingredient 'canola oil' missing quantity"
+      ]
+    },
+    {
+      "id": "apple-nut-coffee-cake",
+      "title": "Apple-Nut Coffee Cake",
+      "issues": [
+        "Missing servings_yield",
+        "Ingredient 'shortening' missing quantity"
+      ]
+    },
+    {
+      "id": "lemon-sherbet",
+      "title": "Lemon Sherbet",
+      "issues": [
+        "Ingredient 'yellow food coloring' missing quantity"
+      ]
+    },
+    {
+      "id": "wheat-and-cottage-cheese-rolls-bhg",
+      "title": "Wheat and Cottage Cheese Rolls",
+      "issues": [
+        "Ingredient 'milk' missing quantity"
+      ]
+    },
+    {
+      "id": "coquilles-saint-jacques-bhg",
+      "title": "Coquilles Saint Jacques",
+      "issues": [
+        "Ingredient 'parsley' missing quantity"
+      ]
+    },
+    {
+      "id": "filled-croissants",
+      "title": "Filled Croissants",
+      "issues": [
+        "Instructions mention 'filling' but no filling ingredients listed"
+      ]
+    },
+    {
+      "id": "trifle-bhg",
+      "title": "Trifle",
+      "issues": [
+        "Ingredient 'Stirred Custard (see recipe, left)' missing quantity",
+        "Ingredient 'Hot-Milk Sponge Cake (see recipe, page 85)' missing quantity"
+      ]
+    },
+    {
+      "id": "french-salad-dressing",
+      "title": "French Salad Dressing",
+      "issues": [
+        "Instructions mention 'dressing' but no dressing ingredients listed"
+      ]
+    },
+    {
+      "id": "crepes-suzette",
+      "title": "Crepes Suzette",
+      "issues": [
+        "Ingredient 'Dessert Crepes' missing quantity"
+      ]
+    },
+    {
+      "id": "russian-chicken",
+      "title": "Russian Chicken",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "end-of-the-month-cookies",
+      "title": "End of the Month Cookies",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "denver-omelet-bhg",
+      "title": "Denver Omelet",
+      "issues": [
+        "Instructions mention 'filling' but no filling ingredients listed",
+        "Ingredient 'Puffy Omelet (see recipe, opposite)' missing quantity"
+      ]
+    },
+    {
+      "id": "feta-cheese-ball-bhg",
+      "title": "Feta Cheese Ball",
+      "issues": [
+        "Ingredient 'assorted crackers' missing quantity"
+      ]
+    },
+    {
+      "id": "swiss-ham-ring-around",
+      "title": "Swiss Ham Ring Around",
+      "issues": [
+        "Instructions mention 'filling' but no filling ingredients listed",
+        "Ingredient 'grated Parmesan cheese' missing quantity"
+      ]
+    },
+    {
+      "id": "barley-salad-bhg",
+      "title": "Barley Salad",
+      "issues": [
+        "Instructions mention 'dressing' but no dressing ingredients listed"
+      ]
+    },
+    {
+      "id": "pumpkin-pecan-cheesecake",
+      "title": "Pumpkin Pecan Cheesecake",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "boston-brown-bread-bhg",
+      "title": "Boston Brown Bread",
+      "issues": [
+        "Missing temperature for baked item"
+      ]
+    },
+    {
+      "id": "gregs-eggs",
+      "title": "Greg's Eggs",
+      "issues": [
+        "Vague cooking time (says 'until' without approximate time)"
+      ]
+    },
+    {
+      "id": "holiday-sangria",
+      "title": "Holiday Sangria",
+      "issues": [
+        "Missing servings_yield",
+        "Ingredient 'citrus slices' missing quantity"
+      ]
+    },
+    {
+      "id": "peanut-butter-fudge-family",
+      "title": "Peanut Butter Fudge",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "french-silk-chocolate-pie",
+      "title": "French Silk Chocolate Pie",
+      "issues": [
+        "Missing temperature for baked item",
+        "Ingredient 'toasted almond slivers' missing quantity",
+        "Ingredient 'whipped cream' missing quantity"
+      ]
+    },
+    {
+      "id": "citrus-glaze",
+      "title": "Citrus Glaze",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "stuffed-baked-potatoes-mommom",
+      "title": "Stuffed Baked Potatoes",
+      "issues": [
+        "Missing servings_yield",
+        "Ingredient 'Parmesan cheese' missing quantity",
+        "Ingredient 'paprika' missing quantity"
+      ]
+    },
+    {
+      "id": "smoky-bacon-ranch-dip",
+      "title": "Smoky Bacon Ranch Dip",
+      "issues": [
+        "Ingredient 'chives' missing quantity"
+      ]
+    },
+    {
+      "id": "chicken-tetrazzini-mommom",
+      "title": "Chicken Tetrazzini",
+      "issues": [
+        "Missing servings_yield",
+        "Ingredient 'paprika' missing quantity"
+      ]
+    },
+    {
+      "id": "chicken-and-olives",
+      "title": "Chicken and Olives",
+      "issues": [
+        "Missing servings_yield",
+        "Missing temperature for baked item"
+      ]
+    },
+    {
+      "id": "brown-sugar-glazed-carrots-bhg",
+      "title": "Brown-Sugar-Glazed Carrots",
+      "issues": [
+        "Instructions mention 'glaze' but no glaze ingredients listed"
+      ]
+    },
+    {
+      "id": "almond-lace-rolls-bhg",
+      "title": "Almond Lace Rolls",
+      "issues": [
+        "Ingredient 'confectioners' sugar' missing quantity"
+      ]
+    },
+    {
+      "id": "crepes-suzette",
+      "title": "Crepes Suzette",
+      "issues": [
+        "Ingredient 'Dessert Crepes' missing quantity"
+      ]
+    },
+    {
+      "id": "chocolate-mousse",
+      "title": "Chocolate Mousse",
+      "issues": [
+        "Ingredient 'whipped cream' missing quantity",
+        "Ingredient 'chocolate curls or grated chocolate' missing quantity"
+      ]
+    },
+    {
+      "id": "baked-apples",
+      "title": "Baked Apples",
+      "issues": [
+        "Instructions mention 'basting' but no basting ingredients listed"
+      ]
+    },
+    {
+      "id": "carrot-casserole-mommom",
+      "title": "Carrot Casserole",
+      "issues": [
+        "Missing servings_yield",
+        "Vague cooking time (says 'until' without approximate time)",
+        "Missing temperature for baked item"
+      ]
+    },
+    {
+      "id": "applesauce",
+      "title": "Applesauce",
+      "issues": [
+        "Missing temperature for baked item"
+      ]
+    },
+    {
+      "id": "creamy-herbed-pork-chops-bhg",
+      "title": "Creamy Herbed Pork Chops",
+      "issues": [
+        "Ingredient 'water' missing quantity"
+      ]
+    },
+    {
+      "id": "custard-pie",
+      "title": "Custard Pie",
+      "issues": [
+        "Instructions mention 'filling' but no filling ingredients listed",
+        "Ingredient 'Pastry for Single-Crust Pie' missing quantity",
+        "Ingredient 'ground nutmeg' missing quantity"
+      ]
+    },
+    {
+      "id": "choose-a-flavor-quiche-bhg",
+      "title": "Choose-a-Flavor Quiche",
+      "issues": [
+        "Ingredient 'Pastry for Single-Crust Pie (see recipe, page 293)' missing quantity"
+      ]
+    },
+    {
+      "id": "orange-swordfish-kabobs",
+      "title": "Orange Swordfish Kabobs",
+      "issues": [
+        "Instructions mention 'marinade' but no marinade ingredients listed"
+      ]
+    },
+    {
+      "id": "powdered-sugar-glaze",
+      "title": "Powdered Sugar Glaze",
+      "issues": [
+        "Instructions mention 'glaze' but no glaze ingredients listed"
+      ]
+    },
+    {
+      "id": "crab-louis-bhg",
+      "title": "Crab Louis",
+      "issues": [
+        "Ingredient 'Louis Dressing' missing quantity",
+        "Ingredient 'paprika' missing quantity"
+      ]
+    },
+    {
+      "id": "crab-cakes-bhg",
+      "title": "Crab Cakes",
+      "issues": [
+        "Missing servings_yield",
+        "Ingredient 'ground red pepper' missing quantity",
+        "Ingredient 'cooking oil' missing quantity"
+      ]
+    },
+    {
+      "id": "oatmeal-raisin-scones-bhg",
+      "title": "Oatmeal-Raisin Scones",
+      "issues": [
+        "Ingredient 'milk' missing quantity"
+      ]
+    },
+    {
+      "id": "grilled-meat-tacos-partial",
+      "title": "Grilled Meat Burritos",
+      "issues": [
+        "Instructions mention 'marinade' but no marinade ingredients listed",
+        "Instructions mention 'filling' but no filling ingredients listed",
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "fruit-filled-oatmeal-bars",
+      "title": "Fruit-Filled Oatmeal Bars",
+      "issues": [
+        "Ingredient 'Raisin Filling, Apple-Cinnamon Filling, or Apricot-Coconut Filling' missing quantity"
+      ]
+    },
+    {
+      "id": "baked-fish-with-mushrooms",
+      "title": "Baked Fish with Mushrooms",
+      "issues": [
+        "Ingredient 'paprika' missing quantity"
+      ]
+    },
+    {
+      "id": "holiday-surprise-punch",
+      "title": "Holiday Surprise Punch",
+      "issues": [
+        "Instructions mention 'fill with' but no filling ingredients listed",
+        "Ingredient 'maraschino cherries' missing quantity"
+      ]
+    },
+    {
+      "id": "french-toast",
+      "title": "French Toast",
+      "issues": [
+        "Ingredient 'margarine, butter, or cooking oil' missing quantity",
+        "Ingredient 'maple-flavored syrup' missing quantity"
+      ]
+    },
+    {
+      "id": "fruit-filled-oatmeal-bars",
+      "title": "Fruit-Filled Oatmeal Bars",
+      "issues": [
+        "Ingredient 'Raisin Filling, Apple-Cinnamon Filling, or Apricot-Coconut Filling' missing quantity"
+      ]
+    },
+    {
+      "id": "fruit-filled-melons-bhg",
+      "title": "Fruit-Filled Melons",
+      "issues": [
+        "Ingredient 'leaf lettuce' missing quantity"
+      ]
+    },
+    {
+      "id": "spinach-garbanzo-bean-salad-bhg",
+      "title": "Spinach and Garbanzo Bean Salad",
+      "issues": [
+        "Instructions mention 'dressing' but no dressing ingredients listed"
+      ]
+    },
+    {
+      "id": "shrimp-crabmeat-dip",
+      "title": "Shrimp-Crabmeat Dip",
+      "issues": [
+        "Missing servings_yield",
+        "Ingredient 'tiny cleaned shrimp' missing quantity",
+        "Ingredient 'flaked (frozen) crabmeat' missing quantity",
+        "Ingredient 'Parmesan cheese' missing quantity"
+      ]
+    },
+    {
+      "id": "peters-peanut-brittle",
+      "title": "Peter's Peanut Brittle",
+      "issues": [
+        "Missing servings_yield",
+        "Vague cooking time (says 'until' without approximate time)"
+      ]
+    },
+    {
+      "id": "cranberry-apple-crisp-mommom",
+      "title": "Cranberry Apple Crisp",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "bacon-and-onion-bratwursts-bhg",
+      "title": "Bacon and Onion Bratwursts",
+      "issues": [
+        "Ingredient 'Dijon-style mustard' missing quantity"
+      ]
+    },
+    {
+      "id": "pigs-in-a-blanket-mommom",
+      "title": "Pigs in a Blanket",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "homemade-biscuits-mommom",
+      "title": "Homemade Biscuits",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "pastry-for-double-crust-pie",
+      "title": "Pastry for Double-Crust Pie",
+      "issues": [
+        "Instructions mention 'filling' but no filling ingredients listed",
+        "Missing temperature for baked item"
+      ]
+    },
+    {
+      "id": "people-chow",
+      "title": "People Chow",
+      "issues": [
+        "Missing servings_yield"
+      ]
+    },
+    {
+      "id": "strawberry-shortcake-bhg",
+      "title": "Strawberry Shortcake",
+      "issues": [
+        "Ingredient 'Whipped Cream (see recipe, page 140)' missing quantity"
+      ]
+    }
+  ],
+  "good_ids": [
+    "waffles",
+    "welsh-rarebit-breakfast",
+    "saucy-rutabaga-potato-combo-bhg",
+    "granola",
+    "spice-cake",
+    "cheese-souffle",
+    "pie-crusts-mommom",
+    "orange-sauce",
+    "peanut-brittle-classic",
+    "remarkable-fudge-bhg",
+    "scrambled-eggs-bhg",
+    "baked-bean-quintet-bhg",
+    "spinach-stuffed-lamb-roast",
+    "hot-tuna-sandwich-cups",
+    "chocolate-peanut-butter-pie",
+    "frittata-bhg",
+    "croissants-bhg",
+    "farmers-breakfast-bhg",
+    "golden-delicious-apple-cake",
+    "broiled-coconut-topping-bhg",
+    "ice-cream-float-bhg",
+    "creamy-spinach-bhg",
+    "corn-fritters-mommom",
+    "rocky-road",
+    "naturally-sweet-apple-crisp",
+    "cheese-topped-parsnips-bhg",
+    "pumpkin-bars",
+    "white-bread-bhg",
+    "fondant",
+    "melon-and-prosciutto",
+    "cheese-and-pesto-spread",
+    "cheesy-bean-combo-bhg",
+    "bagels",
+    "chocolate-covered-cherries",
+    "kimmys-french-countryside-bread",
+    "cornmeal-bubble-ring",
+    "curried-chicken-spread",
+    "orange-chocolate-slices",
+    "caramel-sauce",
+    "pumpkin-bread-mommom",
+    "party-punch-base-bhg",
+    "hamburger-soup-mommom",
+    "bread-pudding-bhg",
+    "split-pea-soup-bhg",
+    "cheese-twists-bhg",
+    "no-cook-vanilla-ice-cream",
+    "rocky-road-frosting-bhg",
+    "brioche",
+    "dark-rye-bread-bhg",
+    "granola-bars",
+    "farmers-breakfast",
+    "barbecue-style-ribs-bhg",
+    "italian-sausage-sandwiches-bhg",
+    "whole-wheat-dinner-rolls",
+    "divinity-bhg",
+    "heathers-100-whole-wheat-bread",
+    "streusel-coffee-cake-bhg",
+    "fried-rice-supper-bhg",
+    "corn-chowder-bhg",
+    "peanut-clusters-bhg",
+    "wheat-and-raisin-busy-day-cake",
+    "vanilla-ice-cream-cooked",
+    "carrots-in-almond-sauce-bhg",
+    "macadamia-meltaways",
+    "poached-pears-bhg",
+    "glazed-nuts",
+    "creamy-white-frosting-bhg",
+    "unbelievable-oat-bran-muffins",
+    "bagels",
+    "creamy-green-bean-bake-bhg",
+    "rhubarb-sauce-bhg",
+    "sourdough-bread-machine",
+    "eddies-deli-rye-bread",
+    "nut-brittle",
+    "ranger-cookies",
+    "chicken-nuggets",
+    "rocky-road-candy",
+    "sweet-and-sour-franks-bhg",
+    "fried-cheese-sticks",
+    "shrimp-cucumber-spread",
+    "homemade-pie-crust",
+    "peanut-butter-candy-tops-bhg",
+    "cranberry-nut-bread",
+    "pasta-primavera",
+    "avocado-pita-wedges",
+    "herb-bagels",
+    "captain-morgan-spiced-rum-cocktail",
+    "blackened-thai-catfish"
+  ]
+}
