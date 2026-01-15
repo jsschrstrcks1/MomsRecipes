@@ -139,7 +139,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 445,
+          "fat_g": 21.8,
+          "protein_g": 45.5,
+          "carbs_g": 13.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 13/13 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -281,7 +291,20 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 346,
+          "fat_g": 18.1,
+          "protein_g": 32.7,
+          "carbs_g": 10.9
+        },
+        "missing_inputs": [
+          "Not in database: Crepes"
+        ],
+        "assumptions": [
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
+          "Based on 13/14 ingredients (93% coverage)"
+        ]
       }
     },
     {
@@ -411,7 +434,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 504,
+          "fat_g": 34.4,
+          "protein_g": 36.5,
+          "carbs_g": 9.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for ground nutmeg",
+          "Assumed 1 unit for paprika",
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -516,7 +551,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 914,
+          "fat_g": 41.0,
+          "protein_g": 66.3,
+          "carbs_g": 66.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -638,7 +683,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 620,
+          "fat_g": 33.8,
+          "protein_g": 50.6,
+          "carbs_g": 29.4
+        },
+        "missing_inputs": [
+          "Not in database: alfalfa sprouts"
+        ],
+        "assumptions": [
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
       }
     },
     {
@@ -775,7 +832,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 559,
+          "fat_g": 22.9,
+          "protein_g": 40.3,
+          "carbs_g": 48.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Based on 13/13 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -851,7 +919,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 315,
+          "fat_g": 17.7,
+          "protein_g": 35.8,
+          "carbs_g": 0.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -942,7 +1020,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 606,
+          "fat_g": 32.0,
+          "protein_g": 76.1,
+          "carbs_g": 1.5
+        },
+        "missing_inputs": [
+          "Not in database: five-spice powder"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -1097,7 +1187,21 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 227,
+          "fat_g": 11.1,
+          "protein_g": 6.1,
+          "carbs_g": 26.8
+        },
+        "missing_inputs": [
+          "Not in database: dried savory"
+        ],
+        "assumptions": [
+          "Inferred 1 for pepper (standard quantity)",
+          "Inferred 2 for cooking oil (standard quantity)",
+          "Based on 14/15 ingredients (93% coverage)"
+        ]
       }
     },
     {
@@ -2495,17 +2599,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 365,
+          "calories": 366,
           "fat_g": 24.1,
           "protein_g": 23.5,
-          "carbs_g": 11.1
+          "carbs_g": 11.4
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for lettuce",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -2698,17 +2800,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 847,
+          "calories": 850,
           "fat_g": 39.7,
           "protein_g": 113.5,
-          "carbs_g": 5.2
+          "carbs_g": 5.8
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -3263,15 +3363,13 @@
           "calories": 494,
           "fat_g": 24.8,
           "protein_g": 35.5,
-          "carbs_g": 32.4
+          "carbs_g": 32.5
         },
-        "missing_inputs": [
-          "Not in database: chopped pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for dry bread crumbs",
           "Assumed 1 unit for sliced almonds",
-          "Based on 11/12 ingredients (92% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -3717,20 +3815,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 183,
+          "calories": 196,
           "fat_g": 2.7,
-          "protein_g": 25.3,
-          "carbs_g": 13.5
+          "protein_g": 25.9,
+          "carbs_g": 16.2
         },
         "missing_inputs": [
-          "Not in database: frozen pea pods",
           "Not in database: bean sprouts"
         ],
         "assumptions": [
           "Inferred 1.0 for fresh mushrooms (standard quantity)",
           "Assumed 1 unit for chow mein noodles or hot cooked rice",
           "Estimated 6 servings based on total calories",
-          "Based on 12/14 ingredients (86% coverage)"
+          "Based on 13/14 ingredients (93% coverage)"
         ]
       }
     },
@@ -3957,19 +4054,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 289,
+          "calories": 292,
           "fat_g": 8.5,
           "protein_g": 33.7,
-          "carbs_g": 17.6
+          "carbs_g": 18.5
         },
-        "missing_inputs": [
-          "Not in database: Cocktail Sauce"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 2 for shortening or cooking oil (standard quantity)",
           "Inferred 0.25 for dash pepper (standard quantity)",
+          "Assumed 1 unit for Cocktail Sauce",
           "Estimated 6 servings based on total calories",
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -5253,12 +5349,10 @@
           "protein_g": 20.7,
           "carbs_g": 5.0
         },
-        "missing_inputs": [
-          "Not in database: dried marjoram"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -5345,16 +5439,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 753,
+          "calories": 755,
           "fat_g": 52.5,
           "protein_g": 60.0,
-          "carbs_g": 0.8
+          "carbs_g": 1.4
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -5590,9 +5682,9 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 274,
-          "fat_g": 18.4,
-          "protein_g": 20.1,
+          "calories": 312,
+          "fat_g": 23.9,
+          "protein_g": 19.4,
           "carbs_g": 4.2
         },
         "missing_inputs": [],
@@ -6792,16 +6884,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 314,
+          "calories": 324,
           "fat_g": 18.1,
-          "protein_g": 23.2,
-          "carbs_g": 12.5
+          "protein_g": 23.9,
+          "carbs_g": 14.3
         },
-        "missing_inputs": [
-          "Not in database: frozen pea pods"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -7105,16 +7195,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 282,
+          "calories": 286,
           "fat_g": 20.0,
           "protein_g": 21.0,
-          "carbs_g": 1.8
+          "carbs_g": 2.8
         },
-        "missing_inputs": [
-          "Not in database: currant jelly"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -8566,16 +8654,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1058,
+          "calories": 1063,
           "fat_g": 72.0,
           "protein_g": 80.2,
-          "carbs_g": 14.9
+          "carbs_g": 16.1
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -10472,11 +10558,9 @@
           "protein_g": 81.6,
           "carbs_g": 10.6
         },
-        "missing_inputs": [
-          "Not in database: chopped pimiento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -11051,10 +11135,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 468,
+          "calories": 477,
           "fat_g": 19.1,
-          "protein_g": 28.7,
-          "carbs_g": 46.5
+          "protein_g": 28.9,
+          "carbs_g": 48.7
         },
         "missing_inputs": [
           "Not in database: bean sprouts"
@@ -11315,16 +11399,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 524,
+          "calories": 525,
           "fat_g": 19.8,
           "protein_g": 25.5,
-          "carbs_g": 59.3
+          "carbs_g": 59.6
         },
-        "missing_inputs": [
-          "Not in database: catsup"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 13/14 ingredients (93% coverage)"
+          "Based on 14/14 ingredients (100% coverage)"
         ]
       }
     },
@@ -11452,18 +11534,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 362,
+          "calories": 388,
           "fat_g": 22.9,
-          "protein_g": 21.2,
-          "carbs_g": 18.7
+          "protein_g": 22.2,
+          "carbs_g": 24.2
         },
-        "missing_inputs": [
-          "Not in database: frozen pea pods",
-          "Not in database: canned peach slices"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for hot cooked rice",
-          "Based on 10/12 ingredients (83% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -11585,8 +11664,8 @@
         "per_serving": {
           "calories": 179,
           "fat_g": 8.2,
-          "protein_g": 21.1,
-          "carbs_g": 3.2
+          "protein_g": 21.0,
+          "carbs_g": 3.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -11727,12 +11806,17 @@
         ]
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "per_serving": {},
-        "missing_inputs": [
-          "Not in database: frozen breaded fish portions"
-        ],
-        "assumptions": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 79,
+          "fat_g": 1.0,
+          "protein_g": 3.0,
+          "carbs_g": 15.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 1/1 ingredients (100% coverage)"
+        ]
       }
     },
     {

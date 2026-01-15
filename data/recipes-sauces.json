@@ -613,16 +613,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 224,
+          "calories": 264,
           "fat_g": 0.1,
-          "protein_g": 0.5,
-          "carbs_g": 57.5
+          "protein_g": 2.0,
+          "carbs_g": 66.5
         },
-        "missing_inputs": [
-          "Not in database: rhubarb"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -1287,7 +1285,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 53,
+          "fat_g": 2.4,
+          "protein_g": 2.6,
+          "carbs_g": 5.5
+        },
+        "missing_inputs": [
+          "Not in database: fried poultry drippings"
+        ],
+        "assumptions": [
+          "Based on 4/5 ingredients (80% coverage)"
+        ]
       }
     },
     {
@@ -1353,7 +1363,20 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 16,
+          "fat_g": 0.1,
+          "protein_g": 0.7,
+          "carbs_g": 3.1
+        },
+        "missing_inputs": [
+          "Not in database: pan drippings from roast poultry"
+        ],
+        "assumptions": [
+          "Inferred 1.0 for chicken broth or water (standard quantity)",
+          "Based on 2/3 ingredients (67% coverage)"
+        ]
       }
     },
     {
@@ -1442,7 +1465,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 146,
+          "fat_g": 7.3,
+          "protein_g": 14.8,
+          "carbs_g": 4.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for pan drippings from roast turkey or chicken (standard quantity)",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1518,7 +1552,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 51,
+          "fat_g": 2.3,
+          "protein_g": 2.3,
+          "carbs_g": 5.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1 for pepper (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1602,7 +1647,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 89,
+          "fat_g": 6.8,
+          "protein_g": 6.0,
+          "carbs_g": 0.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 0.25 for white pepper (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1695,7 +1751,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 113,
+          "fat_g": 8.5,
+          "protein_g": 8.0,
+          "carbs_g": 0.6
+        },
+        "missing_inputs": [
+          "Not in database: snipped fresh chervil or pinch dried chervil, crushed"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -1799,7 +1867,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 466,
+          "fat_g": 0.1,
+          "protein_g": 0.3,
+          "carbs_g": 119.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1891,7 +1969,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 87,
+          "fat_g": 0.1,
+          "protein_g": 0.6,
+          "carbs_g": 22.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1977,7 +2066,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 79,
+          "fat_g": 8.0,
+          "protein_g": 0.2,
+          "carbs_g": 2.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2039,7 +2138,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 433,
+          "fat_g": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 112.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 2/2 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2125,7 +2234,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 10,
+          "fat_g": 0.1,
+          "protein_g": 0.3,
+          "carbs_g": 2.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2729,16 +2848,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 224,
+          "calories": 264,
           "fat_g": 0.1,
-          "protein_g": 0.5,
-          "carbs_g": 57.5
+          "protein_g": 2.0,
+          "carbs_g": 66.5
         },
-        "missing_inputs": [
-          "Not in database: 1/2-inch rhubarb slices"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },

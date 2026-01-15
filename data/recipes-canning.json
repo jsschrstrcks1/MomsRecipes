@@ -93,7 +93,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 197,
+          "fat_g": 1.7,
+          "protein_g": 4.1,
+          "carbs_g": 46.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -154,7 +164,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 10,
+          "fat_g": 0.1,
+          "protein_g": 0.3,
+          "carbs_g": 2.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -240,7 +260,19 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 568,
+          "fat_g": 0.3,
+          "protein_g": 2.8,
+          "carbs_g": 144.7
+        },
+        "missing_inputs": [
+          "Not in database: cracked ice"
+        ],
+        "assumptions": [
+          "Based on 10/11 ingredients (91% coverage)"
+        ]
       }
     },
     {
@@ -304,7 +336,18 @@
         ]
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 19,
+          "fat_g": 0.2,
+          "protein_g": 1.4,
+          "carbs_g": 3.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for pickling cucumbers",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -382,7 +425,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 551,
+          "fat_g": 3.6,
+          "protein_g": 9.2,
+          "carbs_g": 132.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -469,7 +522,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 309,
+          "fat_g": 0.7,
+          "protein_g": 3.3,
+          "carbs_g": 76.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -517,7 +580,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 660,
+          "fat_g": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 171.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -570,7 +643,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 627,
+          "fat_g": 0.0,
+          "protein_g": 0.3,
+          "carbs_g": 161.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -632,7 +715,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 691,
+          "fat_g": 0.2,
+          "protein_g": 0.8,
+          "carbs_g": 177.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -674,7 +767,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 641,
+          "fat_g": 0.1,
+          "protein_g": 0.6,
+          "carbs_g": 165.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 2/2 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -726,7 +829,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 847,
+          "fat_g": 0.3,
+          "protein_g": 2.2,
+          "carbs_g": 217.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -786,7 +899,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 824,
+          "fat_g": 0.5,
+          "protein_g": 1.0,
+          "carbs_g": 212.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -846,7 +969,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 193,
+          "fat_g": 0.3,
+          "protein_g": 0.5,
+          "carbs_g": 50.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -904,7 +1037,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 647,
+          "fat_g": 0.4,
+          "protein_g": 0.6,
+          "carbs_g": 166.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {

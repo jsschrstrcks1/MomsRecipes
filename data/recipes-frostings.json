@@ -1082,16 +1082,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 47,
-          "fat_g": 1.9,
-          "protein_g": 0.2,
-          "carbs_g": 7.6
+          "calories": 72,
+          "fat_g": 4.2,
+          "protein_g": 0.8,
+          "carbs_g": 8.3
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts (optional)"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -1246,10 +1244,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 21,
-          "fat_g": 0.1,
+          "calories": 15,
+          "fat_g": 0.0,
           "protein_g": 0.2,
-          "carbs_g": 5.2
+          "carbs_g": 3.8
         },
         "missing_inputs": [],
         "assumptions": [

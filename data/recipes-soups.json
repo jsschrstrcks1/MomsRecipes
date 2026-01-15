@@ -90,8 +90,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 223,
+          "fat_g": 12.1,
+          "protein_g": 15.8,
+          "carbs_g": 12.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1 for meat tenderizers or seasoned salt (standard quantity)",
+          "Estimated 6 servings based on total calories",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -333,8 +344,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 301,
+          "fat_g": 17.5,
+          "protein_g": 17.8,
+          "carbs_g": 17.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1 for salt (standard quantity)",
+          "Estimated 6 servings based on total calories",
+          "Based on 14/14 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -625,8 +647,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 258,
+          "fat_g": 15.7,
+          "protein_g": 15.2,
+          "carbs_g": 14.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -722,8 +754,21 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 495,
+          "fat_g": 14.0,
+          "protein_g": 21.2,
+          "carbs_g": 73.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for onions (standard quantity)",
+          "Used standard can size (1.75 cups) for whole kernel corn",
+          "Used standard can size (1.75 cups) for kidney beans",
+          "Estimated 8 servings based on total calories",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -814,8 +859,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 103,
+          "fat_g": 0.8,
+          "protein_g": 5.0,
+          "carbs_g": 20.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1336,8 +1390,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 284,
+          "fat_g": 18.2,
+          "protein_g": 18.2,
+          "carbs_g": 10.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1604,8 +1667,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 232,
+          "fat_g": 6.2,
+          "protein_g": 20.5,
+          "carbs_g": 22.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 11/11 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1682,8 +1755,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 183,
+          "fat_g": 14.9,
+          "protein_g": 2.1,
+          "carbs_g": 11.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -2721,7 +2804,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 357,
+          "fat_g": 13.7,
+          "protein_g": 24.6,
+          "carbs_g": 32.8
+        },
+        "missing_inputs": [
+          "Not in database: dried Italian seasoning"
+        ],
+        "assumptions": [
+          "Based on 13/14 ingredients (93% coverage)"
+        ]
       }
     },
     {
@@ -3317,11 +3412,9 @@
           "protein_g": 26.4,
           "carbs_g": 14.1
         },
-        "missing_inputs": [
-          "Not in database: dried marjoram, crushed"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },

@@ -346,16 +346,17 @@
       },
       "image_refs": [],
       "nutrition": {
-        "status": "insufficient_data",
-        "per_serving": {},
-        "missing_inputs": [
-          "Not in database: Captain Morgan Original Spiced Rum",
-          "Not in database: cranberry juice",
-          "Not in database: fresh lime juice",
-          "Not in database: cola",
-          "Not in database: lime wedge"
-        ],
-        "assumptions": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 91,
+          "fat_g": 0.1,
+          "protein_g": 0.5,
+          "carbs_g": 23.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -445,10 +446,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 772,
-          "fat_g": 81.2,
-          "protein_g": 5.3,
-          "carbs_g": 9.2
+          "calories": 424,
+          "fat_g": 45.2,
+          "protein_g": 3.3,
+          "carbs_g": 6.2
         },
         "missing_inputs": [
           "Not in database: candy cane"
@@ -549,7 +550,7 @@
         "per_serving": {
           "calories": 121,
           "fat_g": 0.1,
-          "protein_g": 0.2,
+          "protein_g": 0.1,
           "carbs_g": 32.2
         },
         "missing_inputs": [
@@ -685,20 +686,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 34,
+          "calories": 128,
           "fat_g": 0.0,
-          "protein_g": 0.1,
-          "carbs_g": 8.8
+          "protein_g": 0.3,
+          "carbs_g": 33.1
         },
-        "missing_inputs": [
-          "Not in database: cranberry sauce"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1.5 cup can for cranberry sauce",
           "Assumed 1.5 cup can for frozen apple juice concentrate",
           "Assumed 1.5 cup can for frozen cranberry juice concentrate",
           "Assumed 1.5 cup can for frozen pink lemonade concentrate",
-          "Assumed 1.5 cup can for frozen regular lemonade concentrate",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Assumed 1.5 cup can for frozen regular lemonade concentrate"
         ]
       }
     },
@@ -877,10 +876,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 409,
-          "fat_g": 42.0,
-          "protein_g": 2.1,
-          "carbs_g": 5.0
+          "calories": 61,
+          "fat_g": 6.0,
+          "protein_g": 0.1,
+          "carbs_g": 2.0
         },
         "missing_inputs": [],
         "assumptions": [
@@ -3677,10 +3676,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 347,
-          "fat_g": 15.3,
-          "protein_g": 6.3,
-          "carbs_g": 47.5
+          "calories": 289,
+          "fat_g": 9.3,
+          "protein_g": 6.0,
+          "carbs_g": 47.0
         },
         "missing_inputs": [],
         "assumptions": [
@@ -3766,10 +3765,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 123,
-          "fat_g": 9.2,
-          "protein_g": 1.1,
-          "carbs_g": 9.6
+          "calories": 100,
+          "fat_g": 6.8,
+          "protein_g": 0.9,
+          "carbs_g": 9.4
         },
         "missing_inputs": [],
         "assumptions": [
@@ -4851,14 +4850,20 @@
         "IMG_5197 Large.jpeg"
       ],
       "nutrition": {
-        "status": "insufficient_data",
-        "per_serving": {},
+        "status": "partial",
+        "per_serving": {
+          "calories": 27,
+          "fat_g": 0.0,
+          "protein_g": 0.0,
+          "carbs_g": 4.3
+        },
         "missing_inputs": [
-          "Not in database: frozen limeade or lemonade concentrate",
-          "Not in database: rum",
           "Not in database: ice cubes"
         ],
-        "assumptions": []
+        "assumptions": [
+          "Assumed 1 unit for rum",
+          "Based on 2/3 ingredients (67% coverage)"
+        ]
       }
     },
     {

@@ -558,7 +558,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 364,
+          "fat_g": 32.0,
+          "protein_g": 13.5,
+          "carbs_g": 7.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -629,7 +639,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 682,
+          "fat_g": 6.5,
+          "protein_g": 2.2,
+          "carbs_g": 160.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -732,7 +752,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 37,
+          "fat_g": 0.3,
+          "protein_g": 1.8,
+          "carbs_g": 8.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -854,7 +885,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 502,
+          "fat_g": 9.6,
+          "protein_g": 5.8,
+          "carbs_g": 106.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -948,7 +989,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 138,
+          "fat_g": 1.2,
+          "protein_g": 2.8,
+          "carbs_g": 32.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1181,7 +1233,7 @@
           "calories": 20,
           "fat_g": 0.2,
           "protein_g": 0.8,
-          "carbs_g": 4.2
+          "carbs_g": 4.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -1663,16 +1715,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 593,
+          "calories": 595,
           "fat_g": 0.0,
           "protein_g": 0.0,
-          "carbs_g": 154.0
+          "carbs_g": 154.4
         },
-        "missing_inputs": [
-          "Not in database: fruit pectin"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -1765,16 +1815,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 570,
-          "fat_g": 0.1,
-          "protein_g": 0.4,
-          "carbs_g": 147.2
+          "calories": 571,
+          "fat_g": 0.0,
+          "protein_g": 0.3,
+          "carbs_g": 147.4
         },
-        "missing_inputs": [
-          "Not in database: fruit pectin"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -1964,16 +2012,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 689,
+          "calories": 691,
           "fat_g": 0.2,
           "protein_g": 0.8,
-          "carbs_g": 177.5
+          "carbs_g": 177.8
         },
-        "missing_inputs": [
-          "Not in database: liquid fruit pectin"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -2063,16 +2109,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 662,
+          "calories": 705,
           "fat_g": 0.5,
-          "protein_g": 2.1,
-          "carbs_g": 169.0
+          "protein_g": 2.5,
+          "carbs_g": 180.0
         },
-        "missing_inputs": [
-          "Not in database: fresh rhubarb"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -2165,16 +2209,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 831,
+          "calories": 832,
           "fat_g": 0.5,
           "protein_g": 1.1,
-          "carbs_g": 213.9
+          "carbs_g": 214.2
         },
-        "missing_inputs": [
-          "Not in database: liquid fruit pectin"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },

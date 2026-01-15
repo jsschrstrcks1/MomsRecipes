@@ -117,8 +117,20 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 283,
+          "fat_g": 10.9,
+          "protein_g": 3.1,
+          "carbs_g": 45.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for maraschino cherries",
+          "Assumed 1 unit for nuts",
+          "Estimated 8 servings based on total calories",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -362,9 +374,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": [
-          "full recipe not shown"
+        "status": "partial",
+        "per_serving": {
+          "calories": 220,
+          "fat_g": 1.8,
+          "protein_g": 4.1,
+          "carbs_g": 46.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -463,8 +483,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 324,
+          "fat_g": 4.2,
+          "protein_g": 8.9,
+          "carbs_g": 61.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -629,8 +658,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 2118,
+          "fat_g": 93.3,
+          "protein_g": 22.8,
+          "carbs_g": 317.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 14/14 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -735,8 +773,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 1976,
+          "fat_g": 2.2,
+          "protein_g": 9.3,
+          "carbs_g": 505.7
+        },
+        "missing_inputs": [
+          "Not in database: crust for 9 inch (2 crust) pie"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
@@ -837,8 +886,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 1507,
+          "fat_g": 41.9,
+          "protein_g": 114.0,
+          "carbs_g": 183.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for toasted almond slivers",
+          "Assumed 1 unit for whipped cream",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -935,8 +995,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 1158,
+          "fat_g": 62.1,
+          "protein_g": 11.0,
+          "carbs_g": 136.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1431,18 +1500,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 265,
-          "fat_g": 7.7,
-          "protein_g": 3.7,
-          "carbs_g": 46.4
+          "calories": 298,
+          "fat_g": 10.7,
+          "protein_g": 4.4,
+          "carbs_g": 47.3
         },
-        "missing_inputs": [
-          "Not in database: nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for shortening",
           "Estimated 6 servings based on total calories",
-          "Based on 14/15 ingredients (93% coverage)"
+          "Based on 15/15 ingredients (100% coverage)"
         ]
       }
     },
@@ -1555,18 +1622,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 310,
-          "fat_g": 2.9,
-          "protein_g": 8.9,
-          "carbs_g": 61.8
+          "calories": 311,
+          "fat_g": 2.2,
+          "protein_g": 6.8,
+          "carbs_g": 66.6
         },
-        "missing_inputs": [
-          "Not in database: whole berry cranberry sauce"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1 for salt (standard quantity)",
-          "Estimated 6 servings based on total calories",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Assumed 1.5 cup can for whole berry cranberry sauce",
+          "Estimated 8 servings based on total calories",
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -1757,17 +1823,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 270,
-          "fat_g": 6.2,
+          "calories": 452,
+          "fat_g": 28.9,
           "protein_g": 6.7,
-          "carbs_g": 46.6
+          "carbs_g": 44.8
         },
-        "missing_inputs": [
-          "Not in database: oleo"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 6/7 ingredients (86% coverage)"
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -2158,16 +2222,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 306,
-          "fat_g": 12.3,
-          "protein_g": 2.6,
-          "carbs_g": 47.7
+          "calories": 356,
+          "fat_g": 16.9,
+          "protein_g": 3.7,
+          "carbs_g": 49.1
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 11/12 ingredients (92% coverage)"
+          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },
@@ -2619,17 +2681,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 368,
-          "fat_g": 21.2,
-          "protein_g": 8.8,
-          "carbs_g": 36.9
+          "calories": 443,
+          "fat_g": 20.6,
+          "protein_g": 12.6,
+          "carbs_g": 54.4
         },
         "missing_inputs": [
           "Not in database: pecan pieces"
         ],
         "assumptions": [
           "Used standard can size (1.25 cups) for sweetened condensed milk",
-          "Estimated 12 servings based on total calories",
+          "Estimated 8 servings based on total calories",
           "Based on 5/6 ingredients (83% coverage)"
         ]
       }
@@ -2749,20 +2811,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 377,
-          "fat_g": 21.8,
-          "protein_g": 15.5,
-          "carbs_g": 30.4
+          "calories": 429,
+          "fat_g": 26.9,
+          "protein_g": 17.0,
+          "carbs_g": 31.0
         },
-        "missing_inputs": [
-          "Not in database: nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Used standard can size (1.25 cups) for condensed milk",
           "Used standard can size (1.5 cups) for pineapple chunks",
+          "Assumed 1 unit for nuts",
           "Assumed 1 unit for cherries",
-          "Estimated 12 servings based on total calories",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Estimated 12 servings based on total calories"
         ]
       }
     },
@@ -2858,10 +2918,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 189,
-          "fat_g": 10.2,
+          "calories": 145,
+          "fat_g": 7.4,
           "protein_g": 5.5,
-          "carbs_g": 17.0
+          "carbs_g": 13.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -3210,17 +3270,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 251,
-          "fat_g": 1.2,
-          "protein_g": 3.8,
-          "carbs_g": 57.4
+          "calories": 301,
+          "fat_g": 5.7,
+          "protein_g": 4.9,
+          "carbs_g": 58.8
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -3351,18 +3409,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 415,
-          "fat_g": 21.2,
+          "calories": 419,
+          "fat_g": 21.7,
           "protein_g": 12.5,
           "carbs_g": 47.9
         },
-        "missing_inputs": [
-          "Not in database: oleo"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for sugar (standard quantity)",
           "Estimated 12 servings based on total calories",
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -3847,17 +3903,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 339,
-          "fat_g": 7.6,
-          "protein_g": 5.2,
-          "carbs_g": 63.7
+          "calories": 389,
+          "fat_g": 12.1,
+          "protein_g": 6.3,
+          "carbs_g": 65.1
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 12 servings based on total calories",
-          "Based on 9/10 ingredients (90% coverage)"
+          "Based on 10/10 ingredients (100% coverage)"
         ]
       }
     },
@@ -5093,17 +5147,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 283,
-          "fat_g": 16.4,
-          "protein_g": 3.5,
-          "carbs_g": 33.2
+          "calories": 263,
+          "fat_g": 16.8,
+          "protein_g": 3.7,
+          "carbs_g": 26.2
         },
-        "missing_inputs": [
-          "Not in database: finely chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Estimated 6 servings based on total calories",
-          "Based on 12/13 ingredients (92% coverage)"
+          "Estimated 8 servings based on total calories",
+          "Based on 13/13 ingredients (100% coverage)"
         ]
       }
     },
@@ -5187,18 +5239,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 115,
+          "calories": 219,
           "fat_g": 4.5,
-          "protein_g": 0.8,
-          "carbs_g": 20.2
+          "protein_g": 1.0,
+          "carbs_g": 47.2
         },
         "missing_inputs": [
-          "Not in database: whole cranberry sauce",
           "Not in database: granola"
         ],
         "assumptions": [
           "Estimated 4 servings based on total calories",
-          "Based on 3/5 ingredients (60% coverage)"
+          "Based on 4/5 ingredients (80% coverage)"
         ]
       }
     },
@@ -5309,10 +5360,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1012,
-          "fat_g": 38.6,
+          "calories": 997,
+          "fat_g": 37.7,
           "protein_g": 150.4,
-          "carbs_g": 12.3
+          "carbs_g": 11.0
         },
         "missing_inputs": [],
         "assumptions": [
@@ -5462,19 +5513,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 427,
-          "fat_g": 20.7,
+          "calories": 436,
+          "fat_g": 21.9,
           "protein_g": 14.7,
           "carbs_g": 50.1
         },
         "missing_inputs": [
-          "Not in database: oleo",
-          "Not in database: mini-marshmallows",
-          "Not in database: oleo"
+          "Not in database: mini-marshmallows"
         ],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 11/14 ingredients (79% coverage)"
+          "Based on 13/14 ingredients (93% coverage)"
         ]
       }
     },
@@ -5802,17 +5851,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 145,
-          "fat_g": 7.9,
+          "calories": 150,
+          "fat_g": 8.4,
           "protein_g": 2.7,
-          "carbs_g": 17.4
+          "carbs_g": 17.7
         },
         "missing_inputs": [
-          "Not in database: oleo",
           "Not in database: maple flavoring"
         ],
         "assumptions": [
-          "Based on 7/9 ingredients (78% coverage)"
+          "Based on 8/9 ingredients (89% coverage)"
         ]
       }
     },
@@ -6073,18 +6121,18 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 26,
-          "fat_g": 0.0,
-          "protein_g": 0.2,
-          "carbs_g": 6.9
+          "calories": 79,
+          "fat_g": 4.8,
+          "protein_g": 1.4,
+          "carbs_g": 8.5
         },
         "missing_inputs": [
           "Not in database: sandwich cookies (Oreos)",
-          "Not in database: miniature marshmallows",
-          "Not in database: chopped nuts"
+          "Not in database: miniature marshmallows"
         ],
         "assumptions": [
-          "Based on 4/8 ingredients (50% coverage)"
+          "Assumed 1 unit for whipped topping",
+          "Based on 6/8 ingredients (75% coverage)"
         ]
       }
     },
@@ -6616,18 +6664,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 592,
-          "fat_g": 29.2,
+          "calories": 600,
+          "fat_g": 30.2,
           "protein_g": 9.7,
           "carbs_g": 76.5
         },
-        "missing_inputs": [
-          "Not in database: oleo"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for pecans",
           "Inferred 1.0 for confectioners sugar (standard quantity)",
-          "Based on 7/8 ingredients (88% coverage)"
+          "Based on 8/8 ingredients (100% coverage)"
         ]
       }
     },
@@ -7227,10 +7273,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 97,
-          "fat_g": 2.7,
+          "calories": 83,
+          "fat_g": 1.8,
           "protein_g": 0.6,
-          "carbs_g": 18.4
+          "carbs_g": 17.1
         },
         "missing_inputs": [
           "Not in database: crushed pretzels"
@@ -7327,16 +7373,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 45,
-          "fat_g": 0.1,
+          "calories": 68,
+          "fat_g": 2.8,
           "protein_g": 0.1,
           "carbs_g": 11.3
         },
-        "missing_inputs": [
-          "Not in database: oleo"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -7517,17 +7561,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 46,
-          "fat_g": 2.3,
-          "protein_g": 2.7,
-          "carbs_g": 4.0
+          "calories": 126,
+          "fat_g": 7.5,
+          "protein_g": 3.4,
+          "carbs_g": 11.2
         },
-        "missing_inputs": [
-          "Not in database: unbaked deep-dish pie shell"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Used standard can size (1.875 cups) for Libby's Easy Pumpkin Pie Mix",
-          "Based on 3/4 ingredients (75% coverage)"
+          "Based on 4/4 ingredients (100% coverage)"
         ]
       }
     },
@@ -8035,17 +8077,16 @@
           "calories": 132,
           "fat_g": 5.8,
           "protein_g": 3.1,
-          "carbs_g": 18.1
+          "carbs_g": 18.2
         },
         "missing_inputs": [
-          "Not in database: almond extract",
-          "Not in database: strawberry preserves"
+          "Not in database: almond extract"
         ],
         "assumptions": [
           "Assumed 1.5 cup can for blanched whole almonds",
           "Inferred 1.0 for confectioners' sugar (standard quantity)",
           "Assumed 1 unit for lemon juice",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -10056,17 +10097,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 101,
-          "fat_g": 3.1,
-          "protein_g": 2.5,
-          "carbs_g": 16.2
+          "calories": 201,
+          "fat_g": 9.6,
+          "protein_g": 3.4,
+          "carbs_g": 25.2
         },
         "missing_inputs": [
-          "Not in database: pie shell",
           "Not in database: pecan halves"
         ],
         "assumptions": [
-          "Based on 8/10 ingredients (80% coverage)"
+          "Based on 9/10 ingredients (90% coverage)"
         ]
       }
     },
@@ -10461,10 +10501,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 62,
+          "calories": 61,
           "fat_g": 2.1,
           "protein_g": 1.2,
-          "carbs_g": 9.9
+          "carbs_g": 9.8
         },
         "missing_inputs": [],
         "assumptions": [
@@ -12036,10 +12076,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 327,
-          "fat_g": 16.5,
-          "protein_g": 4.4,
-          "carbs_g": 41.8
+          "calories": 284,
+          "fat_g": 12.0,
+          "protein_g": 4.1,
+          "carbs_g": 41.4
         },
         "missing_inputs": [],
         "assumptions": [
@@ -12762,19 +12802,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 158,
-          "fat_g": 2.1,
-          "protein_g": 2.4,
-          "carbs_g": 33.8
+          "calories": 225,
+          "fat_g": 8.0,
+          "protein_g": 3.9,
+          "carbs_g": 35.7
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking soda",
           "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for shortening",
-          "Based on 10/11 ingredients (91% coverage)"
+          "Based on 11/11 ingredients (100% coverage)"
         ]
       }
     },
@@ -13479,10 +13517,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 59,
-          "fat_g": 5.0,
-          "protein_g": 0.5,
-          "carbs_g": 3.1
+          "calories": 30,
+          "fat_g": 2.0,
+          "protein_g": 0.3,
+          "carbs_g": 2.8
         },
         "missing_inputs": [
           "Not in database: Fudge Cake",
@@ -14619,14 +14657,12 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 194,
+          "calories": 239,
           "fat_g": 6.9,
           "protein_g": 3.2,
-          "carbs_g": 30.8
+          "carbs_g": 42.0
         },
-        "missing_inputs": [
-          "Not in database: mixed candied fruits and peels or snipped mixed dried fruit"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Assumed 1 unit for baking powder",
           "Assumed 1 unit for baking soda",
@@ -15892,18 +15928,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 143,
-          "fat_g": 3.6,
-          "protein_g": 0.4,
-          "carbs_g": 28.6
+          "calories": 243,
+          "fat_g": 12.6,
+          "protein_g": 2.7,
+          "carbs_g": 31.3
         },
-        "missing_inputs": [
-          "Not in database: chopped nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Assumed 1 unit for flaked coconut",
-          "Based on 4/5 ingredients (80% coverage)"
+          "Assumed 1 unit for chopped nuts",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -16055,10 +16090,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 94,
-          "fat_g": 0.5,
+          "calories": 70,
+          "fat_g": 0.0,
           "protein_g": 1.1,
-          "carbs_g": 23.3
+          "carbs_g": 17.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -22553,8 +22588,8 @@
         "status": "partial",
         "per_serving": {
           "calories": 362,
-          "fat_g": 3.2,
-          "protein_g": 5.7,
+          "fat_g": 2.8,
+          "protein_g": 5.3,
           "carbs_g": 80.0
         },
         "missing_inputs": [],
@@ -22775,10 +22810,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 534,
-          "fat_g": 12.2,
-          "protein_g": 8.7,
-          "carbs_g": 100.7
+          "calories": 621,
+          "fat_g": 19.4,
+          "protein_g": 10.8,
+          "carbs_g": 102.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -23309,19 +23344,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 91,
+          "calories": 97,
           "fat_g": 0.1,
           "protein_g": 0.8,
-          "carbs_g": 23.6
+          "carbs_g": 25.2
         },
         "missing_inputs": [
           "Not in database: mixed dried fruit",
-          "Not in database: quick-cooking tapioca",
-          "Not in database: currant jelly"
+          "Not in database: quick-cooking tapioca"
         ],
         "assumptions": [
           "Assumed 1 unit for raisins",
-          "Based on 6/9 ingredients (67% coverage)"
+          "Assumed 1 unit for currant jelly",
+          "Based on 7/9 ingredients (78% coverage)"
         ]
       }
     },
@@ -23648,10 +23683,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 322,
-          "fat_g": 23.9,
-          "protein_g": 6.3,
-          "carbs_g": 21.3
+          "calories": 252,
+          "fat_g": 16.7,
+          "protein_g": 5.9,
+          "carbs_g": 20.7
         },
         "missing_inputs": [],
         "assumptions": [
@@ -24113,10 +24148,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 274,
-          "fat_g": 7.6,
-          "protein_g": 5.7,
-          "carbs_g": 46.7
+          "calories": 230,
+          "fat_g": 3.1,
+          "protein_g": 5.4,
+          "carbs_g": 46.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -24663,14 +24698,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 343,
-          "fat_g": 22.4,
-          "protein_g": 3.8,
-          "carbs_g": 34.0
+          "calories": 260,
+          "fat_g": 6.0,
+          "protein_g": 3.7,
+          "carbs_g": 49.4
         },
         "missing_inputs": [],
         "assumptions": [
-          "Estimated 8 servings based on total calories",
+          "Estimated 6 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
@@ -25060,16 +25095,14 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 330,
+          "calories": 375,
           "fat_g": 8.1,
           "protein_g": 6.2,
-          "carbs_g": 62.3
+          "carbs_g": 73.5
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 16/17 ingredients (94% coverage)"
+          "Based on 17/17 ingredients (100% coverage)"
         ]
       }
     },
@@ -25277,10 +25310,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 164,
-          "fat_g": 6.6,
-          "protein_g": 3.9,
-          "carbs_g": 21.9
+          "calories": 129,
+          "fat_g": 3.0,
+          "protein_g": 3.7,
+          "carbs_g": 21.6
         },
         "missing_inputs": [],
         "assumptions": [
@@ -25376,10 +25409,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 386,
-          "fat_g": 37.4,
-          "protein_g": 6.5,
-          "carbs_g": 7.0
+          "calories": 299,
+          "fat_g": 28.4,
+          "protein_g": 6.0,
+          "carbs_g": 6.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -25478,16 +25511,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 256,
+          "calories": 266,
           "fat_g": 21.7,
           "protein_g": 8.0,
-          "carbs_g": 8.7
+          "carbs_g": 11.2
         },
-        "missing_inputs": [
-          "Not in database: Fruit Sauce or fresh fruit"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "Assumed 1 unit for Fruit Sauce or fresh fruit",
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -25767,16 +25799,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 683,
-          "fat_g": 63.7,
-          "protein_g": 9.3,
-          "carbs_g": 21.7
+          "calories": 746,
+          "fat_g": 64.7,
+          "protein_g": 11.0,
+          "carbs_g": 33.7
         },
-        "missing_inputs": [
-          "Not in database: sponge cake or fresh fruit"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Assumed 1 unit for sponge cake or fresh fruit",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -25978,17 +26009,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 178,
-          "fat_g": 11.8,
-          "protein_g": 6.0,
-          "carbs_g": 12.9
+          "calories": 221,
+          "fat_g": 9.2,
+          "protein_g": 4.8,
+          "carbs_g": 30.8
         },
-        "missing_inputs": [
-          "Not in database: Stirred Custard",
-          "Not in database: strawberry preserves or currant jelly"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 7/9 ingredients (78% coverage)"
+          "Assumed 1 unit for Stirred Custard",
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -26163,7 +26192,7 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2863,
+          "calories": 2864,
           "fat_g": 244.7,
           "protein_g": 29.3,
           "carbs_g": 152.8
@@ -26268,7 +26297,7 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 604,
+          "calories": 605,
           "fat_g": 4.0,
           "protein_g": 7.0,
           "carbs_g": 139.8
@@ -26788,10 +26817,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 910,
-          "fat_g": 14.2,
-          "protein_g": 2.9,
-          "carbs_g": 197.4
+          "calories": 1505,
+          "fat_g": 68.1,
+          "protein_g": 16.2,
+          "carbs_g": 212.4
         },
         "missing_inputs": [
           "Not in database: frozen loaf pound cake"
@@ -27998,8 +28027,8 @@
         "status": "partial",
         "per_serving": {
           "calories": 181,
-          "fat_g": 0.5,
-          "protein_g": 1.8,
+          "fat_g": 0.1,
+          "protein_g": 1.4,
           "carbs_g": 45.9
         },
         "missing_inputs": [],
@@ -28155,8 +28184,8 @@
         "status": "partial",
         "per_serving": {
           "calories": 407,
-          "fat_g": 2.5,
-          "protein_g": 6.3,
+          "fat_g": 2.1,
+          "protein_g": 5.9,
           "carbs_g": 92.3
         },
         "missing_inputs": [],
@@ -28342,10 +28371,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 242,
-          "fat_g": 4.9,
-          "protein_g": 3.6,
-          "carbs_g": 48.9
+          "calories": 264,
+          "fat_g": 6.4,
+          "protein_g": 3.9,
+          "carbs_g": 49.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -28783,18 +28812,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 50,
+          "calories": 52,
           "fat_g": 0.0,
           "protein_g": 0.3,
-          "carbs_g": 12.8
+          "carbs_g": 13.2
         },
         "missing_inputs": [
           "Not in database: mixed dried fruit",
-          "Not in database: quick-cooking tapioca",
-          "Not in database: currant jelly"
+          "Not in database: quick-cooking tapioca"
         ],
         "assumptions": [
-          "Based on 6/9 ingredients (67% coverage)"
+          "Based on 7/9 ingredients (78% coverage)"
         ]
       }
     },
@@ -29080,10 +29108,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 403,
-          "fat_g": 28.6,
-          "protein_g": 7.3,
-          "carbs_g": 30.2
+          "calories": 334,
+          "fat_g": 21.4,
+          "protein_g": 6.9,
+          "carbs_g": 29.6
         },
         "missing_inputs": [],
         "assumptions": [
@@ -29381,16 +29409,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 144,
+          "calories": 149,
           "fat_g": 6.2,
           "protein_g": 2.8,
-          "carbs_g": 20.2
+          "carbs_g": 21.5
         },
-        "missing_inputs": [
-          "Not in database: Fruit Sauce"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 12/13 ingredients (92% coverage)"
+          "Assumed 1 unit for Fruit Sauce",
+          "Based on 13/13 ingredients (100% coverage)"
         ]
       }
     },
@@ -29470,10 +29497,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 277,
-          "fat_g": 7.9,
-          "protein_g": 5.7,
-          "carbs_g": 46.7
+          "calories": 233,
+          "fat_g": 3.4,
+          "protein_g": 5.4,
+          "carbs_g": 46.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -29798,7 +29825,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 231,
+          "fat_g": 7.4,
+          "protein_g": 8.6,
+          "carbs_g": 32.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -29882,7 +29919,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 208,
+          "fat_g": 14.0,
+          "protein_g": 5.3,
+          "carbs_g": 16.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30018,7 +30065,19 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 460,
+          "fat_g": 12.8,
+          "protein_g": 11.3,
+          "carbs_g": 78.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.5 cups) for evaporated milk",
+          "Assumed 1 unit for Hard Sauce",
+          "Based on 18/18 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30087,7 +30146,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 235,
+          "fat_g": 7.5,
+          "protein_g": 8.4,
+          "carbs_g": 34.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30148,7 +30217,19 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 131,
+          "fat_g": 3.3,
+          "protein_g": 3.7,
+          "carbs_g": 21.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Pudding, whipped cream, ice cream, sherbet, or fresh fruit",
+          "Inferred 1.0 for Powdered sugar (standard quantity)",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30213,7 +30294,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 319,
+          "fat_g": 29.5,
+          "protein_g": 6.2,
+          "carbs_g": 8.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Whipped cream",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30282,7 +30374,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 265,
+          "fat_g": 21.7,
+          "protein_g": 8.0,
+          "carbs_g": 11.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Fruit Sauce or fresh fruit",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30346,7 +30449,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 176,
+          "fat_g": 6.8,
+          "protein_g": 7.5,
+          "carbs_g": 22.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for ground nutmeg or cinnamon",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30426,7 +30540,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 250,
+          "fat_g": 6.6,
+          "protein_g": 8.6,
+          "carbs_g": 38.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Whiskey Sauce",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30483,7 +30608,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 746,
+          "fat_g": 64.7,
+          "protein_g": 11.0,
+          "carbs_g": 33.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Sponge cake or fresh fruit",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30565,7 +30701,19 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 128,
+          "fat_g": 7.8,
+          "protein_g": 2.3,
+          "carbs_g": 12.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Stirred Custard",
+          "Inferred 1.0 for Hot-Milk Sponge Cake (standard quantity)",
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30622,7 +30770,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 3041,
+          "fat_g": 264.0,
+          "protein_g": 15.0,
+          "carbs_g": 171.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30683,7 +30841,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 2864,
+          "fat_g": 244.7,
+          "protein_g": 29.3,
+          "carbs_g": 152.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30751,7 +30919,19 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 670,
+          "fat_g": 4.0,
+          "protein_g": 7.0,
+          "carbs_g": 156.5
+        },
+        "missing_inputs": [
+          "Not in database: yellow food coloring"
+        ],
+        "assumptions": [
+          "Based on 5/6 ingredients (83% coverage)"
+        ]
       }
     },
     {
@@ -30798,7 +30978,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 785,
+          "fat_g": 17.0,
+          "protein_g": 20.0,
+          "carbs_g": 146.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30855,7 +31045,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 255,
+          "fat_g": 0.8,
+          "protein_g": 2.4,
+          "carbs_g": 63.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Assumed 1 unit for Orange juice",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -30939,7 +31140,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 205,
+          "fat_g": 9.3,
+          "protein_g": 6.2,
+          "carbs_g": 24.6
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31020,7 +31231,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 242,
+          "fat_g": 11.7,
+          "protein_g": 3.4,
+          "carbs_g": 32.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 9/9 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31073,7 +31294,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 2612,
+          "fat_g": 224.2,
+          "protein_g": 32.3,
+          "carbs_g": 134.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.25 cups) for sweetened condensed milk",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31124,7 +31356,18 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 906,
+          "fat_g": 38.0,
+          "protein_g": 27.0,
+          "carbs_g": 116.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.5 cups) for evaporated milk",
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31181,7 +31424,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 843,
+          "fat_g": 44.7,
+          "protein_g": 2.5,
+          "carbs_g": 113.9
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31230,7 +31483,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 264,
+          "fat_g": 0.1,
+          "protein_g": 2.0,
+          "carbs_g": 66.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 4/4 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31284,7 +31547,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 1109,
+          "fat_g": 98.0,
+          "protein_g": 17.0,
+          "carbs_g": 45.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31338,7 +31611,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 246,
+          "fat_g": 3.9,
+          "protein_g": 3.0,
+          "carbs_g": 50.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31383,7 +31666,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 458,
+          "fat_g": 44.0,
+          "protein_g": 2.5,
+          "carbs_g": 16.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31430,7 +31723,17 @@
         "flags": []
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 246,
+          "fat_g": 1.4,
+          "protein_g": 0.0,
+          "carbs_g": 59.5
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 3/3 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -31607,19 +31910,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 134,
-          "fat_g": 0.0,
-          "protein_g": 0.1,
-          "carbs_g": 34.4
+          "calories": 234,
+          "fat_g": 6.5,
+          "protein_g": 1.0,
+          "carbs_g": 43.4
         },
         "missing_inputs": [
-          "Not in database: Flavoring",
-          "Not in database: Pastry for Double-Crust Pie"
+          "Not in database: Flavoring"
         ],
         "assumptions": [
           "Assumed 1 unit for Fruit-Pie Filling",
+          "Assumed 1 unit for Pastry for Double-Crust Pie",
           "Inferred 1.0 for sugar (standard quantity)",
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 3/4 ingredients (75% coverage)"
         ]
       }
     },
@@ -31706,19 +32009,19 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 178,
-          "fat_g": 0.2,
-          "protein_g": 0.9,
-          "carbs_g": 43.7
+          "calories": 278,
+          "fat_g": 6.7,
+          "protein_g": 1.8,
+          "carbs_g": 52.7
         },
         "missing_inputs": [
-          "Not in database: Flavoring",
-          "Not in database: Pastry for Single-Crust Pie"
+          "Not in database: Flavoring"
         ],
         "assumptions": [
           "Assumed 1 unit for Fruit-Pie Filling",
+          "Assumed 1 unit for Pastry for Single-Crust Pie",
           "Inferred 1.0 for Powdered Sugar Icing (standard quantity)",
-          "Based on 5/7 ingredients (71% coverage)"
+          "Based on 6/7 ingredients (86% coverage)"
         ]
       }
     },
@@ -34680,10 +34983,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 255,
-          "fat_g": 9.2,
-          "protein_g": 5.8,
-          "carbs_g": 38.2
+          "calories": 253,
+          "fat_g": 9.1,
+          "protein_g": 5.7,
+          "carbs_g": 37.9
         },
         "missing_inputs": [],
         "assumptions": [
@@ -35876,8 +36179,8 @@
         "status": "partial",
         "per_serving": {
           "calories": 181,
-          "fat_g": 0.5,
-          "protein_g": 1.8,
+          "fat_g": 0.1,
+          "protein_g": 1.4,
           "carbs_g": 45.9
         },
         "missing_inputs": [],
@@ -35965,8 +36268,8 @@
         "status": "partial",
         "per_serving": {
           "calories": 407,
-          "fat_g": 2.5,
-          "protein_g": 6.3,
+          "fat_g": 2.1,
+          "protein_g": 5.9,
           "carbs_g": 92.3
         },
         "missing_inputs": [],
@@ -36071,10 +36374,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 242,
-          "fat_g": 4.9,
-          "protein_g": 3.6,
-          "carbs_g": 48.9
+          "calories": 264,
+          "fat_g": 6.4,
+          "protein_g": 3.9,
+          "carbs_g": 49.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -36515,18 +36818,17 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 50,
+          "calories": 52,
           "fat_g": 0.0,
           "protein_g": 0.3,
-          "carbs_g": 12.8
+          "carbs_g": 13.2
         },
         "missing_inputs": [
           "Not in database: 8-oz package (about 3/4 cup) mixed dried fruit",
-          "Not in database: quick-cooking tapioca",
-          "Not in database: currant jelly"
+          "Not in database: quick-cooking tapioca"
         ],
         "assumptions": [
-          "Based on 6/9 ingredients (67% coverage)"
+          "Based on 7/9 ingredients (78% coverage)"
         ]
       }
     },
@@ -36812,10 +37114,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 321,
-          "fat_g": 23.7,
-          "protein_g": 6.3,
-          "carbs_g": 21.3
+          "calories": 251,
+          "fat_g": 16.5,
+          "protein_g": 5.9,
+          "carbs_g": 20.7
         },
         "missing_inputs": [],
         "assumptions": [
@@ -37115,16 +37417,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 144,
+          "calories": 149,
           "fat_g": 6.2,
           "protein_g": 2.8,
-          "carbs_g": 20.2
+          "carbs_g": 21.5
         },
-        "missing_inputs": [
-          "Not in database: Fruit Sauce (see recipe, page 139) (optional)"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 12/13 ingredients (92% coverage)"
+          "Assumed 1 unit for Fruit Sauce (see recipe, page 139) (optional)",
+          "Based on 13/13 ingredients (100% coverage)"
         ]
       }
     },
@@ -37203,10 +37504,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 277,
-          "fat_g": 7.9,
-          "protein_g": 5.7,
-          "carbs_g": 46.7
+          "calories": 233,
+          "fat_g": 3.4,
+          "protein_g": 5.4,
+          "carbs_g": 46.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -37633,17 +37934,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 338,
-          "fat_g": 8.7,
+          "calories": 402,
+          "fat_g": 9.7,
           "protein_g": 6.8,
-          "carbs_g": 62.3
+          "carbs_g": 75.8
         },
-        "missing_inputs": [
-          "Not in database: diced mixed candied fruits and peels",
-          "Not in database: Hard Sauce (see recipe, page 140)"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 16/18 ingredients (89% coverage)"
+          "Assumed 1 unit for Hard Sauce (see recipe, page 140)",
+          "Based on 18/18 ingredients (100% coverage)"
         ]
       }
     },
@@ -37798,10 +38097,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 166,
-          "fat_g": 6.9,
-          "protein_g": 3.9,
-          "carbs_g": 21.9
+          "calories": 131,
+          "fat_g": 3.3,
+          "protein_g": 3.7,
+          "carbs_g": 21.6
         },
         "missing_inputs": [],
         "assumptions": [
@@ -37875,10 +38174,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 406,
-          "fat_g": 38.5,
-          "protein_g": 6.8,
-          "carbs_g": 9.1
+          "calories": 319,
+          "fat_g": 29.5,
+          "protein_g": 6.2,
+          "carbs_g": 8.4
         },
         "missing_inputs": [],
         "assumptions": [
@@ -37963,16 +38262,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 255,
+          "calories": 265,
           "fat_g": 21.7,
           "protein_g": 8.0,
-          "carbs_g": 8.7
+          "carbs_g": 11.2
         },
-        "missing_inputs": [
-          "Not in database: Fruit Sauce (see recipe, page 139) or fresh fruit"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 5/6 ingredients (83% coverage)"
+          "Assumed 1 unit for Fruit Sauce (see recipe, page 139) or fresh fruit",
+          "Based on 6/6 ingredients (100% coverage)"
         ]
       }
     },
@@ -38191,16 +38489,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 683,
-          "fat_g": 63.7,
-          "protein_g": 9.3,
-          "carbs_g": 21.7
+          "calories": 746,
+          "fat_g": 64.7,
+          "protein_g": 11.0,
+          "carbs_g": 33.7
         },
-        "missing_inputs": [
-          "Not in database: sponge cake or fresh fruit"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Based on 4/5 ingredients (80% coverage)"
+          "Assumed 1 unit for sponge cake or fresh fruit",
+          "Based on 5/5 ingredients (100% coverage)"
         ]
       }
     },
@@ -38290,18 +38587,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 103,
+          "calories": 128,
           "fat_g": 7.8,
-          "protein_g": 2.0,
-          "carbs_g": 6.9
+          "protein_g": 2.3,
+          "carbs_g": 12.8
         },
-        "missing_inputs": [
-          "Not in database: Stirred Custard (see recipe, left)",
-          "Not in database: strawberry preserves or currant jelly"
-        ],
+        "missing_inputs": [],
         "assumptions": [
+          "Assumed 1 unit for Stirred Custard (see recipe, left)",
           "Inferred 1.0 for Hot-Milk Sponge Cake (see recipe, page 85) (standard quantity)",
-          "Based on 7/9 ingredients (78% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -38445,7 +38740,7 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 2863,
+          "calories": 2864,
           "fat_g": 244.7,
           "protein_g": 29.3,
           "carbs_g": 152.8
@@ -38528,7 +38823,7 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 669,
+          "calories": 670,
           "fat_g": 4.0,
           "protein_g": 7.0,
           "carbs_g": 156.5
@@ -38950,10 +39245,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 1006,
-          "fat_g": 22.6,
-          "protein_g": 4.5,
-          "carbs_g": 200.8
+          "calories": 1167,
+          "fat_g": 38.4,
+          "protein_g": 8.5,
+          "carbs_g": 202.0
         },
         "missing_inputs": [
           "Not in database: frozen loaf pound cake"

@@ -104,9 +104,20 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
+        "status": "partial",
+        "per_serving": {
+          "calories": 186,
+          "fat_g": 2.8,
+          "protein_g": 5.7,
+          "carbs_g": 33.7
+        },
         "missing_inputs": [
-          "Most ingredients unclear"
+          "Unclear: baking powder",
+          "Unclear: cornmeal"
+        ],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 4/6 ingredients (67% coverage)"
         ]
       }
     },
@@ -197,8 +208,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 299,
+          "fat_g": 0.2,
+          "protein_g": 1.4,
+          "carbs_g": 76.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -300,8 +321,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 1754,
+          "fat_g": 1.2,
+          "protein_g": 7.9,
+          "carbs_g": 448.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -408,8 +438,21 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 573,
+          "fat_g": 24.9,
+          "protein_g": 43.6,
+          "carbs_g": 41.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.75 cups) for pork and beans",
+          "Used standard can size (1.75 cups) for kidney beans",
+          "Assumed 1.5 cup can for green limas",
+          "Estimated 12 servings based on total calories",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -514,8 +557,21 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 249,
+          "fat_g": 15.8,
+          "protein_g": 6.2,
+          "carbs_g": 23.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.5 cups) for Cheddar cheese soup",
+          "Assumed 1.5 cup can for sliced mushrooms",
+          "Assumed 1.5 cup can for crumbled onion rings",
+          "Estimated 4 servings based on total calories",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -598,8 +654,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 479,
+          "fat_g": 10.5,
+          "protein_g": 0.0,
+          "carbs_g": 100.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -881,8 +946,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 466,
+          "fat_g": 31.3,
+          "protein_g": 33.4,
+          "carbs_g": 9.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 12 servings based on total calories",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -997,8 +1072,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 292,
+          "fat_g": 1.0,
+          "protein_g": 3.4,
+          "carbs_g": 73.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 6 servings based on total calories",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1081,8 +1166,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 21,
+          "fat_g": 2.4,
+          "protein_g": 0.1,
+          "carbs_g": 0.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1198,8 +1292,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 408,
+          "fat_g": 6.7,
+          "protein_g": 4.3,
+          "carbs_g": 86.8
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1295,8 +1399,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 244,
+          "fat_g": 13.5,
+          "protein_g": 25.3,
+          "carbs_g": 4.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.5 cups) for condensed cream soup (chicken, celery, or mushroom)",
+          "Estimated 6 servings based on total calories",
+          "Based on 7/7 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1415,8 +1530,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 497,
+          "fat_g": 34.6,
+          "protein_g": 4.5,
+          "carbs_g": 45.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1499,8 +1624,20 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 223,
+          "fat_g": 7.7,
+          "protein_g": 5.8,
+          "carbs_g": 34.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Assumed 1.5 cup can for water chestnuts",
+          "Estimated 4 servings based on total calories",
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1598,8 +1735,18 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 71,
+          "fat_g": 1.1,
+          "protein_g": 1.8,
+          "carbs_g": 14.1
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 4 servings based on total calories",
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -1712,8 +1859,21 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data",
-        "missing_inputs": []
+        "status": "partial",
+        "per_serving": {
+          "calories": 231,
+          "fat_g": 15.3,
+          "protein_g": 12.5,
+          "carbs_g": 9.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for onion, diced (standard quantity)",
+          "Used standard can size (1.25 cups) for cream of mushroom soup",
+          "Used standard can size (1.25 cups) for cream of chicken soup",
+          "Assumed 1.5 cup can for water",
+          "Used standard can size (1.5 cups) for milk"
+        ]
       }
     },
     {
@@ -1934,17 +2094,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 274,
+          "calories": 275,
           "fat_g": 4.9,
           "protein_g": 9.2,
-          "carbs_g": 49.8
+          "carbs_g": 49.9
         },
-        "missing_inputs": [
-          "Not in database: diced pimento"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 8 servings based on total calories",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -2247,9 +2405,9 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 220,
-          "fat_g": 5.0,
-          "protein_g": 10.6,
+          "calories": 168,
+          "fat_g": 0.6,
+          "protein_g": 7.0,
           "carbs_g": 35.2
         },
         "missing_inputs": [],
@@ -2690,19 +2848,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 88,
-          "fat_g": 0.3,
-          "protein_g": 1.4,
-          "carbs_g": 17.0
+          "calories": 253,
+          "fat_g": 24.5,
+          "protein_g": 1.0,
+          "carbs_g": 8.7
         },
-        "missing_inputs": [
-          "Not in database: oleo",
-          "Not in database: Velveeta",
-          "Not in database: oleo"
-        ],
+        "missing_inputs": [],
         "assumptions": [
-          "Estimated 4 servings based on total calories",
-          "Based on 4/7 ingredients (57% coverage)"
+          "Estimated 8 servings based on total calories",
+          "Based on 7/7 ingredients (100% coverage)"
         ]
       }
     },
@@ -3312,10 +3466,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 290,
+          "calories": 275,
           "fat_g": 0.2,
           "protein_g": 0.3,
-          "carbs_g": 74.8
+          "carbs_g": 70.7
         },
         "missing_inputs": [],
         "assumptions": [
@@ -3421,10 +3575,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 358,
+          "calories": 326,
           "fat_g": 0.3,
           "protein_g": 1.2,
-          "carbs_g": 91.7
+          "carbs_g": 83.4
         },
         "missing_inputs": [],
         "assumptions": [
@@ -3519,17 +3673,16 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 258,
+          "calories": 259,
           "fat_g": 0.0,
           "protein_g": 0.0,
-          "carbs_g": 66.7
+          "carbs_g": 66.9
         },
         "missing_inputs": [
-          "Not in database: frozen berries",
-          "Not in database: liquid fruit pectin"
+          "Not in database: frozen berries"
         ],
         "assumptions": [
-          "Based on 2/4 ingredients (50% coverage)"
+          "Based on 3/4 ingredients (75% coverage)"
         ]
       }
     },
@@ -3849,10 +4002,10 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 51,
-          "fat_g": 5.3,
-          "protein_g": 0.3,
-          "carbs_g": 0.6
+          "calories": 8,
+          "fat_g": 0.8,
+          "protein_g": 0.1,
+          "carbs_g": 0.3
         },
         "missing_inputs": [],
         "assumptions": [
@@ -4055,17 +4208,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 25,
+          "calories": 28,
           "fat_g": 2.5,
           "protein_g": 0.5,
-          "carbs_g": 0.2
+          "carbs_g": 1.1
         },
-        "missing_inputs": [
-          "Not in database: fruit preserves"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 4 servings based on total calories",
-          "Based on 1/2 ingredients (50% coverage)"
+          "Based on 2/2 ingredients (100% coverage)"
         ]
       }
     },
@@ -4389,17 +4540,15 @@
       "nutrition": {
         "status": "partial",
         "per_serving": {
-          "calories": 204,
-          "fat_g": 0.2,
-          "protein_g": 2.3,
-          "carbs_g": 52.3
+          "calories": 271,
+          "fat_g": 6.2,
+          "protein_g": 3.8,
+          "carbs_g": 54.1
         },
-        "missing_inputs": [
-          "Not in database: nuts"
-        ],
+        "missing_inputs": [],
         "assumptions": [
           "Estimated 6 servings based on total calories",
-          "Based on 8/9 ingredients (89% coverage)"
+          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
@@ -4507,7 +4656,7 @@
         "per_serving": {
           "calories": 255,
           "fat_g": 27.9,
-          "protein_g": 0.9,
+          "protein_g": 0.8,
           "carbs_g": 1.9
         },
         "missing_inputs": [
@@ -5591,7 +5740,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 93,
+          "fat_g": 1.8,
+          "protein_g": 3.4,
+          "carbs_g": 16.4
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 6/6 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5699,7 +5858,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 171,
+          "fat_g": 6.6,
+          "protein_g": 4.8,
+          "carbs_g": 25.3
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 10/10 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5805,7 +5974,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 110,
+          "fat_g": 3.7,
+          "protein_g": 5.7,
+          "carbs_g": 13.7
+        },
+        "missing_inputs": [
+          "Not in database: poultry seasoning"
+        ],
+        "assumptions": [
+          "Based on 9/10 ingredients (90% coverage)"
+        ]
       }
     },
     {
@@ -5900,7 +6081,17 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 83,
+          "fat_g": 4.1,
+          "protein_g": 3.2,
+          "carbs_g": 10.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 8/8 ingredients (100% coverage)"
+        ]
       }
     },
     {
@@ -5993,7 +6184,19 @@
         "has_conversions": false
       },
       "nutrition": {
-        "status": "insufficient_data"
+        "status": "partial",
+        "per_serving": {
+          "calories": 76,
+          "fat_g": 3.2,
+          "protein_g": 7.8,
+          "carbs_g": 4.1
+        },
+        "missing_inputs": [
+          "Not in database: bulgur"
+        ],
+        "assumptions": [
+          "Based on 6/7 ingredients (86% coverage)"
+        ]
       }
     },
     {
