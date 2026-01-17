@@ -257,3 +257,56 @@ This checks:
 - Reasonable ingredient quantities
 - Temperature sanity
 - Image references exist
+
+---
+
+## Claude Code Session Management
+
+### Resuming Previous Sessions
+
+When returning to work on this project, you can resume previous Claude Code sessions:
+
+**From the command line:**
+```bash
+# Resume most recent session
+claude --continue
+
+# Resume a specific named session
+claude --resume recipe-ocr-batch
+
+# Browse all sessions interactively
+claude --resume
+```
+
+**Inside an active session:**
+```
+/resume          # Open session picker to switch sessions
+/rename task-name  # Name the current session for easy resuming later
+```
+
+### Session Picker Shortcuts
+
+| Key | Action |
+|-----|--------|
+| `↑` `↓` | Navigate sessions |
+| `Enter` | Select session |
+| `P` | Preview session content |
+| `R` | Rename session |
+| `/` | Search sessions |
+| `Esc` | Exit picker |
+
+### Best Practices for This Project
+
+1. **Name sessions by task**: `/rename ocr-batch-42` or `/rename foxfire-extraction`
+2. **Use descriptive names**: Include the image range or PDF being processed
+3. **Continue quickly**: Use `claude --continue` when returning to finish a task
+4. **Preview before resuming**: Press `P` in the picker to verify you're resuming the right session
+
+### Deleting Old Sessions
+
+To clean up sessions you no longer need:
+```
+/delete          # Delete current or selected session
+```
+
+From the session picker, navigate to a session and delete it to keep your session list manageable.
