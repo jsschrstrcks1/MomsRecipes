@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "mains",
-    "count": 207,
+    "count": 208,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -24672,6 +24672,132 @@
           "Based on 8/9 ingredients (89% coverage)"
         ]
       }
+    },
+    {
+      "id": "seafood-luncheon-dish-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Seafood Luncheon Dish",
+      "category": "mains",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A baked seafood casserole with shrimp, crab, and tuna in a creamy mushroom sauce.",
+      "servings_yield": "4-6 servings",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "shrimp",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "6 1/2 oz."
+        },
+        {
+          "item": "crab",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "tuna",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "rice",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "cooked"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "mayonnaise",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "heated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine ingredients placing shrimp on top."
+        },
+        {
+          "step": 2,
+          "text": "Bake 1 hour at 350\u00b0F (175\u00b0C)."
+        },
+        {
+          "step": 3,
+          "text": "Serve with sauce: 1 can cream of mushroom soup plus 1/3 cup milk, heated."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "seafood",
+        "casserole",
+        "shrimp",
+        "crab",
+        "tuna",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5722.jpeg"
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "soups",
-    "count": 35,
+    "count": 37,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -4077,6 +4077,214 @@
           "Inferred 0.25 for Dash pepper (standard quantity)",
           "Based on 6/8 ingredients (75% coverage)"
         ]
+      }
+    },
+    {
+      "id": "southwestern-corn-chowder-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Southwestern Corn Chowder",
+      "category": "soups",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 54",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "large potato",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cream-style corn",
+          "quantity": "1",
+          "unit": "can (17 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "condensed cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook the bacon until crisp. Drain. Pour off all but 3 tablespoons of bacon drippings. Add the onion and potato and cook over medium heat, stirring, until the onion is lightly browned."
+        },
+        {
+          "step": 2,
+          "text": "Add water, cover, and simmer until the potato is just tender, 15 to 20 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add the corn, soup, mushrooms, milk, and salt. Heat to boiling, lower the heat, add the chiles, and simmer a few minutes."
+        },
+        {
+          "step": 4,
+          "text": "Serve in soup bowls or a tureen. Crumble bacon on top."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "soup",
+        "chowder",
+        "corn",
+        "green chile",
+        "bacon"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6039 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "traditional-gazpacho-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Traditional Gazpacho",
+      "category": "soups",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 54",
+      "servings_yield": "Serves 4",
+      "ingredients": [
+        {
+          "item": "tomato juice",
+          "quantity": "1 1/2",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "bell pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped or equivalent onion powder"
+        },
+        {
+          "item": "cucumber",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "peeled and chopped"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "2 to 4",
+          "unit": "",
+          "prep_note": "peeled and chopped"
+        },
+        {
+          "item": "green chile",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "or equivalent garlic powder"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1 to 2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oregano",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1 to 2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all the ingredients in a bowl and chill for 6 to 8 hours."
+        },
+        {
+          "step": 2,
+          "text": "Serve with crackers or French bread."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "soup",
+        "cold soup",
+        "gazpacho",
+        "green chile",
+        "no-cook"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6039 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
       }
     }
   ]

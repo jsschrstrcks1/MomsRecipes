@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "cookies",
-    "count": 60,
+    "count": 61,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -6356,6 +6356,128 @@
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
       }
+    },
+    {
+      "id": "aunt-margarets-rob-roys-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Aunt Margaret's Rob Roys",
+      "category": "cookies",
+      "attribution": "Aunt Margaret, FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "Hearty oatmeal cookies with white wheat flour, nuts, and raisins.",
+      "servings_yield": "Makes about 3 dozen cookies",
+      "prep_time": "",
+      "cook_time": "10-15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "shortening",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cloves",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "rolled oats",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "nuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour (white-wheat)",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sour milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream shortening, salt, spices and sugar. Add eggs, then nuts, oats and raisins."
+        },
+        {
+          "step": 2,
+          "text": "Sift flour and soda and add to creamed mixture alternately with milk."
+        },
+        {
+          "step": 3,
+          "text": "Spoon onto cookie sheet then flatten with damp fingers."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 325\u00b0F (165\u00b0C) for 10 to 15 minutes."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "cookie sheet",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "oatmeal",
+        "raisin",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5754.jpeg"
+      ]
     }
   ]
 }
