@@ -1,6 +1,6 @@
 {
   "created": "2026-01-17T17:18:28.371273",
-  "last_updated": "2026-01-17T18:09:40.344191",
+  "last_updated": "2026-01-17T18:14:53.042802",
   "limits": {
     "max_file_size_mb": 10,
     "max_file_size_hard_mb": 50,
@@ -18,14 +18,15 @@
       "has_text": true,
       "max_page_width": 418,
       "max_page_height": 648,
-      "status": "extracted",
+      "status": "processed",
       "error": null,
       "validated_at": "2026-01-17T18:09:08.328489",
       "recommendations": [
         "File exceeds 10MB soft limit. Consider text extraction for better performance.",
         "PDF has 405 pages (>100). Consider processing in page ranges."
       ],
-      "text_file": "Foxfire-Book-2.txt"
+      "text_file": "Foxfire-Book-2.txt",
+      "status_updated": "2026-01-17T18:14:53.042784"
     },
     "foxfire-three.pdf": {
       "filename": "foxfire-three.pdf",
@@ -36,14 +37,15 @@
       "has_text": true,
       "max_page_width": 438,
       "max_page_height": 652,
-      "status": "oversized",
+      "status": "processed",
       "error": null,
       "validated_at": "2026-01-17T18:09:08.414103",
       "recommendations": [
         "File exceeds 10MB soft limit. Consider text extraction for better performance.",
         "PDF has 506 pages (>500). Text extraction required."
       ],
-      "text_file": "foxfire-three.txt"
+      "text_file": "foxfire-three.txt",
+      "status_updated": "2026-01-17T18:14:52.758182"
     },
     "Foxfire 6 PDF.pdf": {
       "filename": "Foxfire 6 PDF.pdf",
@@ -75,7 +77,8 @@
         "File exceeds 10MB soft limit. Consider text extraction for better performance.",
         "PDF has 486 pages (>100). Consider processing in page ranges."
       ],
-      "text_file": "Foxfire-Book-4.txt"
+      "text_file": "Foxfire-Book-4.txt",
+      "status_updated": "2026-01-17T18:14:52.474133"
     },
     "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.pdf": {
       "filename": "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.pdf",
@@ -100,9 +103,9 @@
     "total": 5,
     "valid": 1,
     "large": 0,
-    "oversized": 1,
+    "oversized": 0,
     "broken": 0,
-    "extracted": 3,
-    "processed": 0
+    "extracted": 2,
+    "processed": 2
   }
 }
