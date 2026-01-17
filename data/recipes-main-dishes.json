@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "main-dishes",
-    "count": 170,
+    "count": 230,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -19284,6 +19284,5871 @@
         "flags": []
       },
       "servings_yield": "4 servings"
+    },
+    {
+      "id": "foxfire2-pussley-casserole",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pussley Casserole",
+      "category": "main dishes",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian casserole from The Foxfire Book 2",
+      "description": "A baked casserole made from purslane (pussley), rich in vitamin C.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "purslane (pussley)",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cooked, drained, and chopped fine"
+        },
+        {
+          "item": "eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cracker crumbs or cornbread",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "crumbled"
+        },
+        {
+          "item": "cheese",
+          "quantity": "",
+          "unit": "for topping",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook purslane, drain, and chop fine."
+        },
+        {
+          "step": 2,
+          "text": "Add eggs and cracker crumbs, or crumbled cornbread."
+        },
+        {
+          "step": 3,
+          "text": "Bake."
+        },
+        {
+          "step": 4,
+          "text": "Top with grated cheese just before serving."
+        }
+      ],
+      "temperature": "Low heat",
+      "pan_size": "Baking dish",
+      "notes": [
+        "Can add bread crumbs, onion, poke greens, and beaten egg instead"
+      ],
+      "tags": [
+        "casserole",
+        "wild-plants",
+        "purslane",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-baked-nettles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Nettles",
+      "category": "main dishes",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "Nettles baked with ground beef and rice.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "nettles",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cooked a long time"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "rice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "seasoning",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook nettles a long time."
+        },
+        {
+          "step": 2,
+          "text": "Strain off liquid."
+        },
+        {
+          "step": 3,
+          "text": "Chop fine."
+        },
+        {
+          "step": 4,
+          "text": "Add ground beef, rice, and seasoning."
+        },
+        {
+          "step": 5,
+          "text": "Bake at low heat until firm."
+        }
+      ],
+      "temperature": "Low heat",
+      "pan_size": "Baking dish",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "nettles",
+        "beef",
+        "wild-plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-stuffed-grape-leaves",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Grape Leaves",
+      "category": "main dishes",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Grape leaves stuffed with meat and rice.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "grape leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "young and tender"
+        },
+        {
+          "item": "ground meat",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "rice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cooked"
+        },
+        {
+          "item": "onion",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "seasonings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix ground meat with cooked rice, onion, and seasonings."
+        },
+        {
+          "step": 2,
+          "text": "Place filling on grape leaves and roll up."
+        },
+        {
+          "step": 3,
+          "text": "Steam or bake until done."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "stuffed",
+        "grape-leaves",
+        "meat",
+        "rice",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-irish-potato-dumplings",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Irish Potato Dumplings",
+      "category": "main dishes",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from Foxfire 2",
+      "description": "Biscuit dumplings cooked in creamy potato broth.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "potatoes",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "peeled and quartered"
+        },
+        {
+          "item": "water",
+          "quantity": "1 1/2 to 2",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sweet milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "biscuit dough",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "rolled 1/4-inch thick, cut in 2-inch squares"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put quartered potatoes in pot, cover with water, add salt, pepper, butter, and milk."
+        },
+        {
+          "step": 2,
+          "text": "Boil until potatoes are tender."
+        },
+        {
+          "step": 3,
+          "text": "Roll biscuit dough out one-quarter-inch thick, cut in two-inch squares."
+        },
+        {
+          "step": 4,
+          "text": "Drop into the rapidly boiling water the potatoes are in."
+        },
+        {
+          "step": 5,
+          "text": "Cook dumplings about one minute, take the pot off the heat, and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "dumplings",
+        "potato",
+        "comfort-food",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "ham-with-pineapple-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ham with Pineapple Sauce",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Baked ham glazed with a sweet pineapple sauce.",
+      "servings_yield": "4-6 servings",
+      "ingredients": [
+        {
+          "item": "fully cooked ham",
+          "quantity": "4-6",
+          "unit": "lb"
+        },
+        {
+          "item": "pineapple juice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "orange marmalade",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place ham in a shallow baking pan."
+        },
+        {
+          "step": 2,
+          "text": "Bake in 325\u00b0F oven for 1 1/4 to 2 1/4 hours."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile combine pineapple juice, marmalade, and mustard."
+        },
+        {
+          "step": 4,
+          "text": "Brush ham with glaze during last 30 minutes of baking."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "ham",
+        "pineapple",
+        "glaze",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5395 Large.jpeg"
+      ]
+    },
+    {
+      "id": "ham-caribbean-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ham Caribbean",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Ham baked with tropical fruit flavors including pineapple, orange juice, and rum.",
+      "servings_yield": "6-8 servings",
+      "ingredients": [
+        {
+          "item": "fully cooked center-cut ham slice",
+          "quantity": "1 1/2",
+          "unit": "lb",
+          "prep_note": "cut 1 inch thick"
+        },
+        {
+          "item": "canned pineapple chunks",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "juice pack"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ground cloves or nutmeg",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "light rum",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "light raisins",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Trim fat from ham. Place ham on rack in shallow baking pan."
+        },
+        {
+          "step": 2,
+          "text": "Slash edges of ham at 1-inch intervals."
+        },
+        {
+          "step": 3,
+          "text": "Bake in 350\u00b0F oven for 30 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, drain pineapple; combine juice with brown sugar, cornstarch, and cloves."
+        },
+        {
+          "step": 5,
+          "text": "Add orange juice, and if using, rum. Cook and stir till thickened."
+        },
+        {
+          "step": 6,
+          "text": "Add pineapple chunks. Simmer in pineapple mixture and cloves."
+        },
+        {
+          "step": 7,
+          "text": "Spoon over ham during last 10 minutes of baking."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "ham",
+        "caribbean",
+        "pineapple",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5395 Large.jpeg"
+      ]
+    },
+    {
+      "id": "meat-corn-bread-squares-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meat and Corn Bread Squares",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Ground beef topped with cornbread, baked until golden.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "stewed tomatoes",
+          "quantity": "16",
+          "unit": "oz"
+        },
+        {
+          "item": "kidney beans",
+          "quantity": "15",
+          "unit": "oz",
+          "prep_note": "drained"
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In skillet cook beef and onion till brown. Drain fat."
+        },
+        {
+          "step": 2,
+          "text": "Stir in chili powder and garlic salt."
+        },
+        {
+          "step": 3,
+          "text": "Add undrained tomatoes and beans. Bring to boiling."
+        },
+        {
+          "step": 4,
+          "text": "Transfer to 9x9x2-inch baking dish. Top with cheese."
+        },
+        {
+          "step": 5,
+          "text": "Combine cornmeal, flour, and baking powder."
+        },
+        {
+          "step": 6,
+          "text": "Mix milk, egg, and oil; add to dry ingredients. Stir just till moistened."
+        },
+        {
+          "step": 7,
+          "text": "Spread over meat mixture."
+        },
+        {
+          "step": 8,
+          "text": "Bake at 425\u00b0F for 20 to 25 minutes or till golden."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "cook_time": "20-25 minutes",
+      "tags": [
+        "ground beef",
+        "cornbread",
+        "casserole",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5408 Large.jpeg"
+      ]
+    },
+    {
+      "id": "meat-pasta-bake-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meat and Pasta Bake",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section (EASY)",
+      "description": "Easy casserole with ground beef, pasta, and cheese.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "elbow macaroni",
+          "quantity": "4",
+          "unit": "oz"
+        },
+        {
+          "item": "ground beef or pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "condensed cream of mushroom or celery soup",
+          "quantity": "10 3/4",
+          "unit": "oz"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried thyme, marjoram, or savory",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "granules instant beef bouillon",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "light cream or milk",
+          "quantity": "2/3",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook macaroni according to package directions; drain."
+        },
+        {
+          "step": 2,
+          "text": "In large skillet cook meat and onion till meat is brown. Drain."
+        },
+        {
+          "step": 3,
+          "text": "Stir in soup, half the cheese, milk, Worcestershire sauce, and herb."
+        },
+        {
+          "step": 4,
+          "text": "Stir in cooked macaroni."
+        },
+        {
+          "step": 5,
+          "text": "Transfer to 1 1/2-quart casserole."
+        },
+        {
+          "step": 6,
+          "text": "Bake, covered, at 350\u00b0F for 30 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Uncover; top with remaining cheese. Bake 5 minutes more."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "35 minutes",
+      "tags": [
+        "ground beef",
+        "pasta",
+        "casserole",
+        "easy",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5408 Large.jpeg"
+      ]
+    },
+    {
+      "id": "hamburger-pie-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hamburger Pie",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Classic comfort food with seasoned ground beef and mashed potato topping.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "cut green beans",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": "drained"
+        },
+        {
+          "item": "condensed tomato soup",
+          "quantity": "10 3/4",
+          "unit": "oz"
+        },
+        {
+          "item": "mashed potatoes",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In skillet cook beef and onion till meat is brown. Drain."
+        },
+        {
+          "step": 2,
+          "text": "Add salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Stir in beans and soup. Pour into 1 1/2-quart casserole."
+        },
+        {
+          "step": 4,
+          "text": "Combine mashed potatoes and egg."
+        },
+        {
+          "step": 5,
+          "text": "Spoon potato mixture in mounds over meat."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 350\u00b0F for 25 to 30 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Sprinkle with cheese. Bake 2 to 3 minutes more till cheese melts."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "30-35 minutes",
+      "tags": [
+        "ground beef",
+        "potato",
+        "casserole",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5408 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chili-mac-skillet-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chili-Mac Skillet",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "One-skillet meal combining chili and macaroni.",
+      "servings_yield": "5 servings",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "8",
+          "unit": "oz"
+        },
+        {
+          "item": "red kidney beans",
+          "quantity": "15 1/2",
+          "unit": "oz",
+          "prep_note": "drained"
+        },
+        {
+          "item": "elbow macaroni",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "2-3",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "shredded Monterey Jack cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large skillet cook meat and onion till meat is brown. Drain."
+        },
+        {
+          "step": 2,
+          "text": "Stir in undrained tomatoes, tomato sauce, undrained beans, uncooked pasta, chili powder, garlic salt, and 1/4 cup water."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover; simmer 20 minutes, stirring often."
+        },
+        {
+          "step": 4,
+          "text": "Top with cheese. Cover; heat 2 minutes or till cheese melts."
+        }
+      ],
+      "cook_time": "25 minutes",
+      "tags": [
+        "ground beef",
+        "pasta",
+        "chili",
+        "one-pot",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5409 Large.jpeg"
+      ]
+    },
+    {
+      "id": "stuffed-green-peppers-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Green Peppers",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Bell peppers stuffed with seasoned ground beef and rice mixture.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "large green peppers",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "ground beef or lamb",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "cooked rice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "shredded American cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut tops from peppers; remove seeds and membranes."
+        },
+        {
+          "step": 2,
+          "text": "Precook peppers in boiling salted water for 5 minutes; drain."
+        },
+        {
+          "step": 3,
+          "text": "For filling, in skillet cook meat and onion till meat is brown. Drain."
+        },
+        {
+          "step": 4,
+          "text": "Add half the tomatoes, rice, Worcestershire, and salt."
+        },
+        {
+          "step": 5,
+          "text": "Stuff peppers with meat mixture. Place in baking dish."
+        },
+        {
+          "step": 6,
+          "text": "Pour remaining tomatoes around peppers."
+        },
+        {
+          "step": 7,
+          "text": "Bake, uncovered, at 375\u00b0F for 35 to 40 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Top with cheese; bake 5 minutes more."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "cook_time": "40-45 minutes",
+      "tags": [
+        "ground beef",
+        "peppers",
+        "stuffed",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5409 Large.jpeg"
+      ]
+    },
+    {
+      "id": "deep-dish-meat-pie-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Deep-Dish Meat Pie",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section (EASY)",
+      "description": "Hearty meat and vegetable pie with pastry crust.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "beef stew meat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "cubed"
+        },
+        {
+          "item": "potatoes",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "peeled and cubed"
+        },
+        {
+          "item": "frozen peas",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "beef broth",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "dried thyme, savory, or basil",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "cold water",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "pastry for single-crust pie",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large saucepan combine meat, potatoes, and 1 cup broth."
+        },
+        {
+          "step": 2,
+          "text": "Add thyme, salt, and pepper. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 3,
+          "text": "Cover; simmer 45 minutes or till meat is tender."
+        },
+        {
+          "step": 4,
+          "text": "Add peas; cook 5 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Combine flour and cold water; stir into meat mixture."
+        },
+        {
+          "step": 6,
+          "text": "Cook and stir till thickened. Pour into 2-quart casserole."
+        },
+        {
+          "step": 7,
+          "text": "Roll pastry to fit top of casserole. Place over filling; seal and flute."
+        },
+        {
+          "step": 8,
+          "text": "Cut slits for steam. Bake at 425\u00b0F for 20 to 25 minutes."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "cook_time": "70-75 minutes total",
+      "tags": [
+        "beef",
+        "pot pie",
+        "pastry",
+        "easy",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5411 Large.jpeg"
+      ]
+    },
+    {
+      "id": "ham-potato-scallop-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ham-Potato Scallop",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Creamy scalloped potatoes layered with ham.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "cubed fully cooked ham",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "medium potatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "peeled and thinly sliced"
+        },
+        {
+          "item": "cream of mushroom or celery soup",
+          "quantity": "10 3/4",
+          "unit": "oz"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry bread crumbs",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In 1 1/2-quart casserole layer half of the ham, half of the onion, and half of the potatoes. Repeat layers."
+        },
+        {
+          "step": 2,
+          "text": "Mix soup and milk; pour over layers."
+        },
+        {
+          "step": 3,
+          "text": "Cover; bake at 350\u00b0F for 1 hour."
+        },
+        {
+          "step": 4,
+          "text": "Combine crumbs, parsley, and margarine."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle atop casserole. Bake, uncovered, 15 minutes more."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "1 hour 15 minutes",
+      "tags": [
+        "ham",
+        "potato",
+        "casserole",
+        "scalloped",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5411 Large.jpeg"
+      ]
+    },
+    {
+      "id": "meaty-noodle-casserole-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meaty Noodle Casserole",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section (EASY)",
+      "description": "Easy casserole with ground beef, noodles, and sour cream sauce.",
+      "servings_yield": "4-5 servings",
+      "ingredients": [
+        {
+          "item": "medium noodles",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "ground beef or pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "10 3/4",
+          "unit": "oz"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "shredded cheddar",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook noodles according to package directions; drain."
+        },
+        {
+          "step": 2,
+          "text": "In skillet cook meat till brown; drain."
+        },
+        {
+          "step": 3,
+          "text": "Stir in soup, milk, sour cream, pimiento, and parsley."
+        },
+        {
+          "step": 4,
+          "text": "Fold in noodles. Transfer to 2-quart casserole."
+        },
+        {
+          "step": 5,
+          "text": "Bake, covered, at 375\u00b0F for 35 to 40 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Sprinkle with cheese; bake 5 minutes more."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "cook_time": "40-45 minutes",
+      "tags": [
+        "ground beef",
+        "noodles",
+        "casserole",
+        "easy",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5411 Large.jpeg"
+      ]
+    },
+    {
+      "id": "corned-beef-hash-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corned Beef Hash",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Classic hash made with corned beef, potatoes, and onion.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "finely chopped cooked corned beef",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "finely chopped cooked potato",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "finely chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together corned beef, potato, onion, salt, pepper, and milk."
+        },
+        {
+          "step": 2,
+          "text": "In large skillet melt margarine over medium heat."
+        },
+        {
+          "step": 3,
+          "text": "Spread hash evenly in skillet."
+        },
+        {
+          "step": 4,
+          "text": "Cook over medium heat for 8 to 10 minutes, turning occasionally."
+        },
+        {
+          "step": 5,
+          "text": "Stir in Worcestershire sauce. Serve hot."
+        }
+      ],
+      "cook_time": "10 minutes",
+      "tags": [
+        "corned beef",
+        "hash",
+        "potato",
+        "breakfast",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5412 Large.jpeg"
+      ]
+    },
+    {
+      "id": "meaty-stuffed-potatoes-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meaty Stuffed Potatoes",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section",
+      "description": "Baked potatoes stuffed with ham and cheese.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "medium baking potatoes",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "diced cooked ham, beef, or pork",
+          "quantity": "6-8",
+          "unit": "oz"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "shredded American, Swiss, or Monterey Jack cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Scrub potatoes; prick with a fork. Bake in 425\u00b0F oven for 50 to 60 minutes or till tender."
+        },
+        {
+          "step": 2,
+          "text": "Cut a lengthwise slice off tops of potatoes; scoop out insides."
+        },
+        {
+          "step": 3,
+          "text": "Mash potato; mix in meat, sour cream, milk, onion, salt, and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Pile mixture back into potato shells."
+        },
+        {
+          "step": 5,
+          "text": "Place in baking dish. Bake at 425\u00b0F for 20 to 25 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Top with cheese; bake 2 to 3 minutes more till cheese melts."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "cook_time": "1 hour 25 minutes total",
+      "tags": [
+        "potato",
+        "ham",
+        "stuffed",
+        "cheese",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5412 Large.jpeg"
+      ]
+    },
+    {
+      "id": "creamed-dried-beef-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamed Dried Beef",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Meat section (FAST)",
+      "description": "Classic SOS (creamed chipped beef) served over toast.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "dried beef",
+          "quantity": "3-4",
+          "unit": "oz",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "snipped green pepper",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "toast points",
+          "quantity": "4",
+          "unit": "slices"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "If using dried beef, rinse and drain well. In a large skillet cook dried beef and, if desired, green pepper in margarine about 3 minutes or till edges curl."
+        },
+        {
+          "step": 2,
+          "text": "Stir in flour and pepper. Add milk all at once."
+        },
+        {
+          "step": 3,
+          "text": "Cook and stir till thickened and bubbly."
+        },
+        {
+          "step": 4,
+          "text": "Cook and stir 1 minute more."
+        },
+        {
+          "step": 5,
+          "text": "Serve over toast points."
+        }
+      ],
+      "cook_time": "10 minutes",
+      "tags": [
+        "dried beef",
+        "creamed",
+        "toast",
+        "fast",
+        "breakfast",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5412 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chicken-with-papaya-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken with Papaya",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Stir-fried chicken with tropical papaya and ginger.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "finely shredded orange peel",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "grated gingerroot",
+          "quantity": "1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "skinless boneless chicken breasts",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "1/2 lb total, cut into 1-inch pieces"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "thinly bias-sliced celery",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "papaya",
+          "quantity": "1",
+          "unit": "small",
+          "prep_note": "halved, seeded, peeled, and cut into bite-size pieces"
+        },
+        {
+          "item": "macadamia nuts or toasted blanched whole almonds",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "hot cooked rice",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For marinade, in a bowl stir together orange peel, orange juice, soy sauce, honey, and gingerroot."
+        },
+        {
+          "step": 2,
+          "text": "Rinse chicken; pat dry. Cut into 1-inch pieces. Add chicken to marinade, stirring to coat. Cover and marinate at room temperature for 30 minutes or in the refrigerator for 2 hours, stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "Drain chicken, reserving marinade. Combine cornstarch and reserved marinade. Set aside."
+        },
+        {
+          "step": 4,
+          "text": "Preheat a wok or large skillet over high heat; add cooking oil."
+        },
+        {
+          "step": 5,
+          "text": "Stir-fry celery in hot oil for 3 to 4 minutes or till crisp-tender. Remove from wok."
+        },
+        {
+          "step": 6,
+          "text": "Add chicken to wok; stir-fry for 2 to 3 minutes or till no longer pink. Push from center of wok."
+        },
+        {
+          "step": 7,
+          "text": "Stir marinade mixture; add to center of wok. Cook and stir till thickened and bubbly."
+        },
+        {
+          "step": 8,
+          "text": "Return celery to wok; add papaya. Stir to coat well. Cook, covered, about 1 minute or till heated through."
+        },
+        {
+          "step": 9,
+          "text": "Stir in nuts. Serve with hot cooked rice."
+        }
+      ],
+      "tags": [
+        "chicken",
+        "papaya",
+        "stir-fry",
+        "tropical",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5473 Large.jpeg"
+      ]
+    },
+    {
+      "id": "beer-batter-fried-chicken-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beer Batter-Fried Chicken",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Crispy deep-fried chicken coated in light beer batter.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2 1/2-3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "packaged biscuit mix",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "onion salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/8-1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "beer",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin chicken, if desired. Rinse chicken. In a large saucepan cover chicken with lightly salted water. Bring to boiling; reduce heat. Cover and simmer for 20 minutes. Drain. Pat dry with paper towels."
+        },
+        {
+          "step": 2,
+          "text": "For batter, in a bowl combine biscuit mix, onion salt, garlic powder, and ground red pepper. In another bowl stir together egg and beer; add to biscuit mixture. Beat till smooth."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, in a heavy 3-quart saucepan or deep-fat fryer heat 1 1/4 inches shortening or oil to 365\u00b0."
+        },
+        {
+          "step": 4,
+          "text": "Dip chicken pieces, one at a time, into batter, gently shaking off excess batter. Carefully lower into the hot oil. Fry, two or three pieces at a time, for 2 to 3 minutes or till golden, turning once."
+        },
+        {
+          "step": 5,
+          "text": "Drain well. Keep warm."
+        }
+      ],
+      "temperature": "365\u00b0F (185\u00b0C) for frying",
+      "tags": [
+        "chicken",
+        "fried",
+        "beer batter",
+        "deep fried",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5473 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cornmeal-batter-fried-chicken-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cornmeal Batter-Fried Chicken",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Deep-fried chicken with crispy cornmeal coating.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2 1/2-3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "poultry seasoning",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "shortening or cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep-fat frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin chicken, if desired. Rinse chicken. In a large saucepan cover chicken with lightly salted water. Bring to boiling; reduce heat. Cover and simmer for 20 minutes. Drain. Pat dry with paper towels."
+        },
+        {
+          "step": 2,
+          "text": "For batter, in a mixing bowl combine flour, cornmeal, baking powder, garlic salt, poultry seasoning, and red pepper. Stir together egg, milk, and the 2 tablespoons oil. Add to flour mixture; beat till smooth."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, in a heavy 3-quart saucepan or deep-fat fryer heat 1 1/4 inches shortening or oil to 365\u00b0."
+        },
+        {
+          "step": 4,
+          "text": "Dip chicken pieces, one at a time, into batter, gently shaking off excess batter. Carefully lower into the hot oil. Fry, two or three pieces at a time, for 2 to 3 minutes or till golden, turning once. Carefully remove; drain well. Keep warm while frying remaining chicken."
+        }
+      ],
+      "temperature": "365\u00b0F (185\u00b0C) for frying",
+      "notes": [
+        "Variations: Herbed Batter-Fried Chicken - omit poultry seasoning, add 1 tsp dried thyme, savory, marjoram, Italian seasoning, or sage. Taco Batter-Fried Chicken - omit poultry seasoning, add 1 1/4 oz envelope taco seasoning mix, increase milk to 2/3 cup. Parmesan Batter-Fried Chicken - omit garlic salt and poultry seasoning, add 1/4 cup grated Parmesan cheese, 2 tbsp snipped parsley, 1/4 tsp garlic powder, increase milk to 2/3 cup."
+      ],
+      "tags": [
+        "chicken",
+        "fried",
+        "cornmeal",
+        "deep fried",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5474 Large.jpeg"
+      ]
+    },
+    {
+      "id": "turkey-rice-skillet-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Turkey-Rice Skillet",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section (EASY)",
+      "description": "Quick one-skillet meal with ground turkey, rice, and cheese.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "ground raw turkey",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "stewed tomatoes",
+          "quantity": "14 1/2",
+          "unit": "oz"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "shredded Monterey Jack cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In large skillet cook 1 pound ground raw turkey till brown. Drain well."
+        },
+        {
+          "step": 2,
+          "text": "Stir in one 14 1/2-ounce can stewed tomatoes, undrained, 1 cup water, 1/2 cup long grain rice, 2 teaspoons chili powder, and 1/2 teaspoon pepper."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover and simmer about 20 minutes or till rice is tender."
+        },
+        {
+          "step": 4,
+          "text": "Stir together 3/4 cup milk and 1 tablespoon all-purpose flour; add to skillet. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."
+        },
+        {
+          "step": 5,
+          "text": "Add 1/2 cup shredded Monterey Jack cheese; stir till melted."
+        }
+      ],
+      "cook_time": "25 minutes",
+      "tags": [
+        "turkey",
+        "rice",
+        "skillet",
+        "one-pot",
+        "easy",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5474 Large.jpeg"
+      ]
+    },
+    {
+      "id": "mediterranean-chicken-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mediterranean Chicken",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Chicken and rice dish with chorizo, olives, and peas reminiscent of paella.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "meaty chicken pieces",
+          "quantity": "1 1/2",
+          "unit": "lb",
+          "prep_note": "breasts, thighs, and drumsticks"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "bulk chorizo or bulk Italian sausage",
+          "quantity": "6",
+          "unit": "oz"
+        },
+        {
+          "item": "medium onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut into wedges"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "water",
+          "quantity": "2 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "long grain rice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried oregano, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "frozen peas",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "green or sweet red pepper",
+          "quantity": "1",
+          "unit": "medium",
+          "prep_note": "cut into 1-inch squares"
+        },
+        {
+          "item": "cherry tomatoes",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "halved"
+        },
+        {
+          "item": "sliced ripe olives",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse chicken; pat dry. In a 4 1/2-quart Dutch oven cook chicken in hot oil, uncovered, over medium heat about 15 minutes, turning to brown evenly. Remove chicken and set aside. Discard drippings."
+        },
+        {
+          "step": 2,
+          "text": "In the same pan cook sausage, onions, and garlic over medium heat for 8 to 10 minutes or till sausage is no longer pink. Drain; return to pan."
+        },
+        {
+          "step": 3,
+          "text": "Add water, rice, bouillon granules, oregano, and pepper. Bring to boiling, scraping up the browned bits. Place chicken pieces atop the sausage mixture. Reduce heat. Cover and simmer about 15 minutes or till chicken is nearly tender, turning chicken once."
+        },
+        {
+          "step": 4,
+          "text": "Add peas and green or red pepper to chicken mixture. Cook, covered, about 5 minutes more or till chicken is tender and no longer pink. Gently stir in tomatoes and olives."
+        }
+      ],
+      "cook_time": "45 minutes",
+      "tags": [
+        "chicken",
+        "chorizo",
+        "rice",
+        "mediterranean",
+        "one-pot",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5477 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chicken-country-captain-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Country Captain",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Classic Southern curry-spiced chicken with tomatoes and raisins.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2 1/2-3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "14 1/2",
+          "unit": "oz",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "currants or raisins",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "curry powder",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground mace or nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "hot cooked rice",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "toasted sliced almonds",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin chicken, if desired. Rinse and pat dry. In a large skillet cook onion, green pepper, and garlic in margarine or butter till tender but not brown. Remove from heat."
+        },
+        {
+          "step": 2,
+          "text": "Stir in undrained tomatoes, parsley, currants or raisins, curry powder, salt, mace, sugar, and pepper. Bring to boiling."
+        },
+        {
+          "step": 3,
+          "text": "Add chicken pieces to the skillet, turning to coat. Bring to boiling; reduce heat. Cover and simmer for 35 to 45 minutes or till tender and no longer pink, turning chicken once. Remove chicken from the skillet; keep warm."
+        },
+        {
+          "step": 4,
+          "text": "For sauce, skim fat from tomato mixture. Stir together cornstarch and 1 tablespoon cold water; add to tomato mixture. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."
+        },
+        {
+          "step": 5,
+          "text": "Season to taste with salt and pepper. Serve gravy over chicken and dumplings. If desired, sprinkle with almonds."
+        }
+      ],
+      "cook_time": "50 minutes",
+      "tags": [
+        "chicken",
+        "curry",
+        "southern",
+        "country captain",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5477 Large.jpeg"
+      ]
+    },
+    {
+      "id": "stewed-chicken-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stewed Chicken",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Basic stewed chicken that produces both cooked chicken and broth for other recipes.",
+      "servings_yield": "About 5 1/2 cups broth and 2 1/2 cups chopped meat",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2 1/2-3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "celery with leaves",
+          "quantity": "3",
+          "unit": "stalks",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "carrots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "parsley sprigs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried thyme, sage, or basil, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin chicken, if desired. Rinse. In a 4 1/2-quart Dutch oven combine chicken; celery; carrots; onion; parsley; salt; thyme, sage, or basil; pepper; and bay leaves. Add water. Bring to boiling; reduce heat. Cover and simmer for 40 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Remove chicken. Strain broth through a large sieve lined with 2 layers of cheesecloth. Discard solids. If using broth while hot, skim off fat. (Or, if storing broth for later use, chill broth in a bowl for 6 hours. Lift off fat. Pour broth into airtight containers, discarding residue in the bottom of the bowl. Seal containers. Chill up to 2 days or freeze up to 3 months.)"
+        },
+        {
+          "step": 3,
+          "text": "When chicken is cool enough to handle, remove meat from bones; discard skin and bones. Chop meat and use immediately. (Or, if storing meat for later use, place in airtight containers; seal. Chill up to 3 days or freeze up to 3 months.)"
+        }
+      ],
+      "cook_time": "40 minutes",
+      "tags": [
+        "chicken",
+        "stewed",
+        "broth",
+        "basic",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5478 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chicken-and-dumplings-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken and Dumplings",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Classic comfort food with tender chicken and fluffy dumplings in gravy.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2 1/2-3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "poultry seasoning or dried sage or thyme, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "sliced carrot",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced celery",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "Dumplings for Stew",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 378"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin chicken, if desired. Rinse. In a 4 1/2-quart Dutch oven combine chicken, onion, poultry seasoning, salt, and pepper. Add 3 cups water. Bring to boiling; reduce heat. Cover and simmer for 25 minutes. Add carrot and celery. Simmer, covered, for 10 minutes more."
+        },
+        {
+          "step": 2,
+          "text": "Prepare Dumplings for Stew, omitting the herb. Drop from a tablespoon into six mounds directly onto chicken (do not drop batter into liquid). Cover; simmer about 12 minutes or till a toothpick inserted into dumplings comes out clean."
+        },
+        {
+          "step": 3,
+          "text": "Using a slotted spoon, transfer chicken, dumplings, and vegetables to a platter; cover."
+        },
+        {
+          "step": 4,
+          "text": "For gravy, skim fat from broth; discard fat. Measure 2 cups broth into the Dutch oven. Slowly stir 1/2 cup cold water into flour. Stir into broth. Cook and stir till bubbly. Cook and stir 1 minute more. Season to taste with salt and pepper. Serve gravy over chicken and dumplings."
+        }
+      ],
+      "cook_time": "50 minutes",
+      "notes": [
+        "Chicken and Noodles variation: Prepare as above, except pour 4 cups of the hot broth into the Dutch oven. (Freeze remaining broth for another use.) Bring to boiling. Add 6 ounces (2 1/2 cups) dried Homemade Pasta or 6 ounces (3 cups) packaged noodles, or one 8-ounce package frozen noodles. Stir in 1 cup thinly sliced carrots; 1/2 cup sliced celery; 1/2 cup chopped onion; 1/2 teaspoon dried thyme, sage, or basil, crushed; and 1/4 teaspoon pepper. Return to boiling; reduce heat. Cover and simmer for 10 to 15 minutes or till noodles and vegetables are tender."
+      ],
+      "tags": [
+        "chicken",
+        "dumplings",
+        "comfort food",
+        "classic",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5478 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chicken-potpies-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Potpies",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Individual chicken pies with flaky pastry topping.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "Pastry for Double-Crust Pie",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe"
+        },
+        {
+          "item": "frozen peas and carrots",
+          "quantity": "10",
+          "unit": "oz"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped fresh mushrooms",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried sage, marjoram, or thyme, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare pastry; set aside. Cook peas and carrots according to package directions; drain. In a saucepan cook onion and mushrooms in margarine or butter till tender. Stir in flour, salt, sage, marjoram, or thyme; and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Add chicken broth and milk all at once. Cook and stir till thickened and bubbly. Stir in drained peas and carrots, chicken or turkey, parsley, and pimiento; heat till bubbly."
+        },
+        {
+          "step": 3,
+          "text": "Pour chicken mixture into six 10-ounce round casseroles."
+        },
+        {
+          "step": 4,
+          "text": "Roll pastry into a 15x10-inch rectangle. Cut into six 5-inch circles and place atop the 10-ounce casseroles. (Or, roll pastry into a 13x9-inch rectangle. Place over the 12x7 1/2x2-inch baking dish.) Flute edges of pastry and cut slits in the top for steam to escape."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a 450\u00b0F oven for 12 to 15 minutes or till pastry is golden brown."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "cook_time": "12-15 minutes",
+      "notes": [
+        "Herb-Crumb-Topped Chicken Potpies: Prepare as above, except omit pastry. Stir together 1 cup herb-seasoned stuffing croutons and 2 tablespoons melted margarine or butter. Sprinkle atop chicken mixture in casseroles or dish. Bake in a 400\u00b0F oven about 15 minutes or till biscuits are golden.",
+        "Biscuit-Topped Chicken Potpies: Prepare as above, except omit pastry. Cut 6 refrigerated biscuits into quarters and arrange atop bubbly chicken mixture in casseroles or dish. Bake in a 400\u00b0F oven about 15 minutes or till biscuits are golden."
+      ],
+      "tags": [
+        "chicken",
+        "pot pie",
+        "pastry",
+        "comfort food",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5479 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chicken-a-la-king-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken \u00e0 la King",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "BHG Cookbook - Poultry section",
+      "description": "Classic creamy chicken dish served over toast points or patty shells.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "toast points or baked patty shells",
+          "quantity": "8",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan melt margarine. If using fresh mushrooms, add mushrooms and cook, tender."
+        },
+        {
+          "step": 2,
+          "text": "Stir in flour, 1/2 teaspoon salt, and 1/4 teaspoon pepper. Add milk and chicken broth all at once."
+        },
+        {
+          "step": 3,
+          "text": "Cook and stir till thickened and bubbly. Cook and stir for 1 minute more."
+        },
+        {
+          "step": 4,
+          "text": "Add canned mushrooms, if using. Stir in chicken or turkey, pimiento, and, if desired, dry sherry. Heat through."
+        },
+        {
+          "step": 5,
+          "text": "Spoon atop toast points."
+        }
+      ],
+      "cook_time": "15 minutes",
+      "notes": [
+        "Cheesy Chicken \u00e0 la King: Prepare as above, except add 1 cup shredded American or process Swiss cheese to the thickened mixture before adding the chicken or turkey. Stir till cheese melts.",
+        "Curried Chicken \u00e0 la King: Prepare as above, except add 1 teaspoon curry powder to melted margarine or butter; cook for 1 minute. Omit dry sherry. If desired, add 1 tablespoon chutney with chicken or turkey.",
+        "Herbed Chicken \u00e0 la King: Prepare as above, except cook 2 tablespoons finely chopped green pepper or sliced green onion; 1 clove garlic, minced; and 1/2 teaspoon dried basil, crushed, in melted margarine or butter till tender."
+      ],
+      "tags": [
+        "chicken",
+        "creamy",
+        "classic",
+        "main dish",
+        "bhg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5479 Large.jpeg"
+      ]
+    },
+    {
+      "id": "dandelion-burgers-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion Burgers",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Vegetarian burgers made with dandelion petals.",
+      "servings_yield": "4-5 burgers",
+      "ingredients": [
+        {
+          "item": "dandelion petals",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "packed, no greens"
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onions",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "basil",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "oregano",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients until combined into goopy batter."
+        },
+        {
+          "step": 2,
+          "text": "Form into patties."
+        },
+        {
+          "step": 3,
+          "text": "Pan-fry in oil or butter, turning until both sides are crisp."
+        }
+      ],
+      "tags": [
+        "vegetarian",
+        "burgers",
+        "dandelion",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "rolled-kudzu-leaves-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rolled Kudzu Leaves",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Stuffed kudzu leaves similar to dolmas.",
+      "servings_yield": "30 rolls",
+      "ingredients": [
+        {
+          "item": "young kudzu leaves",
+          "quantity": "30",
+          "unit": "medium"
+        },
+        {
+          "item": "diced tomatoes",
+          "quantity": "14",
+          "unit": "oz",
+          "prep_note": "canned"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "halved"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "lemons"
+        },
+        {
+          "item": "rice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "rinsed"
+        },
+        {
+          "item": "ground lamb or beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "allspice",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather leaves from unsprayed areas and wash them."
+        },
+        {
+          "step": 2,
+          "text": "Boil leaves in salted water for 2-3 minutes, separating as needed."
+        },
+        {
+          "step": 3,
+          "text": "Remove to plate to cool. Remove heavy center stems."
+        },
+        {
+          "step": 4,
+          "text": "Combine rice, meat, 1 cup diced tomatoes, allspice, salt and pepper for stuffing."
+        },
+        {
+          "step": 5,
+          "text": "Fill each leaf with 1 teaspoon stuffing and roll cigar-shaped."
+        },
+        {
+          "step": 6,
+          "text": "Arrange rolls alternately in opposite directions in large pan."
+        },
+        {
+          "step": 7,
+          "text": "Pour in remaining diced tomatoes, salt, and garlic."
+        },
+        {
+          "step": 8,
+          "text": "Press down with inverted dish; add water to reach dish."
+        },
+        {
+          "step": 9,
+          "text": "Cover and cook on medium for 30 minutes."
+        },
+        {
+          "step": 10,
+          "text": "Add lemon juice and cook 10 minutes more."
+        }
+      ],
+      "cook_time": "40 minutes",
+      "tags": [
+        "stuffed",
+        "kudzu",
+        "dolmas",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "kudzu-quiche-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kudzu Quiche",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Savory quiche made with young kudzu leaves.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "heavy cream",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "young kudzu leaves and stems",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "mozzarella cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "unbaked pie shell",
+          "quantity": "1",
+          "unit": "9-inch"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Mix cream, eggs, kudzu, salt, pepper, and cheese."
+        },
+        {
+          "step": 3,
+          "text": "Place mixture in pie shell."
+        },
+        {
+          "step": 4,
+          "text": "Bake 35 to 45 minutes until center is set."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "35-45 minutes",
+      "tags": [
+        "quiche",
+        "kudzu",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "chickweed-bacon-pie-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chickweed and Bacon Pie",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Savory pie with chickweed, bacon, and sour cream.",
+      "servings_yield": "6-8 servings",
+      "ingredients": [
+        {
+          "item": "10-inch pie crust",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "chickweed",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "slab bacon",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "diced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "large eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 325\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Line 10-inch pie dish with crust, creating raised border to prevent overflow."
+        },
+        {
+          "step": 3,
+          "text": "Remove chickweed leaves and twigs, keeping only greenest parts; rinse and dry."
+        },
+        {
+          "step": 4,
+          "text": "Chop chickweed into confetti texture and measure."
+        },
+        {
+          "step": 5,
+          "text": "Fry bacon until browning begins, add onion, cook 3 minutes until wilted."
+        },
+        {
+          "step": 6,
+          "text": "Transfer bacon and onions to bowl with chickweed using slotted spoon."
+        },
+        {
+          "step": 7,
+          "text": "Beat eggs until lemon-colored, mix with sour cream, flour, and nutmeg."
+        },
+        {
+          "step": 8,
+          "text": "Combine egg mixture with chickweed, bacon, and onions."
+        },
+        {
+          "step": 9,
+          "text": "Spread filling evenly in pie shell, press down firmly with spoon."
+        },
+        {
+          "step": 10,
+          "text": "Bake 45-50 minutes until center sets and top turns golden."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "cook_time": "45-50 minutes",
+      "tags": [
+        "pie",
+        "savory",
+        "chickweed",
+        "bacon",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bulrush-casserole-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bulrush Casserole",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Comfort food casserole with bulrush sprouts and ground beef.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "small bulrush sprouts",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "tomato soup",
+          "quantity": "1",
+          "unit": "can"
+        },
+        {
+          "item": "tomato juice",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "potato chips",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix meat with finely chopped onion, season."
+        },
+        {
+          "step": 2,
+          "text": "Layer sprouts and meat in greased casserole."
+        },
+        {
+          "step": 3,
+          "text": "Pour tomato soup over mixture."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 425\u00b0F for one hour until tender, adding tomato juice as needed."
+        },
+        {
+          "step": 5,
+          "text": "Top with potato chips, bake 10 minutes more."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "tags": [
+        "bulrush",
+        "cattail",
+        "casserole",
+        "comfort food",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hunters-stew-bulrush-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hunter's Stew with Bulrush",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Hearty stew with beef, wild rice, bacon, and bulrush.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "chopped wild onion",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "medium bulrush roots",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "bacon slices",
+          "quantity": "10",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "boneless beef chunks",
+          "quantity": "3",
+          "unit": "lbs",
+          "prep_note": "2-inch cubes"
+        },
+        {
+          "item": "chopped chives",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "dry red wine",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "divided"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "wild rice",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "bulrush shoots",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "item": "beef stock",
+          "quantity": "1.5",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil bulrush roots in salted water for 30 minutes, drain, scrape and slice into 1/4-inch pieces."
+        },
+        {
+          "step": 2,
+          "text": "Cook bacon until crisp, remove to paper towels."
+        },
+        {
+          "step": 3,
+          "text": "Cook onions in fat until transparent."
+        },
+        {
+          "step": 4,
+          "text": "Add beef, chives, roots, and bacon. Cook 15 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Stir in water and wine, season, simmer covered one hour."
+        },
+        {
+          "step": 6,
+          "text": "Cook rice separately (30 minutes)."
+        },
+        {
+          "step": 7,
+          "text": "Add rice, shoots, and beef stock to skillet, bring to boil, simmer covered 30 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Add remaining stock if needed. Garnish with leeks and parsley."
+        }
+      ],
+      "tags": [
+        "bulrush",
+        "cattail",
+        "stew",
+        "beef",
+        "wild rice",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "alligator-nuggets-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Alligator Nuggets",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane (Bobby Flay method)",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Crispy fried alligator bites with dipping sauces.",
+      "ingredients": [
+        {
+          "item": "alligator meat",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "cut into 1/2-inch cubes"
+        },
+        {
+          "item": "fish batter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for coating"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "dipping sauces",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "remoulade, mustard, or cocktail sauce"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oil to 360\u00b0F in a deep pot."
+        },
+        {
+          "step": 2,
+          "text": "Coat meat with fish batter."
+        },
+        {
+          "step": 3,
+          "text": "Fry 2-3 minutes until it floats."
+        },
+        {
+          "step": 4,
+          "text": "Season with salt and pepper."
+        },
+        {
+          "step": 5,
+          "text": "Serve with dipping sauces."
+        }
+      ],
+      "temperature": "360\u00b0F (180\u00b0C) oil",
+      "notes": [
+        "Soak alligator meat in milk three hours before prepping to reduce swamp notes"
+      ],
+      "tags": [
+        "alligator",
+        "fried",
+        "cajun",
+        "florida",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "alligator-sauce-piquant-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Alligator Sauce Piquant",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane (Rouses Louisiana's Best)",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Classic Louisiana alligator stew in spicy tomato sauce.",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic clove",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "bell pepper",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "large can tomatoes",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "can"
+        },
+        {
+          "item": "water",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "alligator meat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "cut into 1-inch cubes"
+        },
+        {
+          "item": "chopped onion tops",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Create roux by cooking flour in oil until medium brown."
+        },
+        {
+          "step": 2,
+          "text": "Add onion until wilted."
+        },
+        {
+          "step": 3,
+          "text": "Mix in garlic, pepper, tomatoes, sauce, and water; simmer 30 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Add alligator, salt, pepper, and onion tops."
+        },
+        {
+          "step": 5,
+          "text": "Cook 30-45 minutes until tender."
+        }
+      ],
+      "notes": [
+        "Remove all yellow fat from alligator before cooking"
+      ],
+      "tags": [
+        "alligator",
+        "cajun",
+        "louisiana",
+        "stew",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "baked-armadillo-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Armadillo",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Whole armadillo baked with fruit stuffing.",
+      "ingredients": [
+        {
+          "item": "armadillo",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "removed from shell"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "apple chunks",
+          "quantity": "1.5",
+          "unit": "cups"
+        },
+        {
+          "item": "pineapple chunks",
+          "quantity": "1.5",
+          "unit": "cups"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "foil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for wrapping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash meat thoroughly."
+        },
+        {
+          "step": 2,
+          "text": "Salt and pepper the armadillo."
+        },
+        {
+          "step": 3,
+          "text": "Stuff cavity with fruit chunks."
+        },
+        {
+          "step": 4,
+          "text": "Coat with butter, wrap in foil, place in roasting pan."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 325\u00b0F until internal temperature reaches 180\u00b0F (approximately 30-45 minutes per pound)."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "notes": [
+        "Wear gloves when cleaning due to potential leprosy bacteria risk"
+      ],
+      "tags": [
+        "armadillo",
+        "baked",
+        "game",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "armadillo-fricassee-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Armadillo Fricassee",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Slow-simmered armadillo with vegetables.",
+      "ingredients": [
+        {
+          "item": "armadillo",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut into pieces"
+        },
+        {
+          "item": "medium potatoes",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "carrots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "coin-chopped"
+        },
+        {
+          "item": "celery stalk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "thyme",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dust meat in flour, salt, and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Brown both sides in butter."
+        },
+        {
+          "step": 3,
+          "text": "Add water to cover vegetables."
+        },
+        {
+          "step": 4,
+          "text": "Add potatoes, onions, carrots, celery, bay leaf, and thyme."
+        },
+        {
+          "step": 5,
+          "text": "Cover and simmer approximately 2 hours until tender."
+        },
+        {
+          "step": 6,
+          "text": "Thicken sauce with seasoned flour and water mixture."
+        }
+      ],
+      "tags": [
+        "armadillo",
+        "fricassee",
+        "stew",
+        "game",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "armadillo-chili-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Armadillo Chili",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Hearty chili made with armadillo meat.",
+      "ingredients": [
+        {
+          "item": "armadillo",
+          "quantity": "3.5-4",
+          "unit": "lbs",
+          "prep_note": "cubed 1/4-inch"
+        },
+        {
+          "item": "diced onion",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "crushed tomatoes",
+          "quantity": "28",
+          "unit": "oz"
+        },
+        {
+          "item": "water or beer",
+          "quantity": "1.75",
+          "unit": "cups"
+        },
+        {
+          "item": "dried red chili pod",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "oregano",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "green bell peppers",
+          "quantity": "2",
+          "unit": "medium",
+          "prep_note": "diced"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "canned tomatoes",
+          "quantity": "28",
+          "unit": "oz"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "12",
+          "unit": "oz"
+        },
+        {
+          "item": "ground cumin",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Remove stem and seeds from chili pod. Toast pod over medium-low heat until crisp. Cool, then crumble into powder."
+        },
+        {
+          "step": 2,
+          "text": "Heat oil, brown meat in batches, remove."
+        },
+        {
+          "step": 3,
+          "text": "Saut\u00e9 onions, peppers, garlic, and powdered chili until tender."
+        },
+        {
+          "step": 4,
+          "text": "Add remaining ingredients and browned meat."
+        },
+        {
+          "step": 5,
+          "text": "Bring to boil, reduce heat, cover, and simmer 1 hour, stirring frequently until tender."
+        },
+        {
+          "step": 6,
+          "text": "Serve with hot sauce, salsa, and cheese garnish."
+        }
+      ],
+      "tags": [
+        "armadillo",
+        "chili",
+        "game",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "armadillo-meatloaf-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Armadillo Meatloaf",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Classic meatloaf made with ground armadillo.",
+      "ingredients": [
+        {
+          "item": "ground armadillo meat",
+          "quantity": "1.5",
+          "unit": "lbs"
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "dry bread crumbs",
+          "quantity": "1/8",
+          "unit": "cup"
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "thyme",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak meat overnight in salted water. Remove from bones and grind."
+        },
+        {
+          "step": 2,
+          "text": "Mix thoroughly with all ingredients."
+        },
+        {
+          "step": 3,
+          "text": "Place in loaf dish in hot water bath."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 350\u00b0F for 1.25 to 2 hours."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "armadillo",
+        "meatloaf",
+        "game",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "groundnut-olive-stew-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Groundnut and Olive Stew",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Hearty stew with American groundnuts, olives, and tomatoes.",
+      "ingredients": [
+        {
+          "item": "boiled groundnuts",
+          "quantity": "8-16",
+          "unit": "oz"
+        },
+        {
+          "item": "olives",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": "California or Kalamata; reduce salt if using Kalamata"
+        },
+        {
+          "item": "chopped tomatoes",
+          "quantity": "16",
+          "unit": "oz",
+          "prep_note": "canned"
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "several whole, to taste"
+        },
+        {
+          "item": "broth or water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to cover"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "approximately"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "lamb shank or stew meat",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook large-cut groundnuts in abundant water until done (approximately 40 minutes). Drain thoroughly."
+        },
+        {
+          "step": 2,
+          "text": "Combine all ingredients in a pot."
+        },
+        {
+          "step": 3,
+          "text": "For a meatless version, simmer on medium heat until flavors meld, typically about an hour."
+        },
+        {
+          "step": 4,
+          "text": "If including meat, use low heat until the meat becomes tender, requiring two to three hours."
+        },
+        {
+          "step": 5,
+          "text": "Serve with hearty bread and red wine."
+        }
+      ],
+      "notes": [
+        "Avoid aluminum cookware - latex smears and sticks badly",
+        "Groundnuts must be cooked; raw versions can taste bitter"
+      ],
+      "tags": [
+        "groundnut",
+        "stew",
+        "native american",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cattail-casserole-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cattail Casserole",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Savory cattail casserole with cheese.",
+      "ingredients": [
+        {
+          "item": "scraped cattail spikes",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "bread crumbs",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "diced onion",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "shredded cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients in casserole dish."
+        },
+        {
+          "step": 2,
+          "text": "Bake at 350\u00b0F for 25 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "cattail",
+        "casserole",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "eel-stifle-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Eel Stifle",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional layered eel and potato casserole.",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "peeled potatoes",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "sliced thin"
+        },
+        {
+          "item": "onions",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "eel",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "cut into 3-inch pieces"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "salt pork",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "diced"
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Layer potatoes/onions, eel, and salt pork in buttered casserole."
+        },
+        {
+          "step": 2,
+          "text": "Top with remaining potatoes/onions and salt pork."
+        },
+        {
+          "step": 3,
+          "text": "Add milk."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 350\u00b0F for one hour until tender."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Eels must be thoroughly cleaned - remove all traces of slime"
+      ],
+      "tags": [
+        "eel",
+        "casserole",
+        "fish",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "grilled-eel-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grilled Eel with Sage",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Simple grilled eel with olive oil, paprika, and fresh sage.",
+      "ingredients": [
+        {
+          "item": "eel",
+          "quantity": "2",
+          "unit": "lbs"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "fresh sage leaves",
+          "quantity": "10",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix seasonings with oil; let sit 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Cut eel into 3-inch pieces; wipe dry."
+        },
+        {
+          "step": 3,
+          "text": "Coat in oil mixture."
+        },
+        {
+          "step": 4,
+          "text": "Broil 4 inches from heat or grill 10 minutes per side, basting with oil mixture."
+        },
+        {
+          "step": 5,
+          "text": "Cook until light golden brown."
+        }
+      ],
+      "tags": [
+        "eel",
+        "grilled",
+        "fish",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "jellied-eel-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Jellied Eel",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional British jellied eel served cold.",
+      "ingredients": [
+        {
+          "item": "cleaned eels",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "gutted and skinned"
+        },
+        {
+          "item": "water",
+          "quantity": "3/4",
+          "unit": "pint"
+        },
+        {
+          "item": "white wine vinegar",
+          "quantity": "5",
+          "unit": "tbsp"
+        },
+        {
+          "item": "black peppercorns",
+          "quantity": "10",
+          "unit": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for greasing"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop eels into 2-inch pieces."
+        },
+        {
+          "step": 2,
+          "text": "Grease casserole with butter."
+        },
+        {
+          "step": 3,
+          "text": "Combine all ingredients; season with salt."
+        },
+        {
+          "step": 4,
+          "text": "Cover and bake at 325\u00b0F for one hour."
+        },
+        {
+          "step": 5,
+          "text": "Cool, refrigerate overnight until liquid jellies."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "eel",
+        "jellied",
+        "british",
+        "cold",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "english-eel-pie-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "English Eel Pie",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional English savory pie with eel, mushrooms, and sherry.",
+      "ingredients": [
+        {
+          "item": "large eels",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "skinned, cleaned, cut"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chopped mushrooms",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped parsley",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "minced onion",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "lemon rind",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "Sherry",
+          "quantity": "1",
+          "unit": "wine glass"
+        },
+        {
+          "item": "beef stock",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "pastry",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "hard-boiled eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for glaze"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook eels with butter, mushrooms, parsley, onion, bay leaf, seasonings, lemon rind, Sherry, and stock until tender."
+        },
+        {
+          "step": 2,
+          "text": "Strain sauce; thicken with butter and flour."
+        },
+        {
+          "step": 3,
+          "text": "Line baking dish with pastry."
+        },
+        {
+          "step": 4,
+          "text": "Add eels and sauce; top with egg slices."
+        },
+        {
+          "step": 5,
+          "text": "Cover with pastry; brush with egg yolk."
+        },
+        {
+          "step": 6,
+          "text": "Bake one hour at moderate temperature."
+        },
+        {
+          "step": 7,
+          "text": "Serve hot or cold."
+        }
+      ],
+      "tags": [
+        "eel",
+        "pie",
+        "english",
+        "british",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "achilles-eel-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Achilles' Eel (Greek-Style)",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Greek-style braised eel with tomatoes, feta, and herbs.",
+      "ingredients": [
+        {
+          "item": "olive oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "eel",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "cut into 3-inch pieces"
+        },
+        {
+          "item": "chopped onions",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "sun-dried tomatoes",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "soaked in 2 tbsp boiling water, or 1 tbsp tomato paste"
+        },
+        {
+          "item": "chopped tomatoes",
+          "quantity": "3/4",
+          "unit": "lb"
+        },
+        {
+          "item": "honey",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "lemon zest",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "minced garlic",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "item": "chopped flat-leaf parsley",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped fresh mint",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "crumbled feta cheese",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oil in heavy skillet; brown eel pieces on all sides. Remove and set aside."
+        },
+        {
+          "step": 2,
+          "text": "Add onions; fry until translucent."
+        },
+        {
+          "step": 3,
+          "text": "Add sun-dried tomatoes (or paste), chopped tomatoes, honey, thyme, bay leaf, lemon zest, and garlic; simmer 10-12 minutes until sauce thickens."
+        },
+        {
+          "step": 4,
+          "text": "Return eel; stir in parsley, mint, salt, and pepper."
+        },
+        {
+          "step": 5,
+          "text": "Transfer to baking dish. Top with feta and sprinkle lemon juice."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 350\u00b0F for 30 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "eel",
+        "greek",
+        "mediterranean",
+        "feta",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "gar-lobster-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Gar Lobster",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Boiled gar fish that tastes remarkably like lobster.",
+      "ingredients": [
+        {
+          "item": "gar fish",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cut into chunks or nuggets"
+        },
+        {
+          "item": "crab boil spices",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "prepared according to package"
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "melted, for dipping"
+        },
+        {
+          "item": "mustard",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, for frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare water with crab boil spices per package directions."
+        },
+        {
+          "step": 2,
+          "text": "Add gar chunks to water (can wrap in cheesecloth)."
+        },
+        {
+          "step": 3,
+          "text": "Boil for 5 minutes or longer depending on quantity."
+        },
+        {
+          "step": 4,
+          "text": "Turn off heat and let sit for same duration as boiling."
+        },
+        {
+          "step": 5,
+          "text": "Drain meat thoroughly."
+        },
+        {
+          "step": 6,
+          "text": "Dip each piece in melted butter and serve."
+        }
+      ],
+      "notes": [
+        "Alternative: Dip nuggets in mustard and fry until golden",
+        "Never consume gar eggs or meat surrounding eggs"
+      ],
+      "tags": [
+        "gar",
+        "fish",
+        "seafood",
+        "cajun",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cuy-chactado-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cuy Chactado (Fried Guinea Pig)",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Traditional Peruvian recipe from eattheweeds.com",
+      "description": "Traditional Ayacucho-style fried guinea pig.",
+      "ingredients": [
+        {
+          "item": "guinea pig",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "de-haired, gutted, and cleaned"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "ground cumin",
+          "quantity": "1/4-1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt and black pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "oil",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pat the skin dry and rub with cumin, salt, and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Heat oil."
+        },
+        {
+          "step": 3,
+          "text": "Dust the carcass with flour and place on its back in hot oil."
+        },
+        {
+          "step": 4,
+          "text": "Turn to cook both sides until golden. Alternatively, cut into quarters before frying."
+        },
+        {
+          "step": 5,
+          "text": "Serve with boiled potatoes or manioc root, plus a salad of tomatoes and slivered onions in lime juice and salt."
+        }
+      ],
+      "notes": [
+        "Guinea pig has 21% protein and 8% fat - more protein and less cholesterol than beef, pork, or chicken"
+      ],
+      "tags": [
+        "guinea pig",
+        "cuy",
+        "peruvian",
+        "fried",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cuy-picante-huanuqueno-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cuy Picante Huanuque\u00f1o Style",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Traditional Peruvian recipe from eattheweeds.com",
+      "description": "Spicy Peruvian guinea pig with aji peppers and peanuts.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "large guinea pigs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "crushed garlic",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "item": "cumin powder",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "item": "aji panca",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "liquefied"
+        },
+        {
+          "item": "aji mirasol",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "liquefied"
+        },
+        {
+          "item": "cooking oil or margarine",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "scallions",
+          "quantity": "10",
+          "unit": ""
+        },
+        {
+          "item": "guinea pig hearts and livers",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "crushed peanuts",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "yellow potatoes",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "boiled and skinned"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Quarter the guinea pigs and fry until golden brown."
+        },
+        {
+          "step": 2,
+          "text": "In a heavy skillet, combine garlic, aji panca, and aji mirasol over high heat, stirring constantly."
+        },
+        {
+          "step": 3,
+          "text": "Chop scallion bulbs and add with cumin."
+        },
+        {
+          "step": 4,
+          "text": "Blend hearts, livers, and peanuts separately, then add to the pan."
+        },
+        {
+          "step": 5,
+          "text": "Include guinea pig pieces and cook 10-15 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Let stand 15 minutes before serving over sliced potatoes."
+        }
+      ],
+      "tags": [
+        "guinea pig",
+        "cuy",
+        "peruvian",
+        "spicy",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cuyes-en-salsa-de-mani-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cuyes en Salsa de Man\u00ed (Guinea Pig with Peanut Sauce)",
+      "category": "main-dishes",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Traditional Peruvian recipe from eattheweeds.com",
+      "description": "Deep-fried guinea pig served with creamy peanut sauce.",
+      "ingredients": [
+        {
+          "item": "whole guinea pig",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep frying"
+        },
+        {
+          "item": "creamy peanut sauce",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "white rice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "fried yuccas",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "boiled sweet potatoes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Season whole guinea pig with salt and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Deep fry in vegetable oil until golden and cooked through."
+        },
+        {
+          "step": 3,
+          "text": "Serve with creamy peanut sauce, white rice, fried yuccas, and boiled sweet potatoes."
+        }
+      ],
+      "tags": [
+        "guinea pig",
+        "cuy",
+        "peruvian",
+        "peanut sauce",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "fried-hornworms-tomatoes-basil-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Hornworms with Tomatoes and Basil",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds / David George Gordon",
+      "source_note": "From eattheweeds.com - Tomato Tobacco Hornworms, credited to Eat-a-Bug Cookbook",
+      "description": "Pan-fried tomato hornworms served atop fried green tomatoes with fresh basil.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "olive oil",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "tomato hornworms",
+          "quantity": "16",
+          "unit": "",
+          "prep_note": "purged"
+        },
+        {
+          "item": "basil leaves",
+          "quantity": "16",
+          "unit": ""
+        },
+        {
+          "item": "green tomatoes",
+          "quantity": "4",
+          "unit": "medium",
+          "prep_note": "sliced 1/4 inch thick"
+        },
+        {
+          "item": "white cornmeal",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for coating"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Lightly fry the hornworms in a pan for a few minutes, being careful not to rupture the exoskeleton with high heat. Set aside to drain."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle tomato slices with salt and pepper, then coat with cornmeal."
+        },
+        {
+          "step": 3,
+          "text": "Fry tomato slices on both sides until lightly brown."
+        },
+        {
+          "step": 4,
+          "text": "Top each tomato slice with one to two hornworms."
+        },
+        {
+          "step": 5,
+          "text": "Crown each hornworm with a basil leaf."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Hornworms should be purged (fed clean food) before cooking",
+        "Use low to medium heat to prevent rupturing"
+      ],
+      "tags": [
+        "insects",
+        "entomophagy",
+        "hornworms",
+        "fried green tomatoes",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "classic-kamaro-mole-cricket-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Classic Kamaro (Mole Cricket)",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Mole Crickets article",
+      "description": "Traditional Filipino preparation of mole crickets, known as kamaro.",
+      "servings_yield": "varies",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "mole crickets",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cleaned"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for boiling"
+        },
+        {
+          "item": "garlic",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for boiling"
+        },
+        {
+          "item": "oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for saut\u00e9ing"
+        },
+        {
+          "item": "onion",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "cold beer",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil the mole crickets in vinegar and garlic."
+        },
+        {
+          "step": 2,
+          "text": "Drain the crickets."
+        },
+        {
+          "step": 3,
+          "text": "Remove legs, wings, and claws."
+        },
+        {
+          "step": 4,
+          "text": "Saut\u00e9 the bodies in oil with chopped onion and tomatoes until they reach a chocolate brown color."
+        },
+        {
+          "step": 5,
+          "text": "Serve with cold beer on the side."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Result should be crispy on the outside, moist in the middle",
+        "A traditional Filipino delicacy from Pampanga province"
+      ],
+      "tags": [
+        "insects",
+        "entomophagy",
+        "mole cricket",
+        "kamaro",
+        "filipino",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "philippine-style-kamaro-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Philippine-Style Kamaro (Adobo Style)",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Mole Crickets article",
+      "description": "Mole crickets prepared adobo-style with soy sauce, vinegar, and optional coconut milk.",
+      "servings_yield": "varies",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "mole crickets",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "scratchy parts removed"
+        },
+        {
+          "item": "garlic",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "onions",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "hot pepper",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "coconut milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, to thicken"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Numb the crickets and remove legs, wings, and claws."
+        },
+        {
+          "step": 2,
+          "text": "Saut\u00e9 crickets in garlic and onions."
+        },
+        {
+          "step": 3,
+          "text": "Add soy sauce, vinegar, and hot pepper."
+        },
+        {
+          "step": 4,
+          "text": "Optional: Add coconut milk to thicken the sauce."
+        },
+        {
+          "step": 5,
+          "text": "Simmer until cooked through and sauce is reduced."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Adobo-style preparation",
+        "Coconut milk adds richness"
+      ],
+      "tags": [
+        "insects",
+        "entomophagy",
+        "mole cricket",
+        "kamaro",
+        "filipino",
+        "adobo",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "lemongrass-dog-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemon Grass Dog (Vietnamese Style)",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Dog and Cat article (historical/cultural recipe)",
+      "description": "A traditional Vietnamese preparation using lemongrass marinade. Dog meat is consumed in parts of Asia.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "30 minutes plus overnight marinating",
+      "cook_time": "varies",
+      "ingredients": [
+        {
+          "item": "dog meat",
+          "quantity": "2",
+          "unit": "lb"
+        },
+        {
+          "item": "lemongrass stalks",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "3-foot stalks, minced (or 8 oz frozen minced)"
+        },
+        {
+          "item": "Vietnamese fish sauce (nuoc mam)",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lime juice",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "lime zest",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "jasmine rice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, for serving"
+        },
+        {
+          "item": "rice vermicelli",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, for serving"
+        },
+        {
+          "item": "baguette",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mince four 3-foot stalks of fresh lemongrass (or use 8 oz frozen minced lemongrass)."
+        },
+        {
+          "step": 2,
+          "text": "Mix minced lemongrass with fish sauce, lime juice, and lime zest."
+        },
+        {
+          "step": 3,
+          "text": "Chop meat into 1-inch pieces."
+        },
+        {
+          "step": 4,
+          "text": "Add lemongrass marinade to meat and stir well."
+        },
+        {
+          "step": 5,
+          "text": "Refrigerate mixture overnight."
+        },
+        {
+          "step": 6,
+          "text": "Saut\u00e9, steam, or grill the meat. Alternatively, skewer chunks and roast in rotisserie oven."
+        },
+        {
+          "step": 7,
+          "text": "Serve with jasmine rice, rice vermicelli, or baguette."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Historical/cultural recipe from Vietnam",
+        "Dog meat consumption is traditional in parts of Asia"
+      ],
+      "tags": [
+        "unusual",
+        "historical",
+        "vietnamese",
+        "lemongrass",
+        "cultural"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "cultural context required"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cat-braise-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cat Brais\u00e9 (French Style)",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Dog and Cat article (historical recipe)",
+      "description": "A historical French-style braised preparation with artichokes and white wine. Cat was historically consumed during times of scarcity.",
+      "servings_yield": "4-6 servings",
+      "prep_time": "45 minutes",
+      "cook_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "cat",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut into serving pieces, dusted with flour, salt, and pepper"
+        },
+        {
+          "item": "extra virgin olive oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "artichokes",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "slab bacon",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": "1/4 inch thick, diced"
+        },
+        {
+          "item": "sweet onion",
+          "quantity": "1",
+          "unit": "small",
+          "prep_note": "diced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "carrot",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "lemon",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "3",
+          "unit": "small",
+          "prep_note": "peeled, seeded, diced"
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "homemade chicken broth",
+          "quantity": "2-4",
+          "unit": "cups"
+        },
+        {
+          "item": "parsley stems",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "flat, for bouquet garni"
+        },
+        {
+          "item": "thyme branches",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "leafy, for bouquet garni"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for bouquet garni"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "flat-leaf parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped, optional garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare artichokes by snapping off outer leaves; trim stems and remove chokes; cut bottoms into quarters and soak in lemon-water."
+        },
+        {
+          "step": 2,
+          "text": "Heat 2 tbsp olive oil in large casserole; brown seasoned meat pieces on all sides; remove to plate."
+        },
+        {
+          "step": 3,
+          "text": "Discard remaining oil; add 1 tbsp fresh oil and bacon; saut\u00e9 until cooked."
+        },
+        {
+          "step": 4,
+          "text": "Add remaining oil, onion, and carrot; saut\u00e9 5 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Add artichoke quarters and garlic; stir 1 minute; add tomatoes and white wine."
+        },
+        {
+          "step": 6,
+          "text": "Reduce heat until syrupy, stirring constantly, approximately 5 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Lay bouquet garni over vegetables; arrange meat pieces on top with accumulated juices."
+        },
+        {
+          "step": 8,
+          "text": "Pour broth halfway up meat pieces; cover and simmer 1 hour or bake at 350\u00b0F for 1 hour."
+        },
+        {
+          "step": 9,
+          "text": "Meat should be tender; turn pieces once during cooking."
+        },
+        {
+          "step": 10,
+          "text": "Remove meat pieces and vegetables to warm platter; strain pan juices, reduce by one-third, and pour over."
+        },
+        {
+          "step": 11,
+          "text": "Serve immediately; garnish with parsley if desired."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "large casserole or Dutch oven",
+      "notes": [
+        "Historical recipe - cat was consumed during wartime and famine in Europe",
+        "French braising technique"
+      ],
+      "tags": [
+        "unusual",
+        "historical",
+        "french",
+        "braised",
+        "cultural"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical context required"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "fried-acorn-grubs-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Acorn Grubs",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Acorn Grubs article",
+      "description": "Simple fried grubs - soft and buttery when cooked properly.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "acorn grubs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cleaned"
+        },
+        {
+          "item": "butter or oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat butter or oil over LOW heat. This is critical."
+        },
+        {
+          "step": 2,
+          "text": "Add grubs and fry gently for a few minutes."
+        },
+        {
+          "step": 3,
+          "text": "Do NOT use high heat - grubs will explode within a second in very hot fat."
+        },
+        {
+          "step": 4,
+          "text": "Cook until soft and buttery."
+        }
+      ],
+      "temperature": "low heat only",
+      "pan_size": "",
+      "notes": [
+        "Raw grubs taste mild and chewy like fat",
+        "Cooked grubs are soft and buttery",
+        "Peak harvest is September after August rains"
+      ],
+      "tags": [
+        "grubs",
+        "insects",
+        "foraged",
+        "survival",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "puffball-crepes-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Puffball Crepes",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Puffballs article",
+      "description": "Thin-sliced puffball mushrooms used like crepes.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "puffball mushroom",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "verified safe - pure white inside"
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "CRITICAL: Cut puffball from top to bottom and examine inside."
+        },
+        {
+          "step": 2,
+          "text": "Interior must be marshmallow soft, pure white (never dark), with thin outer skin and no outline of mushroom inside."
+        },
+        {
+          "step": 3,
+          "text": "Slice puffball very thin."
+        },
+        {
+          "step": 4,
+          "text": "Brown slices with butter in a pan."
+        },
+        {
+          "step": 5,
+          "text": "Use like crepes - fill and roll."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Puffballs absorb flavor well but have little taste on their own",
+        "DANGER: Young Amanita (deadly) can look like small puffballs - always cut open to verify",
+        "Young Scleroderma (fatal) has hard white flesh inside"
+      ],
+      "tags": [
+        "puffball",
+        "mushroom",
+        "foraged",
+        "crepes"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "identification critical"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "breaded-puffball-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Breaded Deep-Fried Puffball",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Puffballs article",
+      "description": "Puffball slices breaded and deep fried like potatoes.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "puffball mushroom",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "verified safe"
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for breading"
+        },
+        {
+          "item": "oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Verify puffball safety: cut open, check for pure white, soft interior with no mushroom outline."
+        },
+        {
+          "step": 2,
+          "text": "Slice like potatoes."
+        },
+        {
+          "step": 3,
+          "text": "Bread slices in flour."
+        },
+        {
+          "step": 4,
+          "text": "Deep fry until golden."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can also cube for miso soup or cut into strips for stir fry"
+      ],
+      "tags": [
+        "puffball",
+        "mushroom",
+        "foraged",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "identification critical"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "fried-palmetto-grubs-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Palmetto Weevil Grubs (Grugru)",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Palmetto Weevil Grub article",
+      "description": "Fried palm grubs - a tropical delicacy.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "palmetto weevil grubs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "from dying palm trees"
+        },
+        {
+          "item": "oil or butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Slice or crack grub partway open around the middle."
+        },
+        {
+          "step": 2,
+          "text": "This prevents explosion during cooking."
+        },
+        {
+          "step": 3,
+          "text": "Fry in oil or butter until cooked through."
+        },
+        {
+          "step": 4,
+          "text": "Alternatively, roast next to an open fire."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can also be eaten raw",
+        "Pupa stage is reportedly tastiest but rarest",
+        "Contains 3-7% protein and 10-30% fat",
+        "Find in dying palms with dead/bent growing tips"
+      ],
+      "tags": [
+        "grubs",
+        "insects",
+        "foraged",
+        "survival",
+        "unusual protein",
+        "tropical"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "agave-flowers-scrambled-eggs-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Agave Flowers with Scrambled Eggs (Oaxacan Style)",
+      "category": "main dishes",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Century Plant article",
+      "description": "Traditional Oaxacan preparation of agave flowers.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "agave flowers",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "several pounds available per plant"
+        },
+        {
+          "item": "eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "scrambled"
+        },
+        {
+          "item": "butter or oil",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Harvest flowers during summer bloom."
+        },
+        {
+          "step": 2,
+          "text": "Boil flowers until tender."
+        },
+        {
+          "step": 3,
+          "text": "Mix boiled flowers with scrambled eggs."
+        },
+        {
+          "step": 4,
+          "text": "Cook together until eggs are set."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Flowers can also be roasted",
+        "WARNING: Raw agave juice causes dermatitis - wear eye protection when cutting",
+        "Avoid Agave lechuguilla (toxic species in TX/NM)"
+      ],
+      "tags": [
+        "agave",
+        "eggs",
+        "mexican",
+        "foraged",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "handle with caution"
+        ]
+      },
+      "image_refs": []
     }
   ]
 }

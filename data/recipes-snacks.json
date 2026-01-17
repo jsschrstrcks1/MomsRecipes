@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "snacks",
-    "count": 65,
+    "count": 69,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -6887,6 +6887,235 @@
         "overall": "high",
         "flags": []
       }
+    },
+    {
+      "id": "roasted-ginkgo-nuts-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roasted Ginkgo Nuts",
+      "category": "snacks",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional roasted ginkgo nuts for snacking or adding to dishes.",
+      "ingredients": [
+        {
+          "item": "cleaned ginkgo seeds",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roast cleaned seeds at 350\u00b0F for one hour."
+        },
+        {
+          "step": 2,
+          "text": "Crush seeds between towels while tapping gently with a hammer."
+        },
+        {
+          "step": 3,
+          "text": "Shell and serve."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Ginkgo nuts can be used in soups, stuffings, desserts, meat dishes, poultry dishes and vegetarian dishes"
+      ],
+      "tags": [
+        "ginkgo",
+        "nuts",
+        "roasted",
+        "snacks",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "boiled-ginkgo-nuts-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Boiled Ginkgo Nuts",
+      "category": "snacks",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Simple boiled ginkgo nuts as a snack.",
+      "ingredients": [
+        {
+          "item": "raw ginkgo seeds",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "salted water",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Crack seeds raw using a nutcracker."
+        },
+        {
+          "step": 2,
+          "text": "Boil seeds in salty water until tender."
+        },
+        {
+          "step": 3,
+          "text": "Rub with a ladle to remove the brown membrane."
+        },
+        {
+          "step": 4,
+          "text": "Salt and serve."
+        }
+      ],
+      "tags": [
+        "ginkgo",
+        "nuts",
+        "boiled",
+        "snacks",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "toasted-sea-lettuce-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Toasted Sea Lettuce",
+      "category": "snacks",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Crispy toasted sea lettuce with sesame, similar to Korean nori.",
+      "ingredients": [
+        {
+          "item": "ulva (sea lettuce) sheets",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sesame oil",
+          "quantity": "1.5",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix salt and sesame oil, rubbing thinly onto the sea lettuce."
+        },
+        {
+          "step": 2,
+          "text": "Stack 6 sheets and roll; marinate 5 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Unroll and cook each sheet separately in a hot pan over low heat until crisp."
+        },
+        {
+          "step": 4,
+          "text": "Cut into pieces and serve with hot rice."
+        }
+      ],
+      "notes": [
+        "Refrigerate 2-3 days or freeze for six months",
+        "Can also toast over charcoal"
+      ],
+      "tags": [
+        "seaweed",
+        "ulva",
+        "sea lettuce",
+        "toasted",
+        "snacks",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "popped-wild-rice-maple-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Popped Wild Rice with Maple Sugar",
+      "category": "snacks",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Wild Rice article",
+      "description": "Traditional Ojibwa preparation of popped wild rice.",
+      "servings_yield": "varies",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "wild rice grains",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "parched/dried"
+        },
+        {
+          "item": "maple sugar or syrup solids",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat a dry pan."
+        },
+        {
+          "step": 2,
+          "text": "Add parched wild rice grains."
+        },
+        {
+          "step": 3,
+          "text": "Pop like popcorn, stirring constantly."
+        },
+        {
+          "step": 4,
+          "text": "Mix with maple sugar or leftover maple syrup solids."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Harvest mid-August to mid-September when plants still green",
+        "Sun dry at least 2 days before parching",
+        "Hull immediately after parching or grains reabsorb moisture",
+        "Keep away from sand"
+      ],
+      "tags": [
+        "wild rice",
+        "popped",
+        "maple",
+        "native american",
+        "foraged",
+        "snack"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

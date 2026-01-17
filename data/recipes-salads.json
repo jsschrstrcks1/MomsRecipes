@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "salads",
-    "count": 64,
+    "count": 75,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -7155,6 +7155,972 @@
         "overall": "high",
         "flags": []
       }
+    },
+    {
+      "id": "foxfire2-cress-salad",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cress Salad",
+      "category": "salads",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian salad from The Foxfire Book 2",
+      "description": "A fresh salad using wild water cress.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cresses",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "finely cut"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salad oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "French dressing",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toss together lightly: two cups finely cut cresses, one-fourth teaspoon salt, one tablespoon salad oil, one tablespoon vinegar, one tablespoon French dressing."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can also chop and add hard-boiled egg"
+      ],
+      "tags": [
+        "salad",
+        "cress",
+        "wild-plants",
+        "appalachian",
+        "foxfire",
+        "foraging",
+        "raw"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-mixed-green-salad",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mixed Wild Green Salad",
+      "category": "salads",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian salad from Foxfire 2",
+      "description": "A raw salad of wild spring greens with garlic dressing.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "dandelion",
+          "quantity": "",
+          "unit": "equal parts",
+          "prep_note": ""
+        },
+        {
+          "item": "shepherd's purse",
+          "quantity": "",
+          "unit": "equal parts",
+          "prep_note": ""
+        },
+        {
+          "item": "peppergrass",
+          "quantity": "",
+          "unit": "equal parts",
+          "prep_note": ""
+        },
+        {
+          "item": "curly dock",
+          "quantity": "",
+          "unit": "equal parts",
+          "prep_note": ""
+        },
+        {
+          "item": "poke shoots",
+          "quantity": "",
+          "unit": "equal parts",
+          "prep_note": "must be cooked first"
+        },
+        {
+          "item": "sorrel",
+          "quantity": "",
+          "unit": "equal parts",
+          "prep_note": ""
+        },
+        {
+          "item": "wild onion",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "",
+          "unit": "for dressing",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "",
+          "unit": "for dressing",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "",
+          "unit": "for dressing",
+          "prep_note": ""
+        },
+        {
+          "item": "mustard",
+          "quantity": "",
+          "unit": "for dressing",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Take equal parts of dandelion, shepherd's purse, peppergrass, curly dock, poke shoots (must be cooked first), and sorrel. Chop fine."
+        },
+        {
+          "step": 2,
+          "text": "Add wild onion to taste."
+        },
+        {
+          "step": 3,
+          "text": "Make a dressing of oil and vinegar, and flavor with garlic, mustard, salt, and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Serve on a bed of wild dock or lettuce leaves."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Poke shoots MUST be cooked before adding to raw salad"
+      ],
+      "tags": [
+        "salad",
+        "greens",
+        "wild-plants",
+        "raw",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-wilted-greens-bacon",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wilted Greens with Hot Bacon Dressing",
+      "category": "salads",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from Foxfire 2",
+      "description": "Wild greens wilted with hot bacon and vinegar dressing.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "3",
+          "unit": "slices",
+          "prep_note": "cut fine"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "cress",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "dandelions",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "wild lettuce",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Fry bacon until crisp."
+        },
+        {
+          "step": 2,
+          "text": "Add vinegar and salt to the hot bacon grease."
+        },
+        {
+          "step": 3,
+          "text": "Pour over the greens and toss."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "salad",
+        "wilted",
+        "bacon",
+        "greens",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-wild-lettuce-salad",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Lettuce Salad",
+      "category": "salads",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional wild food recipe from Foxfire Book 2",
+      "description": "Fresh salad made with wild lettuce and hot bacon dressing.",
+      "servings_yield": "2-4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "wild lettuce leaves",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "young, washed and chopped"
+        },
+        {
+          "item": "green onions",
+          "quantity": "2-3",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "bacon",
+          "quantity": "3",
+          "unit": "strips",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut up wild lettuce greens and wash."
+        },
+        {
+          "step": 2,
+          "text": "Cut green onions in it."
+        },
+        {
+          "step": 3,
+          "text": "Fry bacon until crisp and crumbly."
+        },
+        {
+          "step": 4,
+          "text": "Add brown sugar and vinegar to the hot bacon grease."
+        },
+        {
+          "step": 5,
+          "text": "Pour hot dressing over the chopped wild lettuce leaves."
+        },
+        {
+          "step": 6,
+          "text": "For extra flavor, add chickweed or mustard."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Frying pan for bacon",
+      "notes": [
+        "Gather wild lettuce in early spring when plants are young.",
+        "Older plants get tough and wormy.",
+        "Wild lettuce has a milky juice when stems are broken."
+      ],
+      "tags": [
+        "salad",
+        "wild lettuce",
+        "wild foods",
+        "bacon",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "appalachian-ramp-salad",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Appalachian Ramp Salad",
+      "category": "salads",
+      "attribution": "Foxfire Book 2",
+      "source_note": "Traditional Appalachian wild plant recipes",
+      "description": "Fresh wild ramp salad with multiple serving variations.",
+      "servings_yield": "2-4 servings",
+      "ingredients": [
+        {
+          "item": "young ramp leaves",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped into tiny bits"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "mayonnaise",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop up young ramp leaves into tiny bits."
+        },
+        {
+          "step": 2,
+          "text": "Eat raw, or cook and add vinegar when ready to eat."
+        },
+        {
+          "step": 3,
+          "text": "Alternatively, add a little to any salad."
+        },
+        {
+          "step": 4,
+          "text": "Or chop fine, parboil, drain and cool, and mix with mayonnaise and serve with trout."
+        }
+      ],
+      "notes": [
+        "You can also add one-half cup chopped fine to mashed potatoes just before serving."
+      ],
+      "tags": [
+        "salad",
+        "ramps",
+        "wild plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "swamp-cabbage-slaw-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Swamp Cabbage Slaw (Heart of Palm)",
+      "category": "salads",
+      "attribution": "Eat the Weeds - Green Deane (from Marian Van Atta's Wild Edibles)",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Simple slaw made from fresh heart of palm.",
+      "ingredients": [
+        {
+          "item": "heart of palm",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cut fine or shredded"
+        },
+        {
+          "item": "mayonnaise",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "pickle relish",
+          "quantity": "1-2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Optionally soak shredded palm hearts in ice water for an hour."
+        },
+        {
+          "step": 2,
+          "text": "Mix with mayonnaise and pickle relish."
+        },
+        {
+          "step": 3,
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "tags": [
+        "salad",
+        "slaw",
+        "heart of palm",
+        "florida",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "amaranth-tabouli-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Amaranth Tabouli",
+      "category": "salads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Middle Eastern-style grain salad made with amaranth instead of bulgur.",
+      "ingredients": [
+        {
+          "item": "pre-soaked amaranth seeds",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "parsley",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "scallions",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "fresh mint",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "pressed"
+        },
+        {
+          "item": "olives",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "lettuce leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "whole, for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Simmer amaranth in equal volume of water for 12-15 minutes and cool completely."
+        },
+        {
+          "step": 2,
+          "text": "Combine all ingredients except lettuce and olives in a bowl, tossing gently."
+        },
+        {
+          "step": 3,
+          "text": "Refrigerate at least one hour to blend flavors."
+        },
+        {
+          "step": 4,
+          "text": "Line a serving bowl with washed, dried lettuce leaves."
+        },
+        {
+          "step": 5,
+          "text": "Add the amaranth mixture and garnish with olives."
+        }
+      ],
+      "notes": [
+        "Soak amaranth overnight in water to reduce saponin content before cooking"
+      ],
+      "tags": [
+        "salad",
+        "tabouli",
+        "amaranth",
+        "grain",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bitter-melon-salad-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bitter Melon Salad (Philippine Style)",
+      "category": "salads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Fresh Philippine-style bitter melon salad with tomatoes.",
+      "ingredients": [
+        {
+          "item": "bitter melon gourds",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cut into wedges"
+        },
+        {
+          "item": "onion",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "thinly sliced"
+        },
+        {
+          "item": "vinaigrette",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Halve gourds lengthwise and scoop out seeds with a spoon."
+        },
+        {
+          "step": 2,
+          "text": "Cut into half-moon pieces and toss with salt; let sit to remove bitterness."
+        },
+        {
+          "step": 3,
+          "text": "Slice tomatoes into wedges and onion thinly."
+        },
+        {
+          "step": 4,
+          "text": "Rinse salt from melon and combine with tomatoes and onions."
+        },
+        {
+          "step": 5,
+          "text": "Dress with vinaigrette and chill before serving."
+        }
+      ],
+      "tags": [
+        "bitter melon",
+        "salad",
+        "philippine",
+        "vegetable",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "nasturtium-bouquet-salad-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nasturtium Bouquet Salad",
+      "category": "salads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Elegant salad with radicchio, spinach, and nasturtium blossoms.",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "white wine or champagne vinegar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Dijon mustard",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "light olive oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "freshly squeezed lime juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lime zest",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "finely grated"
+        },
+        {
+          "item": "radicchio",
+          "quantity": "3",
+          "unit": "heads",
+          "prep_note": "washed and dried"
+        },
+        {
+          "item": "chives",
+          "quantity": "1",
+          "unit": "small bunch"
+        },
+        {
+          "item": "tender spinach",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "trimmed, washed, and dried"
+        },
+        {
+          "item": "nasturtium blossoms",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Whisk vinegar and mustard together in a bowl."
+        },
+        {
+          "step": 2,
+          "text": "Gradually add oils while whisking. Add lime juice and zest."
+        },
+        {
+          "step": 3,
+          "text": "Season with salt and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Just before serving, toss greens, chives, and flowers with sufficient dressing to coat."
+        }
+      ],
+      "tags": [
+        "nasturtium",
+        "salad",
+        "flower",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "codium-salad-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Codium Salad",
+      "category": "salads",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Codiums article",
+      "description": "A refreshing raw seaweed salad with Asian-inspired dressing.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "",
+      "ingredients": [
+        {
+          "item": "codium seaweed",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "well cleaned"
+        },
+        {
+          "item": "sweet onion",
+          "quantity": "1",
+          "unit": "small"
+        },
+        {
+          "item": "tomato",
+          "quantity": "1",
+          "unit": "medium"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "wine vinegar",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sherry",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all dressing ingredients (soy sauce, wine vinegar, sugar, sherry, and black pepper) together."
+        },
+        {
+          "step": 2,
+          "text": "Pour the dressing over chopped onions."
+        },
+        {
+          "step": 3,
+          "text": "Just before serving, chop the tomatoes and codium into bite-sized pieces."
+        },
+        {
+          "step": 4,
+          "text": "Toss the chopped tomatoes and seaweed with the dressed onions."
+        },
+        {
+          "step": 5,
+          "text": "Garnish with tomato slices."
+        },
+        {
+          "step": 6,
+          "text": "Chill before serving."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Never cook codium - it becomes soft and disintegrates from heat",
+        "Always eat raw after thorough washing"
+      ],
+      "tags": [
+        "seaweed",
+        "codium",
+        "salad",
+        "raw",
+        "asian",
+        "foraged"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sea-blite-sour-cream-salad-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sea Blite and Sour Cream Salad",
+      "category": "salads",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Sea Blite article",
+      "description": "A creamy salad featuring foraged sea blite with hard-boiled eggs.",
+      "servings_yield": "4-6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "2 hours 30 minutes (including refrigeration)",
+      "ingredients": [
+        {
+          "item": "sea blite leaves, stems, or flowers",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "cooked, drained, chopped"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "onion",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "grated"
+        },
+        {
+          "item": "vinegar or lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "hard-cooked eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook sea blite in boiling water until tender, then drain and chop."
+        },
+        {
+          "step": 2,
+          "text": "Combine all ingredients in a bowl and mix well."
+        },
+        {
+          "step": 3,
+          "text": "Refrigerate for two hours before serving."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Sea blite is naturally salty, so taste before adding salt",
+        "Also known as Suaeda"
+      ],
+      "tags": [
+        "sea blite",
+        "salad",
+        "sour cream",
+        "foraged",
+        "coastal"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

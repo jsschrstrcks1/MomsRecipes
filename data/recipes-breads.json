@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "breads",
-    "count": 301,
+    "count": 330,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -36154,6 +36154,2676 @@
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5726.jpeg"
       ]
+    },
+    {
+      "id": "foxfire-corn-pones",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Pones",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Simple cornmeal pones baked in a hot oven.",
+      "servings_yield": "",
+      "prep_time": "10 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "corn meal",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lard",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "enough for stiff batter",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix together meal, powder, and salt, cut in lard."
+        },
+        {
+          "step": 2,
+          "text": "Add enough milk to make a stiff batter."
+        },
+        {
+          "step": 3,
+          "text": "Form into pones with hands (or add some milk and drop from the end of a spoon)."
+        },
+        {
+          "step": 4,
+          "text": "Place in a greased pan and bake in a hot oven for about half an hour."
+        }
+      ],
+      "temperature": "400-425\u00b0F (205-220\u00b0C)",
+      "pan_size": "Greased baking pan",
+      "notes": [],
+      "tags": [
+        "cornbread",
+        "appalachian",
+        "foxfire",
+        "bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-corn-cakes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Corn Cakes",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Griddle cakes made with cornmeal - good with butter and syrup.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "corn meal",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "kitchen spoon",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter or lard",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "enough for thin batter",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat eggs."
+        },
+        {
+          "step": 2,
+          "text": "Add meal, flour, salt, baking powder, and butter."
+        },
+        {
+          "step": 3,
+          "text": "Add enough milk to make a thin batter."
+        },
+        {
+          "step": 4,
+          "text": "Pour out onto a hot griddle."
+        },
+        {
+          "step": 5,
+          "text": "Flip to other side when brown."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Hot griddle",
+      "notes": [
+        "Good with butter and syrup"
+      ],
+      "tags": [
+        "cornmeal",
+        "appalachian",
+        "foxfire",
+        "griddle-cakes",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-hush-puppies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hush Puppies",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Deep fried cornmeal balls with onion.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "corn meal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "1",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "",
+          "unit": "enough for right consistency",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "medium",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "fat",
+          "quantity": "",
+          "unit": "for deep frying",
+          "prep_note": "hot"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix flour, corn meal, and a pinch of salt and soda."
+        },
+        {
+          "step": 2,
+          "text": "Add egg and buttermilk until it is the right consistency to hold its shape when rolled into a ball."
+        },
+        {
+          "step": 3,
+          "text": "Mix in chopped onion."
+        },
+        {
+          "step": 4,
+          "text": "Roll into balls about 1-2 inches across."
+        },
+        {
+          "step": 5,
+          "text": "Drop into a couple inches of hot fat."
+        },
+        {
+          "step": 6,
+          "text": "Let them deep fry until they're brown and crispy."
+        },
+        {
+          "step": 7,
+          "text": "Drain a bit on some paper and serve hot."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Deep fryer or deep pan",
+      "notes": [],
+      "tags": [
+        "hush-puppies",
+        "cornmeal",
+        "appalachian",
+        "foxfire",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-light-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Light Bread",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian yeast bread from The Foxfire Book",
+      "description": "Traditional mountain yeast bread made with potatoes.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "yeast",
+          "quantity": "1",
+          "unit": "cake",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "potatoes",
+          "quantity": "2",
+          "unit": "medium",
+          "prep_note": "cooked and mashed very fine"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "enough for firm dough",
+          "prep_note": "sifted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dissolve the yeast in 1 cup of the water."
+        },
+        {
+          "step": 2,
+          "text": "Cook the potatoes, mash very fine, and add yeast along with 1 tsp salt, 1 tsp sugar, and the rest of the water."
+        },
+        {
+          "step": 3,
+          "text": "Put in a jar and leave in a warm place to rise."
+        },
+        {
+          "step": 4,
+          "text": "Sift flour, and mix it in with the yeast mixture along with 1 more tsp salt and 2 more tsp sugar."
+        },
+        {
+          "step": 5,
+          "text": "Keep adding flour until it makes a firm dough."
+        },
+        {
+          "step": 6,
+          "text": "Let rise to double, knead, and make into loaves."
+        },
+        {
+          "step": 7,
+          "text": "Let rise for one hour, and then bake at about 350\u00b0F until it tests done."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Loaf pans",
+      "notes": [],
+      "tags": [
+        "yeast-bread",
+        "appalachian",
+        "foxfire",
+        "bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-cracklin-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cracklin' Bread",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Cornbread made with cracklin's (crispy bits left from rendering lard).",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "corn meal",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cracklin's",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lukewarm water",
+          "quantity": "",
+          "unit": "if needed",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix corn meal, salt, buttermilk, soda, and baking powder."
+        },
+        {
+          "step": 2,
+          "text": "Mix in 1/2 cup of cracklin's."
+        },
+        {
+          "step": 3,
+          "text": "If it is too dry use some lukewarm water to make the right consistency for corn bread."
+        },
+        {
+          "step": 4,
+          "text": "Put in oven and cook until brown."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "",
+      "notes": [
+        "Cracklin's are the crispy bits left after rendering lard from hog fat"
+      ],
+      "tags": [
+        "cornbread",
+        "cracklins",
+        "appalachian",
+        "foxfire",
+        "bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-ash-cakes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ash Cakes",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Corn bread baked in hot ashes - the original mountain bread.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "About 30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "corn bread dough",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "thick enough to hold shape"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix up dough for corn bread, and make sure it's thick enough to hold its shape."
+        },
+        {
+          "step": 2,
+          "text": "Clean out a corner of the fireplace."
+        },
+        {
+          "step": 3,
+          "text": "Put the 'cake' in it and cover it with a clean cloth."
+        },
+        {
+          "step": 4,
+          "text": "Put hot ashes over the cloth, then put hot coals on top of that."
+        },
+        {
+          "step": 5,
+          "text": "It takes about half an hour."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Fireplace corner",
+      "notes": [
+        "The original way to bake bread in the mountains"
+      ],
+      "tags": [
+        "ash-cakes",
+        "cornbread",
+        "appalachian",
+        "foxfire",
+        "fireplace",
+        "bread"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-bran-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bran Bread",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Hearty bread made with bran flour, raisins, and molasses.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "bran flour",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "white flour",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "seeded raisins",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix together bran flour, white flour, and buttermilk."
+        },
+        {
+          "step": 2,
+          "text": "Add seeded raisins and molasses."
+        },
+        {
+          "step": 3,
+          "text": "Last mix in baking soda and salt."
+        },
+        {
+          "step": 4,
+          "text": "Put into loaf pans and bake until done."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Loaf pans",
+      "notes": [],
+      "tags": [
+        "bran",
+        "bread",
+        "raisins",
+        "molasses",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-rye-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rye Bread (Biscuit Style)",
+      "category": "breads",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Quick rye bread cut like biscuits.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "10-12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "wheat flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "rye flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "corn meal",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "",
+          "unit": "enough for firm dough",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "per cup of buttermilk"
+        },
+        {
+          "item": "shortening",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sift together wheat flour, rye flour, corn meal, salt, and baking powder."
+        },
+        {
+          "step": 2,
+          "text": "Add enough buttermilk to make a firm dough, adding 1/2 tsp of soda per cup of buttermilk."
+        },
+        {
+          "step": 3,
+          "text": "Cut in shortening, mix thoroughly."
+        },
+        {
+          "step": 4,
+          "text": "Roll out to about 1/2 inch thick."
+        },
+        {
+          "step": 5,
+          "text": "Cut as you would biscuits, place on greased sheet."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 450\u00b0F for ten to twelve minutes."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "Greased baking sheet",
+      "notes": [],
+      "tags": [
+        "rye",
+        "bread",
+        "biscuit",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire3-persimmon-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Persimmon Bread",
+      "category": "breads",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Cornmeal bread with ripe persimmons.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cornmeal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "persimmons",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "crushed, seeds removed"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "spoonful",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix everything together."
+        },
+        {
+          "step": 2,
+          "text": "Add water if mixture is not thin enough."
+        },
+        {
+          "step": 3,
+          "text": "Bake like cornbread."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "",
+      "notes": [
+        "To be good, a raw persimmon must be soft and squishy to the touch"
+      ],
+      "tags": [
+        "bread",
+        "persimmon",
+        "cornmeal",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-persimmon-nut-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Persimmon-Nut Bread",
+      "category": "breads",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A sweet quick bread with persimmons and hickory nuts or black walnuts.",
+      "servings_yield": "1 loaf",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "shortening",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1 3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "mashed persimmons",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "hickory-nut or black-walnut meats",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream shortening, add sugar and eggs; beat well."
+        },
+        {
+          "step": 2,
+          "text": "Sift dry ingredients, add to creamed mixture alternately with persimmons and nuts."
+        },
+        {
+          "step": 3,
+          "text": "Pour in greased loaf pan and bake at 350\u00b0 for one hour."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Loaf pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "persimmon",
+        "nuts",
+        "quick-bread",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-pawpaw-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pawpaw Bread",
+      "category": "breads",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Nut bread with pawpaw pulp that gives it a lovely rose-red color.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "pawpaw pulp",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "nut bread ingredients",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "your favorite recipe"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Add pawpaw pulp to your favorite nut bread recipe."
+        },
+        {
+          "step": 2,
+          "text": "Bake as directed. It gives bread a lovely rose-red color."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "bread",
+        "pawpaw",
+        "quick-bread",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-ada-kelly-cornbread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ada Kelly's Fermented Cornbread",
+      "category": "breads",
+      "attribution": "Foxfire 2 - Ada Kelly",
+      "source_note": "Traditional Appalachian fermented cornbread from Foxfire 2",
+      "description": "An old-fashioned cornbread made with fermented cornmeal mush.",
+      "servings_yield": "",
+      "prep_time": "Overnight fermentation",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "corn meal mush",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "cooked thoroughly"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "",
+          "unit": "enough to cool",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lard",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "corn meal",
+          "quantity": "",
+          "unit": "additional for batter",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook one quart of corn meal mush until thoroughly done. Salt to taste."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat and add cold water until you can bear your finger in it."
+        },
+        {
+          "step": 3,
+          "text": "Add 3/4 cup sugar, 3/4 cup lard, and meal enough to make stiff as cornbread."
+        },
+        {
+          "step": 4,
+          "text": "Set aside until it ferments (overnight)."
+        },
+        {
+          "step": 5,
+          "text": "Add meal to make medium batter."
+        },
+        {
+          "step": 6,
+          "text": "Bake in well-greased pan in slow oven. Remove from pan when cold."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "pan_size": "Well-greased baking pan",
+      "notes": [],
+      "tags": [
+        "cornbread",
+        "fermented",
+        "bread",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "dandelion-blossom-bread-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion Blossom Bread",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Quick bread made with dandelion blossoms.",
+      "servings_yield": "1 loaf or 12 muffins",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "dandelion blossoms",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "all green removed"
+        },
+        {
+          "item": "oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "honey",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine dry ingredients including separated dandelion petals."
+        },
+        {
+          "step": 2,
+          "text": "In separate bowl, mix milk, honey, oil, and beaten egg."
+        },
+        {
+          "step": 3,
+          "text": "Add liquid to dry ingredients."
+        },
+        {
+          "step": 4,
+          "text": "Pour into buttered bread or muffin tin."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 400\u00b0F for 20-25 minutes for muffins or longer for bread loaf."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "cook_time": "20-25 minutes",
+      "tags": [
+        "bread",
+        "muffins",
+        "dandelion",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cattail-pollen-biscuits-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cattail Pollen Biscuits",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Biscuits made with cattail pollen flour.",
+      "servings_yield": "12 biscuits",
+      "ingredients": [
+        {
+          "item": "cattail pollen",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "1 3/4",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "shortening",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix pollen, flour, baking powder, and salt."
+        },
+        {
+          "step": 2,
+          "text": "Cut in shortening."
+        },
+        {
+          "step": 3,
+          "text": "Add milk and mix."
+        },
+        {
+          "step": 4,
+          "text": "Form biscuits."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 425\u00b0F for 20 minutes."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "cook_time": "20 minutes",
+      "tags": [
+        "biscuits",
+        "bread",
+        "cattails",
+        "pollen",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "chickweed-bread-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chickweed Bread",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Yeast bread made with saut\u00e9ed chickweed.",
+      "servings_yield": "1 loaf",
+      "ingredients": [
+        {
+          "item": "chickweed leaves and stems",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "minced"
+        },
+        {
+          "item": "oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "wheat flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "warm water",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "yeast",
+          "quantity": "1",
+          "unit": "packet"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saut\u00e9 onion and chickweed until tender (avoid browning)."
+        },
+        {
+          "step": 2,
+          "text": "Dissolve honey and yeast in warm water, then add salt."
+        },
+        {
+          "step": 3,
+          "text": "Mix yeast mixture with cooled saut\u00e9ed chickweed and onions."
+        },
+        {
+          "step": 4,
+          "text": "Gradually incorporate flour until dough no longer adheres to fingers."
+        },
+        {
+          "step": 5,
+          "text": "Form into a ball and allow to rise to double volume."
+        },
+        {
+          "step": 6,
+          "text": "Shape into loaves and let rise again."
+        },
+        {
+          "step": 7,
+          "text": "Bake at 375\u00b0F for 40-45 minutes."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "cook_time": "40-45 minutes",
+      "tags": [
+        "bread",
+        "yeast",
+        "chickweed",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "juneberry-muffins-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Juneberry Muffins",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Muffins studded with fresh juneberries.",
+      "servings_yield": "12 muffins",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "juneberries",
+          "quantity": "1.5",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine dry ingredients with egg, shortening, salt, and milk. Blend well."
+        },
+        {
+          "step": 2,
+          "text": "Stir in berries."
+        },
+        {
+          "step": 3,
+          "text": "Fill muffin cups two-thirds full."
+        },
+        {
+          "step": 4,
+          "text": "Bake 20 minutes at 350\u00b0F."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "muffins",
+        "juneberry",
+        "serviceberry",
+        "breakfast",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "redbud-blossom-muffins-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Redbud Blossom Muffins",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Delicate muffins made with foraged redbud blossoms.",
+      "servings_yield": "12 muffins",
+      "ingredients": [
+        {
+          "item": "redbud blossoms",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "fresh sage or rosemary",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon zest",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "flour",
+          "quantity": "1.5",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "large"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "yogurt",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "melted butter or oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "In bowl #1, combine redbuds, herb, sugar, and zest. Let sit 30 minutes."
+        },
+        {
+          "step": 3,
+          "text": "In bowl #2, sift flour, baking powder, baking soda, and salt."
+        },
+        {
+          "step": 4,
+          "text": "In bowl #3, combine egg, yogurt, milk, oil, and lemon juice."
+        },
+        {
+          "step": 5,
+          "text": "Pour bowl #1 contents into bowl #2 and toss."
+        },
+        {
+          "step": 6,
+          "text": "Add wet ingredients from bowl #3, stirring until just moistened (avoid overmixing)."
+        },
+        {
+          "step": 7,
+          "text": "Fill muffin tins 3/4 full."
+        },
+        {
+          "step": 8,
+          "text": "Combine 1 tbsp sugar and 1/2 tsp cinnamon; sprinkle on each muffin."
+        },
+        {
+          "step": 9,
+          "text": "Bake 25 minutes until tops spring back when lightly touched."
+        },
+        {
+          "step": 10,
+          "text": "Cool on wire rack."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "notes": [
+        "The light colored upper part of the blossom is sweet, the darker lower part is bitter"
+      ],
+      "tags": [
+        "muffins",
+        "redbud",
+        "flower",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "japanese-knotweed-bread-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Japanese Knotweed Bread",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Quick bread made with sweetened knotweed pur\u00e9e and hazelnuts.",
+      "servings_yield": "1 loaf or 12 muffins",
+      "ingredients": [
+        {
+          "item": "unbleached flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "salad oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped hazelnuts",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sweetened Japanese knotweed pur\u00e9e",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Sift dry ingredients together."
+        },
+        {
+          "step": 3,
+          "text": "Beat egg white with oil and orange juice, then combine with hazelnuts and pur\u00e9e."
+        },
+        {
+          "step": 4,
+          "text": "Add to dry ingredients, mixing gently until just moistened."
+        },
+        {
+          "step": 5,
+          "text": "Transfer to buttered 9\u00bd-by-5-by-3-inch loaf pan."
+        },
+        {
+          "step": 6,
+          "text": "Bake approximately 1 hour until a tester inserted in the center comes out dry."
+        },
+        {
+          "step": 7,
+          "text": "Cool on a rack."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "For muffins, use muffin tins and bake about 25 minutes"
+      ],
+      "tags": [
+        "knotweed",
+        "bread",
+        "quick bread",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "acorn-bread-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Acorn Bread",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Nutritious bread made with acorn flour and maple syrup.",
+      "ingredients": [
+        {
+          "item": "acorn flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "cattail or white flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3",
+          "unit": "tsp"
+        },
+        {
+          "item": "maple syrup or sugar",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "3",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        },
+        {
+          "step": 2,
+          "text": "Pour into a greased pan."
+        },
+        {
+          "step": 3,
+          "text": "Bake at 400\u00b0F for 30 minutes or until done."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "notes": [
+        "Acorn flour contains no gluten; mix 50/50 with wheat flour for better binding"
+      ],
+      "tags": [
+        "acorn",
+        "bread",
+        "native american",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "acorn-muffins-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Acorn Muffins",
+      "category": "breads",
+      "attribution": "Eat the Weeds - Green Deane (from BSteele, California)",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Hearty muffins with acorn pulp, cornmeal, and walnuts.",
+      "servings_yield": "12 muffins",
+      "ingredients": [
+        {
+          "item": "stone-ground cornmeal",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "drained leached acorn pulp",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "wheat flour",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "amaranth flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "melted butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "diced walnuts",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        },
+        {
+          "step": 2,
+          "text": "Pour into well-greased muffin pans."
+        },
+        {
+          "step": 3,
+          "text": "Bake at 400\u00b0F for 15 minutes."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "notes": [
+        "Store acorn flour carefully to prevent rancidity due to high oil content"
+      ],
+      "tags": [
+        "acorn",
+        "muffins",
+        "native american",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bulrush-pancakes-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bulrush Pancakes",
+      "category": "breads",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Bulrush Bonanza",
+      "description": "Primitive pancakes made from bulrush root gruel.",
+      "servings_yield": "varies",
+      "prep_time": "30 minutes",
+      "cook_time": "varies",
+      "ingredients": [
+        {
+          "item": "bulrush roots",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "peeled and cut"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "porcupine fat or oil",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "porcupine or bacon",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "berries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel and cut roots."
+        },
+        {
+          "step": 2,
+          "text": "Boil into gruel and let cool."
+        },
+        {
+          "step": 3,
+          "text": "Mix with fat and meat."
+        },
+        {
+          "step": 4,
+          "text": "Form into patties."
+        },
+        {
+          "step": 5,
+          "text": "Fry on heated stones."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Add berries for sweetness if desired"
+      ],
+      "tags": [
+        "bulrush",
+        "pancakes",
+        "foraged",
+        "primitive cooking",
+        "survival"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bulrush-bread-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bulrush Bread",
+      "category": "breads",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Bulrush Bonanza",
+      "description": "Primitive bread made from bulrush root flour.",
+      "servings_yield": "varies",
+      "prep_time": "1 hour",
+      "cook_time": "varies",
+      "ingredients": [
+        {
+          "item": "bulrush roots",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "skinned and cut"
+        },
+        {
+          "item": "fat",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "flat rock",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin and cut roots."
+        },
+        {
+          "step": 2,
+          "text": "Boil into gruel."
+        },
+        {
+          "step": 3,
+          "text": "Remove fibers."
+        },
+        {
+          "step": 4,
+          "text": "Evaporate water to create sweet flour."
+        },
+        {
+          "step": 5,
+          "text": "Mix with fat."
+        },
+        {
+          "step": 6,
+          "text": "Roll onto flat rock and bake in reflector oven, or twist around stick and roast."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "The flour becomes naturally sweet as water evaporates"
+      ],
+      "tags": [
+        "bulrush",
+        "bread",
+        "foraged",
+        "primitive cooking",
+        "survival"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-molasses-sweet-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Molasses Sweet Bread",
+      "category": "breads",
+      "attribution": "Foxfire Book of Appalachian Cookery",
+      "source_note": "Traditional molasses-sweetened bread",
+      "description": "A moist, dark bread sweetened with sorghum molasses.",
+      "servings_yield": "1 loaf",
+      "prep_time": "15 minutes",
+      "cook_time": "50-60 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sorghum preferred"
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix flour, soda, and salt."
+        },
+        {
+          "step": 2,
+          "text": "Combine molasses, buttermilk, egg, and melted butter."
+        },
+        {
+          "step": 3,
+          "text": "Add liquid ingredients to dry, mix just until combined."
+        },
+        {
+          "step": 4,
+          "text": "Pour into greased loaf pan."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F (175\u00b0C) for 50-60 minutes until done."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5 loaf pan",
+      "notes": [
+        "Sorghum molasses gives the most authentic flavor",
+        "Keeps well when wrapped"
+      ],
+      "tags": [
+        "bread",
+        "molasses",
+        "sweet",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-baking"
+      ]
+    },
+    {
+      "id": "foxfire-cattail-pancakes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cattail Pancakes",
+      "category": "breads",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional wild food pancakes from cattail roots",
+      "description": "Pancakes made from cattail root gruel, served with wild berries or stewed apples.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "cattail roots",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "cleaned"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil cattail roots into a gruel consistency."
+        },
+        {
+          "step": 2,
+          "text": "Drain and dry the gruel."
+        },
+        {
+          "step": 3,
+          "text": "Mix with egg, milk, salt, and margarine."
+        },
+        {
+          "step": 4,
+          "text": "Drop by tablespoons into well-greased cast-iron skillet."
+        },
+        {
+          "step": 5,
+          "text": "Cook until browned on both sides."
+        },
+        {
+          "step": 6,
+          "text": "Serve with cooked blueberries or stewed apples."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "Cast-iron skillet",
+      "notes": [
+        "Cattail roots are best harvested in fall or early spring",
+        "Also called 'nature's grocery store' due to many edible parts"
+      ],
+      "tags": [
+        "pancakes",
+        "cattail",
+        "wild foods",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-cattail-flapjacks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cattail Pollen Flapjacks",
+      "category": "breads",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional wild food flapjacks using cattail pollen",
+      "description": "Golden flapjacks made with nutritious cattail pollen.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {
+          "item": "cattail pollen",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "collected from cattail heads"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar or syrup",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon drippings",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix pollen, flour, baking powder, and salt together."
+        },
+        {
+          "step": 2,
+          "text": "Beat eggs and add to dry ingredients with milk, water, and sugar."
+        },
+        {
+          "step": 3,
+          "text": "Add bacon drippings and mix well."
+        },
+        {
+          "step": 4,
+          "text": "Fry in greased pan until golden brown on both sides."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "Griddle or large skillet",
+      "notes": [
+        "Collect pollen in late spring when cattail heads are bright yellow",
+        "Pollen adds golden color and mild flavor"
+      ],
+      "tags": [
+        "flapjacks",
+        "pancakes",
+        "cattail",
+        "pollen",
+        "wild foods",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-elderflower-flapjacks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderflower Flapjacks",
+      "category": "breads",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian flower-infused pancakes",
+      "description": "Delicate pancakes made with fragrant elderflower blossoms.",
+      "servings_yield": "12 pancakes",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {
+          "item": "elderflower clusters",
+          "quantity": "2",
+          "unit": "dozen",
+          "prep_note": "stems removed"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pancake batter",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "prepared"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "for sprinkling",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Remove stems from flower clusters."
+        },
+        {
+          "step": 2,
+          "text": "Wash flowers in one quart water with salt."
+        },
+        {
+          "step": 3,
+          "text": "Mix flowers with pancake batter."
+        },
+        {
+          "step": 4,
+          "text": "Fry until golden on both sides."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle with sugar and serve."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "Griddle or skillet",
+      "notes": [
+        "Harvest elderflowers in late spring when fragrant",
+        "The salt wash removes any insects"
+      ],
+      "tags": [
+        "flapjacks",
+        "pancakes",
+        "elderflower",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "cranberry-muffins-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Muffins",
+      "category": "breads",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Cranberry/Lingonberry article",
+      "description": "Hearty whole wheat and oat muffins studded with cranberries.",
+      "servings_yield": "12 muffins",
+      "prep_time": "15 minutes",
+      "cook_time": "18-20 minutes",
+      "ingredients": [
+        {
+          "item": "whole wheat flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "rolled oats",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "2% milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "soured"
+        },
+        {
+          "item": "canola oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "large"
+        },
+        {
+          "item": "cranberries",
+          "quantity": "1.5",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine milk and oats and let stand."
+        },
+        {
+          "step": 2,
+          "text": "Mix egg, oil, and brown sugar together."
+        },
+        {
+          "step": 3,
+          "text": "Mix dry ingredients (flour, baking powder, baking soda, salt)."
+        },
+        {
+          "step": 4,
+          "text": "Add berries to dry ingredients and toss until coated."
+        },
+        {
+          "step": 5,
+          "text": "Mix all ingredients together just until blended."
+        },
+        {
+          "step": 6,
+          "text": "Fill greased muffin cups."
+        },
+        {
+          "step": 7,
+          "text": "Bake at 350\u00b0F for 18-20 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "12-cup muffin tin",
+      "notes": [
+        "Sour the milk by adding 1 tbsp lemon juice or vinegar",
+        "Don't overmix the batter"
+      ],
+      "tags": [
+        "cranberry",
+        "muffins",
+        "whole wheat",
+        "oats",
+        "breakfast",
+        "baking"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "poplar-bark-bread-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poplar Bark Bread",
+      "category": "breads",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Poplars and Aspens article",
+      "description": "Survival bread made with dried poplar inner bark.",
+      "servings_yield": "varies",
+      "prep_time": "varies",
+      "cook_time": "varies",
+      "ingredients": [
+        {
+          "item": "poplar inner bark (cambium)",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cut into strips"
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut inner bark (cambium) into strips."
+        },
+        {
+          "step": 2,
+          "text": "Dry strips completely."
+        },
+        {
+          "step": 3,
+          "text": "Grind dried bark into powder."
+        },
+        {
+          "step": 4,
+          "text": "Mix bark powder with regular flour."
+        },
+        {
+          "step": 5,
+          "text": "Add water to form dough and bake as bread, or cook as mush."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Inner bark is edible raw or cooked",
+        "High in Vitamin C",
+        "Best species: Eastern Cottonwood, Fremont Cottonwood, Aspens",
+        "Twigs have bitter aspirin-like taste"
+      ],
+      "tags": [
+        "poplar",
+        "bark",
+        "survival",
+        "bread",
+        "foraged"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-cattail-pollen-flapjacks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cattail Pollen Flapjacks",
+      "category": "breads",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Golden pancakes using wild cattail pollen as flour.",
+      "ingredients": [
+        {
+          "item": "cattail pollen",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix pollen, flour, baking powder, and salt."
+        },
+        {
+          "step": 2,
+          "text": "Beat egg with milk and melted butter."
+        },
+        {
+          "step": 3,
+          "text": "Stir wet ingredients into dry just until combined."
+        },
+        {
+          "step": 4,
+          "text": "Pour onto hot greased griddle."
+        },
+        {
+          "step": 5,
+          "text": "Cook until bubbles form; flip and cook until golden."
+        }
+      ],
+      "notes": [
+        "Collect pollen in early summer when cattail heads are bright yellow"
+      ],
+      "tags": [
+        "pancakes",
+        "cattail",
+        "wild-foods",
+        "breakfast",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }
