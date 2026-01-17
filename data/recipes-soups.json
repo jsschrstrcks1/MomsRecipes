@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "soups",
-    "count": 41,
+    "count": 47,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -4913,6 +4913,713 @@
       },
       "image_refs": [
         "IMG_5537 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "ham-and-bean-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ham and Bean Soup",
+      "category": "soups",
+      "subcategory": "meat-soups",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 377",
+      "description": "Classic hearty ham and bean soup.",
+      "servings_yield": "4 main-dish servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "total_time": "1 hour 20 minutes (plus soaking time)",
+      "ingredients": [
+        {
+          "item": "dry navy beans",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "smoked pork hocks or meaty ham bone",
+          "quantity": "1 to 1 1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced celery",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried thyme",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse beans. In a large saucepan combine beans and water. Bring to boiling; reduce heat. Simmer for 2 minutes. Remove from heat. Cover and let stand for 1 hour. (Or, skip boiling the water and soak beans overnight in a covered pan.) Drain and rinse beans."
+        },
+        {
+          "step": 2,
+          "text": "In the same pan combine beans, 4 cups fresh water, pork, celery, onion, thyme, salt, pepper, and bay leaf. Bring to boiling; reduce heat. Cover; simmer about 1 hour or till beans are tender. Remove meat."
+        },
+        {
+          "step": 3,
+          "text": "When cool enough to handle, cut meat off bones and coarsely chop. Discard bones and bay leaf. Slightly mash beans in saucepan. Return the meat to saucepan. Heat through. Makes 4 main-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [
+        "Shortcut Ham and Bean Soup: Prepare as above, except omit dry beans. In a large saucepan combine 3 cups water, pork, celery, onion, thyme, salt, pepper, and bay leaf. Cover and simmer for 45 minutes. When cool enough to handle, cut meat off bones and coarsely chop. Discard bones and bay leaf. Return meat to saucepan. Stir in one 15-ounce can undrained navy or great northern beans. Heat through.",
+        "Tomato Ham and Bean Soup: Prepare as above, except add half of a 6-ounce can (1/3 cup) tomato paste with hocks or ham bone."
+      ],
+      "tags": [
+        "ham",
+        "beans",
+        "soup",
+        "hearty",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5538 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "turkey-frame-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Turkey Frame Soup",
+      "category": "soups",
+      "subcategory": "poultry-soups",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 377",
+      "description": "Use your leftover turkey frame to make this hearty soup.",
+      "servings_yield": "6 main-dish servings",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "total_time": "2 hours 30 minutes",
+      "ingredients": [
+        {
+          "item": "meaty turkey frame",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped, cooked turkey",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "16",
+          "unit": "oz can",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried oregano, basil, marjoram, or thyme",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced celery, carrots, parsnips, or mushrooms",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "any combination"
+        },
+        {
+          "item": "chopped onions or rutabagas or broccoli or cauliflower flowerets",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "medium noodles",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Break turkey frame or cut in half with kitchen shears. Place in a large Dutch oven or kettle. Add water, onion, and garlic salt. Bring to boiling; reduce heat. Cover; simmer for 1 1/2 hours."
+        },
+        {
+          "step": 2,
+          "text": "Remove turkey frame. When cool enough to handle, cut meat off bones; coarsely chop. Add additional turkey to equal 2 cups. Set meat aside. Discard bones. Strain broth through a sieve lined with 2 layers of cheesecloth; discard solids."
+        },
+        {
+          "step": 3,
+          "text": "Return broth to Dutch oven. Stir in undrained tomatoes, bouillon granules, herb, and pepper. Stir in vegetables. Return to boiling; reduce heat. Cover; simmer for 15 minutes. Stir in noodles. Simmer 8 to 10 minutes more or till noodles are done and vegetables are crisp-tender. Stir in turkey; heat through. Makes 6 main-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large Dutch oven",
+      "notes": [
+        "Great way to use leftover turkey frame after holiday meals"
+      ],
+      "tags": [
+        "turkey",
+        "soup",
+        "leftover",
+        "noodles"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5538 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "chicken-vegetable-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken-Vegetable Soup",
+      "category": "soups",
+      "subcategory": "poultry-soups",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 377",
+      "description": "Choose the alternate recipe if you are a fan of noodle-filled chicken soup.",
+      "servings_yield": "4 to 6 main-dish servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "quantity": "4 1/2",
+          "unit": "cups",
+          "prep_note": "(see recipe or tip, page 373)"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen mixed vegetables",
+          "quantity": "10",
+          "unit": "oz package",
+          "prep_note": "(2 cups)"
+        },
+        {
+          "item": "cubed, cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "16",
+          "unit": "oz can",
+          "prep_note": "cut up"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan mix chicken broth, onion, basil, oregano, bay leaf, and 1/4 teaspoon pepper. Stir in vegetables. Bring to boiling; reduce heat."
+        },
+        {
+          "step": 2,
+          "text": "Cover and simmer for 6 to 8 minutes or till vegetables are crisp-tender. Discard bay leaf. Stir in chicken and undrained tomatoes; heat through. Makes 4 to 6 main-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [
+        "FAST recipe",
+        "Chicken Noodle Soup: Prepare as above, except, after chicken broth comes to a boil, stir in 1/2 cup uncooked medium noodles or other small pasta. Return to boiling; reduce heat. Cover and simmer about 8 minutes or till noodles are done and vegetables are crisp-tender."
+      ],
+      "tags": [
+        "chicken",
+        "soup",
+        "vegetables",
+        "quick",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5538 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "cioppino-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cioppino",
+      "category": "soups",
+      "subcategory": "seafood-soups",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 379",
+      "description": "California-born, this stew combines three kinds of fish and seafood and a tomatoey broth.",
+      "servings_yield": "5 main-dish servings",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "fresh or frozen fish fillets",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "16",
+          "unit": "oz can",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "8",
+          "unit": "oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white or red wine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "dried basil",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "minced clams",
+          "quantity": "6 1/2",
+          "unit": "oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "shrimp",
+          "quantity": "4 1/2",
+          "unit": "oz can",
+          "prep_note": "rinsed and drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Cut fish into 1-inch pieces. In a large saucepan cook green pepper, onion, and garlic in hot oil till tender."
+        },
+        {
+          "step": 2,
+          "text": "Add tomatoes, tomato sauce, wine, parsley, oregano, basil, salt, and dash pepper. Bring to boiling; reduce heat. Cover and simmer 20 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add fish, undrained clams, and shrimp. Bring just to boiling; reduce heat. Cover and simmer 5 to 7 minutes or till fish flakes easily with a fork. Makes 5 main-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [
+        "Classic San Francisco seafood stew"
+      ],
+      "tags": [
+        "seafood",
+        "fish",
+        "stew",
+        "italian",
+        "california"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5540 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "oyster-stew-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Oyster Stew",
+      "category": "soups",
+      "subcategory": "seafood-soups",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 379",
+      "description": "Classic creamy oyster stew.",
+      "servings_yield": "4 main-dish servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "shucked oysters",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "light cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled hot pepper sauce",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan combine the undrained oysters and salt. Cook over medium heat about 5 minutes or till oysters curl around the edges."
+        },
+        {
+          "step": 2,
+          "text": "Stir in milk, cream, and hot pepper sauce. Heat through. Season to taste."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle each serving with paprika; if desired, top with a pat of margarine or butter. Makes 4 main-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "medium saucepan",
+      "notes": [
+        "Vegetable Oyster Stew: Prepare as above, except cook 1/2 cup shredded carrot and 1/4 cup finely chopped celery in 2 tablespoons margarine or butter about 3 minutes or till tender. Stir in 1 teaspoon Worcestershire sauce. Add vegetable mixture to oysters with milk."
+      ],
+      "tags": [
+        "oysters",
+        "seafood",
+        "stew",
+        "creamy",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5540 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "new-england-clam-chowder-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "New England Clam Chowder",
+      "category": "soups",
+      "subcategory": "seafood-soups",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 379",
+      "description": "Serve this creamy chowder as a main dish or a side dish.",
+      "servings_yield": "4 main-dish servings or 6 to 8 side-dish servings",
+      "prep_time": "25 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "shucked clams or minced clams",
+          "quantity": "1 pint or 2",
+          "unit": "6 1/2-oz cans",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": "halved"
+        },
+        {
+          "item": "finely chopped, peeled potatoes",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried thyme",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "light cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop shucked clams, reserving juice; set clams aside. Strain clam juice to remove bits of shell. (Or, drain canned clams, reserving juice.) If necessary, add water to clam juice to equal 1 cup. Set clam-juice mixture aside."
+        },
+        {
+          "step": 2,
+          "text": "In a large saucepan cook bacon till crisp. Remove bacon, reserving 1 tablespoon drippings. Drain bacon on paper towels; crumble. Set aside."
+        },
+        {
+          "step": 3,
+          "text": "In the same saucepan combine reserved bacon drippings, reserved clam juice, potatoes, onion, bouillon granules, Worcestershire sauce, thyme, and pepper. Bring to boiling; reduce heat. Cover and simmer about 10 minutes or till potatoes are tender. With the back of a fork, mash potatoes slightly against the side of the pan."
+        },
+        {
+          "step": 4,
+          "text": "Combine milk, cream, and flour till smooth. Add to potato mixture. Cook and stir till slightly thickened and bubbly. Stir in clams. Return to boiling; reduce heat. Cook 1 to 2 minutes more."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle each serving with some of the crumbled bacon. Makes 4 main-dish servings or 6 to 8 side-dish servings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepan",
+      "notes": [
+        "Fish Chowder: Prepare as above, except substitute 1 pound fresh or frozen fish steaks, cut 3/4 inch thick, for clams. Thaw fish, if frozen, and cut into 3/4-inch cubes. Substitute 1 cup water for the reserved clam juice and add 1/2 cup sliced carrot with potatoes and onion. Add fish to chowder with milk mixture. Bring just to boiling; reduce heat. Cover and simmer about 3 minutes more or till fish flakes easily with a fork."
+      ],
+      "tags": [
+        "clams",
+        "seafood",
+        "chowder",
+        "new-england",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5540 Large.jpeg"
       ],
       "nutrition": {
         "status": "not_calculated",
