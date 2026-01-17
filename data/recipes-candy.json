@@ -6,150 +6,6 @@
   },
   "recipes": [
     {
-      "id": "peters-peanut-brittle",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Peter's Peanut Brittle",
-      "category": "candy",
-      "attribution": "Peter Ohan",
-      "source_note": "Family recipe insert",
-      "ingredients": [
-        {
-          "item": "sugar",
-          "quantity": "2",
-          "unit": "cups"
-        },
-        {
-          "item": "white Karo syrup",
-          "quantity": "3/4",
-          "unit": "cup"
-        },
-        {
-          "item": "raw peanuts",
-          "quantity": "3",
-          "unit": "cups"
-        },
-        {
-          "item": "water",
-          "quantity": "1/4",
-          "unit": "cup"
-        },
-        {
-          "item": "baking soda",
-          "quantity": "2",
-          "unit": "tsp"
-        },
-        {
-          "item": "salt",
-          "quantity": "",
-          "unit": "dash"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Combine sugar, peanuts, syrup, water, and salt. Cook over medium heat, stirring continuously, until peanuts are brown (hard crackle stage). Add soda and stir well. Pour into buttered pan. Break into pieces when cool."
-        }
-      ],
-      "tags": [
-        "candy",
-        "peanut",
-        "brittle",
-        "family recipe"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5291 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 72,
-          "fat_g": 10,
-          "protein_g": 1,
-          "carbs_g": 7,
-          "cholesterol_mg": 37,
-          "sodium_mg": 3
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      },
-      "servings_yield": "Makes about 1 pound"
-    },
-    {
-      "id": "peanut-butter-fudge-family",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Peanut Butter Fudge",
-      "category": "candy",
-      "attribution": "Karen Talbot",
-      "source_note": "Family recipe insert",
-      "ingredients": [
-        {
-          "item": "confectioners sugar",
-          "quantity": "2",
-          "unit": "lb"
-        },
-        {
-          "item": "peanut butter",
-          "quantity": "28",
-          "unit": "oz"
-        },
-        {
-          "item": "vanilla",
-          "quantity": "1",
-          "unit": "tsp"
-        },
-        {
-          "item": "milk",
-          "quantity": "1",
-          "unit": "cup"
-        },
-        {
-          "item": "marshmallows cream",
-          "quantity": "13",
-          "unit": "oz"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Mix sugar and milk in saucepan and boil for 2 minutes. Remove from heat and stir in rest of the ingredients. Beat well with a greased, wooden spoon. Quickly pour into ungreased 9x13 inch pan."
-        }
-      ],
-      "pan_size": "9x13 inch pan",
-      "tags": [
-        "candy",
-        "fudge",
-        "peanut butter",
-        "family recipe"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5291 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "partial",
-        "per_serving": {
-          "calories": 343,
-          "fat_g": 22.4,
-          "protein_g": 3.8,
-          "carbs_g": 34.0
-        },
-        "missing_inputs": [],
-        "assumptions": [
-          "Estimated 8 servings based on total calories",
-          "Based on 5/5 ingredients (100% coverage)"
-        ]
-      }
-    },
-    {
       "id": "opera-fudge",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
@@ -392,84 +248,6 @@
           "carbs_g": 13,
           "cholesterol_mg": 27,
           "sodium_mg": 1
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "penuche",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Penuche",
-      "category": "candy",
-      "source_note": "Better Homes and Gardens cookbook",
-      "description": "This brown sugar fudge is pictured on page 91.",
-      "ingredients": [
-        {
-          "item": "sugar",
-          "quantity": "1 1/2",
-          "unit": "cups"
-        },
-        {
-          "item": "packed brown sugar",
-          "quantity": "1",
-          "unit": "cup"
-        },
-        {
-          "item": "light cream",
-          "quantity": "1/2",
-          "unit": "cup"
-        },
-        {
-          "item": "milk",
-          "quantity": "1/2",
-          "unit": "cup"
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "2",
-          "unit": "tbsp"
-        },
-        {
-          "item": "vanilla",
-          "quantity": "1",
-          "unit": "tsp"
-        },
-        {
-          "item": "chopped pecans or walnuts",
-          "quantity": "1/2",
-          "unit": "cup"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Line an 8x4x2- or a 9x5x3-inch loaf pan with foil; extend foil over edges. Butter foil; set aside. Butter the sides of a heavy 2-quart saucepan. Combine sugars, cream, and milk. Cook and stir over medium-high heat to boiling. Clip candy thermometer to side of pan. Cook and stir over medium-low heat to 236\u00b0, soft-ball stage (15 to 20 minutes)."
-        },
-        {
-          "step": 2,
-          "text": "Remove from heat. Add margarine and vanilla, but do not stir. Cool, without stirring, to 110\u00b0, lukewarm (about 50 minutes). Remove thermometer. Beat mixture vigorously till penuche just begins to thicken; add nuts. Continue beating till penuche becomes very thick and just starts to lose its gloss (about 10 minutes total). Spread into pan. Score into squares. Cut when firm. Makes about 1 1/4 pounds (32 servings)."
-        }
-      ],
-      "servings_yield": "About 1 1/4 pounds (32 servings)",
-      "pan_size": "8x4x2-inch or 9x5x3-inch loaf pan",
-      "image_refs": [
-        "IMG_5259 Large.jpeg"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 57,
-          "fat_g": 2,
-          "protein_g": 0,
-          "carbs_g": 17,
-          "cholesterol_mg": 39,
-          "sodium_mg": 5
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
@@ -1353,68 +1131,6 @@
       }
     },
     {
-      "id": "rocky-road",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Rocky Road",
-      "category": "candy",
-      "source_note": "Better Homes and Gardens cookbook",
-      "description": "Marshmallows and chopped nuts are the rocks in this delicious chocolate road.",
-      "tags": [
-        "fast"
-      ],
-      "ingredients": [
-        {
-          "item": "milk chocolate, broken up",
-          "quantity": "2",
-          "unit": "bars",
-          "prep_note": "8-ounce bars"
-        },
-        {
-          "item": "tiny marshmallows",
-          "quantity": "2 1/2",
-          "unit": "cups"
-        },
-        {
-          "item": "coarsely chopped nuts",
-          "quantity": "1",
-          "unit": "cup"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Line an 8x8x2-inch baking pan with foil, extending foil over edges of pan. Butter foil; set aside. In a medium saucepan slowly melt chocolate over low heat, stirring constantly. Remove from heat. Stir in marshmallows and nuts. Spread into prepared pan. Chill till firm (at least 1 hour). Use foil to lift candy out of pan; cut into squares. Store in the refrigerator. Makes about 36 pieces."
-        },
-        {
-          "step": 2,
-          "text": "Microwave directions: Line pan and butter foil as above. In a medium bowl micro-cook chocolate, uncovered, on 100% power (high) for 1 1/2 to 2 1/4 minutes or till chocolate becomes smooth when stirred. Stir in marshmallows and nuts. Spread into prepared pan. Chill till firm. Lift candy from pan and cut into squares. Store in the refrigerator."
-        }
-      ],
-      "servings_yield": "About 36 pieces",
-      "pan_size": "8x8x2-inch",
-      "image_refs": [
-        "IMG_5264 Large.jpeg"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 97,
-          "fat_g": 6,
-          "protein_g": 2,
-          "carbs_g": 10,
-          "cholesterol_mg": 13,
-          "sodium_mg": 3
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
       "id": "cream-cheese-mints",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
@@ -1482,6 +1198,290 @@
           "carbs_g": 7,
           "cholesterol_mg": 5,
           "sodium_mg": 0
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "peters-peanut-brittle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peter's Peanut Brittle",
+      "category": "candy",
+      "attribution": "Peter Ohan",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "white Karo syrup",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "raw peanuts",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine sugar, peanuts, syrup, water, and salt. Cook over medium heat, stirring continuously, until peanuts are brown (hard crackle stage). Add soda and stir well. Pour into buttered pan. Break into pieces when cool."
+        }
+      ],
+      "tags": [
+        "candy",
+        "peanut",
+        "brittle",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5291 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 72,
+          "fat_g": 10,
+          "protein_g": 1,
+          "carbs_g": 7,
+          "cholesterol_mg": 37,
+          "sodium_mg": 3
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      },
+      "servings_yield": "Makes about 1 pound"
+    },
+    {
+      "id": "peanut-butter-fudge-family",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Fudge",
+      "category": "candy",
+      "attribution": "Karen Talbot",
+      "source_note": "Family recipe insert",
+      "ingredients": [
+        {
+          "item": "confectioners sugar",
+          "quantity": "2",
+          "unit": "lb"
+        },
+        {
+          "item": "peanut butter",
+          "quantity": "28",
+          "unit": "oz"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "marshmallows cream",
+          "quantity": "13",
+          "unit": "oz"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix sugar and milk in saucepan and boil for 2 minutes. Remove from heat and stir in rest of the ingredients. Beat well with a greased, wooden spoon. Quickly pour into ungreased 9x13 inch pan."
+        }
+      ],
+      "pan_size": "9x13 inch pan",
+      "tags": [
+        "candy",
+        "fudge",
+        "peanut butter",
+        "family recipe"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5291 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 343,
+          "fat_g": 22.4,
+          "protein_g": 3.8,
+          "carbs_g": 34.0
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Estimated 8 servings based on total calories",
+          "Based on 5/5 ingredients (100% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "penuche",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Penuche",
+      "category": "candy",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "This brown sugar fudge is pictured on page 91.",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "packed brown sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "light cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "chopped pecans or walnuts",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Line an 8x4x2- or a 9x5x3-inch loaf pan with foil; extend foil over edges. Butter foil; set aside. Butter the sides of a heavy 2-quart saucepan. Combine sugars, cream, and milk. Cook and stir over medium-high heat to boiling. Clip candy thermometer to side of pan. Cook and stir over medium-low heat to 236\u00b0, soft-ball stage (15 to 20 minutes)."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat. Add margarine and vanilla, but do not stir. Cool, without stirring, to 110\u00b0, lukewarm (about 50 minutes). Remove thermometer. Beat mixture vigorously till penuche just begins to thicken; add nuts. Continue beating till penuche becomes very thick and just starts to lose its gloss (about 10 minutes total). Spread into pan. Score into squares. Cut when firm. Makes about 1 1/4 pounds (32 servings)."
+        }
+      ],
+      "servings_yield": "About 1 1/4 pounds (32 servings)",
+      "pan_size": "8x4x2-inch or 9x5x3-inch loaf pan",
+      "image_refs": [
+        "IMG_5259 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 57,
+          "fat_g": 2,
+          "protein_g": 0,
+          "carbs_g": 17,
+          "cholesterol_mg": 39,
+          "sodium_mg": 5
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "rocky-road",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rocky Road",
+      "category": "candy",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Marshmallows and chopped nuts are the rocks in this delicious chocolate road.",
+      "tags": [
+        "fast"
+      ],
+      "ingredients": [
+        {
+          "item": "milk chocolate, broken up",
+          "quantity": "2",
+          "unit": "bars",
+          "prep_note": "8-ounce bars"
+        },
+        {
+          "item": "tiny marshmallows",
+          "quantity": "2 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "coarsely chopped nuts",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Line an 8x8x2-inch baking pan with foil, extending foil over edges of pan. Butter foil; set aside. In a medium saucepan slowly melt chocolate over low heat, stirring constantly. Remove from heat. Stir in marshmallows and nuts. Spread into prepared pan. Chill till firm (at least 1 hour). Use foil to lift candy out of pan; cut into squares. Store in the refrigerator. Makes about 36 pieces."
+        },
+        {
+          "step": 2,
+          "text": "Microwave directions: Line pan and butter foil as above. In a medium bowl micro-cook chocolate, uncovered, on 100% power (high) for 1 1/2 to 2 1/4 minutes or till chocolate becomes smooth when stirred. Stir in marshmallows and nuts. Spread into prepared pan. Chill till firm. Lift candy from pan and cut into squares. Store in the refrigerator."
+        }
+      ],
+      "servings_yield": "About 36 pieces",
+      "pan_size": "8x8x2-inch",
+      "image_refs": [
+        "IMG_5264 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 97,
+          "fat_g": 6,
+          "protein_g": 2,
+          "carbs_g": 10,
+          "cholesterol_mg": 13,
+          "sodium_mg": 3
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []

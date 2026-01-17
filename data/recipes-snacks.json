@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "snacks",
-    "count": 69,
+    "count": 65,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -5885,113 +5885,6 @@
       }
     },
     {
-      "id": "caramel-corn",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Caramel Corn",
-      "category": "snacks",
-      "attribution": "",
-      "source_note": "Better Homes and Gardens cookbook",
-      "description": "This sweet snack is oven-baked for extra crunch.",
-      "servings_yield": "About 9 cups (9 servings)",
-      "prep_time": "",
-      "cook_time": "20 minutes",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "popped popcorn",
-          "quantity": "8",
-          "unit": "cups",
-          "prep_note": "about \u2153 to \u00bd cup unpopped"
-        },
-        {
-          "item": "packed brown sugar",
-          "quantity": "\u00be",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "\u2153",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "light corn syrup",
-          "quantity": "3",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "baking soda",
-          "quantity": "\u00bc",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "vanilla",
-          "quantity": "\u00bc",
-          "unit": "tsp",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Remove all unpopped kernels from popped corn. Place popcorn in a greased 17x12x2-inch baking pan. Keep popcorn warm in a 300\u00b0 oven while making caramel mixture."
-        },
-        {
-          "step": 2,
-          "text": "Butter the sides of a heavy 1\u00bd-quart saucepan. In saucepan combine brown sugar, margarine or butter, and corn syrup. Cook and stir over medium heat to boiling. Clip candy thermometer to side of pan."
-        },
-        {
-          "step": 3,
-          "text": "Cook and stir over medium heat to 255\u00b0, hard-ball stage (about 4 minutes)."
-        },
-        {
-          "step": 4,
-          "text": "Remove saucepan from heat. Stir in baking soda and vanilla; pour over popcorn. Stir gently to coat."
-        },
-        {
-          "step": 5,
-          "text": "Bake in a 300\u00b0 oven for 15 minutes; stir. Bake 5 minutes more."
-        },
-        {
-          "step": 6,
-          "text": "Transfer popcorn mixture to a large piece of foil; cool completely. Break into clusters. Store tightly covered."
-        }
-      ],
-      "temperature": "300\u00b0F",
-      "pan_size": "17x12x2-inch baking pan",
-      "notes": [
-        "Nutty Caramel Corn: Prepare as above, except add 1\u00bd cups peanuts, walnut halves, cashews, or pecan halves to caramel-coated corn before baking. Toss gently. Makes about 10\u00bd cups (10 servings)."
-      ],
-      "tags": [
-        "snack",
-        "dessert",
-        "popcorn",
-        "caramel"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 169,
-          "fat_g": 7,
-          "protein_g": 1,
-          "carbs_g": 27,
-          "cholesterol_mg": 42,
-          "sodium_mg": 4
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
       "id": "caramel-corn-pat-groen",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
@@ -6098,77 +5991,54 @@
       "title": "People Chow",
       "category": "snacks",
       "attribution": "Janice Jones",
-      "source_note": "Community cookbook",
-      "description": "Addictive chocolate-peanut butter coated cereal snack also known as Muddy Buddies.",
-      "servings_yield": "",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
+      "source_note": "Family recipe insert",
       "ingredients": [
         {
-          "item": "chocolate or butterscotch chips",
+          "item": "chocolate or butterscotch chips (or 1/2 cup each)",
           "quantity": "1",
-          "unit": "cup",
-          "prep_note": "or 1/2 cup each"
+          "unit": "cup"
         },
         {
           "item": "butter",
           "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
+          "unit": "cup"
         },
         {
           "item": "peanut butter",
           "quantity": "3/4",
-          "unit": "cup",
-          "prep_note": ""
+          "unit": "cup"
         },
         {
           "item": "Rice Chex",
-          "quantity": "8-9",
-          "unit": "cups",
-          "prep_note": ""
+          "quantity": "8 to 9",
+          "unit": "cups"
         },
         {
           "item": "powdered sugar",
           "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
+          "unit": "cups"
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "In large bowl with lid, pour in Rice Chex."
-        },
-        {
-          "step": 2,
-          "text": "Melt chips, butter, and peanut butter. Pour melted mixture over Rice Chex."
-        },
-        {
-          "step": 3,
-          "text": "Mix carefully so you don't break Rice Chex."
-        },
-        {
-          "step": 4,
-          "text": "Pour in powdered sugar. Cover container with lid and shake until coated."
+          "text": "In large bowl with lid, pour in Rice Chex. Melt chips, butter, and peanut butter. Pour melted mixture over Rice Chex. Mix carefully so you don't break Rice Chex. Pour in powdered sugar. Cover container with lid and shake until coated."
         }
       ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [],
       "tags": [
-        "snack",
+        "snacks",
         "chocolate",
-        "peanut-butter",
+        "peanut butter",
         "cereal",
-        "no-bake"
+        "family recipe"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
-      "image_refs": [],
+      "image_refs": [
+        "IMG_5291 Large.jpeg"
+      ],
       "nutrition": {
         "status": "partial",
         "per_serving": {
@@ -6182,214 +6052,6 @@
           "Estimated 8 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
-    },
-    {
-      "id": "deviled-eggs",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Deviled Eggs",
-      "category": "snacks",
-      "source_note": "Better Homes and Gardens cookbook",
-      "description": "Four different flavors to choose from.",
-      "servings_yield": "Makes 12 servings",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "hard-cooked eggs",
-          "quantity": "6",
-          "unit": "",
-          "prep_note": ""
-        },
-        {
-          "item": "mayonnaise or salad dressing",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "prepared mustard",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "vinegar",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "paprika or parsley sprigs",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "optional"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Halve hard-cooked eggs lengthwise and remove yolks. Place yolks in a bowl; mash with a fork."
-        },
-        {
-          "step": 2,
-          "text": "Add mayonnaise, mustard, and vinegar; mix well. Season with salt and pepper, if desired."
-        },
-        {
-          "step": 3,
-          "text": "Stuff egg white halves with yolk mixture. Garnish with paprika or parsley, if desired."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [
-        "Italian-Style Deviled Eggs: Prepare as above, except omit mayonnaise, mustard, and vinegar. Add 1/4 cup creamy Italian salad dressing and 2 tablespoons grated Parmesan cheese to mashed yolks; mix well.",
-        "Indian-Style Deviled Eggs: Prepare as above, except omit mustard and vinegar. Add 1/4 cup finely chopped peanuts and 1/2 teaspoon curry powder to yolk mixture; mix well.",
-        "Mexican-Style Deviled Eggs: Prepare as above, except omit mustard and vinegar. Add 2 tablespoons canned diced green chili peppers, 1 tablespoon chopped pitted ripe olives, 1/2 teaspoon chili powder, and 1/8 teaspoon ground red pepper to yolk mixture; mix well. Garnish with sliced pitted ripe olives or cilantro and serve with salsa, if desired."
-      ],
-      "tags": [
-        "appetizer",
-        "eggs",
-        "deviled",
-        "party-food"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 73,
-          "fat_g": 6,
-          "protein_g": 3,
-          "carbs_g": 1,
-          "cholesterol_mg": 66,
-          "sodium_mg": 140
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "cheese-fondue",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cheese Fondue",
-      "category": "snacks",
-      "attribution": "",
-      "source_note": "Better Homes and Gardens cookbook",
-      "description": "Also makes a great appetizer.",
-      "servings_yield": "Makes 5 servings",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "coarsely shredded Gruy\u00e8re or Swiss cheese",
-          "quantity": "3",
-          "unit": "cups",
-          "prep_note": "12 ounces"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "garlic",
-          "quantity": "1",
-          "unit": "clove",
-          "prep_note": "halved"
-        },
-        {
-          "item": "dry white wine",
-          "quantity": "1-1/2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "kirsch or dry sherry",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "ground nutmeg",
-          "quantity": "1",
-          "unit": "dash",
-          "prep_note": ""
-        },
-        {
-          "item": "pepper",
-          "quantity": "1",
-          "unit": "dash",
-          "prep_note": ""
-        },
-        {
-          "item": "cubed French or Italian bread or raw vegetables",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "for dipping"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Bring shredded cheese to room temperature. Toss flour with cheese; set aside."
-        },
-        {
-          "step": 2,
-          "text": "Rub inside of a fondue pot with garlic halves; discard garlic. Set pot aside."
-        },
-        {
-          "step": 3,
-          "text": "In medium saucepan heat wine over medium heat till small bubbles rise to surface. Just before wine boils, reduce heat to low and stir in cheese mixture, a little at a time, stirring constantly and making sure cheese melts before adding more. Stir till mixture bubbles gently."
-        },
-        {
-          "step": 4,
-          "text": "Stir in kirsch or sherry, nutmeg, and pepper."
-        },
-        {
-          "step": 5,
-          "text": "Transfer cheese mixture to the fondue pot; keep mixture bubbling gently over a fondue burner. Serve with bread cubes or raw vegetables."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "fondue pot",
-      "notes": [
-        "Onion-Cheese Fondue: Prepare as above, except stir 1/2 cup sliced green onion and 1/2 cup shredded carrot into the cheese mixture with the kirsch or sherry.",
-        "For a milder flavor, substitute 1/4 cup chicken broth or water for 1/4 cup of the wine."
-      ],
-      "tags": [
-        "appetizer",
-        "fondue",
-        "cheese",
-        "fast",
-        "swiss",
-        "party"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 359,
-          "fat_g": 22,
-          "protein_g": 21,
-          "carbs_g": 2,
-          "cholesterol_mg": 228,
-          "sodium_mg": 75
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
       }
     },
     {
@@ -6668,76 +6330,6 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
-    },
-    {
-      "id": "people-chow",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "People Chow",
-      "category": "snacks",
-      "attribution": "Janice Jones",
-      "source_note": "Family recipe insert",
-      "ingredients": [
-        {
-          "item": "chocolate or butterscotch chips (or 1/2 cup each)",
-          "quantity": "1",
-          "unit": "cup"
-        },
-        {
-          "item": "butter",
-          "quantity": "1/2",
-          "unit": "cup"
-        },
-        {
-          "item": "peanut butter",
-          "quantity": "3/4",
-          "unit": "cup"
-        },
-        {
-          "item": "Rice Chex",
-          "quantity": "8 to 9",
-          "unit": "cups"
-        },
-        {
-          "item": "powdered sugar",
-          "quantity": "2",
-          "unit": "cups"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In large bowl with lid, pour in Rice Chex. Melt chips, butter, and peanut butter. Pour melted mixture over Rice Chex. Mix carefully so you don't break Rice Chex. Pour in powdered sugar. Cover container with lid and shake until coated."
-        }
-      ],
-      "tags": [
-        "snacks",
-        "chocolate",
-        "peanut butter",
-        "cereal",
-        "family recipe"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5291 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "partial",
-        "per_serving": {
-          "calories": 357,
-          "fat_g": 3.0,
-          "protein_g": 4.6,
-          "carbs_g": 77.2
-        },
-        "missing_inputs": [],
-        "assumptions": [
-          "Estimated 8 servings based on total calories",
-          "Based on 5/5 ingredients (100% coverage)"
-        ]
       }
     },
     {

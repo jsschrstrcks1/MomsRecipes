@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "reference",
-    "count": 59,
+    "count": 57,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -351,25 +351,39 @@
       "category": "reference",
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 200",
-      "description": "Troubleshooting guide for common pickle-making problems.",
+      "description": "Guide to troubleshooting common pickle problems",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [],
+      "temperature": "",
+      "pan_size": "",
       "notes": [
+        "PICKLES AND RELISHES: For full-flavored, homemade pickles, remember the following guidelines:",
+        "Start with produce. Select varieties specially bred for pickling. These vegetables are unwaxed and pack firmly. Select top-quality, sound fruits or vegetables. Be sure they are ripe but firm.",
+        "For pickles and relishes, use granulated pickling salt, iodized salt, and table salt cause cloudiness. Some canning and pickling salt causes pickles to darken.",
+        "Use white vinegar. Never dilute the vinegar more than the recipe specifies. Use only high-grade (40 to 60 grain/4 to 6 percent acidity) cider vinegar for pickles, but white vinegar is best for lighter-colored products.",
+        "PICKLE PROBLEMS:",
         "Hollow pickles: cucumbers poorly developed or not fresh",
         "Shriveled pickles: salt, sugar, or vinegar solution too strong",
-        "Soft or slippery pickles: too little salt, or too little processing time"
+        "Soft or slippery pickles: too little salt, or too little processing time",
+        "Use utensils when preparing your pickles. Do not use copper, brass, zinc, galvanized steel, aluminum, or enamelware. Stoneware, glass, or stainless steel equipment and lids. When making pickles, thought be sure to sterilize the jars by immersing them in boiling water for 10 minutes before filling."
       ],
       "tags": [
-        "tips",
         "reference",
+        "tips",
         "pickles",
-        "canning",
-        "troubleshooting"
+        "troubleshooting",
+        "canning"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5361 Large.jpeg"
+        "IMG_5361 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "not_applicable",
@@ -387,25 +401,34 @@
       "title": "Cheese Identification Guide",
       "category": "reference",
       "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 157",
-      "description": "Visual guide to identifying common cheese varieties by texture category.",
+      "source_note": "Cookbook page 156",
+      "description": "Visual guide to identifying soft and semisoft cheeses",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [],
+      "instructions": [],
+      "temperature": "",
+      "pan_size": "",
       "notes": [
-        "SEMISOFT TO HARD: These mild cheeses are usually compact and chewy in texture - Curd cheese, String cheese, Edam",
-        "BLUE-VEINED: Crumbly and pleasantly sharp or pungent. These cheeses are used in salads, dips, and cooking - Gorgonzola, Roquefort, Blue cheese",
-        "HARD: Smooth-textured, the cheeses in this category are used in recipes or sliced for snacking - Asiago, Cheddar, Cheshire, Colby, Gjetost, Gloucester, Gouda, Gruy\u00e8re, Jarlsberg, Provolone, Swiss",
-        "VERY HARD: Sharp and granular, these cheeses are usually grated for cooking or for seasoning - Sapsago, Parmesan, Romano"
+        "SOFT CHEESES: These cheeses range in texture from soft and smooth to grainy and dry",
+        "Soft cheeses shown: Feta, Brie, Camembert, Boursin, Gourmandise, Ricotta, Chevret or ch\u00e8vre, Cream cheese, Neufch\u00e2tel, Farmer cheese, Cottage cheese",
+        "SEMISOFT CHEESES: These white or yellow cheeses are mild to mellow in flavor. They are used in cooking, salads, and desserts.",
+        "Semisoft cheeses shown: Havarti, Mozzarella, Scamorza, Brick, Monterey Jack, Muenster, Port du Salut, Bel Paese, Fontina, Colby-Monterey Jack"
       ],
       "tags": [
         "reference",
         "cheese",
-        "identification"
+        "identification",
+        "guide"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5318 Large.jpeg"
+        "IMG_5317 Large.jpeg"
       ],
       "nutrition": {
         "status": "not_applicable",
@@ -642,51 +665,6 @@
       },
       "image_refs": [
         "IMG_5340 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_applicable",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": [
-          "Reference/informational content - no food to analyze"
-        ]
-      }
-    },
-    {
-      "id": "cheese-identification-guide-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cheese Identification Guide",
-      "category": "reference",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 156",
-      "description": "Visual guide to identifying soft and semisoft cheeses",
-      "servings_yield": "",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [],
-      "instructions": [],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [
-        "SOFT CHEESES: These cheeses range in texture from soft and smooth to grainy and dry",
-        "Soft cheeses shown: Feta, Brie, Camembert, Boursin, Gourmandise, Ricotta, Chevret or ch\u00e8vre, Cream cheese, Neufch\u00e2tel, Farmer cheese, Cottage cheese",
-        "SEMISOFT CHEESES: These white or yellow cheeses are mild to mellow in flavor. They are used in cooking, salads, and desserts.",
-        "Semisoft cheeses shown: Havarti, Mozzarella, Scamorza, Brick, Monterey Jack, Muenster, Port du Salut, Bel Paese, Fontina, Colby-Monterey Jack"
-      ],
-      "tags": [
-        "reference",
-        "cheese",
-        "identification",
-        "guide"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5317 Large.jpeg"
       ],
       "nutrition": {
         "status": "not_applicable",
@@ -1068,57 +1046,6 @@
         "IMG_5358 Large 2.jpeg",
         "IMG_5359 Large.jpeg",
         "IMG_5359 Large 2.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_applicable",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": [
-          "Reference/informational content - no food to analyze"
-        ]
-      }
-    },
-    {
-      "id": "pickle-problems-tips-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Pickle Problems Troubleshooting",
-      "category": "reference",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 200",
-      "description": "Guide to troubleshooting common pickle problems",
-      "servings_yield": "",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [],
-      "instructions": [],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [
-        "PICKLES AND RELISHES: For full-flavored, homemade pickles, remember the following guidelines:",
-        "Start with produce. Select varieties specially bred for pickling. These vegetables are unwaxed and pack firmly. Select top-quality, sound fruits or vegetables. Be sure they are ripe but firm.",
-        "For pickles and relishes, use granulated pickling salt, iodized salt, and table salt cause cloudiness. Some canning and pickling salt causes pickles to darken.",
-        "Use white vinegar. Never dilute the vinegar more than the recipe specifies. Use only high-grade (40 to 60 grain/4 to 6 percent acidity) cider vinegar for pickles, but white vinegar is best for lighter-colored products.",
-        "PICKLE PROBLEMS:",
-        "Hollow pickles: cucumbers poorly developed or not fresh",
-        "Shriveled pickles: salt, sugar, or vinegar solution too strong",
-        "Soft or slippery pickles: too little salt, or too little processing time",
-        "Use utensils when preparing your pickles. Do not use copper, brass, zinc, galvanized steel, aluminum, or enamelware. Stoneware, glass, or stainless steel equipment and lids. When making pickles, thought be sure to sterilize the jars by immersing them in boiling water for 10 minutes before filling."
-      ],
-      "tags": [
-        "reference",
-        "tips",
-        "pickles",
-        "troubleshooting",
-        "canning"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5361 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "not_applicable",

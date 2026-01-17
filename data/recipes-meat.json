@@ -6,6 +6,201 @@
   },
   "recipes": [
     {
+      "id": "veal-marsala",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Veal Marsala",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook",
+      "ingredients": [
+        {
+          "item": "boneless veal leg top round steak, veal sirloin steak, or pork",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "hot cooked noodles",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut veal into 4 pieces. With a meat mallet, pound each piece to 1/4-inch thickness. If desired, sprinkle with salt and pepper. Coat with flour. In a large skillet cook half of the veal over medium-high heat in 1 tablespoon of the margarine for 1 to 2 minutes on each side or till no pink remains. Keep warm. Repeat with remaining veal and 1 tablespoon margarine."
+        },
+        {
+          "step": 2,
+          "text": "Add remaining margarine to skillet. Add mushrooms. Cook and stir over medium heat for 1 to 2 minutes. Stir in sherry and bouillon. Bring to boiling; stir mixture over medium heat till reduced by half (about 30 seconds)."
+        },
+        {
+          "step": 3,
+          "text": "Spoon mushroom mixture over veal. Sprinkle with parsley. If desired, serve with hot cooked noodles. Makes 4 servings."
+        }
+      ],
+      "servings_yield": "4 servings",
+      "image_refs": [
+        "IMG_5380 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 329,
+          "fat_g": 17,
+          "protein_g": 34,
+          "carbs_g": 6,
+          "cholesterol_mg": 79,
+          "sodium_mg": 344
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "beef-fajitas",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beef Fajitas",
+      "category": "meat",
+      "source_note": "Better Homes and Gardens cookbook",
+      "description": "Serve the most sizzling hot for a typical South Texas flair.",
+      "ingredients": [
+        {
+          "item": "boneless beef plate skirt steak, beef flank steak, or beef round steak",
+          "quantity": "3/4",
+          "unit": "lb"
+        },
+        {
+          "item": "Italian salad dressing",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "Salsa",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "see recipe, page 368"
+        },
+        {
+          "item": "lime or lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "flour tortillas",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "8-inch"
+        },
+        {
+          "item": "medium onion, thinly sliced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "medium green or red sweet pepper, cut into thin strips",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Dairy sour cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "Shredded cheddar or Monterey Jack cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "avocado dip, chunked avocado, or Guacamole",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 13, optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Partially freeze beef; thinly slice across the grain into bite-size strips. Place strips in a plastic bag set in a deep bowl. For marinade, in a mixing bowl combine Italian salad dressing, the 1/2 cup Salsa, the lime or lemon juice, and Worcestershire sauce. Pour mixture over meat and seal bag. Marinate in the refrigerator for 6 to 24 hours, stirring occasionally."
+        },
+        {
+          "step": 2,
+          "text": "Wrap tortillas in foil. Meanwhile, in a 12-inch skillet over high heat, add oil. Cook and stir onion rings in hot oil for 1 1/2 minutes. Add sweet pepper strips; cook and stir about 1 1/2 minutes more or till crisp-tender. Remove vegetables from skillet."
+        },
+        {
+          "step": 3,
+          "text": "Add beef and marinade to hot skillet. Cook and stir for 2 to 3 minutes or till done. Remove beef and vegetables to the hot skillet. Add onion and sweet pepper with tortillas to remaining beef and vegetables in skillet for 1 to 2 minutes or till heated through. Cook and stir for 1 to 2 minutes more to reduce or evade dip, sour cream, cheese, and additional Salsa. Roll up fajitas. Makes 4 servings."
+        }
+      ],
+      "servings_yield": "4 servings",
+      "image_refs": [
+        "IMG_5380 Large.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 624,
+          "fat_g": 40.2,
+          "protein_g": 23.9,
+          "carbs_g": 42.7
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Inferred 1.0 for Dairy sour cream (standard quantity)",
+          "Inferred 1.0 for Shredded cheddar or Monterey Jack cheese (standard quantity)",
+          "Assumed 1 unit for avocado dip, chunked avocado, or Guacamole",
+          "Based on 12/12 ingredients (100% coverage)"
+        ]
+      }
+    },
+    {
       "id": "creole-stuffed-roast",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
@@ -792,201 +987,6 @@
         "missing_inputs": [],
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
-        ]
-      }
-    },
-    {
-      "id": "veal-marsala",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Veal Marsala",
-      "category": "meat",
-      "source_note": "Better Homes and Gardens cookbook",
-      "ingredients": [
-        {
-          "item": "boneless veal leg top round steak, veal sirloin steak, or pork",
-          "quantity": "1",
-          "unit": "lb"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "1/4",
-          "unit": "cup"
-        },
-        {
-          "item": "sliced fresh mushrooms",
-          "quantity": "1/2",
-          "unit": "cup"
-        },
-        {
-          "item": "dry sherry",
-          "quantity": "1/4",
-          "unit": "cup"
-        },
-        {
-          "item": "instant chicken bouillon granules",
-          "quantity": "1",
-          "unit": "tsp"
-        },
-        {
-          "item": "snipped parsley",
-          "quantity": "1",
-          "unit": "tbsp"
-        },
-        {
-          "item": "hot cooked noodles",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "optional"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Cut veal into 4 pieces. With a meat mallet, pound each piece to 1/4-inch thickness. If desired, sprinkle with salt and pepper. Coat with flour. In a large skillet cook half of the veal over medium-high heat in 1 tablespoon of the margarine for 1 to 2 minutes on each side or till no pink remains. Keep warm. Repeat with remaining veal and 1 tablespoon margarine."
-        },
-        {
-          "step": 2,
-          "text": "Add remaining margarine to skillet. Add mushrooms. Cook and stir over medium heat for 1 to 2 minutes. Stir in sherry and bouillon. Bring to boiling; stir mixture over medium heat till reduced by half (about 30 seconds)."
-        },
-        {
-          "step": 3,
-          "text": "Spoon mushroom mixture over veal. Sprinkle with parsley. If desired, serve with hot cooked noodles. Makes 4 servings."
-        }
-      ],
-      "servings_yield": "4 servings",
-      "image_refs": [
-        "IMG_5380 Large.jpeg"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 329,
-          "fat_g": 17,
-          "protein_g": 34,
-          "carbs_g": 6,
-          "cholesterol_mg": 79,
-          "sodium_mg": 344
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "beef-fajitas",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Beef Fajitas",
-      "category": "meat",
-      "source_note": "Better Homes and Gardens cookbook",
-      "description": "Serve the most sizzling hot for a typical South Texas flair.",
-      "ingredients": [
-        {
-          "item": "boneless beef plate skirt steak, beef flank steak, or beef round steak",
-          "quantity": "3/4",
-          "unit": "lb"
-        },
-        {
-          "item": "Italian salad dressing",
-          "quantity": "1/2",
-          "unit": "cup"
-        },
-        {
-          "item": "Salsa",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "see recipe, page 368"
-        },
-        {
-          "item": "lime or lemon juice",
-          "quantity": "2",
-          "unit": "tbsp"
-        },
-        {
-          "item": "Worcestershire sauce",
-          "quantity": "1",
-          "unit": "tsp"
-        },
-        {
-          "item": "flour tortillas",
-          "quantity": "8",
-          "unit": "",
-          "prep_note": "8-inch"
-        },
-        {
-          "item": "medium onion, thinly sliced",
-          "quantity": "1",
-          "unit": ""
-        },
-        {
-          "item": "medium green or red sweet pepper, cut into thin strips",
-          "quantity": "1",
-          "unit": ""
-        },
-        {
-          "item": "cooking oil",
-          "quantity": "1",
-          "unit": "tbsp"
-        },
-        {
-          "item": "Dairy sour cream",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "optional"
-        },
-        {
-          "item": "Shredded cheddar or Monterey Jack cheese",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "optional"
-        },
-        {
-          "item": "avocado dip, chunked avocado, or Guacamole",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "see recipe, page 13, optional"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Partially freeze beef; thinly slice across the grain into bite-size strips. Place strips in a plastic bag set in a deep bowl. For marinade, in a mixing bowl combine Italian salad dressing, the 1/2 cup Salsa, the lime or lemon juice, and Worcestershire sauce. Pour mixture over meat and seal bag. Marinate in the refrigerator for 6 to 24 hours, stirring occasionally."
-        },
-        {
-          "step": 2,
-          "text": "Wrap tortillas in foil. Meanwhile, in a 12-inch skillet over high heat, add oil. Cook and stir onion rings in hot oil for 1 1/2 minutes. Add sweet pepper strips; cook and stir about 1 1/2 minutes more or till crisp-tender. Remove vegetables from skillet."
-        },
-        {
-          "step": 3,
-          "text": "Add beef and marinade to hot skillet. Cook and stir for 2 to 3 minutes or till done. Remove beef and vegetables to the hot skillet. Add onion and sweet pepper with tortillas to remaining beef and vegetables in skillet for 1 to 2 minutes or till heated through. Cook and stir for 1 to 2 minutes more to reduce or evade dip, sour cream, cheese, and additional Salsa. Roll up fajitas. Makes 4 servings."
-        }
-      ],
-      "servings_yield": "4 servings",
-      "image_refs": [
-        "IMG_5380 Large.jpeg"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "nutrition": {
-        "status": "partial",
-        "per_serving": {
-          "calories": 624,
-          "fat_g": 40.2,
-          "protein_g": 23.9,
-          "carbs_g": 42.7
-        },
-        "missing_inputs": [],
-        "assumptions": [
-          "Inferred 1.0 for Dairy sour cream (standard quantity)",
-          "Inferred 1.0 for Shredded cheddar or Monterey Jack cheese (standard quantity)",
-          "Assumed 1 unit for avocado dip, chunked avocado, or Guacamole",
-          "Based on 12/12 ingredients (100% coverage)"
         ]
       }
     },

@@ -1,10 +1,95 @@
 {
   "meta": {
     "category": "eggs",
-    "count": 46,
+    "count": 44,
     "parent_collection": "mommom"
   },
   "recipes": [
+    {
+      "id": "cheese-strata",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Strata",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 159",
+      "servings_yield": "6 servings",
+      "ingredients": [
+        {
+          "item": "slices bread, halved diagonally",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "slices American or Swiss cheese",
+          "quantity": "5",
+          "unit": "1-oz"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "prepared mustard or Dijon-style mustard",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves. Beat eggs; stir in milk, onion, mustard, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Pour over bread and cheese layers. Sprinkle with paprika. Cover; chill in the refrigerator for 2 to 24 hours. Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes. Serves 6."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "notes": [
+        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices.",
+        "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "brunch",
+        "cheese",
+        "strata",
+        "easy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5320 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 260,
+          "fat_g": 14,
+          "protein_g": 15,
+          "carbs_g": 19,
+          "cholesterol_mg": 673,
+          "sodium_mg": 213
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
     {
       "id": "creamy-poached-eggs",
       "collection": "mommom",
@@ -610,570 +695,6 @@
       }
     },
     {
-      "id": "french-omelet",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "French Omelet",
-      "category": "eggs",
-      "source_note": "Better Homes and Gardens cookbook, page 150",
-      "description": "The Vegetable French Omelet with zucchini and cheddar cheese is pictured below right.",
-      "servings_yield": "1 serving",
-      "ingredients": [
-        {
-          "item": "eggs",
-          "quantity": "2",
-          "unit": ""
-        },
-        {
-          "item": "water",
-          "quantity": "1",
-          "unit": "tbsp"
-        },
-        {
-          "item": "salt",
-          "quantity": "1/8",
-          "unit": "tsp"
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "1",
-          "unit": "tbsp"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a bowl combine eggs, water, salt, and dash pepper. Using a fork, beat till combined but not frothy. In an 8- or 10-inch skillet with flared sides, heat margarine or butter till a drop of water sizzles. Lift and tilt the pan to coat the sides."
-        },
-        {
-          "step": 2,
-          "text": "Add egg mixture to skillet; cook over medium heat. As eggs set, run a spatula around the edge of the skillet, lifting eggs and letting uncooked portion flow underneath. When eggs are but still shiny, remove from the heat. Fold omelet in half. Transfer onto a warm plate. Serves 1."
-        }
-      ],
-      "notes": [
-        "Mushroom French Omelet: Prepare as above, except, for filling, cook 1/2 cup sliced fresh mushrooms in 1 tablespoon margarine till tender. Spoon across center of omelet. Fold sides over.",
-        "Cheese French Omelet: Prepare as above, except omit salt. For filling, sprinkle 1/4 cup shredded cheddar, Swiss, Monterey Jack, or American cheese across center of omelet. Fold sides over. Top with shredded cheese and snipped parsley.",
-        "Fruited French Omelet: Prepare as above, except, for filling, spread 2 tablespoons dairy sour cream or yogurt across center of omelet. Fold sides over. Top omelet with 1/4 cup halved strawberries; sliced, peeled peaches; or blueberries. Sprinkle with 1 tablespoon brown sugar.",
-        "Vegetable French Omelet: Prepare as above, except, for filling, cook 1/3 cup vegetables (combination of sliced asparagus, sliced zucchini, sliced green onion, sliced celery, or chopped green pepper) and 1/8 teaspoon dried basil, crushed, in 1 tablespoon margarine. Spoon filling across center of omelet. Sprinkle grated Parmesan, shredded cheddar, or crumbled feta cheese atop filling before folding omelet."
-      ],
-      "tags": [
-        "eggs",
-        "breakfast",
-        "omelet",
-        "french"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5311 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 261,
-          "fat_g": 23,
-          "protein_g": 12,
-          "carbs_g": 1,
-          "cholesterol_mg": 540,
-          "sodium_mg": 550
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "denver-omelet",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Denver Omelet",
-      "category": "eggs",
-      "source_note": "Better Homes and Gardens cookbook, page 150",
-      "description": "Chock-full of bright garden vegetables and ham. (Pictured on page 141.)",
-      "servings_yield": "2 or 3 servings",
-      "ingredients": [
-        {
-          "item": "Puffy Omelet",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "see recipe, opposite"
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "2",
-          "unit": "tbsp"
-        },
-        {
-          "item": "sliced fresh mushrooms",
-          "quantity": "1",
-          "unit": "cup"
-        },
-        {
-          "item": "medium green pepper, chopped",
-          "quantity": "1",
-          "unit": ""
-        },
-        {
-          "item": "green onions, bias sliced",
-          "quantity": "4",
-          "unit": ""
-        },
-        {
-          "item": "dried basil, crushed",
-          "quantity": "1/2",
-          "unit": "tsp"
-        },
-        {
-          "item": "fully cooked ham, cut into strips",
-          "quantity": "3",
-          "unit": "oz",
-          "prep_note": "1/4-inch long"
-        },
-        {
-          "item": "cherry tomatoes, halved",
-          "quantity": "1/2",
-          "unit": "cup"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Prepare Puffy Omelet (see recipe, opposite). Prepare filling while omelet is baking."
-        },
-        {
-          "step": 2,
-          "text": "For filling, in a skillet melt 2 tablespoons margarine or butter. Add 1 cup sliced fresh mushrooms; 1 medium green pepper, chopped; 4 green onions, bias sliced; and 1/2 teaspoon dried basil, crushed. Cook till tender but not brown. Stir in 3 ounces fully cooked ham, cut into 1/4-inch-long strips (1/2 cup), and 1/2 cup cherry tomatoes, halved. Heat through. Remove omelet from the oven. Fill omelet with ham mixture before folding. Makes 2 or 3 servings."
-        }
-      ],
-      "temperature": "325\u00b0F (165\u00b0C)",
-      "tags": [
-        "eggs",
-        "breakfast",
-        "omelet",
-        "denver",
-        "ham"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5311 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 416,
-          "fat_g": 31,
-          "protein_g": 23,
-          "carbs_g": 11,
-          "cholesterol_mg": 859,
-          "sodium_mg": 572
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "choose-a-flavor-quiche",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Choose-a-Flavor Quiche",
-      "category": "eggs",
-      "source_note": "Better Homes and Gardens cookbook, page 154",
-      "description": "Mix and match the meat and cheese to suit your fancy, or rely on the classic bacon and Swiss cheese combination in Quiche Lorraine.",
-      "servings_yield": "6 servings",
-      "ingredients": [
-        {
-          "item": "Pastry for Single-Crust Pie",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "see recipe, page 293"
-        },
-        {
-          "item": "beaten eggs",
-          "quantity": "3",
-          "unit": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "1 1/2",
-          "unit": "cups"
-        },
-        {
-          "item": "sliced green onion",
-          "quantity": "1/4",
-          "unit": "cup"
-        },
-        {
-          "item": "salt",
-          "quantity": "1/4",
-          "unit": "tsp"
-        },
-        {
-          "item": "pepper",
-          "quantity": "1/8",
-          "unit": "tsp"
-        },
-        {
-          "item": "ground nutmeg",
-          "quantity": "",
-          "unit": "dash"
-        },
-        {
-          "item": "chopped cooked chicken, crabmeat, or ham",
-          "quantity": "3/4",
-          "unit": "cup"
-        },
-        {
-          "item": "shredded Swiss, cheddar, Monterey Jack, or Havarti cheese",
-          "quantity": "1 1/2",
-          "unit": "cups",
-          "prep_note": "6 ounces"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "1",
-          "unit": "tbsp"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Prepare Pastry for Single-Crust Pie. Line the unpricked pastry shell with a double thickness of heavy-duty foil. Bake in a 450\u00b0 oven for 5 minutes. Remove foil. Bake for 5 to 7 minutes more or till pastry is nearly done. Remove from the oven. Reduce oven temperature to 325\u00b0."
-        },
-        {
-          "step": 2,
-          "text": "Meanwhile, in a bowl stir together eggs, milk, onion, salt, pepper, and nutmeg. Stir in chicken, crabmeat, or ham. Toss together shredded cheese and flour. Add to egg mixture; mix well."
-        },
-        {
-          "step": 3,
-          "text": "Pour egg mixture into hot pastry shell. Bake in the 325\u00b0 oven for 35 to 40 minutes or till a knife inserted near the center comes out clean. If necessary, cover edge of crust with foil to prevent overbrowning. Let stand for 10 minutes. Serves 6."
-        }
-      ],
-      "temperature": "450\u00b0F (230\u00b0C) then 325\u00b0F (165\u00b0C)",
-      "notes": [
-        "Quiche Lorraine: Prepare as above, except omit green onion and chicken, crabmeat, or ham. Cook 6 slices bacon till crisp. Drain, reserving 2 tablespoons drippings. Crumble bacon; set aside. Cook 1 medium onion, sliced, in drippings over medium heat till tender; drain. Add bacon, onion, and Swiss-cheese-flour mixture to egg mixture.",
-        "Individual Quiche Casseroles: Prepare as above, except omit pastry and chicken, crabmeat, or ham. Pour egg mixture into four 10-ounce custard cups. Place custard cups in a 13x9x2-inch baking pan on an oven rack. Pour boiling water around cups in the pan to a depth of 1 inch. Bake in a 325\u00b0 oven for 20 to 25 minutes or till a knife inserted near centers comes out clean. Serves 4."
-      ],
-      "tags": [
-        "eggs",
-        "quiche",
-        "brunch",
-        "cheese"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5315 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 406,
-          "fat_g": 26,
-          "protein_g": 20,
-          "carbs_g": 25,
-          "cholesterol_mg": 331,
-          "sodium_mg": 181
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "breakfast-pizza",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Breakfast Pizza",
-      "category": "eggs",
-      "source_note": "Better Homes and Gardens cookbook, page 155",
-      "servings_yield": "6 servings",
-      "ingredients": [
-        {
-          "item": "refrigerated crescent rolls",
-          "quantity": "1",
-          "unit": "package (8)"
-        },
-        {
-          "item": "beaten eggs",
-          "quantity": "5",
-          "unit": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "1/4",
-          "unit": "cup"
-        },
-        {
-          "item": "dried oregano, crushed",
-          "quantity": "1/4",
-          "unit": "tsp"
-        },
-        {
-          "item": "pepper",
-          "quantity": "1/8",
-          "unit": "tsp"
-        },
-        {
-          "item": "desired vegetables",
-          "quantity": "1 1/2",
-          "unit": "cups",
-          "prep_note": "sliced ripe olives, avocado, green onion, mushrooms, or tomato"
-        },
-        {
-          "item": "shredded cheddar, Swiss, or mozzarella cheese",
-          "quantity": "1 1/2",
-          "unit": "cups"
-        },
-        {
-          "item": "diced fully cooked ham or cooked turkey or chicken",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "optional"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "For crust, unroll 1 package (8) refrigerated crescent rolls; separate into triangles. Place triangles on a lightly greased 12-inch pizza pan with points toward center. Press triangles together to cover bottom and 1/2 inch up sides of pan. Bake in a 375\u00b0 oven for 10 to 12 minutes or till lightly browned. (Do not remove crust from the oven.)"
-        },
-        {
-          "step": 2,
-          "text": "Meanwhile, combine 5 beaten eggs; 1/4 cup milk; 1/4 teaspoon dried oregano, crushed; and 1/8 teaspoon pepper. When crust is lightly browned, leave on oven shelf (if necessary, press down any high spots in crust). Carefully pour egg mixture onto crust. Bake for 8 to 10 minutes more or till egg mixture is almost set."
-        },
-        {
-          "step": 3,
-          "text": "Sprinkle with 1 1/2 cups desired vegetables (sliced pitted ripe olives; sliced avocado, green onion, or mushrooms; or chopped tomato)."
-        },
-        {
-          "step": 4,
-          "text": "Sprinkle with 1 1/2 cups shredded cheddar, Swiss, or mozzarella cheese; diced fully cooked ham; or chopped cooked turkey or chicken. Return to the oven and bake 3 to 5 minutes more or till cheese melts. Cut into wedges. Serves 6."
-        }
-      ],
-      "temperature": "375\u00b0F (190\u00b0C)",
-      "tags": [
-        "eggs",
-        "breakfast",
-        "pizza",
-        "brunch"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5316 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 325,
-          "fat_g": 25,
-          "protein_g": 15,
-          "carbs_g": 10,
-          "cholesterol_mg": 203,
-          "sodium_mg": 354
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "cheese-strata",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cheese Strata",
-      "category": "eggs",
-      "source_note": "Better Homes and Gardens cookbook, page 159",
-      "servings_yield": "6 servings",
-      "ingredients": [
-        {
-          "item": "slices bread, halved diagonally",
-          "quantity": "6",
-          "unit": ""
-        },
-        {
-          "item": "slices American or Swiss cheese",
-          "quantity": "5",
-          "unit": "1-oz"
-        },
-        {
-          "item": "eggs",
-          "quantity": "4",
-          "unit": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "2",
-          "unit": "cups"
-        },
-        {
-          "item": "sliced green onion",
-          "quantity": "1/2",
-          "unit": "cup"
-        },
-        {
-          "item": "prepared mustard or Dijon-style mustard",
-          "quantity": "2",
-          "unit": "tsp"
-        },
-        {
-          "item": "paprika",
-          "quantity": "",
-          "unit": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves. Beat eggs; stir in milk, onion, mustard, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Pour over bread and cheese layers. Sprinkle with paprika. Cover; chill in the refrigerator for 2 to 24 hours. Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes. Serves 6."
-        }
-      ],
-      "temperature": "325\u00b0F (165\u00b0C)",
-      "notes": [
-        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices.",
-        "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
-      ],
-      "tags": [
-        "eggs",
-        "breakfast",
-        "brunch",
-        "cheese",
-        "strata",
-        "easy"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5320 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 260,
-          "fat_g": 14,
-          "protein_g": 15,
-          "carbs_g": 19,
-          "cholesterol_mg": 673,
-          "sodium_mg": 213
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "welsh-rarebit-breakfast",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Welsh Rarebit Breakfast",
-      "category": "eggs",
-      "source_note": "Better Homes and Gardens cookbook, page 160",
-      "description": "The tangy cheese sauce also is good served over broccoli, cauliflower, and burgers.",
-      "servings_yield": "4 servings",
-      "ingredients": [
-        {
-          "item": "English muffins, split and toasted, or slices bread, toasted",
-          "quantity": "2 or 4",
-          "unit": ""
-        },
-        {
-          "item": "slices Canadian-style bacon, warmed, or 4 poached eggs",
-          "quantity": "4",
-          "unit": "",
-          "prep_note": "see recipe, page 144"
-        },
-        {
-          "item": "slices tomato",
-          "quantity": "4",
-          "unit": ""
-        },
-        {
-          "item": "shredded cheddar or American cheese",
-          "quantity": "1 1/2",
-          "unit": "cups",
-          "prep_note": "6 ounces"
-        },
-        {
-          "item": "milk",
-          "quantity": "3/4",
-          "unit": "cup"
-        },
-        {
-          "item": "dry mustard",
-          "quantity": "1",
-          "unit": "tsp"
-        },
-        {
-          "item": "Worcestershire sauce",
-          "quantity": "1/2",
-          "unit": "tsp"
-        },
-        {
-          "item": "ground red pepper",
-          "quantity": "",
-          "unit": "dash"
-        },
-        {
-          "item": "beaten egg",
-          "quantity": "1",
-          "unit": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "For English muffin or toast stacks, place muffin halves or toast slices on plates. Top each with a slice of Canadian-style bacon, then a tomato slice; or, if using poached eggs, top muffins or toast with tomato slices, then eggs. Set aside."
-        },
-        {
-          "step": 2,
-          "text": "For cheese sauce, in a heavy medium saucepan combine cheese, milk, mustard, Worcestershire sauce, and red pepper. Cook over low heat, stirring constantly, till cheese melts."
-        },
-        {
-          "step": 3,
-          "text": "Slowly stir about half of the hot cheese sauce into beaten egg; return all to the saucepan. Cook and stir over low heat till cheese sauce thickens slightly and just bubbles."
-        },
-        {
-          "step": 4,
-          "text": "Serve cheese sauce immediately over English muffin or toast stacks. Makes 4 servings."
-        }
-      ],
-      "notes": [
-        "Beer Rarebit: Prepare as above, except substitute 8 slices crisp-cooked bacon, drained and halved crosswise, for the Canadian-style bacon or poached egg. Substitute beer for the milk."
-      ],
-      "tags": [
-        "eggs",
-        "breakfast",
-        "cheese",
-        "welsh rarebit"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5322 Large 2.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 304,
-          "fat_g": 18,
-          "protein_g": 23,
-          "carbs_g": 20,
-          "cholesterol_mg": 637,
-          "sodium_mg": 130
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
       "id": "scrambled-egg-casserole",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
@@ -1433,6 +954,172 @@
           "carbs_g": 26,
           "cholesterol_mg": 336,
           "sodium_mg": 436
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "french-omelet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Omelet",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 150",
+      "description": "The Vegetable French Omelet with zucchini and cheddar cheese is pictured below right.",
+      "servings_yield": "1 serving",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl combine eggs, water, salt, and dash pepper. Using a fork, beat till combined but not frothy. In an 8- or 10-inch skillet with flared sides, heat margarine or butter till a drop of water sizzles. Lift and tilt the pan to coat the sides."
+        },
+        {
+          "step": 2,
+          "text": "Add egg mixture to skillet; cook over medium heat. As eggs set, run a spatula around the edge of the skillet, lifting eggs and letting uncooked portion flow underneath. When eggs are but still shiny, remove from the heat. Fold omelet in half. Transfer onto a warm plate. Serves 1."
+        }
+      ],
+      "notes": [
+        "Mushroom French Omelet: Prepare as above, except, for filling, cook 1/2 cup sliced fresh mushrooms in 1 tablespoon margarine till tender. Spoon across center of omelet. Fold sides over.",
+        "Cheese French Omelet: Prepare as above, except omit salt. For filling, sprinkle 1/4 cup shredded cheddar, Swiss, Monterey Jack, or American cheese across center of omelet. Fold sides over. Top with shredded cheese and snipped parsley.",
+        "Fruited French Omelet: Prepare as above, except, for filling, spread 2 tablespoons dairy sour cream or yogurt across center of omelet. Fold sides over. Top omelet with 1/4 cup halved strawberries; sliced, peeled peaches; or blueberries. Sprinkle with 1 tablespoon brown sugar.",
+        "Vegetable French Omelet: Prepare as above, except, for filling, cook 1/3 cup vegetables (combination of sliced asparagus, sliced zucchini, sliced green onion, sliced celery, or chopped green pepper) and 1/8 teaspoon dried basil, crushed, in 1 tablespoon margarine. Spoon filling across center of omelet. Sprinkle grated Parmesan, shredded cheddar, or crumbled feta cheese atop filling before folding omelet."
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "omelet",
+        "french"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5311 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 261,
+          "fat_g": 23,
+          "protein_g": 12,
+          "carbs_g": 1,
+          "cholesterol_mg": 540,
+          "sodium_mg": 550
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "denver-omelet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Denver Omelet",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 150",
+      "description": "Chock-full of bright garden vegetables and ham. (Pictured on page 141.)",
+      "servings_yield": "2 or 3 servings",
+      "ingredients": [
+        {
+          "item": "Puffy Omelet",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, opposite"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "medium green pepper, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "green onions, bias sliced",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "fully cooked ham, cut into strips",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "1/4-inch long"
+        },
+        {
+          "item": "cherry tomatoes, halved",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Puffy Omelet (see recipe, opposite). Prepare filling while omelet is baking."
+        },
+        {
+          "step": 2,
+          "text": "For filling, in a skillet melt 2 tablespoons margarine or butter. Add 1 cup sliced fresh mushrooms; 1 medium green pepper, chopped; 4 green onions, bias sliced; and 1/2 teaspoon dried basil, crushed. Cook till tender but not brown. Stir in 3 ounces fully cooked ham, cut into 1/4-inch-long strips (1/2 cup), and 1/2 cup cherry tomatoes, halved. Heat through. Remove omelet from the oven. Fill omelet with ham mixture before folding. Makes 2 or 3 servings."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "eggs",
+        "breakfast",
+        "omelet",
+        "denver",
+        "ham"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5311 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 416,
+          "fat_g": 31,
+          "protein_g": 23,
+          "carbs_g": 11,
+          "cholesterol_mg": 859,
+          "sodium_mg": 572
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
@@ -1878,148 +1565,313 @@
       }
     },
     {
-      "id": "creamy-poached-eggs-bhg",
+      "id": "choose-a-flavor-quiche",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
-      "title": "Creamy Poached Eggs",
+      "title": "Choose-a-Flavor Quiche",
       "category": "eggs",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 143",
-      "servings_yield": "Serves 4",
+      "source_note": "Better Homes and Gardens cookbook, page 154",
+      "description": "Mix and match the meat and cheese to suit your fancy, or rely on the classic bacon and Swiss cheese combination in Quiche Lorraine.",
+      "servings_yield": "6 servings",
       "ingredients": [
         {
-          "item": "English muffins or bagels, split",
-          "quantity": "2",
+          "item": "Pastry for Single-Crust Pie",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "see recipe, page 293"
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "3",
           "unit": ""
         },
         {
-          "item": "shredded American cheese",
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced green onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "chopped cooked chicken, crabmeat, or ham",
           "quantity": "3/4",
           "unit": "cup"
         },
         {
-          "item": "package cream cheese with chives, cut up",
+          "item": "shredded Swiss, cheddar, Monterey Jack, or Havarti cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "6 ounces"
+        },
+        {
+          "item": "all-purpose flour",
           "quantity": "1",
-          "unit": "3-oz"
-        },
-        {
-          "item": "milk",
-          "quantity": "1/2",
-          "unit": "cup"
-        },
-        {
-          "item": "eggs",
-          "quantity": "4",
-          "unit": ""
+          "unit": "tbsp"
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "Toast muffins or bagels. In a medium skillet combine cheeses, milk, and 1/8 teaspoon pepper. Cook and stir over medium heat till cheeses melt."
+          "text": "Prepare Pastry for Single-Crust Pie. Line the unpricked pastry shell with a double thickness of heavy-duty foil. Bake in a 450\u00b0 oven for 5 minutes. Remove foil. Bake for 5 to 7 minutes more or till pastry is nearly done. Remove from the oven. Reduce oven temperature to 325\u00b0."
         },
         {
           "step": 2,
-          "text": "Break 1 egg into a cup. Carefully slide egg into cheese mixture. Repeat with remaining eggs. Cover; cook over medium-low heat for 3 to 5 minutes or to desired doneness. Top each muffin or bagel half with an egg. Stir cheese mixture with a wire whisk. Spoon over eggs. Serves 4."
+          "text": "Meanwhile, in a bowl stir together eggs, milk, onion, salt, pepper, and nutmeg. Stir in chicken, crabmeat, or ham. Toss together shredded cheese and flour. Add to egg mixture; mix well."
+        },
+        {
+          "step": 3,
+          "text": "Pour egg mixture into hot pastry shell. Bake in the 325\u00b0 oven for 35 to 40 minutes or till a knife inserted near the center comes out clean. If necessary, cover edge of crust with foil to prevent overbrowning. Let stand for 10 minutes. Serves 6."
         }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C) then 325\u00b0F (165\u00b0C)",
+      "notes": [
+        "Quiche Lorraine: Prepare as above, except omit green onion and chicken, crabmeat, or ham. Cook 6 slices bacon till crisp. Drain, reserving 2 tablespoons drippings. Crumble bacon; set aside. Cook 1 medium onion, sliced, in drippings over medium heat till tender; drain. Add bacon, onion, and Swiss-cheese-flour mixture to egg mixture.",
+        "Individual Quiche Casseroles: Prepare as above, except omit pastry and chicken, crabmeat, or ham. Pour egg mixture into four 10-ounce custard cups. Place custard cups in a 13x9x2-inch baking pan on an oven rack. Pour boiling water around cups in the pan to a depth of 1 inch. Bake in a 325\u00b0 oven for 20 to 25 minutes or till a knife inserted near centers comes out clean. Serves 4."
       ],
       "tags": [
         "eggs",
-        "breakfast",
+        "quiche",
         "brunch",
-        "quick"
+        "cheese"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5304 Large.jpeg"
+        "IMG_5315 Large.jpeg"
       ],
       "nutrition": {
         "status": "complete",
         "per_serving": {
-          "calories": 323,
-          "fat_g": 21,
-          "protein_g": 17,
-          "carbs_g": 17,
-          "cholesterol_mg": 451,
-          "sodium_mg": 320
+          "calories": 406,
+          "fat_g": 26,
+          "protein_g": 20,
+          "carbs_g": 25,
+          "cholesterol_mg": 331,
+          "sodium_mg": 181
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
       }
     },
     {
-      "id": "poached-eggs-bhg",
+      "id": "breakfast-pizza",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
-      "title": "Poached Eggs",
+      "title": "Breakfast Pizza",
       "category": "eggs",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 144",
-      "description": "Eggs Benedict (pictured below right) makes a spectacular brunch entr\u00e9e. Serve fresh fruit and sparkling water or wine to complete the menu.",
-      "servings_yield": "2 per serving",
+      "source_note": "Better Homes and Gardens cookbook, page 155",
+      "servings_yield": "6 servings",
       "ingredients": [
         {
-          "item": "Cooking oil or shortening (optional)",
-          "quantity": "",
+          "item": "refrigerated crescent rolls",
+          "quantity": "1",
+          "unit": "package (8)"
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "5",
           "unit": ""
         },
         {
-          "item": "instant chicken bouillon granules (optional)",
-          "quantity": "1 to 2",
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried oregano, crushed",
+          "quantity": "1/4",
           "unit": "tsp"
         },
         {
-          "item": "Eggs",
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "desired vegetables",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "sliced ripe olives, avocado, green onion, mushrooms, or tomato"
+        },
+        {
+          "item": "shredded cheddar, Swiss, or mozzarella cheese",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "diced fully cooked ham or cooked turkey or chicken",
           "quantity": "",
-          "unit": ""
+          "unit": "",
+          "prep_note": "optional"
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "Lightly grease a saucepan, if desired, using a 2-quart pan for 3 or 4 eggs or a 1-quart pan for 1 or 2 eggs. Add water to half-fill the pan; stir in bouillon granules, if desired. Bring water to boiling. Reduce heat to simmering (bubbles should begin to break the surface of the water)."
+          "text": "For crust, unroll 1 package (8) refrigerated crescent rolls; separate into triangles. Place triangles on a lightly greased 12-inch pizza pan with points toward center. Press triangles together to cover bottom and 1/2 inch up sides of pan. Bake in a 375\u00b0 oven for 10 to 12 minutes or till lightly browned. (Do not remove crust from the oven.)"
         },
         {
           "step": 2,
-          "text": "Break 1 egg into a measuring cup. Carefully slide egg into simmering water, holding the lip of the cup as close to the water as possible. Repeat with remaining eggs, allowing each egg an equal amount of space."
+          "text": "Meanwhile, combine 5 beaten eggs; 1/4 cup milk; 1/4 teaspoon dried oregano, crushed; and 1/8 teaspoon pepper. When crust is lightly browned, leave on oven shelf (if necessary, press down any high spots in crust). Carefully pour egg mixture onto crust. Bake for 8 to 10 minutes more or till egg mixture is almost set."
         },
         {
           "step": 3,
-          "text": "Simmer eggs, uncovered, for 3 to 5 minutes or to desired doneness. Remove with a slotted spoon. Season to taste with salt and pepper."
+          "text": "Sprinkle with 1 1/2 cups desired vegetables (sliced pitted ripe olives; sliced avocado, green onion, or mushrooms; or chopped tomato)."
         },
         {
           "step": 4,
-          "text": "Poacher-cup directions: Grease each cup of an egg-poaching pan. Place poacher cups over the pan of boiling water (water should not touch bottoms of cups). Reduce heat to simmering. Break 1 egg into a measuring cup. Carefully slide egg into a poacher cup. Repeat with remaining eggs. Cover and cook for 4 to 6 minutes or to desired doneness. Run a knife around edges to loosen eggs. Invert poacher cups to remove eggs."
+          "text": "Sprinkle with 1 1/2 cups shredded cheddar, Swiss, or mozzarella cheese; diced fully cooked ham; or chopped cooked turkey or chicken. Return to the oven and bake 3 to 5 minutes more or till cheese melts. Cut into wedges. Serves 6."
         }
       ],
-      "notes": [
-        "Eggs Benedict: Prepare as above, except, before poaching eggs, split 2 English muffins. Place muffin halves and 8 slices Canadian-style bacon on a baking sheet. Bake in a 350\u00b0 oven for 10 to 15 minutes or till muffins are toasted and bacon is hot. Keep warm. Place 4 poached eggs in a large pan of warm water to keep warm while preparing half of a recipe of Hollandaise Sauce (see recipe, page 362) or half of a recipe of Mock Hollandaise Sauce (see recipe, page 363). To serve, top each muffin half with 2 slices of bacon and an egg; spoon sauce over eggs. Sprinkle with paprika and garnish with orange slices and parsley, if desired. Serves 4."
-      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
       "tags": [
         "eggs",
         "breakfast",
-        "brunch",
-        "poached"
+        "pizza",
+        "brunch"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5305 Large.jpeg"
+        "IMG_5316 Large.jpeg"
       ],
       "nutrition": {
         "status": "complete",
         "per_serving": {
-          "calories": 148,
-          "fat_g": 10,
-          "protein_g": 12,
-          "carbs_g": 1,
-          "cholesterol_mg": 423,
-          "sodium_mg": 138
+          "calories": 325,
+          "fat_g": 25,
+          "protein_g": 15,
+          "carbs_g": 10,
+          "cholesterol_mg": 203,
+          "sodium_mg": 354
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "welsh-rarebit-breakfast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Welsh Rarebit Breakfast",
+      "category": "eggs",
+      "source_note": "Better Homes and Gardens cookbook, page 160",
+      "description": "The tangy cheese sauce also is good served over broccoli, cauliflower, and burgers.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "English muffins, split and toasted, or slices bread, toasted",
+          "quantity": "2 or 4",
+          "unit": ""
+        },
+        {
+          "item": "slices Canadian-style bacon, warmed, or 4 poached eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "see recipe, page 144"
+        },
+        {
+          "item": "slices tomato",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "shredded cheddar or American cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "6 ounces"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "",
+          "unit": "dash"
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For English muffin or toast stacks, place muffin halves or toast slices on plates. Top each with a slice of Canadian-style bacon, then a tomato slice; or, if using poached eggs, top muffins or toast with tomato slices, then eggs. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "For cheese sauce, in a heavy medium saucepan combine cheese, milk, mustard, Worcestershire sauce, and red pepper. Cook over low heat, stirring constantly, till cheese melts."
+        },
+        {
+          "step": 3,
+          "text": "Slowly stir about half of the hot cheese sauce into beaten egg; return all to the saucepan. Cook and stir over low heat till cheese sauce thickens slightly and just bubbles."
+        },
+        {
+          "step": 4,
+          "text": "Serve cheese sauce immediately over English muffin or toast stacks. Makes 4 servings."
+        }
+      ],
+      "notes": [
+        "Beer Rarebit: Prepare as above, except substitute 8 slices crisp-cooked bacon, drained and halved crosswise, for the Canadian-style bacon or poached egg. Substitute beer for the milk."
+      ],
+      "tags": [
+        "eggs",
+        "breakfast",
+        "cheese",
+        "welsh rarebit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5322 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 304,
+          "fat_g": 18,
+          "protein_g": 23,
+          "carbs_g": 20,
+          "cholesterol_mg": 637,
+          "sodium_mg": 130
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []

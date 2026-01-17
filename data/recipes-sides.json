@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "sides",
-    "count": 110,
+    "count": 113,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -10511,6 +10511,297 @@
         "stuffed",
         "appetizer",
         "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-4-cottage-cheese",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Appalachian Cottage Cheese",
+      "category": "sides",
+      "attribution": "Foxfire 4 - Mrs. Harriet Echols & Mrs. Nora Garland",
+      "source_note": "Traditional Appalachian cottage cheese from Foxfire 4",
+      "description": "Simple homemade cottage cheese from clabbered raw milk.",
+      "servings_yield": "Variable",
+      "prep_time": "1-2 days (for clabbering)",
+      "cook_time": "Until curdled",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "raw whole milk",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": "unpasteurized"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "",
+          "unit": "optional",
+          "prep_note": "to make creamier"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour raw milk into enamel or metal pan. Set in warm place to sour slowly - 1-2 days."
+        },
+        {
+          "step": 2,
+          "text": "After milk clabbers, lift off cream and refrigerate."
+        },
+        {
+          "step": 3,
+          "text": "Heat skimmed clabbered milk over low fire until it curdles."
+        },
+        {
+          "step": 4,
+          "text": "Pour into colander or cheesecloth to drain several hours, or hang in flour sack overnight."
+        },
+        {
+          "step": 5,
+          "text": "Work cheese with hands or spoon, squeezing out remaining water."
+        },
+        {
+          "step": 6,
+          "text": "Sprinkle in salt to taste. Mix in some sour cream if desired."
+        },
+        {
+          "step": 7,
+          "text": "Package and refrigerate. Keeps several weeks."
+        }
+      ],
+      "temperature": "Low heat",
+      "pan_size": "Enamel or metal pan",
+      "notes": [
+        "Mrs. Nora Garland hung curdled milk in a clean flour sack overnight to drain."
+      ],
+      "tags": [
+        "cheese",
+        "cottage cheese",
+        "dairy",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-4-quick-cheese",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mrs. Earp's Quick Cooked Cheese",
+      "category": "sides",
+      "attribution": "Foxfire 4 - Mrs. Thelma Earp",
+      "source_note": "Traditional Appalachian cheese-making from Foxfire 4",
+      "description": "A quick cheese that can be eaten right away, cooked in a skillet until it forms a cake.",
+      "servings_yield": "1 cake of cheese",
+      "prep_time": "2 days (for clabbering)",
+      "cook_time": "15-20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "whole milk",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": "for clabbering"
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "2-3",
+          "unit": "tbsp",
+          "prep_note": "per gallon of skimmed milk"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "raw, preferably barnyard egg"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "large lump",
+          "prep_note": "about hen egg size"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Let cream rise on whole milk, skim it off for butter making."
+        },
+        {
+          "step": 2,
+          "text": "Add 2-3 tablespoons buttermilk per gallon of skimmed milk and let sit out 2 days to sour and clabber."
+        },
+        {
+          "step": 3,
+          "text": "Refrigerate clabbered milk until ready to use."
+        },
+        {
+          "step": 4,
+          "text": "Pour 2 gallons clabbered milk into pan and heat until a little hotter than lukewarm."
+        },
+        {
+          "step": 5,
+          "text": "Pour into cloth-lined strainer. Gather corners and squeeze whey through, leaving curds."
+        },
+        {
+          "step": 6,
+          "text": "Put curds in bowl, add salt and raw egg. Mix with hands."
+        },
+        {
+          "step": 7,
+          "text": "Melt butter in large iron frying pan."
+        },
+        {
+          "step": 8,
+          "text": "Add curds and keep turning over medium heat until all curds melt together into a cake."
+        },
+        {
+          "step": 9,
+          "text": "Turn out into dish to cool. It will form a cake as it cools."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "Large iron frying pan",
+      "notes": [
+        "Can be eaten right away or kept several days.",
+        "Gets firm enough to slice after drying somewhat.",
+        "Keeps about a week."
+      ],
+      "tags": [
+        "cheese",
+        "dairy",
+        "appalachian",
+        "foxfire",
+        "traditional",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-4-block-cheese",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mrs. Reese's Block Cheese",
+      "category": "sides",
+      "attribution": "Foxfire 4 - Mrs. Monroe Reese",
+      "source_note": "Traditional Appalachian cheese-making from Foxfire 4, Vilas, North Carolina",
+      "description": "Traditional rennet cheese pressed into firm blocks that keep well for a month or more.",
+      "servings_yield": "1 block of cheese",
+      "prep_time": "1 hour",
+      "cook_time": "",
+      "total_time": "Overnight pressing + 1 week drying",
+      "ingredients": [
+        {
+          "item": "whole milk",
+          "quantity": "2 1/2",
+          "unit": "gallon",
+          "prep_note": "refrigerated, from cow"
+        },
+        {
+          "item": "Hansen's Cheese Rennet Tablet",
+          "quantity": "1/4",
+          "unit": "tablet",
+          "prep_note": "dissolved in 1 teacup water"
+        },
+        {
+          "item": "Hansen's Cheese Color Tablet",
+          "quantity": "1/8",
+          "unit": "tablet",
+          "prep_note": "dissolved in 1 teacup water"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "heaping tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour milk into a large pan and heat on wood stove until a little past lukewarm."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat and add the dissolved rennet and color tablets."
+        },
+        {
+          "step": 3,
+          "text": "Let sit 15-30 minutes until milk stiffens and becomes jellylike."
+        },
+        {
+          "step": 4,
+          "text": "Cut with knife or spatula into tiny squares, also running spatula under surface as if cutting into layers."
+        },
+        {
+          "step": 5,
+          "text": "Let sit briefly, then work mixture gently until broken into pieces about the size of corn kernels."
+        },
+        {
+          "step": 6,
+          "text": "Return pan to stove and heat slowly until almost as hot as touch can stand (not boiling), stirring constantly."
+        },
+        {
+          "step": 7,
+          "text": "Remove from heat and let sit 15-30 minutes to cool."
+        },
+        {
+          "step": 8,
+          "text": "Strain through cheesecloth in colander. Let drip naturally (don't squeeze)."
+        },
+        {
+          "step": 9,
+          "text": "Return curds to pan, add salt, and massage in well."
+        },
+        {
+          "step": 10,
+          "text": "Put into cheesecloth-lined press. Add weight in stages and leave overnight (12 hours)."
+        },
+        {
+          "step": 11,
+          "text": "Remove from press and dry in open air for one week, turning twice daily."
+        }
+      ],
+      "temperature": "Lukewarm to hot (not boiling)",
+      "pan_size": "Large pan",
+      "notes": [
+        "Before rennet tablets, a small piece of dried cow stomach lining was used.",
+        "Cheese keeps well for a month or more."
+      ],
+      "tags": [
+        "cheese",
+        "dairy",
+        "appalachian",
+        "foxfire",
+        "traditional",
+        "homestead"
       ],
       "confidence": {
         "overall": "high",

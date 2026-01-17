@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "condiments",
-    "count": 23,
+    "count": 24,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -2433,6 +2433,88 @@
           "Based on 5/5 ingredients (100% coverage)"
         ]
       }
+    },
+    {
+      "id": "foxfire-4-sassafras-jelly",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sassafras Jelly",
+      "category": "condiments",
+      "attribution": "Foxfire 4 - Pearl",
+      "source_note": "Traditional Appalachian recipe from Foxfire 4",
+      "description": "A unique jelly made from sassafras root tea.",
+      "servings_yield": "Several jars",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sassafras tea",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": "from 4 roots boiled in 1 gallon water 15-20 min"
+        },
+        {
+          "item": "Sure-Jell",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "8",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make tea: Boil 4 sassafras roots in 1 gallon water for 15-20 minutes. Strain."
+        },
+        {
+          "step": 2,
+          "text": "Mix Sure-Jell with 8 cups sassafras tea in large saucepan."
+        },
+        {
+          "step": 3,
+          "text": "Bring quickly to a hard boil, stirring occasionally."
+        },
+        {
+          "step": 4,
+          "text": "Add 8 cups sugar and bring to a full rolling boil."
+        },
+        {
+          "step": 5,
+          "text": "Boil hard one minute, stirring constantly."
+        },
+        {
+          "step": 6,
+          "text": "Skim off foam with metal spoon."
+        },
+        {
+          "step": 7,
+          "text": "Pour at once into jelly jars and seal with paraffin."
+        }
+      ],
+      "temperature": "High (rolling boil)",
+      "pan_size": "Large saucepan",
+      "notes": [
+        "The stronger the tea, the stronger the jelly flavor."
+      ],
+      "tags": [
+        "jelly",
+        "preserves",
+        "sassafras",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }
