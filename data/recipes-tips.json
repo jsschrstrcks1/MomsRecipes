@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "tips",
-    "count": 92,
+    "count": 102,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -1976,6 +1976,227 @@
         "missing_inputs": [],
         "assumptions": [
           "Informational content without specific recipe"
+        ]
+      }
+    },
+    {
+      "id": "broiling-meat-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broiling Meat Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 257",
+      "content": "Broiling Meat Guide - Place meat on the unheated rack of a broiler pan. Broil 3 to 4 inches from heat for cuts less than 1 1/2 inches thick, broil 3 inches from the heat. For cuts 1 1/2 inches or thicker, broil 4 to 5 inches from the heat.\n\nBEEF:\n- Flank steak (3/4 inch): Medium 12-14 min\n- Steak (chuck blade, top round): 1 inch - Rare 12-14 min, Medium 16-20 min, Well-done 22-26 min; 1 1/2 inch - Rare 18-22 min, Medium 25-30 min, Well-done 31-36 min\n- Steak (top loin, porterhouse, T-bone, sirloin, rib eye): 1 inch - Rare 8-12 min, Medium 13-17 min, Well-done 18-22 min; 1 1/2 inch - Rare 14-18 min, Medium 19-23 min, Well-done 23-28 min\n\nVEAL:\n- Loin/Rib Chop (3/4 inch): Well-done 8-10 min\n\nLAMB:\n- Chop (1 inch): Rare 8-10 min, Medium 10-12 min, Well-done 14-16 min\n\nPORK:\n- Blade steak (3/4 inch): Well-done 12-14 min\n- Canadian-style bacon (1/4 inch): Heated 3-5 min\n\nMISCELLANEOUS:\n- Chop (3/4 to 1 inch): Well-done 12-14 min, Well-done 24-28 min\n- Ham slice (1 inch): Heated 14-18 min\n- Bratwurst, fresh: Well-done 10-12 min\n- Frankfurters: Heated 3-5 min\n- Ground-meat patties (beef, lamb, pork) (3/4 inch, 4 to a pound): Medium/Well-done 12-14 min, 15-18 min",
+      "image_refs": [
+        "IMG_5417 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "direct-grilling-meat-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Direct-Grilling Meat Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 256",
+      "content": "Direct-Grilling Meat Guide - Test for desired coal temperature. Place meat on grill rack, uncovered, directly over preheated coals. Grill for time given, turning once halfway through.\n\nGuide includes cooking times for various cuts of beef, veal, lamb, pork, and ground meats at different thicknesses and doneness levels. For steaks: \n- 1-inch thick: Rare 8-12 min, Medium 12-15 min\n- 1 1/2-inch thick: Rare 14-18 min, Medium 18-22 min\n\nFor hamburgers: 3/4-inch patties grill 10-13 minutes for medium.",
+      "image_refs": [
+        "IMG_5416 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-rice-and-grains-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Rice and Grains Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 277",
+      "content": "Cooking Rice and Grains Guide:\n\nOATS, steel cut (1 cup): 2 1/2 cups water, simmer 20-25 minutes. Yield: 2 3/4 cups\n\nRICE, brown (1 cup): 2 cups water, simmer about 35 minutes, let stand covered for 5 minutes. Yield: 2 2/3 cups\n\nRICE, long grain (1 cup): 2 cups water, simmer about 15 minutes, let stand covered for 5 minutes. Yield: 3 cups\n\nRICE, quick cooking (1 cup): 1 cup water, add to boiling water, remove from heat, let stand covered for 5 minutes. Yield: 2 cups\n\nRICE, wild (1 cup): 2 cups water, rinse rice well, add to boiling water, simmer about 40 minutes, drain if necessary. Yield: 2 1/2 cups\n\nRYE BERRIES (1 cup): 3 cups water, add to cold water, bring to boiling, cover and simmer about 1 hour, drain. Or for quicker cooking, soak berries in 3 cups water in refrigerator for 6 to 24 hours, do not drain, bring to boiling, reduce heat, cover and simmer for 30 minutes. Yield: 2 1/2 cups\n\nWHEAT, cracked (2/3 cup): 1 1/2 cups water, add to cold water, bring to boiling, cover and simmer for 12 to 15 minutes, let stand covered for 5 minutes. Yield: 2 cups\n\nWHEAT BERRIES (3/4 cup): 2 1/2 cups water, add to cold water, bring to boiling, cover and simmer for 45 to 60 minutes, drain. Or for quicker cooking, see rye berries above. Yield: 2 cups",
+      "image_refs": [
+        "IMG_5438 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-fresh-vegetables-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Fresh Vegetables Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 413",
+      "content": "Cooking Fresh Vegetables Guide - Includes preparation and cooking times for range-top, oven, and microwave methods.\n\nARTICHOKES: Wash, trim stems. Cut 1 inch off top, snip sharp tips. Brush with lemon. Range-top: Cook covered in boiling salted water 20-30 min. Microwave: 5-7 min per artichoke.\n\nASPARAGUS: Wash, scrape off scales. Break off woody bases. Range-top: Cook covered in small amount boiling salted water 4-8 min. Microwave: 3-5 min per pound.\n\nBEANS (green, wax): Wash, remove ends. Leave whole or cut. Range-top: Cook covered 15-20 min. Oven: 350\u00b0F for 45-60 min. Microwave: 8-12 min per pound.\n\nBEETS: Cut off tops, leave 1 inch stem. Scrub. Range-top: Cook covered 35-50 min. Oven: Wrap in foil, 375\u00b0F for 1-1 1/4 hours.\n\nBROCCOLI: Wash, remove outer leaves and tough stem. Cut into spears. Range-top: Cook covered 10-15 min. Microwave: 5-7 min per pound.\n\nBRUSSELS SPROUTS: Trim stems, remove wilted leaves. Range-top: Cook covered 10-15 min. Microwave: 4-6 min per pound.",
+      "image_refs": [
+        "IMG_5572 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "sausage-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sausage Identification Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 236",
+      "content": "Visual guide to common sausage varieties:\n\nTop row (left to right): Frankfurter, knockwurst, bratwurst (fresh), Sage sausage, smoked bratwurst\n\nSecond row: Liver sausage, braunschweiger, fully cooked bratwurst, blood sausage\n\nThird row: Bologna, Polish sausage, cooked salami\n\nFourth row: Cervelat, Genoa salami, pepperoni link and slices\n\nBottom row: Hard salami, summer sausage\n\nNote: Bratwurst, pork link, chorizo, Boudin (shown in column) are fresh/smoked varieties. Italian sausage comes in hot and mild varieties.",
+      "image_refs": [
+        "IMG_5396 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "identifying-hams-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Identifying Hams Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 235",
+      "content": "Ham Identification Guide:\n\nFULLY COOKED HAM: The most popular kind of ham is fully cooked ham. It is ready to eat when you buy it. If you want to serve the ham hot, just heat it to 140\u00b0F (see page 255).\n\nCOOK-BEFORE-EATING HAM: Hams labeled cook-before-eating are not completely cooked during processing. They should be cooked to 160\u00b0F before eating.\n\nCOUNTRY HAMS: Country or country-style hams are distinctively flavored and usually require soaking. They are cured and may or may not be smoked, and are usually aged.\n\nOther notes: Hams generally are available in boneless, bone-in (full shank or butt portion), spiral sliced, or canned forms. Follow package directions for best results. Turkey ham is available as a leaner alternative. Key ham types include that is smoked and cured to taste like pork ham. It's available in large pieces or as cold cuts. To serve it hot, heat it to 140\u00b0F.",
+      "image_refs": [
+        "IMG_5395 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "pasta-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pasta Identification Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, pages 264-265",
+      "content": "Visual guide to pasta varieties:\n\nROW 1: Acini di pepe, Alphabets, Bean threads, Bow ties (tiny), Bow ties (farfalle), Capellini, Capellini (nested), Cavatelli\n\nROW 2: Chow mein noodles, Couscous, Ditalini (thimbles), Egg roll wrappers, Fettuccine, Gemelli, Kluski, Lasagna\n\nROW 3: Linguine, Macaroni (elbow), Macaroni (four-color), Mafalda, Manicotti, Mostaccioli, Noodles (fine), Noodles (medium)\n\nROW 4: Noodles (spinach), Noodles (whole wheat), Noodles (wide), Orzo (rosamarina), Ravioli, Rice sticks, Rigatoni, Rings\n\nROW 5: Rotini, Rotini (tricolor), Shells (jumbo), Shells (large), Shells (medium), Shells (small), Spaetzle, Spaghetti\n\nROW 6: Spaghetti (thin), Spaghetti (twisted), Stars, Tortellini, Vermicelli (nested), Wagon wheels (ruote), Wonton skins, Ziti",
+      "image_refs": [
+        "IMG_5425 Large.jpeg",
+        "IMG_5426 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "rice-and-grains-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice and Grains Identification Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 271",
+      "content": "Visual guide to rice and grain varieties:\n\nRICE: Wild rice, Brown rice, Long grain rice, Medium grain rice, Quick cooking rice\n\nGRAINS: Wheat berries, Wheat bran, Wheat germ (toasted), Whole wheat flour, Wheat (cracked), Rye berries, Rye flour, Hominy grits, Bulgur, Barley (pearl), Barley (quick cooking), 100% bran cereal, Cornmeal (white), Cornmeal (yellow), Buckwheat flour, Buckwheat groats, Oats (rolled quick), Oats (rolled regular), Farina",
+      "image_refs": [
+        "IMG_5432 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-pasta-times-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Pasta Times Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 278",
+      "content": "Cooking Pasta Guide:\n\nIn a large saucepan or Dutch oven bring water (about 3 quarts water for 4 to 8 ounces of pasta) to boiling. If desired, add 1 teaspoon salt and 1 tablespoon olive oil or cooking oil to help keep the pasta separated. Add the pasta a little at a time so the water does not stop boiling. Hold at long pasta, such as spaghetti, at one end and dip the other end into the water. As the pasta softens, gently curl it around the pan and down into the water. Reduce the heat slightly and boil, uncovered, for the time specified or till the pasta is al dente (tender but still firm). Stir occasionally. Test often for doneness near the end of the cooking time. Drain in a colander.\n\nHOMEMADE PASTA COOKING TIMES:\nBow ties (tiny): 2 to 3 minutes | Bow ties (farfalle): 2 to 3 minutes | Fettuccine: 1 1/2 to 2 minutes | Lasagna: 2 to 3 minutes | Linguine: 1 1/2 to 2 minutes | Manicotti: 2 to 3 minutes | Noodles: 1 1/2 to 2 minutes | Ravioli: 6 to 8 minutes | Spaetzle: 5 to 10 minutes | Tagliatelle: 1 1/2 to 2 minutes | Tortellini: 8 to 10 minutes | Tripolini: 2 to 3 minutes\n\nPACKAGED PASTA COOKING TIMES:\nAcini di pepe: 5 to 6 min | Alphabets: 5 to 8 min | Bow ties (tiny): 5 to 6 min | Bow ties (farfalle): 10 min | Capellini: 5 to 6 min | Cavatelli: 12 min | Ditalini: 7 to 9 min | Fettuccine: 8 to 10 min | Gemelli: 10 min | Lasagna: 10 to 12 min | Linguine: 8 to 10 min | Macaroni (elbow): 10 min | Mafalda: 10 to 12 min | Manicotti: 18 min | Mostaccioli: 14 min | Noodles: 6 to 8 min | Orzo: 5 to 8 min | Rigatoni: 15 min | Rings: 8 to 10 min | Rotini: 8 to 10 min | Shells (jumbo): 23 to 25 min | Shells (large): 12 to 14 min | Shells (small): 8 to 9 min | Spaetzle: 10 to 12 min | Spaghetti: 10 to 12 min | Spaghetti (thin): 8 to 10 min | Spaghetti (twisted): 15 min | Stars: 5 to 8 min | Tortellini: 15 min | Vermicelli: 5 to 7 min | Wagon wheels: 12 min | Ziti: 14 to 15 min\n\n*If homemade pasta is dried or frozen, allow a few more minutes.",
+      "image_refs": [
+        "IMG_5439 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "defrosting-poultry-microwave-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Defrosting Poultry in the Microwave Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 326",
+      "content": "Defrosting Poultry in the Microwave:\n\nPlace whole bird, unwrapped, breast side down, in a baking dish. Remove the metal clamp, if present, and the giblets packet as soon as possible. Place poultry pieces, unwrapped, in a baking dish.\n\nDefrost on 30% power (medium-low) for the time specified. After half of the defrosting time, turn whole bird breast side up. (Or, separate, rearrange, and turn pieces over, putting icy parts near the dish edges.) If some areas thaw faster, shield them with small pieces of foil (check your owner's manual to see if foil is allowed in your oven). If the poultry starts to cook on the edges, immediately remove it from the oven and place it in cold water for the specified standing time. (Some birds and roasts need additional defrosting time after standing, as indicated.) Poultry must be completely thawed before cooking. It should feel soft and moist but still cold.\n\nDEFROSTING TIMES:\nChicken, broiler-fryer, cut up (2\u00bd to 3 lb): 15-17 min defrost, 10 min standing\nChicken, broiler-fryer, whole (2\u00bd to 3 lb): 20-25 min defrost, 30 min standing\nChicken, roasting, whole (3\u00bd to 4 lb): 25-30 min defrost, 30 min standing\nChicken breasts, whole (one 12 oz or two 12 oz): 6-7 min / 12-14 min defrost, 15 min standing\nChicken drumsticks (2 or 6): 5-7 min / 10-12 min defrost, 5 min standing\nChicken pieces, \u00be inch thick (1 lb): 8-12 min defrost\nCornish game hen, whole (one 1 to 1\u00bd lb or two 1 to 1\u00bd lb): 8-10 min / 12-15 min defrost, 30 min standing\nDuckling, domestic, whole (4 to 5 lb): 25 min defrost, 30 min standing*\nTurkey, ground raw (1 lb): 10-12 min defrost, 5 min standing\nTurkey, whole (8 lb or 10 lb): 25 min / 30 min defrost, 30 min standing*\nTurkey breast half (3 to 4 lb): 20-25 min defrost, 40-45 min standing\nTurkey breast tenderloin steaks (four 4-oz steaks): 8-10 min defrost\nTurkey drumstick (one 1-lb drumstick): 9-11 min defrost\nTurkey roast, boneless (3 to 3\u00bd lb): 20-25 min defrost, 15 min standing*\n\n*Note: After standing, defrost these birds for additional time: 4- to 5-pound duckling, 10 to 15 minutes; 3- to 3\u00bd-pound turkey roast, 10 to 15 minutes; 10-pound turkey, 30 minutes; 8-pound turkey, 20 minutes. Turn halfway through both defrosting cycles. Let stand approximately as long as the first standing time.",
+      "image_refs": [
+        "IMG_5489 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
         ]
       }
     }
