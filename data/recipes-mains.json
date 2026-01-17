@@ -24674,2276 +24674,1556 @@
       }
     },
     {
-      "id": "mexican-pork-chops-bhg",
+      "id": "seafood-luncheon-dish-fbc-jasmine",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
-      "title": "Mexican Pork Chops",
+      "title": "Seafood Luncheon Dish",
       "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 232",
-      "description": "Pork chops baked with stewed tomatoes, kidney beans, green chili, and rice.",
-      "servings_yield": "4 servings",
-      "prep_time": "15 minutes",
-      "cook_time": "50-60 minutes",
-      "total_time": "1 hour 15 minutes",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A baked seafood casserole with shrimp, crab, and tuna in a creamy mushroom sauce.",
+      "servings_yield": "4-6 servings",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
       "ingredients": [
         {
-          "item": "pork loin chops",
-          "quantity": "4",
-          "unit": "",
-          "prep_note": "cut 3/4 inch thick"
-        },
-        {
-          "item": "cooking oil",
+          "item": "shrimp",
           "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
+          "unit": "can",
+          "prep_note": "6 1/2 oz."
         },
         {
-          "item": "stewed tomatoes",
-          "quantity": "14 1/2",
-          "unit": "oz can",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "red kidney beans",
-          "quantity": "8",
-          "unit": "oz can",
-          "prep_note": "drained"
-        },
-        {
-          "item": "long grain rice",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "diced green chili peppers",
-          "quantity": "4",
-          "unit": "oz can",
-          "prep_note": "drained"
-        },
-        {
-          "item": "chili powder",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "bottled hot pepper sauce",
-          "quantity": "few dashes",
-          "unit": "",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Trim fat from meat. In a large skillet brown chops in hot oil about 5 minutes on each side. Remove chops."
-        },
-        {
-          "step": 2,
-          "text": "Drain fat. In the same skillet combine undrained tomatoes, cooked rice, kidney beans, rice, chili peppers, chili powder, and hot pepper sauce."
-        },
-        {
-          "step": 3,
-          "text": "Transfer to a 12x7 1/2x2-inch baking dish. Arrange chops on top. Sprinkle with salt and pepper."
-        },
-        {
-          "step": 4,
-          "text": "Bake, covered, in 350\u00b0F oven for 30 minutes. Uncover; bake for 15 to 20 minutes more or till rice is tender and chops are no longer pink. Serves 4."
-        }
-      ],
-      "temperature": "350\u00b0F (175\u00b0C)",
-      "pan_size": "12x7 1/2x2-inch baking dish",
-      "notes": [],
-      "tags": [
-        "pork",
-        "mexican",
-        "casserole",
-        "one-dish"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5392 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "creamy-pork-chops-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Creamy Pork Chops",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 232",
-      "description": "Pork chops in a creamy mushroom and sour cream sauce.",
-      "servings_yield": "4 servings",
-      "prep_time": "15 minutes",
-      "cook_time": "45 minutes",
-      "total_time": "1 hour",
-      "ingredients": [
-        {
-          "item": "pork loin chops",
-          "quantity": "4",
-          "unit": "",
-          "prep_note": "cut 3/4 inch thick"
-        },
-        {
-          "item": "margarine or butter",
+          "item": "crab",
           "quantity": "1",
-          "unit": "tbsp",
+          "unit": "can",
           "prep_note": ""
         },
         {
-          "item": "finely chopped carrot",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "snipped parsley",
+          "item": "tuna",
           "quantity": "1",
-          "unit": "tbsp",
+          "unit": "can",
           "prep_note": ""
         },
         {
-          "item": "all-purpose flour",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "dried basil, thyme, or tarragon",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "instant beef bouillon granules",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "light cream or milk",
-          "quantity": "2/3",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "dry white wine or water",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "mushrooms",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "sliced"
-        },
-        {
-          "item": "dairy sour cream",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Trim fat from meat. In a large skillet cook chops with margarine or butter over medium heat for 5 minutes."
-        },
-        {
-          "step": 2,
-          "text": "Turn chops and add carrot. Cook for 5 to 7 minutes more or till no pink remains, turning once."
-        },
-        {
-          "step": 3,
-          "text": "Remove chops; keep warm. For sauce, stir parsley, flour, herb, and bouillon into drippings in skillet."
-        },
-        {
-          "step": 4,
-          "text": "Add cream and wine. Cook and stir till thickened and bubbly. Add mushrooms; cook 1 minute more."
-        },
-        {
-          "step": 5,
-          "text": "Stir in sour cream; heat through but do not boil. Season to taste with salt and pepper. Serve over chops."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "large skillet",
-      "notes": [],
-      "tags": [
-        "pork",
-        "creamy",
-        "mushroom",
-        "skillet"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5392 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "pork-herbed-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Pork Herbed",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 232",
-      "description": "Quick herbed pork chops with American cheese.",
-      "servings_yield": "4 servings",
-      "prep_time": "5 minutes",
-      "cook_time": "10 minutes",
-      "total_time": "15 minutes",
-      "ingredients": [
-        {
-          "item": "pork loin chops",
-          "quantity": "4",
-          "unit": "",
-          "prep_note": "cut 3/4 inch thick"
-        },
-        {
-          "item": "condensed cream of mushroom or celery soup",
-          "quantity": "10 3/4",
-          "unit": "oz can",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "ground beef (for ground)",
-          "quantity": "1/2",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "elbow macaroni",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "small shell"
-        },
-        {
-          "item": "shredded American cheese",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "Worcestershire sauce",
+          "item": "salt",
           "quantity": "1",
           "unit": "tsp",
           "prep_note": ""
-        },
-        {
-          "item": "dried thyme, marjoram, or savory",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Trim fat from meat. If desired, sprinkle with salt and pepper."
-        },
-        {
-          "step": 2,
-          "text": "In a large skillet cook pork chops with marinade over medium heat for 5 minutes."
-        },
-        {
-          "step": 3,
-          "text": "Turn chops and cook 5 to 7 minutes more or till no longer pink."
-        },
-        {
-          "step": 4,
-          "text": "Serves 4."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "large skillet",
-      "notes": [
-        "FAST recipe - quick preparation"
-      ],
-      "tags": [
-        "pork",
-        "quick",
-        "easy",
-        "skillet"
-      ],
-      "confidence": {
-        "overall": "medium",
-        "flags": [
-          "Some ingredients from adjacent recipe may have mixed in during OCR"
-        ]
-      },
-      "image_refs": [
-        "IMG_5392 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "honey-orange-pork-chops-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Honey-Orange Pork Chops",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 232",
-      "description": "A blend of fruit flavors enhances the chops with honey, orange, and pineapple.",
-      "servings_yield": "4 servings",
-      "prep_time": "10 minutes",
-      "cook_time": "12-14 minutes",
-      "total_time": "25 minutes",
-      "ingredients": [
-        {
-          "item": "pork loin chops",
-          "quantity": "4",
-          "unit": "",
-          "prep_note": "cut 3/4 inch thick (about 1 1/2 pounds)"
-        },
-        {
-          "item": "peel",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "orange juice",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "pineapple juice",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "soy sauce",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "honey",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "garlic",
-          "quantity": "2",
-          "unit": "cloves",
-          "prep_note": "minced"
         },
         {
           "item": "pepper",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "finely shredded orange",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": "for garnish"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Trim fat from chops. For marinade, in a shallow baking dish combine orange juice, pineapple juice, soy sauce, honey, garlic. Add meat, turning to coat."
-        },
-        {
-          "step": 2,
-          "text": "Cover and marinate in the refrigerator for 6 to 24 hours, turning once."
-        },
-        {
-          "step": 3,
-          "text": "Remove meat from marinade, reserving marinade. Place meat on the unheated rack of a broiler pan."
-        },
-        {
-          "step": 4,
-          "text": "Broil 4 to 5 inches from the heat for 12 to 14 minutes or till no pink remains, turning once."
-        },
-        {
-          "step": 5,
-          "text": "Transfer marinade to a saucepan. Stir in cornstarch. Cook and stir till thickened and bubbly. Cook and stir 2 minutes more. Pass with chops."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [
-        "EASY recipe",
-        "Grill directions: Prepare chops as above. Grill on an uncovered grill directly over medium-hot coals for 12 to 14 minutes or till no pink remains, turn once. Continue as above."
-      ],
-      "tags": [
-        "pork",
-        "honey",
-        "orange",
-        "grilled",
-        "broiled"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5392 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "pork-kabobs-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Pork Kabobs",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 233",
-      "description": "Grilled pork kabobs with fresh vegetables and a tangy glaze.",
-      "servings_yield": "4 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "15-18 minutes",
-      "total_time": "35 minutes",
-      "ingredients": [
-        {
-          "item": "fresh ears of corn",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "cut into 1-inch pieces"
-        },
-        {
-          "item": "boneless pork",
-          "quantity": "1",
-          "unit": "lb",
-          "prep_note": "cut into 1-inch cubes"
-        },
-        {
-          "item": "green sweet red pepper",
-          "quantity": "1",
-          "unit": "large",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "apricot or peach preserves",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "lime juice",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cilantro or parsley",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": "snipped fresh"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Cook corn in boiling water for 5 minutes. Drain."
-        },
-        {
-          "step": 2,
-          "text": "On 4 long skewers, alternately thread pork, corn, and pepper."
-        },
-        {
-          "step": 3,
-          "text": "For glaze, combine preserves and lime juice; brush over kabobs."
-        },
-        {
-          "step": 4,
-          "text": "Grill kabobs on an uncovered grill directly over medium coals for 15 to 18 minutes or till meat is no longer pink, turning and brushing with glaze occasionally."
-        },
-        {
-          "step": 5,
-          "text": "Sprinkle with cilantro before serving."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [
-        "Grill directions included"
-      ],
-      "tags": [
-        "pork",
-        "kabobs",
-        "grilled",
-        "summer"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5393 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "pork-chop-suey-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Pork Chop Suey",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 233",
-      "description": "Classic Chinese-American stir-fry with pork and vegetables served over rice.",
-      "servings_yield": "4 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "15 minutes",
-      "total_time": "35 minutes",
-      "ingredients": [
-        {
-          "item": "lean boneless pork",
-          "quantity": "1",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "soy sauce",
-          "quantity": "3",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "dry sherry or water",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cornstarch",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "instant chicken bouillon",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cooking oil",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "ginger",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "celery",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "thinly bias-sliced"
-        },
-        {
-          "item": "fresh mushrooms",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": "sliced"
-        },
-        {
-          "item": "fresh bean sprouts",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": "or one 16-ounce can bean sprouts, drained"
-        },
-        {
-          "item": "green onions",
-          "quantity": "10",
-          "unit": "",
-          "prep_note": "bias-sliced into 1-inch pieces"
-        },
-        {
-          "item": "water chestnuts",
-          "quantity": "8",
-          "unit": "oz can",
-          "prep_note": "sliced, drained"
-        },
-        {
-          "item": "bamboo shoots",
-          "quantity": "8",
-          "unit": "oz can",
-          "prep_note": "drained"
-        },
-        {
-          "item": "hot cooked rice",
-          "quantity": "2 to 3",
-          "unit": "cups",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Partially freeze pork. Thinly slice across the grain into bite-size strips."
-        },
-        {
-          "step": 2,
-          "text": "For sauce, stir together soy sauce, sherry, cornstarch, bouillon, and 1 cup water."
-        },
-        {
-          "step": 3,
-          "text": "Pour oil into a wok or large skillet. Preheat over high heat. Stir-fry ginger in hot oil for 15 seconds."
-        },
-        {
-          "step": 4,
-          "text": "Add celery; stir-fry for 2 minutes. Add mushrooms, bean sprouts, green onions, water chestnuts, and bamboo shoots. Stir-fry for 2 minutes more. Remove vegetables."
-        },
-        {
-          "step": 5,
-          "text": "Add more oil if necessary. Add pork to wok. Stir-fry for 2 to 3 minutes or till no pink remains."
-        },
-        {
-          "step": 6,
-          "text": "Push pork from center of wok. Stir sauce; add to center of wok. Cook and stir till thickened and bubbly."
-        },
-        {
-          "step": 7,
-          "text": "Return vegetables to wok. Stir all ingredients together to coat with sauce; heat through. Serve over hot cooked rice."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "wok or large skillet",
-      "notes": [],
-      "tags": [
-        "pork",
-        "chinese",
-        "stir-fry",
-        "asian"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5393 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "pork-mediterranean-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Pork Mediterranean",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 233",
-      "description": "Pork tenderloin with Mediterranean flavors including tomatoes, olives, and herbs.",
-      "servings_yield": "4 servings",
-      "prep_time": "15 minutes",
-      "cook_time": "45 minutes",
-      "total_time": "1 hour",
-      "ingredients": [
-        {
-          "item": "boneless pork",
-          "quantity": "1",
-          "unit": "lb",
-          "prep_note": "cut into 1-inch cubes"
-        },
-        {
-          "item": "cooking oil",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "onion",
-          "quantity": "1",
-          "unit": "large",
-          "prep_note": "sliced and separated"
-        },
-        {
-          "item": "cloves garlic",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "minced"
-        },
-        {
-          "item": "Italian-style tomatoes",
-          "quantity": "16",
-          "unit": "oz can",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "chicken bouillon granules",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "dried thyme",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "sliced ripe olives",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": "drained"
-        },
-        {
-          "item": "snipped parsley",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": "optional"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "hot cooked noodles",
-          "quantity": "4",
-          "unit": "cups",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a large skillet brown pork with onion rings in hot oil. Stir in undrained tomatoes, bouillon, thyme, and 1/4 teaspoon pepper."
-        },
-        {
-          "step": 2,
-          "text": "Bring to boiling; reduce heat. Cover; simmer 45 minutes or till tender."
-        },
-        {
-          "step": 3,
-          "text": "Stir in mushrooms, olives, and parsley. Combine flour and 1/4 cup cold water; stir into pork mixture."
-        },
-        {
-          "step": 4,
-          "text": "Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Serve over hot cooked noodles."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "large skillet",
-      "notes": [],
-      "tags": [
-        "pork",
-        "mediterranean",
-        "italian",
-        "olives"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5393 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "sweet-and-sour-pork-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Sweet-and-Sour Pork",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 234",
-      "description": "Classic Chinese sweet and sour pork with pineapple chunks.",
-      "servings_yield": "4 servings",
-      "prep_time": "25 minutes",
-      "cook_time": "15 minutes",
-      "total_time": "40 minutes",
-      "ingredients": [
-        {
-          "item": "pineapple chunks",
-          "quantity": "8",
-          "unit": "oz can",
-          "prep_note": "juice pack"
-        },
-        {
-          "item": "sugar",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "cornstarch",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "vinegar",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "soy sauce",
-          "quantity": "3",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "chicken bouillon granules",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "beaten eggs",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": ""
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "boneless pork",
-          "quantity": "1",
-          "unit": "lb",
-          "prep_note": "cut into 1-inch cubes"
-        },
-        {
-          "item": "shortening or cooking oil",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "for frying"
-        },
-        {
-          "item": "medium carrots",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "thinly bias sliced"
-        },
-        {
-          "item": "medium green pepper",
-          "quantity": "1",
-          "unit": "",
-          "prep_note": "cut into 3/4-inch pieces"
-        },
-        {
-          "item": "cloves garlic",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "minced"
-        },
-        {
-          "item": "hot cooked rice",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "For sauce, drain pineapple, reserving juice. Add enough water to juice to equal 1 1/2 cups. Set aside."
-        },
-        {
-          "step": 2,
-          "text": "In a bowl combine sugar and cornstarch. Stir in the pineapple juice, vinegar, soy sauce, and bouillon. Set sauce aside."
-        },
-        {
-          "step": 3,
-          "text": "For batter, in a bowl combine eggs, flour, and 2 tablespoons water till smooth. Dip pork cubes in batter."
-        },
-        {
-          "step": 4,
-          "text": "Fry pork, a few pieces at a time, in deep hot fat (365\u00b0F) for 4 to 5 minutes or till golden. Drain on paper towels."
-        },
-        {
-          "step": 5,
-          "text": "Pour 1 tablespoon oil into wok. Add carrots and green pepper; stir-fry for 3 minutes. Add garlic; stir-fry 1 minute more."
-        },
-        {
-          "step": 6,
-          "text": "Stir sauce; add to wok. Cook and stir till thickened and bubbly. Add pork and pineapple; heat through. Serve over rice."
-        }
-      ],
-      "temperature": "365\u00b0F for deep frying",
-      "pan_size": "wok",
-      "notes": [],
-      "tags": [
-        "pork",
-        "chinese",
-        "sweet-and-sour",
-        "asian",
-        "deep-fried"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5394 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "cashew-pork-and-pea-pods-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cashew Pork and Pea Pods",
-      "category": "mains",
-      "subcategory": "pork",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 234",
-      "description": "Stir-fried pork with snow peas and cashews in an orange ginger sauce.",
-      "servings_yield": "4 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "10 minutes",
-      "total_time": "30 minutes",
-      "ingredients": [
-        {
-          "item": "boneless pork",
-          "quantity": "3/4",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "orange juice concentrate",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": "thawed"
-        },
-        {
-          "item": "soy sauce",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cornstarch",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "ground ginger",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cooking oil",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "fresh pea pods",
-          "quantity": "6",
-          "unit": "oz",
-          "prep_note": "or one 6-ounce package frozen pea pods, thawed"
-        },
-        {
-          "item": "small green onions",
-          "quantity": "4",
-          "unit": "",
-          "prep_note": "cut into 1-inch pieces"
-        },
-        {
-          "item": "cashews or peanuts",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "hot cooked rice",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Partially freeze pork. Thinly slice across the grain into bite-size strips."
-        },
-        {
-          "step": 2,
-          "text": "For sauce, combine orange juice concentrate, soy sauce, cornstarch, ginger, and 1/4 cup water."
-        },
-        {
-          "step": 3,
-          "text": "Pour oil into wok or large skillet over high heat. Add pea pods and green onions; stir-fry 2 minutes. Remove."
-        },
-        {
-          "step": 4,
-          "text": "Add more oil if necessary. Add pork to wok. Stir-fry for 2 to 3 minutes or till no pink remains."
-        },
-        {
-          "step": 5,
-          "text": "Push pork from center. Stir sauce; add to center of wok. Cook and stir till thickened and bubbly."
-        },
-        {
-          "step": 6,
-          "text": "Return vegetables to wok. Stir all ingredients together to coat with sauce; heat through. Stir in cashews. Serve over rice."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "wok or large skillet",
-      "notes": [
-        "Note: For fried bean threads (cellophane noodles), fry 1 ounce bean threads in shortening or cooking oil at a low at a time in shortening (375\u00b0) about 5 seconds or till bean threads puff and rise to top. Drain on paper towels."
-      ],
-      "tags": [
-        "pork",
-        "chinese",
-        "stir-fry",
-        "asian",
-        "cashews"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5394 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "ham-with-pineapple-sauce-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Ham with Pineapple Sauce",
-      "category": "mains",
-      "subcategory": "ham",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 235",
-      "description": "Baked ham with a sweet pineapple and cherry glaze.",
-      "servings_yield": "Serves 8 or 6",
-      "prep_time": "15 minutes",
-      "cook_time": "1-2 hours",
-      "total_time": "2+ hours",
-      "ingredients": [
-        {
-          "item": "fully cooked boneless ham",
-          "quantity": "4 to 6",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "finely chopped fresh pineapple",
-          "quantity": "3/4",
-          "unit": "cup",
-          "prep_note": "or apricot preserves"
-        },
-        {
-          "item": "orange marmalade or butter",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "dry mustard",
-          "quantity": "2",
-          "unit": "tsp",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Place ham on a rack in a shallow baking pan. If desired, score ham in a diamond pattern, making cuts about 1/4 inch deep."
-        },
-        {
-          "step": 2,
-          "text": "Insert meat thermometer. Bake in a 325\u00b0F oven until thermometer registers 140\u00b0F."
-        },
-        {
-          "step": 3,
-          "text": "For glaze, combine pineapple, orange marmalade, and mustard."
-        },
-        {
-          "step": 4,
-          "text": "Spoon some of the glaze over ham; pass remaining glaze."
-        },
-        {
-          "step": 5,
-          "text": "Grill directions: Place ham on grill rack. Grill for 1 1/4 to 1 1/2 hours or till thermometer registers 140\u00b0. Lower grill hood. Grill for 1 to 1 1/2 hours more, brushing with glaze during the last 15 minutes."
-        }
-      ],
-      "temperature": "325\u00b0F (163\u00b0C)",
-      "pan_size": "shallow baking pan with rack",
-      "notes": [
-        "Grill directions included"
-      ],
-      "tags": [
-        "ham",
-        "pineapple",
-        "holiday",
-        "glazed"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5395 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "ham-caribbean-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Ham Caribbean",
-      "category": "mains",
-      "subcategory": "ham",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 235",
-      "description": "Ham slice with a Caribbean-inspired glaze of pineapple, orange, and rum.",
-      "servings_yield": "4 servings",
-      "prep_time": "10 minutes",
-      "cook_time": "30 minutes",
-      "total_time": "40 minutes",
-      "ingredients": [
-        {
-          "item": "fully cooked center-cut ham slice",
-          "quantity": "1 1/2",
-          "unit": "lb",
-          "prep_note": "cut 1 inch thick"
-        },
-        {
-          "item": "pineapple chunks",
-          "quantity": "8",
-          "unit": "oz can",
-          "prep_note": "juice pack"
-        },
-        {
-          "item": "packed brown sugar",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "ground cloves or nutmeg",
           "quantity": "1/8",
           "unit": "tsp",
           "prep_note": ""
         },
         {
-          "item": "orange juice",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "or 1/4 cup orange juice plus 2 tablespoons rum"
-        },
-        {
-          "item": "light raisins",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Trim fat from ham. Slash edges of ham at 1-inch intervals. Place in a shallow baking pan."
-        },
-        {
-          "step": 2,
-          "text": "Bake in a 350\u00b0F oven for 30 minutes."
-        },
-        {
-          "step": 3,
-          "text": "Meanwhile, drain pineapple, reserving juice. In a small saucepan combine brown sugar, cornstarch, and cloves. Stir in reserved pineapple juice, orange juice, and, if using, rum."
-        },
-        {
-          "step": 4,
-          "text": "Cook and stir till thickened and bubbly. Add pineapple chunks, raisins; heat through. Spoon over ham."
-        }
-      ],
-      "temperature": "350\u00b0F (175\u00b0C)",
-      "pan_size": "shallow baking pan",
-      "notes": [],
-      "tags": [
-        "ham",
-        "caribbean",
-        "pineapple",
-        "tropical"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5395 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "meat-and-corn-bread-squares-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Meat and Corn Bread Squares",
-      "category": "mains",
-      "subcategory": "beef",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 248",
-      "description": "Seasoned ground beef topped with golden corn bread baked in one dish.",
-      "servings_yield": "6 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "20-25 minutes",
-      "total_time": "45 minutes",
-      "ingredients": [
-        {
-          "item": "ground beef",
-          "quantity": "1",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "chopped"
-        },
-        {
-          "item": "canned tomatoes",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "chili powder",
-          "quantity": "1 1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "garlic salt",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded cheddar cheese",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "Monterey Jack cheese with jalapeno peppers",
-          "quantity": "4",
-          "unit": "oz",
-          "prep_note": "cubed"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "3/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "yellow cornmeal",
-          "quantity": "3/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "sugar",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "baking powder",
-          "quantity": "2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cooking oil",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "2/3",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "beaten egg",
-          "quantity": "1",
-          "unit": "",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a skillet cook meat and onion till brown. Drain fat. Stir in undrained tomatoes and chili powder and garlic salt."
-        },
-        {
-          "step": 2,
-          "text": "Cook and stir till thickened and bubbly."
-        },
-        {
-          "step": 3,
-          "text": "Combine flour, cornmeal, sugar, and baking powder with 1/4 teaspoon salt. Stir in oil, milk, and egg."
-        },
-        {
-          "step": 4,
-          "text": "Combine cheeses; stir half of the cheese mixture into the meat mixture. Spoon remaining cheese mixture over meat in a 9x9x2-inch baking dish."
-        },
-        {
-          "step": 5,
-          "text": "Spread corn bread mixture atop. Bake in a 375\u00b0F oven for 20 to 25 minutes or till golden. Sprinkle with remaining cheese."
-        }
-      ],
-      "temperature": "375\u00b0F (190\u00b0C)",
-      "pan_size": "9x9x2-inch baking dish",
-      "notes": [],
-      "tags": [
-        "beef",
-        "ground-beef",
-        "cornbread",
-        "casserole",
-        "tex-mex"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5408 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "meat-and-pasta-bake-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Meat and Pasta Bake",
-      "category": "mains",
-      "subcategory": "beef",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 248",
-      "description": "Ground beef and macaroni casserole with cheese and sour cream sauce.",
-      "servings_yield": "6 servings",
-      "prep_time": "25 minutes",
-      "cook_time": "30 minutes",
-      "total_time": "55 minutes",
-      "ingredients": [
-        {
-          "item": "small shell macaroni",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "or elbow macaroni"
-        },
-        {
-          "item": "ground pork or ground beef",
-          "quantity": "1/2",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "condensed cream of mushroom or celery soup",
-          "quantity": "10 3/4",
-          "unit": "oz can",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded American cheese",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "dairy sour cream",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
           "item": "Worcestershire sauce",
           "quantity": "1",
-          "unit": "tsp",
+          "unit": "tbsp",
           "prep_note": ""
         },
         {
-          "item": "dried thyme, marjoram, or savory",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Cook macaroni according to package directions. Drain."
+          "item": "rice",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "cooked"
         },
         {
-          "step": 2,
-          "text": "In a large skillet cook meat and onion till meat is brown and onion is tender. Drain fat."
-        },
-        {
-          "step": 3,
-          "text": "Stir in soup, half of the cheese, the sour cream, milk, Worcestershire sauce, and herb."
-        },
-        {
-          "step": 4,
-          "text": "Stir in cooked macaroni. Transfer to a 1 1/2-quart casserole."
-        },
-        {
-          "step": 5,
-          "text": "Bake, covered, in a 350\u00b0F oven for 25 to 30 minutes or till heated through. Sprinkle with remaining cheese. Bake, uncovered, for 2 minutes more."
-        }
-      ],
-      "temperature": "350\u00b0F (175\u00b0C)",
-      "pan_size": "1 1/2-quart casserole",
-      "notes": [
-        "EASY recipe"
-      ],
-      "tags": [
-        "beef",
-        "ground-beef",
-        "pasta",
-        "casserole",
-        "cheese"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5408 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "hamburger-pie-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Hamburger Pie",
-      "category": "mains",
-      "subcategory": "beef",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 248",
-      "description": "Classic comfort food with seasoned ground beef topped with mashed potatoes.",
-      "servings_yield": "4 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "25-30 minutes",
-      "total_time": "50 minutes",
-      "ingredients": [
-        {
-          "item": "vegetable oil",
+          "item": "chopped celery",
           "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "round crackers",
-          "quantity": "1/4",
           "unit": "cup",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "ground beef or bulk Italian sausage",
-          "quantity": "1",
-          "unit": "lb",
           "prep_note": ""
         },
         {
           "item": "green pepper",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "mixed vegetables",
-          "quantity": "10 3/4",
-          "unit": "oz can",
-          "prep_note": "or 1 cup frozen"
-        },
-        {
-          "item": "tomato sauce",
-          "quantity": "8",
-          "unit": "oz can",
-          "prep_note": ""
-        },
-        {
-          "item": "onion",
-          "quantity": "1/4 to 1/2",
-          "unit": "cup",
+          "quantity": "1",
+          "unit": "",
           "prep_note": "chopped"
         },
         {
-          "item": "dried thyme",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "packaged instant mashed potatoes",
-          "quantity": "4",
-          "unit": "servings",
-          "prep_note": "(enough for 4 servings)"
-        },
-        {
-          "item": "shredded American cheese",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Run cold water over vegetables to separate. In a large skillet cook meat and onion till meat is brown."
-        },
-        {
-          "step": 2,
-          "text": "Drain fat. Stir in vegetables and 1/4 cup water till meat is tender. Stir in tomato sauce, thyme, and 1/4 teaspoon salt."
-        },
-        {
-          "step": 3,
-          "text": "Spoon into a 1 1/2-quart casserole."
-        },
-        {
-          "step": 4,
-          "text": "Prepare potatoes according to package directions. Drop potatoes in mounds atop hot mixture."
-        },
-        {
-          "step": 5,
-          "text": "Bake, uncovered, in a 375\u00b0F oven for 25 to 30 minutes or till hot. If desired, sprinkle with paprika. Cook, uncovered, on high for 1 to 2 minutes."
-        }
-      ],
-      "temperature": "375\u00b0F (190\u00b0C)",
-      "pan_size": "1 1/2-quart casserole",
-      "notes": [
-        "This classic dish is known as Shepherd's Pie when made with lamb.",
-        "Microwave directions: Run cold water over vegetables to separate. In a 1 1/2-quart microwave casserole micro-cook meat and onion, covered, on 100% power (high) for 4 to 6 minutes or till meat remains pink, stir once."
-      ],
-      "tags": [
-        "beef",
-        "ground-beef",
-        "comfort-food",
-        "casserole",
-        "potatoes"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5408 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "spaghetti-pie-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Spaghetti Pie",
-      "category": "mains",
-      "subcategory": "beef",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 249",
-      "description": "Spaghetti pressed into a pie crust shape, filled with meat sauce and topped with cheese.",
-      "servings_yield": "6 servings",
-      "prep_time": "30 minutes",
-      "cook_time": "20 minutes",
-      "total_time": "50 minutes",
-      "ingredients": [
-        {
-          "item": "spaghetti",
-          "quantity": "4",
-          "unit": "oz",
-          "prep_note": "broken"
-        },
-        {
-          "item": "grated Parmesan cheese",
-          "quantity": "1/3",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "beaten egg",
+          "item": "onion",
           "quantity": "1",
           "unit": "",
-          "prep_note": ""
-        },
-        {
-          "item": "butter or margarine",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": "softened"
-        },
-        {
-          "item": "ground beef or bulk Italian sausage",
-          "quantity": "1/2",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped green pepper",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "tomatoes",
-          "quantity": "7 1/2",
-          "unit": "oz can",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "tomato paste",
-          "quantity": "6",
-          "unit": "oz can",
-          "prep_note": ""
-        },
-        {
-          "item": "sugar",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "dried oregano",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "garlic",
-          "quantity": "1/4",
-          "unit": "tsp",
           "prep_note": "minced"
         },
         {
-          "item": "cream-style cottage cheese",
+          "item": "mayonnaise",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "heated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine ingredients placing shrimp on top."
+        },
+        {
+          "step": 2,
+          "text": "Bake 1 hour at 350\u00b0F (175\u00b0C)."
+        },
+        {
+          "step": 3,
+          "text": "Serve with sauce: 1 can cream of mushroom soup plus 1/3 cup milk, heated."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "seafood",
+        "casserole",
+        "shrimp",
+        "crab",
+        "tuna",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5722.jpeg"
+      ]
+    },
+    {
+      "id": "foxfire-brunswick-stew",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brunswick Stew",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian mountain recipe from The Foxfire Book",
+      "description": "A hearty mountain stew with multiple meats and vegetables, designed to feed many and preserve well.",
+      "servings_yield": "Large batch, suitable for canning",
+      "prep_time": "",
+      "cook_time": "Long simmer",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cooked ground beef",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked lean ground pork",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked chicken",
+          "quantity": "1",
+          "unit": "small",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "potatoes",
+          "quantity": "3-4",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "kernel corn",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "lima beans",
           "quantity": "1",
           "unit": "cup",
           "prep_note": ""
         },
         {
-          "item": "shredded mozzarella cheese",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "For crust, cook spaghetti according to package directions. Drain."
-        },
-        {
-          "step": 2,
-          "text": "Combine spaghetti, Parmesan cheese, egg, and butter. Press into a greased 9-inch pie plate, forming a crust."
-        },
-        {
-          "step": 3,
-          "text": "Spread cottage cheese over the crust."
-        },
-        {
-          "step": 4,
-          "text": "In a skillet cook meat, onion, and green pepper till meat is brown. Drain fat."
-        },
-        {
-          "step": 5,
-          "text": "Stir in undrained tomatoes, tomato paste, sugar, oregano, and garlic. Heat through."
-        },
-        {
-          "step": 6,
-          "text": "Spoon meat mixture atop cottage cheese."
-        },
-        {
-          "step": 7,
-          "text": "Bake in a 350\u00b0F oven for 20 minutes. Sprinkle with mozzarella cheese. Bake 5 minutes more or till cheese melts."
-        }
-      ],
-      "temperature": "350\u00b0F (175\u00b0C)",
-      "pan_size": "9-inch pie plate",
-      "notes": [],
-      "tags": [
-        "beef",
-        "ground-beef",
-        "pasta",
-        "italian",
-        "pie"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5409 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "chili-mac-skillet-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Chili-Mac Skillet",
-      "category": "mains",
-      "subcategory": "beef",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 249",
-      "description": "One-skillet meal combining chili flavors with macaroni and cheese.",
-      "servings_yield": "5 servings",
-      "prep_time": "15 minutes",
-      "cook_time": "20 minutes",
-      "total_time": "35 minutes",
-      "ingredients": [
-        {
-          "item": "ground beef",
-          "quantity": "3/4",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "tomato sauce",
-          "quantity": "8",
-          "unit": "oz can",
-          "prep_note": ""
-        },
-        {
-          "item": "red kidney beans",
-          "quantity": "15 1/2",
-          "unit": "oz can",
-          "prep_note": "drained"
-        },
-        {
-          "item": "elbow macaroni",
-          "quantity": "1 7/8",
-          "unit": "cups",
-          "prep_note": "or 4 ounces diced green chili"
-        },
-        {
-          "item": "chili powder",
-          "quantity": "2 to 3",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "garlic salt",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded Monterey Jack or cheddar cheese",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "2 ounces"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a large skillet cook meat and onion till meat is brown and onion is tender. Drain fat."
-        },
-        {
-          "step": 2,
-          "text": "Stir in tomato sauce, undrained beans, uncooked pasta, chili powder, garlic salt, and 1 1/4 cups water."
-        },
-        {
-          "step": 3,
-          "text": "Bring to boiling; reduce heat. Cover; simmer for 20 minutes, stirring often. Top with cheese. Cover; heat 2 minutes or till cheese melts. Serves 5."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "large skillet",
-      "notes": [],
-      "tags": [
-        "beef",
-        "ground-beef",
-        "chili",
-        "pasta",
-        "one-pot",
-        "skillet"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5409 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "stuffed-green-peppers-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Stuffed Green Peppers",
-      "category": "mains",
-      "subcategory": "beef",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 249",
-      "description": "Classic stuffed peppers filled with seasoned ground beef and rice, topped with cheese.",
-      "servings_yield": "4 servings",
-      "prep_time": "25 minutes",
-      "cook_time": "25-30 minutes",
-      "total_time": "55 minutes",
-      "ingredients": [
-        {
-          "item": "large green peppers",
-          "quantity": "4",
+          "item": "carrots",
+          "quantity": "2-3",
           "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "onions",
+          "quantity": "2-3",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomatoes or tomato juice",
+          "quantity": "1",
+          "unit": "pint",
           "prep_note": ""
         },
         {
-          "item": "ground lamb, pork, or bulk Italian sausage",
-          "quantity": "3/4",
-          "unit": "lb",
+          "item": "catsup",
+          "quantity": "",
+          "unit": "to taste",
           "prep_note": ""
         },
         {
-          "item": "tomatoes",
-          "quantity": "7 1/2",
-          "unit": "oz can",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "long grain rice",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "cooked"
-        },
-        {
-          "item": "sliced mushrooms",
-          "quantity": "1/2",
-          "unit": "cup",
+          "item": "chile powder",
+          "quantity": "",
+          "unit": "to taste",
           "prep_note": ""
         },
         {
-          "item": "finely chopped onion",
-          "quantity": "1/4",
-          "unit": "cup",
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "red pepper",
+          "quantity": "",
+          "unit": "to taste",
           "prep_note": ""
         },
         {
           "item": "Worcestershire sauce",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "salt",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded American cheese",
-          "quantity": "1/2",
-          "unit": "cup",
+          "quantity": "",
+          "unit": "to taste",
           "prep_note": ""
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "Cut tops from peppers. Remove seeds and membranes. Precook pepper shells in boiling water for 3 minutes. Invert to drain well."
+          "text": "The vegetables may be either raw or canned."
         },
         {
           "step": 2,
-          "text": "For filling, in a skillet cook meat till brown. Drain fat."
+          "text": "Mix everything together and simmer a long time."
         },
         {
           "step": 3,
-          "text": "Stir in undrained tomatoes, cooked rice, mushrooms, onion, Worcestershire, and salt. Heat through."
-        },
-        {
-          "step": 4,
-          "text": "Place peppers, cut side up, in a 2-quart square baking dish. Spoon meat mixture into peppers."
-        },
-        {
-          "step": 5,
-          "text": "Bake in a 375\u00b0F oven for 25 to 30 minutes or till heated through. Sprinkle with cheese. Bake 2 minutes more or till cheese melts."
-        },
-        {
-          "step": 6,
-          "text": "Stuffed Cabbage: Substitute 8 medium cabbage leaves for green peppers, keeping each leaf in place. Immerse in boiling water about 3 minutes, till limp. Drain. Prepare filling as above, except substitute 1/4 cup sliced green onion for the mushrooms. Place 1/3 cup filling in center of each leaf. Fold in sides; roll up. Place seam side down in a 12x7 1/2x2-inch baking dish."
-        }
-      ],
-      "temperature": "375\u00b0F (190\u00b0C)",
-      "pan_size": "2-quart square baking dish",
-      "notes": [
-        "Variation: Stuffed Cabbage - see instructions"
-      ],
-      "tags": [
-        "beef",
-        "ground-beef",
-        "stuffed",
-        "peppers",
-        "classic"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5409 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "mediterranean-chicken-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Mediterranean Chicken",
-      "category": "mains",
-      "subcategory": "chicken",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 314",
-      "description": "This combination of chicken, rice, and peas is reminiscent of paella and arroz con pollo.",
-      "servings_yield": "6 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "30 minutes",
-      "total_time": "50 minutes",
-      "ingredients": [
-        {
-          "item": "meaty chicken pieces (breasts, thighs, and drumsticks)",
-          "quantity": "1 1/2",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "cooking oil",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "bulk chorizo or bulk Italian sausage",
-          "quantity": "6",
-          "unit": "oz",
-          "prep_note": ""
-        },
-        {
-          "item": "medium onions",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "cut into wedges"
-        },
-        {
-          "item": "cloves garlic",
-          "quantity": "3",
-          "unit": "",
-          "prep_note": "minced"
-        },
-        {
-          "item": "water",
-          "quantity": "2 1/2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "long grain rice",
-          "quantity": "3/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "instant chicken bouillon granules",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "dried oregano",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "pepper",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "frozen peas",
-          "quantity": "10",
-          "unit": "oz package",
-          "prep_note": "thawed"
-        },
-        {
-          "item": "medium green or sweet red pepper",
-          "quantity": "1",
-          "unit": "",
-          "prep_note": "cut into 1-inch squares"
-        },
-        {
-          "item": "cherry tomatoes",
-          "quantity": "8",
-          "unit": "",
-          "prep_note": "halved, or 1 medium tomato, cut into 6 wedges"
-        },
-        {
-          "item": "sliced ripe olives",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Rinse chicken; pat dry. In a 4 1/2-quart Dutch oven cook chicken in hot oil, uncovered, over medium heat about 15 minutes or till lightly browned, turning to brown evenly. Remove chicken and set aside. Discard drippings."
-        },
-        {
-          "step": 2,
-          "text": "In the same pan cook sausage, onions, and garlic over medium heat for 8 to 10 minutes or till sausage is no longer pink. Drain; return to pan."
-        },
-        {
-          "step": 3,
-          "text": "Add water, rice, bouillon granules, oregano, and pepper. Bring to boiling, scraping up the browned bits. Place chicken pieces atop the sausage mixture. Reduce heat. Cover and simmer about 15 minutes or till chicken is nearly tender, turning chicken once."
-        },
-        {
-          "step": 4,
-          "text": "Add peas and green or red pepper to chicken mixture. Cook, covered, about 5 minutes more or till chicken is tender and no longer pink. Gently stir in tomatoes and olives. Makes 6 servings."
+          "text": "If you want to can it, put in jars and place them in a boiling water bath for 1/2 hour."
         }
       ],
       "temperature": "",
-      "pan_size": "4 1/2-quart Dutch oven",
-      "notes": [],
+      "pan_size": "Large pot",
+      "notes": [
+        "Vegetables may be raw or canned",
+        "Great for canning and preserving"
+      ],
       "tags": [
-        "chicken",
-        "mediterranean",
-        "spanish",
-        "one-pot",
-        "rice"
+        "stew",
+        "appalachian",
+        "foxfire",
+        "canning",
+        "main-dish"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5477 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
+        "FoxfireVol1.txt.html"
+      ]
     },
     {
-      "id": "chicken-country-captain-bhg",
+      "id": "foxfire-souse-headcheese",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
-      "title": "Chicken Country Captain",
+      "title": "Souse (Headcheese)",
       "category": "mains",
-      "subcategory": "chicken",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 314",
-      "description": "Classic Southern curry-spiced chicken dish with tomatoes and almonds.",
-      "servings_yield": "6 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "45 minutes",
-      "total_time": "1 hour 5 minutes",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian hog recipe from The Foxfire Book",
+      "description": "Also called 'souse meat,' 'headcheese,' or 'pressed hog's head.' A traditional way to use the whole hog.",
+      "servings_yield": "",
+      "prep_time": "Overnight soaking",
+      "cook_time": "Until meat falls off bone",
+      "total_time": "",
       "ingredients": [
         {
-          "item": "broiler-fryer chicken",
-          "quantity": "2 1/2 to 3",
-          "unit": "lb",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "chopped onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped green pepper",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "clove garlic",
+          "item": "hog's head",
           "quantity": "1",
           "unit": "",
-          "prep_note": "minced"
+          "prep_note": "trimmed, scraped, eyes removed"
         },
         {
-          "item": "margarine or butter",
+          "item": "salt",
+          "quantity": "",
+          "unit": "for soaking and cooking",
+          "prep_note": ""
+        },
+        {
+          "item": "sage",
           "quantity": "1",
           "unit": "tbsp",
+          "prep_note": "per head"
+        },
+        {
+          "item": "ground red pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
           "prep_note": ""
         },
         {
-          "item": "canned tomatoes",
-          "quantity": "14 1/2",
-          "unit": "oz can",
-          "prep_note": "cut up"
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Trim, scrape, or singe off any hairs or bristles. Cut out the eyes."
         },
         {
-          "item": "snipped parsley",
-          "quantity": "1/4",
-          "unit": "cup",
+          "step": 2,
+          "text": "Remove ears, brains, snout, tongue, or jowls if using separately; otherwise leave on for grinding."
+        },
+        {
+          "step": 3,
+          "text": "Halve or quarter the head with an axe. Soak overnight in fresh water to remove blood."
+        },
+        {
+          "step": 4,
+          "text": "Rinse until water runs clear."
+        },
+        {
+          "step": 5,
+          "text": "Put in a pot of clean, salty water and cook slowly until meat falls off the bones."
+        },
+        {
+          "step": 6,
+          "text": "Remove all meat from bones and run through a food chopper."
+        },
+        {
+          "step": 7,
+          "text": "Season with sage, red pepper, black pepper, and salt to taste."
+        },
+        {
+          "step": 8,
+          "text": "Mix thoroughly and put into jars, a mold, or a plate covered with clean white cloth."
+        },
+        {
+          "step": 9,
+          "text": "Store in smokehouse where winter weather will keep it fresh."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large pot",
+      "notes": [
+        "Can be eaten cold or reheated",
+        "Ears are gristly and leave white flukes in the meat - some find this unattractive",
+        "Alternative seasoning: one onion, one pod strong red pepper chopped fine, one tsp salt",
+        "Beulah Perry uses: red and black pepper, onion, a little corn meal, sage and garlic",
+        "Evie Carpenter adds: a little vinegar, sage, black pepper and onion"
+      ],
+      "tags": [
+        "souse",
+        "headcheese",
+        "hog",
+        "appalachian",
+        "foxfire",
+        "meat",
+        "preserving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-scrapple",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scrapple",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1 - Mrs. Mann Norton",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book, as told by Mrs. Mann Norton",
+      "description": "Cornmeal mush with hog's head meat. Mann Norton added, 'Just hold your tongue so y'didn't swaller it when y'went t'eatin'!'",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "hog's head",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "eyes, ears removed, cleaned"
+        },
+        {
+          "item": "sage",
+          "quantity": "",
+          "unit": "to taste",
           "prep_note": ""
         },
         {
-          "item": "currants or raisins",
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "corn meal",
+          "quantity": "",
+          "unit": "enough to make thick",
+          "prep_note": "plain"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Take the head, take the eyeballs out and the ears, and cut down in there. Get all the hairs off."
+        },
+        {
+          "step": 2,
+          "text": "Put it in a big pot and cook it til the meat just turns loose of the main big bone."
+        },
+        {
+          "step": 3,
+          "text": "Lift them bones out, and lay your meat over and feel with your hands to check for bones."
+        },
+        {
+          "step": 4,
+          "text": "Strain your liquid through a strainer so the little bones come out."
+        },
+        {
+          "step": 5,
+          "text": "Put the liquid back in a pot, and put that mashed meat back in that liquid."
+        },
+        {
+          "step": 6,
+          "text": "Put your sage and pepper in there."
+        },
+        {
+          "step": 7,
+          "text": "Stir it til it got to boiling."
+        },
+        {
+          "step": 8,
+          "text": "Stir in plain corn meal til it's just plumb thick."
+        },
+        {
+          "step": 9,
+          "text": "Pour it up in a mold, and cut it off and fry it and brown it."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large pot, mold",
+      "notes": [
+        "Mrs. Norton: 'Tastes just like fish.'"
+      ],
+      "tags": [
+        "scrapple",
+        "hog",
+        "cornmeal",
+        "appalachian",
+        "foxfire",
+        "breakfast",
+        "meat"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-liver-mush",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Liver Pudding (Liver Mush)",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian hog recipe from The Foxfire Book",
+      "description": "Traditional liver mush made with hog liver and cornmeal.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "hog liver",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut up, washed, skin removed"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sage",
           "quantity": "2",
           "unit": "tbsp",
           "prep_note": ""
         },
         {
-          "item": "curry powder",
+          "item": "red pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": "optional"
+        },
+        {
+          "item": "broth from cooking",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "corn meal",
+          "quantity": "",
+          "unit": "enough to thicken",
+          "prep_note": "sifted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut up the liver, wash it well, and remove skin."
+        },
+        {
+          "step": 2,
+          "text": "Boil until tender in salted water."
+        },
+        {
+          "step": 3,
+          "text": "Remove and run through a colander until fine, or mash well."
+        },
+        {
+          "step": 4,
+          "text": "Mix the meat with one cup of the broth it was cooked in."
+        },
+        {
+          "step": 5,
+          "text": "Bring to a boil slowly, stirring in sifted corn meal until thick."
+        },
+        {
+          "step": 6,
+          "text": "Stir in salt (to taste), half teaspoon black pepper, two tablespoons sage, and a little red pepper if desired."
+        },
+        {
+          "step": 7,
+          "text": "Pour into a mold and let sit until cold."
+        },
+        {
+          "step": 8,
+          "text": "Slice and eat. Some eat it as a sandwich, or warm the slices in bacon fat."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Pot, mold",
+      "notes": [
+        "Can be eaten cold, as sandwich, or warmed in bacon fat"
+      ],
+      "tags": [
+        "liver-mush",
+        "liver-pudding",
+        "hog",
+        "appalachian",
+        "foxfire",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-sausage",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mountain Sausage",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian hog recipe from The Foxfire Book",
+      "description": "Traditional country sausage with sage and peppers, preserved in hot grease.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "lean pork",
+          "quantity": "10",
+          "unit": "lb",
+          "prep_note": "trimmings from hams, shoulders, etc."
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sage",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "red pepper",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "many parch their own"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Use any combination of lean meat not used otherwise - trimmings from hams, shoulders, middlin' meat, tenderloin, head meat, and jowls if desired."
+        },
+        {
+          "step": 2,
+          "text": "Run the mixture through a sausage grinder."
+        },
+        {
+          "step": 3,
+          "text": "Fry it good and brown (but not completely cooked since it has to be reheated when served)."
+        },
+        {
+          "step": 4,
+          "text": "Pack into jars (half to three-quarters full) while still very hot."
+        },
+        {
+          "step": 5,
+          "text": "Pour hot grease over the top."
+        },
+        {
+          "step": 6,
+          "text": "Close the jars and turn them upside down to cool."
+        },
+        {
+          "step": 7,
+          "text": "When the grease cools, it seals the lids shut."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Store with jars remaining upside down",
+        "Many parch their own red pepper in front of the fireplace, crush it, then add to sausage",
+        "Alternative storage: Roll into balls, pack in churn jar, pour hot grease over, tie cloth over lid, set in spring house water trough",
+        "Can also pack in cleaned small intestine, tie off, hang in smokehouse",
+        "Or pack in washed corn shuck, tie closed, hang in smokehouse",
+        "Or pack in small clean white cloth sacks and hang in smokehouse"
+      ],
+      "tags": [
+        "sausage",
+        "hog",
+        "appalachian",
+        "foxfire",
+        "meat",
+        "preserving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-chitlins",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chitterlings (Chitlins)",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian hog recipe from The Foxfire Book",
+      "description": "Fried hog intestines - a traditional mountain delicacy.",
+      "servings_yield": "",
+      "prep_time": "3-4 days soaking",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "hog intestines",
+          "quantity": "",
+          "unit": "sections",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "pod",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for batter"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for batter"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for batter"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "optional, for batter"
+        },
+        {
+          "item": "corn meal",
+          "quantity": "",
+          "unit": "for coating",
+          "prep_note": "alternative to batter"
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put sections of intestine in a jar of salt water and let sit for three or four days."
+        },
+        {
+          "step": 2,
+          "text": "Take out, rinse, wash, and rinse again."
+        },
+        {
+          "step": 3,
+          "text": "In winter, can lightly salt, put in jars, and keep a few days before cooking."
+        },
+        {
+          "step": 4,
+          "text": "When cooking, cut up in small pieces and remove any unwanted layers of lining."
+        },
+        {
+          "step": 5,
+          "text": "Boil in salt water with a half pod of pepper until tender."
+        },
+        {
+          "step": 6,
+          "text": "Either dip into a batter made of flour, water, and baking powder (with an egg if desired) and fry; or roll in corn meal and fry in grease."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "chitlins",
+        "chitterlings",
+        "hog",
+        "appalachian",
+        "foxfire",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-fried-squirrel",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Squirrel",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian wild game recipe from The Foxfire Book",
+      "description": "Pan-fried squirrel - a mountain hunting tradition.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "squirrel",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "skinned, gutted, soaked to remove blood"
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "for coating",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "grease or lard",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak the squirrel long enough to get all the blood out."
+        },
+        {
+          "step": 2,
+          "text": "Cut into pieces."
+        },
+        {
+          "step": 3,
+          "text": "Roll the pieces in flour, salt, and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Fry until tender and brown."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Frying pan",
+      "notes": [
+        "If the squirrel is old, you may want to parboil it in water containing sage to take out the wild taste",
+        "Can also make squirrel dumplings: parboil 5 min, cook in fresh water until tender, add pepper, butter, milk to broth, drop in dumpling dough and cook 10 min covered"
+      ],
+      "tags": [
+        "squirrel",
+        "wild-game",
+        "fried",
+        "appalachian",
+        "foxfire",
+        "hunting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-rabbit",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried or Baked Rabbit",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian wild game recipe from The Foxfire Book",
+      "description": "Mountain-style rabbit prepared by frying or baking.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "30 minutes baking",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "rabbit",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "skinned and cut into sections"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for parboiling"
+        },
+        {
+          "item": "flour or meal",
+          "quantity": "",
+          "unit": "for coating",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "for batter, if baking"
+        },
+        {
+          "item": "flour",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "for batter"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for batter"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut the rabbit into sections. Remove the legs, and separate the ribs and back section by cutting up the rabbit's sides vertically."
+        },
+        {
+          "step": 2,
+          "text": "Parboil the pieces in covered pot in salted (two tablespoons) water to make tender if not young."
+        },
+        {
+          "step": 3,
+          "text": "For frying: put the parboiled pieces in a greased pan and fry until brown on all sides, seasoning with half teaspoon pepper. Some roll pieces in meal or flour before frying."
+        },
+        {
+          "step": 4,
+          "text": "For baking: dip parboiled pieces in a breaded solution of two eggs, four tablespoons flour, quarter cup milk, and half teaspoon pepper. Bake until brown (about thirty minutes)."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "",
+      "notes": [
+        "Can also be simmered in salted water until tender and served as is"
+      ],
+      "tags": [
+        "rabbit",
+        "wild-game",
+        "fried",
+        "baked",
+        "appalachian",
+        "foxfire",
+        "hunting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-possum-and-sweet-potatoes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Possum and Sweet Potatoes",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1 - Beulah Perry",
+      "source_note": "Traditional Appalachian wild game recipe from The Foxfire Book",
+      "description": "Classic mountain possum baked with sweet potatoes. Beulah Perry loved the possum head as a child.",
+      "servings_yield": "",
+      "prep_time": "Overnight soaking",
+      "cook_time": "About 2 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "possum",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "scalded, scraped, gutted, musk glands removed"
+        },
+        {
+          "item": "lime or ashes",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for scalding water"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "red or black pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "sweet potatoes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for pan",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Scald the possum in boiling water containing a half cup of lime or ashes."
+        },
+        {
+          "step": 2,
+          "text": "Scrape until hairless, gut (should have been bled immediately after caught)."
+        },
+        {
+          "step": 3,
+          "text": "Remove the musk glands under the forearms, and either the head or at least the eyes."
+        },
+        {
+          "step": 4,
+          "text": "Soak overnight before cooking."
+        },
+        {
+          "step": 5,
+          "text": "Parboil in water containing salt and red or black pepper to taste until tender."
+        },
+        {
+          "step": 6,
+          "text": "Put in a greased pan surrounded or filled with sweet potatoes."
+        },
+        {
+          "step": 7,
+          "text": "Bake until golden brown (about two hours if using a wood stove)."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking pan",
+      "notes": [
+        "Beulah Perry: 'Lot a times, when I was a kid, the possum head was my favorite... You eat the tongue, brains, everything in the head except the eyes.'",
+        "Alternative: line pan with sassafras sticks instead of grease",
+        "Can also skin possum, parboil until tender, cut up, roll in pepper and flour, and fry"
+      ],
+      "tags": [
+        "possum",
+        "wild-game",
+        "sweet-potato",
+        "appalachian",
+        "foxfire",
+        "baked",
+        "hunting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-coon",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Raccoon",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian wild game recipe from The Foxfire Book",
+      "description": "Raccoon baked until golden brown - a mountain hunting tradition.",
+      "servings_yield": "",
+      "prep_time": "Overnight soaking",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "raccoon",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "skinned, musk glands removed, gutted, soaked"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "spoon per lb",
+          "prep_note": ""
+        },
+        {
+          "item": "red pepper",
+          "quantity": "1-2",
+          "unit": "pods",
+          "prep_note": "or 1 tbsp black pepper"
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for pan",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "for coating",
+          "prep_note": "optional"
+        },
+        {
+          "item": "sweet potatoes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, quartered"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin the coon, remove the two pear-shaped musk glands from under the forearms."
+        },
+        {
+          "step": 2,
+          "text": "Gut, remove head, tail, and feet. Soak overnight in cold water to get the blood out."
+        },
+        {
+          "step": 3,
+          "text": "Put in a pot of salted water (one spoon of salt per pound), one or two pods of red pepper or one tablespoon of black pepper."
+        },
+        {
+          "step": 4,
+          "text": "Boil with no lid until the meat is tender."
+        },
+        {
+          "step": 5,
+          "text": "Remove, put in a greased baking pan, and bake until golden brown."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "Baking pan",
+      "notes": [
+        "To remove wild taste: add spicewood twigs, an onion or two, a teaspoon of vinegar, or some potatoes to parboiling water",
+        "Alternative: parboil, rub with salt and pepper, dot with butter, add quartered sweet potatoes around meat, bake at 400\u00b0F until tender",
+        "Can also parboil, cut into pieces, roll in corn meal, and fry in lard",
+        "Can be salted and smoked like ham for later use"
+      ],
+      "tags": [
+        "raccoon",
+        "coon",
+        "wild-game",
+        "baked",
+        "appalachian",
+        "foxfire",
+        "hunting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-groundhog",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Groundhog",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian wild game recipe from The Foxfire Book",
+      "description": "Groundhog baked until brown.",
+      "servings_yield": "",
+      "prep_time": "Overnight soaking",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "groundhog",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "skinned, glands removed, gutted"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "for soaking",
+          "prep_note": ""
+        },
+        {
+          "item": "spicewood twigs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to remove wild taste"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for pan",
+          "prep_note": ""
+        },
+        {
+          "item": "carrots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "garlic",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": "optional"
+        },
+        {
+          "item": "fat meat",
+          "quantity": "1",
+          "unit": "piece",
+          "prep_note": "about the size of a baby's fist, optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin the groundhog, remove the glands from under the legs, gut, and soak overnight in salty water."
+        },
+        {
+          "step": 2,
+          "text": "Parboil with spicewood twigs (to take the wild taste out) until tender."
+        },
+        {
+          "step": 3,
+          "text": "Pepper and put in a greased pan to bake until brown."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking pan",
+      "notes": [
+        "The hide was often placed in a bucket of ashes over which water was poured. After the ashes took the hair off, the hide was dried, kneaded, and cut up in strips for shoe strings.",
+        "Alternative: parboil until tender in water with two carrots, garlic, and a piece of fat meat about the size of a baby's fist, add pepper and 1 tbsp salt. Then brown in open baking pan.",
+        "Can be dried, salted, and smoked for later use"
+      ],
+      "tags": [
+        "groundhog",
+        "wild-game",
+        "baked",
+        "appalachian",
+        "foxfire",
+        "hunting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-venison-stew",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Stew",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian wild game recipe from The Foxfire Book",
+      "description": "Hearty venison stew with vegetables.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "3 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "venison",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": "cut into 1-inch cubes"
+        },
+        {
+          "item": "fat",
+          "quantity": "",
+          "unit": "small amount",
+          "prep_note": "for browning"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "potatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "carrots",
+          "quantity": "6",
+          "unit": "large",
+          "prep_note": ""
+        },
+        {
+          "item": "onions",
+          "quantity": "4",
+          "unit": "medium",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
           "quantity": "1",
           "unit": "tbsp",
           "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for thickening"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for thickening"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut two pounds of meat into one-inch cubes and brown on all sides in a small amount of fat."
+        },
+        {
+          "step": 2,
+          "text": "In a stewing pot, add the meat, two cups water, four potatoes, six large carrots, four medium onions, one quart of tomatoes, one tablespoon salt, and one teaspoon pepper."
+        },
+        {
+          "step": 3,
+          "text": "Bring to a boil and simmer for three hours."
+        },
+        {
+          "step": 4,
+          "text": "After three hours, thicken with three tablespoons flour and one half cup water."
+        },
+        {
+          "step": 5,
+          "text": "Eat then, or store in a cool place and heat as needed."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Stewing pot",
+      "notes": [
+        "Alternative thickening: flour, three tablespoons bacon drippings, and a pint of tomato juice"
+      ],
+      "tags": [
+        "venison",
+        "deer",
+        "stew",
+        "wild-game",
+        "appalachian",
+        "foxfire",
+        "hunting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-venison-loaf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Loaf",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian wild game recipe from The Foxfire Book",
+      "description": "Meatloaf made with venison and pork.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "About 1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "ground deer meat",
+          "quantity": "2 1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "ground hog meat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "breadcrumbs",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "dampened with a little water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix together ground deer meat, ground hog meat, eggs, salt, pepper, chopped onion, and dampened breadcrumbs."
+        },
+        {
+          "step": 2,
+          "text": "Shape into a loaf."
+        },
+        {
+          "step": 3,
+          "text": "Bake for about an hour at 400\u00b0F."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "Loaf pan or baking dish",
+      "notes": [],
+      "tags": [
+        "venison",
+        "deer",
+        "meatloaf",
+        "wild-game",
+        "appalachian",
+        "foxfire",
+        "hunting"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-fried-turtle",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Turtle",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Battered and fried turtle meat.",
+      "servings_yield": "",
+      "prep_time": "Overnight soaking",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "turtle",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cleaned, meat cut into pieces"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "for soaking",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "",
+          "unit": "optional for soaking",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "plain, sifted"
         },
         {
           "item": "salt",
@@ -26952,699 +26232,784 @@
           "prep_note": ""
         },
         {
-          "item": "ground mace or nutmeg",
-          "quantity": "1/4",
+          "item": "baking powder",
+          "quantity": "1",
           "unit": "tsp",
           "prep_note": ""
         },
         {
-          "item": "sugar",
-          "quantity": "1/4",
-          "unit": "tsp",
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
           "prep_note": ""
         },
         {
           "item": "pepper",
-          "quantity": "1/8",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cornstarch",
           "quantity": "1",
-          "unit": "tbsp",
+          "unit": "tsp",
+          "prep_note": "for coating"
+        },
+        {
+          "item": "fat",
+          "quantity": "",
+          "unit": "for deep frying",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Clean turtle: chop head off, drop shell and all into boiling water, cut meat loose from shell, gut, cut into pieces."
+        },
+        {
+          "step": 2,
+          "text": "Soak meat overnight in salty water (some add a little soda) to remove the wild, strong taste."
+        },
+        {
+          "step": 3,
+          "text": "Parboil if desired (with salt and hot pepper)."
+        },
+        {
+          "step": 4,
+          "text": "Cool and dip meat into a batter made of one cup plain sifted flour, one half teaspoon salt, one teaspoon baking powder, two beaten eggs, and one half cup milk."
+        },
+        {
+          "step": 5,
+          "text": "Fry in deep fat until golden brown."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Deep fryer",
+      "notes": [
+        "Alternative: parboil, roll in flour, and fry with 3 tbsp flour, 1 tbsp salt, 1 tsp pepper in covered skillet",
+        "Can also stew in sweet milk and butter, pepper and salt just like oyster stew"
+      ],
+      "tags": [
+        "turtle",
+        "fried",
+        "appalachian",
+        "foxfire",
+        "wild-game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-fried-frog-legs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Frog Legs",
+      "category": "mains",
+      "attribution": "Foxfire Vol 1 - Mrs. Lake Stiles",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book, as told by Mrs. Lake Stiles",
+      "description": "Fried frog legs, as told by Mrs. Lake Stiles.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "frog legs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cleaned"
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": "not too hot"
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "for coating",
           "prep_note": ""
         },
         {
-          "item": "hot cooked rice",
-          "quantity": "2",
-          "unit": "cups",
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
           "prep_note": ""
         },
         {
-          "item": "toasted sliced almonds",
-          "quantity": "2",
-          "unit": "tbsp",
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "",
+          "unit": "for batter",
+          "prep_note": "optional"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "bread crumbs or cracker crumbs",
+          "quantity": "",
+          "unit": "for coating",
           "prep_note": "optional"
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "Skin chicken, if desired. Rinse and pat dry. In a large skillet cook onion, green pepper, and garlic in margarine or butter till tender but not brown."
+          "text": "Get them dressed - cut the legs off and clean them and throw the rest away."
         },
         {
           "step": 2,
-          "text": "Remove from heat. Stir in undrained tomatoes, parsley, currants or raisins, curry powder, salt, mace, sugar, and pepper. Bring to boiling."
+          "text": "Get your grease not too awfully hot - if you get it too hot, when you put the legs in they'll jump out."
         },
         {
           "step": 3,
-          "text": "Add chicken pieces to the skillet, turning to coat. Bring to boiling; reduce heat. Cover and simmer for 35 to 45 minutes or till tender and no longer pink, turning chicken once. Remove chicken from the skillet; keep warm."
+          "text": "Roll them in flour and salt and pepper like chicken, and fry them."
         },
         {
           "step": 4,
-          "text": "For sauce, skim fat from tomato mixture. Stir together cornstarch and 1 tablespoon cold water; add to tomato mixture. Cook and stir till thickened and bubbly. Cook and stir for 2 minutes more."
-        },
-        {
-          "step": 5,
-          "text": "Serve chicken and sauce with rice. If desired, sprinkle with almonds. Makes 6 servings."
+          "text": "Or you can take buttermilk and an egg and whip it together, then roll the legs in it and either bread crumbs or cracker crumbs, and fry."
         }
       ],
       "temperature": "",
-      "pan_size": "large skillet",
+      "pan_size": "Frying pan",
       "notes": [
-        "Microwave directions: Skin chicken. Rinse and pat dry. Arrange in a 12x7 1/2x2-inch baking dish with meaty portions toward the edges of the dish. Micro-cook, covered with vented plastic wrap, on 100% power (high) for 12 to 15 minutes or till tender and no longer pink, turning pieces over and rearranging after 5 minutes. Transfer chicken to a platter. Cover; keep warm. For sauce, in a 4-cup measure combine onion, green pepper, garlic, and margarine. Cook, uncovered, on high 2 to 3 minutes or till tender. Stir in cornstarch. Add undrained tomatoes, parsley, currants, curry powder, salt, mace, sugar, and pepper. Cook, uncovered, on high 4 to 6 minutes or till thickened and bubbly, stirring every minute. Cook 30 seconds more. Serve as above."
+        "Mrs. Lake Stiles: 'Get your grease not too awfully hot - if you get it too hot, when you put the legs in they'll jump out.'"
       ],
       "tags": [
-        "chicken",
-        "southern",
-        "curry",
-        "classic"
+        "frog-legs",
+        "fried",
+        "appalachian",
+        "foxfire",
+        "wild-game"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5477 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
+        "FoxfireVol1.txt.html"
+      ]
     },
     {
-      "id": "stewed-chicken-bhg",
+      "id": "foxfire-fried-ramps",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
-      "title": "Stewed Chicken",
+      "title": "Fried Ramps with Eggs",
       "category": "mains",
-      "subcategory": "chicken",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 315",
-      "description": "Use this chicken and its broth in recipes that call for cooked chicken or broth.",
-      "servings_yield": "5 1/2 cups broth and 2 1/2 cups chopped meat",
-      "prep_time": "15 minutes",
-      "cook_time": "40 minutes",
-      "total_time": "55 minutes",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Traditional Appalachian breakfast of fried ramps with scrambled eggs.",
       "ingredients": [
         {
-          "item": "broiler-fryer chicken",
-          "quantity": "2 1/2 to 3",
-          "unit": "lb",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "celery with leaves",
-          "quantity": "3",
-          "unit": "stalks",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "carrots",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "large onion",
+          "item": "ramps",
           "quantity": "1",
+          "unit": "bunch",
+          "prep_note": "cleaned"
+        },
+        {
+          "item": "bacon drippings or butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Separate ramp bulbs from leaves; slice bulbs."
+        },
+        {
+          "step": 2,
+          "text": "Fry bulbs in bacon drippings until softened."
+        },
+        {
+          "step": 3,
+          "text": "Add chopped leaves and cook briefly."
+        },
+        {
+          "step": 4,
+          "text": "Beat eggs and pour over ramps."
+        },
+        {
+          "step": 5,
+          "text": "Scramble until eggs are set. Season and serve."
+        }
+      ],
+      "notes": [
+        "A beloved spring tradition in Appalachia"
+      ],
+      "tags": [
+        "breakfast",
+        "ramps",
+        "eggs",
+        "wild-foods",
+        "foxfire",
+        "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-bear-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Bear",
+      "category": "mains",
+      "attribution": "Foxfire Book of Wild Game",
+      "source_note": "Foxfire Americana Library - Meats and Small Game",
+      "description": "Traditional slow-roasted bear with vegetables.",
+      "ingredients": [
+        {
+          "item": "bear roast",
+          "quantity": "4-5",
+          "unit": "lbs"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "item": "onions",
+          "quantity": "2",
           "unit": "",
           "prep_note": "quartered"
         },
         {
-          "item": "sprigs parsley",
-          "quantity": "2",
+          "item": "carrots",
+          "quantity": "4",
           "unit": "",
-          "prep_note": ""
+          "prep_note": "chunked"
         },
         {
-          "item": "salt",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
+          "item": "potatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "quartered"
         },
         {
-          "item": "dried thyme, sage, or basil",
+          "item": "beef broth",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Remove all fat from bear meat (fat can be strong-tasting)."
+        },
+        {
+          "step": 2,
+          "text": "Season roast with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Brown on all sides in hot Dutch oven."
+        },
+        {
+          "step": 4,
+          "text": "Add vegetables and broth."
+        },
+        {
+          "step": 5,
+          "text": "Cover and roast at 325\u00b0F for 3-4 hours until very tender."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "notes": [
+        "Bear must be cooked well-done to kill trichinella parasites",
+        "Remove all fat before cooking"
+      ],
+      "tags": [
+        "bear",
+        "roast",
+        "wild-game",
+        "foxfire",
+        "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-venison-steaks",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pan-Fried Venison Steaks",
+      "category": "mains",
+      "attribution": "Foxfire Book of Wild Game",
+      "source_note": "Foxfire Americana Library - Meats and Small Game",
+      "description": "Quick-cooked tender venison steaks.",
+      "ingredients": [
+        {
+          "item": "venison steaks",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "1/2 inch thick"
+        },
+        {
+          "item": "flour",
           "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": "crushed"
+          "unit": "cup"
         },
         {
-          "item": "pepper",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "item": "bacon drippings or butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pound steaks lightly to tenderize."
+        },
+        {
+          "step": 2,
+          "text": "Season flour with salt and pepper; dredge steaks."
+        },
+        {
+          "step": 3,
+          "text": "Heat drippings in heavy skillet over medium-high heat."
+        },
+        {
+          "step": 4,
+          "text": "Cook steaks 3-4 minutes per side for medium-rare."
+        },
+        {
+          "step": 5,
+          "text": "Do not overcook - venison becomes tough when well-done."
+        }
+      ],
+      "notes": [
+        "Venison is lean - cook quickly and don't overcook"
+      ],
+      "tags": [
+        "venison",
+        "deer",
+        "steaks",
+        "wild-game",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-venison-pot-roast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Pot Roast",
+      "category": "mains",
+      "attribution": "Foxfire Book of Wild Game",
+      "source_note": "Foxfire Americana Library - Meats and Small Game",
+      "description": "Tender braised venison roast with gravy.",
+      "ingredients": [
+        {
+          "item": "venison roast",
+          "quantity": "3-4",
+          "unit": "lbs"
+        },
+        {
+          "item": "bacon strips",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "beef broth",
+          "quantity": "2",
+          "unit": "cups"
         },
         {
           "item": "bay leaves",
           "quantity": "2",
-          "unit": "",
-          "prep_note": ""
+          "unit": ""
         },
         {
-          "item": "water",
-          "quantity": "6",
-          "unit": "cups",
-          "prep_note": ""
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "Skin chicken, if desired. Rinse. In a 4 1/2-quart Dutch oven combine chicken; celery; carrots; onion; parsley; salt; thyme, sage, or basil; pepper; and bay leaves. Add water. Bring to boiling; reduce heat. Cover and simmer for 40 minutes."
+          "text": "Lay bacon strips over top of roast (adds fat venison lacks)."
         },
         {
           "step": 2,
-          "text": "Remove chicken. Strain broth through a large sieve lined with 2 layers of cheesecloth. Discard solids. If using broth while hot, skim off fat. (Or, if storing broth for later use, chill broth in a bowl for 6 hours. Lift off fat. Pour broth into airtight containers, discarding residue in the bottom of the bowl. Seal containers. Chill up to 2 days or freeze up to 3 months.)"
+          "text": "Brown roast on all sides in Dutch oven."
         },
         {
           "step": 3,
-          "text": "When chicken is cool enough to handle, remove meat from bones; discard skin and bones. Chop meat and use immediately. (Or, if storing meat for later use, place in airtight containers; seal. Chill up to 3 days or freeze up to 3 months.) Makes about 5 1/2 cups broth and 2 1/2 cups chopped meat."
+          "text": "Add onion, broth, bay leaves, and seasonings."
+        },
+        {
+          "step": 4,
+          "text": "Cover and simmer on stovetop or bake at 300\u00b0F for 3 hours."
+        },
+        {
+          "step": 5,
+          "text": "Remove roast; thicken pan juices for gravy."
         }
       ],
-      "temperature": "",
-      "pan_size": "4 1/2-quart Dutch oven",
+      "temperature": "300\u00b0F (150\u00b0C)",
       "notes": [
-        "Use the broth and meat in soups, casseroles, and other recipes calling for cooked chicken"
+        "Adding bacon or salt pork provides fat that lean venison lacks"
       ],
       "tags": [
-        "chicken",
-        "basic",
-        "broth",
-        "stewed"
+        "venison",
+        "deer",
+        "pot-roast",
+        "wild-game",
+        "foxfire"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
-      "image_refs": [
-        "IMG_5478 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
+      "image_refs": []
     },
     {
-      "id": "chicken-and-noodles-bhg",
+      "id": "foxfire-roasted-quail",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
-      "title": "Chicken and Noodles",
+      "title": "Roasted Quail",
       "category": "mains",
-      "subcategory": "chicken",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 315",
-      "description": "Hearty homestyle chicken and noodles with vegetables.",
-      "servings_yield": "6 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "15 minutes",
-      "total_time": "35 minutes",
+      "attribution": "Foxfire Book of Wild Game",
+      "source_note": "Foxfire Americana Library - Meats and Small Game",
+      "description": "Simple roasted quail wrapped in bacon.",
       "ingredients": [
         {
-          "item": "Stewed Chicken",
-          "quantity": "1",
-          "unit": "recipe",
-          "prep_note": "prepared"
-        },
-        {
-          "item": "hot broth from Stewed Chicken",
+          "item": "quail",
           "quantity": "4",
-          "unit": "cups",
-          "prep_note": "(freeze remaining broth for another use)"
-        },
-        {
-          "item": "dried Homemade Pasta or packaged noodles",
-          "quantity": "6",
-          "unit": "oz",
-          "prep_note": "(2 1/2 cups) or one 8-oz package frozen noodles"
-        },
-        {
-          "item": "carrots",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "thinly sliced"
-        },
-        {
-          "item": "celery",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "sliced"
-        },
-        {
-          "item": "onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "chopped"
-        },
-        {
-          "item": "dried thyme, sage, or basil",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "salt",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "pepper",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cold water",
-          "quantity": "1/3",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "3",
-          "unit": "tbsp",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Prepare Stewed Chicken as directed, except pour 4 cups of the hot broth into the Dutch oven. (Freeze remaining broth for another use.) Bring to boiling."
-        },
-        {
-          "step": 2,
-          "text": "Add noodles, carrots, celery, onion, thyme/sage/basil, salt, and pepper. Return to boiling; reduce heat."
-        },
-        {
-          "step": 3,
-          "text": "Cover and simmer for 10 to 15 minutes or till noodles and vegetables are tender."
-        },
-        {
-          "step": 4,
-          "text": "Slowly stir cold water into flour. Add to broth. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Stir in the chopped chicken. Heat through. Serves 6."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "Dutch oven",
-      "notes": [],
-      "tags": [
-        "chicken",
-        "noodles",
-        "comfort-food",
-        "homestyle"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5478 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "chicken-and-dumplings-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Chicken and Dumplings",
-      "category": "mains",
-      "subcategory": "chicken",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 315",
-      "description": "Old-fashioned goodness ready to eat in an hour.",
-      "servings_yield": "6 servings",
-      "prep_time": "20 minutes",
-      "cook_time": "40 minutes",
-      "total_time": "1 hour",
-      "ingredients": [
-        {
-          "item": "broiler-fryer chicken",
-          "quantity": "2 1/2 to 3",
-          "unit": "lb",
-          "prep_note": "cut up"
-        },
-        {
-          "item": "chopped onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "poultry seasoning or dried sage or thyme",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "salt",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "pepper",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "sliced carrot",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "sliced celery",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "water",
-          "quantity": "3",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "Dumplings for Stew",
-          "quantity": "1",
-          "unit": "recipe",
-          "prep_note": "(see recipe, page 378)"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "cold water",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Skin chicken, if desired. Rinse. In a 4 1/2-quart Dutch oven combine chicken, onion, poultry seasoning, salt, and pepper. Add 3 cups water. Bring to boiling; reduce heat. Cover and simmer for 25 minutes. Add carrot and celery. Simmer, covered, for 10 minutes more."
-        },
-        {
-          "step": 2,
-          "text": "Prepare Dumplings for Stew, omitting the herb. Drop from a tablespoon into six mounds directly onto chicken (do not drop batter into liquid). Cover; simmer about 12 minutes or till a toothpick inserted into dumplings comes out clean. Using a slotted spoon, transfer chicken, dumplings, and vegetables to a platter; cover."
-        },
-        {
-          "step": 3,
-          "text": "For gravy, skim fat from broth; discard fat. Measure 2 cups broth into the Dutch oven. Slowly stir cold water into flour. Stir into broth. Cook and stir till bubbly. Cook and stir 1 minute more. Season to taste with salt and pepper. Serve gravy over chicken and dumplings. Serves 6."
-        },
-        {
-          "step": 4,
-          "text": "Microwave directions: Skin chicken, if desired. Rinse. In a 3-quart casserole combine chicken, onion, poultry seasoning, salt, pepper, and 2 1/2 cups water. Micro-cook, covered, on 100% power (high) for 10 minutes, stirring once. Add carrot and celery. Cook, covered, on 50% power (medium) for 15 to 20 minutes or till chicken is no longer pink and vegetables are tender, stirring once. Prepare and drop Dumplings for Stew as above. Cook, covered, on high for 4 to 5 minutes or till a toothpick inserted into dumplings comes out clean. Transfer chicken, dumplings, and vegetables to a platter; cover. Skim fat from broth; discard. Measure 2 cups broth into the same casserole. Slowly stir cold water into flour; stir into broth in casserole. Cook, uncovered, on high for 5 to 6 minutes or till thickened and bubbly, stirring every minute. Cook 1 minute more. Season; serve as above."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "4 1/2-quart Dutch oven",
-      "notes": [
-        "Microwave directions included"
-      ],
-      "tags": [
-        "chicken",
-        "dumplings",
-        "comfort-food",
-        "classic",
-        "southern"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5478 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "chicken-potpies-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Chicken Potpies",
-      "category": "mains",
-      "subcategory": "chicken",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 316",
-      "description": "Use pastry, crumbs, or biscuits to top these tasty main-course pies.",
-      "servings_yield": "6 servings",
-      "prep_time": "30 minutes",
-      "cook_time": "15 minutes",
-      "total_time": "45 minutes",
-      "ingredients": [
-        {
-          "item": "Pastry for Double-Crust Pie",
-          "quantity": "1",
-          "unit": "recipe",
-          "prep_note": "(see recipe, page 294)"
-        },
-        {
-          "item": "frozen peas and carrots",
-          "quantity": "10",
-          "unit": "oz package",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped fresh mushrooms",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "1/3",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "salt",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "dried sage, marjoram, or thyme",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "pepper",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "chicken broth",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "2/3",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "cubed cooked chicken or turkey",
-          "quantity": "3",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "snipped parsley",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped pimiento",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Prepare pastry; set aside. Cook peas and carrots according to package directions; drain. In a saucepan cook onion and mushrooms in margarine or butter till tender. Stir in flour, salt, sage, marjoram, or thyme; and pepper. Add chicken broth and milk all at once. Cook and stir till thickened and bubbly. Stir in drained peas and carrots, chicken or turkey, parsley, and pimiento; heat till bubbly. Pour chicken mixture into six 10-ounce round casseroles. (Or, use a 12x7 1/2x2-inch baking dish.)"
-        },
-        {
-          "step": 2,
-          "text": "Roll pastry into a 15x10-inch rectangle. Cut into six 5-inch circles and place atop the 10-ounce casseroles. (Or, roll pastry into a 13x9-inch rectangle. Place over the 12x7 1/2x2-inch baking dish.) Flute edges of pastry and cut slits in the top for steam to escape. Bake in a 450\u00b0 oven for 12 to 15 minutes or till pastry is golden brown. Makes 6 servings."
-        }
-      ],
-      "temperature": "450\u00b0F (230\u00b0C)",
-      "pan_size": "six 10-ounce casseroles or 12x7 1/2x2-inch baking dish",
-      "notes": [
-        "Herb-Crumb-Topped Chicken Potpies: Prepare as above, except omit pastry. Stir together 1 cup herb-seasoned stuffing croutons and 2 tablespoons melted margarine or butter. Sprinkle atop chicken mixture in casseroles or dish.",
-        "Biscuit-Topped Chicken Potpies: Prepare as above, except omit pastry. Cut 1 package (6) refrigerated biscuits into quarters and arrange atop bubbly chicken mixture in casseroles or dish. Bake in a 400\u00b0 oven about 15 minutes or till biscuits are golden."
-      ],
-      "tags": [
-        "chicken",
-        "potpie",
-        "comfort-food",
-        "classic"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5479 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "chicken-a-la-king-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Chicken \u00e0 la King",
-      "category": "mains",
-      "subcategory": "chicken",
-      "attribution": "Better Homes and Gardens",
-      "source_note": "Better Homes and Gardens New Cook Book, page 316",
-      "description": "A great way to use leftover chicken or turkey.",
-      "servings_yield": "4 servings",
-      "prep_time": "15 minutes",
-      "cook_time": "10 minutes",
-      "total_time": "25 minutes",
-      "ingredients": [
-        {
-          "item": "margarine or butter",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "sliced fresh mushrooms or mushroom stems and pieces",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "or one 4-ounce can, drained"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "1 1/2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "chicken broth",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "cubed cooked chicken or turkey",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped pimiento",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "dry sherry",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": "optional"
-        },
-        {
-          "item": "toast points or baked patty shells",
-          "quantity": "8",
           "unit": "",
-          "prep_note": "or 4 baked patty shells"
+          "prep_note": "cleaned"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "item": "bacon strips",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "In a saucepan melt margarine. If using fresh mushrooms, add mushrooms and cook till tender. Stir in flour, 1/2 teaspoon salt, and 1/4 teaspoon pepper. Add milk and chicken broth all at once. Cook and stir till thickened and bubbly. Cook and stir for 1 minute more."
+          "text": "Season quail inside and out with salt and pepper."
         },
         {
           "step": 2,
-          "text": "Add canned mushrooms, if using. Stir in chicken or turkey, pimiento, and, if desired, dry sherry. Heat through. Spoon atop toast points. Serves 4."
+          "text": "Place 1 tbsp butter inside each bird."
         },
         {
           "step": 3,
-          "text": "Microwave directions: Do not use fresh mushrooms. In a 2-quart casserole micro-cook margarine, uncovered, on 100% power (high) for 30 to 45 seconds or till melted. Stir in flour, salt, and pepper. Add milk and 1/2 cup chicken broth all at once. Stir to combine. Cook, uncovered, on high for 5 to 7 minutes or till thickened and bubbly, stirring every minute till mixture starts to thicken, then every 30 seconds. Stir in canned mushrooms, chicken or turkey, pimiento, and, if desired, sherry. Cook, covered, on high for 2 to 4 minutes or till heated through; stir once. Serve as above. Do not micro-cook recipes below."
+          "text": "Wrap 2 bacon strips around each quail."
+        },
+        {
+          "step": 4,
+          "text": "Place in baking dish."
+        },
+        {
+          "step": 5,
+          "text": "Roast at 400\u00b0F for 25-30 minutes until juices run clear."
         }
       ],
-      "temperature": "",
-      "pan_size": "saucepan",
+      "temperature": "400\u00b0F (200\u00b0C)",
       "notes": [
-        "Cheesy Chicken \u00e0 la King: Prepare as above, except add 1 cup shredded American or process Swiss cheese to the thickened mixture before adding the chicken or turkey. Stir till cheese melts.",
-        "Curried Chicken \u00e0 la King: Prepare as above, except add 1 teaspoon curry powder to melted margarine or butter; cook for 1 minute. Omit dry sherry. If desired, add 1 tablespoon chutney with chicken or turkey.",
-        "Herbed Chicken \u00e0 la King: Prepare as above, except cook 2 tablespoons finely chopped green pepper or sliced green onion; 1 clove garlic, minced; and 1/2 teaspoon dried basil, crushed, in melted margarine or butter till tender."
+        "Allow 1-2 quail per person depending on size"
       ],
       "tags": [
-        "chicken",
-        "classic",
-        "creamy",
-        "quick"
+        "quail",
+        "game-bird",
+        "roasted",
+        "wild-game",
+        "foxfire"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
-      "image_refs": [
-        "IMG_5479 Large.jpeg"
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-wild-turkey",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Wild Turkey",
+      "category": "mains",
+      "attribution": "Foxfire Book of Wild Game",
+      "source_note": "Foxfire Americana Library - Meats and Small Game",
+      "description": "Moist roasted wild turkey with traditional dressing.",
+      "ingredients": [
+        {
+          "item": "wild turkey",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "10-12 lbs, cleaned"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "bacon strips",
+          "quantity": "6-8",
+          "unit": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "2",
+          "unit": "cups"
+        }
       ],
-      "nutrition": {
-        "status": "not_calculated",
-        "per_serving": {},
-        "missing_inputs": [],
-        "assumptions": []
-      }
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rub turkey inside and out with salt, pepper, and butter."
+        },
+        {
+          "step": 2,
+          "text": "Lay bacon strips over breast."
+        },
+        {
+          "step": 3,
+          "text": "Place in roasting pan with broth."
+        },
+        {
+          "step": 4,
+          "text": "Roast at 325\u00b0F, basting frequently, about 20 min per pound."
+        },
+        {
+          "step": 5,
+          "text": "Remove bacon last 30 minutes to brown skin."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "notes": [
+        "Wild turkey is leaner than domestic - baste frequently and don't overcook"
+      ],
+      "tags": [
+        "turkey",
+        "wild-turkey",
+        "roasted",
+        "holiday",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-liver-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Liver Pudding",
+      "category": "mains",
+      "attribution": "Foxfire Book of Hog Dressing",
+      "source_note": "Foxfire Americana Library - Meats and Small Game",
+      "description": "Traditional Appalachian liver pudding (livermush).",
+      "ingredients": [
+        {
+          "item": "pork liver",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "pork scraps",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "sage",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil liver and pork scraps until very tender."
+        },
+        {
+          "step": 2,
+          "text": "Grind or mash meat fine."
+        },
+        {
+          "step": 3,
+          "text": "Return to cooking liquid; stir in cornmeal and seasonings."
+        },
+        {
+          "step": 4,
+          "text": "Cook until thick, stirring constantly."
+        },
+        {
+          "step": 5,
+          "text": "Pour into loaf pan; chill. Slice and fry to serve."
+        }
+      ],
+      "notes": [
+        "Also known as livermush - a Carolina breakfast tradition"
+      ],
+      "tags": [
+        "liver",
+        "pork",
+        "pudding",
+        "breakfast",
+        "foxfire",
+        "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-brains-and-eggs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brains and Eggs",
+      "category": "mains",
+      "attribution": "Foxfire Book of Hog Dressing",
+      "source_note": "Foxfire Americana Library - Meats and Small Game",
+      "description": "Traditional breakfast of scrambled eggs with hog brains.",
+      "ingredients": [
+        {
+          "item": "hog brains",
+          "quantity": "1",
+          "unit": "set",
+          "prep_note": "about 1/2 lb"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak brains in cold salted water 30 minutes; remove membrane."
+        },
+        {
+          "step": 2,
+          "text": "Parboil brains 10 minutes; drain and chop."
+        },
+        {
+          "step": 3,
+          "text": "Beat eggs with salt and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Melt butter in skillet; add brains and heat through."
+        },
+        {
+          "step": 5,
+          "text": "Add eggs; scramble together until set."
+        }
+      ],
+      "notes": [
+        "A delicacy at hog-killing time in Appalachia"
+      ],
+      "tags": [
+        "brains",
+        "eggs",
+        "pork",
+        "breakfast",
+        "foxfire",
+        "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "breakfast",
-    "count": 46,
+    "count": 50,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -4518,6 +4518,333 @@
         "FBC Jasmine Cook Book/IMG_5730.jpeg",
         "FBC Jasmine Cook Book/IMG_5731.jpeg"
       ]
+    },
+    {
+      "id": "foxfire-homemade-butter",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Butter",
+      "category": "breakfast",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional butter churning from The Foxfire Book",
+      "description": "Traditional churned butter with tips for proper temperature and handling.",
+      "servings_yield": "About 1/2-1 lb per batch",
+      "prep_time": "",
+      "cook_time": "30-40 minutes churning",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "rich milk (mostly cream)",
+          "quantity": "",
+          "unit": "half to fill churn",
+          "prep_note": "clabbered"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4 to 1/2",
+          "unit": "tsp",
+          "prep_note": "per pint of butter"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Fill churn half or slightly over half full with rich milk which should be mostly cream."
+        },
+        {
+          "step": 2,
+          "text": "Set the churn aside so the cream can 'turn' or clabber. In summer, pour up one night and churn the next. In winter, warm on alternate sides by fireplace for 3 days."
+        },
+        {
+          "step": 3,
+          "text": "Test readiness: tilt the churn to its side - liquid should hold together in one form, separating cleanly from sides."
+        },
+        {
+          "step": 4,
+          "text": "Insert dasher into churn, cover with lid (hole in center for dasher stick)."
+        },
+        {
+          "step": 5,
+          "text": "Agitate up and down for 30-40 minutes until butter gathers."
+        },
+        {
+          "step": 6,
+          "text": "Remove lid and stir gently with the dasher in a sideways motion to bring butter together."
+        },
+        {
+          "step": 7,
+          "text": "Lift lumps of butter out, drain, place in bowl."
+        },
+        {
+          "step": 8,
+          "text": "Either chill overnight in refrigerator then mold with salt; or rinse with cold water immediately for fresher flavor."
+        },
+        {
+          "step": 9,
+          "text": "Press butter into mold. Store in cool place."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "4-5 gallon churn",
+      "notes": [
+        "If clabbered cream is too warm: result is soft white puffy butter - add cold water to improve texture",
+        "If too cold: yields specks that won't stick together - stir in hot water to help gather",
+        "If left too long, cream will curdle and separate and won't make good butter",
+        "If churned too early while still 'blinky milk,' won't make good butter either",
+        "Liquid left after butter removed is buttermilk",
+        "Traditional chant: 'Come butter come, Come butter come, Peter standing at the gate, Waiting for a butter cake, Come butter come.'"
+      ],
+      "tags": [
+        "butter",
+        "dairy",
+        "churning",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire2-sorrel-omelet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sorrel Omelet",
+      "category": "breakfast",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "A fresh omelet made with wild sorrel leaves.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "young sorrel leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "washed and dried"
+        },
+        {
+          "item": "eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "",
+          "unit": "some",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash and dry young sorrel leaves. Chop fine."
+        },
+        {
+          "step": 2,
+          "text": "Add to eggs, with some onion."
+        },
+        {
+          "step": 3,
+          "text": "Cook omelet."
+        },
+        {
+          "step": 4,
+          "text": "When omelet is cooked, sprinkle more fresh sorrel leaves on top."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "omelet",
+        "breakfast",
+        "eggs",
+        "wild-plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-dandelion-bud-omelet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion Bud Omelet",
+      "category": "breakfast",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional wild food recipe from Foxfire Book 2",
+      "description": "Fluffy omelet made with dandelion buds fried in butter.",
+      "servings_yield": "2 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "dandelion buds",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "gathered before flower color shows"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "dab",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dandelion leaves",
+          "quantity": "handful",
+          "unit": "",
+          "prep_note": "raw, finely cut"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather one cup dandelion buds before flower color shows."
+        },
+        {
+          "step": 2,
+          "text": "Fry buds in a dab of butter until they pop."
+        },
+        {
+          "step": 3,
+          "text": "Add four eggs, salt and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Cook as an omelet."
+        },
+        {
+          "step": 5,
+          "text": "Top with raw dandelion leaves, finely cut, before serving."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "Omelet pan",
+      "notes": [
+        "Gather buds before they show any yellow color for best flavor."
+      ],
+      "tags": [
+        "omelet",
+        "breakfast",
+        "eggs",
+        "dandelion",
+        "wild foods",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cattail-pollen-pancakes-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cattail Pollen Pancakes",
+      "category": "breakfast",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Pancakes made with cattail pollen for a golden color.",
+      "servings_yield": "12-15 small pancakes",
+      "ingredients": [
+        {
+          "item": "cattail pollen",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "bacon drippings",
+          "quantity": "3",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine dry ingredients."
+        },
+        {
+          "step": 2,
+          "text": "Mix with egg, milk, and bacon drippings."
+        },
+        {
+          "step": 3,
+          "text": "Pour dollar-sized amounts onto a hot griddle."
+        },
+        {
+          "step": 4,
+          "text": "Cook until bubbles form, then flip."
+        }
+      ],
+      "tags": [
+        "pancakes",
+        "breakfast",
+        "cattails",
+        "pollen",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

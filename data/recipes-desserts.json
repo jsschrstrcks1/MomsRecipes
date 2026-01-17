@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "desserts",
-    "count": 478,
+    "count": 549,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -50644,6 +50644,6406 @@
         "FBC Jasmine Cook Book/IMG_5754.jpeg",
         "FBC Jasmine Cook Book/IMG_5755.jpeg"
       ]
+    },
+    {
+      "id": "foxfire-old-fashioned-gingerbread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Old-Fashioned Gingerbread",
+      "category": "desserts",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book - at least 100 years old",
+      "description": "A century-old gingerbread recipe from the Appalachian mountains.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "About 1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ginger",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sour milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "nuts or raisins",
+          "quantity": "",
+          "unit": "if desired",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together."
+        },
+        {
+          "step": 2,
+          "text": "Pour into a large loaf pan."
+        },
+        {
+          "step": 3,
+          "text": "Bake for about an hour."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "Large loaf pan",
+      "notes": [
+        "This recipe is at least a hundred years old."
+      ],
+      "tags": [
+        "gingerbread",
+        "appalachian",
+        "foxfire",
+        "dessert",
+        "molasses",
+        "heritage"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-pumpkin-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pumpkin Cake",
+      "category": "desserts",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "A moist pumpkin cake with nuts and raisins.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "About 1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "corn oil",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "scant"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pumpkin spice",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "beaten well"
+        },
+        {
+          "item": "pumpkin",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins or fruit cake mix",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "extra, for coating fruit/nuts"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix corn oil, sugar, flour, spice, powder, soda, salt, and pumpkin."
+        },
+        {
+          "step": 2,
+          "text": "Add eggs beaten well."
+        },
+        {
+          "step": 3,
+          "text": "Add vanilla, nuts, and raisins that have been mixed with 1/2 cup of extra flour."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a loaf pan for about an hour at 400-450\u00b0F."
+        }
+      ],
+      "temperature": "400-450\u00b0F (205-230\u00b0C)",
+      "pan_size": "Loaf pan",
+      "notes": [],
+      "tags": [
+        "pumpkin",
+        "cake",
+        "appalachian",
+        "foxfire",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-sweet-potato-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Potato Pie",
+      "category": "desserts",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "A rustic sweet potato pie with molasses and biscuit dough crust.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sweet potatoes",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "diced and cooked"
+        },
+        {
+          "item": "molasses",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ginger",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "sweet milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "biscuit dough",
+          "quantity": "",
+          "unit": "enough for crust and topping",
+          "prep_note": ""
+        },
+        {
+          "item": "other spices",
+          "quantity": "",
+          "unit": "if desired",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix together all the ingredients except the dough and bring to a boil."
+        },
+        {
+          "step": 2,
+          "text": "Cut rolled dough into cubes and drop into boiling mixture."
+        },
+        {
+          "step": 3,
+          "text": "Put thin slices of dough on top."
+        },
+        {
+          "step": 4,
+          "text": "Put pan in oven and bake until crust is brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [],
+      "tags": [
+        "sweet-potato",
+        "pie",
+        "appalachian",
+        "foxfire",
+        "dessert",
+        "molasses"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-blackberry-cobbler",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Cobbler",
+      "category": "desserts",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Simple blackberry cobbler with biscuit crust.",
+      "servings_yield": "1 pie",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blackberries",
+          "quantity": "",
+          "unit": "enough for one pie",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "small amount",
+          "prep_note": ""
+        },
+        {
+          "item": "biscuit dough",
+          "quantity": "",
+          "unit": "enough for several biscuits",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook the blackberries until they come to a boil."
+        },
+        {
+          "step": 2,
+          "text": "Add as much or little sugar as you want, and then add some butter."
+        },
+        {
+          "step": 3,
+          "text": "Cook until thick."
+        },
+        {
+          "step": 4,
+          "text": "Roll out the dough, cut as for biscuits, and drop into the blackberries."
+        },
+        {
+          "step": 5,
+          "text": "Then roll some dough thin, cut into strips, and place on top of the blackberries."
+        },
+        {
+          "step": 6,
+          "text": "Set the pan in the oven until the crust on top is brown."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "Pie pan or baking dish",
+      "notes": [],
+      "tags": [
+        "blackberry",
+        "cobbler",
+        "appalachian",
+        "foxfire",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-molasses-candy",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Molasses Candy",
+      "category": "desserts",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Old-fashioned pulled molasses candy.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "molasses",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "a few grains",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine molasses, water, and a few grains of salt."
+        },
+        {
+          "step": 2,
+          "text": "Boil ingredients (do not stir) to hard ball stage."
+        },
+        {
+          "step": 3,
+          "text": "Remove from the fire, and let stand until cool enough to hold in well greased hands."
+        },
+        {
+          "step": 4,
+          "text": "After pulling for some time it will change from brown to a yellowish color."
+        },
+        {
+          "step": 5,
+          "text": "Cut into pieces."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Do not stir while boiling",
+        "Grease hands well before pulling"
+      ],
+      "tags": [
+        "candy",
+        "molasses",
+        "appalachian",
+        "foxfire",
+        "dessert",
+        "pulled-candy"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-molasses-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Molasses Cookies",
+      "category": "desserts",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Simple molasses cookies.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "melted lard or butter",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling water",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "enough to knead",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix brown sugar, egg, molasses, melted lard or butter, boiling water, and salt."
+        },
+        {
+          "step": 2,
+          "text": "Add enough flour to knead."
+        },
+        {
+          "step": 3,
+          "text": "Roll, cut out, and bake in hot oven."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [],
+      "tags": [
+        "cookies",
+        "molasses",
+        "appalachian",
+        "foxfire",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire2-rhubarb-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rhubarb Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "A layered rhubarb pie with biscuits, served cold with milk or cream.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "rhubarb stalks",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cut just above ground"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "a little",
+          "prep_note": ""
+        },
+        {
+          "item": "honey or syrup",
+          "quantity": "",
+          "unit": "to sweeten",
+          "prep_note": ""
+        },
+        {
+          "item": "biscuits",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "split"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut rhubarb stalks just above ground. Slice into half-inch pieces."
+        },
+        {
+          "step": 2,
+          "text": "Cook with a little water over low heat in uncovered pan, stirring often, until rhubarb is the consistency of applesauce."
+        },
+        {
+          "step": 3,
+          "text": "Sweeten with honey or syrup."
+        },
+        {
+          "step": 4,
+          "text": "Layer in large flat-bottomed pan with half inch of rhubarb sauce, layer of split biscuits, layer of rhubarb, etc., finishing with layer of biscuits."
+        },
+        {
+          "step": 5,
+          "text": "Chill and eat with milk or cream."
+        }
+      ],
+      "temperature": "Low heat",
+      "pan_size": "Large flat-bottomed pan",
+      "notes": [
+        "Rhubarb leaves are poisonous - use only the stalks"
+      ],
+      "tags": [
+        "pie",
+        "rhubarb",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-turks-delight",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Turk's Delight (Fried Rhubarb Flowers)",
+      "category": "desserts",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "Battered and fried rhubarb flowers, dipped in sugar.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "rhubarb flowers",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "gathered"
+        },
+        {
+          "item": "salt water",
+          "quantity": "",
+          "unit": "for soaking",
+          "prep_note": ""
+        },
+        {
+          "item": "batter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "fat",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": "hot"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "for dipping",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather rhubarb flowers."
+        },
+        {
+          "step": 2,
+          "text": "Soak one-half hour in salt water."
+        },
+        {
+          "step": 3,
+          "text": "Drain and dry."
+        },
+        {
+          "step": 4,
+          "text": "Dip in batter and fry in hot fat."
+        },
+        {
+          "step": 5,
+          "text": "Drain."
+        },
+        {
+          "step": 6,
+          "text": "Dip in sugar and eat hot."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "fried",
+        "flowers",
+        "rhubarb",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-mulberry-candy",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mulberry Candy",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Simple candy balls made from mulberries and walnuts.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "mulberries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "walnuts",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "ground"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "for rolling",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Crush mulberries and mix with ground walnuts."
+        },
+        {
+          "step": 2,
+          "text": "Make small balls and roll in sugar."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Red mulberries ripen in June and are best for cooking"
+      ],
+      "tags": [
+        "candy",
+        "mulberry",
+        "walnuts",
+        "no-bake",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-mulberry-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mulberry Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A creamy pie made with fresh mulberries.",
+      "servings_yield": "1 pie",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "mulberries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cooked and drained"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pie shell",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "unbaked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook mulberries and drain."
+        },
+        {
+          "step": 2,
+          "text": "Mix with two beaten eggs, one cup cream, and 1/2 cup sugar."
+        },
+        {
+          "step": 3,
+          "text": "Fill a pie shell and bake."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [],
+      "tags": [
+        "pie",
+        "mulberry",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-serviceberry-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Serviceberry Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 3 - Jake Waldroop",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A pie made from serviceberries (sarviceberries). Jake Waldroop said, 'The berries are just wonderful for pies.'",
+      "servings_yield": "1 pie",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "ripe serviceberries",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pie shell",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "unbaked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat one pint ripe berries and 2/3 cup sugar."
+        },
+        {
+          "step": 2,
+          "text": "Pour into a pie shell."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a hot oven."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [
+        "Serviceberries can be substituted for blueberries in pie recipes",
+        "Also called sarviceberry, juneberry, or sarvis"
+      ],
+      "tags": [
+        "pie",
+        "serviceberry",
+        "sarvis",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-serviceberry-flan",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Serviceberry Flan",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A custard flan with serviceberries.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "serviceberries",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat milk, sugar, flour, salt, and vanilla until smooth."
+        },
+        {
+          "step": 2,
+          "text": "Pour half of the mixture into a buttered baking dish and bake one minute."
+        },
+        {
+          "step": 3,
+          "text": "Add the berries, then cover with the other half of the mix."
+        },
+        {
+          "step": 4,
+          "text": "Bake until set."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Buttered baking dish",
+      "notes": [],
+      "tags": [
+        "flan",
+        "serviceberry",
+        "custard",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-dewberry-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dewberry Frosting",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A bright frosting made from dewberry juice.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "dewberry juice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "from cooked and strained berries"
+        },
+        {
+          "item": "confectioners sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook berries and strain."
+        },
+        {
+          "step": 2,
+          "text": "Use one cup juice to one cup confectioners sugar."
+        },
+        {
+          "step": 3,
+          "text": "Spread on cake."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "frosting",
+        "dewberry",
+        "cake",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-dewberry-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dewberry Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A simple dewberry pie with a buttery top.",
+      "servings_yield": "1 pie",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "dewberries",
+          "quantity": "",
+          "unit": "to fill shell",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "for dotting",
+          "prep_note": ""
+        },
+        {
+          "item": "pastry shell",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix one cup sugar, 1/4 cup flour, and dash of salt."
+        },
+        {
+          "step": 2,
+          "text": "Fill a pastry shell with dewberries."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle the mixture of sugar, flour, and salt over the top."
+        },
+        {
+          "step": 4,
+          "text": "Dot with butter and bake."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [],
+      "tags": [
+        "pie",
+        "dewberry",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blackberry-cobbler",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Cobbler (Foxfire 3)",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Classic mountain blackberry cobbler with biscuit topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blackberries",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "small amount",
+          "prep_note": ""
+        },
+        {
+          "item": "biscuit dough",
+          "quantity": "",
+          "unit": "for several biscuits",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook the blackberries until they come to a boil."
+        },
+        {
+          "step": 2,
+          "text": "Add the sugar, then some butter, and cook until thick."
+        },
+        {
+          "step": 3,
+          "text": "Roll out the dough, cut as for biscuits, and drop into the blackberries."
+        },
+        {
+          "step": 4,
+          "text": "Roll some dough very thin, cut it into strips and place on top of the blackberries."
+        },
+        {
+          "step": 5,
+          "text": "Bake until the crust on top is brown."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "Baking dish",
+      "notes": [
+        "Blackberries were sometimes dried on strips of chestnut bark and stored in sacks"
+      ],
+      "tags": [
+        "cobbler",
+        "blackberry",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blackberry-flummery",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Flummery",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A chilled blackberry pudding thickened with cornstarch.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blackberries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "hot water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix berries with water, sugar, salt, and cinnamon, and cook to the boiling point."
+        },
+        {
+          "step": 2,
+          "text": "Reduce heat and cook slowly until liquid begins to look slightly syrupy."
+        },
+        {
+          "step": 3,
+          "text": "Make a paste of cornstarch and three tablespoons water."
+        },
+        {
+          "step": 4,
+          "text": "Stir into berry mixture, cook until slightly thick."
+        },
+        {
+          "step": 5,
+          "text": "Serve cold."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "flummery",
+        "pudding",
+        "blackberry",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blackberry-roll",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Roll",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A rolled pastry filled with blackberries and honey.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "biscuit dough",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "blackberries",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "divided"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "honey",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roll dough to 1/3-inch thickness, and brush with melted butter."
+        },
+        {
+          "step": 2,
+          "text": "Combine 1/2 the berries with cinnamon and honey and spread them over dough."
+        },
+        {
+          "step": 3,
+          "text": "Roll as a jelly roll. Place in a large, well-greased pan."
+        },
+        {
+          "step": 4,
+          "text": "Surround with remaining blackberries and sugar."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 425\u00b0 for thirty minutes."
+        },
+        {
+          "step": 6,
+          "text": "Slice and serve from the pan."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "Large greased pan",
+      "notes": [],
+      "tags": [
+        "roll",
+        "blackberry",
+        "honey",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blueberry-cobbler",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry Cobbler",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Mountain blueberry cobbler with sweet biscuit topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blueberries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for dough"
+        },
+        {
+          "item": "shortening",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "enough to mix",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook berries for fifteen minutes over medium heat with one cup sugar."
+        },
+        {
+          "step": 2,
+          "text": "For dough, use two cups flour and two tablespoons each of sugar and shortening with a pinch of salt and two teaspoons baking powder. Add enough milk to mix."
+        },
+        {
+          "step": 3,
+          "text": "Drop dough by spoonfuls onto hot berries and bake until golden."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Baking dish",
+      "notes": [],
+      "tags": [
+        "cobbler",
+        "blueberry",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blueberry-crisp",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry Crisp",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A simple blueberry crisp with oat topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blueberries",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "quick oats",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put berries in a greased baking dish and sprinkle with 1/3 cup sugar."
+        },
+        {
+          "step": 2,
+          "text": "For topping, cream butter and brown sugar."
+        },
+        {
+          "step": 3,
+          "text": "Blend in flour and oats with a fork."
+        },
+        {
+          "step": 4,
+          "text": "Spread over berries and bake."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Greased baking dish",
+      "notes": [],
+      "tags": [
+        "crisp",
+        "blueberry",
+        "oats",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blueberry-dessert",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry Dessert Rolls",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Rolled biscuit dough filled with blueberries, baked upside down.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blueberries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "cooked and drained"
+        },
+        {
+          "item": "biscuit mix",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook berries and drain thoroughly."
+        },
+        {
+          "step": 2,
+          "text": "Make dough from biscuit mix and milk."
+        },
+        {
+          "step": 3,
+          "text": "Roll out dough, brush with butter, and sprinkle with sugar and cinnamon."
+        },
+        {
+          "step": 4,
+          "text": "Cover with blueberries."
+        },
+        {
+          "step": 5,
+          "text": "Roll up like a jelly roll. Place seam side down in a greased baking dish."
+        },
+        {
+          "step": 6,
+          "text": "Bake in a hot oven (425\u00b0) about thirty minutes."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "Greased baking dish",
+      "notes": [],
+      "tags": [
+        "rolls",
+        "blueberry",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-gooseberry-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Gooseberry Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A classic gooseberry pie with lattice top.",
+      "servings_yield": "1 pie",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "gooseberries",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pie crust",
+          "quantity": "",
+          "unit": "bottom and lattice top",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix two cups berries with 3/4 cup sugar and cook until soft and clear."
+        },
+        {
+          "step": 2,
+          "text": "Pour into a pie shell."
+        },
+        {
+          "step": 3,
+          "text": "Lay strips of pie dough crosswise on the berries."
+        },
+        {
+          "step": 4,
+          "text": "Bake at about 450\u00b0 until the crust is golden."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [
+        "Wild gooseberries are prickly but very sweet inside"
+      ],
+      "tags": [
+        "pie",
+        "gooseberry",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-strawberry-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Strawberry Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from Foxfire 2",
+      "description": "Fresh strawberry pie with syrup topping.",
+      "servings_yield": "1 pie",
+      "prep_time": "",
+      "cook_time": "15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "lard",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "5",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "crushed strawberries",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh strawberries",
+          "quantity": "",
+          "unit": "for filling",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sift flour, mix with lard, salt, cold water, and vinegar. Mix well and roll out dough."
+        },
+        {
+          "step": 2,
+          "text": "Put in greased pie pan. Bake fifteen minutes."
+        },
+        {
+          "step": 3,
+          "text": "Make filling of one cup crushed strawberries, one-half cup sugar, two tablespoons cornstarch, and one cup water. Cook into a syrup."
+        },
+        {
+          "step": 4,
+          "text": "Fill pie crust with fresh strawberries, pour syrup over top and serve."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [],
+      "tags": [
+        "pie",
+        "strawberry",
+        "wild",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-strawberry-mallow",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Strawberry Mallow",
+      "category": "desserts",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian dessert from Foxfire 2",
+      "description": "A chilled strawberry and marshmallow dessert.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "wild strawberries",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "few grains",
+          "prep_note": ""
+        },
+        {
+          "item": "marshmallows",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix together strawberries, sugar, salt, marshmallows, and cream."
+        },
+        {
+          "step": 2,
+          "text": "Chill."
+        },
+        {
+          "step": 3,
+          "text": "Top with whole berries."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "dessert",
+        "strawberry",
+        "marshmallow",
+        "no-bake",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-persimmon-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Persimmon Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A rich baked persimmon pudding.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "persimmon pulp",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "strained through colander"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Strain persimmons through a colander."
+        },
+        {
+          "step": 2,
+          "text": "Stir all ingredients together."
+        },
+        {
+          "step": 3,
+          "text": "Put in greased pan."
+        },
+        {
+          "step": 4,
+          "text": "Bake one hour at low heat."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "Greased baking pan",
+      "notes": [
+        "Persimmons are very high in food energy"
+      ],
+      "tags": [
+        "pudding",
+        "persimmon",
+        "dessert",
+        "baked",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-persimmon-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Persimmon Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A spiced persimmon custard pie with meringue topping.",
+      "servings_yield": "1 nine-inch pie",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "persimmon pulp",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "peeled and crushed smooth"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour or cornstarch",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pie shell",
+          "quantity": "1",
+          "unit": "nine-inch",
+          "prep_note": "unbaked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel and crush persimmons until smooth."
+        },
+        {
+          "step": 2,
+          "text": "Add sugar and beat. Add three egg yolks and one egg white."
+        },
+        {
+          "step": 3,
+          "text": "Add milk, nutmeg, and salt. Beat until smooth."
+        },
+        {
+          "step": 4,
+          "text": "Pour into nine-inch pie shell and bake until done."
+        },
+        {
+          "step": 5,
+          "text": "Make meringue by beating whites of remaining eggs until stiff. Add four tablespoons sugar."
+        },
+        {
+          "step": 6,
+          "text": "Put on top of pie and brown in moderate oven."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9-inch pie pan",
+      "notes": [],
+      "tags": [
+        "pie",
+        "persimmon",
+        "meringue",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-pawpaw-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pawpaw Pie",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A custard pie made from pawpaws, which taste 'somewheres between a banana and a persimmon.'",
+      "servings_yield": "1 pie",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pawpaws",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "peeled and seeded"
+        },
+        {
+          "item": "pie shell",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "unbaked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place sugar, milk, egg, salt, and pawpaws in a stew pan and stir together."
+        },
+        {
+          "step": 2,
+          "text": "Cook until thickened."
+        },
+        {
+          "step": 3,
+          "text": "Pour in an unbaked pie shell and bake until done."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [
+        "Pawpaws ripen in late autumn and taste like a cross between banana and persimmon"
+      ],
+      "tags": [
+        "pie",
+        "pawpaw",
+        "custard",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-plum-cobbler",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Plum Cobbler",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A layered plum cobbler with strips of biscuit dough.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "wild plums",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "cooked and pitted"
+        },
+        {
+          "item": "biscuit dough",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "rolled thin, cut in strips"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "for topping",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "for dotting",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook and pit one quart plums."
+        },
+        {
+          "step": 2,
+          "text": "Roll biscuit dough thin and cut in strips."
+        },
+        {
+          "step": 3,
+          "text": "Grease a pan well and add a layer of plums and strips of dough, topping with sugar and dabs of butter."
+        },
+        {
+          "step": 4,
+          "text": "Repeat until pan is almost full."
+        },
+        {
+          "step": 5,
+          "text": "Bake in medium oven."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Greased baking pan",
+      "notes": [],
+      "tags": [
+        "cobbler",
+        "plum",
+        "wild",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-plum-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Plum Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A baked plum pudding with cake-like topping.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "1 hour",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "wild plums",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "pitted, cooked, sweetened, 2 inches deep"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "scant cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put pitted, cooked, sweetened plums two inches deep in bottom of a baking dish."
+        },
+        {
+          "step": 2,
+          "text": "Beat one cup sugar, four tablespoons butter, and one egg to a cream."
+        },
+        {
+          "step": 3,
+          "text": "Add one scant cup of milk, two cups all-purpose flour, and two teaspoons baking powder."
+        },
+        {
+          "step": 4,
+          "text": "Mix well, and pour over plums."
+        },
+        {
+          "step": 5,
+          "text": "Bake one hour at 350\u00b0."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking dish",
+      "notes": [],
+      "tags": [
+        "pudding",
+        "plum",
+        "wild",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-sugared-nut-meats",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sugared Nut Meats",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Spiced candied nuts with rum flavoring.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "vegetable oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "rum flavor",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "ginger",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "shelled nuts",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream oil, sugar, flavoring and spices."
+        },
+        {
+          "step": 2,
+          "text": "Spread nuts on cookie sheet, heat in moderate oven ten minutes."
+        },
+        {
+          "step": 3,
+          "text": "Turn hot nuts into the cream mixture and stir."
+        },
+        {
+          "step": 4,
+          "text": "Separate and spread on a cookie sheet to cool."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Cookie sheet",
+      "notes": [
+        "Can use walnuts, hickory nuts, or hazelnuts"
+      ],
+      "tags": [
+        "candy",
+        "nuts",
+        "spiced",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-nut-brittle-squares",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nut Brittle Squares",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian candy from Foxfire 3",
+      "description": "Caramelized sugar poured over nuts for a simple brittle.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "for pan",
+          "prep_note": ""
+        },
+        {
+          "item": "nuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Butter the outside bottom of an eight-inch-square pan."
+        },
+        {
+          "step": 2,
+          "text": "Spread evenly with one cup finely chopped nuts."
+        },
+        {
+          "step": 3,
+          "text": "Set pan, nut side up, on a tray."
+        },
+        {
+          "step": 4,
+          "text": "Put one cup sugar in skillet and heat, stirring until golden brown and syrupy."
+        },
+        {
+          "step": 5,
+          "text": "Pour over nuts at once."
+        },
+        {
+          "step": 6,
+          "text": "When slightly cooled, remove in one piece to a board and cut into two-inch squares."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "8-inch square pan",
+      "notes": [
+        "Works with walnuts, hickory nuts, or hazelnuts"
+      ],
+      "tags": [
+        "brittle",
+        "candy",
+        "nuts",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-chestnut-croquettes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chestnut Croquettes",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Sweet fried chestnut balls.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "chestnuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "mashed, boiled"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "cream",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "crumbs",
+          "quantity": "",
+          "unit": "for rolling",
+          "prep_note": ""
+        },
+        {
+          "item": "fat",
+          "quantity": "",
+          "unit": "for deep frying",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix one cup mashed, boiled chestnuts with 1/4 teaspoon vanilla, two beaten egg yolks, two tablespoons cream, one teaspoon sugar."
+        },
+        {
+          "step": 2,
+          "text": "Shape in balls, roll in crumbs."
+        },
+        {
+          "step": 3,
+          "text": "Fry in deep fat."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "American chestnuts are now rare due to blight but still occasionally found"
+      ],
+      "tags": [
+        "croquettes",
+        "chestnut",
+        "fried",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-acorn-indian-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Acorn Indian Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A cornmeal-style pudding made with acorn meal and sorghum.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "acorn meal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "3 cups boiling, 1 cup for mixing"
+        },
+        {
+          "item": "sorghum syrup",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put three cups water on to boil."
+        },
+        {
+          "step": 2,
+          "text": "Mix acorn meal with remaining cup of water, stir until smooth."
+        },
+        {
+          "step": 3,
+          "text": "Add to boiling water, stir until thickened."
+        },
+        {
+          "step": 4,
+          "text": "Add sorghum syrup to taste."
+        },
+        {
+          "step": 5,
+          "text": "Cover and cook fifteen minutes at low heat."
+        }
+      ],
+      "temperature": "Low heat",
+      "pan_size": "",
+      "notes": [
+        "Acorn meal was once a staple of pioneer diet when times were rough"
+      ],
+      "tags": [
+        "pudding",
+        "acorn",
+        "sorghum",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-elderflower-fritters",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderflower Fritters",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Battered and fried elderflower clusters.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "elderflower clusters",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "fritter batter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "fat",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "",
+          "unit": "for dusting",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dip elderflower clusters in fritter batter."
+        },
+        {
+          "step": 2,
+          "text": "Fry in fat."
+        },
+        {
+          "step": 3,
+          "text": "Dust with powdered sugar and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "fritters",
+        "elderflower",
+        "fried",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-black-walnut-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Black Walnut Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A rich pudding with black walnuts.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "black walnut meats",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat egg yolks with sugar until light."
+        },
+        {
+          "step": 2,
+          "text": "Add milk and flour, cook until thickened."
+        },
+        {
+          "step": 3,
+          "text": "Add vanilla and walnuts."
+        },
+        {
+          "step": 4,
+          "text": "Fold in stiffly beaten egg whites."
+        },
+        {
+          "step": 5,
+          "text": "Pour into baking dish and bake until set."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "Baking dish",
+      "notes": [],
+      "tags": [
+        "pudding",
+        "walnut",
+        "black-walnut",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-aunt-arie-egg-custard",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Aunt Arie's Egg Custard",
+      "category": "desserts",
+      "attribution": "Foxfire 2 - Aunt Arie",
+      "source_note": "Traditional Appalachian custard pie from Foxfire 2",
+      "description": "A simple egg custard pie baked on a wood stove.",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "biscuit dough",
+          "quantity": "",
+          "unit": "for crust",
+          "prep_note": "rolled thin"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten well"
+        },
+        {
+          "item": "sweet milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "handful",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "teacup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Line a small pie pan with plain biscuit dough rolled thin."
+        },
+        {
+          "step": 2,
+          "text": "In a separate bowl, mix up one egg (beaten well), one cup of sweet milk, a handful of flour, a teaspoon of nutmeg, half a teacup of sugar."
+        },
+        {
+          "step": 3,
+          "text": "Mix it all up well, pour into the crust."
+        },
+        {
+          "step": 4,
+          "text": "Using just a little wood so the fire won't be too hot, bake slowly until it 'sets.'"
+        },
+        {
+          "step": 5,
+          "text": "It will 'blubber up' - or bubble, and then the bubbles will settle. At this point it is ready to eat."
+        }
+      ],
+      "temperature": "Low/slow heat",
+      "pan_size": "Small pie pan",
+      "notes": [
+        "Originally cooked on a wood stove"
+      ],
+      "tags": [
+        "custard",
+        "pie",
+        "egg",
+        "dessert",
+        "appalachian",
+        "foxfire",
+        "aunt-arie"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-sweet-potato-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Potato Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from Foxfire 2",
+      "description": "A baked sweet potato pudding with raisins and coconut.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sweet potato",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "cooked and mashed"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sweet milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "grated coconut",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix together all ingredients."
+        },
+        {
+          "step": 2,
+          "text": "Bake in a casserole dish in a moderate oven for about half-hour, or until firm."
+        },
+        {
+          "step": 3,
+          "text": "Serve hot or cold."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Casserole dish",
+      "notes": [],
+      "tags": [
+        "pudding",
+        "sweet-potato",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-mint-frosting",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mint Frosting",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian frosting from Foxfire 3",
+      "description": "A fresh mint frosting for cakes.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "young mint leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped fine"
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "soft butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cream",
+          "quantity": "",
+          "unit": "drops",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop young mint leaves fine."
+        },
+        {
+          "step": 2,
+          "text": "Mix with powdered sugar, soft butter, and drops of cream."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "frosting",
+        "mint",
+        "cake",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-fig-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fig Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A rice pudding with figs and nuts.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cooked rice",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "whole",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/4",
+          "unit": "stick",
+          "prep_note": "melted"
+        },
+        {
+          "item": "figs",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "nuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix rice, milk, beaten egg, figs, nuts, and spices."
+        },
+        {
+          "step": 2,
+          "text": "Add vanilla and melted butter."
+        },
+        {
+          "step": 3,
+          "text": "Pour into greased baking dish and bake."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Greased baking dish",
+      "notes": [],
+      "tags": [
+        "pudding",
+        "fig",
+        "rice",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-honey-figs",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Honey Figs",
+      "category": "desserts",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Fresh figs drizzled with honey.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "figs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "peeled and halved"
+        },
+        {
+          "item": "honey",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "thin"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel figs and cut in half."
+        },
+        {
+          "step": 2,
+          "text": "Arrange in serving dish."
+        },
+        {
+          "step": 3,
+          "text": "Pour a thin honey over them."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "figs",
+        "honey",
+        "dessert",
+        "simple",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire4-bleached-apple-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mrs. Parker's Bleached Apple Pie",
+      "category": "desserts",
+      "attribution": "Mrs. Parker, via Foxfire 4",
+      "source_note": "Traditional Appalachian bleached apple pie from Foxfire Book 4",
+      "description": "A pie made with sulfur-bleached apples that taste like fresh apples even months after preserving.",
+      "servings_yield": "1 pie",
+      "prep_time": "15 minutes",
+      "cook_time": "30-35 minutes",
+      "total_time": "45-50 minutes",
+      "ingredients": [
+        {
+          "item": "bleached apple pieces",
+          "quantity": "several",
+          "unit": "cups",
+          "prep_note": "sulfur-preserved"
+        },
+        {
+          "item": "pie crust",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "uncooked"
+        },
+        {
+          "item": "butter",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F (175\u00b0C)."
+        },
+        {
+          "step": 2,
+          "text": "Place several cups of bleached apple pieces in an uncooked pie crust."
+        },
+        {
+          "step": 3,
+          "text": "Add butter, sugar, and cinnamon to taste."
+        },
+        {
+          "step": 4,
+          "text": "Cover with pastry strips or a second crust if preferred."
+        },
+        {
+          "step": 5,
+          "text": "Bake for 30-35 minutes or until crust is golden brown."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Pie pan",
+      "notes": [
+        "Bleached apples are preserved using sulfur smoke in a special box.",
+        "Use as little water as possible when cooking bleached apples - water brings back the sulfur taste.",
+        "The sulfur taste is not noticeable when apples are eaten dry."
+      ],
+      "tags": [
+        "pie",
+        "desserts",
+        "apple",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire4-fried-apple-pies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blanche Harkins' Fried Apple Pies",
+      "category": "desserts",
+      "attribution": "Blanche Harkins, via Foxfire 4",
+      "source_note": "Traditional Appalachian fried apple pies from Foxfire Book 4",
+      "description": "Traditional half-moon shaped pies filled with spiced dried apples, fried until golden. Yellow apples make tastier pies.",
+      "servings_yield": "4 small pies",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "50 minutes (plus time for drying apples)",
+      "ingredients": [
+        {
+          "item": "dried apples",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "red or yellow, yellow preferred"
+        },
+        {
+          "item": "sugar",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon or allspice",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "self-rising flour",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "Crisco (shortening)",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for crust"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for crust"
+        },
+        {
+          "item": "Crisco (shortening)",
+          "quantity": "enough to almost cover pies",
+          "unit": "",
+          "prep_note": "for frying"
+        },
+        {
+          "item": "butter",
+          "quantity": "for brushing",
+          "unit": "",
+          "prep_note": "optional, for baking"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "To dry apples: Peel and core apples, cut into thin slices. Soak in salt water, drain, lay on flat board or pan on white cloth. Dry outside in sunshine for several days until shrunk to half size. Store in sacks in dry place."
+        },
+        {
+          "step": 2,
+          "text": "To prepare filling: Add small amount of water to dried apples and cook until tender. Mash with a fork. Add sugar and cinnamon or allspice to taste."
+        },
+        {
+          "step": 3,
+          "text": "Make pie crust: Mix 4 cups self-rising flour with 1/2 cup Crisco and 1 cup water. Work like regular pie crust."
+        },
+        {
+          "step": 4,
+          "text": "Divide dough into fist-sized balls (one per pie)."
+        },
+        {
+          "step": 5,
+          "text": "Roll each ball into a very thin circle."
+        },
+        {
+          "step": 6,
+          "text": "Place cooked apples on one half of the circle."
+        },
+        {
+          "step": 7,
+          "text": "Fold crust over apples and press edges together with fingers or fork."
+        },
+        {
+          "step": 8,
+          "text": "Make tiny holes or slits in top with fork or knife to let air out."
+        },
+        {
+          "step": 9,
+          "text": "Put enough Crisco in large iron frying pan to almost cover the pies. Fry until golden."
+        },
+        {
+          "step": 10,
+          "text": "Alternatively, brush with melted butter and bake for crisp crust."
+        }
+      ],
+      "temperature": "Medium-high heat for frying",
+      "pan_size": "Large iron frying pan",
+      "notes": [
+        "Yellow apples make tastier pies than red.",
+        "The holes in the crust prevent edges from turning up during cooking.",
+        "Can be baked instead of fried - brush with melted butter before baking."
+      ],
+      "tags": [
+        "pie",
+        "fried pie",
+        "desserts",
+        "apple",
+        "appalachian",
+        "foxfire",
+        "traditional",
+        "dried fruit"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire2-sugared-violets",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sugared Violets",
+      "category": "desserts",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional confection from Foxfire Book 2",
+      "description": "Crystallized violet blossoms for decoration or eating.",
+      "servings_yield": "About 1 cup",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "30 minutes plus drying time",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "dash",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh violet blossoms",
+          "quantity": "as desired",
+          "unit": "",
+          "prep_note": "stems removed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook two cups sugar, half cup water, and a dash of cream of tartar."
+        },
+        {
+          "step": 2,
+          "text": "Stir until sugar grains (crystallizes)."
+        },
+        {
+          "step": 3,
+          "text": "Dip fresh violet blossoms (free from stems) into the sugar mixture."
+        },
+        {
+          "step": 4,
+          "text": "Place on platter to dry."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Saucepan",
+      "notes": [
+        "Beautiful for decorating cakes or eating as confections."
+      ],
+      "tags": [
+        "confection",
+        "desserts",
+        "violet",
+        "candy",
+        "appalachian",
+        "foxfire",
+        "flowers"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "appalachian-steamed-elderberry-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Steamed Elderberry Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire Three",
+      "source_note": "Traditional Appalachian wild plant recipes",
+      "description": "Traditional steamed pudding made with wild elderberries.",
+      "servings_yield": "6-8 servings",
+      "ingredients": [
+        {
+          "item": "elderberries",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "4",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sift dry ingredients (flour, baking powder, salt) together."
+        },
+        {
+          "step": 2,
+          "text": "Work in the butter."
+        },
+        {
+          "step": 3,
+          "text": "Add milk and mix well."
+        },
+        {
+          "step": 4,
+          "text": "Combine sugar, berries, and lemon juice."
+        },
+        {
+          "step": 5,
+          "text": "Mix these with the batter."
+        },
+        {
+          "step": 6,
+          "text": "Pour into a buttered baking dish."
+        },
+        {
+          "step": 7,
+          "text": "Cover tightly and steam forty-five minutes."
+        },
+        {
+          "step": 8,
+          "text": "Serve with cream."
+        }
+      ],
+      "tags": [
+        "dessert",
+        "pudding",
+        "elderberry",
+        "steamed",
+        "wild plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "dandelion-baklava-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion Baklava",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional baklava made with dandelion blossom syrup.",
+      "servings_yield": "30 pieces",
+      "ingredients": [
+        {
+          "item": "fillo leaves",
+          "quantity": "1/2",
+          "unit": "box"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "stick"
+        },
+        {
+          "item": "hickory nuts, walnuts, or pecans",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "dandelion blossom syrup",
+          "quantity": "3/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine nuts with sugar and spices."
+        },
+        {
+          "step": 2,
+          "text": "Melt butter."
+        },
+        {
+          "step": 3,
+          "text": "Layer 8 fillo sheets in buttered 9x13 pan, brushing every other sheet with butter."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle half the nut mixture."
+        },
+        {
+          "step": 5,
+          "text": "Layer 8 more sheets and remaining nut mixture."
+        },
+        {
+          "step": 6,
+          "text": "Top with remaining fillo sheets, brushing top generously with butter."
+        },
+        {
+          "step": 7,
+          "text": "Cut into 30 squares before baking."
+        },
+        {
+          "step": 8,
+          "text": "Bake at 375\u00b0F for 30 minutes until lightly browned."
+        },
+        {
+          "step": 9,
+          "text": "Pour room temperature syrup over hot baklava."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "cook_time": "30 minutes",
+      "tags": [
+        "dessert",
+        "baklava",
+        "dandelion",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "loquat-pie-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Loquat Pie",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional fruit pie made with loquats.",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "loquats",
+          "quantity": "8",
+          "unit": "cups"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ginger",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "allspice",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "pastry for double crust pie",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stem, wash, and cut loquats, leaving a few seeds for flavor."
+        },
+        {
+          "step": 2,
+          "text": "Cook in water covered 10 minutes until nearly tender."
+        },
+        {
+          "step": 3,
+          "text": "Combine sugar, flour, salt, ginger, and allspice."
+        },
+        {
+          "step": 4,
+          "text": "Stir into loquats. Cook stirring until thickened, cool."
+        },
+        {
+          "step": 5,
+          "text": "Pour into bottom crust, cover with top crust, prick or slash."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 450\u00b0F for 10 minutes, reduce to 350\u00b0F for 45 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Serve with vanilla ice cream and rum sauce."
+        }
+      ],
+      "temperature": "450\u00b0F then 350\u00b0F",
+      "cook_time": "55 minutes",
+      "tags": [
+        "pie",
+        "dessert",
+        "loquat",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "mulberry-pie-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mulberry Pie",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Fruit pie made with fresh mulberries.",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "baked 9-inch pie crust",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "stemmed mulberries",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon or lime juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine sugar with mulberries in a saucepan."
+        },
+        {
+          "step": 2,
+          "text": "Mix cornstarch with water separately."
+        },
+        {
+          "step": 3,
+          "text": "Add cornstarch mixture and juice to berries."
+        },
+        {
+          "step": 4,
+          "text": "Cook over medium heat until mixture thickens and juice becomes clear."
+        },
+        {
+          "step": 5,
+          "text": "Pour into baked pie shell."
+        },
+        {
+          "step": 6,
+          "text": "Cool and serve."
+        }
+      ],
+      "tags": [
+        "pie",
+        "dessert",
+        "mulberry",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hickory-nut-cake-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Nut Cake",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Classic three-layer cake with hickory nuts.",
+      "servings_yield": "12-16 servings",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1.5",
+          "unit": "cups"
+        },
+        {
+          "item": "cake flour",
+          "quantity": "2.5",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "chopped hickory nuts",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "egg whites",
+          "quantity": "5",
+          "unit": "",
+          "prep_note": "stiffly beaten"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Cream butter and sugar together."
+        },
+        {
+          "step": 3,
+          "text": "Alternate adding flour mixture and milk."
+        },
+        {
+          "step": 4,
+          "text": "Add vanilla."
+        },
+        {
+          "step": 5,
+          "text": "Fold in nuts and stiffly beaten egg whites."
+        },
+        {
+          "step": 6,
+          "text": "Divide among three greased pans."
+        },
+        {
+          "step": 7,
+          "text": "Bake 20 minutes until done."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "cake",
+        "hickory",
+        "dessert",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hickory-nut-filling-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Nut Filling",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Creamy filling for cakes made with hickory nuts.",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "light cream",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "corn syrup",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chopped hickory nuts",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook sugar, cream, and syrup to 238\u00b0F (soft ball stage)."
+        },
+        {
+          "step": 2,
+          "text": "Remove from heat and cool."
+        },
+        {
+          "step": 3,
+          "text": "Beat until creamy."
+        },
+        {
+          "step": 4,
+          "text": "Stir in butter and nuts."
+        }
+      ],
+      "tags": [
+        "filling",
+        "frosting",
+        "hickory",
+        "dessert",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hickory-nut-pie-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Nut Pie",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Southern-style pie similar to pecan pie but with hickory nuts.",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "pastry for 9-inch deep-dish pie",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "light corn syrup",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "melted butter",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "maple syrup or flavoring",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "or 1/2 tsp maple flavoring"
+        },
+        {
+          "item": "coarsely chopped hickory nuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "heaping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat to 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Beat eggs, add syrup and butter."
+        },
+        {
+          "step": 3,
+          "text": "Stir in sugar, maple syrup, and nuts."
+        },
+        {
+          "step": 4,
+          "text": "Pour into pastry shell."
+        },
+        {
+          "step": 5,
+          "text": "Bake 45-55 minutes until set."
+        },
+        {
+          "step": 6,
+          "text": "Serve with whipped cream."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "pie",
+        "hickory",
+        "dessert",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hickory-nut-refrigerator-cookies-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Nut Refrigerator Cookies",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Slice-and-bake cookies with hickory nuts.",
+      "servings_yield": "4 dozen",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "chopped hickory nuts",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream butter, add egg and beat until fluffy."
+        },
+        {
+          "step": 2,
+          "text": "Beat in sugar and vanilla."
+        },
+        {
+          "step": 3,
+          "text": "Stir in flour, baking soda, salt, and nuts."
+        },
+        {
+          "step": 4,
+          "text": "Shape into two logs, wrap and refrigerate 1-2 hours."
+        },
+        {
+          "step": 5,
+          "text": "Slice thin, bake at 350\u00b0F for 10-15 minutes until golden."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "cookies",
+        "hickory",
+        "dessert",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "maple-hickory-apple-crisp-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Maple Hickory Apple Crisp",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Apple crisp topped with hickory nuts and maple syrup.",
+      "servings_yield": "15 servings",
+      "ingredients": [
+        {
+          "item": "sliced apples",
+          "quantity": "8",
+          "unit": "cups"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "water or apple juice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "rolled oats",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "whole-wheat flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "hickory nuts",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "pure maple syrup",
+          "quantity": "1/4-1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat to 375\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Toss apples with lemon juice, 1 tsp cinnamon, and 3 tbsp flour."
+        },
+        {
+          "step": 3,
+          "text": "Layer in greased pan with liquid."
+        },
+        {
+          "step": 4,
+          "text": "Mix oats, flour, sugar, remaining cinnamon, nuts, and butter until crumbly."
+        },
+        {
+          "step": 5,
+          "text": "Spread over apples, drizzle with maple syrup."
+        },
+        {
+          "step": 6,
+          "text": "Bake 45 minutes."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "tags": [
+        "apple",
+        "crisp",
+        "hickory",
+        "maple",
+        "dessert",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "juneberry-pie-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Juneberry Pie",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Classic pie made with foraged juneberries (serviceberries).",
+      "ingredients": [
+        {
+          "item": "pastry for 2-crust pie",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "juneberries",
+          "quantity": "3-4",
+          "unit": "cups",
+          "prep_note": "washed"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "sugar for sprinkling",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all filling ingredients together."
+        },
+        {
+          "step": 2,
+          "text": "Pour into pastry-lined pie plate."
+        },
+        {
+          "step": 3,
+          "text": "Top with pastry strips and sprinkle with sugar."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 450\u00b0F for 15 minutes then at 350\u00b0F for 25 minutes more."
+        }
+      ],
+      "temperature": "450\u00b0F then 350\u00b0F",
+      "tags": [
+        "pie",
+        "juneberry",
+        "serviceberry",
+        "dessert",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "begonia-tartlet-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Begonia Tartlet",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Unique tart with sour begonia leaves and cream.",
+      "servings_yield": "1 tartlet",
+      "ingredients": [
+        {
+          "item": "edible begonia leaves",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "3",
+          "unit": "oz"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4-1/2",
+          "unit": "tsp",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "pastry or graham cracker tartlet shell",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "pre-baked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop the leaves and cook in a pot with approximately 1/2 cup water over medium-low heat until reduced to a thick paste."
+        },
+        {
+          "step": 2,
+          "text": "Stir the sour cream and sugar into the paste."
+        },
+        {
+          "step": 3,
+          "text": "Transfer mixture to tartlet and bake at 300\u00b0F for 30-60 minutes until the filling bubbles gently."
+        },
+        {
+          "step": 4,
+          "text": "Cool before serving."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "notes": [
+        "This preparation also works with sorrel"
+      ],
+      "tags": [
+        "begonia",
+        "tartlet",
+        "dessert",
+        "flower",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "japanese-knotweed-puree-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Japanese Knotweed Pur\u00e9e",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Sweet pur\u00e9e from Japanese knotweed, similar to rhubarb.",
+      "ingredients": [
+        {
+          "item": "knotweed stalks",
+          "quantity": "5",
+          "unit": "cups",
+          "prep_note": "thick stems, sliced 1-inch"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "approximately"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "additional sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather stalks and remove all leaves and tips."
+        },
+        {
+          "step": 2,
+          "text": "Slice stems into 1-inch pieces and place in a pot."
+        },
+        {
+          "step": 3,
+          "text": "Add sugar and let stand 20 minutes to extract juices."
+        },
+        {
+          "step": 4,
+          "text": "Add water to prevent scorching."
+        },
+        {
+          "step": 5,
+          "text": "Cook until pieces soften, adding more water if needed."
+        },
+        {
+          "step": 6,
+          "text": "Mix thoroughly once cooked."
+        },
+        {
+          "step": 7,
+          "text": "Season with lemon juice and additional sugar to taste."
+        },
+        {
+          "step": 8,
+          "text": "Serve chilled as dessert, over vanilla ice cream, or in a pie shell."
+        }
+      ],
+      "notes": [
+        "Can be refrigerated or frozen for later use",
+        "Similar to rhubarb sauce"
+      ],
+      "tags": [
+        "knotweed",
+        "dessert",
+        "sauce",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "candied-eryngo-roots-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Candied Eryngo Roots (Elizabethan)",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Historical wild foraging recipe from eattheweeds.com",
+      "description": "Traditional Elizabethan candied sea holly roots, once famous as an aphrodisiac.",
+      "ingredients": [
+        {
+          "item": "fresh eryngo roots",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "spring water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for boiling"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "equal weight to roots"
+        },
+        {
+          "item": "rose water",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "fair water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "equal amount to rose water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil fresh roots in spring water until they reach the consistency of cooked parsnips."
+        },
+        {
+          "step": 2,
+          "text": "Cut lengthwise and remove the pith with a knife."
+        },
+        {
+          "step": 3,
+          "text": "Peel and soak in fresh water, then wring dry with cloth."
+        },
+        {
+          "step": 4,
+          "text": "Bundle 3-4 roots together, tying at each end."
+        },
+        {
+          "step": 5,
+          "text": "Create a syrup from sugar, rose water, and fair water."
+        },
+        {
+          "step": 6,
+          "text": "Boil bundled roots in syrup until liquid nearly evaporates."
+        },
+        {
+          "step": 7,
+          "text": "Shake in basin to distribute syrup coating."
+        },
+        {
+          "step": 8,
+          "text": "Dry by fire and store in boxes."
+        }
+      ],
+      "notes": [
+        "Famous in Colchester, England in Elizabethan times",
+        "Considered an aphrodisiac"
+      ],
+      "tags": [
+        "eryngo",
+        "sea holly",
+        "candied",
+        "elizabethan",
+        "historical",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Historical recipe"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "surinam-cherry-chiffon-pie-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Surinam Cherry Chiffon Pie",
+      "category": "desserts",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Light and airy chiffon pie with tropical Surinam cherries.",
+      "servings_yield": "8-10 servings",
+      "ingredients": [
+        {
+          "item": "9-10 inch pie crust",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "baked and cooled"
+        },
+        {
+          "item": "unflavored gelatin powder",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cold water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "large eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "Surinam cherry pulp",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "about 1.5 cups fruit"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sweetened with powdered sugar"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soften gelatin in cold water."
+        },
+        {
+          "step": 2,
+          "text": "Beat egg yolks with half the sugar, add fruit pulp."
+        },
+        {
+          "step": 3,
+          "text": "Cook over medium heat until thick, stirring constantly."
+        },
+        {
+          "step": 4,
+          "text": "Add softened gelatin and stir until dissolved. Cool."
+        },
+        {
+          "step": 5,
+          "text": "Whip egg whites until frothy, gradually add remaining sugar, beating until peaks form."
+        },
+        {
+          "step": 6,
+          "text": "Fold whites into cherry mixture."
+        },
+        {
+          "step": 7,
+          "text": "Fill pie shell and chill until firm."
+        },
+        {
+          "step": 8,
+          "text": "Top with whipped cream before serving."
+        }
+      ],
+      "notes": [
+        "Only use ripe berries - one unripe berry can taint the rest",
+        "Select deep blood-red fruits"
+      ],
+      "tags": [
+        "surinam cherry",
+        "pitanga",
+        "pie",
+        "chiffon",
+        "tropical",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-carrot-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Carrot Pudding",
+      "category": "desserts",
+      "attribution": "Foxfire Book of Appalachian Cookery",
+      "source_note": "Traditional steamed pudding from Foxfire collection",
+      "description": "A moist, spiced steamed pudding made with grated carrots.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "2 hours",
+      "total_time": "2 hours 20 minutes",
+      "ingredients": [
+        {
+          "item": "carrots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "potatoes",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated raw"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix grated carrots and potatoes with melted butter."
+        },
+        {
+          "step": 2,
+          "text": "Sift together flour, sugar, soda, and spices."
+        },
+        {
+          "step": 3,
+          "text": "Add dry ingredients to carrot mixture."
+        },
+        {
+          "step": 4,
+          "text": "Fold in raisins."
+        },
+        {
+          "step": 5,
+          "text": "Pour into greased pudding mold or can."
+        },
+        {
+          "step": 6,
+          "text": "Steam for 2 hours."
+        },
+        {
+          "step": 7,
+          "text": "Serve warm with hard sauce or cream."
+        }
+      ],
+      "temperature": "Steaming",
+      "pan_size": "1-quart pudding mold",
+      "notes": [
+        "Can be made ahead and resteamed to serve",
+        "Traditional Christmas dessert"
+      ],
+      "tags": [
+        "pudding",
+        "carrot",
+        "steamed",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-baking"
+      ]
+    },
+    {
+      "id": "foxfire-dried-apple-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dried Apple Cake",
+      "category": "desserts",
+      "attribution": "Foxfire Book of Appalachian Cookery",
+      "source_note": "Traditional cake using preserved dried apples",
+      "description": "A dense, moist spice cake made with reconstituted dried apples.",
+      "servings_yield": "12 servings",
+      "prep_time": "30 minutes (plus soaking)",
+      "cook_time": "45-50 minutes",
+      "total_time": "1 hour 20 minutes",
+      "ingredients": [
+        {
+          "item": "dried apples",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak dried apples in water overnight, then cook until soft. Drain and mash."
+        },
+        {
+          "step": 2,
+          "text": "While hot, stir in molasses. Let cool."
+        },
+        {
+          "step": 3,
+          "text": "Cream butter and sugar, add eggs."
+        },
+        {
+          "step": 4,
+          "text": "Sift flour with soda and spices."
+        },
+        {
+          "step": 5,
+          "text": "Add flour mixture alternately with buttermilk."
+        },
+        {
+          "step": 6,
+          "text": "Fold in apple mixture."
+        },
+        {
+          "step": 7,
+          "text": "Pour into greased tube pan."
+        },
+        {
+          "step": 8,
+          "text": "Bake at 350\u00b0F (175\u00b0C) for 45-50 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "10-inch tube pan",
+      "notes": [
+        "Dried apples were preserved each fall for winter baking",
+        "Very moist - keeps well"
+      ],
+      "tags": [
+        "cake",
+        "apple",
+        "dried-fruit",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-baking"
+      ]
+    },
+    {
+      "id": "foxfire-tame-gooseberry-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tame Gooseberry Pie",
+      "category": "desserts",
+      "attribution": "Foxfire Book of Appalachian Cookery",
+      "source_note": "Traditional pie using cultivated gooseberries",
+      "description": "A sweet-tart pie made with tame (cultivated) gooseberries.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "45 minutes",
+      "total_time": "1 hour 15 minutes",
+      "ingredients": [
+        {
+          "item": "gooseberries",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "topped and tailed"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pie crust",
+          "quantity": "2",
+          "unit": "crusts",
+          "prep_note": "for double-crust pie"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash gooseberries and remove stems and blossom ends."
+        },
+        {
+          "step": 2,
+          "text": "Mix sugar and flour, toss with berries."
+        },
+        {
+          "step": 3,
+          "text": "Pour into pastry-lined pie plate."
+        },
+        {
+          "step": 4,
+          "text": "Dot with butter."
+        },
+        {
+          "step": 5,
+          "text": "Cover with top crust, seal and flute edges, cut vents."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 425\u00b0F (220\u00b0C) for 15 minutes, reduce to 350\u00b0F (175\u00b0C) for 30 minutes more."
+        }
+      ],
+      "temperature": "425\u00b0F then 350\u00b0F (220\u00b0C then 175\u00b0C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "'Tame' refers to cultivated berries vs wild ones",
+        "Tart and refreshing"
+      ],
+      "tags": [
+        "pie",
+        "gooseberry",
+        "fruit",
+        "appalachian",
+        "foxfire",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-baking"
+      ]
+    },
+    {
+      "id": "foxfire-scuppernong-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scuppernong Pie",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Southern muscadine grape pie",
+      "description": "A unique Southern pie made with native scuppernong grapes.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "total_time": "1 hour 30 minutes",
+      "ingredients": [
+        {
+          "item": "scuppernongs",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "seeded"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "pie crust",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "unbaked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat grapes in saucepan."
+        },
+        {
+          "step": 2,
+          "text": "Add salt, then cream together butter, sugar, flour, and egg."
+        },
+        {
+          "step": 3,
+          "text": "Pour butter mixture over grapes."
+        },
+        {
+          "step": 4,
+          "text": "Pour all into uncooked pie shell."
+        },
+        {
+          "step": 5,
+          "text": "Lattice top with pastry strips."
+        },
+        {
+          "step": 6,
+          "text": "Bake one hour at 300\u00b0F (150\u00b0C)."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Scuppernongs must be seeded before using",
+        "Low and slow baking creates best texture"
+      ],
+      "tags": [
+        "pie",
+        "scuppernong",
+        "grape",
+        "muscadine",
+        "appalachian",
+        "foxfire",
+        "southern"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-blackberry-flummery",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Flummery",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian fruit pudding",
+      "description": "A chilled fruit pudding thickened with cornstarch, a traditional English-American dessert.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes (plus chilling)",
+      "ingredients": [
+        {
+          "item": "blackberries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "hot water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "mixed with water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook berries with water, sugar, salt, and cinnamon until syrupy."
+        },
+        {
+          "step": 2,
+          "text": "Mix cornstarch with a little cold water to make a paste."
+        },
+        {
+          "step": 3,
+          "text": "Stir cornstarch paste into berry mixture."
+        },
+        {
+          "step": 4,
+          "text": "Simmer until thick."
+        },
+        {
+          "step": 5,
+          "text": "Chill before serving."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "Medium saucepan",
+      "notes": [
+        "Flummery is an old English dessert brought to Appalachia",
+        "Serve with cream if desired"
+      ],
+      "tags": [
+        "dessert",
+        "pudding",
+        "blackberry",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-blackberry-roll",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Roll",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian rolled berry dessert",
+      "description": "A rolled biscuit dough filled with blackberries and honey, baked in a pool of berries.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {
+          "item": "biscuit dough",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "your favorite recipe"
+        },
+        {
+          "item": "blackberries",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "divided"
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roll biscuit dough to 1/3-inch thickness."
+        },
+        {
+          "step": 2,
+          "text": "Brush with softened butter."
+        },
+        {
+          "step": 3,
+          "text": "Mix half the berries with cinnamon and honey, spread on dough."
+        },
+        {
+          "step": 4,
+          "text": "Roll up like a jelly roll."
+        },
+        {
+          "step": 5,
+          "text": "Place in baking pan surrounded by remaining berries mixed with sugar."
+        },
+        {
+          "step": 6,
+          "text": "Bake 30 minutes at 425\u00b0F (220\u00b0C)."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "9x13 baking dish",
+      "notes": [
+        "The surrounding berries create a sauce while baking",
+        "Serve warm with cream"
+      ],
+      "tags": [
+        "dessert",
+        "roll",
+        "blackberry",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-blueberry-cobbler",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Blueberry Cobbler",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian blueberry dessert",
+      "description": "A rustic cobbler made with wild blueberries and biscuit-style topping.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {
+          "item": "blueberries",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "wild preferred"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook berries 15 minutes over medium heat with sugar."
+        },
+        {
+          "step": 2,
+          "text": "Make dough with flour and shortening, roll thin."
+        },
+        {
+          "step": 3,
+          "text": "Cut dough into pieces and place on top of berries."
+        },
+        {
+          "step": 4,
+          "text": "Boil briefly, then bake until crust browns."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "2-quart baking dish",
+      "notes": [
+        "Wild blueberries are smaller but more flavorful",
+        "Serve warm with cream"
+      ],
+      "tags": [
+        "cobbler",
+        "dessert",
+        "blueberry",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-blueberry-fritters",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry Fritters",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional fried blueberry treats",
+      "description": "Light, fried dough balls studded with blueberries and dusted with sugar.",
+      "servings_yield": "12 fritters",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "biscuit dough",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "prepared"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "plus more for dusting"
+        },
+        {
+          "item": "blueberries",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lard or oil",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix biscuit dough with beaten egg and sugar."
+        },
+        {
+          "step": 2,
+          "text": "Fold in blueberries."
+        },
+        {
+          "step": 3,
+          "text": "Heat grease in deep pan."
+        },
+        {
+          "step": 4,
+          "text": "Drop batter by spoonfuls into hot grease."
+        },
+        {
+          "step": 5,
+          "text": "Turn until brown on all sides."
+        },
+        {
+          "step": 6,
+          "text": "Drain and sprinkle with sugar."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "Deep skillet",
+      "notes": [
+        "Don't crowd the pan - fry in batches",
+        "Serve immediately while hot"
+      ],
+      "tags": [
+        "fritters",
+        "dessert",
+        "blueberry",
+        "fried",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-blueberry-crisp",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry Crisp",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian oat-topped berry dessert",
+      "description": "Fresh blueberries topped with a buttery oat crumble.",
+      "servings_yield": "6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "50 minutes",
+      "ingredients": [
+        {
+          "item": "blueberries",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for berries"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "oats",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "rolled"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place blueberries in baking dish and toss with white sugar."
+        },
+        {
+          "step": 2,
+          "text": "Cream butter with brown sugar."
+        },
+        {
+          "step": 3,
+          "text": "Blend in flour and oats."
+        },
+        {
+          "step": 4,
+          "text": "Spread topping over berries."
+        },
+        {
+          "step": 5,
+          "text": "Bake until topping is golden and berries bubble."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "8x8 baking dish",
+      "notes": [
+        "Can add a pinch of cinnamon to topping",
+        "Serve warm with vanilla ice cream"
+      ],
+      "tags": [
+        "crisp",
+        "dessert",
+        "blueberry",
+        "oats",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-huckleberry-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Huckleberry Cake",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian huckleberry cake",
+      "description": "A rich butter cake loaded with wild huckleberries.",
+      "servings_yield": "12 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "45-60 minutes",
+      "total_time": "1 hour 20 minutes",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "huckleberries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream butter with sugar."
+        },
+        {
+          "step": 2,
+          "text": "Add flour alternately with egg yolks."
+        },
+        {
+          "step": 3,
+          "text": "Add milk, baking powder, and vanilla."
+        },
+        {
+          "step": 4,
+          "text": "Fold in huckleberries."
+        },
+        {
+          "step": 5,
+          "text": "Bake in loaf pan at 350\u00b0F for 45 minutes to one hour."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9x5 loaf pan",
+      "notes": [
+        "Wild huckleberries have more intense flavor than blueberries",
+        "Toss berries in a little flour to prevent sinking"
+      ],
+      "tags": [
+        "cake",
+        "dessert",
+        "huckleberry",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-elderberry-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderberry Pie",
+      "category": "desserts",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian elderberry pie",
+      "description": "A deep purple pie made with wild elderberries.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "elderberries",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": "stemmed"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "pie crust",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "baked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make thin pastry crust and bake before adding filling."
+        },
+        {
+          "step": 2,
+          "text": "Mix elderberries with cornstarch and sugar."
+        },
+        {
+          "step": 3,
+          "text": "Pour into cooked crust."
+        },
+        {
+          "step": 4,
+          "text": "Bake 30 minutes at 325\u00b0F (165\u00b0C)."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Never eat red elderberries - only black/blue varieties are safe",
+        "Pre-baking the crust prevents soggy bottom"
+      ],
+      "tags": [
+        "pie",
+        "dessert",
+        "elderberry",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "highbush-cranberry-fritters-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "High Bush Cranberry Flower Fritters",
+      "category": "desserts",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - High Bush Cranberry article",
+      "description": "Flowers dipped in pancake batter and fried.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "high bush cranberry flowers",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "pancake batter",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Harvest high bush cranberry flowers."
+        },
+        {
+          "step": 2,
+          "text": "Dip flowers in pancake batter."
+        },
+        {
+          "step": 3,
+          "text": "Fry until golden and batter is cooked through."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Berries taste better after one or two frosts",
+        "Berries make excellent jelly without added pectin",
+        "Use orange zest to enhance berry flavor"
+      ],
+      "tags": [
+        "highbush cranberry",
+        "fritters",
+        "flowers",
+        "foraged",
+        "dessert"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-hickory-nut-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Nut Cake",
+      "category": "desserts",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Rich layer cake studded with native hickory nuts.",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1-1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2-1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "hickory nuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream butter and sugar; beat in eggs one at a time."
+        },
+        {
+          "step": 2,
+          "text": "Mix flour and baking powder."
+        },
+        {
+          "step": 3,
+          "text": "Add dry ingredients alternately with milk; stir in vanilla."
+        },
+        {
+          "step": 4,
+          "text": "Fold in hickory nuts."
+        },
+        {
+          "step": 5,
+          "text": "Pour into 2 greased 9-inch pans. Bake at 350\u00b0F for 30-35 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "two 9-inch round pans",
+      "notes": [
+        "Hickory nuts have rich, buttery flavor similar to pecans"
+      ],
+      "tags": [
+        "cake",
+        "hickory-nut",
+        "layer-cake",
+        "wild-foods",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-hickory-nut-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Nut Pie",
+      "category": "desserts",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Similar to pecan pie but made with foraged hickory nuts.",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "corn syrup",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "hickory nuts",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "pie crust",
+          "quantity": "1",
+          "unit": "9-inch",
+          "prep_note": "unbaked"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat eggs; stir in sugar, corn syrup, butter, and vanilla."
+        },
+        {
+          "step": 2,
+          "text": "Spread hickory nuts in pie shell."
+        },
+        {
+          "step": 3,
+          "text": "Pour filling over nuts."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 350\u00b0F for 50-60 minutes until set."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9-inch pie plate",
+      "notes": [
+        "Cover edges with foil if browning too quickly"
+      ],
+      "tags": [
+        "pie",
+        "hickory-nut",
+        "wild-foods",
+        "holiday",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-hazelnut-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Hazelnut Cookies",
+      "category": "desserts",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Crisp butter cookies with toasted wild hazelnuts.",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1-1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "hazelnuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "toasted and chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream butter and sugars; beat in egg."
+        },
+        {
+          "step": 2,
+          "text": "Mix flour and baking soda; stir into creamed mixture."
+        },
+        {
+          "step": 3,
+          "text": "Fold in hazelnuts."
+        },
+        {
+          "step": 4,
+          "text": "Drop by spoonfuls onto greased baking sheet."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 375\u00b0F for 10-12 minutes until edges are golden."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "notes": [
+        "Toast hazelnuts in dry skillet to enhance flavor"
+      ],
+      "tags": [
+        "cookies",
+        "hazelnut",
+        "wild-foods",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

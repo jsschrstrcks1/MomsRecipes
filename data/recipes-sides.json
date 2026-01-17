@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "sides",
-    "count": 73,
+    "count": 110,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -7302,6 +7302,3221 @@
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5727.jpeg"
       ]
+    },
+    {
+      "id": "foxfire-leather-breeches-beans",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Leather Breeches Beans",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1 - Andy Webb",
+      "source_note": "Traditional Appalachian preserved beans from The Foxfire Book",
+      "description": "Dried green beans cooked with meat - a mountain winter staple. As Andy Webb said, 'Now they's somethin' good ta'eat.'",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "All morning",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "dried green beans (leather breeches)",
+          "quantity": "1",
+          "unit": "string",
+          "prep_note": ""
+        },
+        {
+          "item": "ham, pork, or similar meat",
+          "quantity": "1",
+          "unit": "good hunk",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sometime during the winter take a string of dried green beans down, remove the thread."
+        },
+        {
+          "step": 2,
+          "text": "Drop them in a pot of scalding water."
+        },
+        {
+          "step": 3,
+          "text": "Add a good hunk of meat (ham, pork, or the like, depending on your taste)."
+        },
+        {
+          "step": 4,
+          "text": "Cook all morning."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large pot",
+      "notes": [
+        "Andy Webb: 'I'd rather have them as t'have canned beans.'",
+        "To dry beans: String tender green beans, push needle through center, hang in warm air (not direct sunlight) until dry, store in bag."
+      ],
+      "tags": [
+        "beans",
+        "appalachian",
+        "foxfire",
+        "preserved",
+        "winter-food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-cabbage",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mountain Cabbage",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Simple simmered cabbage with lard.",
+      "servings_yield": "",
+      "prep_time": "10 minutes",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cabbage",
+          "quantity": "1",
+          "unit": "head",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "lard",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put about an inch of water in a large frying pan and bring to a boil."
+        },
+        {
+          "step": 2,
+          "text": "Put all the cabbage and lard in, season, and cover."
+        },
+        {
+          "step": 3,
+          "text": "Simmer for about twenty-five to thirty minutes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large frying pan",
+      "notes": [],
+      "tags": [
+        "cabbage",
+        "appalachian",
+        "foxfire",
+        "vegetable",
+        "simple"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-fried-potatoes",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mountain Fried Potatoes",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Thin-sliced potatoes fried until light brown.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "potatoes",
+          "quantity": "3-4",
+          "unit": "",
+          "prep_note": "sliced very thin, like potato chips"
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": "hot"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Slice three or four potatoes very thin, like potato chips."
+        },
+        {
+          "step": 2,
+          "text": "Put in frying pan with hot grease and season with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Cover and cook until light brown, turning occasionally."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Frying pan",
+      "notes": [],
+      "tags": [
+        "potatoes",
+        "appalachian",
+        "foxfire",
+        "fried",
+        "simple"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-fried-okra",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Okra",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Cornmeal-crusted fried okra.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "okra",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sliced 1/2 inch thick"
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "",
+          "unit": "for coating",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Slice the okra about 1/2 inch thick."
+        },
+        {
+          "step": 2,
+          "text": "Roll in meal and salt."
+        },
+        {
+          "step": 3,
+          "text": "Fry in grease until light brown and crispy."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Frying pan",
+      "notes": [],
+      "tags": [
+        "okra",
+        "appalachian",
+        "foxfire",
+        "fried",
+        "vegetable"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-october-beans",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "October Beans",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Mountain substitute for soup beans, which don't grow in the mountains.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "October beans",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dried and shelled"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "per cup of beans"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Parboil beans for five minutes, using about a quart of water per cup of beans and some salt."
+        },
+        {
+          "step": 2,
+          "text": "Cover and simmer until tender."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can be eaten fresh when young and tender",
+        "Usually dried, shelled, and stored for later use"
+      ],
+      "tags": [
+        "beans",
+        "appalachian",
+        "foxfire",
+        "dried",
+        "winter-food"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-fried-squash-blossoms",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Pumpkin/Squash Blossoms",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Battered and fried squash or pumpkin blossoms.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "pumpkin or squash blossoms",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "about"
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "enough to make thin batter",
+          "prep_note": ""
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for deep frying",
+          "prep_note": "hot"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make a thin batter using an egg, about half a cup of flour, and milk."
+        },
+        {
+          "step": 2,
+          "text": "Dip the blossoms in it."
+        },
+        {
+          "step": 3,
+          "text": "Fry in deep hot grease."
+        },
+        {
+          "step": 4,
+          "text": "Serve as you would any vegetable."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Deep fryer or deep pan",
+      "notes": [],
+      "tags": [
+        "squash",
+        "pumpkin",
+        "blossoms",
+        "appalachian",
+        "foxfire",
+        "fried"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-hominy",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hominy",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1 - Mrs. Algie Norton",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Lye-processed corn made in a big washpot, as told by Mrs. Algie Norton.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "16-18 hours total",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "white corn",
+          "quantity": "12-15",
+          "unit": "ears",
+          "prep_note": "big grain, shelled by hand"
+        },
+        {
+          "item": "lye (dripped from ashes)",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "10-15",
+          "unit": "gallons",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Shell 12-15 big ears of corn by hand so you can get all the sorry grains out."
+        },
+        {
+          "step": 2,
+          "text": "Put lye in a big washpot (about 1/3 lye to 2/3 water)."
+        },
+        {
+          "step": 3,
+          "text": "Add corn and cook by the fireplace for about 8-9 hours."
+        },
+        {
+          "step": 4,
+          "text": "When grains begin to crack open, swell, and get tender, remove from fire."
+        },
+        {
+          "step": 5,
+          "text": "Wash in plenty of water (maybe a dozen waters), rubbing to get all the husk, hearts, and lye off."
+        },
+        {
+          "step": 6,
+          "text": "Put back in pot with fresh water and cook all night until good and tender."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "10-15 gallon washpot",
+      "notes": [
+        "White corn makes the best - yellow corn wouldn't be as good",
+        "Use big grain corn",
+        "Keep in a cool place - will keep for a week in winter",
+        "Can be canned but traditionally kept fresh in cold weather",
+        "Mrs. Norton: 'Then y'had some good eatin'.'"
+      ],
+      "tags": [
+        "corn",
+        "hominy",
+        "appalachian",
+        "foxfire",
+        "lye",
+        "traditional"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-apple-butter",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple Butter",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Traditional slow-cooked apple butter.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "apples",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "peeled and sliced"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "per cup of cooked apples"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel and slice apples, and immediately place them in a pan of cold, salty water so they won't turn brown."
+        },
+        {
+          "step": 2,
+          "text": "Rinse the salt out and cook the apples until soft and mushy."
+        },
+        {
+          "step": 3,
+          "text": "Add one cup of sugar to every cup of cooked apples."
+        },
+        {
+          "step": 4,
+          "text": "Add cinnamon to taste."
+        },
+        {
+          "step": 5,
+          "text": "Cook until thick."
+        },
+        {
+          "step": 6,
+          "text": "Put in jars and seal."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large pot",
+      "notes": [
+        "Soak sliced apples in cold salty water to prevent browning"
+      ],
+      "tags": [
+        "apple-butter",
+        "preserves",
+        "appalachian",
+        "foxfire",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-sauerkraut",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sour Kraut",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1 - Daisy Justice",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Traditional fermented sauerkraut. Daisy Justice says, 'When the moon is new is the best time to make kraut.'",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "10 days fermentation",
+      "ingredients": [
+        {
+          "item": "cabbage",
+          "quantity": "",
+          "unit": "firm heads",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "per gallon of cabbage, not iodized"
+        },
+        {
+          "item": "hot pepper",
+          "quantity": "1",
+          "unit": "pod",
+          "prep_note": "optional, for flavor"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Select firm cabbage heads and chop."
+        },
+        {
+          "step": 2,
+          "text": "Have a clean churn jar (usually five gallon), and pack the jar with alternating layers of chopped cabbage and a sprinkling of salt (usually a half cup of salt per gallon of cabbage)."
+        },
+        {
+          "step": 3,
+          "text": "You need not add water as the cabbage will produce its own."
+        },
+        {
+          "step": 4,
+          "text": "Cover the cabbage with a clean white cloth, large cabbage leaves, or a saucer."
+        },
+        {
+          "step": 5,
+          "text": "Place a flat flint rock or other weight on top to hold the cabbage under the brine."
+        },
+        {
+          "step": 6,
+          "text": "Let stand ten days, or as long as necessary to get it as sour as you want."
+        },
+        {
+          "step": 7,
+          "text": "Take the kraut out and pack it in canning jars."
+        },
+        {
+          "step": 8,
+          "text": "Put the jars in a pot of water and bring to a boil to seal the jars and cook the cabbage."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "5 gallon churn jar",
+      "notes": [
+        "Daisy Justice: 'Be sure that the signs are not in the bowels. When the moon is new is the best time to make kraut.'",
+        "Do not use iodized salt for pickling",
+        "If signs are in the bowels, kraut will be slimy or soft and not fit to eat",
+        "Some add a pod of hot pepper at the beginning for additional flavor",
+        "Old-timers left cabbage in churn jars but it turns dark; jars keep it fresh"
+      ],
+      "tags": [
+        "sauerkraut",
+        "fermented",
+        "preserves",
+        "appalachian",
+        "foxfire",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-chow-chow",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chow Chow",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Traditional Appalachian mixed vegetable relish.",
+      "servings_yield": "Large batch",
+      "prep_time": "",
+      "cook_time": "3 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "green tomatoes",
+          "quantity": "1",
+          "unit": "peck",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "string beans",
+          "quantity": "1",
+          "unit": "peck",
+          "prep_note": ""
+        },
+        {
+          "item": "small white onions",
+          "quantity": "1/4",
+          "unit": "peck",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green peppers",
+          "quantity": "1/4",
+          "unit": "peck",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "cabbage",
+          "quantity": "2",
+          "unit": "large heads",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "red peppers",
+          "quantity": "1/4",
+          "unit": "peck",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "white or black cloves",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "celery seeds",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "allspice",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "yellow mustard seed",
+          "quantity": "1",
+          "unit": "box",
+          "prep_note": ""
+        },
+        {
+          "item": "white mustard seed",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tumeric",
+          "quantity": "1",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "",
+          "unit": "to cover",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop the tomatoes, let them stand overnight in their own juice."
+        },
+        {
+          "step": 2,
+          "text": "Squeeze out the brine."
+        },
+        {
+          "step": 3,
+          "text": "Chop the cabbage, peppers, onions, and beans."
+        },
+        {
+          "step": 4,
+          "text": "Mix together and add the tomatoes and the spices and sugar."
+        },
+        {
+          "step": 5,
+          "text": "Put in a porcelain kettle, cover with vinegar, and boil three hours."
+        },
+        {
+          "step": 6,
+          "text": "When cool, seal in jars."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Porcelain kettle",
+      "notes": [],
+      "tags": [
+        "chow-chow",
+        "relish",
+        "preserves",
+        "appalachian",
+        "foxfire",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-watermelon-pickles",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Watermelon Pickles",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Sweet pickled watermelon rind.",
+      "servings_yield": "About 12 half pints",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "watermelon rind",
+          "quantity": "4",
+          "unit": "lb",
+          "prep_note": "pink pulp and outer peel removed"
+        },
+        {
+          "item": "cold water",
+          "quantity": "2",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "slaked lime",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole allspice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole cloves",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cider vinegar",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "4",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "stick cinnamon",
+          "quantity": "10",
+          "unit": "pieces",
+          "prep_note": "2-inch pieces"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Remove all pink pulp from watermelon rind. Peel outside peeling from the rind. Weigh."
+        },
+        {
+          "step": 2,
+          "text": "Cut in 1 inch circles or cubes."
+        },
+        {
+          "step": 3,
+          "text": "Combine cold water and lime. Pour over rind. Let stand one hour. Drain."
+        },
+        {
+          "step": 4,
+          "text": "Cover with fresh cold water. Simmer 1 1/2 hours or until tender. Drain."
+        },
+        {
+          "step": 5,
+          "text": "Tie spices in a cheesecloth."
+        },
+        {
+          "step": 6,
+          "text": "Combine vinegar, 1 quart water, and sugar. Heat until sugar dissolves."
+        },
+        {
+          "step": 7,
+          "text": "Add spice bag and rind; simmer gently two hours."
+        },
+        {
+          "step": 8,
+          "text": "Pack rind in clean hot sterile jars. Fill jars with boiling hot syrup. Seal."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "watermelon",
+        "pickles",
+        "preserves",
+        "appalachian",
+        "foxfire",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-tomato-catsup",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tomato Catsup",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Homemade tomato ketchup.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "3 hours",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "tomatoes",
+          "quantity": "",
+          "unit": "enough to make a gallon when cooked",
+          "prep_note": "good, firm, ripe"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground mustard",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cider vinegar",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cloves",
+          "quantity": "1/2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground allspice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Select good, firm ripe tomatoes."
+        },
+        {
+          "step": 2,
+          "text": "Scald and strain through a coarse sieve to remove seed and skin."
+        },
+        {
+          "step": 3,
+          "text": "When cold, add to each gallon of tomatoes the spices, sugar, vinegar, and salt."
+        },
+        {
+          "step": 4,
+          "text": "Let simmer slowly for three hours."
+        },
+        {
+          "step": 5,
+          "text": "Seal in bottles or jars."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "catsup",
+        "ketchup",
+        "tomato",
+        "preserves",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-pear-preserves",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pear Preserves",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Simple pear preserves with sugar.",
+      "servings_yield": "",
+      "prep_time": "Overnight",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "pears",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "washed, peeled, cut into quarters"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "layers",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash pears, peel, and cut into quarters. Rinse."
+        },
+        {
+          "step": 2,
+          "text": "Place a layer of sugar and a layer of pears until all the fruit has been used."
+        },
+        {
+          "step": 3,
+          "text": "Let this stand overnight."
+        },
+        {
+          "step": 4,
+          "text": "Put over moderate heat and cook until well done and a syrup has been made from the mixture."
+        },
+        {
+          "step": 5,
+          "text": "Put into sterile jars and seal."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "pear",
+        "preserves",
+        "appalachian",
+        "foxfire",
+        "canning"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-mint-jelly",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mint Jelly from Apple Juice",
+      "category": "sides",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Apple-based mint jelly.",
+      "servings_yield": "",
+      "prep_time": "1 hour steeping",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "mint leaves",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped fine and packed tight"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "",
+          "unit": "to cover",
+          "prep_note": ""
+        },
+        {
+          "item": "apple juice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green food coloring",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour boiling water over the clean mint leaves."
+        },
+        {
+          "step": 2,
+          "text": "Cover and allow to steep for one hour."
+        },
+        {
+          "step": 3,
+          "text": "Press juice from the leaves."
+        },
+        {
+          "step": 4,
+          "text": "Add 2 tablespoons of this extract to 1 cup apple juice and 3/4 cup sugar."
+        },
+        {
+          "step": 5,
+          "text": "Boil until jelly test is reached."
+        },
+        {
+          "step": 6,
+          "text": "Add green food coloring."
+        },
+        {
+          "step": 7,
+          "text": "Pour into hot glasses and seal."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "mint",
+        "jelly",
+        "apple",
+        "preserves",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire2-dock-greens",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dock Greens",
+      "category": "sides",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian wild greens from The Foxfire Book 2",
+      "description": "Young dock leaves cooked as greens, rich in vitamins A and C. Dock greens eaten in spring will thin and purify the blood.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "young dock leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "very young and tender"
+        },
+        {
+          "item": "grease",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": "hot"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash dock leaves thoroughly."
+        },
+        {
+          "step": 2,
+          "text": "Parboil until leaves turn a lighter green."
+        },
+        {
+          "step": 3,
+          "text": "Pour off water, wash two or three times."
+        },
+        {
+          "step": 4,
+          "text": "Either fry in hot grease and salt for three to five minutes, or bring to a boil in fresh water, season and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Frying pan",
+      "notes": [
+        "Often cooked in combination with horseradish, mustard, or turnip greens",
+        "Cooked with meat, dock leaves are said to make the meat cook more rapidly"
+      ],
+      "tags": [
+        "greens",
+        "wild-plants",
+        "appalachian",
+        "foxfire",
+        "foraging",
+        "spring"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-hot-greens-on-toast",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Greens on Toast",
+      "category": "sides",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "Creamy dock greens served on toast with bacon.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cooked dock",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "horseradish",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "or a little vinegar"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "toast",
+          "quantity": "",
+          "unit": "for serving",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon",
+          "quantity": "",
+          "unit": "for topping",
+          "prep_note": "fried"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "To one pint of cooked dock, add one tablespoon chopped onion, two tablespoons horseradish, and one cup sour cream or a little vinegar."
+        },
+        {
+          "step": 2,
+          "text": "Season with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Serve on toast and top with fried bacon."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "greens",
+        "breakfast",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-poke-greens",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poke Greens",
+      "category": "sides",
+      "attribution": "Foxfire 2 - Dr. Neville",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "The most popular wild food in the mountain area. Dr. Neville said to eat at least one mess of poke each spring - 'worth all the medicine you could buy.'",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "young poke shoots",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "6-8 inches high"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "for parboiling",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        },
+        {
+          "item": "hard-boiled eggs",
+          "quantity": "",
+          "unit": "for topping",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Collect tender young shoots of poke six to eight inches high in the spring. Do not cut below surface of ground as root is poisonous."
+        },
+        {
+          "step": 2,
+          "text": "Wash and cook leaves and stems together, parboiling two times (pouring off water each time after boiling a few minutes)."
+        },
+        {
+          "step": 3,
+          "text": "Boil in third water until tender, salting to taste."
+        },
+        {
+          "step": 4,
+          "text": "Drain and top with slices of hard-boiled egg."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "NEVER eat poke raw - it must be cooked",
+        "Roots and berries are poisonous",
+        "Avoid when stems become red and plant is over a foot high",
+        "Rich in iron and vitamin C"
+      ],
+      "tags": [
+        "greens",
+        "poke",
+        "wild-plants",
+        "spring-tonic",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "Must parboil twice - safety critical"
+        ]
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-poke-sallet",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Poke Sallet",
+      "category": "sides",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "Classic poke sallet fried with eggs.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "poke greens",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "young shoots"
+        },
+        {
+          "item": "hot grease",
+          "quantity": "",
+          "unit": "for frying",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "vinegar or pickle juice",
+          "quantity": "",
+          "unit": "for serving",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put greens in a boiler of cold water; wash two or three times."
+        },
+        {
+          "step": 2,
+          "text": "Drain off all the water."
+        },
+        {
+          "step": 3,
+          "text": "Fry in pan of hot grease. Add half teaspoon of salt."
+        },
+        {
+          "step": 4,
+          "text": "Let cool. Beat two eggs and stir in after greens have cooled."
+        },
+        {
+          "step": 5,
+          "text": "Serve with vinegar or pickle juice."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Frying pan",
+      "notes": [
+        "Always parboil poke twice before frying"
+      ],
+      "tags": [
+        "greens",
+        "poke",
+        "eggs",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-lambs-quarter-greens",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lamb's Quarter Greens",
+      "category": "sides",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book 2",
+      "description": "Wild spinach-like greens. As someone said, 'If they think it's spinach, they think it's good.' Rich in iron and potassium.",
+      "servings_yield": "1 gallon",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "lamb's quarters and dock",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": "mixed"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "grease",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fatback",
+          "quantity": "",
+          "unit": "optional",
+          "prep_note": "streak of fat and streak of lean"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather one gallon greens (lamb's quarters and dock)."
+        },
+        {
+          "step": 2,
+          "text": "Wash and boil for ten minutes."
+        },
+        {
+          "step": 3,
+          "text": "Drain and add one cup water and four tablespoons grease."
+        },
+        {
+          "step": 4,
+          "text": "Cook covered until tender."
+        },
+        {
+          "step": 5,
+          "text": "If preferred, cook with a streak of fat and streak of lean."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can use white sauce with lemon, butter, bacon bits and vinegar instead"
+      ],
+      "tags": [
+        "greens",
+        "wild-plants",
+        "appalachian",
+        "foxfire",
+        "foraging",
+        "spring"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-mixed-wild-greens",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mixed Wild Greens",
+      "category": "sides",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian recipe from Foxfire 2",
+      "description": "A 'mess' of mixed wild greens with salt pork and vinegar.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "poke",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "young shoots"
+        },
+        {
+          "item": "dandelion",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "lamb's quarters",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "violet leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sour dock",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt pork",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "fried bits"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "",
+          "unit": "a little",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Get together a mess of poke, dandelion, lamb's quarters, violet leaves, and sour dock."
+        },
+        {
+          "step": 2,
+          "text": "Mix together and cook."
+        },
+        {
+          "step": 3,
+          "text": "Drain and season with bits of fried salt pork, and a little vinegar."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Any mild-flavored green can be combined with sharper mustards and cresses"
+      ],
+      "tags": [
+        "greens",
+        "mixed",
+        "wild-plants",
+        "spring",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire2-leather-breeches-beans",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Aunt Arie's Leather Breeches Beans",
+      "category": "sides",
+      "attribution": "Foxfire 2 - Aunt Arie",
+      "source_note": "Traditional Appalachian preserved beans from Foxfire 2",
+      "description": "Dried green beans strung and hung from the rafters, then rehydrated and cooked with pork.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "3-4 hours total",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "leather breeches beans",
+          "quantity": "",
+          "unit": "as many strings as needed",
+          "prep_note": "dried green beans on thread"
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for parboiling"
+        },
+        {
+          "item": "fat pork",
+          "quantity": "",
+          "unit": "several large chunks",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Take good, full green beans and string them on spool thread, breaking off the ends. Hang from rafters in warm, dark attic (not in sun or open air)."
+        },
+        {
+          "step": 2,
+          "text": "To cook: take down as many strings as needed and soak overnight."
+        },
+        {
+          "step": 3,
+          "text": "In the morning, parboil for an hour with a little soda added (not over a teaspoon or they'll turn yellow)."
+        },
+        {
+          "step": 4,
+          "text": "Take them out, wash and rinse them."
+        },
+        {
+          "step": 5,
+          "text": "Put in a pot with clear water and several large chunks of fat pork."
+        },
+        {
+          "step": 6,
+          "text": "Cook for two or three hours more until soft and done."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "If beans are 'nothin' but slabs, they ain't fit t'eat' - use good, full beans"
+      ],
+      "tags": [
+        "beans",
+        "dried",
+        "preserved",
+        "pork",
+        "appalachian",
+        "foxfire",
+        "aunt-arie"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-mint-with-peas",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mint with New Peas",
+      "category": "sides",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Fresh mint cooked with young peas.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "young peas",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "very young"
+        },
+        {
+          "item": "mint leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "young, torn in pieces"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Tear young mint leaves in pieces."
+        },
+        {
+          "step": 2,
+          "text": "Cook with very young peas."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Use spearmint or peppermint"
+      ],
+      "tags": [
+        "peas",
+        "mint",
+        "vegetable",
+        "side",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-fried-yarrow",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Yarrow",
+      "category": "sides",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Yarrow leaves fried in butter and served with orange juice.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "yarrow leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "for sprinkling",
+          "prep_note": ""
+        },
+        {
+          "item": "orange juice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Fry yarrow in butter until brown."
+        },
+        {
+          "step": 2,
+          "text": "Serve hot, sprinkled with sugar and the juice of an orange."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "yarrow",
+        "fried",
+        "side",
+        "wild-plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "hickory-wild-rice-stuffing-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Wild Rice Stuffing",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Savory stuffing with wild rice, sausage, and hickory nuts.",
+      "servings_yield": "12 servings",
+      "ingredients": [
+        {
+          "item": "dry wild rice",
+          "quantity": "1.25",
+          "unit": "cups"
+        },
+        {
+          "item": "ground sausage",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "optional"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "celery",
+          "quantity": "2",
+          "unit": "ribs",
+          "prep_note": "diced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "medium",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "chopped hickory nuts",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook rice per package directions until tender."
+        },
+        {
+          "step": 2,
+          "text": "Cook sausage if using, add to rice."
+        },
+        {
+          "step": 3,
+          "text": "Saut\u00e9 celery and onion in drippings or butter."
+        },
+        {
+          "step": 4,
+          "text": "Combine with rice, add salt, pepper, and nuts."
+        },
+        {
+          "step": 5,
+          "text": "Use for poultry stuffing or bake in casserole at 325\u00b0F for 20 minutes."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "tags": [
+        "stuffing",
+        "wild rice",
+        "hickory",
+        "holiday",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "grilled-cactus-pads-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grilled Cactus Pads (Nopales)",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Simple grilled prickly pear cactus pads.",
+      "ingredients": [
+        {
+          "item": "cactus pads",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "spines removed"
+        },
+        {
+          "item": "oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brushing"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Scrub pads thoroughly and remove all spines."
+        },
+        {
+          "step": 2,
+          "text": "Cut around spiny nodules completely."
+        },
+        {
+          "step": 3,
+          "text": "Brush with oil while grilling."
+        },
+        {
+          "step": 4,
+          "text": "Grill over charcoal 10-12 minutes per side (thicker pads need longer)."
+        },
+        {
+          "step": 5,
+          "text": "Serve hot."
+        }
+      ],
+      "notes": [
+        "Select the best pads when shiny and not too thick",
+        "Remove glochids by spraying with water, burning off, or using duct tape"
+      ],
+      "tags": [
+        "cactus",
+        "nopales",
+        "grilled",
+        "sides",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cactus-monterey-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cactus Monterey",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Savory cactus dish with tomatoes, peppers, and cheese.",
+      "ingredients": [
+        {
+          "item": "cactus pieces",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "small tomato",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "small white onion",
+          "quantity": "1/4",
+          "unit": ""
+        },
+        {
+          "item": "jalape\u00f1o pepper",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "cilantro",
+          "quantity": "1/4",
+          "unit": "bunch"
+        },
+        {
+          "item": "shredded Monterey Jack cheese",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "avocado or olive oil",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "low-heat"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Steam cactus until softened, drain."
+        },
+        {
+          "step": 2,
+          "text": "Lightly fry remaining ingredients (except cheese)."
+        },
+        {
+          "step": 3,
+          "text": "Combine fried ingredients with cactus."
+        },
+        {
+          "step": 4,
+          "text": "Simmer 15 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Top with cheese before serving."
+        }
+      ],
+      "tags": [
+        "cactus",
+        "nopales",
+        "mexican",
+        "sides",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "banana-tree-stem-sauteed-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Saut\u00e9ed Banana Tree Stem",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Indian-style saut\u00e9ed banana stem with coconut and spices.",
+      "ingredients": [
+        {
+          "item": "banana tree stem core",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "grated coconut",
+          "quantity": "1/4",
+          "unit": "coconut"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "curry leaves",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "mustard seeds",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "coconut oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "turmeric",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel outer fibers from stem and chop finely."
+        },
+        {
+          "step": 2,
+          "text": "Heat half the oil, add mustard seeds until crackling."
+        },
+        {
+          "step": 3,
+          "text": "Add stem pieces, curry, salt, and chili powder."
+        },
+        {
+          "step": 4,
+          "text": "Cover and simmer until soft (approximately one hour)."
+        },
+        {
+          "step": 5,
+          "text": "Grind coconut and garlic together."
+        },
+        {
+          "step": 6,
+          "text": "When stem is almost cooked, add coconut-garlic mixture and continue cooking covered."
+        },
+        {
+          "step": 7,
+          "text": "Finish with remaining coconut oil and let rest before serving."
+        }
+      ],
+      "tags": [
+        "banana",
+        "stem",
+        "indian",
+        "sides",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "banana-flower-stir-fry-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Banana Flower Stir Fry",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Indian-style banana flower stir fry with lentils.",
+      "ingredients": [
+        {
+          "item": "banana flower",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "lentils",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "small"
+        },
+        {
+          "item": "green chillies",
+          "quantity": "5",
+          "unit": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "cumin powder",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "turmeric powder",
+          "quantity": "",
+          "unit": "pinch"
+        },
+        {
+          "item": "grated coconut",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "curry leaves",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "mustard seeds",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook lentils separately."
+        },
+        {
+          "step": 2,
+          "text": "Remove outer petals from flower; chop inner cream portion finely."
+        },
+        {
+          "step": 3,
+          "text": "Apply coconut oil to palms and rub chopped flower to remove lumps."
+        },
+        {
+          "step": 4,
+          "text": "Heat oil and splutter mustard seeds. Add chillies, onion, curry leaves; saut\u00e9 until onions brown."
+        },
+        {
+          "step": 5,
+          "text": "Add flower, garlic, spices, and salt. Cook covered 5 minutes without water."
+        },
+        {
+          "step": 6,
+          "text": "Stir in lentils and cook 5 more minutes until dry."
+        }
+      ],
+      "notes": [
+        "Optional: soak chopped flower in milk to reduce bitterness"
+      ],
+      "tags": [
+        "banana",
+        "flower",
+        "indian",
+        "sides",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "lions-mane-sauteed-butter-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Saut\u00e9ed Lion's Mane Mushroom",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Simple saut\u00e9ed lion's mane mushroom with crab-like flavor.",
+      "ingredients": [
+        {
+          "item": "lion's mane mushroom",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "real butter",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Clean mushroom and slice or tear into pieces."
+        },
+        {
+          "step": 2,
+          "text": "Saut\u00e9 in real butter until golden and tender."
+        },
+        {
+          "step": 3,
+          "text": "Serve immediately."
+        }
+      ],
+      "notes": [
+        "Has a texture and flavor reminiscent of crab or lobster"
+      ],
+      "tags": [
+        "mushroom",
+        "lions mane",
+        "sauteed",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "stir-fried-lotus-root-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stir-Fried Lotus Root",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Asian-style stir-fried lotus root with sesame and sake.",
+      "ingredients": [
+        {
+          "item": "lotus root",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "trimmed and peeled"
+        },
+        {
+          "item": "sesame oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1.5",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sake or pale dry sherry",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "dark soy sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "toasted sesame seeds",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "hot pepper (chipotle in adobo)",
+          "quantity": "1",
+          "unit": "small"
+        },
+        {
+          "item": "scallions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Slice lotus root crosswise into quarter-inch pieces."
+        },
+        {
+          "step": 2,
+          "text": "Soak in water and change until water runs clear, then dry thoroughly."
+        },
+        {
+          "step": 3,
+          "text": "Heat sesame oil and add lotus roots, tossing briefly."
+        },
+        {
+          "step": 4,
+          "text": "Add remaining ingredients and stir continuously for approximately 10 minutes until the mixture reduces."
+        },
+        {
+          "step": 5,
+          "text": "Serve warm. Reheats well."
+        }
+      ],
+      "notes": [
+        "Lotus root discolors quickly - place cut pieces in water with lemon juice immediately"
+      ],
+      "tags": [
+        "lotus",
+        "asian",
+        "stir-fry",
+        "sides",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "creamed-bulrush-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamed Bulrush",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Tender bulrush shoots in a creamy white sauce.",
+      "ingredients": [
+        {
+          "item": "tender bulrush shoots",
+          "quantity": "1-2",
+          "unit": "lbs"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "bulrush flour",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "liquid (milk plus bulrush juice)",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "hard-boiled eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sliced, for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse shoots, steam with salt and water until limp. Drain, saving juice."
+        },
+        {
+          "step": 2,
+          "text": "Chop shoots finely."
+        },
+        {
+          "step": 3,
+          "text": "Melt butter in double boiler, stir in flour."
+        },
+        {
+          "step": 4,
+          "text": "Gradually add juice and milk to reach 3 cups liquid, stirring constantly until smooth."
+        },
+        {
+          "step": 5,
+          "text": "Season to taste. Garnish with egg slices."
+        }
+      ],
+      "tags": [
+        "bulrush",
+        "cattail",
+        "creamed",
+        "sides",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "karela-bhaji-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Karela Bhaji (Pan-fried Bitter Melon)",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Indian-style pan-fried bitter melon with aromatic spices.",
+      "ingredients": [
+        {
+          "item": "Indian or Chinese bitter melon",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "salt",
+          "quantity": "1.5",
+          "unit": "tsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "ghee",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "avocado oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cumin seeds",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "fennel seeds",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "ginger",
+          "quantity": "1",
+          "unit": "inch",
+          "prep_note": "grated"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "garam masala",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground coriander",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ground turmeric",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "Kashmiri red chili powder",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "amchur (green mango) powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "coconut palm sugar",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "chicken stock",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh cilantro",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Halve melon lengthwise; scrape out seeds and pith. Slice into 1/4-inch pieces."
+        },
+        {
+          "step": 2,
+          "text": "Sprinkle with 1 tsp salt in a colander; drain 30 minutes. Squeeze and blot dry."
+        },
+        {
+          "step": 3,
+          "text": "Warm ghee and oil until shimmering; toast cumin and fennel seeds ~30 seconds."
+        },
+        {
+          "step": 4,
+          "text": "Add garlic and ginger; saut\u00e9 30 seconds."
+        },
+        {
+          "step": 5,
+          "text": "Reduce heat to medium; add onion, coriander, turmeric, chili, pepper, and remaining salt. Saut\u00e9 6 minutes until softened."
+        },
+        {
+          "step": 6,
+          "text": "Stir in melon and stock; saut\u00e9 until tender and liquid mostly evaporates (~10 minutes), stirring often."
+        },
+        {
+          "step": 7,
+          "text": "Add amchur and sugar; increase heat to high."
+        },
+        {
+          "step": 8,
+          "text": "Pan-fry until liquid evaporates and melon crisps (~3 minutes), stirring frequently."
+        },
+        {
+          "step": 9,
+          "text": "Season to taste; serve with cilantro."
+        }
+      ],
+      "tags": [
+        "bitter melon",
+        "karela",
+        "indian",
+        "vegetable",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "steamed-beets-nasturtium-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Steamed Beets with Nasturtium",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Tender beets with peppery nasturtium leaves and balsamic dressing.",
+      "servings_yield": "3-4 servings",
+      "ingredients": [
+        {
+          "item": "whole beets",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "steamed"
+        },
+        {
+          "item": "nasturtium leaves",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "nasturtium flowers",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "balsamic vinegar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Steam peeled beets until fork-tender (about 30 minutes)."
+        },
+        {
+          "step": 2,
+          "text": "Cool and cut into bite-sized wedges."
+        },
+        {
+          "step": 3,
+          "text": "Whisk olive oil, balsamic vinegar, and salt together."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle shredded nasturtium leaves over beets."
+        },
+        {
+          "step": 5,
+          "text": "Drizzle with dressing and decorate with flowers."
+        }
+      ],
+      "tags": [
+        "nasturtium",
+        "beets",
+        "salad",
+        "flower",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "akebi-miso-itame-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Akebi Pod Miso Itame",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Japanese stir-fried chocolate vine pods with miso.",
+      "ingredients": [
+        {
+          "item": "akebi pod",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "inner fruit removed"
+        },
+        {
+          "item": "sesame oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "miso paste",
+          "quantity": "1-2",
+          "unit": "tsp",
+          "prep_note": "sweet Kansai-style preferred"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "shoyu (soy sauce)",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ryorishu (cooking sake)",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "shiso leaf",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "fresh, optional garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Optionally soak pod halves in warm water for 30-60 minutes to reduce bitterness; pat dry."
+        },
+        {
+          "step": 2,
+          "text": "Combine all liquid ingredients in a bowl, dissolving the miso paste and sugar together."
+        },
+        {
+          "step": 3,
+          "text": "Heat oil in a fry pan. Add sliced akebi pod and saut\u00e9 covered until softened, approximately 2 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Pour in the liquid mixture, reduce heat, and simmer until most liquid evaporates (1-2 minutes). Monitor closely to prevent burning."
+        },
+        {
+          "step": 5,
+          "text": "Serve on a plate; garnish with chopped shiso leaf if desired."
+        }
+      ],
+      "tags": [
+        "akebi",
+        "chocolate vine",
+        "japanese",
+        "miso",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "spiced-tindora-curry-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spiced Tindora Curry (Ivy Gourd)",
+      "category": "sides",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Indian-style spiced ivy gourd (tindora) curry.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20-25 minutes",
+      "ingredients": [
+        {
+          "item": "tindora (ivy gourd)",
+          "quantity": "1.5",
+          "unit": "lbs",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "mustard seeds",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "cumin seeds",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "asafoetida (hing)",
+          "quantity": "",
+          "unit": "pinch"
+        },
+        {
+          "item": "turmeric powder",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "green chilies",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste, finely chopped"
+        },
+        {
+          "item": "coriander powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "cumin powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "red chili powder",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oil in medium non-stick pan over medium heat."
+        },
+        {
+          "step": 2,
+          "text": "Add mustard seeds; allow to pop."
+        },
+        {
+          "step": 3,
+          "text": "Add cumin seeds; let sizzle."
+        },
+        {
+          "step": 4,
+          "text": "Add asafoetida, turmeric, green chilies, and tindora; mix well."
+        },
+        {
+          "step": 5,
+          "text": "Season with salt, red chili powder, coriander, and cumin powder."
+        },
+        {
+          "step": 6,
+          "text": "Cover and cook until tindora becomes tender, stirring every few minutes."
+        },
+        {
+          "step": 7,
+          "text": "Uncover and cook additional minutes to lightly brown."
+        }
+      ],
+      "notes": [
+        "Use the slicer blade of your food processor to quickly slice the tindora",
+        "Cleaned, cut tindora freezes well"
+      ],
+      "tags": [
+        "ivy gourd",
+        "tindora",
+        "indian",
+        "curry",
+        "vegetable",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-fried-morels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fried Morels",
+      "category": "sides",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Simple pan-fried morel mushrooms, a springtime delicacy.",
+      "ingredients": [
+        {
+          "item": "fresh morel mushrooms",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Clean morels by soaking briefly in salted water to remove insects."
+        },
+        {
+          "step": 2,
+          "text": "Slice larger morels in half lengthwise."
+        },
+        {
+          "step": 3,
+          "text": "Melt butter in skillet over medium heat."
+        },
+        {
+          "step": 4,
+          "text": "Add morels and saut\u00e9 until golden, about 5-7 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Season with salt and pepper and serve immediately."
+        }
+      ],
+      "notes": [
+        "Always positively identify morels - never eat wild mushrooms unless certain"
+      ],
+      "tags": [
+        "mushrooms",
+        "morels",
+        "fried",
+        "wild-foods",
+        "foxfire",
+        "spring"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-stuffed-morels",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Morels",
+      "category": "sides",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Morel mushrooms stuffed with a savory sausage filling.",
+      "ingredients": [
+        {
+          "item": "large morel mushrooms",
+          "quantity": "12",
+          "unit": ""
+        },
+        {
+          "item": "bulk sausage",
+          "quantity": "1/2",
+          "unit": "lb"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "4",
+          "unit": "oz"
+        },
+        {
+          "item": "bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "minced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Clean morels carefully, keeping them whole."
+        },
+        {
+          "step": 2,
+          "text": "Brown sausage with onion; drain fat."
+        },
+        {
+          "step": 3,
+          "text": "Mix sausage with cream cheese and bread crumbs."
+        },
+        {
+          "step": 4,
+          "text": "Stuff mixture into morel cavities."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F for 15-20 minutes until heated through."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Can substitute other mild cheese for cream cheese"
+      ],
+      "tags": [
+        "mushrooms",
+        "morels",
+        "stuffed",
+        "appetizer",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

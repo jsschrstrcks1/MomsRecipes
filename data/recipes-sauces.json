@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "sauces",
-    "count": 43,
+    "count": 51,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -3544,6 +3544,648 @@
         "overall": "high",
         "flags": []
       }
+    },
+    {
+      "id": "foxfire2-horseradish-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Horseradish Sauce",
+      "category": "sauces",
+      "attribution": "Foxfire 2",
+      "source_note": "Traditional Appalachian sauce from The Foxfire Book 2",
+      "description": "A classic horseradish sauce for beef.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling beef stock",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "horseradish",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine three tablespoons butter, one tablespoon flour, one and one-half cups boiling beef stock and horseradish to taste."
+        },
+        {
+          "step": 2,
+          "text": "Cook until thickened and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Eating horseradish is said to be good for rheumatism, scurvy, and hoarseness"
+      ],
+      "tags": [
+        "sauce",
+        "horseradish",
+        "condiment",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-wild-plum-catsup",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Plum Catsup",
+      "category": "sauces",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian condiment from Foxfire 3",
+      "description": "A spiced plum catsup for meats.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "wild plums",
+          "quantity": "5",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "4",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "allspice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cloves",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil plums with one teaspoon soda. Bring to a rolling boil."
+        },
+        {
+          "step": 2,
+          "text": "Strain through a colander."
+        },
+        {
+          "step": 3,
+          "text": "Simmer with sugar, vinegar, and spices until thick as catsup."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Chickasaw plums have the best-tasting fruit"
+      ],
+      "tags": [
+        "catsup",
+        "plum",
+        "condiment",
+        "spiced",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-mint-syrup",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mint Syrup",
+      "category": "sauces",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A sweet mint syrup for fresh fruit or puddings.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "1 hour steeping",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh or dried mint leaves",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped fine"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together sugar, water, and mint leaves."
+        },
+        {
+          "step": 2,
+          "text": "Simmer until sugar is completely dissolved."
+        },
+        {
+          "step": 3,
+          "text": "Cover and let stand one hour."
+        },
+        {
+          "step": 4,
+          "text": "Strain and use over fresh fruit or puddings."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "syrup",
+        "mint",
+        "sauce",
+        "dessert",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-mint-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mint Sauce",
+      "category": "sauces",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian sauce from Foxfire 3",
+      "description": "Classic mint sauce for lamb.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "mint",
+          "quantity": "1",
+          "unit": "bunch",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3/4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "vinegar",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop mint very fine."
+        },
+        {
+          "step": 2,
+          "text": "Dissolve sugar in vinegar."
+        },
+        {
+          "step": 3,
+          "text": "Add mint and let stand one hour."
+        },
+        {
+          "step": 4,
+          "text": "Strain and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "sauce",
+        "mint",
+        "lamb",
+        "condiment",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-black-haw-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Black Haw Sauce",
+      "category": "sauces",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian sauce from Foxfire 3",
+      "description": "A honey-sweetened sauce from black haw berries.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "black haw berries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash berries well."
+        },
+        {
+          "step": 2,
+          "text": "Cook with honey and lemon juice until soft."
+        },
+        {
+          "step": 3,
+          "text": "Strain and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "sauce",
+        "haw",
+        "honey",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire4-sawmill-gravy",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sawmill Gravy",
+      "category": "sauces",
+      "attribution": "Traditional Appalachian logging camp, via Foxfire 4",
+      "source_note": "Traditional breakfast gravy from Foxfire Book 4 logging camp section",
+      "description": "Classic Appalachian white gravy made for logging camp breakfasts, served over biscuits.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "flour (or corn meal)",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "flour preferred"
+        },
+        {
+          "item": "pan drippings or grease",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "from bacon or meat"
+        },
+        {
+          "item": "milk (or water)",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "milk preferred"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put flour in a great big skillet."
+        },
+        {
+          "step": 2,
+          "text": "Let it brown a little bit in the pan drippings."
+        },
+        {
+          "step": 3,
+          "text": "Dump in milk or water if you don't have milk."
+        },
+        {
+          "step": 4,
+          "text": "Stir constantly until thickened."
+        },
+        {
+          "step": 5,
+          "text": "Season with salt and pepper."
+        },
+        {
+          "step": 6,
+          "text": "Serve over hot biscuits."
+        }
+      ],
+      "temperature": "Medium heat",
+      "pan_size": "Large skillet",
+      "notes": [
+        "Can be made with corn meal instead of flour.",
+        "Served every morning in logging camps with eggs, bacon, and biscuits."
+      ],
+      "tags": [
+        "gravy",
+        "sauce",
+        "breakfast",
+        "biscuits",
+        "appalachian",
+        "foxfire",
+        "logging camp"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "haw-sauce-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Haw Sauce",
+      "category": "sauces",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Tangy condiment sauce made from hawthorn berries.",
+      "ingredients": [
+        {
+          "item": "stalkless hawthorn berries",
+          "quantity": "1.5",
+          "unit": "lbs"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "3/4",
+          "unit": "pint"
+        },
+        {
+          "item": "sugar",
+          "quantity": "4",
+          "unit": "oz"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "oz",
+          "prep_note": "optional"
+        },
+        {
+          "item": "freshly ground black pepper",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash berries."
+        },
+        {
+          "step": 2,
+          "text": "Cook with vinegar for 30 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Press pulp through sieve."
+        },
+        {
+          "step": 4,
+          "text": "Return to pan with sugar and seasonings."
+        },
+        {
+          "step": 5,
+          "text": "Boil 10 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Bottle and seal."
+        }
+      ],
+      "tags": [
+        "sauce",
+        "hawthorn",
+        "haw",
+        "condiment",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hawthorn-berry-catsup-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hawthorn Berry Catsup",
+      "category": "sauces",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Tangy ketchup-style condiment from hawthorn berries.",
+      "ingredients": [
+        {
+          "item": "hawthorn berries",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "apple cider vinegar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar or honey",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "black cherry juice",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "optional but recommended"
+        },
+        {
+          "item": "sea salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper or cayenne",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Remove berries from stalks, rinse."
+        },
+        {
+          "step": 2,
+          "text": "Place in saucepan with vinegar and water."
+        },
+        {
+          "step": 3,
+          "text": "Simmer 25 minutes until skins split."
+        },
+        {
+          "step": 4,
+          "text": "Cool, push through sieve to remove pits."
+        },
+        {
+          "step": 5,
+          "text": "Return to pan, add sweeteners."
+        },
+        {
+          "step": 6,
+          "text": "Slowly heat, stir frequently, add spices."
+        },
+        {
+          "step": 7,
+          "text": "Low boil 5-10 minutes until syrupy."
+        },
+        {
+          "step": 8,
+          "text": "Add cherry juice gradually for consistency."
+        },
+        {
+          "step": 9,
+          "text": "Pour into sterilized bottles."
+        },
+        {
+          "step": 10,
+          "text": "Refrigerate, use within 3 months."
+        }
+      ],
+      "tags": [
+        "catsup",
+        "ketchup",
+        "hawthorn",
+        "haw",
+        "condiment",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "beverages",
-    "count": 70,
+    "count": 122,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -6373,6 +6373,4079 @@
         "overall": "high",
         "flags": []
       }
+    },
+    {
+      "id": "foxfire-muscadine-wine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Muscadine Wine",
+      "category": "beverages",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "Traditional muscadine grape wine.",
+      "servings_yield": "About 4 gallons",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "About 2-3 weeks fermentation",
+      "ingredients": [
+        {
+          "item": "muscadine grapes",
+          "quantity": "1/2",
+          "unit": "bushel",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "12 1/2",
+          "unit": "lb",
+          "prep_note": "divided"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mash the grapes with your hands."
+        },
+        {
+          "step": 2,
+          "text": "Put them in a large churn and add 2 1/2 pounds sugar."
+        },
+        {
+          "step": 3,
+          "text": "Let it work (ferment) for about a week, until it quits."
+        },
+        {
+          "step": 4,
+          "text": "Strain the mixture to get out the grape skins and impurities."
+        },
+        {
+          "step": 5,
+          "text": "Put back in the churn, add 10 pounds more of sugar."
+        },
+        {
+          "step": 6,
+          "text": "Let it work about eight to ten days until it quits."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large churn",
+      "notes": [],
+      "tags": [
+        "wine",
+        "muscadine",
+        "grapes",
+        "appalachian",
+        "foxfire",
+        "beverage",
+        "fermented"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire-apple-beer",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple Beer",
+      "category": "beverages",
+      "attribution": "Foxfire Vol 1",
+      "source_note": "Traditional Appalachian recipe from The Foxfire Book",
+      "description": "A simple fermented beverage made from apple peelings.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "1-2 days",
+      "ingredients": [
+        {
+          "item": "apple peelings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dried in sun or by stove"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "",
+          "unit": "enough to cover",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "optional",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel your apples and dry the peelings in the sun or by the stove."
+        },
+        {
+          "step": 2,
+          "text": "Put them in a crock and add enough boiling water to cover them."
+        },
+        {
+          "step": 3,
+          "text": "Cover the crock and let it sit for one or two days, until all the flavor comes out of the peelings."
+        },
+        {
+          "step": 4,
+          "text": "You may add some sugar if you want."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Crock",
+      "notes": [
+        "A frugal way to use apple peelings that would otherwise be discarded"
+      ],
+      "tags": [
+        "apple",
+        "beer",
+        "beverage",
+        "appalachian",
+        "foxfire",
+        "fermented"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FoxfireVol1.txt.html"
+      ]
+    },
+    {
+      "id": "foxfire2-sassafras-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sassafras Tea",
+      "category": "beverages",
+      "attribution": "Foxfire 2 - Florence Brooks",
+      "source_note": "Traditional Appalachian spring tonic from The Foxfire Book 2",
+      "description": "A spring tonic tea made from sassafras roots. As they say, 'Drink sassafras during March, and you won't need a doctor all year.'",
+      "servings_yield": "1 quart",
+      "prep_time": "",
+      "cook_time": "10-12 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sassafras roots and tender limbs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "gathered in March"
+        },
+        {
+          "item": "shredded bark",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "alternative"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "boiling"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Find a small bush, pull up roots and all, or dig down by the base of a tree and cut off a few sections of root."
+        },
+        {
+          "step": 2,
+          "text": "Wash the roots and scrub until the bark is pink and clean. Peel off the pinkish bark for tea."
+        },
+        {
+          "step": 3,
+          "text": "Put one cup shredded bark in quart of boiling water."
+        },
+        {
+          "step": 4,
+          "text": "Boil ten to twelve minutes."
+        },
+        {
+          "step": 5,
+          "text": "Sweeten with sugar to taste. Can be served hot or with ice."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Sassafras is best gathered in spring when the bark 'slips' or peels off easily",
+        "Red sassafras is considered best but hard to find nowadays",
+        "Big roots should be pounded to a pulp before boiling"
+      ],
+      "tags": [
+        "beverage",
+        "tea",
+        "spring-tonic",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "Foxfire-Book-2.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blackberry-wine-jake-waldroop",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Jake Waldroop's Blackberry Wine",
+      "category": "beverages",
+      "attribution": "Foxfire 3 - Jake Waldroop",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "Jake Waldroop's recipe for homemade blackberry wine, stored in an earthenware jug with a corn cob stopper.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "Several weeks fermentation",
+      "ingredients": [
+        {
+          "item": "wild blackberries",
+          "quantity": "6-8",
+          "unit": "gallons",
+          "prep_note": "washed"
+        },
+        {
+          "item": "sugar",
+          "quantity": "5",
+          "unit": "lb",
+          "prep_note": "plus more for second addition"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather six to eight gallons of wild blackberries, wash them well, and put them in a big container."
+        },
+        {
+          "step": 2,
+          "text": "Mix in five pounds of sugar."
+        },
+        {
+          "step": 3,
+          "text": "Cover the top of the churn or container with a cloth, tied down so air can get in but insects can't."
+        },
+        {
+          "step": 4,
+          "text": "Let the mixture work for eight to ten days."
+        },
+        {
+          "step": 5,
+          "text": "Strain the mixture through a clean cloth, squeezing the pulp so that all the juice is removed."
+        },
+        {
+          "step": 6,
+          "text": "Measure the juice you have. For every gallon of juice, add one and a half pounds of sugar."
+        },
+        {
+          "step": 7,
+          "text": "Let it work off. When it stops (when the foaming and bubbling have stopped on top), strain it again."
+        },
+        {
+          "step": 8,
+          "text": "Measure the juice, and again add one and a half pounds of sugar to each gallon of juice."
+        },
+        {
+          "step": 9,
+          "text": "When it finishes working this time, it is done and can be bottled."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large churn or container",
+      "notes": [
+        "Jake keeps his in an earthenware jug with a corn cob stopper",
+        "Makes grape wine the same way"
+      ],
+      "tags": [
+        "wine",
+        "blackberry",
+        "fermented",
+        "beverage",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blackberry-cordial",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Cordial",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A spiced blackberry cordial with whiskey.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "15 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blackberries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "white sugar",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "per pint of juice"
+        },
+        {
+          "item": "mace",
+          "quantity": "1/2",
+          "unit": "oz",
+          "prep_note": "whole, not ground"
+        },
+        {
+          "item": "cloves",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "whole, not ground"
+        },
+        {
+          "item": "whiskey",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "per quart of juice"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil the berries until they will break into pieces."
+        },
+        {
+          "step": 2,
+          "text": "Strain through a bag."
+        },
+        {
+          "step": 3,
+          "text": "To each pint of juice, add one pound of white sugar, a half ounce of mace, and two teaspoonfuls of cloves. Do not use ground spices."
+        },
+        {
+          "step": 4,
+          "text": "Boil for fifteen minutes."
+        },
+        {
+          "step": 5,
+          "text": "When cold, strain, and to each quart of juice add 3/4 cup of whiskey."
+        },
+        {
+          "step": 6,
+          "text": "Bottle and seal."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Use whole spices, not ground"
+      ],
+      "tags": [
+        "cordial",
+        "blackberry",
+        "whiskey",
+        "beverage",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-sumac-lemonade",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sumac Lemonade",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A refreshing pink lemonade-like drink made from sumac berries. Said to relieve fatigue and reduce fever.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sumac berries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "red, woolly type"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "",
+          "unit": "to cover",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar or honey",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Crush sumac berries."
+        },
+        {
+          "step": 2,
+          "text": "Cover with boiling water."
+        },
+        {
+          "step": 3,
+          "text": "Steep until well colored."
+        },
+        {
+          "step": 4,
+          "text": "Strain through a cloth."
+        },
+        {
+          "step": 5,
+          "text": "Sweeten with sugar or honey and serve cold."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Prepare and serve at once - will not keep",
+        "Use red sumac (staghorn or smooth), NOT poison sumac which has white berries"
+      ],
+      "tags": [
+        "lemonade",
+        "sumac",
+        "beverage",
+        "foraging",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "Use only red sumac, never white-berried poison sumac"
+        ]
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-persimmon-beer",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Persimmon Beer",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian fermented drink from Foxfire 3",
+      "description": "A potent fermented drink made from persimmons and honey locust pods.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "At least 1 week",
+      "ingredients": [
+        {
+          "item": "persimmons",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "washed"
+        },
+        {
+          "item": "honey locust seed pods",
+          "quantity": "",
+          "unit": "good number",
+          "prep_note": "washed"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "",
+          "unit": "to cover",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather persimmons and a good number of honey locust seed pods. Wash them both well."
+        },
+        {
+          "step": 2,
+          "text": "Place them in a large crock in layers until the crock is full."
+        },
+        {
+          "step": 3,
+          "text": "Pour enough boiling water in to cover them."
+        },
+        {
+          "step": 4,
+          "text": "Cover the churn and let it sit at least a week."
+        },
+        {
+          "step": 5,
+          "text": "Pour off or dip out the beer as desired."
+        },
+        {
+          "step": 6,
+          "text": "When drained, the churn may be filled with boiling water again to make a second batch."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large crock or churn",
+      "notes": [
+        "The beer is supposed to be very potent"
+      ],
+      "tags": [
+        "beer",
+        "persimmon",
+        "fermented",
+        "beverage",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-acorn-coffee",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Acorn Coffee",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian recipe from Foxfire 3",
+      "description": "A coffee substitute made from roasted acorns. 'Real good, just as good as bought coffee.'",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "white oak acorns",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Parch acorns until thoroughly dry but not burned."
+        },
+        {
+          "step": 2,
+          "text": "Grind into powder."
+        },
+        {
+          "step": 3,
+          "text": "Brew like coffee. It makes a red coffee."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "White oak acorns are sweetest; also use chestnut oak or yellow chestnut oak"
+      ],
+      "tags": [
+        "coffee",
+        "acorn",
+        "beverage",
+        "substitute",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-yarrow-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Yarrow Tea",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian tea from Foxfire 3",
+      "description": "A bracing, warming tea from yarrow leaves.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "yarrow leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dry or green"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place dry or green yarrow leaves in a cup."
+        },
+        {
+          "step": 2,
+          "text": "Pour hot water over them."
+        },
+        {
+          "step": 3,
+          "text": "Steep only until color shows."
+        },
+        {
+          "step": 4,
+          "text": "Drink without sweetening."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Good and warming in cold weather"
+      ],
+      "tags": [
+        "tea",
+        "yarrow",
+        "beverage",
+        "medicinal",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-chamomile-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chamomile Tea",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian tea from Foxfire 3",
+      "description": "A pleasant-tasting tea from chamomile flower heads.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "chamomile flower heads",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "gathered at noon when sun is shining"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather flower heads at noon when the sun is shining (dried blooms will retain better flavor)."
+        },
+        {
+          "step": 2,
+          "text": "Pour hot water over flower heads."
+        },
+        {
+          "step": 3,
+          "text": "Steep and strain."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "tea",
+        "chamomile",
+        "beverage",
+        "medicinal",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-pennyroyal-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pennyroyal Tea",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian tea from Foxfire 3",
+      "description": "The best-tasting of the wild mint teas, helpful for coughs and colds.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "pennyroyal leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "fresh or dried"
+        },
+        {
+          "item": "hot water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "syrup or honey",
+          "quantity": "",
+          "unit": "for sweetening",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Use fresh or dried leaves. Do not boil."
+        },
+        {
+          "step": 2,
+          "text": "Merely pour hot water over the leaves and let stand for a few minutes."
+        },
+        {
+          "step": 3,
+          "text": "Flavor with syrup or honey."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Also called penny-rile or squaw-mint"
+      ],
+      "tags": [
+        "tea",
+        "pennyroyal",
+        "mint",
+        "beverage",
+        "medicinal",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire3-blue-mountain-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blue-Mountain Tea",
+      "category": "beverages",
+      "attribution": "Foxfire 3",
+      "source_note": "Traditional Appalachian tea from Foxfire 3",
+      "description": "A delicious licorice-flavored tea from a special goldenrod that grows in the Blue Ridge Mountains.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "blue-mountain tea leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "green or dry (Solidago odora)"
+        },
+        {
+          "item": "hot water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar, honey, or lemon",
+          "quantity": "",
+          "unit": "optional",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Steep green or dry leaves in hot water until the tea is a pale golden color."
+        },
+        {
+          "step": 2,
+          "text": "Add sugar, honey, or lemon if desired."
+        },
+        {
+          "step": 3,
+          "text": "Can be served hot or cold."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Has a distinctive licorice taste and odor - impossible to mistake for any other plant"
+      ],
+      "tags": [
+        "tea",
+        "goldenrod",
+        "beverage",
+        "licorice",
+        "appalachian",
+        "foxfire",
+        "foraging"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "foxfire-three.txt"
+      ]
+    },
+    {
+      "id": "foxfire4-apple-cider",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mrs. Brown's Apple Cider",
+      "category": "beverages",
+      "attribution": "Mrs. Harry Brown of Betty's Creek Community, via Foxfire 4",
+      "source_note": "Traditional Appalachian apple cider from Foxfire Book 4",
+      "description": "Old-fashioned apple cider made with a traditional cider press, using a mix of sour and sweet apples.",
+      "servings_yield": "Varies by quantity of apples",
+      "prep_time": "30 minutes",
+      "cook_time": "None (fresh) or time for canning",
+      "total_time": "30 minutes to several hours",
+      "ingredients": [
+        {
+          "item": "apples (sour)",
+          "quantity": "half",
+          "unit": "of total",
+          "prep_note": "washed"
+        },
+        {
+          "item": "apples (sweet)",
+          "quantity": "half",
+          "unit": "of total",
+          "prep_note": "washed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash apples thoroughly."
+        },
+        {
+          "step": 2,
+          "text": "Use a proportion of half sour and half sweet apples. Adjust ratio for sweeter or more tart cider."
+        },
+        {
+          "step": 3,
+          "text": "Place whole apples into the wooden hopper of the cider mill."
+        },
+        {
+          "step": 4,
+          "text": "Turn the mill crank to crush apples. Pulp drops into a slatted, bottomless tub."
+        },
+        {
+          "step": 5,
+          "text": "When tub is full, move it under the screw press."
+        },
+        {
+          "step": 6,
+          "text": "Fit wooden disc into top of tub and turn the screw to press disc down onto apple pulp, squeezing out all juice."
+        },
+        {
+          "step": 7,
+          "text": "Strain cider through cheesecloth into pans or pitchers."
+        },
+        {
+          "step": 8,
+          "text": "Serve fresh, or preserve by canning or freezing."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Cider press, pans, cheesecloth",
+      "notes": [
+        "Any type of apples can be used.",
+        "For sweeter cider, add more sweet apples; for more tart, add more sour apples.",
+        "Cider can be preserved by canning or freezing.",
+        "Mrs. Brown prefers freezing to canning."
+      ],
+      "tags": [
+        "cider",
+        "beverages",
+        "apple",
+        "appalachian",
+        "foxfire",
+        "traditional",
+        "preservation"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire2-switchell-drink",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Switchell (Honey-Vinegar Drink)",
+      "category": "beverages",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional drink for hot summer haymaking days from Foxfire Book 2",
+      "description": "A nourishing drink made from honey and cider vinegar, traditionally consumed during haymaking days in summer.",
+      "servings_yield": "1 jar concentrate",
+      "prep_time": "5 minutes",
+      "cook_time": "None",
+      "total_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "honey",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cider vinegar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "dipper",
+          "prep_note": "per serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix half cup honey and half cup cider vinegar together."
+        },
+        {
+          "step": 2,
+          "text": "Keep in a jar."
+        },
+        {
+          "step": 3,
+          "text": "To serve, add four teaspoons of the mixture to a dipper of water for a nourishing drink."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "A traditional drink for hot summer haymaking days."
+      ],
+      "tags": [
+        "beverage",
+        "drink",
+        "honey",
+        "vinegar",
+        "appalachian",
+        "foxfire",
+        "traditional",
+        "summer"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire2-chicory-coffee",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicory Coffee",
+      "category": "beverages",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional coffee substitute from Foxfire Book 2",
+      "description": "Roasted chicory root used as a coffee substitute or additive.",
+      "servings_yield": "Varies",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "chicory roots",
+          "quantity": "as needed",
+          "unit": "",
+          "prep_note": "fresh"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash and peel chicory roots."
+        },
+        {
+          "step": 2,
+          "text": "Grind the roots."
+        },
+        {
+          "step": 3,
+          "text": "Roast in oven until dark brown."
+        },
+        {
+          "step": 4,
+          "text": "Add to regular coffee, or use instead of coffee."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [
+        "Popular during times when coffee was scarce or expensive."
+      ],
+      "tags": [
+        "beverage",
+        "coffee",
+        "chicory",
+        "wild foods",
+        "substitute",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire2-dandelion-wine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion Wine",
+      "category": "beverages",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional wine recipe from Foxfire Book 2",
+      "description": "Classic homemade wine made from dandelion flowers.",
+      "servings_yield": "About 1 gallon",
+      "prep_time": "30 minutes",
+      "cook_time": "None",
+      "total_time": "About 2 weeks",
+      "ingredients": [
+        {
+          "item": "dandelion flowers",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling water",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": ""
+        },
+        {
+          "item": "lemons",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "juice only"
+        },
+        {
+          "item": "oranges",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "juice only"
+        },
+        {
+          "item": "sugar",
+          "quantity": "4",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "yeast cake",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour one gallon boiling water over one gallon dandelion flowers."
+        },
+        {
+          "step": 2,
+          "text": "Let stand until blossoms rise (24-48 hours)."
+        },
+        {
+          "step": 3,
+          "text": "Strain into a stone jar."
+        },
+        {
+          "step": 4,
+          "text": "Add juices of four lemons and four oranges, four pounds of sugar, and one yeast cake."
+        },
+        {
+          "step": 5,
+          "text": "Stir four or five times a day until it stops fermenting."
+        },
+        {
+          "step": 6,
+          "text": "Keep well covered."
+        },
+        {
+          "step": 7,
+          "text": "In two weeks, strain, bottle and cork tightly."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Stone jar",
+      "notes": [
+        "A traditional spring wine. Use only the flower petals, not the green parts."
+      ],
+      "tags": [
+        "wine",
+        "beverage",
+        "dandelion",
+        "wild foods",
+        "fermented",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire2-dandelion-coffee",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion Coffee",
+      "category": "beverages",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional coffee substitute from Foxfire Book 2",
+      "description": "Roasted dandelion root used as a coffee substitute.",
+      "servings_yield": "Varies",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "dandelion roots",
+          "quantity": "as needed",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather dandelion roots."
+        },
+        {
+          "step": 2,
+          "text": "Peel the roots."
+        },
+        {
+          "step": 3,
+          "text": "Roast until dark brown."
+        },
+        {
+          "step": 4,
+          "text": "Grind."
+        },
+        {
+          "step": 5,
+          "text": "Use as substitute for real coffee."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Baking sheet",
+      "notes": [
+        "A caffeine-free coffee alternative with a slightly bitter, nutty flavor."
+      ],
+      "tags": [
+        "beverage",
+        "coffee",
+        "dandelion",
+        "wild foods",
+        "substitute",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire2-green-drink-tonic",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Green Drink Tonic",
+      "category": "beverages",
+      "attribution": "Traditional Appalachian, via Foxfire 2",
+      "source_note": "Traditional tonic from Foxfire Book 2",
+      "description": "A healthful tonic drink made from chickweed and dandelion.",
+      "servings_yield": "1 serving",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {
+          "item": "chickweed",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dandelion greens",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cider vinegar",
+          "quantity": "to taste",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook chickweed and dandelion separately."
+        },
+        {
+          "step": 2,
+          "text": "Put each through a sieve."
+        },
+        {
+          "step": 3,
+          "text": "Add cider vinegar to the combined purees."
+        },
+        {
+          "step": 4,
+          "text": "Drink as a tonic."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Saucepan",
+      "notes": [
+        "A spring tonic to cleanse the system after winter."
+      ],
+      "tags": [
+        "beverage",
+        "tonic",
+        "dandelion",
+        "chickweed",
+        "wild foods",
+        "health",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "appalachian-blackberry-nectar",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Nectar",
+      "category": "beverages",
+      "attribution": "Foxfire Three",
+      "source_note": "Traditional Appalachian wild plant recipes",
+      "description": "Sweet blackberry drink concentrate made with vinegar.",
+      "servings_yield": "About 2 pints",
+      "ingredients": [
+        {
+          "item": "ripe blackberries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "sound and ripe"
+        },
+        {
+          "item": "good vinegar",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "per pint of juice"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Select sound, ripe blackberries."
+        },
+        {
+          "step": 2,
+          "text": "Add the berries to 3 cups good vinegar in a crock or large jar."
+        },
+        {
+          "step": 3,
+          "text": "Cover the crock with cheesecloth and let stand three or four days, stirring daily."
+        },
+        {
+          "step": 4,
+          "text": "When ready, strain without crushing the berries."
+        },
+        {
+          "step": 5,
+          "text": "Measure, and add one pound sugar for each pint juice."
+        },
+        {
+          "step": 6,
+          "text": "Boil gently for five minutes."
+        },
+        {
+          "step": 7,
+          "text": "Put in bottles or jars and seal."
+        }
+      ],
+      "notes": [
+        "When serving, dilute with water and crushed ice.",
+        "Use less sugar if a tart drink is preferred."
+      ],
+      "tags": [
+        "beverage",
+        "blackberry",
+        "wild plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "appalachian-blackberry-shrub",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Shrub",
+      "category": "beverages",
+      "attribution": "Foxfire Three",
+      "source_note": "Traditional Appalachian wild plant recipes",
+      "description": "Traditional shrub drink made from blackberries and apple vinegar.",
+      "servings_yield": "About 1 quart",
+      "ingredients": [
+        {
+          "item": "blackberries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "washed and selected, no sour or imperfect ones"
+        },
+        {
+          "item": "apple vinegar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "two years old, to cover"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather the blackberries, wash and select so that there will be no sour or imperfect ones."
+        },
+        {
+          "step": 2,
+          "text": "Cover with apple vinegar (two years old) and cook until soft."
+        },
+        {
+          "step": 3,
+          "text": "Strain, and sweeten the juice to taste."
+        },
+        {
+          "step": 4,
+          "text": "Boil down until it is about the consistency of thick syrup."
+        },
+        {
+          "step": 5,
+          "text": "Bottle and put in a cool, dark place."
+        }
+      ],
+      "notes": [
+        "When serving, use three or four tablespoonfuls to a glass cold water."
+      ],
+      "tags": [
+        "beverage",
+        "shrub",
+        "blackberry",
+        "wild plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "appalachian-elderberry-wine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderberry Wine",
+      "category": "beverages",
+      "attribution": "Foxfire Three",
+      "source_note": "Traditional Appalachian wild plant recipes",
+      "description": "Traditional homemade wine from wild elderberries.",
+      "servings_yield": "About 1 gallon",
+      "ingredients": [
+        {
+          "item": "elderberries",
+          "quantity": "5",
+          "unit": "quarts"
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "quarts"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "equal to juice amount"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Use five quarts of berries to six quarts of water."
+        },
+        {
+          "step": 2,
+          "text": "Mash the berries and let stand in a crock two weeks, stirring every day."
+        },
+        {
+          "step": 3,
+          "text": "Strain."
+        },
+        {
+          "step": 4,
+          "text": "Add as much sugar as you have juice."
+        },
+        {
+          "step": 5,
+          "text": "Let stand two weeks and then bottle."
+        }
+      ],
+      "tags": [
+        "beverage",
+        "wine",
+        "elderberry",
+        "wild plants",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "dandelion-wine-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion Wine",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional homemade wine from dandelion flowers.",
+      "servings_yield": "1 gallon",
+      "ingredients": [
+        {
+          "item": "dandelion flowers",
+          "quantity": "3",
+          "unit": "quarts"
+        },
+        {
+          "item": "golden raisins",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "gallon"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "3",
+          "unit": "lbs"
+        },
+        {
+          "item": "lemons",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "orange",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "yeast and nutrient",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pick fresh flowers and trim stalks, removing all green parts."
+        },
+        {
+          "step": 2,
+          "text": "Place flowers in large bowl. Set aside one pint of water."
+        },
+        {
+          "step": 3,
+          "text": "Boil remaining gallon and pour over flowers. Cover tightly with plastic wrap for two days, stirring twice daily."
+        },
+        {
+          "step": 4,
+          "text": "Transfer to large pot and bring to low boil."
+        },
+        {
+          "step": 5,
+          "text": "Add sugar and citrus peelings (thinly sliced, avoiding white pith). Boil for one hour."
+        },
+        {
+          "step": 6,
+          "text": "Pour into fermenter and cool. Add yeast, nutrient, cover, and place in warm location for three days."
+        },
+        {
+          "step": 7,
+          "text": "Strain into secondary fermenter with raisins and fit fermentation lock."
+        },
+        {
+          "step": 8,
+          "text": "Rack after wine clears. After two months, rack and bottle."
+        },
+        {
+          "step": 9,
+          "text": "Age six months to one year."
+        }
+      ],
+      "tags": [
+        "wine",
+        "dandelion",
+        "fermented",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "dandelion-burdock-beer-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Dandelion and Burdock Beer",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional British herbal beer made with dandelion and burdock.",
+      "servings_yield": "1 gallon",
+      "ingredients": [
+        {
+          "item": "young nettles",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "dandelion leaves",
+          "quantity": "4",
+          "unit": "oz"
+        },
+        {
+          "item": "fresh burdock root",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "sliced, or 2 oz dried"
+        },
+        {
+          "item": "ginger root",
+          "quantity": "1/2",
+          "unit": "oz",
+          "prep_note": "bruised"
+        },
+        {
+          "item": "lemons",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "gallon"
+        },
+        {
+          "item": "soft brown sugar",
+          "quantity": "1 lb + 4",
+          "unit": "tsp"
+        },
+        {
+          "item": "cream of tartar",
+          "quantity": "1",
+          "unit": "oz"
+        },
+        {
+          "item": "brewing yeast",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put nettles, dandelion leaves, burdock, ginger, and thinly pared lemon rinds in large pan with water."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boil and simmer 30 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Pour lemon juice, sugar, and cream of tartar into large container and strain liquid through, pressing down on solids."
+        },
+        {
+          "step": 4,
+          "text": "Stir to dissolve sugar. Cool to room temperature."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle in yeast. Cover and leave to ferment in warm place for 3 days."
+        },
+        {
+          "step": 6,
+          "text": "Pour off beer and bottle, adding 1 tsp sugar per pint."
+        },
+        {
+          "step": 7,
+          "text": "Leave undisturbed about 1 week until clear."
+        }
+      ],
+      "tags": [
+        "beer",
+        "fermented",
+        "dandelion",
+        "burdock",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "loquat-grappa-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Loquat Grappa",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Italian-style liqueur made from loquat seeds.",
+      "servings_yield": "2 bottles",
+      "ingredients": [
+        {
+          "item": "loquat seeds",
+          "quantity": "1-2",
+          "unit": "quarts",
+          "prep_note": "clean, whole"
+        },
+        {
+          "item": "vodka",
+          "quantity": "1",
+          "unit": "quart"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "equal parts with water"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "equal parts with sugar"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak seeds in vodka for 1-6 months in a sealed jar."
+        },
+        {
+          "step": 2,
+          "text": "Drain flavored vodka and divide between two bottles."
+        },
+        {
+          "step": 3,
+          "text": "Heat equal parts sugar and water until dissolved."
+        },
+        {
+          "step": 4,
+          "text": "Top off each bottle with sugar syrup."
+        },
+        {
+          "step": 5,
+          "text": "Adjust sweetness as desired."
+        }
+      ],
+      "notes": [
+        "Seeds contain cyanogenetic glycosides; consume sparingly, no more than 4 ounces at a time."
+      ],
+      "tags": [
+        "liqueur",
+        "grappa",
+        "loquat",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "Contains warning about cyanogenic compounds"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "loquat-wine-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Loquat Wine",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Fruit wine made from fresh loquats.",
+      "servings_yield": "1 gallon",
+      "ingredients": [
+        {
+          "item": "fresh loquats",
+          "quantity": "4",
+          "unit": "lbs",
+          "prep_note": "seeds removed"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "2",
+          "unit": "lbs"
+        },
+        {
+          "item": "acid blend",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "gallon"
+        },
+        {
+          "item": "Campden tablet",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pectic enzyme",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "grape tannin",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "wine yeast and nutrient",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop fruit finely, pour over half sugar, Campden tablet, tannin, and water."
+        },
+        {
+          "step": 2,
+          "text": "After 12 hours, add pectic enzyme."
+        },
+        {
+          "step": 3,
+          "text": "After another 12 hours, add yeast."
+        },
+        {
+          "step": 4,
+          "text": "Stir daily, adding remaining sugar after 3 days."
+        },
+        {
+          "step": 5,
+          "text": "Ferment on pulp 4 more days."
+        },
+        {
+          "step": 6,
+          "text": "Strain through jelly bag, pour into secondary with airlock."
+        },
+        {
+          "step": 7,
+          "text": "Rack every 30 days until clear (3-4 additional rackings)."
+        },
+        {
+          "step": 8,
+          "text": "Bottle and age."
+        }
+      ],
+      "tags": [
+        "wine",
+        "fermented",
+        "loquat",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "elderberry-schnapps-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderberry Schnapps",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Elderberry-infused vodka liqueur.",
+      "servings_yield": "1 quart",
+      "ingredients": [
+        {
+          "item": "elderberries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "measured by weight"
+        },
+        {
+          "item": "unflavored vodka",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "half the weight of berries, or more to cover"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse and clean elderberries, removing all stems."
+        },
+        {
+          "step": 2,
+          "text": "Weigh the prepared berries."
+        },
+        {
+          "step": 3,
+          "text": "Place berries in a clean glass jar with tight-fitting lid."
+        },
+        {
+          "step": 4,
+          "text": "Add vodka equal to half the berry weight (or more to fully cover)."
+        },
+        {
+          "step": 5,
+          "text": "Seal jar and store in a dark place at room temperature."
+        },
+        {
+          "step": 6,
+          "text": "Shake occasionally."
+        },
+        {
+          "step": 7,
+          "text": "After 1-4 weeks, strain and discard berries."
+        },
+        {
+          "step": 8,
+          "text": "Transfer liquid to a new clean jar with tight lid."
+        },
+        {
+          "step": 9,
+          "text": "Age for at least two months before consuming."
+        }
+      ],
+      "tags": [
+        "liqueur",
+        "schnapps",
+        "elderberry",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "elderberry-wine-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderberry Wine",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional homemade elderberry wine.",
+      "servings_yield": "1 gallon",
+      "ingredients": [
+        {
+          "item": "ripe elderberries",
+          "quantity": "3",
+          "unit": "lbs"
+        },
+        {
+          "item": "fine sugar",
+          "quantity": "2",
+          "unit": "lbs"
+        },
+        {
+          "item": "water",
+          "quantity": "3 1/2",
+          "unit": "quarts"
+        },
+        {
+          "item": "acid blend",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "yeast nutrient",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "pectin enzyme",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "Campden tablet",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "Montrachet wine yeast",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash elderberries and remove stems, discarding unsuitable ones."
+        },
+        {
+          "step": 2,
+          "text": "Boil water and dissolve sugar into it."
+        },
+        {
+          "step": 3,
+          "text": "Place berries in a nylon straining bag and tie it."
+        },
+        {
+          "step": 4,
+          "text": "Put bag in primary fermentation container."
+        },
+        {
+          "step": 5,
+          "text": "Mash berries while wearing sterilized gloves."
+        },
+        {
+          "step": 6,
+          "text": "Pour hot sugar water over berries and cover."
+        },
+        {
+          "step": 7,
+          "text": "When cooled to lukewarm, add acid blend, crushed Campden tablet, and yeast nutrient."
+        },
+        {
+          "step": 8,
+          "text": "Cover and wait 12 hours."
+        },
+        {
+          "step": 9,
+          "text": "Stir in pectin enzyme, cover and wait another 12 hours."
+        },
+        {
+          "step": 10,
+          "text": "Add yeast and stir daily for 14 days."
+        },
+        {
+          "step": 11,
+          "text": "Gently squeeze bag while wearing sterile gloves after each stirring."
+        },
+        {
+          "step": 12,
+          "text": "Drip drain berries without squeezing; add juice to primary container."
+        },
+        {
+          "step": 13,
+          "text": "Rack wine into secondary container with airlock."
+        },
+        {
+          "step": 14,
+          "text": "Store in dark place and ferment for two months."
+        },
+        {
+          "step": 15,
+          "text": "Rack again, top up, and refit airlock."
+        },
+        {
+          "step": 16,
+          "text": "Repeat racking process two more times."
+        },
+        {
+          "step": 17,
+          "text": "Stabilize wine and wait 10 days."
+        },
+        {
+          "step": 18,
+          "text": "Rack final time, sweeten to taste, and bottle."
+        },
+        {
+          "step": 19,
+          "text": "Store in dark place for one year before consuming."
+        }
+      ],
+      "tags": [
+        "wine",
+        "fermented",
+        "elderberry",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pindo-palm-wine-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pindo Palm Wine",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Fruit wine made from pindo palm (jelly palm) fruit.",
+      "servings_yield": "5 liters",
+      "ingredients": [
+        {
+          "item": "ripe pindo fruit",
+          "quantity": "1.2",
+          "unit": "kg"
+        },
+        {
+          "item": "Campden tablet",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1.2",
+          "unit": "kg"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "1",
+          "unit": "liter"
+        },
+        {
+          "item": "tannic acid",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "yeast nutrient",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "winemaking yeast",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "pectinase enzyme",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cover fruit with water and use clean hands to rub out seeds."
+        },
+        {
+          "step": 2,
+          "text": "Mash the fibrous fruit pulp."
+        },
+        {
+          "step": 3,
+          "text": "Add crushed Campden tablet; let sit covered for 24 hours."
+        },
+        {
+          "step": 4,
+          "text": "Prepare wine starter."
+        },
+        {
+          "step": 5,
+          "text": "Add pectinase dissolved in water; let sit several hours."
+        },
+        {
+          "step": 6,
+          "text": "Add sugar syrup, tannic acid, and yeast nutrient; make up to 5 liters total."
+        },
+        {
+          "step": 7,
+          "text": "Add yeast and stir three times daily for 6 days."
+        },
+        {
+          "step": 8,
+          "text": "Sieve into demijohn."
+        },
+        {
+          "step": 9,
+          "text": "Rack and add sugar as needed for final gravity around 1.020."
+        }
+      ],
+      "tags": [
+        "wine",
+        "fermented",
+        "pindo palm",
+        "jelly palm",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hard-cider-quick-easy-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Quick & Easy Hard Cider",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Simple hard cider made in 5-7 days with natural fermentation.",
+      "servings_yield": "1 gallon, ~2% ABV",
+      "ingredients": [
+        {
+          "item": "apple cider",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": "no preservatives; pasteurized OK"
+        },
+        {
+          "item": "starter culture or yeast",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "or 1 tsp beer/champagne yeast"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional, for sweetness"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour off 1/2 cup juice from cider gallon."
+        },
+        {
+          "step": 2,
+          "text": "Add 1/2 cup starter culture to the jug."
+        },
+        {
+          "step": 3,
+          "text": "Install fermentation lock (balloon, condom, or commercial airlock with pinhole)."
+        },
+        {
+          "step": 4,
+          "text": "Keep in warm location (65-75\u00b0F ideal)."
+        },
+        {
+          "step": 5,
+          "text": "Ferment 5 days for sweeter result; 7-14 days for drier."
+        },
+        {
+          "step": 6,
+          "text": "Bottle in plastic seltzer bottles or capped containers."
+        },
+        {
+          "step": 7,
+          "text": "Keep warm 1-2 days to carbonate (bottles become firm)."
+        },
+        {
+          "step": 8,
+          "text": "Refrigerate to stop fermentation and slow carbonation buildup."
+        }
+      ],
+      "notes": [
+        "Avoid juice containing nitrates, sulfides, or potassium sorbate, which kills yeast"
+      ],
+      "tags": [
+        "cider",
+        "fermented",
+        "beverages",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "concord-grape-quick-ferment-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Concord Grape Quick Ferment",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Quick fermented grape beverage resembling semi-bubbly red Lambrusco.",
+      "servings_yield": "1 gallon",
+      "ingredients": [
+        {
+          "item": "Concord grape juice",
+          "quantity": "1",
+          "unit": "gallon"
+        },
+        {
+          "item": "starter or yeast",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "or 1 tsp yeast"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Follow cider method but ferment only 3 days maximum."
+        },
+        {
+          "step": 2,
+          "text": "Shorter fermentation preserves sweetness; longer fermentation produces harsh flavor."
+        },
+        {
+          "step": 3,
+          "text": "Cap and carbonate for 1 day, then chill and serve."
+        }
+      ],
+      "notes": [
+        "Results resemble semi-bubbly red Lambrusco when chilled"
+      ],
+      "tags": [
+        "grape",
+        "wine",
+        "fermented",
+        "beverages",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "elderberry-wine-gallon-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderberry Wine (1 Gallon)",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional homemade elderberry wine with detailed fermentation instructions.",
+      "servings_yield": "1 gallon",
+      "ingredients": [
+        {
+          "item": "ripe elderberries",
+          "quantity": "3",
+          "unit": "lbs"
+        },
+        {
+          "item": "fine sugar",
+          "quantity": "2",
+          "unit": "lbs"
+        },
+        {
+          "item": "water",
+          "quantity": "3.5",
+          "unit": "quarts"
+        },
+        {
+          "item": "acid blend",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "yeast nutrient",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "pectin enzyme",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "Campden tablet",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "Montrachet wine yeast",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash berries and remove stems, discarding unsuitable ones."
+        },
+        {
+          "step": 2,
+          "text": "Boil water and dissolve sugar into it."
+        },
+        {
+          "step": 3,
+          "text": "Place berries in a nylon straining bag and mash while wearing sterilized gloves."
+        },
+        {
+          "step": 4,
+          "text": "Pour hot sugar water over berries and cover. Cool to lukewarm."
+        },
+        {
+          "step": 5,
+          "text": "Add acid blend, crushed Campden tablet, and yeast nutrient. Cover and wait 12 hours."
+        },
+        {
+          "step": 6,
+          "text": "Stir in pectin enzyme, cover again, and wait another 12 hours before adding yeast."
+        },
+        {
+          "step": 7,
+          "text": "Stir daily for 14 days, gently squeezing the bag with sterile gloves."
+        },
+        {
+          "step": 8,
+          "text": "Drain without squeezing and transfer juice to a secondary container with airlock."
+        },
+        {
+          "step": 9,
+          "text": "Ferment in darkness for two months."
+        },
+        {
+          "step": 10,
+          "text": "Rack again, top up, and refit airlock. Repeat racking two more times."
+        },
+        {
+          "step": 11,
+          "text": "Stabilize after 10 days, rack once more, sweeten to taste, and bottle."
+        },
+        {
+          "step": 12,
+          "text": "Store in darkness for one year."
+        }
+      ],
+      "notes": [
+        "Freezing berry clusters makes them separate from branches more easily"
+      ],
+      "tags": [
+        "wine",
+        "elderberry",
+        "fermented",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "walnut-liquor-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Walnut Liquor (Nocino)",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Traditional walnut liqueur made from green walnuts.",
+      "servings_yield": "About 1 quart",
+      "ingredients": [
+        {
+          "item": "green walnuts",
+          "quantity": "25",
+          "unit": "",
+          "prep_note": "dehusked, about apricot-sized"
+        },
+        {
+          "item": "cloves",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "cinnamon stick",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "lemon peel",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "yellow part only, no white pith"
+        },
+        {
+          "item": "vodka",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "100 proof"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak the walnuts overnight to draw out any worms and impurities."
+        },
+        {
+          "step": 2,
+          "text": "Quarter them and place in a large jar with all other ingredients."
+        },
+        {
+          "step": 3,
+          "text": "Place in a sunny spot, sealed, for at least 40 days (2 months is better)."
+        },
+        {
+          "step": 4,
+          "text": "Shake every few days."
+        },
+        {
+          "step": 5,
+          "text": "Strain and bottle the liquid; let sit for another month or two minimum."
+        },
+        {
+          "step": 6,
+          "text": "Best after aging 2-3 years."
+        }
+      ],
+      "notes": [
+        "Optional: Combine filter solids with 2 cups alcohol, 1 cup sugar, and a bottle of cheap sparkling wine for a secondary liqueur"
+      ],
+      "tags": [
+        "liqueur",
+        "walnut",
+        "nocino",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hickory-nut-coffee-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hickory Nut Coffee",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Coffee-like beverage made from roasted hickory nuts.",
+      "servings_yield": "1-2 cups",
+      "ingredients": [
+        {
+          "item": "hulled hickory nuts",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "larva-free"
+        },
+        {
+          "item": "water",
+          "quantity": "1-2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roast nuts for 15 minutes at 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Cool completely. Do not cook longer or at higher temperature without first scoring them so heat can escape."
+        },
+        {
+          "step": 3,
+          "text": "Split shells, add to water, bring to boil."
+        },
+        {
+          "step": 4,
+          "text": "Strain when water turns golden and serve."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "coffee",
+        "hickory",
+        "beverage",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "roasted-palm-seed-beverage-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roasted Palm Seed Beverage",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Coffee-like drink made from roasted palm kernels.",
+      "ingredients": [
+        {
+          "item": "palm kernels",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "pulpless"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roast pulpless kernels at 350\u00b0F for 20-30 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Grind using an industrial coffee grinder and grain grinder."
+        },
+        {
+          "step": 3,
+          "text": "Brew like coffee for a passable coffee-like drink, especially aromatic."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "tags": [
+        "coffee",
+        "palm",
+        "beverage",
+        "florida",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Requires industrial grinder"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "cactus-flower-wine-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cactus Flower Wine",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Delicate wine made from prickly pear cactus flowers.",
+      "servings_yield": "About 1 gallon",
+      "ingredients": [
+        {
+          "item": "packed cactus flowers",
+          "quantity": "2.5",
+          "unit": "quarts"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "2",
+          "unit": "lbs"
+        },
+        {
+          "item": "frozen white grape juice concentrate",
+          "quantity": "11",
+          "unit": "oz"
+        },
+        {
+          "item": "acid blend",
+          "quantity": "1.75",
+          "unit": "tsp"
+        },
+        {
+          "item": "grape tannin",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "water",
+          "quantity": "6.25",
+          "unit": "pints"
+        },
+        {
+          "item": "Campden tablet",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "yeast nutrient",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "Champagne wine yeast",
+          "quantity": "1",
+          "unit": "packet"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Wash flowers, place in nylon straining bag with dozen marbles for weight."
+        },
+        {
+          "step": 2,
+          "text": "Heat 1 quart water, dissolve sugar."
+        },
+        {
+          "step": 3,
+          "text": "Cool with frozen grape concentrate and remaining water, add to primary fermenter."
+        },
+        {
+          "step": 4,
+          "text": "Add remaining ingredients except yeast, stir well."
+        },
+        {
+          "step": 5,
+          "text": "Cover and wait 10-12 hours before adding activated yeast."
+        },
+        {
+          "step": 6,
+          "text": "Stir daily until specific gravity drops to 1.020."
+        },
+        {
+          "step": 7,
+          "text": "Drip-drain bag, transfer to secondary with airlock."
+        },
+        {
+          "step": 8,
+          "text": "Rack after 45 days, then again after another 45 days."
+        },
+        {
+          "step": 9,
+          "text": "Final rack 60 days after clearing, age 90-120 days."
+        },
+        {
+          "step": 10,
+          "text": "Stabilize, sweeten to taste, bottle."
+        },
+        {
+          "step": 11,
+          "text": "Taste after 6 months in bottle."
+        }
+      ],
+      "tags": [
+        "wine",
+        "cactus",
+        "flower",
+        "fermented",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "hawthorn-schnapps-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hawthorn Schnapps",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Hawthorn berry-infused vodka schnapps.",
+      "ingredients": [
+        {
+          "item": "stalkless hawthorn berries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "fill jar 2/3 full"
+        },
+        {
+          "item": "clear unflavored vodka",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to cover"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse and dry berries."
+        },
+        {
+          "step": 2,
+          "text": "Fill jar 2/3 full with berries."
+        },
+        {
+          "step": 3,
+          "text": "Cover completely with vodka."
+        },
+        {
+          "step": 4,
+          "text": "Seal tightly."
+        },
+        {
+          "step": 5,
+          "text": "Steep 5-6 weeks in dark place at 64-68\u00b0F, shaking occasionally."
+        },
+        {
+          "step": 6,
+          "text": "Strain and filter."
+        },
+        {
+          "step": 7,
+          "text": "Age 2 months in dark before serving."
+        }
+      ],
+      "tags": [
+        "schnapps",
+        "hawthorn",
+        "haw",
+        "liqueur",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "maple-beer-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Maple Beer",
+      "category": "beverages",
+      "attribution": "Eat the Weeds - Green Deane (from F.A. Michaux, 1853)",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Historical fermented maple beverage from 1853.",
+      "servings_yield": "About 4 gallons",
+      "ingredients": [
+        {
+          "item": "boiling water",
+          "quantity": "4",
+          "unit": "gallons"
+        },
+        {
+          "item": "maple molasses (syrup)",
+          "quantity": "1",
+          "unit": "quart"
+        },
+        {
+          "item": "yeast or leaven",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for fermentation"
+        },
+        {
+          "item": "essence of spruce",
+          "quantity": "1",
+          "unit": "spoonful"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour the maple molasses into boiling water."
+        },
+        {
+          "step": 2,
+          "text": "Add yeast to trigger fermentation."
+        },
+        {
+          "step": 3,
+          "text": "Stir in the spruce essence."
+        },
+        {
+          "step": 4,
+          "text": "Allow to ferment until a pleasant and salutary drink is obtained."
+        }
+      ],
+      "tags": [
+        "beer",
+        "maple",
+        "fermented",
+        "historical",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Historical recipe - may need adjustment"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "homemade-root-beer-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Root Beer",
+      "category": "beverages",
+      "attribution": "Eat the Weeds / herb lover",
+      "source_note": "From eattheweeds.com - Root Beer Rat Killer article comments",
+      "description": "A traditional homemade root beer using foraged botanicals and natural ingredients.",
+      "servings_yield": "about 6 quarts",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "quarts"
+        },
+        {
+          "item": "honey",
+          "quantity": "3",
+          "unit": "lb"
+        },
+        {
+          "item": "licorice root",
+          "quantity": "1",
+          "unit": "oz"
+        },
+        {
+          "item": "star anise",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "cinnamon stick",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "sassafras root",
+          "quantity": "1",
+          "unit": "oz"
+        },
+        {
+          "item": "smilex root (sarsaparilla)",
+          "quantity": "1",
+          "unit": "oz"
+        },
+        {
+          "item": "black cherry bark",
+          "quantity": "1",
+          "unit": "oz"
+        },
+        {
+          "item": "molasses",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sugar",
+          "quantity": "6",
+          "unit": "cups"
+        },
+        {
+          "item": "vanilla bean",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/8",
+          "unit": "tsp"
+        },
+        {
+          "item": "cherries",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "juniper berries",
+          "quantity": "50",
+          "unit": ""
+        },
+        {
+          "item": "wintergreen",
+          "quantity": "1",
+          "unit": "oz"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients in a large pot."
+        },
+        {
+          "step": 2,
+          "text": "Boil together for 1 hour."
+        },
+        {
+          "step": 3,
+          "text": "Strain the mixture through cheesecloth or fine mesh strainer."
+        },
+        {
+          "step": 4,
+          "text": "Carbonate the strained liquid using your preferred method (natural fermentation with yeast or force carbonation)."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large stockpot",
+      "notes": [
+        "Traditional root beer uses sassafras which contains safrole - use sparingly or substitute sassafras flavoring",
+        "For natural carbonation, add champagne yeast and bottle in pressure-safe containers",
+        "Smilex is another name for sarsaparilla"
+      ],
+      "tags": [
+        "root beer",
+        "beverage",
+        "soda",
+        "foraged",
+        "traditional",
+        "homemade"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "sassafras safety note"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "lemongrass-tea-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemongrass Tea (Knotted Blade Method)",
+      "category": "beverages",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Lemongrass article",
+      "description": "A simple method for making fresh lemongrass tea using a knotted blade.",
+      "servings_yield": "1 cup",
+      "prep_time": "2 minutes",
+      "cook_time": "2 minutes",
+      "ingredients": [
+        {
+          "item": "lemongrass blade",
+          "quantity": "1",
+          "unit": "full blade"
+        },
+        {
+          "item": "hot water",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Take a complete lemongrass blade (be cautious, as the edges can cut you)."
+        },
+        {
+          "step": 2,
+          "text": "Starting from the bottom, begin tying the blade into knots."
+        },
+        {
+          "step": 3,
+          "text": "Continue knotting until you have created a large knot with sufficient length remaining for a handle to dip with."
+        },
+        {
+          "step": 4,
+          "text": "Place the knotted blade in hot water."
+        },
+        {
+          "step": 5,
+          "text": "Allow to steep for one to two minutes."
+        },
+        {
+          "step": 6,
+          "text": "Use the handle to stir if desired."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "The knotting releases more flavor than simply steeping a flat blade",
+        "Handle lemongrass carefully - blade edges are sharp"
+      ],
+      "tags": [
+        "lemongrass",
+        "tea",
+        "beverage",
+        "herbal tea",
+        "simple"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-rose-hip-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rose Hip Tea",
+      "category": "beverages",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian medicinal tea from wild roses",
+      "description": "A vitamin C-rich tea made from rose hips, with a flavor similar to apples.",
+      "servings_yield": "4 cups",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "rose hips",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "fresh or dried"
+        },
+        {
+          "item": "water",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "honey or sugar",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook rose hips in water until soft."
+        },
+        {
+          "step": 2,
+          "text": "Strain off the juice."
+        },
+        {
+          "step": 3,
+          "text": "Reheat juice with honey or sugar to taste."
+        },
+        {
+          "step": 4,
+          "text": "Serve hot. Tastes similar to apple."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Medium saucepan",
+      "notes": [
+        "Darker hips make better tea",
+        "Rose hips are very high in vitamin C",
+        "Harvest after first frost for best flavor"
+      ],
+      "tags": [
+        "tea",
+        "beverage",
+        "rose hip",
+        "medicinal",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-blackberry-cordial",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blackberry Cordial",
+      "category": "beverages",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian medicinal cordial",
+      "description": "A spiced blackberry liqueur traditionally used for medicinal purposes.",
+      "servings_yield": "About 1 quart",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "50 minutes (plus cooling)",
+      "ingredients": [
+        {
+          "item": "blackberries",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "mace",
+          "quantity": "1/2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "cloves",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whiskey",
+          "quantity": "3/4",
+          "unit": "cup per quart",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil berries in water until soft."
+        },
+        {
+          "step": 2,
+          "text": "Strain through cloth."
+        },
+        {
+          "step": 3,
+          "text": "To one pint juice add one pound sugar, mace, and cloves."
+        },
+        {
+          "step": 4,
+          "text": "Boil for 15 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Cool and strain again."
+        },
+        {
+          "step": 6,
+          "text": "Add 3/4 cup whiskey per quart."
+        },
+        {
+          "step": 7,
+          "text": "Bottle and seal."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Large pot",
+      "notes": [
+        "Traditionally used for stomach ailments",
+        "Can substitute brandy for whiskey"
+      ],
+      "tags": [
+        "cordial",
+        "beverage",
+        "blackberry",
+        "medicinal",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-elderberry-wine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elderberry Wine",
+      "category": "beverages",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian elderberry wine",
+      "description": "A deep red wine made from wild elderberries, a traditional Appalachian beverage.",
+      "servings_yield": "About 1 gallon",
+      "prep_time": "30 minutes",
+      "cook_time": "None",
+      "total_time": "4 weeks (fermentation)",
+      "ingredients": [
+        {
+          "item": "elderberries",
+          "quantity": "5",
+          "unit": "quarts",
+          "prep_note": "stemmed"
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "5",
+          "unit": "lbs",
+          "prep_note": "equal to juice amount"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mash berries in a crock."
+        },
+        {
+          "step": 2,
+          "text": "Add water and stir daily for two weeks."
+        },
+        {
+          "step": 3,
+          "text": "Strain through cloth."
+        },
+        {
+          "step": 4,
+          "text": "Add equal amount of sugar to juice."
+        },
+        {
+          "step": 5,
+          "text": "Stand two more weeks, stirring occasionally."
+        },
+        {
+          "step": 6,
+          "text": "Bottle when fermentation stops."
+        }
+      ],
+      "temperature": "Room temperature",
+      "pan_size": "Large crock or fermenting vessel",
+      "notes": [
+        "Only use black or blue elderberries - red elderberries are toxic",
+        "Store in cool, dark place after bottling"
+      ],
+      "tags": [
+        "wine",
+        "beverage",
+        "elderberry",
+        "appalachian",
+        "foxfire",
+        "wild foods",
+        "fermented"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-grape-juice",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Grape Juice",
+      "category": "beverages",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian grape juice for canning",
+      "description": "A simple method for making and preserving wild grape juice.",
+      "servings_yield": "1 quart per batch",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "35 minutes (plus 3-4 weeks resting)",
+      "ingredients": [
+        {
+          "item": "ripe grapes",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "washed"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling water",
+          "quantity": "",
+          "unit": "to fill jar",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Sterilize quart jars."
+        },
+        {
+          "step": 2,
+          "text": "Place two cups washed fully ripe grapes in each jar."
+        },
+        {
+          "step": 3,
+          "text": "Add half cup sugar."
+        },
+        {
+          "step": 4,
+          "text": "Fill to top with boiling water."
+        },
+        {
+          "step": 5,
+          "text": "Seal immediately."
+        },
+        {
+          "step": 6,
+          "text": "Stand 3-4 weeks before straining for use."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Quart canning jars",
+      "notes": [
+        "The grapes steep and release their juice over time",
+        "Strain before serving"
+      ],
+      "tags": [
+        "juice",
+        "beverage",
+        "grape",
+        "canning",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "foxfire-grape-wine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Grape Wine",
+      "category": "beverages",
+      "attribution": "Foxfire Wild Plant Foods",
+      "source_note": "Traditional Appalachian grape wine",
+      "description": "A simple homemade wine from wild grapes.",
+      "servings_yield": "About 5 gallons",
+      "prep_time": "30 minutes",
+      "cook_time": "None",
+      "total_time": "18+ days (fermentation)",
+      "ingredients": [
+        {
+          "item": "wild grapes",
+          "quantity": "5",
+          "unit": "gallons",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "sugar",
+          "quantity": "5",
+          "unit": "lbs",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Crush grapes and mix with sugar in large crock or barrel."
+        },
+        {
+          "step": 2,
+          "text": "Let work nine days, stirring daily."
+        },
+        {
+          "step": 3,
+          "text": "Strain through cloth."
+        },
+        {
+          "step": 4,
+          "text": "Let work nine more days."
+        },
+        {
+          "step": 5,
+          "text": "Strain again and seal loosely in jars."
+        },
+        {
+          "step": 6,
+          "text": "When completely done working, seal tightly and store in dark place."
+        }
+      ],
+      "temperature": "Room temperature",
+      "pan_size": "Large crock or barrel",
+      "notes": [
+        "Don't seal too tight during fermentation or jars may explode",
+        "Patience improves the wine"
+      ],
+      "tags": [
+        "wine",
+        "beverage",
+        "grape",
+        "fermented",
+        "appalachian",
+        "foxfire",
+        "wild foods"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "publicism.info-foxfire-wild-plants"
+      ]
+    },
+    {
+      "id": "cranberry-punch-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Punch",
+      "category": "beverages",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Cranberry/Lingonberry article",
+      "description": "A festive cranberry punch with citrus and ginger ale.",
+      "servings_yield": "about 3 quarts",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "cranberries",
+          "quantity": "1",
+          "unit": "quart"
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": "divided"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "ginger ale",
+          "quantity": "1",
+          "unit": "quart"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook berries in 4 cups water until soft."
+        },
+        {
+          "step": 2,
+          "text": "Crush and drain through cheesecloth."
+        },
+        {
+          "step": 3,
+          "text": "Boil sugar and remaining 2 cups water for 5 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Add sugar syrup to berry juice and chill."
+        },
+        {
+          "step": 5,
+          "text": "Add orange juice and lemon juice."
+        },
+        {
+          "step": 6,
+          "text": "Just before serving, add ginger ale."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Add ginger ale just before serving to keep it fizzy"
+      ],
+      "tags": [
+        "cranberry",
+        "punch",
+        "beverage",
+        "holiday",
+        "party"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "new-jersey-tea-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "New Jersey Tea",
+      "category": "beverages",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Ceanothus americanus article",
+      "description": "Revolutionary War-era tea substitute made from Red Root plant.",
+      "servings_yield": "1 cup",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "New Jersey Tea leaves",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "fresh, or 1 tsp dried"
+        },
+        {
+          "item": "hot water",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Hand-crush leaves slightly."
+        },
+        {
+          "step": 2,
+          "text": "If using fresh leaves, shade dry them first."
+        },
+        {
+          "step": 3,
+          "text": "Steep in hot water like black tea."
+        },
+        {
+          "step": 4,
+          "text": "Use 1 tablespoon fresh leaves OR 1 teaspoon dried leaves per cup."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Colonial fermentation method: Make a decoction of leaves and twigs, dip fresh leaves in it, then dry",
+        "Best harvest time is early summer when plant blossoms",
+        "Seeds are NOT edible"
+      ],
+      "tags": [
+        "tea",
+        "beverage",
+        "foraged",
+        "historical",
+        "colonial"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sunflower-hull-coffee-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sunflower Hull Coffee",
+      "category": "beverages",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Sunflowers article",
+      "description": "A coffee substitute made from roasted sunflower seed hulls.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "sunflower seed hulls",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Collect sunflower seed hulls."
+        },
+        {
+          "step": 2,
+          "text": "Roast hulls until dark and fragrant."
+        },
+        {
+          "step": 3,
+          "text": "Brew roasted hulls in hot water like coffee."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Seeds can be roasted for snacks or ground raw to thicken soups",
+        "Young stems can be roasted",
+        "Inner stalk pulp was chewed as gum by Pima Indians"
+      ],
+      "tags": [
+        "sunflower",
+        "coffee substitute",
+        "beverage",
+        "foraged"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "elder-blow-champagne-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Elder Blow Champagne",
+      "category": "beverages",
+      "attribution": "Eat the Weeds / Dick Deuerling",
+      "source_note": "From eattheweeds.com - Edible Flowers Part Three",
+      "description": "Light sparkling wine flavored with elderberry blossoms.",
+      "servings_yield": "varies",
+      "prep_time": "varies",
+      "cook_time": "fermentation time varies",
+      "ingredients": [
+        {
+          "item": "elderberry blossoms",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "white wine or champagne base",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Harvest elderberry blossoms when fully open."
+        },
+        {
+          "step": 2,
+          "text": "Use blossoms to flavor light summer wine."
+        },
+        {
+          "step": 3,
+          "text": "Allow to ferment to sparkling stage."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Elderberry blossoms can also be added to pancake batter",
+        "Use only true elderberry - not water elder or other lookalikes"
+      ],
+      "tags": [
+        "elderberry",
+        "champagne",
+        "wine",
+        "foraged",
+        "beverage"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "recipe details sparse"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "linden-basswood-tea-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Linden-Basswood Tea",
+      "category": "beverages",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Edible Flowers Part Three",
+      "description": "Honey-flavored tea from linden/basswood blossoms.",
+      "servings_yield": "1 cup",
+      "prep_time": "5 minutes",
+      "cook_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "linden/basswood blossoms",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dried"
+        },
+        {
+          "item": "hot water",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Harvest and dry linden/basswood blossoms."
+        },
+        {
+          "step": 2,
+          "text": "Steep dried blossoms in hot water."
+        },
+        {
+          "step": 3,
+          "text": "Strain and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Has natural honey flavor",
+        "Mix blossoms with basswood seeds for chocolate-like taste"
+      ],
+      "tags": [
+        "linden",
+        "basswood",
+        "tea",
+        "foraged",
+        "beverage"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-spicebush-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spicebush Tea",
+      "category": "beverages",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "A warming tea made from spicebush twigs, popular as a spring tonic.",
+      "ingredients": [
+        {
+          "item": "spicebush twigs",
+          "quantity": "handful",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "quart"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather young spicebush twigs in early spring."
+        },
+        {
+          "step": 2,
+          "text": "Break twigs into small pieces and place in pot."
+        },
+        {
+          "step": 3,
+          "text": "Cover with water and bring to a boil."
+        },
+        {
+          "step": 4,
+          "text": "Simmer for 10-15 minutes until fragrant."
+        },
+        {
+          "step": 5,
+          "text": "Strain and sweeten with honey if desired."
+        }
+      ],
+      "notes": [
+        "Also known as 'poor man's allspice' due to its aromatic flavor"
+      ],
+      "tags": [
+        "tea",
+        "spring-tonic",
+        "wild-plants",
+        "foxfire",
+        "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-sweet-birch-tea",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Birch Tea",
+      "category": "beverages",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "A wintergreen-flavored tea from sweet birch twigs.",
+      "ingredients": [
+        {
+          "item": "sweet birch twigs",
+          "quantity": "handful",
+          "unit": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "quart"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Collect young sweet birch twigs."
+        },
+        {
+          "step": 2,
+          "text": "Chop or break into small pieces."
+        },
+        {
+          "step": 3,
+          "text": "Place in pot and cover with cold water."
+        },
+        {
+          "step": 4,
+          "text": "Bring slowly to a simmer (do not boil vigorously)."
+        },
+        {
+          "step": 5,
+          "text": "Steep for 10 minutes, strain and serve."
+        }
+      ],
+      "notes": [
+        "Has a natural wintergreen flavor",
+        "Best gathered in early spring when sap is running"
+      ],
+      "tags": [
+        "tea",
+        "spring-tonic",
+        "wild-plants",
+        "foxfire",
+        "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "foxfire-birch-beer",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Birch Beer",
+      "category": "beverages",
+      "attribution": "Foxfire Book of Wild Plant Foods",
+      "source_note": "Foxfire Americana Library - Wild Plant Foods",
+      "description": "Traditional fermented beverage made from birch sap and twigs.",
+      "ingredients": [
+        {
+          "item": "birch sap or strong birch twig tea",
+          "quantity": "1",
+          "unit": "gallon"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "yeast",
+          "quantity": "1",
+          "unit": "package"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make a strong tea from birch twigs or collect birch sap in early spring."
+        },
+        {
+          "step": 2,
+          "text": "Dissolve sugar in warm birch liquid."
+        },
+        {
+          "step": 3,
+          "text": "Cool to lukewarm and add yeast."
+        },
+        {
+          "step": 4,
+          "text": "Cover and let ferment for 2-3 days."
+        },
+        {
+          "step": 5,
+          "text": "Bottle and refrigerate. Drink within a week."
+        }
+      ],
+      "notes": [
+        "A mildly fermented, refreshing spring beverage"
+      ],
+      "tags": [
+        "beverage",
+        "fermented",
+        "wild-plants",
+        "foxfire",
+        "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }

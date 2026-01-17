@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "vegetables",
-    "count": 70,
+    "count": 82,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -5834,6 +5834,979 @@
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
+    },
+    {
+      "id": "appalachian-mustard-flowers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooked Mustard Flowers",
+      "category": "vegetables",
+      "attribution": "Foxfire Book 2",
+      "source_note": "Traditional Appalachian wild plant recipes",
+      "description": "Simple preparation of wild mustard flowers.",
+      "servings_yield": "2 servings",
+      "ingredients": [
+        {
+          "item": "mustard flowers",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "newly opened blooms"
+        },
+        {
+          "item": "butter or bacon fat",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gather newly opened mustard blooms."
+        },
+        {
+          "step": 2,
+          "text": "Cook in boiling water until tender."
+        },
+        {
+          "step": 3,
+          "text": "Remove from heat, add butter or bacon fat."
+        },
+        {
+          "step": 4,
+          "text": "Serve immediately."
+        }
+      ],
+      "tags": [
+        "vegetables",
+        "wild plants",
+        "mustard",
+        "appalachian",
+        "foxfire"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "scalloped-cattails-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scalloped Cattails",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Baked cattail tops in a creamy casserole.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "cattail tops",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "scalded"
+        },
+        {
+          "item": "Swiss cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "grated, optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine cattail tops with eggs, butter, sugar, nutmeg, and pepper in a bowl."
+        },
+        {
+          "step": 2,
+          "text": "Gradually blend in the scalded milk."
+        },
+        {
+          "step": 3,
+          "text": "Pour mixture into a greased casserole dish."
+        },
+        {
+          "step": 4,
+          "text": "Top with cheese and butter."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 275\u00b0F for 30 minutes."
+        }
+      ],
+      "temperature": "275\u00b0F (135\u00b0C)",
+      "cook_time": "30 minutes",
+      "tags": [
+        "casserole",
+        "cattails",
+        "vegetables",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "spicy-henbit-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spicy Henbit",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Curried henbit greens in sour cream sauce.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "henbit shoots",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "butter",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "curry powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "whole cloves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "from cooking henbit"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "3/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop four cups of shoots and cover with water, then boil for 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "In a separate pan, melt butter and add curry powder, whole cloves, and cinnamon; stir and cook for one minute."
+        },
+        {
+          "step": 3,
+          "text": "Stir in flour and cook for another minute."
+        },
+        {
+          "step": 4,
+          "text": "Add half a cup of the boiling water from the henbit, stirring until smooth."
+        },
+        {
+          "step": 5,
+          "text": "Drain the boiled henbit and add it to the pan along with sour cream."
+        },
+        {
+          "step": 6,
+          "text": "Cook on low heat for 15 minutes."
+        }
+      ],
+      "cook_time": "25 minutes",
+      "tags": [
+        "greens",
+        "henbit",
+        "curry",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "greek-cardune-burdock-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Greek Cardune (Burdock Flower Stalks)",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds - Green Deane",
+      "source_note": "Wild foraging recipe from eattheweeds.com",
+      "description": "Mediterranean-style braised burdock flower stalks with rice.",
+      "servings_yield": "6-8 servings",
+      "ingredients": [
+        {
+          "item": "immature burdock flower stalks",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dash"
+        },
+        {
+          "item": "water or vegetable stock",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "red onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "small tomatoes",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "carrots",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "basmati brown rice",
+          "quantity": "2/3",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh dill",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "lemon"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "ground white pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Parboil flower stalks 1 minute in salted water to remove bitterness."
+        },
+        {
+          "step": 2,
+          "text": "Combine all ingredients in covered saucepan."
+        },
+        {
+          "step": 3,
+          "text": "Simmer over low heat 70 minutes until rice is tender."
+        }
+      ],
+      "cook_time": "70 minutes",
+      "tags": [
+        "vegetables",
+        "burdock",
+        "greek",
+        "rice",
+        "foraging",
+        "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sauteed-banana-tree-stem-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Saut\u00e9ed Banana Tree Stem",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Bananas article",
+      "description": "A South Indian style preparation using the edible core of banana tree stems.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "banana tree stem center core",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "grated coconut",
+          "quantity": "1/4",
+          "unit": "coconut"
+        },
+        {
+          "item": "garlic cloves",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "item": "chili powder",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "curry leaves",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "mustard seeds",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "coconut oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "turmeric",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "optional, for color"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Remove outer fiber layer from banana stem and chop finely."
+        },
+        {
+          "step": 2,
+          "text": "Wash and drain."
+        },
+        {
+          "step": 3,
+          "text": "Heat half the oil; add mustard seeds until crackling."
+        },
+        {
+          "step": 4,
+          "text": "Add chopped banana stem, curry leaves, salt, and chili powder. Optionally add turmeric for color."
+        },
+        {
+          "step": 5,
+          "text": "Cover and simmer until soft, approximately one hour."
+        },
+        {
+          "step": 6,
+          "text": "Blend grated coconut and garlic together."
+        },
+        {
+          "step": 7,
+          "text": "Add coconut-garlic mixture when stem is nearly cooked; keep covered until fully cooked."
+        },
+        {
+          "step": 8,
+          "text": "Drizzle remaining coconut oil over finished dish and mix."
+        },
+        {
+          "step": 9,
+          "text": "Let sit covered briefly before serving."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Use only the tender inner core of the banana stem"
+      ],
+      "tags": [
+        "vegetable",
+        "banana",
+        "indian",
+        "coconut",
+        "vegan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "roasted-bulrush-roots-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roasted Bulrush Roots",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Bulrush Bonanza",
+      "description": "Primitive pit-roasted bulrush roots wrapped in leaves.",
+      "servings_yield": "varies",
+      "prep_time": "15 minutes",
+      "cook_time": "2-3 hours",
+      "ingredients": [
+        {
+          "item": "bulrush roots",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "cleaned"
+        },
+        {
+          "item": "large leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for wrapping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Clean roots thoroughly, remove hair roots by scraping."
+        },
+        {
+          "step": 2,
+          "text": "Wrap roots in large leaves."
+        },
+        {
+          "step": 3,
+          "text": "Dig an 18-inch hole, 6 inches deep."
+        },
+        {
+          "step": 4,
+          "text": "Build fire and create coal bed."
+        },
+        {
+          "step": 5,
+          "text": "Place wrapped roots inside and cover with coals."
+        },
+        {
+          "step": 6,
+          "text": "Roast for 2 to 3 hours."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Traditional primitive cooking method"
+      ],
+      "tags": [
+        "bulrush",
+        "foraged",
+        "primitive cooking",
+        "roots",
+        "survival"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "garnished-sea-blite-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Garnished Sea Blite",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Sea Blite article",
+      "description": "Steamed sea blite topped with crispy bacon and Parmesan.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "sea blite",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "bacon",
+          "quantity": "6",
+          "unit": "slices",
+          "prep_note": "chopped and fried crisp"
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "grated"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "wine or light vinegar preferred"
+        },
+        {
+          "item": "bacon fat",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Boil or steam the sea blite until tender."
+        },
+        {
+          "step": 2,
+          "text": "Drain thoroughly."
+        },
+        {
+          "step": 3,
+          "text": "Combine with crispy bacon, cheese, vinegar, and bacon fat if desired."
+        },
+        {
+          "step": 4,
+          "text": "Serve hot."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "A warm side dish featuring the naturally salty sea blite"
+      ],
+      "tags": [
+        "sea blite",
+        "bacon",
+        "parmesan",
+        "side dish",
+        "foraged",
+        "coastal"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "tonburi-kochia-caviar-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tonburi (Land Caviar from Kochia Seeds)",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Kochia article",
+      "description": "Japanese preparation of kochia seeds that resemble caviar.",
+      "servings_yield": "varies",
+      "prep_time": "2 days",
+      "cook_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "kochia seeds",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "dried"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dry the seeds thoroughly."
+        },
+        {
+          "step": 2,
+          "text": "Boil the dried seeds."
+        },
+        {
+          "step": 3,
+          "text": "Soak in cold water for one full day."
+        },
+        {
+          "step": 4,
+          "text": "Rub seeds by hand to remove outer skin."
+        },
+        {
+          "step": 5,
+          "text": "Seeds will become glossy black-green and resemble caviar."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Used as garnish in Japanese cuisine",
+        "Plant is very salty tasting",
+        "Like spinach, kochia can accumulate nitrates"
+      ],
+      "tags": [
+        "kochia",
+        "tonburi",
+        "japanese",
+        "caviar substitute",
+        "foraged"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "water-hyacinth-stir-fry-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Water Hyacinth Stir Fry",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Water Hyacinth article",
+      "description": "Deep fried water hyacinth bulbs and steamed leaves.",
+      "servings_yield": "varies",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "water hyacinth bulbous bottoms",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "young"
+        },
+        {
+          "item": "water hyacinth leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "young"
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "bacon or pork fat",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Harvest only from clean water sources - never downstream from mines."
+        },
+        {
+          "step": 2,
+          "text": "Deep fry young bulbous bottoms in butter until crispy like pork rinds."
+        },
+        {
+          "step": 3,
+          "text": "Steam young leaves like mustard greens with bacon or pork fat."
+        },
+        {
+          "step": 4,
+          "text": "Alternatively, boil or fry leaves."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "May cause itching in some people even when cooked",
+        "Contains 18.7% protein",
+        "ILLEGAL to collect/possess in Florida",
+        "Flowers can be boiled or candied"
+      ],
+      "tags": [
+        "water hyacinth",
+        "foraged",
+        "aquatic",
+        "stir fry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "legal restrictions in some areas"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pit-roasted-agave-heart-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pit-Roasted Agave Heart",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Century Plant article",
+      "description": "Traditional pit-baked agave stalk with molasses-like flavor.",
+      "servings_yield": "varies",
+      "prep_time": "1 hour",
+      "cook_time": "24 hours",
+      "ingredients": [
+        {
+          "item": "agave heart/stalk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "harvested before blooming"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Harvest stalk before the plant blooms in summer."
+        },
+        {
+          "step": 2,
+          "text": "Dig a pit and line with rocks."
+        },
+        {
+          "step": 3,
+          "text": "Build fire and reduce to ashes/coals."
+        },
+        {
+          "step": 4,
+          "text": "Place agave heart inside pit."
+        },
+        {
+          "step": 5,
+          "text": "Cover to retain heat."
+        },
+        {
+          "step": 6,
+          "text": "Retrieve next day after 24 hours."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "pit lined with rocks",
+      "notes": [
+        "Tastes like molasses when roasted",
+        "Old and tough plants are best (opposite of typical foraging)",
+        "Seeds can be ground into flour for bread or soup thickener"
+      ],
+      "tags": [
+        "agave",
+        "pit roasting",
+        "primitive",
+        "foraged",
+        "survival"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "wild-potato-vine-root-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Potato Vine Root (Ipomoea pandurata)",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Ipomoea article",
+      "description": "Wild tuber that must be boiled twice to remove acridity.",
+      "servings_yield": "varies",
+      "prep_time": "20 minutes",
+      "cook_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "wild potato vine roots",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "younger/smaller preferred"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cube the roots."
+        },
+        {
+          "step": 2,
+          "text": "Boil in water until tender."
+        },
+        {
+          "step": 3,
+          "text": "DRAIN and discard water."
+        },
+        {
+          "step": 4,
+          "text": "Boil again in fresh water."
+        },
+        {
+          "step": 5,
+          "text": "Optionally roast the cubes after double-boiling."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "NEVER eat raw",
+        "Must boil in at least two changes of water",
+        "Younger/smaller roots are less acrid than older ones",
+        "Roots grow straight down from vine entry point"
+      ],
+      "tags": [
+        "wild potato",
+        "ipomoea",
+        "foraged",
+        "tuber",
+        "survival"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "requires double boiling"
+        ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "water-spinach-stir-fry-etw",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Water Spinach Stir Fry",
+      "category": "vegetables",
+      "attribution": "Eat the Weeds",
+      "source_note": "From eattheweeds.com - Ipomoea article",
+      "description": "Simple Asian-style stir fried water spinach.",
+      "servings_yield": "varies",
+      "prep_time": "10 minutes",
+      "cook_time": "5 minutes",
+      "ingredients": [
+        {
+          "item": "water spinach shoots and leaves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "Ipomoea aquatica"
+        },
+        {
+          "item": "garlic",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "oil",
+          "quantity": "",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oil in wok or pan."
+        },
+        {
+          "step": 2,
+          "text": "Add garlic and stir fry briefly."
+        },
+        {
+          "step": 3,
+          "text": "Add water spinach shoots and leaves."
+        },
+        {
+          "step": 4,
+          "text": "Stir fry until wilted."
+        },
+        {
+          "step": 5,
+          "text": "Season with salt."
+        }
+      ],
+      "temperature": "high heat",
+      "pan_size": "wok",
+      "notes": [
+        "Can be eaten raw from clean water",
+        "48% carbs, 24% protein",
+        "Rich in vitamins A, C, E"
+      ],
+      "tags": [
+        "water spinach",
+        "stir fry",
+        "asian",
+        "foraged",
+        "aquatic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
     }
   ]
 }
