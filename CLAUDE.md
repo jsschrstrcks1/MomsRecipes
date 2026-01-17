@@ -95,6 +95,53 @@ python scripts/image_safeguards.py mark "Moms Recipes - 2.jpeg" skipped "Not a r
 
 ---
 
+## PDF Processing
+
+### CRITICAL: Large PDFs can crash AI sessions
+
+**SIZE LIMITS** for Claude's PDF reading:
+| Metric | Soft Limit | Hard Limit | Action |
+|--------|------------|------------|--------|
+| File size | 10 MB | 50 MB | Extract text |
+| Page count | 100 pages | 500 pages | Use page ranges or extract |
+| Page dimensions | - | 2000px | May affect embedded images |
+
+**ALWAYS validate PDFs first:**
+```bash
+python scripts/pdf_safeguards.py validate
+```
+
+### PDF Status Commands
+```bash
+# Check all PDFs in data/
+python scripts/pdf_safeguards.py validate
+
+# View current status
+python scripts/pdf_safeguards.py status
+
+# Get detailed info on a specific PDF
+python scripts/pdf_safeguards.py info "Foxfire-Book-2.pdf"
+
+# Extract text from oversized PDF
+python scripts/pdf_safeguards.py extract "Foxfire-Book-2.pdf"
+
+# Mark PDF as processed
+python scripts/pdf_safeguards.py mark "foxfire-three.pdf" processed
+```
+
+### Workflow for Large PDFs (like Foxfire volumes)
+1. **Validate**: `python scripts/pdf_safeguards.py validate`
+2. **If oversized**: Extract text with `python scripts/pdf_safeguards.py extract <file>`
+3. **Process**: Work with the `.txt` file instead of the raw PDF
+4. **Example**: `FoxfireVol1.txt.html` was used instead of reading the PDF directly
+
+### Current PDF Status
+- `Foxfire-Book-2.pdf` (18MB) - LARGE, text extraction recommended
+- `foxfire-three.pdf` (17MB) - LARGE, text extraction recommended
+- `FoxfireVol1.txt.html` - Already extracted, recipes processed
+
+---
+
 ## Recipe Schema
 
 ```json
@@ -166,7 +213,8 @@ MomsRecipes/
 ├── scripts/
 │   ├── validate-recipes.py  # Recipe validation
 │   ├── process_images.py    # Image resizing for AI
-│   ├── image_safeguards.py  # Broken image detection
+│   ├── image_safeguards.py  # Image size/broken detection
+│   ├── pdf_safeguards.py    # PDF size validation & text extraction
 │   └── optimize_images.py   # JPEG optimization
 └── ebook/
     ├── book.html            # Print-optimized HTML
@@ -209,3 +257,56 @@ This checks:
 - Reasonable ingredient quantities
 - Temperature sanity
 - Image references exist
+
+---
+
+## Claude Code Session Management
+
+### Resuming Previous Sessions
+
+When returning to work on this project, you can resume previous Claude Code sessions:
+
+**From the command line:**
+```bash
+# Resume most recent session
+claude --continue
+
+# Resume a specific named session
+claude --resume recipe-ocr-batch
+
+# Browse all sessions interactively
+claude --resume
+```
+
+**Inside an active session:**
+```
+/resume          # Open session picker to switch sessions
+/rename task-name  # Name the current session for easy resuming later
+```
+
+### Session Picker Shortcuts
+
+| Key | Action |
+|-----|--------|
+| `↑` `↓` | Navigate sessions |
+| `Enter` | Select session |
+| `P` | Preview session content |
+| `R` | Rename session |
+| `/` | Search sessions |
+| `Esc` | Exit picker |
+
+### Best Practices for This Project
+
+1. **Name sessions by task**: `/rename ocr-batch-42` or `/rename foxfire-extraction`
+2. **Use descriptive names**: Include the image range or PDF being processed
+3. **Continue quickly**: Use `claude --continue` when returning to finish a task
+4. **Preview before resuming**: Press `P` in the picker to verify you're resuming the right session
+
+### Deleting Old Sessions
+
+To clean up sessions you no longer need:
+```
+/delete          # Delete current or selected session
+```
+
+From the session picker, navigate to a session and delete it to keep your session list manageable.

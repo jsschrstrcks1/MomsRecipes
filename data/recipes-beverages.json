@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "beverages",
-    "count": 57,
+    "count": 70,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -5414,6 +5414,964 @@
         "assumptions": [
           "Based on 1/3 ingredients (33% coverage)"
         ]
+      }
+    },
+    {
+      "id": "watermelon-smoothie-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Watermelon Smoothie",
+      "category": "beverages",
+      "attribution": "Handwritten recipe",
+      "source_note": "FBC Jasmine Cook Book",
+      "servings_yield": "2-4 servings",
+      "ingredients": [
+        {
+          "item": "watermelon",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "seedless"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla yogurt",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "maple syrup",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put in blender all together."
+        },
+        {
+          "step": 2,
+          "text": "Mix until smooth."
+        }
+      ],
+      "notes": [
+        "Directions: Preston V."
+      ],
+      "tags": [
+        "smoothie",
+        "beverage",
+        "watermelon",
+        "quick"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5658 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "banana-punch-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Banana Punch",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 2",
+      "servings_yield": "25 servings",
+      "ingredients": [
+        {
+          "item": "bananas",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen strawberries",
+          "quantity": "1",
+          "unit": "lg pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "crushed pineapple",
+          "quantity": "1",
+          "unit": "sm can",
+          "prep_note": ""
+        },
+        {
+          "item": "Hi-C Very Berry drink",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "Hi-C Red Apple drink",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "Coke",
+          "quantity": "1",
+          "unit": "qt",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In blender mix 1/3 strawberries, 1/3 pineapple, and 1 banana with about half a can of Hi-C."
+        },
+        {
+          "step": 2,
+          "text": "Blend on low speed. Do this three times, pouring mixture into punch bowl after blending."
+        },
+        {
+          "step": 3,
+          "text": "Pour remainder of Hi-C and Coke into punch bowl and stir for a creamy taste."
+        },
+        {
+          "step": 4,
+          "text": "Add partially melted vanilla ice cream before serving."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "punch",
+        "beverage",
+        "party"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5663 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "citrus-sherbet-punch-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Citrus Sherbet Punch",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 2",
+      "servings_yield": "24 servings",
+      "ingredients": [
+        {
+          "item": "frozen orange juice",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "6 oz"
+        },
+        {
+          "item": "frozen lemonade",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "6 oz"
+        },
+        {
+          "item": "frozen limeade",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "6 oz"
+        },
+        {
+          "item": "very cold water",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "gingerale",
+          "quantity": "1",
+          "unit": "qt",
+          "prep_note": "chilled"
+        },
+        {
+          "item": "pineapple sherbet",
+          "quantity": "1",
+          "unit": "gallon",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Let juices thaw about 30 minutes until slightly thawed. Mix juices, water and ginger ale in large container and refrigerate."
+        },
+        {
+          "step": 2,
+          "text": "When serving, place juice in punch bowl and float large scoops of sherbet on top."
+        },
+        {
+          "step": 3,
+          "text": "As sherbet melts, stir into punch. Make this right before serving so the sherbet keeps it cold and you do not have to use ice."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "punch",
+        "sherbet",
+        "beverage",
+        "party"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5663 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "fireside-coffee-mix-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fireside Coffee Mix",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 4",
+      "ingredients": [
+        {
+          "item": "non-dairy creamer",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "hot cocoa mix",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "instant coffee",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all of the ingredients together."
+        },
+        {
+          "step": 2,
+          "text": "Pour 2 or 3 teaspoons in a cup. Add hot water."
+        },
+        {
+          "step": 3,
+          "text": "Enjoy."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "coffee",
+        "beverage",
+        "mix",
+        "gift"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5665 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "orange-julius-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Orange Julius",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 4",
+      "servings_yield": "5 1/2 cups (may be frozen)",
+      "ingredients": [
+        {
+          "item": "concentrated orange juice",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "6 oz"
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ice cubes",
+          "quantity": "18-20",
+          "unit": "",
+          "prep_note": "crushed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients in blender and blend for 1 minute."
+        }
+      ],
+      "notes": [
+        "May be frozen"
+      ],
+      "tags": [
+        "beverage",
+        "orange",
+        "smoothie"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5665 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "monkey-malt-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Monkey Malt",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 151",
+      "ingredients": [
+        {
+          "item": "scoops vanilla ice cream",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "malted milk",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole banana",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients in blender until it's thick or as thin as you like and enjoy."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "milkshake",
+        "banana",
+        "beverage"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5820 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "summer-slush-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Summer Slush",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 151",
+      "ingredients": [
+        {
+          "item": "lg. can pineapple juice",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cans frozen lemonade",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "can lemon juice",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "pkg. powdered raspberry punch",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "pkg. frozen raspberry",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all ingredients together with water to make desired consistency."
+        },
+        {
+          "step": 2,
+          "text": "Freeze until slushy."
+        },
+        {
+          "step": 3,
+          "text": "Serve cold."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "slush",
+        "beverage",
+        "summer",
+        "frozen"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5820 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "fireside-coffee-mix-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fireside Coffee Mix",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 4",
+      "ingredients": [
+        {
+          "item": "non-dairy creamer",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "hot cocoa mix",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "instant coffee",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all of the ingredients together."
+        },
+        {
+          "step": 2,
+          "text": "Pour 2 or 3 teaspoons in a cup."
+        },
+        {
+          "step": 3,
+          "text": "Add hot water. Enjoy."
+        }
+      ],
+      "notes": [
+        "Great for gift giving"
+      ],
+      "tags": [
+        "beverage",
+        "coffee",
+        "mix",
+        "gift",
+        "hot drink"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5665 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "orange-julius-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Orange Julius",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 4",
+      "ingredients": [
+        {
+          "item": "concentrated orange juice",
+          "quantity": "1",
+          "unit": "6 oz can",
+          "prep_note": "frozen"
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "powdered sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ice cubes",
+          "quantity": "18-20",
+          "unit": "",
+          "prep_note": "crushed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients in blender."
+        },
+        {
+          "step": 2,
+          "text": "Blend for 1 minute."
+        }
+      ],
+      "servings_yield": "Makes 5 1/2 cups",
+      "notes": [
+        "May be frozen"
+      ],
+      "tags": [
+        "beverage",
+        "orange",
+        "smoothie",
+        "blender",
+        "frozen"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5665 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "fox-grape-juice-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fox Grape Juice",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 4",
+      "ingredients": [
+        {
+          "item": "fox grapes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "enough to fill jars halfway"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for syrup"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "for syrup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Fill quart jars half way with fox grapes."
+        },
+        {
+          "step": 2,
+          "text": "Make hot syrup by dissolving 1 cup sugar in 1 quart water."
+        },
+        {
+          "step": 3,
+          "text": "Add hot syrup to each jar."
+        },
+        {
+          "step": 4,
+          "text": "Seal and process about 15 minutes in hot water bath."
+        }
+      ],
+      "notes": [
+        "Traditional canning method for preserving grape juice"
+      ],
+      "tags": [
+        "beverage",
+        "grape",
+        "canning",
+        "preserving",
+        "homemade"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5665 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "hot-cranberry-spice-punch-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hot Cranberry Spice Punch",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 4",
+      "ingredients": [
+        {
+          "item": "Welch's frozen cranberry juice cocktail",
+          "quantity": "1",
+          "unit": "12 oz can",
+          "prep_note": "undiluted"
+        },
+        {
+          "item": "pineapple juice",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "allspice",
+          "quantity": "1",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh lemon",
+          "quantity": "8",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "butter",
+          "quantity": "8",
+          "unit": "pats",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon sticks",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "whole cloves",
+          "quantity": "16-24",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring cranberry juice, water, pineapple juice to a boil in pan."
+        },
+        {
+          "step": 2,
+          "text": "Add ground spices, simmer 3 to 5 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Press 2-3 whole cloves through each lemon slice."
+        },
+        {
+          "step": 4,
+          "text": "Put punch into mug, garnish with cinnamon stick and lemon slices and a pat of butter."
+        }
+      ],
+      "servings_yield": "Makes 8 servings",
+      "notes": [],
+      "tags": [
+        "beverage",
+        "punch",
+        "cranberry",
+        "hot drink",
+        "holiday",
+        "spiced"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5665 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "kool-aid-slush-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Kool-Aid Slush",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 8",
+      "ingredients": [
+        {
+          "item": "orange Kool-Aid",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "or any flavor"
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "pineapple juice",
+          "quantity": "1",
+          "unit": "46 oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "46 oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "7-UP",
+          "quantity": "2",
+          "unit": "46 oz cans",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix all the above ingredients together and place in plastic container in freezer."
+        },
+        {
+          "step": 2,
+          "text": "Stir every 1 to 2 hours before ready to serve."
+        },
+        {
+          "step": 3,
+          "text": "When it comes out, it should be in the form of icy slush."
+        }
+      ],
+      "notes": [
+        "Great in hot weather",
+        "No need for ice"
+      ],
+      "tags": [
+        "beverage",
+        "slush",
+        "frozen",
+        "punch",
+        "kids"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5670 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "georgia-spiced-tea-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Georgia Spiced Tea",
+      "category": "beverages",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 8",
+      "ingredients": [
+        {
+          "item": "instant tea",
+          "quantity": "2 cups and 2 tbsp",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "Tang",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "lemonade mix",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients."
+        },
+        {
+          "step": 2,
+          "text": "Store in airtight container."
+        },
+        {
+          "step": 3,
+          "text": "To serve, add 2-3 teaspoons to hot water."
+        }
+      ],
+      "notes": [
+        "Great for gift giving"
+      ],
+      "tags": [
+        "beverage",
+        "tea",
+        "mix",
+        "spiced",
+        "gift"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5670 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
       }
     }
   ]

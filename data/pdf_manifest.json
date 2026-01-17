@@ -1,0 +1,54 @@
+{
+  "created": "2026-01-17T17:18:28.371273",
+  "last_updated": "2026-01-17T17:18:28.406295",
+  "limits": {
+    "max_file_size_mb": 10,
+    "max_file_size_hard_mb": 50,
+    "max_pages_soft": 100,
+    "max_pages_hard": 500,
+    "max_page_dimension": 2000
+  },
+  "pdfs": {
+    "Foxfire-Book-2.pdf": {
+      "filename": "Foxfire-Book-2.pdf",
+      "path": "Foxfire-Book-2.pdf",
+      "file_size": 18839202,
+      "file_size_mb": 17.966463088989258,
+      "page_count": null,
+      "has_text": null,
+      "max_page_width": null,
+      "max_page_height": null,
+      "status": "large",
+      "error": "No PDF library available (install pymupdf or pypdf)",
+      "validated_at": "2026-01-17T17:18:28.405673",
+      "recommendations": [
+        "File exceeds 10MB soft limit. Consider text extraction for better performance."
+      ]
+    },
+    "foxfire-three.pdf": {
+      "filename": "foxfire-three.pdf",
+      "path": "foxfire-three.pdf",
+      "file_size": 17082902,
+      "file_size_mb": 16.29152488708496,
+      "page_count": null,
+      "has_text": null,
+      "max_page_width": null,
+      "max_page_height": null,
+      "status": "large",
+      "error": "No PDF library available (install pymupdf or pypdf)",
+      "validated_at": "2026-01-17T17:18:28.406044",
+      "recommendations": [
+        "File exceeds 10MB soft limit. Consider text extraction for better performance."
+      ]
+    }
+  },
+  "stats": {
+    "total": 2,
+    "valid": 0,
+    "large": 2,
+    "oversized": 0,
+    "broken": 0,
+    "extracted": 0,
+    "processed": 0
+  }
+}

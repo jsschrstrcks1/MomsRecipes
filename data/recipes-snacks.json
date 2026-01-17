@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "snacks",
-    "count": 63,
+    "count": 65,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -6738,6 +6738,154 @@
           "Estimated 8 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
+      }
+    },
+    {
+      "id": "peanut-butter-popcorn-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peanut Butter Popcorn",
+      "category": "snacks",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 160",
+      "ingredients": [
+        {
+          "item": "chunky peanut butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "popcorn kernels",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": "popped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt the butter over low heat and mix in the peanut butter."
+        },
+        {
+          "step": 2,
+          "text": "Then use a big spoon to drizzle it over the popcorn."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "popcorn",
+        "peanut butter",
+        "snack"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5830 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "nuts-n-bolts-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Nuts 'N' Bolts",
+      "category": "snacks",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 218",
+      "ingredients": [
+        {
+          "item": "oleo",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Karo syrup",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Spanish peanuts",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "or other nuts"
+        },
+        {
+          "item": "pretzels",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a 3-quart microwave container (preferably not glass), combine sugars and Karo."
+        },
+        {
+          "step": 2,
+          "text": "Cover and microwave on high for 3 minutes, stir well."
+        },
+        {
+          "step": 3,
+          "text": "Microwave 2 to 3 minutes more, or until it boils."
+        },
+        {
+          "step": 4,
+          "text": "Stir in vanilla, pretzels and peanuts until mixture coats."
+        },
+        {
+          "step": 5,
+          "text": "Spread on wax paper."
+        },
+        {
+          "step": 6,
+          "text": "Let stand until firm. Store in airtight container."
+        }
+      ],
+      "notes": [
+        "Other nuts can be substituted for Spanish peanuts"
+      ],
+      "tags": [
+        "snack",
+        "candy",
+        "nuts",
+        "microwave",
+        "party food"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5895 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
       }
     }
   ]

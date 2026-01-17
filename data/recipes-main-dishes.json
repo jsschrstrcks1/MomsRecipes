@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "main-dishes",
-    "count": 109,
+    "count": 170,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -12604,6 +12604,6686 @@
           "Based on 10/11 ingredients (91% coverage)"
         ]
       }
+    },
+    {
+      "id": "fire-chiefs-hot-stew-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fire Chief's Hot Stew",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 58",
+      "servings_yield": "Serves 10",
+      "ingredients": [
+        {
+          "item": "fresh green chiles",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "hot or mild (or 1 qt frozen)"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": ""
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "can (32 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "beef stew meat",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "large potatoes",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "cooked and diced"
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "grated (optional)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roast, peel, and chop the fresh green chiles in 2 cups of water; cover the chiles, garlic, onion, and tomatoes for 1 hour."
+        },
+        {
+          "step": 2,
+          "text": "Pressure cook the stew meat in 1 quart water for 15 minutes (or simmer, covered, for 1 hour). Reserve the meat liquid and add it to the chile mixture."
+        },
+        {
+          "step": 3,
+          "text": "Add the diced potatoes and simmer 30 minutes longer."
+        },
+        {
+          "step": 4,
+          "text": "Spoon into serving bowls and top with grated longhorn cheese, if desired."
+        }
+      ],
+      "notes": [
+        "Variation: Add 2 cans (16 oz each) pinto beans or 2 cans (16 oz each) yellow hominy.",
+        "Variation: Substitute 2 lbs lean ground round (or cubed round steak).",
+        "Variation: Omit 1 can of tomatoes with green chiles and add 2 cups canned tomatoes, chopped.",
+        "Variation: For a heartier stew add 2 medium potatoes, diced, and 2 carrots, sliced.",
+        "Variation: Substitute 1 large can (46 oz) cocktail vegetable juice for the can of tomatoes with green chiles."
+      ],
+      "tags": [
+        "main dish",
+        "stew",
+        "beef",
+        "green chile",
+        "potatoes"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6044 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chile-con-carne-de-venado-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chile con Carne de Venado (Chile with Venison)",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 61",
+      "servings_yield": "Serves 8 to 10",
+      "ingredients": [
+        {
+          "item": "venison",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "cut into 2-inch cubes"
+        },
+        {
+          "item": "flour for dredging",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "can (15 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oregano",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dredge the meat in flour and brown well. Add the onion and green pepper and cook until the onion is tender. Drain."
+        },
+        {
+          "step": 2,
+          "text": "Add the remaining ingredients and simmer for 1 hour."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "venison",
+        "game",
+        "green chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6046 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "bean-and-chicken-stew-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bean and Chicken Stew",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 61",
+      "servings_yield": "Serves 4 to 6",
+      "ingredients": [
+        {
+          "item": "pinto beans",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "soybeans",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked chicken",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "green chile",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "white rice",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "uncooked"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse the beans and drain. Cover the beans with water and soak them for 2 hours, adding water to keep beans covered."
+        },
+        {
+          "step": 2,
+          "text": "Cook the beans in the soaking water until soft, adding more water as necessary."
+        },
+        {
+          "step": 3,
+          "text": "About 40 minutes before serving add the remaining ingredients and simmer. Serve with corn bread."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "stew",
+        "chicken",
+        "beans",
+        "green chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6046 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chile-gumbo-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chile Gumbo",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 62",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "medium onion",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "coarsely chopped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt pork",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": "diced"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "can (15 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "separately ground lean beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable juice cocktail",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen cut okra",
+          "quantity": "1",
+          "unit": "pkg (10 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "2",
+          "unit": "cans (4 oz each)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "1 to 2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "black-eyed peas",
+          "quantity": "1",
+          "unit": "can (15 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "dried parsley flakes",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "chile powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "file powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked rice",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saute the onions and garlic with the salt pork until limp. Add the chopped tomatoes with their juice. Saute 10 minutes more."
+        },
+        {
+          "step": 2,
+          "text": "Add the beef, stirring until it is browned. Add the vegetable juice, okra, green chiles, and bay leaf. Cook over medium heat 45 to 50 minutes, adding water if necessary."
+        },
+        {
+          "step": 3,
+          "text": "Then add the black-eyed peas, parsley, and more water to maintain a soup-like consistency. Cook 20 minutes more, stirring occasionally."
+        },
+        {
+          "step": 4,
+          "text": "Add the salt and chile powder. Cook 10 minutes more. Stir in the file powder and cook 3 to 5 minutes only. File powder loses its effect if heated. Serve in large bowls or with rice."
+        }
+      ],
+      "notes": [
+        "File powder loses its effect if heated too long"
+      ],
+      "tags": [
+        "main dish",
+        "gumbo",
+        "beef",
+        "green chile",
+        "okra"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6047 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "sweet-chile-albondigas-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Chile Albondigas",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 86",
+      "servings_yield": "Makes 24",
+      "ingredients": [
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beef or pork",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "boiled and shredded"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "allspice",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small bowl beat the egg with the milk."
+        },
+        {
+          "step": 2,
+          "text": "In a separate bowl, combine the meat, brown sugar, raisins, allspice, salt, and chiles; stir in 2 tablespoons of the egg-milk mixture."
+        },
+        {
+          "step": 3,
+          "text": "With hands lightly coated with flour, shape the meat mixture into ovals the size of small eggs. Dip the ovals into flour and then in the remaining egg batter."
+        },
+        {
+          "step": 4,
+          "text": "In hot oil (420 degrees) fry the ovals until golden. Drain on absorbent towels. Serve with Caramel Syrup."
+        }
+      ],
+      "temperature": "420\u00b0F (215\u00b0C) oil",
+      "notes": [
+        "Variation: Dip the ovals into a batter of 4 eggs, 1 tsp salt, and 1 tsp flour; stiffly beaten, before frying.",
+        "Variation: Add 1/2 cup roasted pi\u00f1on nuts to the meat mixture. Add 1 tsp ground cinnamon and 1 tsp ground nutmeg for a spicier taste."
+      ],
+      "tags": [
+        "main dish",
+        "meatballs",
+        "beef",
+        "pork",
+        "green chile",
+        "sweet"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6069 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "mrs-lujans-green-chile-stew-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mrs. Lujan's Green Chile Stew",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 89",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "pt",
+          "prep_note": "peeled and chopped"
+        },
+        {
+          "item": "onion and garlic salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "beef or pork",
+          "quantity": "1 1/2",
+          "unit": "lbs",
+          "prep_note": "cubed, or lean ground beef"
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Season the chopped chiles with onion and garlic salt."
+        },
+        {
+          "step": 2,
+          "text": "Saute the meat with the onion until brown. Drain. Season with salt and pepper to taste."
+        },
+        {
+          "step": 3,
+          "text": "Add the chiles and hot water to the desired amount and simmer until the meat is tender."
+        },
+        {
+          "step": 4,
+          "text": "Using this recipe as a basic stew, you can add uncooked cubed potatoes, tomatoes, or even chopped cabbage. It can also be added to a pot of beans or poured over a macaroni and cheese casserole."
+        }
+      ],
+      "notes": [
+        "Can add potatoes, tomatoes, cabbage, or serve over beans or macaroni and cheese"
+      ],
+      "tags": [
+        "main dish",
+        "stew",
+        "green chile",
+        "beef",
+        "pork"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6072 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "sour-cream-enchiladas-stack-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sour Cream Enchiladas in a Stack",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 90",
+      "servings_yield": "Serves 4",
+      "ingredients": [
+        {
+          "item": "chicken consomm\u00e9",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": ""
+        },
+        {
+          "item": "water or milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked chicken",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1/2 to 1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "mashed"
+        },
+        {
+          "item": "corn tortillas",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "Monterey Jack or cheddar cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "grated"
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "lightly fried or poached (optional)"
+        },
+        {
+          "item": "lettuce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "coarsely chopped"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut into eighths"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine the consomm\u00e9 with the water or milk; add the flour and blend well. Cook until thickened, adding more flour mixed with water if desired."
+        },
+        {
+          "step": 2,
+          "text": "Add the chicken and green chiles and season with salt and garlic. Lightly fry the tortillas if desired. Combine 1 cup of the grated cheese, onion, and sour cream."
+        },
+        {
+          "step": 3,
+          "text": "Assemble the enchiladas by placing a spoonful of sauce on each warm plate followed by a tortilla, sauce, and a spoonful of the sour cream mixture. Continue until each of 4 plates has 3 tortillas and all the sauce is used."
+        },
+        {
+          "step": 4,
+          "text": "Place the plates in a hot oven to melt the cheese; place an egg on top of each and sprinkle with the remaining cheese. Warm in the oven briefly. Top and encircle each enchilada with chopped lettuce and garnish with tomatoes."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "enchiladas",
+        "chicken",
+        "green chile",
+        "sour cream",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6073 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chile-with-fresh-corn-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chile with Fresh Corn",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 92",
+      "servings_yield": "Serves 6 to 8",
+      "ingredients": [
+        {
+          "item": "beef, pork, or mutton",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": "cubed"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh corn scraped from ears",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "10 to 12",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "medium tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "(or to taste)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Put the meat in a large cooking pot with the oil and saut\u00e9 it until browned; add the corn, chiles, tomatoes, onion, garlic, and salt with enough water to cover."
+        },
+        {
+          "step": 2,
+          "text": "Cover the pan and simmer for 1 hour."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "beef",
+        "pork",
+        "corn",
+        "green chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6075 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "stuffed-cabbage-spanish-style-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Cabbage, Spanish Style",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 94",
+      "servings_yield": "Serves 5",
+      "ingredients": [
+        {
+          "item": "medium head cabbage",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "boiling water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "lean ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "pork sausage",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "peeled and grated"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "(optional)"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "apples",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "peeled and cut in half"
+        },
+        {
+          "item": "sauerkraut",
+          "quantity": "1",
+          "unit": "can (15 oz)",
+          "prep_note": "rinsed and drained"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato juice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut out and discard the core of the cabbage and put the remaining cabbage in a saucepan. Cover it with boiling water and simmer for 5 minutes. Remove the cabbage from the water and cool. Pull the leaves off one at a time until you have 10 large leaves."
+        },
+        {
+          "step": 2,
+          "text": "Combine the ground beef and sausage and cook 15 to 20 minutes. Add the chopped onion and cook until the onion is translucent. Drain off the excess fat. Add the green chiles, garlic salt, and salt and mix well. Cool."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 350 degrees. Then place 1/3 cup of the meat and chile mixture in each cabbage leaf, roll up, and secure with toothpicks."
+        },
+        {
+          "step": 4,
+          "text": "Mix the chopped onion, apples, and sauerkraut. Spread half of this mixture on the bottom of a large baking dish. Place the cabbage rolls on the sauerkraut. Spread the remaining sauerkraut on top."
+        },
+        {
+          "step": 5,
+          "text": "Mix chicken broth and tomato juice and pour over the rolls. Cover and bake for 1 hour."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "cabbage",
+        "beef",
+        "pork",
+        "green chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6076 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "stuffed-green-chiles-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stuffed Green Chiles",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 95",
+      "servings_yield": "Serves 5 to 6",
+      "ingredients": [
+        {
+          "item": "green chiles",
+          "quantity": "12 to 14",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "rice",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground chuck",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "parsley",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "parsley flakes or 1 tbsp fresh parsley",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "2",
+          "unit": "cans (8 oz each)",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Peel the green chiles, remove stems and seeds, and slit them down the sides."
+        },
+        {
+          "step": 3,
+          "text": "Combine the rice, meat, onion, egg, garlic, parsley, salt, and pepper. Stuff the chiles with the mixture."
+        },
+        {
+          "step": 4,
+          "text": "Melt the margarine and add the flour. Cook until the flour is lightly browned and remove from heat. Add the tomato sauce and 3 cups water."
+        },
+        {
+          "step": 5,
+          "text": "Add the stuffed chiles and the remaining water; the water should just cover the chiles."
+        },
+        {
+          "step": 6,
+          "text": "Bring to a boil; then place in oven and bake for 3 hours."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "stuffed peppers",
+        "beef",
+        "green chile",
+        "rice"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6077 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "great-green-bean-chile-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Great Green Bean Chile",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 97",
+      "servings_yield": "Serves 8",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "French-style frozen green beans",
+          "quantity": "3",
+          "unit": "pkg (10 oz each)",
+          "prep_note": "undrained"
+        },
+        {
+          "item": "whole tomatoes",
+          "quantity": "1",
+          "unit": "can (10 oz)",
+          "prep_note": "undrained"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "can (8 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brown the ground beef with the onion in a skillet."
+        },
+        {
+          "step": 2,
+          "text": "In a separate large pan combine the green beans (thawed), tomatoes, tomato sauce, and green chiles; simmer 1/2 hour, stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "When the meat and onions are done, add to the green bean mixture and simmer slowly 20 minutes. Add salt and mix well."
+        },
+        {
+          "step": 4,
+          "text": "Delicious served with flour tortillas or corn chips and dip."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "beef",
+        "green beans",
+        "green chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6079 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "little-boats-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Little Boats (Stuffed Eggplant)",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 98",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "medium eggplants",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "olive oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "celery",
+          "quantity": "2",
+          "unit": "stalks",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "ground lamb or beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "whole tomatoes",
+          "quantity": "1",
+          "unit": "can (15 oz)",
+          "prep_note": "drained and chopped"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "can (8 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato liquid",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "6 to 8",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "quick-cooking rice",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "parsley flakes",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried mint",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crumbled"
+        },
+        {
+          "item": "dill weed",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "freshly ground black pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sesame seeds",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Slice the eggplants in half lengthwise. Scoop out the pulp, leaving 1/2-inch shell; reserve the pulp and shells."
+        },
+        {
+          "step": 3,
+          "text": "Heat the oil. Saute the onion and garlic 2 minutes. Add the celery and green pepper and saute 3 minutes more. Add the lamb and cook until the meat is browned. Drain off the fat."
+        },
+        {
+          "step": 4,
+          "text": "Chop the eggplant pulp and add to the meat mixture. Cook, stirring occasionally, 10 minutes. Add the tomatoes, tomato sauce, tomato liquid, and green chiles and cook 5 minutes more."
+        },
+        {
+          "step": 5,
+          "text": "Remove the mixture from the heat and add the rice, parsley, mint, dill weed, salt, and pepper. Mix well."
+        },
+        {
+          "step": 6,
+          "text": "Salt and pepper the eggplant shells and fill them with the meat mixture."
+        },
+        {
+          "step": 7,
+          "text": "Toast the sesame seeds by placing them in a small pan over moderate heat just until browned, stirring occasionally. Sprinkle the seeds over the tops of the filled eggplants."
+        },
+        {
+          "step": 8,
+          "text": "Arrange the eggplants in a buttered baking dish and add 1/4 inch boiling water. Cover and bake for 1 hour or until the eggplants are tender."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "eggplant",
+        "stuffed vegetables",
+        "lamb",
+        "beef",
+        "green chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6080 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "big-wheel-chile-burger-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Big Wheel Chile Burger",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 99",
+      "servings_yield": "Serves 5 or 6",
+      "ingredients": [
+        {
+          "item": "instant minced onion",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1 1/2",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "quick-cooking rolled oats",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "coarsely ground black pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bottled browning sauce",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "spaghetti sauce with mushrooms",
+          "quantity": "1",
+          "unit": "can (8 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "pinto beans with liquid",
+          "quantity": "1",
+          "unit": "can (8 oz)",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak the onion in milk 5 minutes; mix in the ground beef, egg, oats, salt, and pepper. Mound in a 10-inch skillet. With a wooden spoon handle, score in 5 or 6 wedges; brush the top lightly with bottled browning sauce."
+        },
+        {
+          "step": 2,
+          "text": "Combine the spaghetti sauce, chiles, and pinto beans. Pour over the meat mixture. Simmer, uncovered, 20 to 25 minutes or until done."
+        },
+        {
+          "step": 3,
+          "text": "Serve the wedges of burger on crusty French bread slices; spoon the sauce over."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "beef",
+        "burger",
+        "green chile",
+        "beans"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6081 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "cottage-enchiladas-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cottage Enchiladas",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 102",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "lean ground beef",
+          "quantity": "1 1/2",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "corn tortillas",
+          "quantity": "1",
+          "unit": "pkg (12)",
+          "prep_note": ""
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "1 1/2",
+          "unit": "lbs",
+          "prep_note": "grated"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cottage cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "taco sauce",
+          "quantity": "2",
+          "unit": "cans (8 oz each)",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Saute the ground beef until done; drain off the fat and season with salt to taste; add the onions and cook until they are translucent."
+        },
+        {
+          "step": 3,
+          "text": "Lightly fry the tortillas and drain on paper towels. Onto each tortilla place 1 tablespoon each of the meat, grated cheese, sour cream, and cottage cheese; roll the tortillas and place them in a 12 x 7-inch baking dish with the seam sides down."
+        },
+        {
+          "step": 4,
+          "text": "Mix the taco sauce and green chiles and pour over the rolled tortillas. Sprinkle with the remaining grated cheese and bake for 40 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "12 x 7-inch baking dish",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "enchiladas",
+        "beef",
+        "green chile",
+        "cheese",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6084 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "southwestern-lasagne-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Southwestern Lasagne",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 104",
+      "servings_yield": "Serves 4 to 5",
+      "ingredients": [
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "can (16 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "red enchilada sauce",
+          "quantity": "1",
+          "unit": "can (10 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "pitted ripe olives",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Basic Ground Beef Mixture",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "corn tortillas",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "shredded"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a medium saucepan combine the tomatoes, enchilada sauce, olives, chiles, and salt. Add the meat mixture and simmer, covered, for 20 minutes, stirring occasionally."
+        },
+        {
+          "step": 2,
+          "text": "Heat the oil in a skillet. Cut 2 tortillas into quarters and cook all the tortillas in oil until crisp and brown. Drain. Set the quartered tortillas aside and break up the remaining 6."
+        },
+        {
+          "step": 3,
+          "text": "Spread a third of the meat mixture in a 9-inch square baking dish. Top with half the cheese, then half the broken tortillas. Repeat the layers, ending with the meat mixture."
+        },
+        {
+          "step": 4,
+          "text": "Top with the quartered tortillas and bake at 350 degrees for 30 minutes. If desired, sprinkle 1/2 cup shredded cheese over the top and heat until the cheese melts."
+        },
+        {
+          "step": 5,
+          "text": "Let stand 5 minutes before serving."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9-inch square baking dish",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "lasagne",
+        "beef",
+        "green chile",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6086 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "basic-ground-beef-mixture-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Basic Ground Beef Mixture",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 104",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all the ingredients in a large skillet and cook, stirring, over medium heat until the meat is browned and the vegetables are tender. Drain. Cool quickly."
+        }
+      ],
+      "notes": [
+        "Use as base for Southwestern Lasagne and other recipes"
+      ],
+      "tags": [
+        "main dish",
+        "beef",
+        "base recipe"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6086 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "hearty-casserole-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hearty Casserole",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 107",
+      "servings_yield": "Serves 8",
+      "ingredients": [
+        {
+          "item": "lean ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "potatoes",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "can (10 oz)",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "corn chips",
+          "quantity": "1",
+          "unit": "medium bag (9 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 325 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Saute the ground beef slowly in a deep-frying pan. Drain off the fat and add the potatoes, onion, garlic, salt, chiles, and tomatoes together with 2 cups of water. Cover and simmer for 30 minutes."
+        },
+        {
+          "step": 3,
+          "text": "In the bottom of a shallow casserole, layer half the bag of corn chips and half of the grated cheese. Then spread with the meat mixture and top with the remaining cheese and corn chips. Bake for 30 minutes."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "casserole",
+        "beef",
+        "potatoes",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6089 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "weekday-casserole-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Weekday Casserole",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 108",
+      "servings_yield": "Serves 4 to 6",
+      "ingredients": [
+        {
+          "item": "pork or beef",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "cubed"
+        },
+        {
+          "item": "margarine",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "medium zucchini squash",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "thinly sliced"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen whole kernel white corn",
+          "quantity": "1",
+          "unit": "pkg (10 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "whole tomatoes",
+          "quantity": "1",
+          "unit": "can (10 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "large green chiles",
+          "quantity": "5",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Brown the cubed meat in 1 tablespoon margarine; add the zucchini, onion, remaining margarine, and 1/2 cup water. Bring to a boil and simmer 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add the remaining ingredients and pour into a buttered casserole. Bake 20 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "casserole",
+        "pork",
+        "beef",
+        "zucchini",
+        "corn",
+        "green chile"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6090 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "macaroni-green-chile-pie-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Macaroni-Green Chile Pie",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 109",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "finely minced"
+        },
+        {
+          "item": "oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oregano",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dill seed",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "elbow macaroni",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "5",
+          "unit": "tbsp",
+          "prep_note": "grated"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "cottage cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brown the ground beef with the onion and garlic in oil; drain off the excess fat. Add the tomatoes, tomato paste, sugar, and seasonings and simmer 30 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Preheat oven to 375 degrees. Cook the macaroni according to the package directions; drain."
+        },
+        {
+          "step": 3,
+          "text": "Combine the macaroni, Parmesan cheese, and eggs. Place in a 10-inch pie pan and spread as for a crust. Bake 15 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Spread the meat mixture over the baked \"crust.\" Combine the cottage cheese with the green chiles and spread over the meat mixture. Cover loosely with foil and bake 15 minutes more."
+        },
+        {
+          "step": 5,
+          "text": "Remove the foil, sprinkle with the cheddar cheese, and return to the oven for 5 more minutes."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "10-inch pie pan",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "pasta",
+        "beef",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6091 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "round-steak-roll-ups-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Round Steak Roll Ups",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 112",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "round steak",
+          "quantity": "1 1/2",
+          "unit": "lbs",
+          "prep_note": "cut 1/4-inch thick"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "peeled and halved"
+        },
+        {
+          "item": "condensed onion soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fresh bread crumbs",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "parsley",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "hard-cooked eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "dry red wine",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pound the steak until very thin; then cut it into 6 long pieces. Sprinkle with salt and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Place the halved chiles over the strips of meat."
+        },
+        {
+          "step": 3,
+          "text": "Saute the garlic in 1/4 cup butter until golden. Add the crumbs and saute briefly until just golden. Stir in the parsley, hard-cooked eggs, and Parmesan cheese."
+        },
+        {
+          "step": 4,
+          "text": "Spoon some of this mixture on each piece of meat. Roll up and fasten with toothpicks."
+        },
+        {
+          "step": 5,
+          "text": "Brown the rolled meat on all sides in 1/4 cup butter. Add the onion soup, mushrooms, and wine. Cover and simmer 1 hour or until the meat is tender. Thicken pan juices if desired and serve with noodles."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "beef",
+        "steak",
+        "green chile",
+        "wine"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6096 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chicken-mexicana-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Mexicana",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 112",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "tortilla chips",
+          "quantity": "1",
+          "unit": "pkg (10 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "enchilada sauce",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "green onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "pitted black olives",
+          "quantity": "1",
+          "unit": "can (2 1/2 oz)",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Season chicken on all sides in butter. Add the salt, paprika, and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Toast the tortilla chips on a baking sheet in a 350-degree oven for 5 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Grind the chips in a blender or crush them. Add the parsley, onions, or chives and mix well."
+        },
+        {
+          "step": 5,
+          "text": "Bring the enchilada sauce to a boil. Dip chicken in sauce and roll in the crumb mixture."
+        },
+        {
+          "step": 6,
+          "text": "Place in a baking dish. Top with remaining sauce, chiles, cheese, green onion, and olives. Bake 1 hour."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "chicken",
+        "green chile",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6096 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chicken-breasts-sauterne-chile-avocado-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Breasts Sauterne with Chile and Avocado",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 114",
+      "servings_yield": "Serves 8",
+      "ingredients": [
+        {
+          "item": "large chicken breasts",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "split and skinned"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening or salad oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "white wine vinegar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sauterne or other dry white wine",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "rice",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "cooked"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "large avocado",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "peeled and sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dust the chicken with a mixture of salt, paprika, and flour. Brown the chicken in shortening or oil."
+        },
+        {
+          "step": 2,
+          "text": "Combine the onion, catsup, vinegar, Worcestershire sauce, and wine and pour over the chicken. Cover and simmer about 45 minutes or until the chicken is tender."
+        },
+        {
+          "step": 3,
+          "text": "Mound the hot rice in the center of a hot platter and arrange the chicken breasts around it. Stir the chiles into the sauce and spoon it over the chicken. Arrange the avocado slices between the chicken breasts, pinwheel style."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "chicken",
+        "green chile",
+        "avocado",
+        "wine"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6098 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "pollo-ranchero-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pollo Ranchero",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 115",
+      "servings_yield": "Makes 3 generous servings or 6 conservative ones",
+      "ingredients": [
+        {
+          "item": "medium tomatoes",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "large green chiles",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "small green jalapeno chile",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "chicken breasts",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "boned and poached"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chile powder",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Monterey Jack cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "grated (optional)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 400 degrees."
+        },
+        {
+          "step": 2,
+          "text": "In a saucepan mix together the tomatoes, green chiles, onion, and chicken; bring the mixture to a boil. Cover and simmer 1/2 hour or until the vegetables are soft. Add the salt and jalapeno chile."
+        },
+        {
+          "step": 3,
+          "text": "While the sauce is cooking, poach the chicken breasts 10 minutes in boiling, salted water."
+        },
+        {
+          "step": 4,
+          "text": "In another pan blend the flour, oil, and chile powder; add the water and salt and bring to a boil. Simmer gently for 5 minutes, stirring occasionally. Pour this sauce into a 9-inch square baking dish and place the chicken breasts on top."
+        },
+        {
+          "step": 5,
+          "text": "Pour the green chiles and tomato sauce over the chicken and sprinkle generously with grated cheese; bake until the chicken is tender and cheese is thoroughly melted."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "9-inch square baking dish",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "chicken",
+        "green chile",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6099 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chicken-tomato-casserole-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken-Tomato Casserole",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 118",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1 or 2",
+          "unit": "cans (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomato juice or 1 can (10 oz) stewed tomatoes",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cumin",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": ""
+        },
+        {
+          "item": "celery seed",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "half-and-half or 2 cups chicken broth",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "cooked chicken",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "cubed"
+        },
+        {
+          "item": "corn tortillas",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Saute the onion in butter. Add the chiles, tomato juice or tomatoes, cumin, crushed garlic, celery seed, salt, and pepper. Add the cream or broth and chicken."
+        },
+        {
+          "step": 3,
+          "text": "Lightly fry the tortillas or dip them in sauce and layer them in a 9 x 13-inch casserole with the chicken and sauce. Pour any leftover sauce over the casserole. Sprinkle with cheese. Bake for 30 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9 x 13-inch casserole",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "chicken",
+        "casserole",
+        "green chile",
+        "tortillas"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6103 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "fiesta-casserole-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fiesta Casserole",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 123",
+      "servings_yield": "Serves 6 to 8",
+      "ingredients": [
+        {
+          "item": "tuna",
+          "quantity": "1",
+          "unit": "can (6 1/2 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "condensed cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream or milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "2",
+          "unit": "stalks",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "whole chiles",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "egg noodles",
+          "quantity": "1",
+          "unit": "pkg (12 oz)",
+          "prep_note": "cooked"
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "2",
+          "unit": "pkg (4 oz each)",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Combine the tuna, mushroom soup, water, onion, celery, garlic powder, salt, and pepper in a saucepan. Heat the mixture to a boil; then remove from heat."
+        },
+        {
+          "step": 3,
+          "text": "Cook the noodles according to the package directions."
+        },
+        {
+          "step": 4,
+          "text": "Saute the mushrooms in butter until lightly browned."
+        },
+        {
+          "step": 5,
+          "text": "In a casserole, layer the egg noodles, then tuna, then green chiles, then 4 slices of cheese. Repeat. With the mushrooms, form a circle on top and place the remaining cheese in circle. Bake 30 to 40 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Excellent cold as well as hot."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "notes": [
+        "Variation: Substitute chicken for tuna"
+      ],
+      "tags": [
+        "main dish",
+        "tuna",
+        "casserole",
+        "green chile",
+        "noodles"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6107 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "pork-loin-in-green-sauce-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pork Loin in Green Sauce",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 125",
+      "servings_yield": "Serves 8",
+      "ingredients": [
+        {
+          "item": "lean pork loin",
+          "quantity": "4",
+          "unit": "lbs",
+          "prep_note": "boneless"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "marjoram",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "thyme",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "quartered (for sauce)"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatillos (or green tomato relish)",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "large tomato",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "peeled and quartered"
+        },
+        {
+          "item": "canned green chiles",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "(or more to taste)"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cilantro (or parsley)",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "broth from meat",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cover the meat with cold water. Add the onion, bay leaf, marjoram, and thyme. Cook, covered, 3 hours. Add the salt after 1 1/2 hours."
+        },
+        {
+          "step": 2,
+          "text": "Puree the onion, garlic, tomatillos, tomato, and chiles. Fry the paste in hot oil for 5 minutes. Stir in the cilantro and broth and add pepper to taste."
+        },
+        {
+          "step": 3,
+          "text": "Slice the meat, add it to the sauce, and simmer 30 minutes. Serve with hot rice or boiled potatoes."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "pork",
+        "green chile",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6110 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "italian-green-chile-casserole-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Italian Green Chile Casserole",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 126",
+      "servings_yield": "Serves 4 to 6",
+      "ingredients": [
+        {
+          "item": "Italian sausage",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "parsley",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "canned tomato sauce",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "1",
+          "unit": "can (15 oz)",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all the ingredients and cook for 30 minutes. Serve over Cornmeal Mush."
+        }
+      ],
+      "notes": [
+        "Serve over Cornmeal Mush"
+      ],
+      "tags": [
+        "main dish",
+        "sausage",
+        "beef",
+        "green chile",
+        "Italian"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6111 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chile-sausage-saute-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chile-Sausage Saut\u00e9",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 126",
+      "servings_yield": "Serves 4",
+      "ingredients": [
+        {
+          "item": "Italian sausages",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "halved and slices removed"
+        },
+        {
+          "item": "whole tomatoes",
+          "quantity": "1",
+          "unit": "can (10 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "large green chiles",
+          "quantity": "8 to 10",
+          "unit": "",
+          "prep_note": "peeled"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place the sausages in a large skillet with water to half cover them. Heat to moderate and boil until all the water has been evaporated. Continue cooking until the sausages are brown on all sides."
+        },
+        {
+          "step": 2,
+          "text": "Cool slightly; then lay the chiles on top of the sausages and add the tomatoes. Do not stir. Cover and cook over low heat for 15 minutes. Uncover and cook to desired consistency. Season with salt and pepper to taste."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "sausage",
+        "green chile",
+        "Italian"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6111 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "spinach-quiche-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spinach Quiche",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 133",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "frozen spinach",
+          "quantity": "2",
+          "unit": "pkgs",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "rice",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "pre-cooked"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "cheese",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "grated"
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "rosemary",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "thyme",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook the spinach according to package directions and drain."
+        },
+        {
+          "step": 2,
+          "text": "In a large skillet, cook onion until transparent. Remove from heat; beat milk into eggs and add, with rice, chiles, spinach, cheese, and eggs; salt, rosemary, thyme and Worcestershire sauce."
+        },
+        {
+          "step": 3,
+          "text": "Bake in a shallow greased baking dish about 35 minutes or until set, in 350 degree oven."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "quiche",
+        "spinach",
+        "rice",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6118 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chiles-rellenos-guillermos-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chiles Rellenos Guillermos",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 133",
+      "servings_yield": "Serves 4",
+      "ingredients": [
+        {
+          "item": "whole green chiles",
+          "quantity": "10",
+          "unit": "",
+          "prep_note": "peeled"
+        },
+        {
+          "item": "Monterey Jack cheese",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "cut into 10 strips"
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/4",
+          "unit": "cup (scant)",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "liquid hot pepper sauce",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Leave a few seeds in the green chiles for flavor. Spread the chiles on paper towels and pat dry. Slip a strip of Monterey Jack cheese in each chile and lay them side-by-side in a greased 9 X 13-inch baking dish. Sprinkle with cheddar cheese. Beat the eggs; add the flour, beating until smooth. Add the milk, salt, black pepper, and pepper sauce. Beat thoroughly. Carefully pour the egg mixture over the chiles. Bake, uncovered, for 45 minutes or until a knife inserted in the custard comes out clean. Freezes well."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9 X 13-inch baking dish",
+      "notes": [
+        "Freezes well"
+      ],
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6118 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "green-chile-casserole-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Green Chile Casserole",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 134",
+      "servings_yield": "Serves 4 to 6",
+      "ingredients": [
+        {
+          "item": "whole green chiles",
+          "quantity": "2",
+          "unit": "cans (4 oz each)",
+          "prep_note": ""
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "",
+          "unit": "sprinkle",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "mozzarella cheese",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "condensed cream of chicken soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Stuff the green chiles with the longhorn cheese, reserving some for garnish; place them in a greased 9 x 13-inch baking dish, slit side up."
+        },
+        {
+          "step": 3,
+          "text": "Beat the eggs with the milk. Add the garlic salt and mozzarella. Pour the mixture over the chiles. Spread the cream of chicken soup over the top and sprinkle the remaining longhorn cheese on it. Add paprika for color. Bake for 45 minutes or until set."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9 x 13-inch baking dish",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "casserole",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6119 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "easy-relleno-bake-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Easy Relleno Bake",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 134",
+      "servings_yield": "Serves 3 to 4",
+      "ingredients": [
+        {
+          "item": "whole green chiles",
+          "quantity": "1",
+          "unit": "cup (about 10 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "Monterey Jack cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "grated"
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "grated"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 325 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Slit the chiles open and, if desired, remove the seeds and veins. Mix the cheeses together and reserve 1/4 cup. Shape the cheese mixture to fit inside chiles. Put the cheese in the chiles and close the slits. Place the chiles in a buttered 10 x 6 x 2-inch baking dish, seams down."
+        },
+        {
+          "step": 3,
+          "text": "Beat the egg whites until stiff and set aside; then beat the egg yolks well. Blend the dry ingredients and add to the yolks, mixing well; fold in the egg whites."
+        },
+        {
+          "step": 4,
+          "text": "Pour the batter over the chiles and sprinkle with the remaining 1/4 cup cheese. Bake 15 to 20 minutes or until lightly browned on top."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "10 x 6 x 2-inch baking dish",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6119 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "rellenos-on-spanish-rice-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rellenos on Spanish Rice",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 136",
+      "servings_yield": "Serves 8",
+      "ingredients": [
+        {
+          "item": "tomato sauce",
+          "quantity": "2",
+          "unit": "cans (8 oz each)",
+          "prep_note": ""
+        },
+        {
+          "item": "medium green pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "bacon",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "quick-cooking rice",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "roasted"
+        },
+        {
+          "item": "Monterey Jack or cheddar cheese",
+          "quantity": "8",
+          "unit": "strips",
+          "prep_note": ""
+        },
+        {
+          "item": "pancake mix",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "onion powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "hot water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Mix the first 7 ingredients in a 1 1/2-quart greased casserole. Cover and bake for 1 hour. Stuff the green chiles with the strips of cheese. Remove the casserole from the oven and gently push the stuffed chiles halfway into the Spanish rice. Mix together the remaining ingredients, and spread the batter over the top of the green chiles. Increase the temperature to 400 degrees and bake, uncovered, for 30 minutes or until browned."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C) then 400\u00b0F (205\u00b0C)",
+      "pan_size": "1 1/2-quart casserole",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "spanish rice",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6121 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "relleno-bean-bake-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Relleno Bean Bake",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 136",
+      "servings_yield": "Serves 6 to 8",
+      "ingredients": [
+        {
+          "item": "refried beans",
+          "quantity": "1",
+          "unit": "can (17 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "medium onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "medium tomatoes",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "peeled and chopped"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "roasted and peeled"
+        },
+        {
+          "item": "Monterey Jack or cheddar cheese",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": "cut into 8 strips"
+        },
+        {
+          "item": "pancake mix",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "onion powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "hot water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 400 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Evenly layer a 1 1/2-quart greased casserole with the first 5 ingredients in the order listed. Stuff the cheese into the green chiles and arrange in a row on the next casserole layer. Push the chiles slightly into the mixture."
+        },
+        {
+          "step": 3,
+          "text": "Combine the pancake mix, onion powder, paprika, and hot water and pour over the chiles. Bake 35 minutes or until browned."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "pan_size": "1 1/2-quart casserole",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "chiles rellenos",
+        "beans",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6121 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "sopaipillas-rellenas-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sopaipillas Rellenas",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 138",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "green chiles",
+          "quantity": "1 1/2",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "cooked pinto beans",
+          "quantity": "1",
+          "unit": "qt",
+          "prep_note": ""
+        },
+        {
+          "item": "sopaipillas",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "lard or oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "American cheese",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": "grated"
+        },
+        {
+          "item": "small onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "small head lettuce",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Peel and chop the green chiles. Season with the salt and garlic to taste. Mash the pinto beans and fry them in lard or oil with the cheese and onion, stirring frequently, for 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Add the green chiles. Cut the sopaipillas on one end and fill them with the chile-bean mixture. Add the chopped lettuce. Garnish with tomatoes."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "sopaipillas",
+        "beans",
+        "green chile",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6124 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "green-chile-pizza-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Green Chile Pizza",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 141",
+      "servings_yield": "Serves 8",
+      "ingredients": [
+        {
+          "item": "dry yeast",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "lukewarm water",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "biscuit mix",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "grated"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "can (8 oz)",
+          "prep_note": ""
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "mozzarella cheese",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "oregano",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 400 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Dissolve the yeast in warm water. Stir in the biscuit mix. Beat 20 times. Put on a well-floured breadboard and knead 20 times. Divide the dough in half for 2 medium-size pizzas or leave it whole for 1 large pizza. Roll the dough thin and place it on a pizza pan. Sprinkle with the Parmesan cheese. Pour on the tomato sauce. Sprinkle with the longhorn cheese. Spread the chopped chiles over cheese. Then put on a layer of mozzarella. Top with Parmesan cheese and the oregano. Bake 20 minutes. Freezes well."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "notes": [
+        "Freezes well"
+      ],
+      "tags": [
+        "main dish",
+        "pizza",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6128 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "california-casserole-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "California Casserole",
+      "category": "main-dishes",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 142",
+      "servings_yield": "Serves 8",
+      "ingredients": [
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked rice",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cream-style cottage cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "3",
+          "unit": "cans (4 oz each)",
+          "prep_note": "drained"
+        },
+        {
+          "item": "sharp cheddar cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "grated"
+        },
+        {
+          "item": "parsley",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Saute the onions in the butter until golden. Remove from the heat and add rice, sour cream, cottage cheese, bay leaf, salt, and pepper. Lightly mix. Layer half the rice mixture in a buttered baking dish. Cover with half the chiles and sprinkle with 1 cup of the cheddar cheese. Repeat. Bake 30 minutes. Sprinkle with chopped parsley."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "casserole",
+        "rice",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6129 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "pomegranate-kidneys-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pomegranate Kidneys",
+      "category": "main-dishes",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 114",
+      "ingredients": [
+        {
+          "item": "lamb kidneys",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": "trimmed, skinned and cut in half lengthwise"
+        },
+        {
+          "item": "unsalted butter",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "salt and freshly ground pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pomegranate juice",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "(can be bought at Middle Eastern shops)"
+        },
+        {
+          "item": "finely chopped parsley",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saute the kidneys with the garlic in the melted butter. Add salt and spices, stirring. Add pomegranate juice. Simmer about 5 minutes with minced parsley."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "main dish",
+        "kidneys",
+        "lamb",
+        "pomegranate",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6223 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "pilaf-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pilaf",
+      "category": "main-dishes",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 123",
+      "ingredients": [
+        {
+          "item": "pearled barley",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "reserved chicken cooking liquid",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "strained"
+        },
+        {
+          "item": "pine nuts or sliced almonds",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "more butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt to taste",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "yogurt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak barley in pot of hot water to cover for 1/2 hour. Drain and rinse with cold water. Melt 2 tablespoons butter in pan, add barley, and saute gently, stirring constantly, until water is gone and grains are coated with butter."
+        },
+        {
+          "step": 2,
+          "text": "Skim off any fat from chicken cooking liquid. Measure out 4 cups cooking liquid and pour into pot with barley. (Reserve remaining cooking liquid to make gravy.) Bring to boil. Cook until barley is tender and stock is absorbed, about 20 minutes. Taste and add salt."
+        },
+        {
+          "step": 3,
+          "text": "Melt 1 tablespoon butter in pan. Add almonds and pine nuts. Saute over medium heat until golden. Add a dash of salt. Immediately pour nuts into bowl to prevent further cooking."
+        },
+        {
+          "step": 4,
+          "text": "Measure reserved cooking liquid for gravy. If there is more than 1/2 cup, boil down. If there is less, add water to make 1/2 cup. Melt remaining 2 tablespoons butter in pan. Stir in 2 tablespoons flour. Cook until brown. Stir in stock and cook until thickened. Add chicken meat and toss to mix."
+        },
+        {
+          "step": 5,
+          "text": "Arrange nuts in bottom of well-oiled deep round bowl. Fill bowl with cooked barley and press down gently. Then arrange the chicken pieces, add more barley and nuts. Press everything down. Now place a serving platter, upside-down, over the bowl. Hold it down as you turn bowl and platter together rightside-up. When you remove the bowl, you'll have a molded pilaf on the serving platter."
+        },
+        {
+          "step": 6,
+          "text": "Alternatively, divide nuts and barley into soup bowls and unmold individually on plates. Top barley with chicken pieces and serve. Pass yogurt as garnish."
+        }
+      ],
+      "notes": [
+        "If you prefer not to serve right away, refrigerate. Half an hour before serving, brush a little olive oil over the exposed portion and warm in a 350\u00b0 oven for 20-25 minutes."
+      ],
+      "tags": [
+        "main dish",
+        "pilaf",
+        "barley",
+        "chicken",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6228 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "fish-of-galilee-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fish of Galilee",
+      "category": "main-dishes",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 127",
+      "ingredients": [
+        {
+          "item": "fish steaks or fillets",
+          "quantity": "2 1/2",
+          "unit": "lbs",
+          "prep_note": "or cleaned, small whole fish such as trout or salmon"
+        },
+        {
+          "item": "toasted bread",
+          "quantity": "6",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry thyme",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 425\u00b0. Rinse fish, pat dry."
+        },
+        {
+          "step": 2,
+          "text": "Cheese-crumb coating: Whirl the toasted bread (sourdough or whole wheat) in a blender or food processor until crumbed. Mix crumbs with Parmesan cheese, thyme, and a dash of salt."
+        },
+        {
+          "step": 3,
+          "text": "Pour melted butter into a shallow dish. Coat fish in butter, then dip in cheese-crumb coating. Place fish in a foil-lined shallow baking pan. Bake 10 to 15 minutes or until fish is just opaque, but still moist in the thickest part."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "notes": [
+        "A medium dense, flaky-fleshed fish works for this recipe"
+      ],
+      "tags": [
+        "main dish",
+        "fish",
+        "Parmesan",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6232 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "honey-walnut-trout-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Honey Walnut Trout",
+      "category": "main-dishes",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 131",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "thinly sliced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cumin",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and freshly ground pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "finely chopped walnuts",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white wine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh trout",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "filleted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 325\u00b0."
+        },
+        {
+          "step": 2,
+          "text": "Generously butter a baking dish. Melt half the butter in a saucepan over medium heat and soften the sliced onions and garlic in it for 6-7 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Stir in the cumin, salt, pepper, and walnuts. Add the honey, 2 tbsp water, and the wine, and gently simmer for 3-4 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Arrange the onions and walnuts in a layer on the bottom of the baking dish. Season the trout lightly and arrange on top. Dot with the rest of the butter. Cover and bake for 25 minutes or until the fish flakes when tested."
+        },
+        {
+          "step": 5,
+          "text": "Transfer the fish to a warmed serving dish. Pour the juices over the trout and serve."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "fish",
+        "trout",
+        "walnuts",
+        "honey",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6236 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "shepherds-cheese-bake-ancients",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Shepherd's Cheese Bake",
+      "category": "main-dishes",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cooking With the Ancients page 89",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "ingredients": [
+        {
+          "item": "sourdough bread",
+          "quantity": "12",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sharp cheese",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0."
+        },
+        {
+          "step": 2,
+          "text": "Remove crusts from bread and butter each slice. Butter a 2-quart casserole or deep baking dish."
+        },
+        {
+          "step": 3,
+          "text": "Arrange a layer of bread slices on the bottom of the dish, cutting bread where necessary to fit."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle bread layer with a layer of grated cheese. Repeat until all bread and cheese are used, ending with a layer of cheese."
+        },
+        {
+          "step": 5,
+          "text": "Beat eggs, milk, and seasoning together. Pour over the contents of the baking dish."
+        },
+        {
+          "step": 6,
+          "text": "Cover and store in the refrigerator overnight or for at least four hours. Sprinkle nutmeg over the top."
+        },
+        {
+          "step": 7,
+          "text": "Bake uncovered for 40 minutes until puffed and golden brown."
+        }
+      ],
+      "notes": [
+        "This dish should be assembled in advance and refrigerated overnight or for at least 4 hours"
+      ],
+      "tags": [
+        "breakfast",
+        "brunch",
+        "cheese",
+        "casserole",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6200 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "onion-tart-hiram-ancients",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Onion Tart Hiram",
+      "category": "main-dishes",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cooking With the Ancients page 91",
+      "temperature": "425\u00b0F then 350\u00b0F (220\u00b0C then 175\u00b0C)",
+      "ingredients": [
+        {
+          "item": "pastry flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for crust"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for crust"
+        },
+        {
+          "item": "cold butter",
+          "quantity": "1/3",
+          "unit": "lb",
+          "prep_note": "cut into small pieces, for crust"
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for crust"
+        },
+        {
+          "item": "ice water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for crust"
+        },
+        {
+          "item": "onions",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "thinly sliced, for filling"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced, for filling"
+        },
+        {
+          "item": "butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "cream or half and half",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "Swiss cheese",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "grated, for filling"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For crust: Mix flour and salt in a bowl. Cut in the butter with a pastry blender until the mixture is the size of tiny peas."
+        },
+        {
+          "step": 2,
+          "text": "Whisk egg yolk and water together in separate small bowl, add to the flour mixture, and blend until the pastry holds smoothly together. Wrap in plastic and refrigerate 20 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 425\u00b0."
+        },
+        {
+          "step": 4,
+          "text": "After the pastry has chilled at least 20 minutes, pat the cold dough into a 9-inch pie pan, using the heel of your hands, pressing it over the bottom and sides of the pan."
+        },
+        {
+          "step": 5,
+          "text": "Prick the dough with a fork and then bake 10 minutes. Crust will be only partially baked."
+        },
+        {
+          "step": 6,
+          "text": "Saut\u00e9 the onions and minced garlic in butter until onions and garlic are translucent."
+        },
+        {
+          "step": 7,
+          "text": "Combine the eggs, cream, salt, and nutmeg in a bowl and whisk thoroughly."
+        },
+        {
+          "step": 8,
+          "text": "Add the saut\u00e9ed onions and grated cheese to the custard mixture, stir, and ladle into the pie crust, distributing the onions evenly."
+        },
+        {
+          "step": 9,
+          "text": "Bake for 15 minutes at 425\u00b0; then lower the heat to 350\u00b0 and bake another 40 minutes or until a knife inserted in the center comes out clean."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "tart",
+        "quiche",
+        "onion",
+        "cheese",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6202 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "fricassee-festus-ancients",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fricassee Festus",
+      "category": "main-dishes",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cooking With the Ancients page 117",
+      "description": "Lamb fricassee with egg-lemon sauce",
+      "ingredients": [
+        {
+          "item": "lamb",
+          "quantity": "2 1/2",
+          "unit": "lb",
+          "prep_note": "cut into bite-size pieces"
+        },
+        {
+          "item": "unsalted butter",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "spring onions",
+          "quantity": "1",
+          "unit": "bunch",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "parsley",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "mint",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "dill or fennel",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "cos lettuce (romaine)",
+          "quantity": "3",
+          "unit": "heads",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "from large lemons, for sauce"
+        },
+        {
+          "item": "cold water",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "chicken or vegetable stock",
+          "quantity": "1/2",
+          "unit": "pint",
+          "prep_note": "for sauce"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saut\u00e9 the lamb pieces in the butter. Add the onions and cook for a few more minutes."
+        },
+        {
+          "step": 2,
+          "text": "Cover with water; add seasonings and herbs. Simmer about 1 1/2 hours or until the meat is tender."
+        },
+        {
+          "step": 3,
+          "text": "Add the lettuce and cook 15 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Drain off the liquid and save. Transfer the meat to a serving dish and keep warm."
+        },
+        {
+          "step": 5,
+          "text": "For the sauce: Using a whisk, beat the egg yolks with the lemon juice in a bowl until frothy. Add the tablespoon of cold water and beat."
+        },
+        {
+          "step": 6,
+          "text": "Boil the stock. Allow to cool for three minutes."
+        },
+        {
+          "step": 7,
+          "text": "Pour a spoonful of the stock into the egg and lemon mixture, whisking while adding two more spoonfuls."
+        },
+        {
+          "step": 8,
+          "text": "Very gradually, add the rest of the stock, beating all the time until it thickens."
+        },
+        {
+          "step": 9,
+          "text": "Pour the sauce over the lamb and lettuce."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "lamb",
+        "fricassee",
+        "egg-lemon sauce",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6222 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "spicy-meatballs-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spicy Meatballs",
+      "category": "main-dishes",
+      "attribution": "Handwritten recipe",
+      "source_note": "FBC Jasmine Cook Book - handwritten recipe card",
+      "ingredients": [
+        {
+          "item": "lean ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "sausage",
+          "quantity": "2/4",
+          "unit": "lb",
+          "prep_note": "crumbled"
+        },
+        {
+          "item": "crackers",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "enough"
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to moisten"
+        },
+        {
+          "item": "onion flakes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "vinegar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "apricot",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix ground beef, sausage, crackers, eggs, salt, pepper, onion flakes, and enough milk to moisten. Form into meatballs."
+        },
+        {
+          "step": 2,
+          "text": "For sauce: Boil together sugar, water, vinegar, and apricot for 5 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Mix 2 tsp cornstarch in water. Add to sauce mixture. Cook till clear. Remove from heat."
+        },
+        {
+          "step": 4,
+          "text": "Add 1/2 bottle BBQ sauce to sauce mixture."
+        },
+        {
+          "step": 5,
+          "text": "Place meatballs in sauce. Simmer meatballs in sauce for 1 hour."
+        },
+        {
+          "step": 6,
+          "text": "Alternatively, use crock pot."
+        }
+      ],
+      "notes": [
+        "Can also be cooked in crock pot"
+      ],
+      "tags": [
+        "meatballs",
+        "appetizer",
+        "main dish",
+        "party food"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5626 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "handwritten recipe - some quantities unclear"
+        ]
+      },
+      "servings_yield": "4 servings"
+    },
+    {
+      "id": "chicken-pot-pie-gahb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Pot Pie",
+      "category": "main-dishes",
+      "attribution": "Great American Home Baking",
+      "source_note": "FBC Jasmine Cook Book - Card 2, Main Dish Baking section",
+      "description": "Using leftover cooked chicken cuts the preparation time in this flavorful pot pie",
+      "prep_time": "45 minutes",
+      "cook_time": "25-30 minutes",
+      "servings_yield": "6 servings",
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "for pastry"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for pastry"
+        },
+        {
+          "item": "chilled butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "cut into pieces, for pastry"
+        },
+        {
+          "item": "large eggs",
+          "quantity": "1-2",
+          "unit": "",
+          "prep_note": "for pastry"
+        },
+        {
+          "item": "ice water",
+          "quantity": "3-5",
+          "unit": "tbsp",
+          "prep_note": "for pastry"
+        },
+        {
+          "item": "cooked chicken",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "cubed, for filling"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "pound fresh mushrooms",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "sliced, for filling"
+        },
+        {
+          "item": "frozen peas",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "thawed, for filling"
+        },
+        {
+          "item": "dry white wine or water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "whipping cream",
+          "quantity": "2 1/4",
+          "unit": "cups",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "reduced-sodium chicken broth",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "lightly beaten, for glaze"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "To prepare pastry, in a medium bowl, mix together flour and salt. Using a pastry blender or 2 knives, cut butter into flour until coarse crumbs form."
+        },
+        {
+          "step": 2,
+          "text": "In a small bowl, beat together egg yolks and water. Stir into the flour mixture until dough holds together and comes away from sides of bowl. Turn out onto a floured surface and knead 5-7 minutes until smooth. Shape into a disk, wrap in plastic wrap, and chill until needed."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 400\u00b0F."
+        },
+        {
+          "step": 4,
+          "text": "In a large skillet, melt butter over medium heat until lightly golden, about 5 minutes. Add mushrooms; increase the heat to medium-high, and saut\u00e9 for 5 minutes. Add the cook 2 minutes. Stir in cream, bring to boil, and cook until almost evaporated, about 5 minutes. Add the whisk in stock and bring sauce to a boil. Remove from heat and add basil, thyme, and parsley. Season to taste."
+        },
+        {
+          "step": 5,
+          "text": "In a medium saucepan, whisk together cream, flour, salt, and pepper over low heat. Simmer until thick. Add to chicken; stir to combine."
+        },
+        {
+          "step": 6,
+          "text": "On a lightly floured surface, using a lightly floured rolling pin, roll the dough to a 10-inch round. Cut out decorations; brush edges with water."
+        },
+        {
+          "step": 7,
+          "text": "Spoon chicken mixture into a 2-quart casserole. Place crust on top, turning and sealing the edges. Brush again with glaze."
+        },
+        {
+          "step": 8,
+          "text": "Roll out trimmings. Cut out decorations; brush again with glaze; arrange on crust and seal the edges."
+        },
+        {
+          "step": 9,
+          "text": "Bake until filling is bubbly and crust is browned, 25 to 30 minutes. Transfer to a wire rack to cool slightly. Serve warm."
+        }
+      ],
+      "notes": [
+        "If using fresh rather than leftover or delicatessen chicken from a 3 1/2-pound fryer"
+      ],
+      "tags": [
+        "pot pie",
+        "chicken",
+        "comfort food",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5630 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "italian-meatballs-baked-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Italian Meatballs (Baked)",
+      "category": "main-dishes",
+      "attribution": "Printed recipe",
+      "source_note": "FBC Jasmine Cook Book",
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "ingredients": [
+        {
+          "item": "Panko breadcrumbs",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "ground pork",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "pressed or minced"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "1 1/2 ounces, finely grated"
+        },
+        {
+          "item": "fresh Italian herbs",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "finely chopped (half parsley, half basil)"
+        },
+        {
+          "item": "yellow onion",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "fine sea salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "crushed red pepper flakes",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make the panade. In a large mixing bowl, stir together the panko and milk until combined. Set mixture aside to soak for 5 to 10 minutes while you prepare the other ingredients."
+        },
+        {
+          "step": 2,
+          "text": "Combine remaining ingredients. Add the ground beef, ground pork, garlic, eggs, Parmesan, fresh herbs, onion and Worcestershire sauce to the mixing bowl. Sprinkle the oregano, salt, black pepper and crushed red pepper flakes evenly on top. Use your hands to mix the ingredients until evenly combined, being careful not to overmix."
+        },
+        {
+          "step": 3,
+          "text": "Chill (optional step). To make the meatballs easier to form, I recommend covering and chilling the mixture in the refrigerator for 1 hour. But if you're pressed for time, you can skip this step."
+        },
+        {
+          "step": 4,
+          "text": "Prep oven and baking sheet. Heat the oven to 425\u00b0F and line a large rimmed baking sheet with parchment paper."
+        },
+        {
+          "step": 5,
+          "text": "Form the meatballs. Using a medium cookie scoop or a spoon, scoop and roll the mixture into 2-tablespoon balls and place them on the prepared baking sheet. (I recommend greasing your hands with a bit of olive oil to prevent the mixture from sticking.)"
+        },
+        {
+          "step": 6,
+          "text": "Bake. Bake for 10-12 minutes, or until an instant-read thermometer measures the internal temperature of the meatballs to be 160\u00b0F. Remove pan and transfer to a wire cooling rack."
+        },
+        {
+          "step": 7,
+          "text": "Serve. Serve meatballs immediately and enjoy!"
+        }
+      ],
+      "notes": [
+        "The panade (milk and breadcrumb mixture) keeps meatballs tender"
+      ],
+      "tags": [
+        "meatballs",
+        "Italian",
+        "baked",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5651 Medium.jpeg",
+        "FBC Jasmine Cook Book/processed/IMG_5652 Medium.jpeg",
+        "FBC Jasmine Cook Book/processed/IMG_5653 Medium.jpeg",
+        "FBC Jasmine Cook Book/processed/IMG_5654 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4 servings"
+    },
+    {
+      "id": "broccoli-bread-quiche-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broccoli Bread Quiche",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 18",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "60 minutes",
+      "ingredients": [
+        {
+          "item": "whole grain diet bread",
+          "quantity": "6",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "raw broccoli",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "plain low-fat yogurt",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "salt, lemon pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "or cholesterol egg substitute"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast bread lightly; cut each slice in half. Arrange bread slices in a small non-stick baking pan."
+        },
+        {
+          "step": 2,
+          "text": "Layer broccoli on top. Stir yogurt into eggs until blended, then spoon over broccoli."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle with nutmeg, salt and lemon pepper."
+        },
+        {
+          "step": 4,
+          "text": "Bake, uncovered, in a preheated oven at 350 degrees for 60 minutes or until knife inserted in center comes out clean."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "quiche",
+        "broccoli",
+        "healthy",
+        "breakfast"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5680 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "vegetable-pie-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetable Pie",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 28",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "35 minutes",
+      "ingredients": [
+        {
+          "item": "ready made pie crust",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "baked"
+        },
+        {
+          "item": "margarine",
+          "quantity": "6",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "2% sliced"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "grated part-skim Mozzarella cheese",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "Grey Poupon mustard",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "thyme",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dill",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "lightly steamed carrots and broccoli",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees. Heat margarine in medium saucepan and saute mushrooms."
+        },
+        {
+          "step": 2,
+          "text": "Add flour and stir until browned. Gradually add milk and cook until sauce thickens."
+        },
+        {
+          "step": 3,
+          "text": "Add cheese, mustard, and spices. Spoon cooked vegetables into the pie crust and pour sauce over top."
+        },
+        {
+          "step": 4,
+          "text": "Bake 35 minutes or until sauce bubbles. Wonderful for a meatless meal or add a can of drained tuna."
+        }
+      ],
+      "notes": [
+        "Can add drained tuna for protein"
+      ],
+      "tags": [
+        "vegetable",
+        "pie",
+        "meatless",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5690 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "creamy-crabmeat-casserole-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Crabmeat Casserole",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 124",
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "1 to 1 1/2 hours",
+      "servings_yield": "6 main servings",
+      "ingredients": [
+        {
+          "item": "green onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or oleo",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": "1/2 stick"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "lg",
+          "prep_note": ""
+        },
+        {
+          "item": "fontina cheese",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "pkg. salad-style imitation crabmeat",
+          "quantity": "1 1/2",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "med. size plum tomatoes",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dried bread crumbs",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "celery stalks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "ABOUT 45 MINUTES BEFORE SERVING: Preheat oven to 350 degrees. Grease 1 1/2 quart casserole."
+        },
+        {
+          "step": 2,
+          "text": "Thinly slice onions, dice celery. In 3-quart saucepan over medium heat, in hot butter or oleo. Cook green onions and celery until tender, stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "Stir in flour and pepper; cook 1 minute. Gradually stir in milk; cook, stirring constantly, until mixture boils and thickens. Stir in lemon juice."
+        },
+        {
+          "step": 4,
+          "text": "In small bowl, into egg yolk, beat small amount of hot sauce. Slowly pour egg mixture back into sauce, stirring rapidly to prevent lumping. Reserve 1/4 cup cheese for topping."
+        },
+        {
+          "step": 5,
+          "text": "Stir remaining cheese into sauce until cheese melts and mixture is smooth. Stir in crabmeat; spoon mixture into casserole."
+        },
+        {
+          "step": 6,
+          "text": "Slice tomatoes 1/4 inch thick; arrange over top of casserole. Sprinkle with bread crumbs and reserved cheese. Bake uncovered 20 minutes or until cheese browns slightly and mixture is hot and bubbly."
+        },
+        {
+          "step": 7,
+          "text": "Makes 6 main meal servings. About 350 calories per serving. I vary the recipe by omitting the crabmeat and adding chicken, or turkey, or ham, etc. Also to add some pazzazz, try adding sliced water chestnuts, also a little sherry. Yummy. Bon appetit!"
+        }
+      ],
+      "notes": [
+        "Can substitute chicken, turkey, or ham for crabmeat",
+        "Try adding sliced water chestnuts and a little sherry for variation"
+      ],
+      "tags": [
+        "casserole",
+        "crabmeat",
+        "seafood",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5790 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "wild-rice-casserole-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Rice Casserole",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 124",
+      "ingredients": [
+        {
+          "item": "boxes Uncle Ben's long grain and wild rice",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "can cream of chicken soup",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "10 1/2 ounce"
+        },
+        {
+          "item": "dry white wine or water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cans sliced mushrooms",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "4 ounce, drained"
+        },
+        {
+          "item": "pound cooked shrimp",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped or whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook 2 boxes of Uncle Ben's long grain and wild rice as directed."
+        },
+        {
+          "step": 2,
+          "text": "Stir in 1 (10 1/2 ounce) can cream of chicken soup and 3/4 dry white wine or water. Heat through."
+        },
+        {
+          "step": 3,
+          "text": "Fold in 2 (4 ounce) cans sliced mushrooms (drained) and 1 pound cooked shrimp, chopped or whole."
+        },
+        {
+          "step": 4,
+          "text": "Turn onto casserole and garnish with parsley."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "casserole",
+        "wild rice",
+        "shrimp",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5790 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "wild-rice-sausage-casserole-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Rice-Sausage Casserole",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 134",
+      "temperature": "350\u00b0F or crock pot",
+      "cook_time": "2 to 2 1/2 hours in crock pot",
+      "servings_yield": "8 servings",
+      "ingredients": [
+        {
+          "item": "bulk pork sausage",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "med. onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Uncle Ben's long grain and wild rice mix",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": "6 oz"
+        },
+        {
+          "item": "wild rice",
+          "quantity": "1/4",
+          "unit": "oz",
+          "prep_note": "rinsed"
+        },
+        {
+          "item": "undiluted soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "10 3/4 oz"
+        },
+        {
+          "item": "cream of chicken",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded sharp Cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "4 oz, drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine all ingredients in crock pot and cook on low all day, or cook in 350 degree oven."
+        },
+        {
+          "step": 2,
+          "text": "Can also use 1 (7 oz.) package wild pecan rice (only use 1/2 package). Brown sausage in a skillet, drain, reserving drippings."
+        },
+        {
+          "step": 3,
+          "text": "Saute onion, green pepper, and celery in drippings until done."
+        },
+        {
+          "step": 4,
+          "text": "Combine sausage, sauteed vegetables, long grain and wild rice mix (including seasoning packet), wild rice, soup, cheese, and mushrooms; mix well."
+        },
+        {
+          "step": 5,
+          "text": "Spoon into a shallow 2-quart casserole. Cover and bake at 325 degrees for 1 hour or until done."
+        },
+        {
+          "step": 6,
+          "text": "Yield: 8 servings."
+        }
+      ],
+      "notes": [
+        "Can be made in crock pot or oven"
+      ],
+      "tags": [
+        "casserole",
+        "sausage",
+        "wild rice",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5800 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "ham-muffins-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ham Muffins",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 13",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ham",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "soft bread crumbs",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dark Karo syrup",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "plus more for topping"
+        },
+        {
+          "item": "prepared mustard",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pineapple chunks",
+          "quantity": "1",
+          "unit": "20 oz can",
+          "prep_note": "drained, reserve 1/2 c. juice"
+        },
+        {
+          "item": "maraschino cherries",
+          "quantity": "1",
+          "unit": "sm. bottle",
+          "prep_note": "drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Blend all ingredients except pineapple chunks, cherries, and 3 tablespoons Karo syrup, but including the 1/2 cup pineapple juice, and fill 12 to 16 muffin cups."
+        },
+        {
+          "step": 2,
+          "text": "Garnish each with 3 small pineapple wedges and 1/2 of a cherry."
+        },
+        {
+          "step": 3,
+          "text": "Pour 1/2 teaspoon reserved syrup over top of each."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 350\u00b0F for about 35 minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "35 minutes",
+      "servings_yield": "Makes 12 large or 16 small muffins",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "meatloaf",
+        "ham",
+        "pineapple",
+        "retro"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5675 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "meatloaf-in-round-bread-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Meatloaf in Round Bread",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 13",
+      "ingredients": [
+        {
+          "item": "round loaf French bread",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "evaporated milk",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "sm.",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "sm.",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "ground meat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "MSG",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut thin slice from top of bread (save)."
+        },
+        {
+          "step": 2,
+          "text": "Scoop out the inside of the loaf. Measure 2 cups of bread crumbs and soak in the milk 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add onion, green pepper, beef, egg, salt, pepper and MSG. Mix well."
+        },
+        {
+          "step": 4,
+          "text": "Fill bread case with mixture. Put the top slice back in place."
+        },
+        {
+          "step": 5,
+          "text": "Place on lightly greased pan."
+        },
+        {
+          "step": 6,
+          "text": "Bake in 350 degree oven for 1 hour and 15 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Serve with hot tomato sauce or salsa."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "1 hour 15 minutes",
+      "notes": [],
+      "tags": [
+        "main dish",
+        "meatloaf",
+        "bread",
+        "creative"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5675 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "vegetable-pie-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetable Pie",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 28",
+      "ingredients": [
+        {
+          "item": "ready made pie crust",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "baked"
+        },
+        {
+          "item": "margarine",
+          "quantity": "6",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "2% sliced"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "part-skim Mozzarella cheese",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "Grey Poupon mustard",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "thyme",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dill",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "carrots and broccoli",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "lightly steamed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Heat margarine in medium saucepan and saute mushrooms."
+        },
+        {
+          "step": 3,
+          "text": "Add flour and stir until browned. Gradually add milk and cook until sauce thickens."
+        },
+        {
+          "step": 4,
+          "text": "Add cheese, mustard, and spices."
+        },
+        {
+          "step": 5,
+          "text": "Spoon cooked vegetables into the pie crust and pour sauce over top."
+        },
+        {
+          "step": 6,
+          "text": "Bake 35 minutes or until sauce bubbles."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "35 minutes",
+      "notes": [
+        "Wonderful for a meatless meal or add a can of drained tuna"
+      ],
+      "tags": [
+        "main dish",
+        "vegetarian",
+        "pie",
+        "vegetables",
+        "healthy"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5690 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "creamy-crabmeat-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Crabmeat Casserole",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 124",
+      "ingredients": [
+        {
+          "item": "green onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "thinly sliced"
+        },
+        {
+          "item": "butter or oleo",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "1/2 stick"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "fontina cheese",
+          "quantity": "1 1/2",
+          "unit": "lb",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "imitation crabmeat",
+          "quantity": "1",
+          "unit": "4 1/2 oz pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "plum tomatoes",
+          "quantity": "2",
+          "unit": "med.",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "dried bread crumbs",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "celery stalks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0F. Grease 1 1/2 quart casserole."
+        },
+        {
+          "step": 2,
+          "text": "In 3-quart saucepan over medium heat, in hot butter, cook green onions and celery until tender, stirring occasionally."
+        },
+        {
+          "step": 3,
+          "text": "Stir in flour and pepper, cook 1 minute. Gradually stir in milk; cook, stirring constantly, until mixture boils and thickens. Stir in lemon juice."
+        },
+        {
+          "step": 4,
+          "text": "In small bowl, beat egg yolk, beat small amount of hot sauce into egg yolk. Slowly pour egg mixture back into sauce, stirring rapidly to prevent lumping."
+        },
+        {
+          "step": 5,
+          "text": "Reserve 1/4 cup cheese for topping. Stir remaining cheese into sauce until cheese melts and mixture is smooth."
+        },
+        {
+          "step": 6,
+          "text": "Stir in crabmeat; spoon mixture into casserole."
+        },
+        {
+          "step": 7,
+          "text": "Slice tomatoes 1/4 inch thick, arrange over top of casserole. Sprinkle with bread crumbs and reserved cheese."
+        },
+        {
+          "step": 8,
+          "text": "Bake uncovered 20 minutes or until cheese browns slightly and mixture is hot and bubbly."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "20 minutes",
+      "servings_yield": "Makes 6 main meal servings. About 350 calories per serving",
+      "notes": [
+        "Can substitute chicken, turkey, or ham for crabmeat",
+        "Can add sliced water chestnuts and a little sherry for extra flavor"
+      ],
+      "tags": [
+        "casserole",
+        "seafood",
+        "crab",
+        "cheese",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5790 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "wild-rice-casserole-shrimp-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Rice Casserole with Shrimp",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 124",
+      "ingredients": [
+        {
+          "item": "Uncle Ben's long grain and wild rice",
+          "quantity": "2",
+          "unit": "boxes",
+          "prep_note": "cooked as directed"
+        },
+        {
+          "item": "cream of chicken soup",
+          "quantity": "1",
+          "unit": "10 1/2 oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "dry white wine or water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "2",
+          "unit": "4 oz cans",
+          "prep_note": "drained"
+        },
+        {
+          "item": "cooked shrimp",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "chopped or whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook rice as directed on box."
+        },
+        {
+          "step": 2,
+          "text": "Stir in cream of chicken soup and white wine or water. Heat through."
+        },
+        {
+          "step": 3,
+          "text": "Fold in drained mushrooms and cooked shrimp."
+        },
+        {
+          "step": 4,
+          "text": "Turn into casserole and garnish with parsley."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "casserole",
+        "wild rice",
+        "shrimp",
+        "seafood",
+        "main dish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5790 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "two-way-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Two Way Casserole",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 129",
+      "ingredients": [
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of chicken soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cubed cooked ham or chicken",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked noodles",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In saucepan, cook onion in oleo until tender."
+        },
+        {
+          "step": 2,
+          "text": "Add remaining ingredients except cheese."
+        },
+        {
+          "step": 3,
+          "text": "Pour into shallow 2 quart shallow baking dish, 12\"x8\"x2\"."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 400\u00b0F for 25 minutes or until hot; stir."
+        },
+        {
+          "step": 5,
+          "text": "Top with cheese. Bake until cheese melts."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "cook_time": "25 minutes",
+      "servings_yield": "Makes about 7 cups",
+      "pan_size": "12 x 8 x 2 inch baking dish",
+      "notes": [
+        "Can use either ham or chicken"
+      ],
+      "tags": [
+        "casserole",
+        "main dish",
+        "ham",
+        "chicken",
+        "noodles"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5795 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "wild-rice-sausage-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Rice-Sausage Casserole",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 134",
+      "ingredients": [
+        {
+          "item": "bulk pork sausage",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "med.",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "Uncle Ben's long grain and wild rice mix",
+          "quantity": "1",
+          "unit": "6 oz pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "wild rice",
+          "quantity": "1",
+          "unit": "4 oz pkg",
+          "prep_note": "rinsed"
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "10 3/4 oz can",
+          "prep_note": "undiluted"
+        },
+        {
+          "item": "sharp Cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "sliced mushrooms",
+          "quantity": "1",
+          "unit": "4 oz can",
+          "prep_note": "drained"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brown sausage in a skillet, drain, reserving drippings."
+        },
+        {
+          "step": 2,
+          "text": "Saute onion, green pepper, and celery in drippings until done."
+        },
+        {
+          "step": 3,
+          "text": "Combine sausage, sauteed vegetables, long grain and wild rice mix (including seasoning packet), wild rice, soup, cheese, and mushrooms; mix well."
+        },
+        {
+          "step": 4,
+          "text": "Spoon into a shallow 2-quart casserole."
+        },
+        {
+          "step": 5,
+          "text": "Cover and bake at 325\u00b0F for 1 hour or until done."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "cook_time": "1 hour",
+      "servings_yield": "Yield: 8 servings",
+      "pan_size": "2-quart casserole",
+      "notes": [
+        "Can also use 1 (7 oz.) package wild pecan rice (only use 1/2 package)"
+      ],
+      "tags": [
+        "casserole",
+        "sausage",
+        "wild rice",
+        "main dish",
+        "hearty"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5800 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "lively-shrimp-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lively Shrimp Casserole",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 146",
+      "ingredients": [
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "med.",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or oleo",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "cooked, peeled deveined shrimp",
+          "quantity": "2",
+          "unit": "lbs",
+          "prep_note": ""
+        },
+        {
+          "item": "onion soup",
+          "quantity": "1",
+          "unit": "10 1/2 oz can",
+          "prep_note": "undiluted"
+        },
+        {
+          "item": "cream of chicken soup",
+          "quantity": "1",
+          "unit": "10 3/4 oz can",
+          "prep_note": "undiluted"
+        },
+        {
+          "item": "Rotel tomatoes",
+          "quantity": "1",
+          "unit": "10 oz can",
+          "prep_note": ""
+        },
+        {
+          "item": "uncooked regular rice",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "med.",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saute green pepper and onion in oleo until tender."
+        },
+        {
+          "step": 2,
+          "text": "Stir in remaining ingredients."
+        },
+        {
+          "step": 3,
+          "text": "Spoon mixture into a greased 3 quart casserole."
+        },
+        {
+          "step": 4,
+          "text": "Cover and bake at 350\u00b0F for 1 hour or until rice tests done."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "1 hour",
+      "pan_size": "3 quart casserole",
+      "notes": [],
+      "tags": [
+        "casserole",
+        "main dish",
+        "shrimp",
+        "seafood",
+        "rice"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5815 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4-6 servings"
+    },
+    {
+      "id": "hungarian-cabbage-rolls-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hungarian Cabbage Rolls",
+      "category": "main-dishes",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 151",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "browned & diced"
+        },
+        {
+          "item": "ground beef",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "tomato soup or sauce",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "rice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "cooked"
+        },
+        {
+          "item": "cabbage",
+          "quantity": "1",
+          "unit": "head",
+          "prep_note": "leaves separated"
+        },
+        {
+          "item": "sauerkraut",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Steam cabbage at low temperature. Drain."
+        },
+        {
+          "step": 2,
+          "text": "Saute onion and ground beef."
+        },
+        {
+          "step": 3,
+          "text": "Add rice, bacon and onion."
+        },
+        {
+          "step": 4,
+          "text": "Lay cabbage leaf in hand. Add scoop of hamburg meat mixture and roll up."
+        },
+        {
+          "step": 5,
+          "text": "Fasten with toothpick if necessary."
+        },
+        {
+          "step": 6,
+          "text": "HUNGARIAN STYLE: 1. Layer of sauerkraut plus water from cabbage. 2. Layer of rolls. 3. Layer of sauerkraut. 4. Pour tomato sauce over all."
+        },
+        {
+          "step": 7,
+          "text": "Bake at 325\u00b0F for 3 hours."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "cook_time": "3 hours",
+      "notes": [
+        "Sauerkraut is optional but traditional for Hungarian style"
+      ],
+      "tags": [
+        "main dish",
+        "cabbage rolls",
+        "hungarian",
+        "beef",
+        "comfort food"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5820 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "4 servings"
     }
   ]
 }

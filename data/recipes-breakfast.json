@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "breakfast",
-    "count": 12,
+    "count": 46,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -1207,6 +1207,3317 @@
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
       }
+    },
+    {
+      "id": "chile-breakfast-whirls-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chile Breakfast Whirls",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 14",
+      "servings_yield": "Makes 50 to 60",
+      "ingredients": [
+        {
+          "item": "biscuit mix",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "hot pork sausage",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "regular pork sausage",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix the biscuit mix, margarine, and milk well; refrigerate 1/2 hour."
+        },
+        {
+          "step": 2,
+          "text": "Meanwhile, mix the sausages and green chiles and let stand to room temperature."
+        },
+        {
+          "step": 3,
+          "text": "Divide the dough in half. Roll out each piece to a large rectangle about 1/4 inch thick. Spread half of the sausage mixture completely over each piece of dough; roll up as for a jelly roll. Wrap in plastic wrap and freeze for 1 hour."
+        },
+        {
+          "step": 4,
+          "text": "Remove from freezer and slice 1/4 inch thick. Freeze until ready to use. Then place the frozen slices on a cookie sheet and bake in preheated 400-degree oven for 20 minutes."
+        },
+        {
+          "step": 5,
+          "text": "This is the perfect accompaniment to breakfast eggs, and it also makes a terrific appetizer."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C)",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "appetizer",
+        "sausage",
+        "green chile",
+        "make-ahead",
+        "freezer-friendly"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6002 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "huevos-y-chilaquiles-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Huevos y Chilaquiles",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 14",
+      "servings_yield": "Serves 4",
+      "ingredients": [
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "minced"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "tortillas",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "cut into 1-inch squares"
+        },
+        {
+          "item": "mild chile powder",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Saute the onion in heated butter. Add the tortillas and chile powder, stirring well to coat the tortillas with powder. Cook until browned."
+        },
+        {
+          "step": 2,
+          "text": "Add the eggs, green chiles, salt, and pepper; scramble."
+        },
+        {
+          "step": 3,
+          "text": "Sprinkle with the Parmesan cheese and parsley."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "tortillas",
+        "green chile",
+        "Mexican"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6002 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chiles-con-huevos-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chiles con Huevos",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 15",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "finely minced"
+        },
+        {
+          "item": "smoked ham",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "diced"
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "diced"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "diced"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dried parsley",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oregano",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "large",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "olives",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Melt the butter in a skillet and saute the garlic and ham for 2 minutes. Add the mushrooms and green chiles and saute 2 more minutes."
+        },
+        {
+          "step": 3,
+          "text": "Remove from the heat and stir in the sour cream, parsley, and oregano. Allow the mixture to stand for 10 minutes to blend flavors; then turn it into a buttered 1-quart casserole."
+        },
+        {
+          "step": 4,
+          "text": "With a mixing spoon, make 6 rounded hollows in the chile mixture; break an egg into each hollow. Season with salt and pepper."
+        },
+        {
+          "step": 5,
+          "text": "Bake about 20 minutes or until the egg whites are set. Sprinkle the grated cheese over the casserole and return it to the oven until the cheese is bubbling and the yolks are set, about 5 to 10 minutes more."
+        },
+        {
+          "step": 6,
+          "text": "Garnish with olive slices."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "casserole",
+        "green chile",
+        "ham",
+        "mushrooms"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6003 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "i-cant-stand-eggs-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "\"I Can't Stand Eggs\"",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 16",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "green chile sauce or salsa",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "per egg"
+        },
+        {
+          "item": "cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "small slice"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Butter custard cups and break an egg into each. Add 2 tablespoons green chile sauce or salsa and top with a small slice of cheese."
+        },
+        {
+          "step": 3,
+          "text": "Place cups in a pan of hot water and bake until eggs are set."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "green chile",
+        "easy"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6005 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "baked-eggs-with-cheese-and-chile-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Eggs with Cheese and Chile",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 16",
+      "servings_yield": "Serves 4 to 6",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 325 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Whirl the eggs, milk, and cheese in a blender until mixed. Add the green chiles, salt, and pepper and pour into a buttered 9-inch square baking dish."
+        },
+        {
+          "step": 3,
+          "text": "Bake for 25 minutes. Great for brunch or lunch or cold as an appetizer."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "9-inch square baking dish",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "green chile",
+        "brunch"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6005 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chil-once-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chil-Once",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 19",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "bacon",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "finely diced"
+        },
+        {
+          "item": "cream-style corn",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pinch of salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "light cream",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "8",
+          "unit": "large",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "mild cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Butter an 8-inch square baking dish. Fry the bacon until almost done and drain off the excess grease. Mix the bacon with the corn, chiles, sugar, garlic powder, and salt. Spread the mixture evenly in the baking dish."
+        },
+        {
+          "step": 3,
+          "text": "Mix the cream, eggs, and salt to taste and pour over the chile mixture. Sprinkle the cheese on top. Place on the center rack of oven and bake for 35 to 40 minutes or until the eggs are set."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "8-inch square baking dish",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "bacon",
+        "corn",
+        "green chile",
+        "casserole"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6007 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "egg-and-chile-omelet-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Egg and Chile Omelet",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 19",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "bread",
+          "quantity": "5",
+          "unit": "slices",
+          "prep_note": "crusts removed"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "longhorn cheese",
+          "quantity": "2/3",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "fresh green chiles",
+          "quantity": "3 to 4",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "",
+          "unit": "dash",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Butter the bread and cut the slices in cubes. Layer the bread cubes, grated cheese, and chopped chiles in a 9-inch square baking dish."
+        },
+        {
+          "step": 2,
+          "text": "Combine the remaining ingredients and pour over the bread cubes, cheese, and chiles. Let stand in the refrigerator overnight."
+        },
+        {
+          "step": 3,
+          "text": "Cover and bake for 1 hour at 325 degrees. Remove the cover and bake 5 minutes more or until puffy and set."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "9-inch square baking dish",
+      "notes": [
+        "Make ahead - refrigerate overnight before baking"
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "green chile",
+        "make-ahead",
+        "casserole"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6007 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "chile-cheese-sausage-pancakes-or-waffles-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chile-Cheese-Sausage Pancakes or Waffles",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 20",
+      "servings_yield": "Serves 6",
+      "ingredients": [
+        {
+          "item": "pancake or waffle mix",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to serve 6"
+        },
+        {
+          "item": "bulk sausage",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "condensed cheddar cheese soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cumin",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "oregano",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "thyme",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare the pancake or waffle mix according to the package directions and set aside."
+        },
+        {
+          "step": 2,
+          "text": "Crumble the sausage and saute it until well done. Drain off the fat. Reserve 3 tablespoons of the sausage and mix the rest along with 1/2 cup green chiles and 1/8 teaspoon of each of the spices into the pancake or waffle mix."
+        },
+        {
+          "step": 3,
+          "text": "Empty the soup into a pan and add the milk, remaining chiles, and remaining spices. Add the salt and stir together. Heat the mixture to boiling and simmer 2 minutes. Remove from the heat and keep warm."
+        },
+        {
+          "step": 4,
+          "text": "Prepare either pancakes or waffles and serve them hot with the cheese-chile sauce and sprinkled with reserved sausage. Great for breakfast or dinner."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "waffles",
+        "sausage",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6009 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "mesa-verde-maize-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mesa Verde Maize",
+      "category": "breakfast",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 141",
+      "servings_yield": "Serves 6 to 8",
+      "ingredients": [
+        {
+          "item": "prepared pancake batter",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "frozen whole kernel corn",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "tomatoes with green chiles",
+          "quantity": "1",
+          "unit": "can (15 oz)",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat griddle."
+        },
+        {
+          "step": 2,
+          "text": "Mix the pancake batter with the cheese, corn, and green chiles. Fry like pancakes. Top them with tomatoes and green chiles."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "corn",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6128 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "saintly-eggs-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Saintly Eggs",
+      "category": "breakfast",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 81",
+      "ingredients": [
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Swiss or Gruy\u00e8re cheese",
+          "quantity": "10",
+          "unit": "oz",
+          "prep_note": "sliced thin"
+        },
+        {
+          "item": "eggs",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "heavy cream",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350\u00b0."
+        },
+        {
+          "step": 2,
+          "text": "Butter a shallow casserole dish. Line dish with thin cheese slices. Break the eggs into the casserole dish, keeping them whole. Carefully pour cream over the eggs. Sprinkle with Parmesan cheese and salt and pepper and bake for 15 minutes or until egg whites are set and yolks are still runny. Brown the cheese topping under the broiler for a few minutes."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [
+        "Can be assembled night before, refrigerated, then popped into oven next morning"
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "cheese",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6197 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "wholly-pancakes-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wholly Pancakes",
+      "category": "breakfast",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 146",
+      "servings_yield": "Serves 4-6",
+      "ingredients": [
+        {
+          "item": "dry yeast",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lukewarm water",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "whole wheat flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "unbleached pastry flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sourdough starter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "(Day two)"
+        },
+        {
+          "item": "sea salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "(Day two)"
+        },
+        {
+          "item": "honey",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "(Day two)"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Night before: Soften the yeast in 1/2 cup of the water. Allow it to bubble, then add the rest of the water. Add both kinds of flour. Beat well and pour into a large pitcher with enough space on top for it to rise. Cover and store in warm place overnight."
+        },
+        {
+          "step": 2,
+          "text": "The next morning stir down the batter. Remove 1 cupful and return to sourdough starter. Add the rest of the ingredients. Mix well and pour onto a hot griddle. Serves 4-6."
+        }
+      ],
+      "notes": [
+        "Must be started the night before"
+      ],
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "sourdough",
+        "whole wheat",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6250 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "turkish-pancakes-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Turkish Pancakes",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 38",
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "cook_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced strawberries",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "melted butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "shredded cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gradually add flour, salt and milk to eggs. Melt butter in 9 x 13 inch pan."
+        },
+        {
+          "step": 2,
+          "text": "Pour batter over melted margarine."
+        },
+        {
+          "step": 3,
+          "text": "Bake at 400 degrees for about 30 minutes. Serve with fresh sliced strawberries or syrup."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle over top with remaining 1 cup shredded cheese. Bake at 350 degrees for 1 hour."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "pancakes",
+        "breakfast",
+        "Turkish"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5700 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "basic-crepe-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crepe (Basic)",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 38",
+      "servings_yield": "about 15 crepes",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "each"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "[RECONSTRUCTED - referenced in step 1 note about substitutions]"
+        },
+        {
+          "item": "oleo",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place all ingredients in mixer and beat well, let batter stand 1 hour for more perfect crepes. (*Chicken or beef bouillon can be substituted for all or part of milk.)"
+        },
+        {
+          "step": 2,
+          "text": "The additions of onion, garlic or celery salt can also create a tasty crepe. Turn electric burner on to the middle of medium high, make sure pan is hot."
+        },
+        {
+          "step": 3,
+          "text": "Pour batter into a pie tin or something shallow and dip the back of the pan into the batter to cover it, then place over the burner."
+        },
+        {
+          "step": 4,
+          "text": "It takes only a few seconds to bake (practice makes perfect, you might ruin a couple) and then it peels off the pan onto a dish."
+        }
+      ],
+      "notes": [
+        "Chicken or beef bouillon can be substituted for all or part of milk for savory crepes"
+      ],
+      "tags": [
+        "crepes",
+        "breakfast",
+        "basic"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5700 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "aebleskiver-fbc",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Aebleskiver",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "FBC Jasmine Cook Book page 48",
+      "description": "Danish pancake balls",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "separated"
+        },
+        {
+          "item": "unsifted flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Aebleskiver pan",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Separate eggs. Beat egg whites until stiff. Set aside."
+        },
+        {
+          "step": 2,
+          "text": "Mix flour, buttermilk, baking powder, salt, baking soda, sugar, and melted butter with egg yolks."
+        },
+        {
+          "step": 3,
+          "text": "Fold in beaten egg whites."
+        },
+        {
+          "step": 4,
+          "text": "Heat Aebleskiver pan and grease cups. Fill cups 2/3 full with batter."
+        },
+        {
+          "step": 5,
+          "text": "When bubbles form, turn with a fork or skewer to cook the other side until golden brown."
+        },
+        {
+          "step": 6,
+          "text": "Serve warm with powdered sugar, jam, or syrup."
+        }
+      ],
+      "notes": [
+        "Requires special Aebleskiver pan"
+      ],
+      "tags": [
+        "Danish",
+        "pancakes",
+        "breakfast",
+        "aebleskiver"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5710 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "broccoli-bread-quiche-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broccoli Bread Quiche",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 18",
+      "ingredients": [
+        {
+          "item": "whole grain diet bread",
+          "quantity": "6",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "raw broccoli",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "plain low-fat yogurt",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "lemon pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten, or equivalent no cholesterol egg substitute"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Toast bread lightly; cut each slice in half."
+        },
+        {
+          "step": 2,
+          "text": "Arrange bread slices in a small non-stick baking pan."
+        },
+        {
+          "step": 3,
+          "text": "Layer broccoli on top."
+        },
+        {
+          "step": 4,
+          "text": "Stir yogurt into eggs until blended, then spoon over broccoli."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle with nutmeg, salt and lemon pepper."
+        },
+        {
+          "step": 6,
+          "text": "Bake, uncovered, in a preheated oven at 350\u00b0F for 60 minutes or until knife inserted in center comes out clean."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "60 minutes",
+      "notes": [
+        "Healthy alternative to traditional quiche"
+      ],
+      "tags": [
+        "breakfast",
+        "quiche",
+        "broccoli",
+        "healthy",
+        "low-fat"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5680 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "baked-apple-pancake-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Apple Pancake",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 33",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "apple",
+          "quantity": "1",
+          "unit": "lg.",
+          "prep_note": "sliced, do not peel"
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt butter in 10\" fry pan."
+        },
+        {
+          "step": 2,
+          "text": "Combine 3 tablespoons sugar with cinnamon, sprinkle over butter."
+        },
+        {
+          "step": 3,
+          "text": "Arrange apple slices over sugar mixture in pan. Cook over medium heat 3 to 4 minutes. Cool slightly."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, beat together eggs, milk, flour, remaining 1 tablespoon sugar and salt until smooth."
+        },
+        {
+          "step": 5,
+          "text": "Pour gently over apple slices."
+        },
+        {
+          "step": 6,
+          "text": "Bake in preheated 400 degree oven about 15 minutes until golden brown and sides are puffy."
+        },
+        {
+          "step": 7,
+          "text": "Serve immediately."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "cook_time": "15 minutes",
+      "pan_size": "10 inch fry pan",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "pancake",
+        "apple",
+        "german",
+        "dutch baby"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5695 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "strawberry-blossom-pancakes-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Strawberry Blossom Pancakes",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 33",
+      "ingredients": [
+        {
+          "item": "frozen whole strawberries",
+          "quantity": "1",
+          "unit": "16 oz pkg",
+          "prep_note": "thawed, juice reserved"
+        },
+        {
+          "item": "all purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1",
+          "unit": "8 oz carton",
+          "prep_note": ""
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen whipped topping",
+          "quantity": "1",
+          "unit": "4 1/2 oz carton",
+          "prep_note": "thawed, for fluff"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "for fluff"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thoroughly drain strawberries, reserving 1/4 cup juice for topping. Chop 1/2 cup drained strawberries; reserve remainder for topping."
+        },
+        {
+          "step": 2,
+          "text": "Prepare Strawberry Fluff: combine whipped topping, 1/3 cup sour cream, and reserved strawberry juice; set aside."
+        },
+        {
+          "step": 3,
+          "text": "In a medium bowl, mix flour, sugar, baking powder, salt and baking soda."
+        },
+        {
+          "step": 4,
+          "text": "In another medium bowl, mix eggs, milk, sour cream and oil. Add to flour mixture."
+        },
+        {
+          "step": 5,
+          "text": "Add 1/2 cup chopped strawberries. Stir only until combined; the batter will still be lumpy."
+        },
+        {
+          "step": 6,
+          "text": "Preheat griddle. Brush preheated griddle with oil."
+        },
+        {
+          "step": 7,
+          "text": "Using 1/4 cup batter for each pancake, cook until golden."
+        },
+        {
+          "step": 8,
+          "text": "Serve with Strawberry Fluff and reserved strawberries."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "pancakes",
+        "strawberry",
+        "fruit"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5695 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "turkish-pancakes-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Turkish Pancakes",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 38",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced strawberries or syrup",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Gradually add flour, salt and milk to eggs."
+        },
+        {
+          "step": 2,
+          "text": "Melt butter in 9 x 13 inch pan."
+        },
+        {
+          "step": 3,
+          "text": "Pour batter over melted margarine."
+        },
+        {
+          "step": 4,
+          "text": "Bake at 400\u00b0F for about 30 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Serve with fresh sliced strawberries or syrup."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "cook_time": "30 minutes",
+      "pan_size": "9 x 13 inch pan",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "pancake",
+        "baked",
+        "easy"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5700 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "basic-crepe-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Basic Crepe",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 38",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "*"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "pinch",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "oleo",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place all ingredients in mixer and beat well, let batter stand 1 hour for more perfect crepes."
+        },
+        {
+          "step": 2,
+          "text": "Turn electric burner on to the middle of medium high, make sure pan is hot."
+        },
+        {
+          "step": 3,
+          "text": "Pour batter into a pie tin or something shallow and dip the back of the pan into the batter to cover it, then place over the burner."
+        },
+        {
+          "step": 4,
+          "text": "It takes only a few seconds to bake (practice makes perfect, you might ruin a couple) and then it peels off the pan onto a dish."
+        }
+      ],
+      "servings_yield": "Makes about 15",
+      "notes": [
+        "*Chicken or beef bouillon can be substituted for all or part of milk",
+        "The additions of onion, garlic or celery salt can also create a tasty crepe"
+      ],
+      "tags": [
+        "breakfast",
+        "crepe",
+        "basic",
+        "french"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5700 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "crepes-egg-sausage-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crepes (Egg and Sausage)",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 38",
+      "ingredients": [
+        {
+          "item": "prepared crepes",
+          "quantity": "12-15",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "allowing 2 eggs per 3 crepes"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "chives",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped, optional"
+        },
+        {
+          "item": "onions",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sauteed, optional"
+        },
+        {
+          "item": "shredded cheese",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "sausage links",
+          "quantity": "12-15",
+          "unit": "",
+          "prep_note": "cooked"
+        },
+        {
+          "item": "cream of mushroom soup",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": "diluted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Scramble desired number of eggs (with milk, salt, pepper) and cook allowing 2 eggs per 3 crepes."
+        },
+        {
+          "step": 2,
+          "text": "Add chopped chives, sauteed onions and shredded cheese for additional flavor."
+        },
+        {
+          "step": 3,
+          "text": "Place two tablespoonfuls of scrambled eggs on each crepe."
+        },
+        {
+          "step": 4,
+          "text": "Place a cooked sausage link in the middle."
+        },
+        {
+          "step": 5,
+          "text": "Fold crepe and pour a small amount of diluted cream of mushroom soup over the top; serve hot."
+        },
+        {
+          "step": 6,
+          "text": "Make them up and put them in a microwave for a few seconds just before serving."
+        }
+      ],
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "crepe",
+        "eggs",
+        "sausage",
+        "brunch"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5700 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "pineapple-brunch-cake-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pineapple Brunch Cake",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 43",
+      "ingredients": [
+        {
+          "item": "cream cheese",
+          "quantity": "1",
+          "unit": "3 oz pkg",
+          "prep_note": "softened"
+        },
+        {
+          "item": "crushed pineapple",
+          "quantity": "1",
+          "unit": "3 3/4 oz can",
+          "prep_note": "well drained"
+        },
+        {
+          "item": "English muffins",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "split"
+        },
+        {
+          "item": "chopped pecans",
+          "quantity": "1/2",
+          "unit": "tsp per muffin",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a small mixing bowl combine softened cream cheese and crushed pineapple, well drained."
+        },
+        {
+          "step": 2,
+          "text": "Split and layer 6 English muffins and place on baking sheet."
+        },
+        {
+          "step": 3,
+          "text": "Spoon pineapple mixture using 1 1/2 tablespoon mixture for each."
+        },
+        {
+          "step": 4,
+          "text": "Sprinkle with chopped pecans."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 375\u00b0F for 6 to 8 minutes. Serve warm."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "cook_time": "6-8 minutes",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "brunch",
+        "pineapple",
+        "cream cheese",
+        "quick"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5705 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "baked-spanish-potato-omelet-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Spanish Potato Omelet",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 43",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "5",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "potatoes",
+          "quantity": "5",
+          "unit": "cups",
+          "prep_note": "peeled, cooked, cubed"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "green stuffed Spanish olives",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cooked ham",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "cubed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat eggs until fluffy."
+        },
+        {
+          "step": 2,
+          "text": "Fold in remaining ingredients."
+        },
+        {
+          "step": 3,
+          "text": "Spray a round, non-stick cake pan with cooking spray for no-fat frying."
+        },
+        {
+          "step": 4,
+          "text": "Spoon in omelet mixture."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 350\u00b0F for 25 to 30 minutes until eggs are set."
+        },
+        {
+          "step": 6,
+          "text": "Cut into wedges."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "25-30 minutes",
+      "notes": [
+        "The cooked ham can be replaced with leftover roast poultry, seafood or water packed tuna"
+      ],
+      "tags": [
+        "breakfast",
+        "omelet",
+        "spanish",
+        "potatoes",
+        "baked"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5705 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "sour-cream-coffee-cake-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sour Cream Coffee Cake",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 43",
+      "ingredients": [
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "softened"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "8 oz container",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cream butter and sugar until light and fluffy."
+        },
+        {
+          "step": 2,
+          "text": "Add eggs, one at a time, mixing well after each addition. Blend in vanilla."
+        },
+        {
+          "step": 3,
+          "text": "Add combined dry ingredients alternately with sour cream mixing well after each addition."
+        },
+        {
+          "step": 4,
+          "text": "In another small bowl combine nuts, sugar and cinnamon; mix lightly."
+        },
+        {
+          "step": 5,
+          "text": "Pour half the batter into greased 10\" tube pan. Sprinkle with half the topping mix."
+        },
+        {
+          "step": 6,
+          "text": "Repeat layers."
+        },
+        {
+          "step": 7,
+          "text": "Bake at 350\u00b0F for 45 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Cool 5 minutes and remove from pan."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "cook_time": "45 minutes",
+      "pan_size": "10 inch tube pan",
+      "notes": [],
+      "tags": [
+        "breakfast",
+        "coffee cake",
+        "sour cream",
+        "cinnamon",
+        "streusel"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5705 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "scalloped-eggs-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Scalloped Eggs",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 52",
+      "ingredients": [
+        {
+          "item": "hard boiled eggs",
+          "quantity": "12",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "sm.",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "butter",
+          "quantity": "6",
+          "unit": "tbsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "flour",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "bread crumbs",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cut hard boiled eggs into slices and arrange in shallow buttered 9x13 pan."
+        },
+        {
+          "step": 2,
+          "text": "Cook chopped onion in 2 tablespoons butter until tender."
+        },
+        {
+          "step": 3,
+          "text": "Add 4 more tablespoons butter and 4 tablespoons flour. Cook a minute and stir in 2 cups milk and 1 cup chicken broth."
+        },
+        {
+          "step": 4,
+          "text": "Season with salt and pepper. Cook until thick and pour over eggs."
+        },
+        {
+          "step": 5,
+          "text": "Top with bread crumbs and dot with butter."
+        },
+        {
+          "step": 6,
+          "text": "Bake at 375\u00b0F until hot and brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "9x13 inch pan",
+      "notes": [
+        "Can make night before and refrigerate until morning. Then cook in oven."
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "casserole",
+        "make-ahead",
+        "brunch"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5715 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "do-ahead-brunch-eggs-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Do Ahead Brunch Eggs",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 52",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "doz.",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "mushroom soup",
+          "quantity": "2",
+          "unit": "cans",
+          "prep_note": "warmed"
+        },
+        {
+          "item": "sherry",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "1",
+          "unit": "lg. can",
+          "prep_note": "drained"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "Cheddar cheese",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "grated"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat eggs and milk together."
+        },
+        {
+          "step": 2,
+          "text": "Add sherry and mushrooms to soup."
+        },
+        {
+          "step": 3,
+          "text": "Scramble eggs in butter until just soft. Season with salt and pepper."
+        },
+        {
+          "step": 4,
+          "text": "Put a layer of eggs in a casserole followed by a layer of soup and a layer of cheese. Repeat."
+        },
+        {
+          "step": 5,
+          "text": "Sprinkle with paprika."
+        },
+        {
+          "step": 6,
+          "text": "Can be done ahead to this point."
+        },
+        {
+          "step": 7,
+          "text": "Bake in a 300 degree oven until heated through."
+        }
+      ],
+      "temperature": "300\u00b0F (150\u00b0C)",
+      "notes": [
+        "Perfect for entertaining - can be assembled ahead"
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "casserole",
+        "make-ahead",
+        "brunch",
+        "party"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5715 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "maridadi-eggs-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Maridadi Eggs",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 61",
+      "ingredients": [
+        {
+          "item": "bread",
+          "quantity": "6",
+          "unit": "slices",
+          "prep_note": "lightly toasted on each side"
+        },
+        {
+          "item": "softened butter or herb butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "separated, taking care to keep yolks whole"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Spread one side of each slice of toast with softened butter (or herb butter)."
+        },
+        {
+          "step": 2,
+          "text": "Beat the egg whites with salt until stiff, but not dry."
+        },
+        {
+          "step": 3,
+          "text": "Mound the beaten whites on top of the 6 toast slices."
+        },
+        {
+          "step": 4,
+          "text": "With a spoon, carefully lift one egg yolk and press into the center of the mounded egg whites on each piece of toast."
+        },
+        {
+          "step": 5,
+          "text": "Bake in a very hot oven (475\u00b0F) for 4 to 6 minutes, or until the meringues are lightly browned (the yolks will still be runny)."
+        },
+        {
+          "step": 6,
+          "text": "Serve immediately."
+        }
+      ],
+      "temperature": "475\u00b0F (245\u00b0C)",
+      "cook_time": "4-6 minutes",
+      "servings_yield": "Makes 3 to 6 servings",
+      "notes": [
+        "Yolks will still be runny when done"
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "elegant",
+        "quick"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5725 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "crab-breakfast-casserole-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crab Breakfast Casserole",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 61",
+      "ingredients": [
+        {
+          "item": "bread",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": "remove crusts & cube"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Cheddar cheese",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "grated"
+        },
+        {
+          "item": "crab",
+          "quantity": "1",
+          "unit": "can",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix above together. Add: 1 tsp. dry mustard."
+        },
+        {
+          "step": 2,
+          "text": "Place in a greased 9 x 9 inch casserole dish and let set in refrigerator overnight."
+        },
+        {
+          "step": 3,
+          "text": "Remove from refrigerator 1 hour before baking."
+        },
+        {
+          "step": 4,
+          "text": "Bake in a 325 degree oven for 1 hour."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "cook_time": "1 hour",
+      "pan_size": "9 x 9 inch casserole dish",
+      "notes": [
+        "Must be refrigerated overnight before baking"
+      ],
+      "tags": [
+        "breakfast",
+        "casserole",
+        "crab",
+        "seafood",
+        "make-ahead",
+        "brunch"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5725 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "baked-eggs-sour-cream-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Eggs in Sour Cream",
+      "category": "breakfast",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 61",
+      "description": "Here is a recipe for baking eggs in a delicious sauce. One of these baked eggs makes an ample serving if you spoon over it plenty of the rich cheese and sour cream sauce.",
+      "ingredients": [
+        {
+          "item": "butter or margarine",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "per serving"
+        },
+        {
+          "item": "American cheese",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": "sandwich size, per serving"
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "pt (2 cups)",
+          "prep_note": ""
+        },
+        {
+          "item": "light cream",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt & pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "toast",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "parsley or paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped, for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Grease individual baking dishes with butter."
+        },
+        {
+          "step": 2,
+          "text": "Place cheese slices in bottom of dishes."
+        },
+        {
+          "step": 3,
+          "text": "Carefully crack eggs on top of cheese."
+        },
+        {
+          "step": 4,
+          "text": "Mix sour cream and light cream together, season with salt and pepper."
+        },
+        {
+          "step": 5,
+          "text": "Spoon cream mixture over eggs."
+        },
+        {
+          "step": 6,
+          "text": "Bake until eggs are set."
+        },
+        {
+          "step": 7,
+          "text": "Garnish with parsley or paprika. Serve with toast if desired."
+        }
+      ],
+      "notes": [
+        "One egg makes an ample serving with the rich sauce"
+      ],
+      "tags": [
+        "breakfast",
+        "eggs",
+        "sour cream",
+        "cheese",
+        "elegant"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5725 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          "Recipe instructions partially visible"
+        ]
+      }
+    },
+    {
+      "id": "quick-easy-lemon-coffee-cake-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Quick, Easy Lemon Coffee Cake",
+      "category": "breakfast",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A simple coffee cake made with yellow cake mix and lemon filling.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "yellow cake mix",
+          "quantity": "1",
+          "unit": "box",
+          "prep_note": "Duncan Hines"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for streusel"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for streusel"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for streusel"
+        },
+        {
+          "item": "margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for streusel"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare cake mix according to package directions."
+        },
+        {
+          "step": 2,
+          "text": "Make streusel by combining flour, sugar, cinnamon, and margarine."
+        },
+        {
+          "step": 3,
+          "text": "Pour batter into prepared pan and top with streusel."
+        },
+        {
+          "step": 4,
+          "text": "Bake according to cake mix directions."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Recipe uses lemon filling - see full recipe for details"
+      ],
+      "tags": [
+        "coffee-cake",
+        "breakfast",
+        "easy",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          {
+            "field": "instructions",
+            "issue": "Partial recipe visible",
+            "candidates": []
+          }
+        ]
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5721.jpeg"
+      ]
+    },
+    {
+      "id": "cheese-grits-souffle-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheese Grits Souffle",
+      "category": "breakfast",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A Southern classic - fluffy cheese grits baked into a souffle.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "40-50 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "hominy grits",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "quick cooking"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "lg",
+          "prep_note": "separated"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "sharp cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour grits into boiling salted water in a heavy pan."
+        },
+        {
+          "step": 2,
+          "text": "Stir constantly until thick and perfectly smooth."
+        },
+        {
+          "step": 3,
+          "text": "Add butter, stir and remove from stove."
+        },
+        {
+          "step": 4,
+          "text": "Add cheese, cayenne and egg yolks. Cool a bit."
+        },
+        {
+          "step": 5,
+          "text": "Beat egg whites until stiff but not dry."
+        },
+        {
+          "step": 6,
+          "text": "Fold into grit mixture, leaving large pieces of egg white showing."
+        },
+        {
+          "step": 7,
+          "text": "Pour into 1 1/2 quart buttered casserole."
+        },
+        {
+          "step": 8,
+          "text": "Bake 375\u00b0F (190\u00b0C) for 40 to 50 minutes until top is golden brown and firm in middle."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "1 1/2 quart casserole",
+      "notes": [],
+      "tags": [
+        "grits",
+        "souffle",
+        "cheese",
+        "breakfast",
+        "southern",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5723.jpeg"
+      ]
+    },
+    {
+      "id": "baked-eggs-in-sour-cream-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Baked Eggs in Sour Cream",
+      "category": "breakfast",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A delicious way to bake eggs with plenty of rich cheese and sour cream sauce.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "American cheese",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": "sandwich size"
+        },
+        {
+          "item": "eggs",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": "(2 c.)"
+        },
+        {
+          "item": "light cream",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt & pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "toast",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        },
+        {
+          "item": "parsley or paprika",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped, for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Here is a recipe for baking eggs in a delicious sauce. One of these baked eggs makes an ample serving if you spoon over it plenty of the rich cheese and sour cream sauce. 1 tsp."
+        },
+        {
+          "step": 2,
+          "text": "Place cheese in baking dish and break eggs over cheese."
+        },
+        {
+          "step": 3,
+          "text": "Mix sour cream and light cream together and spoon over eggs."
+        },
+        {
+          "step": 4,
+          "text": "Season with salt and pepper."
+        },
+        {
+          "step": 5,
+          "text": "Bake until eggs are set to desired doneness."
+        },
+        {
+          "step": 6,
+          "text": "Serve over toast if desired, garnished with parsley or paprika."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "eggs",
+        "sour-cream",
+        "cheese",
+        "breakfast",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "medium",
+        "flags": [
+          {
+            "field": "temperature",
+            "issue": "Not specified in original",
+            "candidates": []
+          }
+        ]
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5724.jpeg"
+      ]
+    },
+    {
+      "id": "skillet-orange-coffee-cake-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Skillet Orange Coffee Cake",
+      "category": "breakfast",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A coffee cake baked in an oven-proof skillet with an orange-bread crumb topping.",
+      "servings_yield": "12 servings",
+      "prep_time": "",
+      "cook_time": "25-30 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Pillsbury's best all purpose or unbleached flour",
+          "quantity": "2 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange juice",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dry bread crumbs",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for topping"
+        },
+        {
+          "item": "grated orange peel",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "for topping"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 350\u00b0F (175\u00b0C). Grease 10 inch oven proof skillet."
+        },
+        {
+          "step": 2,
+          "text": "Lightly spoon flour into measuring cup, level off."
+        },
+        {
+          "step": 3,
+          "text": "In large bowl, combine flour, sugar, baking powder and salt."
+        },
+        {
+          "step": 4,
+          "text": "In small bowl, combine orange juice, oil and eggs; add to dry ingredients, mixing well."
+        },
+        {
+          "step": 5,
+          "text": "In small bowl, combine bread crumbs, sugar, cinnamon, margarine and orange peel with fork until crumbly."
+        },
+        {
+          "step": 6,
+          "text": "Pour batter into prepared skillet. Sprinkle topping evenly over batter."
+        },
+        {
+          "step": 7,
+          "text": "Bake at 350\u00b0F for 25 to 30 minutes or until toothpick inserted in center comes out clean."
+        },
+        {
+          "step": 8,
+          "text": "Cool 10 minutes; serve warm. 12 servings."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "10 inch oven-proof skillet",
+      "notes": [],
+      "tags": [
+        "coffee-cake",
+        "breakfast",
+        "orange",
+        "skillet",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5728.jpeg"
+      ]
+    },
+    {
+      "id": "cake-doughnuts-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cake Doughnuts",
+      "category": "breakfast",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "Classic homemade cake doughnuts fried in hot oil until golden brown.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "3 to 3 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix and leave in refrigerator overnight (makes easier to handle)."
+        },
+        {
+          "step": 2,
+          "text": "Roll dough out and cut doughnuts with a cutter."
+        },
+        {
+          "step": 3,
+          "text": "Place in very hot oil."
+        },
+        {
+          "step": 4,
+          "text": "Turn doughnuts as soon as they surface. With hot oil, need to be watched so they won't burn."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Refrigerate dough overnight for easier handling"
+      ],
+      "tags": [
+        "doughnuts",
+        "breakfast",
+        "fried",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5728.jpeg",
+        "FBC Jasmine Cook Book/IMG_5730.jpeg"
+      ]
+    },
+    {
+      "id": "grandmas-fry-cakes-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grandma's Fry Cakes",
+      "category": "breakfast",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "Traditional fry cakes (doughnuts) made with buttermilk and fried in lard or shortening.",
+      "servings_yield": "3 dozen",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ginger",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "flour, sifted",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Beat eggs, add sugar, melted butter, vanilla and buttermilk. Add dry ingredients, mix well."
+        },
+        {
+          "step": 2,
+          "text": "Cover. Store in refrigerator or overnight."
+        },
+        {
+          "step": 3,
+          "text": "Roll dough about 1/2 inch thick, cut out."
+        },
+        {
+          "step": 4,
+          "text": "Fry in hot lard or shortening until brown. Makes 3 dozen."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Store dough in refrigerator or overnight before frying"
+      ],
+      "tags": [
+        "doughnuts",
+        "fry-cakes",
+        "breakfast",
+        "fried",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5730.jpeg",
+        "FBC Jasmine Cook Book/IMG_5731.jpeg"
+      ]
     }
   ]
 }

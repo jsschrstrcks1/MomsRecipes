@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "breads",
-    "count": 284,
+    "count": 301,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -34285,6 +34285,1875 @@
           "Based on 7/7 ingredients (100% coverage)"
         ]
       }
+    },
+    {
+      "id": "southwestern-corn-bread-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Southwestern Corn Bread",
+      "category": "breads",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 80",
+      "servings_yield": "Serves 8 to 10",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornmeal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "shortening",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "2",
+          "unit": "cans (4 oz each)",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 425 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Sift the flour, measure and sift it again with the cornmeal, baking powder, and salt. Beat the egg slightly and add the milk and shortening."
+        },
+        {
+          "step": 3,
+          "text": "Combine the two mixtures, stirring only until mixed. Spoon half the grated cheese in the bottom of a greased 8-inch cast-iron skillet. Spread the green chiles over the cheese and top with the remaining cheese."
+        },
+        {
+          "step": 4,
+          "text": "Pour the cornbread batter over the chile-cheese layer. Bake for 20 minutes or until done."
+        }
+      ],
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "pan_size": "8-inch cast-iron skillet",
+      "notes": [],
+      "tags": [
+        "bread",
+        "cornbread",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6063 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "sour-cream-corn-bread-gcb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sour Cream Corn Bread",
+      "category": "breads",
+      "attribution": "Green Chile Bible",
+      "source_note": "Cookbook page 80",
+      "servings_yield": "Serves 6 to 9",
+      "ingredients": [
+        {
+          "item": "yellow cornmeal",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "creamed cream-style corn",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream or milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon drippings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "well beaten"
+        },
+        {
+          "item": "cheddar cheese",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "grated"
+        },
+        {
+          "item": "green chiles",
+          "quantity": "1",
+          "unit": "can (4 oz)",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 350 degrees."
+        },
+        {
+          "step": 2,
+          "text": "Stir together the cornmeal, salt, and baking powder. Add the corn, sour cream, melted butter, eggs, cheese, and chiles."
+        },
+        {
+          "step": 3,
+          "text": "Stir until well blended. Pour into a greased 9-inch square baking dish and bake for 1 hour or until done."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "9-inch square baking dish",
+      "notes": [],
+      "tags": [
+        "bread",
+        "cornbread",
+        "sour cream",
+        "green chile",
+        "cheese"
+      ],
+      "image_refs": [
+        "Green Chile Bible/IMG_6063 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "cakes-of-barley-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cakes of Barley",
+      "category": "breads",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 97",
+      "ingredients": [
+        {
+          "item": "honey",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "hot milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "barley flour",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat olive oil in heavy skillet. Combine all ingredients, shape into balls, then flatten. Fry in additional hot oil five minutes on each side. Can also be baked 25 minutes in preheated 400\u00b0 oven."
+        }
+      ],
+      "temperature": "400\u00b0F (205\u00b0C) if baking",
+      "notes": [],
+      "tags": [
+        "bread",
+        "barley",
+        "raisins",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6205 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "1 loaf (12-16 slices)"
+    },
+    {
+      "id": "methuselahs-egg-bread-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Methuselah's Egg Bread",
+      "category": "breads",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 134",
+      "ingredients": [
+        {
+          "item": "dry yeast",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water (105\u00b0)",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "scalded milk (cool to 105\u00b0)",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "date sugar (or 1 tbsp honey)",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "regular all-purpose flour",
+          "quantity": "6-6 1/2",
+          "unit": "cups",
+          "prep_note": "sift before measuring"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pour yeast into a bowl, add water and stir until dissolved."
+        },
+        {
+          "step": 2,
+          "text": "Break 2 eggs into a 2-cup measure. Beat in scalded and cooled milk to make 1 1/2 cups."
+        },
+        {
+          "step": 3,
+          "text": "Add the melted butter, salt and sugar or honey. Stir until well blended. Add 3 cups of flour, a little at a time. Add a 4th cup and beat until dough is smooth and elastic. Mix in the 5th cup of flour to make a stiff dough."
+        },
+        {
+          "step": 4,
+          "text": "Measure the 6th cup of flour and sprinkle about half of it on the board. Turn out dough onto heavily floured area of the board. Keep a coating of flour on the dough as you begin to knead with floured hands. Add more flour to board until the dough no longer sticks."
+        },
+        {
+          "step": 5,
+          "text": "When dough is smooth and satiny, put it in a bowl oiled with part of the olive oil. Use the rest to lightly oil the top of the dough. Cover with a clean towel and let rise in a warm place (about 80\u00b0) for about 1-1/2 hours. Dough should have risen to almost double in size. Test by inserting two fingers 1/2 inch into the risen dough. If the indentations remain, the dough is ready to shape."
+        },
+        {
+          "step": 6,
+          "text": "Punch dough down and squeeze out all the air bubbles. Divide the dough in half; then divide each half into 3 parts. Roll each into a strand and braid three strands together, pinching ends to seal."
+        },
+        {
+          "step": 7,
+          "text": "Let the two loaves rise on a lightly oiled (or buttered) baking sheet. Let rise in a warm place another 45 minutes or until dough has again almost doubled."
+        },
+        {
+          "step": 8,
+          "text": "Preheat oven to 350\u00b0."
+        },
+        {
+          "step": 9,
+          "text": "Brush tops with slightly beaten egg and bake 30-35 minutes or until nicely browned."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "bread",
+        "egg bread",
+        "braided",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6237 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "1 loaf (12-16 slices)"
+    },
+    {
+      "id": "sweet-anise-challah-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sweet Anise Challah",
+      "category": "breads",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 137",
+      "ingredients": [
+        {
+          "item": "yeast",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter, honey, and milk",
+          "quantity": "1/2",
+          "unit": "cup each",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "unbleached flour",
+          "quantity": "3 1/2",
+          "unit": "cups",
+          "prep_note": "sifted"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "slightly beaten"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange peel",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "shredded"
+        },
+        {
+          "item": "anise seed",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soften the yeast in the warm water. In a separate saucepan, scald milk by bringing it just to a boil. Add butter, honey, and salt to the saucepan, stirring until the butter melts. Cool to lukewarm. Add 1 cup of the sifted flour, beat well. Add yeast, egg, orange juice, orange peel, and anise seed. Beat well. Add the rest of the flour."
+        },
+        {
+          "step": 2,
+          "text": "Turn out on lightly floured surface, knead until smooth and elastic (8-10 minutes). Place in lightly greased bowl, turning once to oil the surface. Cover and let double in a warm place, about 1 1/2 hours."
+        },
+        {
+          "step": 3,
+          "text": "Punch down. Let rest 10 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Divide into four pieces. Roll into strands. Braid three strands together, pinching ends to seal and pulling the braids tight; then bring two ends together, forming a circle. Divide the fourth section into three strands, braid and place on top of round loaf. Place on oiled cookie sheet. Cover. Let double about 45 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Preheat oven to 350\u00b0."
+        },
+        {
+          "step": 6,
+          "text": "Brush tops with egg wash (one egg mixed with 2 tbsp water). Bake 35-40 minutes. Place tented foil over the top for the last 20 minutes. Test for doneness by inserting a straw or cake tester. When it emerges clean, remove loaf from pan, and cool."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "bread",
+        "challah",
+        "anise",
+        "orange",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6240 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "1 loaf (12-16 slices)"
+    },
+    {
+      "id": "not-for-prophet-bread-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Not For Prophet Bread",
+      "category": "breads",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 144",
+      "ingredients": [
+        {
+          "item": "dry yeast",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sourdough starter",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "olive oil",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cream",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "unbleached flour",
+          "quantity": "3 1/2-4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "shredded Cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "additional oil and butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dissolve yeast in warm water with honey in large bowl. Add starter with salt, oil, and cream. Gradually add flour, stirring with wooden spoon, until mixture pulls away from sides of bowl. Turn out onto a floured surface and knead 5-7 minutes until smooth. Saute onion in butter."
+        },
+        {
+          "step": 2,
+          "text": "Roll out dough to an 8\" x 10\" rectangle. Sprinkle with cheese and sauteed onion. Roll up like a jelly roll, starting with the narrow side. Place in oiled loaf pan. Brush top with oil. Cover with a cloth, place in warm, draft-free place. Let rise until doubled in size."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 350\u00b0."
+        },
+        {
+          "step": 4,
+          "text": "Bake for 50 minutes or until done. Brush top with melted butter. Makes one loaf."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "bread",
+        "sourdough",
+        "cheese",
+        "onion",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6248 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "1 loaf (12-16 slices)"
+    },
+    {
+      "id": "raisin-cain-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Raisin Cain",
+      "category": "breads",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 145",
+      "ingredients": [
+        {
+          "item": "sourdough starter",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lukewarm milk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "honey",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "beaten egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "anise extract",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "unbleached flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "With the sourdough starter in a large mixing bowl, add milk, honey, butter, salt, egg, cinnamon, anise, and mix thoroughly. Add nuts. Combine raisins and flour. Gradually add to batter while stirring. Cover with a cloth."
+        },
+        {
+          "step": 2,
+          "text": "Place in warm, draft-free place. Let rise about 1 hour or until doubled in size. Stir batter down. Place in oiled nine-inch loaf pan. Let rise again."
+        },
+        {
+          "step": 3,
+          "text": "Preheat oven to 350\u00b0. Bake for 40-45 minutes or until golden brown. Makes 1 loaf."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "bread",
+        "sourdough",
+        "raisins",
+        "walnuts",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6249 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "1 loaf (12-16 slices)"
+    },
+    {
+      "id": "cheesed-popovers-cwa",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheesed Popovers",
+      "category": "breads",
+      "attribution": "Cooking With the Ancients",
+      "source_note": "Cookbook page 147",
+      "ingredients": [
+        {
+          "item": "unbleached pastry flour",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sifted"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "melted butter",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "grated Cheddar cheese",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "additional butter or olive oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to grease muffin tins"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a bowl, mix flour with salt. Add butter, eggs, and milk. Beat until very smooth, scraping bowl frequently. Add cheese. Mix until just blended."
+        },
+        {
+          "step": 2,
+          "text": "Pour into well-buttered muffin tins, filling 1/2 full. Place in a cold oven, setting the heat to 450\u00b0. Bake 15 minutes, reduce heat to 350\u00b0 and bake another 15-20 minutes."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C) then 350\u00b0F (175\u00b0C)",
+      "notes": [],
+      "tags": [
+        "bread",
+        "popovers",
+        "cheese",
+        "biblical"
+      ],
+      "image_refs": [
+        "Cooking With the Ancients/IMG_6251 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "1 loaf (12-16 slices)"
+    },
+    {
+      "id": "banana-nut-muffins-gahb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Banana-Nut Muffins",
+      "category": "breads",
+      "attribution": "Great American Home Baking",
+      "source_note": "FBC Jasmine Cook Book - Card 6, Quick Breads & Muffins section",
+      "description": "Use ripe bananas, and you'll be pleasantly surprised with extra-sweet, moist wholesome muffins",
+      "prep_time": "10 minutes",
+      "cook_time": "15-18 minutes",
+      "servings_yield": "12 muffins",
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "ingredients": [
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "1 stick, softened"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "large eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "ripe bananas",
+          "quantity": "2",
+          "unit": "large",
+          "prep_note": "mashed"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pecans",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "vanilla extract",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 400\u00b0F. Grease 12 standard size muffin-pan cups or use paper liners."
+        },
+        {
+          "step": 2,
+          "text": "Beat together butter and sugar at medium speed until light and fluffy. Add eggs, 1 at a time, beating well after each addition. Beat in bananas until smooth."
+        },
+        {
+          "step": 3,
+          "text": "Mix together flour, salt, baking powder, and baking soda."
+        },
+        {
+          "step": 4,
+          "text": "Alternately stir flour mixture and buttermilk into egg mixture until dry ingredients are just moistened."
+        },
+        {
+          "step": 5,
+          "text": "Stir in nuts and vanilla. Do not overmix batter; it should not be completely smooth."
+        },
+        {
+          "step": 6,
+          "text": "Spoon batter into prepared pan, filling two-thirds full. Bake until lightly golden, 15 to 18 minutes. Transfer muffin-pan cups to a wire rack to cool slightly. Turn out onto rack. Serve warm."
+        }
+      ],
+      "notes": [
+        "When adding liquid to flour mixture, stir only until dry ingredients are moistened.",
+        "If you do not have sufficient batter to fill every muffin cup, fill empty cups halfway with water so pan doesn't warp.",
+        "To test freshness of baking powder, mix 1 teaspoon of baking powder with 1/2 cup hot water; if mixture does not foam, the powder is stale and should not be used."
+      ],
+      "tags": [
+        "muffins",
+        "banana",
+        "nuts",
+        "quick bread",
+        "breakfast"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5641 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "healthy-apple-walnut-muffins-gahb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Healthy Apple-Walnut Muffins",
+      "category": "breads",
+      "attribution": "Great American Home Baking",
+      "source_note": "FBC Jasmine Cook Book - Card 6, Quick Breads & Muffins",
+      "description": "Made with no added fat or sugar, these tasty muffins use fruit and buttermilk to keep them moist",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "servings_yield": "12 muffins",
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "3/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground ginger",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground allspice",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground nutmeg",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "rounded"
+        },
+        {
+          "item": "large eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "frozen apple juice concentrate",
+          "quantity": "1",
+          "unit": "cup plus 2 tbsp",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "oat bran",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "Granny Smith apples",
+          "quantity": "2",
+          "unit": "small",
+          "prep_note": "peeled, cored, and chopped"
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "about 1 1/4 ounces"
+        },
+        {
+          "item": "Granny Smith apple",
+          "quantity": "1",
+          "unit": "small",
+          "prep_note": "peeled, cored, cut into 12 thin slices, for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 375\u00b0F. Grease 12 standard size muffin-pan cups or line with paper liners."
+        },
+        {
+          "step": 2,
+          "text": "Mix together flour, baking soda, cinnamon, ginger, allspice, nutmeg, and salt."
+        },
+        {
+          "step": 3,
+          "text": "Mix together eggs, apple juice, and buttermilk."
+        },
+        {
+          "step": 4,
+          "text": "Stir flour mixture and oat bran into egg mixture until dry ingredients are just moistened. Do not overmix. Gently stir in chopped apples and nuts."
+        },
+        {
+          "step": 5,
+          "text": "Spoon batter into prepared pan, filling cups two-thirds full. Garnish each muffin with an apple slice."
+        },
+        {
+          "step": 6,
+          "text": "Bake muffins until lightly golden and tops spring back when pressed, 25 minutes. Transfer pan to a wire rack to cool slightly. Turn muffins out onto rack to cool completely."
+        }
+      ],
+      "notes": [
+        "Instead of frozen apple juice concentrate, use other bottled fruit juice concentrates like papaya, pineapple, or mango"
+      ],
+      "tags": [
+        "muffins",
+        "apple",
+        "healthy",
+        "no added sugar",
+        "breakfast"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5642 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "buttermilk-biscuits-gahb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Buttermilk Biscuits",
+      "category": "breads",
+      "attribution": "Great American Home Baking",
+      "source_note": "FBC Jasmine Cook Book",
+      "description": "The buttermilk makes this traditional Southern specialty especially light and tender",
+      "prep_time": "15 minutes",
+      "cook_time": "12-15 minutes",
+      "servings_yield": "12 biscuits",
+      "temperature": "425\u00b0F (220\u00b0C)",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "baking soda",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chilled solid vegetable shortening",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat the oven to 425\u00b0F. In a large bowl, sift together flour, baking powder, salt, and baking soda. Using a pastry blender or 2 knives, cut the shortening into the flour mixture until coarse crumbs form."
+        },
+        {
+          "step": 2,
+          "text": "Add the buttermilk, tossing with a fork until a dough forms."
+        },
+        {
+          "step": 3,
+          "text": "Turn dough out onto a lightly floured surface. Gather into a disk. Knead lightly a few times just until smooth. (The dough can be made up to 2 hours ahead, wrapped in plastic wrap, and refrigerated until ready to use.)"
+        },
+        {
+          "step": 4,
+          "text": "Pat the dough to 3/4-inch thick. Using a biscuit cutter or a glass dipped in flour, cut out biscuits. Place the biscuits, 2 inches apart, on an ungreased baking sheet. Gather dough trimmings, pat to 3/4-inch thick, and cut out more biscuits."
+        },
+        {
+          "step": 5,
+          "text": "Bake biscuits until golden, 12 to 15 minutes. Serve hot."
+        }
+      ],
+      "notes": [
+        "To produce flaky biscuits, take care not to overhandle the dough. For less waste and a speedier preparation, pat the dough into a square, then cut into square-shape biscuits with a floured knife."
+      ],
+      "tags": [
+        "biscuits",
+        "quick bread",
+        "Southern",
+        "breakfast"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5643 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "butter-crescents-gahb",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Butter Crescents",
+      "category": "breads",
+      "attribution": "Great American Home Baking",
+      "source_note": "FBC Jasmine Cook Book - Card 4, Biscuits & Rolls",
+      "description": "Start the day on a high note with a cup of tea and these melt-in-your-mouth crescents",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "1 hour 40 minutes rising and resting",
+      "servings_yield": "1 dozen crescents",
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "1 stick, softened"
+        },
+        {
+          "item": "granulated sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "active dry yeast",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "warm water",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "105\u00b0-115\u00b0F"
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "lightly beaten"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "large egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "lightly beaten, for glaze"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan, heat milk until bubbles appear around edges of pan. Combine butter, sugar, and salt. Add hot milk; stir well. Cool to lukewarm (95-100\u00b0F)."
+        },
+        {
+          "step": 2,
+          "text": "In a small bowl, dissolve yeast in warm water. Let stand until foamy, 5 to 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Beat yeast mixture and egg into milk mixture at low speed. Beat in 2 cups of flour at low speed until smooth. Continue beating until thick. Mix in enough remaining flour until dough pulls away from sides of bowl."
+        },
+        {
+          "step": 4,
+          "text": "On a floured surface, knead dough very gently until smooth and elastic, 2 to 3 minutes. Place in a large greased bowl, turning to coat. Cover loosely with a damp cloth; let rise in a warm place until doubled, 1 hour."
+        },
+        {
+          "step": 5,
+          "text": "Punch down dough. On a floured surface, divide dough in half. Cover with a damp cloth; let rest for 10 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Grease 2 baking sheets. Using a floured rolling pin, roll 1 dough half into a 12-inch circle. Cut circle into 6 wedges. Starting at side opposite point, roll up each wedge. Place, point-sides down, on prepared baking sheets. Curve ends to form crescents. Repeat with remaining dough half."
+        },
+        {
+          "step": 7,
+          "text": "Cover loosely with a damp cloth; let rise in a warm place until almost doubled, 30 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Preheat oven to 400\u00b0F. Brush crescents with glaze. Bake until golden, 15 minutes. Transfer to a wire rack to cool."
+        }
+      ],
+      "notes": [
+        "Knead dough very gently to keep rolls tender"
+      ],
+      "tags": [
+        "rolls",
+        "yeast bread",
+        "crescents",
+        "breakfast"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5644 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "onion-bread-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Onion Bread",
+      "category": "breads",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 23",
+      "ingredients": [
+        {
+          "item": "egg white",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "dry yeast",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "unsifted flour",
+          "quantity": "3 to 3 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "lukewarm water",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced bacon",
+          "quantity": "6",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "onions",
+          "quantity": "2",
+          "unit": "med.",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "egg yolk",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix white and sugar in water, let set until foamy."
+        },
+        {
+          "step": 2,
+          "text": "Beat egg white, add yeast mixture, 1 1/2 teaspoons salt and oil. Mix in flour to make a stiff dough, knead."
+        },
+        {
+          "step": 3,
+          "text": "Place dough in greased bowl and turn to grease top, let rise 1/2 hour."
+        },
+        {
+          "step": 4,
+          "text": "In the meantime prepare topping. Cut bacon into small pieces, fry until fat is translucent. Add onions and fry until limp. Sprinkle with salt and pepper and remove from heat."
+        },
+        {
+          "step": 5,
+          "text": "Punch down dough and press into a lightly greased 12 inch pizza pan."
+        },
+        {
+          "step": 6,
+          "text": "Sprinkle onions and bacon on top. Bake in a 400 degree oven 20 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Blend egg yolk and sour cream. Pour over onions and bacon, bake 10-15 minutes or until golden and sour cream is set. Serve warm."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "cook_time": "30-35 minutes",
+      "servings_yield": "Serves 8",
+      "pan_size": "12 inch pizza pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "yeast",
+        "onion",
+        "bacon",
+        "german"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5685 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "blueberry-buttermilk-muffins-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Blueberry Buttermilk Muffins",
+      "category": "breads",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 23",
+      "ingredients": [
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "melted"
+        },
+        {
+          "item": "eggs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "baking powder",
+          "quantity": "2 1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "blueberries",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "fresh or dry-pack frozen"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 400\u00b0F. Grease muffin cups or line with paper liners."
+        },
+        {
+          "step": 2,
+          "text": "Mix dry ingredients together."
+        },
+        {
+          "step": 3,
+          "text": "Combine buttermilk, melted butter, and eggs."
+        },
+        {
+          "step": 4,
+          "text": "Add wet ingredients to dry ingredients and stir just until moistened."
+        },
+        {
+          "step": 5,
+          "text": "Fold in blueberries."
+        },
+        {
+          "step": 6,
+          "text": "Fill muffin cups 2/3 full."
+        },
+        {
+          "step": 7,
+          "text": "Bake until golden brown and toothpick comes out clean."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C)",
+      "notes": [],
+      "tags": [
+        "bread",
+        "muffins",
+        "blueberry",
+        "breakfast",
+        "buttermilk"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5685 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "servings_yield": "Makes 12 muffins"
+    },
+    {
+      "id": "broccoli-cheddar-rolls-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broccoli Cheddar Rolls",
+      "category": "breads",
+      "attribution": "F.B.C. of Jasmine Lakes Cookbook",
+      "source_note": "Church cookbook page 48",
+      "ingredients": [
+        {
+          "item": "frozen bread dough",
+          "quantity": "1",
+          "unit": "lb loaf",
+          "prep_note": "thawed"
+        },
+        {
+          "item": "frozen chopped broccoli",
+          "quantity": "1",
+          "unit": "10 oz pkg",
+          "prep_note": "thawed and drained well"
+        },
+        {
+          "item": "lowfat Cheddar cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "dried chopped onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "egg or egg substitute",
+          "quantity": "1 or 1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "onion powder",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "melted"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "On a lightly floured board, roll thawed dough out to a 12 inch square."
+        },
+        {
+          "step": 2,
+          "text": "Combine remaining ingredients (except margarine) in a small bowl."
+        },
+        {
+          "step": 3,
+          "text": "Spread filling mixture over dough."
+        },
+        {
+          "step": 4,
+          "text": "Roll up tightly in jelly-roll fashion, pinch along edges to seal."
+        },
+        {
+          "step": 5,
+          "text": "Slice roll into 8 pieces. Cut each slice in half again not cutting all the way through."
+        },
+        {
+          "step": 6,
+          "text": "Fan out sides to form butterfly shaped rolls."
+        },
+        {
+          "step": 7,
+          "text": "Place on lightly greased cookie sheet, brush with melted margarine, and let rise for 45 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Bake at 375\u00b0F for 25 minutes or until golden brown."
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "cook_time": "25 minutes",
+      "servings_yield": "8 servings",
+      "notes": [
+        "Variation: Add 1 cup diced cooked chicken, turkey, or ham to filling",
+        "This recipe can be made ahead of time and frozen"
+      ],
+      "tags": [
+        "bread",
+        "rolls",
+        "broccoli",
+        "cheese",
+        "make-ahead"
+      ],
+      "image_refs": [
+        "FBC Jasmine Cook Book/processed/IMG_5710 Medium.jpeg"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      }
+    },
+    {
+      "id": "bacon-pepper-bread-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Bacon Pepper Bread",
+      "category": "breads",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A savory yeast bread with bacon and black pepper, perfect for sandwiches.",
+      "servings_yield": "2 loaves",
+      "prep_time": "",
+      "cook_time": "45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "unsifted flour",
+          "quantity": "7 1/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "coarsely ground"
+        },
+        {
+          "item": "dry yeast",
+          "quantity": "2",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon",
+          "quantity": "1/2",
+          "unit": "lb",
+          "prep_note": "crisp cooked and crumbled"
+        },
+        {
+          "item": "reserved bacon fat",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "room temperature"
+        },
+        {
+          "item": "sesame seed or poppy seed",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix 2 1/2 cup flour, sugar, salt, pepper and undissolved yeast."
+        },
+        {
+          "step": 2,
+          "text": "Heat milk, water and bacon fat to 120-130\u00b0F. Gradually add to dry ingredients, beat 2 minutes at medium speed of mixer."
+        },
+        {
+          "step": 3,
+          "text": "Add egg and 1 cup flour. Beat at high speed 2 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Stir in crumbled bacon and flour to make soft dough."
+        },
+        {
+          "step": 5,
+          "text": "On floured board knead 4 to 5 minutes. Divide dough in half."
+        },
+        {
+          "step": 6,
+          "text": "Shape into 2 loaves. Place in 2 greased 8 1/2 by 4 1/2 by 2 1/2 inch loaf pans."
+        },
+        {
+          "step": 7,
+          "text": "Cover. Let rise in warm draft-free place until doubled, about 45 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Bake at 375\u00b0F (190\u00b0C) for 30 minutes or until done. Remove from pans, cool on racks."
+        },
+        {
+          "step": 9,
+          "text": "Great for brunch with eggs or with lettuce and tomato and mayo sandwiches!"
+        }
+      ],
+      "temperature": "375\u00b0F (190\u00b0C)",
+      "pan_size": "8 1/2 x 4 1/2 x 2 1/2 inch loaf pans",
+      "notes": [
+        "Brush turnovers with egg white, sprinkle with sesame seed if desired"
+      ],
+      "tags": [
+        "bread",
+        "yeast",
+        "bacon",
+        "savory",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5723.jpeg"
+      ]
+    },
+    {
+      "id": "lemony-poppy-seed-bread-fbc-jasmine",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Lemony Poppy Seed Bread",
+      "category": "breads",
+      "attribution": "FBC Jasmine",
+      "source_note": "First Baptist Church Jasmine cookbook",
+      "description": "A moist quick bread made with cake mix, lemon and poppy seeds.",
+      "servings_yield": "1 loaf",
+      "prep_time": "",
+      "cook_time": "50-60 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "Pillsbury Plus Lemon Cake Mix",
+          "quantity": "1",
+          "unit": "pkg",
+          "prep_note": ""
+        },
+        {
+          "item": "poppy seed",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "oil",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Heat oven to 350\u00b0F (175\u00b0C). Grease and flour 10 inch tube pan or bundt pan."
+        },
+        {
+          "step": 2,
+          "text": "In large bowl, blend all ingredients at low speed until moistened."
+        },
+        {
+          "step": 3,
+          "text": "Beat 2 minutes at medium speed."
+        },
+        {
+          "step": 4,
+          "text": "Pour batter into prepared pan."
+        },
+        {
+          "step": 5,
+          "text": "Bake at 325\u00b0F (165\u00b0C) for 50 to 60 minutes or until toothpick inserted in center comes out clean."
+        },
+        {
+          "step": 6,
+          "text": "Cool 15 minutes; remove from pan."
+        },
+        {
+          "step": 7,
+          "text": "Wrap tightly and store in refrigerator. Yield: 1 loaf."
+        }
+      ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "10 inch tube pan or bundt pan",
+      "notes": [],
+      "tags": [
+        "bread",
+        "quick-bread",
+        "lemon",
+        "poppy-seed",
+        "church-cookbook"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5726.jpeg"
+      ]
     }
   ]
 }
