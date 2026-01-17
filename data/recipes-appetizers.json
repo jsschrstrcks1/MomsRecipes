@@ -2322,61 +2322,78 @@
       "category": "appetizers",
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 159",
-      "description": "If you don't have a fondue pot, just serve this creamy fondue from a casserole dish.",
-      "servings_yield": "Serves 3",
+      "description": "If you don't have a fondue pot, just serve this creamy mixture from a casserole dish",
+      "servings_yield": "serves 3",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
       "ingredients": [
         {
           "item": "dry white wine or apple juice",
-          "quantity": "\u00bd",
-          "unit": "cup"
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
         },
         {
           "item": "shredded American cheese",
           "quantity": "2",
-          "unit": "cups"
+          "unit": "cups",
+          "prep_note": ""
         },
         {
           "item": "dry mustard",
-          "quantity": "\u00bd",
-          "unit": "tsp"
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
         },
         {
-          "item": "package cream cheese with chives, softened",
+          "item": "cream cheese",
           "quantity": "1",
-          "unit": "3-oz"
+          "unit": "3-oz package",
+          "prep_note": "softened, with chives"
         },
         {
-          "item": "Dippers (breadsticks, cubed French bread, fruit wedges, or vegetables)",
+          "item": "Dippers",
           "quantity": "",
-          "unit": ""
+          "unit": "",
+          "prep_note": "breadsticks, cubed French bread, fruit wedges, or vegetables"
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "In a medium saucepan heat wine or juice just till bubbling. Add American cheese and mustard, stirring till smooth and bubbly. Stir in cream cheese; cook and stir over low heat till smooth."
+          "text": "In a medium saucepan heat wine or juice just till bubbling. Add American cheese and mustard."
         },
         {
           "step": 2,
-          "text": "Transfer mixture to a fondue pot. If desired, keep cheese mixture bubbling gently over a fondue burner. Serve with dippers. Serves 3."
+          "text": "Stir till smooth and bubbly. Stir in cream cheese; cook and stir over low heat till smooth."
         },
         {
           "step": 3,
-          "text": "Microwave directions: In 1-quart casserole mix \u00bd cup wine or juice, American cheese, mustard, and cream cheese. Micro-cook on 100% power (high) for 4 to 5 minutes or till melted and bubbly, stir every minute. Serve as above."
+          "text": "Transfer mixture to a fondue pot. If desired, keep cheese mixture bubbling gently over a fondue burner."
+        },
+        {
+          "step": 4,
+          "text": "Serve with dippers."
         }
       ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Microwave directions: In 1-quart casserole mix 1/4 cup wine or juice, American cheese, mustard, and cream cheese. Micro-cook on 100% power (high) for 4 to 5 minutes or till melted and bubbly, stir every minute. Serve as above."
+      ],
       "tags": [
-        "appetizer",
         "fondue",
-        "cheese"
+        "cheese",
+        "appetizer",
+        "dip"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5320 Large.jpeg",
-        "IMG_5321 Large.jpeg"
+        "IMG_5321 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "complete",
@@ -2387,103 +2404,6 @@
           "carbs_g": 4,
           "cholesterol_mg": 1169,
           "sodium_mg": 103
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "cheese-fondue-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cheese Fondue",
-      "category": "appetizers",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 158",
-      "description": "Also makes a great appetizer.",
-      "servings_yield": "5 servings",
-      "ingredients": [
-        {
-          "item": "coarsely shredded Gruy\u00e8re or Swiss cheese (12 ounces)",
-          "quantity": "3",
-          "unit": "cups"
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "2",
-          "unit": "tbsp"
-        },
-        {
-          "item": "garlic, halved",
-          "quantity": "1",
-          "unit": "clove"
-        },
-        {
-          "item": "dry white wine",
-          "quantity": "1 1/4",
-          "unit": "cups"
-        },
-        {
-          "item": "kirsch or dry sherry",
-          "quantity": "1",
-          "unit": "tbsp"
-        },
-        {
-          "item": "Dash ground nutmeg",
-          "quantity": "",
-          "unit": ""
-        },
-        {
-          "item": "Dash pepper",
-          "quantity": "",
-          "unit": ""
-        },
-        {
-          "item": "Dippers (cubed French or Italian bread or raw vegetables)",
-          "quantity": "",
-          "unit": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Bring shredded Gruy\u00e8re or Swiss cheese to room temperature. Toss flour with cheese; set aside. Rub inside of a fondue pot with garlic halves; discard garlic. Set pot aside."
-        },
-        {
-          "step": 2,
-          "text": "In medium saucepan heat wine over medium heat till small bubbles rise to surface. Just before wine boils, reduce heat to low and stir in cheese mixture, a little at a time, stirring constantly and making sure cheese melts before adding more. Stir till mixture bubbles gently."
-        },
-        {
-          "step": 3,
-          "text": "Stir in kirsch or sherry, nutmeg, and pepper. Transfer cheese mixture to the fondue pot; keep mixture bubbling gently over a fondue burner. Serve with bread cubes or raw vegetables. Makes 5 servings."
-        }
-      ],
-      "notes": [
-        "Onion-Cheese Fondue: Prepare as above, except stir 1/2 cup sliced green onion and 1/2 cup shredded carrot into the cheese mixture with the kirsch or sherry.",
-        "Note: For a milder flavor, substitute 1/4 cup chicken broth or water for 1/4 cup of the wine."
-      ],
-      "tags": [
-        "appetizer",
-        "fondue",
-        "cheese",
-        "swiss"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5319 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 359,
-          "fat_g": 22,
-          "protein_g": 21,
-          "carbs_g": 2,
-          "cholesterol_mg": 228,
-          "sodium_mg": 75
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
@@ -2714,101 +2634,6 @@
           "carbs_g": 2,
           "cholesterol_mg": 228,
           "sodium_mg": 75
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "creamy-cheese-fondue-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Creamy Cheese Fondue",
-      "category": "appetizers",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 159",
-      "description": "If you don't have a fondue pot, just serve this creamy mixture from a casserole dish",
-      "servings_yield": "serves 3",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "dry white wine or apple juice",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded American cheese",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "dry mustard",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cream cheese",
-          "quantity": "1",
-          "unit": "3-oz package",
-          "prep_note": "softened, with chives"
-        },
-        {
-          "item": "Dippers",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "breadsticks, cubed French bread, fruit wedges, or vegetables"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a medium saucepan heat wine or juice just till bubbling. Add American cheese and mustard."
-        },
-        {
-          "step": 2,
-          "text": "Stir till smooth and bubbly. Stir in cream cheese; cook and stir over low heat till smooth."
-        },
-        {
-          "step": 3,
-          "text": "Transfer mixture to a fondue pot. If desired, keep cheese mixture bubbling gently over a fondue burner."
-        },
-        {
-          "step": 4,
-          "text": "Serve with dippers."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [
-        "Microwave directions: In 1-quart casserole mix 1/4 cup wine or juice, American cheese, mustard, and cream cheese. Micro-cook on 100% power (high) for 4 to 5 minutes or till melted and bubbly, stir every minute. Serve as above."
-      ],
-      "tags": [
-        "fondue",
-        "cheese",
-        "appetizer",
-        "dip"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5321 Large 2.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 429,
-          "fat_g": 34,
-          "protein_g": 19,
-          "carbs_g": 4,
-          "cholesterol_mg": 1169,
-          "sodium_mg": 103
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
@@ -11930,6 +11755,242 @@
         "cream cheese",
         "foraging",
         "eat the weeds"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "dove-poppers-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Hank's Dove Poppers",
+      "category": "appetizers",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Dove Poppers",
+      "description": "The most popular dove recipe in America - dove breasts with roasted garlic, poblano chiles, wrapped in bacon.",
+      "servings_yield": "6-8 servings as appetizer",
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "dove breasts",
+          "quantity": "16-20",
+          "unit": "",
+          "prep_note": "boneless"
+        },
+        {
+          "item": "cream cheese",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "softened"
+        },
+        {
+          "item": "roasted garlic",
+          "quantity": "1",
+          "unit": "head",
+          "prep_note": "cloves mashed"
+        },
+        {
+          "item": "roasted poblano or Hatch chile",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "seeded and diced"
+        },
+        {
+          "item": "jalape\u00f1o",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "seeded and minced"
+        },
+        {
+          "item": "bacon",
+          "quantity": "8-10",
+          "unit": "slices",
+          "prep_note": "cut in half"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix cream cheese with mashed roasted garlic, diced poblano, and minced jalape\u00f1o. Season with salt and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Butterfly each dove breast if thick, or leave whole if small."
+        },
+        {
+          "step": 3,
+          "text": "Place a spoonful of filling on each dove breast."
+        },
+        {
+          "step": 4,
+          "text": "Roll up and wrap with half a slice of bacon. Secure with a toothpick."
+        },
+        {
+          "step": 5,
+          "text": "Grill over medium-high heat, turning occasionally, until bacon is crispy and dove is cooked through but still pink inside, about 10-15 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Alternatively, bake at 400\u00b0F for 15-20 minutes."
+        }
+      ],
+      "temperature": "400\u00b0F (200\u00b0C) if baking",
+      "pan_size": "",
+      "notes": [
+        "Different from traditional poppers with roasted garlic and poblano instead of just jalape\u00f1o and cheese",
+        "Can use duck, goose, quail, or pheasant breast"
+      ],
+      "tags": [
+        "dove",
+        "poppers",
+        "appetizer",
+        "bacon",
+        "wild game",
+        "grilled"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "deviled-duck-hearts-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Deviled Duck Hearts",
+      "category": "appetizers",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Adapted from Fergus Henderson's The Whole Beast",
+      "description": "British-style deviled hearts dusted with mustard and cayenne, served with watercress. 'Deviled' means anything with mustard and cayenne.",
+      "servings_yield": "4 appetizer servings",
+      "prep_time": "15 minutes",
+      "cook_time": "8 minutes",
+      "ingredients": [
+        {
+          "item": "duck hearts",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "trimmed"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dry mustard",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "duck fat or butter",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "finely grated"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "watercress",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "crusty bread",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Trim hearts: remove the top above the white fat ring (arterial tissue). Leave small hearts whole, halve larger ones."
+        },
+        {
+          "step": 2,
+          "text": "Mix flour, dry mustard, cayenne, and salt together."
+        },
+        {
+          "step": 3,
+          "text": "Dust hearts with the seasoned flour mixture."
+        },
+        {
+          "step": 4,
+          "text": "Heat duck fat in a pan over medium-high heat."
+        },
+        {
+          "step": 5,
+          "text": "Add hearts and saut\u00e9 3-4 minutes, shaking pan to let them roll around."
+        },
+        {
+          "step": 6,
+          "text": "Add grated onion, Worcestershire sauce, and broth."
+        },
+        {
+          "step": 7,
+          "text": "Scrape up browned bits and let sauce reduce to a glaze, about 3 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Stir in parsley and serve immediately with watercress and crusty bread."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Works with any small hearts: chicken, pheasant, grouse, quail, turkey, rabbit",
+        "Teal hearts stay whole, goose hearts should be sliced",
+        "Adapted from Fergus Henderson's nose-to-tail cooking"
+      ],
+      "tags": [
+        "duck",
+        "heart",
+        "organ meat",
+        "british",
+        "appetizer",
+        "wild game"
       ],
       "confidence": {
         "overall": "high",

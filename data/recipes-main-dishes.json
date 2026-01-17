@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "main-dishes",
-    "count": 230,
+    "count": 265,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -2219,72 +2219,98 @@
       "category": "main-dishes",
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 159",
-      "servings_yield": "Serves 6",
-      "temperature": "325\u00b0F (165\u00b0C)",
+      "description": "Layered bread and cheese casserole, perfect for brunch",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "45-50 minutes",
+      "total_time": "",
       "ingredients": [
         {
-          "item": "slices bread, halved diagonally",
+          "item": "bread",
           "quantity": "6",
-          "unit": ""
+          "unit": "slices",
+          "prep_note": "halved diagonally"
         },
         {
-          "item": "slices American or Swiss cheese",
+          "item": "American or Swiss cheese",
           "quantity": "5",
-          "unit": "1-oz"
+          "unit": "1-oz slices",
+          "prep_note": ""
         },
         {
           "item": "eggs",
           "quantity": "4",
-          "unit": ""
+          "unit": "",
+          "prep_note": ""
         },
         {
           "item": "milk",
           "quantity": "2",
-          "unit": "cups"
+          "unit": "cups",
+          "prep_note": ""
         },
         {
           "item": "sliced green onion",
-          "quantity": "\u00bd",
-          "unit": "cup"
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
         },
         {
           "item": "prepared mustard or Dijon-style mustard",
           "quantity": "2",
-          "unit": "tsp"
+          "unit": "tsp",
+          "prep_note": ""
         },
         {
-          "item": "Paprika",
+          "item": "paprika",
           "quantity": "",
-          "unit": ""
+          "unit": "",
+          "prep_note": ""
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves. Beat eggs; stir in milk, onion, mustard, \u00bc teaspoon salt, and \u215b teaspoon pepper. Pour over bread and cheese layers. Sprinkle with paprika. Cover; chill in the refrigerator for 2 to 24 hours."
+          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves."
         },
         {
           "step": 2,
-          "text": "Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes. Serves 6."
+          "text": "Beat eggs; stir in milk, onion, mustard, 1/4 teaspoon salt, and 1/8 teaspoon pepper."
+        },
+        {
+          "step": 3,
+          "text": "Pour over bread and cheese layers. Sprinkle with paprika."
+        },
+        {
+          "step": 4,
+          "text": "Cover; chill in the refrigerator for 2 to 24 hours."
+        },
+        {
+          "step": 5,
+          "text": "Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes."
         }
       ],
+      "temperature": "325\u00b0F (165\u00b0C)",
+      "pan_size": "8x8x2-inch baking dish",
       "notes": [
-        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices.",
+        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices",
         "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
       ],
       "tags": [
-        "main dish",
+        "breakfast",
+        "brunch",
         "cheese",
         "strata",
-        "brunch"
+        "casserole",
+        "make-ahead",
+        "EASY"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5320 Large.jpeg",
-        "IMG_5321 Large.jpeg"
+        "IMG_5321 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "complete",
@@ -2308,117 +2334,141 @@
       "category": "main-dishes",
       "attribution": "Better Homes and Gardens New Cook Book",
       "source_note": "Cookbook page 159",
-      "servings_yield": "Serves 4",
-      "temperature": "350\u00b0F (175\u00b0C)",
+      "description": "Pasta shells stuffed with a rich cheese mixture",
+      "servings_yield": "4 servings",
+      "prep_time": "",
+      "cook_time": "35-40 minutes",
+      "total_time": "",
       "ingredients": [
         {
           "item": "manicotti shells",
           "quantity": "8",
-          "unit": ""
+          "unit": "",
+          "prep_note": ""
         },
         {
           "item": "sliced green onion",
-          "quantity": "\u00bc",
-          "unit": "cup"
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
         },
         {
-          "item": "garlic, minced",
+          "item": "garlic",
           "quantity": "1",
-          "unit": "clove"
+          "unit": "clove",
+          "prep_note": "minced"
         },
         {
           "item": "margarine or butter",
           "quantity": "2",
-          "unit": "tbsp"
+          "unit": "tbsp",
+          "prep_note": ""
         },
         {
           "item": "all-purpose flour",
           "quantity": "2",
-          "unit": "tbsp"
+          "unit": "tbsp",
+          "prep_note": ""
         },
         {
           "item": "milk",
-          "quantity": "1\u00bd",
-          "unit": "cups"
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
         },
         {
           "item": "shredded process Swiss cheese",
-          "quantity": "1",
-          "unit": "cup"
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
         },
         {
           "item": "dry white wine",
-          "quantity": "\u00bc",
-          "unit": "cup"
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
         },
         {
           "item": "beaten egg",
           "quantity": "1",
-          "unit": ""
+          "unit": "",
+          "prep_note": ""
         },
         {
           "item": "ricotta cheese",
           "quantity": "1",
-          "unit": "cup"
+          "unit": "cup",
+          "prep_note": ""
         },
         {
           "item": "shredded mozzarella cheese",
           "quantity": "1",
-          "unit": "cup"
+          "unit": "cup",
+          "prep_note": ""
         },
         {
           "item": "grated Parmesan cheese",
-          "quantity": "\u00bd",
-          "unit": "cup"
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
         },
         {
           "item": "snipped parsley",
-          "quantity": "\u00bc",
-          "unit": "cup"
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
         },
         {
-          "item": "finely shredded lemon peel",
-          "quantity": "\u00bc",
-          "unit": "tsp"
+          "item": "shredded lemon peel",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "finely"
         },
         {
           "item": "ground nutmeg",
-          "quantity": "\u215b",
-          "unit": "tsp"
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
         }
       ],
       "instructions": [
         {
           "step": 1,
-          "text": "Cook manicotti according to package directions (or see chart, page 278); drain. For sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine; stir till cheese melts."
+          "text": "Cook manicotti according to package directions (see chart, page 278); drain."
         },
         {
           "step": 2,
-          "text": "In a bowl stir together egg, ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, peel, and nutmeg. Fill manicotti with ricotta mixture. Arrange in a 12x7\u00bdx2-inch baking dish. Pour sauce over filled shells. Cover and bake in a 350\u00b0 oven for 35 to 40 minutes or till hot. Serves 4."
+          "text": "For sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine; stir till cheese melts."
         },
         {
           "step": 3,
-          "text": "Microwave directions: Cook manicotti as above. For sauce, in a 4-cup measure combine onion, garlic, and margarine. Micro-cook on 100% power (high) for 1\u00bd to 2\u00bd minutes or till onion is tender. Stir in flour. Add 1 cup milk. Stir. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every minute till sauce starts to thicken, then every 30 seconds. Add Swiss cheese and wine; stir till cheese melts. Fill manicotti as above. Pour sauce atop. Cook, covered with vented clear plastic wrap, on high for 4 to 6 minutes or till heated through, turning dish once."
+          "text": "In a bowl stir together egg, ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, peel, and nutmeg. Fill manicotti with ricotta mixture."
+        },
+        {
+          "step": 4,
+          "text": "Arrange in 12x7-1/2x2-inch baking dish. Pour sauce over filled shells. Cover and bake in a 350\u00b0 oven for 35 to 40 minutes or till hot."
         }
       ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "12x7-1/2x2-inch baking dish",
       "notes": [
-        "Spinach Manicotti: Prepare as above, except reduce ricotta to \u00bd cup. Omit mozzarella and parsley. Add \u00bd cup crumbled feta cheese and one 10-ounce package frozen chopped spinach, thawed and drained, to ricotta mixture.",
-        "Creamy Lasagna: Prepare as above, except substitute 8 lasagna noodles for the manicotti. Spread \u00bc cup ricotta mixture over each cooked lasagna noodle. Roll up noodles and place, seam side down, in an 8x8x2-inch baking dish."
+        "Microwave directions: Cook manicotti as above. For sauce, in a 4-cup measure combine onion, garlic, and margarine. Micro-cook on 100% power (high) for 1-1/2 to 2-1/2 minutes or till onion is tender. Stir in flour. Add 1 cup milk. Stir. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every minute till sauce starts to thicken, then every 30 seconds. Add Swiss cheese and wine; stir till cheese melts. Fill manicotti as above. Pour sauce atop. Cook, covered with vented clear plastic wrap, on high for 4 to 6 minutes or till heated through, turning dish once.",
+        "Spinach Manicotti: Prepare as above, except reduce ricotta to 1/2 cup. Omit mozzarella and parsley. Add 1/2 cup crumbled feta cheese and one 10-ounce package frozen chopped spinach, thawed and drained, to ricotta mixture.",
+        "Creamy Lasagna: Prepare as above, except substitute 8 lasagna noodles for the manicotti. Spread 1/4 cup ricotta mixture over each cooked lasagna noodle. Roll up noodles and place, seam side down, in an 8x8x2-inch baking dish."
       ],
       "tags": [
-        "main dish",
         "pasta",
-        "manicotti",
         "cheese",
-        "italian"
+        "Italian",
+        "manicotti",
+        "main dish"
       ],
       "confidence": {
         "overall": "high",
         "flags": []
       },
       "image_refs": [
-        "IMG_5320 Large.jpeg",
-        "IMG_5321 Large.jpeg"
+        "IMG_5321 Large 2.jpeg"
       ],
       "nutrition": {
         "status": "complete",
@@ -2429,6 +2479,165 @@
           "carbs_g": 39,
           "cholesterol_mg": 1026,
           "sodium_mg": 142
+        },
+        "source": "Better Homes and Gardens cookbook nutrition analysis",
+        "assumptions": []
+      }
+    },
+    {
+      "id": "fettuccine-with-cheese-sauce-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Fettuccine with Cheese Sauce",
+      "category": "main-dishes",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 158",
+      "description": "Rich pasta dish with creamy cheese sauce",
+      "servings_yield": "6 servings",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fettuccine or medium noodles",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": ""
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "green onions",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "1",
+          "unit": "clove",
+          "prep_note": "minced"
+        },
+        {
+          "item": "butter or margarine",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/8",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1-3/4",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "Gruyere, Swiss, or American cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "shredded (4 oz)"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "freshly ground pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook fettuccine or noodles according to package directions. Drain; keep warm."
+        },
+        {
+          "step": 2,
+          "text": "For cheese sauce, in a medium saucepan cook bacon till crisp. Remove bacon, reserving 2 tablespoons drippings in pan. Crumble bacon and set aside."
+        },
+        {
+          "step": 3,
+          "text": "Cook mushrooms, green onion, and garlic in reserved drippings till tender but not brown."
+        },
+        {
+          "step": 4,
+          "text": "Stir in butter or margarine till melted."
+        },
+        {
+          "step": 5,
+          "text": "Stir in flour, salt, and pepper. Add milk all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."
+        },
+        {
+          "step": 6,
+          "text": "Add cheese; stir till melted."
+        },
+        {
+          "step": 7,
+          "text": "Stir in bacon and parsley."
+        },
+        {
+          "step": 8,
+          "text": "Serve cheese sauce over hot fettuccine. If desired, sprinkle with freshly ground pepper."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Can substitute butter for bacon drippings if desired"
+      ],
+      "tags": [
+        "pasta",
+        "cheese",
+        "main dish",
+        "bacon"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5319 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "complete",
+        "per_serving": {
+          "calories": 420,
+          "fat_g": 15,
+          "protein_g": 19,
+          "carbs_g": 51,
+          "cholesterol_mg": 819,
+          "sodium_mg": 39
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
@@ -2944,165 +3153,6 @@
           "carbs_g": 46,
           "cholesterol_mg": 1026,
           "sodium_mg": 142
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "fettuccine-with-cheese-sauce-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Fettuccine with Cheese Sauce",
-      "category": "main-dishes",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 158",
-      "description": "Rich pasta dish with creamy cheese sauce",
-      "servings_yield": "6 servings",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "fettuccine or medium noodles",
-          "quantity": "8",
-          "unit": "oz",
-          "prep_note": ""
-        },
-        {
-          "item": "bacon",
-          "quantity": "4",
-          "unit": "slices",
-          "prep_note": ""
-        },
-        {
-          "item": "fresh mushrooms",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "sliced"
-        },
-        {
-          "item": "green onions",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": "sliced"
-        },
-        {
-          "item": "garlic",
-          "quantity": "1",
-          "unit": "clove",
-          "prep_note": "minced"
-        },
-        {
-          "item": "butter or margarine",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "salt",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "pepper",
-          "quantity": "1/8",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "1-3/4",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "Gruyere, Swiss, or American cheese",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": "shredded (4 oz)"
-        },
-        {
-          "item": "snipped parsley",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "freshly ground pepper",
-          "quantity": "",
-          "unit": "",
-          "prep_note": "optional"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Cook fettuccine or noodles according to package directions. Drain; keep warm."
-        },
-        {
-          "step": 2,
-          "text": "For cheese sauce, in a medium saucepan cook bacon till crisp. Remove bacon, reserving 2 tablespoons drippings in pan. Crumble bacon and set aside."
-        },
-        {
-          "step": 3,
-          "text": "Cook mushrooms, green onion, and garlic in reserved drippings till tender but not brown."
-        },
-        {
-          "step": 4,
-          "text": "Stir in butter or margarine till melted."
-        },
-        {
-          "step": 5,
-          "text": "Stir in flour, salt, and pepper. Add milk all at once. Cook and stir till thickened and bubbly. Cook and stir 1 minute more."
-        },
-        {
-          "step": 6,
-          "text": "Add cheese; stir till melted."
-        },
-        {
-          "step": 7,
-          "text": "Stir in bacon and parsley."
-        },
-        {
-          "step": 8,
-          "text": "Serve cheese sauce over hot fettuccine. If desired, sprinkle with freshly ground pepper."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [
-        "Can substitute butter for bacon drippings if desired"
-      ],
-      "tags": [
-        "pasta",
-        "cheese",
-        "main dish",
-        "bacon"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5319 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 420,
-          "fat_g": 15,
-          "protein_g": 19,
-          "carbs_g": 51,
-          "cholesterol_mg": 819,
-          "sodium_mg": 39
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
@@ -4067,279 +4117,6 @@
           "Estimated 6 servings based on total calories",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
-    },
-    {
-      "id": "cheese-strata-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cheese Strata",
-      "category": "main-dishes",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 159",
-      "description": "Layered bread and cheese casserole, perfect for brunch",
-      "servings_yield": "6 servings",
-      "prep_time": "",
-      "cook_time": "45-50 minutes",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "bread",
-          "quantity": "6",
-          "unit": "slices",
-          "prep_note": "halved diagonally"
-        },
-        {
-          "item": "American or Swiss cheese",
-          "quantity": "5",
-          "unit": "1-oz slices",
-          "prep_note": ""
-        },
-        {
-          "item": "eggs",
-          "quantity": "4",
-          "unit": "",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "sliced green onion",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "prepared mustard or Dijon-style mustard",
-          "quantity": "2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "paprika",
-          "quantity": "",
-          "unit": "",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a greased 8x8x2-inch baking dish layer 8 bread-slice halves, the cheese slices, then the remaining bread-slice halves."
-        },
-        {
-          "step": 2,
-          "text": "Beat eggs; stir in milk, onion, mustard, 1/4 teaspoon salt, and 1/8 teaspoon pepper."
-        },
-        {
-          "step": 3,
-          "text": "Pour over bread and cheese layers. Sprinkle with paprika."
-        },
-        {
-          "step": 4,
-          "text": "Cover; chill in the refrigerator for 2 to 24 hours."
-        },
-        {
-          "step": 5,
-          "text": "Bake, uncovered, in a 325\u00b0 oven for 45 to 50 minutes or till set and lightly browned. Let stand 10 minutes."
-        }
-      ],
-      "temperature": "325\u00b0F (165\u00b0C)",
-      "pan_size": "8x8x2-inch baking dish",
-      "notes": [
-        "Vegetable Cheese Strata: Prepare as above, except layer 1 cup chopped cooked broccoli or carrot atop cheese slices",
-        "Meat Cheese Strata: Prepare as above, except layer 1 cup diced fully cooked ham or 1 cup diced cooked chicken or turkey atop cheese slices. (If using ham, omit salt.)"
-      ],
-      "tags": [
-        "breakfast",
-        "brunch",
-        "cheese",
-        "strata",
-        "casserole",
-        "make-ahead",
-        "EASY"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5321 Large 2.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 260,
-          "fat_g": 14,
-          "protein_g": 15,
-          "carbs_g": 19,
-          "cholesterol_mg": 673,
-          "sodium_mg": 213
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "cheese-stuffed-manicotti-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cheese-Stuffed Manicotti",
-      "category": "main-dishes",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 159",
-      "description": "Pasta shells stuffed with a rich cheese mixture",
-      "servings_yield": "4 servings",
-      "prep_time": "",
-      "cook_time": "35-40 minutes",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "manicotti shells",
-          "quantity": "8",
-          "unit": "",
-          "prep_note": ""
-        },
-        {
-          "item": "sliced green onion",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "garlic",
-          "quantity": "1",
-          "unit": "clove",
-          "prep_note": "minced"
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "milk",
-          "quantity": "1-1/2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded process Swiss cheese",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "dry white wine",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "beaten egg",
-          "quantity": "1",
-          "unit": "",
-          "prep_note": ""
-        },
-        {
-          "item": "ricotta cheese",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded mozzarella cheese",
-          "quantity": "1",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "grated Parmesan cheese",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "snipped parsley",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "shredded lemon peel",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": "finely"
-        },
-        {
-          "item": "ground nutmeg",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Cook manicotti according to package directions (see chart, page 278); drain."
-        },
-        {
-          "step": 2,
-          "text": "For sauce, in a saucepan cook onion and garlic in margarine till tender. Stir in flour. Add milk all at once. Cook and stir till thickened and bubbly. Add Swiss cheese and wine; stir till cheese melts."
-        },
-        {
-          "step": 3,
-          "text": "In a bowl stir together egg, ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, peel, and nutmeg. Fill manicotti with ricotta mixture."
-        },
-        {
-          "step": 4,
-          "text": "Arrange in 12x7-1/2x2-inch baking dish. Pour sauce over filled shells. Cover and bake in a 350\u00b0 oven for 35 to 40 minutes or till hot."
-        }
-      ],
-      "temperature": "350\u00b0F (175\u00b0C)",
-      "pan_size": "12x7-1/2x2-inch baking dish",
-      "notes": [
-        "Microwave directions: Cook manicotti as above. For sauce, in a 4-cup measure combine onion, garlic, and margarine. Micro-cook on 100% power (high) for 1-1/2 to 2-1/2 minutes or till onion is tender. Stir in flour. Add 1 cup milk. Stir. Cook on high for 3 to 5 minutes or till thickened and bubbly, stirring every minute till sauce starts to thicken, then every 30 seconds. Add Swiss cheese and wine; stir till cheese melts. Fill manicotti as above. Pour sauce atop. Cook, covered with vented clear plastic wrap, on high for 4 to 6 minutes or till heated through, turning dish once.",
-        "Spinach Manicotti: Prepare as above, except reduce ricotta to 1/2 cup. Omit mozzarella and parsley. Add 1/2 cup crumbled feta cheese and one 10-ounce package frozen chopped spinach, thawed and drained, to ricotta mixture.",
-        "Creamy Lasagna: Prepare as above, except substitute 8 lasagna noodles for the manicotti. Spread 1/4 cup ricotta mixture over each cooked lasagna noodle. Roll up noodles and place, seam side down, in an 8x8x2-inch baking dish."
-      ],
-      "tags": [
-        "pasta",
-        "cheese",
-        "Italian",
-        "manicotti",
-        "main dish"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5321 Large 2.jpeg"
-      ],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 577,
-          "fat_g": 29,
-          "protein_g": 35,
-          "carbs_g": 39,
-          "cholesterol_mg": 1026,
-          "sodium_mg": 142
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
       }
     },
     {
@@ -25147,6 +24924,4850 @@
         "flags": [
           "handle with caution"
         ]
+      },
+      "image_refs": []
+    },
+    {
+      "id": "squirrel-stew-paprika-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Squirrel Stew with Paprika and Greens",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Squirrel Stew with Paprika",
+      "description": "A hearty Cajun-style squirrel stew with smoked sausage, paprika, greens and tomatoes.",
+      "servings_yield": "8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "total_time": "2 hours 20 minutes",
+      "ingredients": [
+        {
+          "item": "squirrels",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "cut into serving pieces"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "flour",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for dusting"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "1",
+          "unit": "heaping tbsp"
+        },
+        {
+          "item": "white wine",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "cider vinegar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dried savory or oregano",
+          "quantity": "1",
+          "unit": "heaping tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "quantity": "1",
+          "unit": "heaping tbsp"
+        },
+        {
+          "item": "whole peeled tomatoes",
+          "quantity": "2-3",
+          "unit": "cups",
+          "prep_note": "torn into large pieces"
+        },
+        {
+          "item": "smoked sausage (kielbasa or linguica)",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "sliced bite-sized"
+        },
+        {
+          "item": "greens (kale, chard, collards, or wild)",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "water",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "approximately"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Season squirrel pieces with salt and dust with flour."
+        },
+        {
+          "step": 2,
+          "text": "Heat olive oil in a heavy Dutch oven over medium-high heat. Brown squirrels in batches without crowding. Set browned pieces aside."
+        },
+        {
+          "step": 3,
+          "text": "Remove all squirrel from pot and add onions. Saut\u00e9 6-8 minutes until edges brown."
+        },
+        {
+          "step": 4,
+          "text": "Add minced garlic and cook 1 minute. Stir in tomato paste and cook 2-3 minutes, stirring frequently."
+        },
+        {
+          "step": 5,
+          "text": "Pour in white wine, vinegar, and approximately 1 quart water. Add savory, red pepper flakes, and paprika."
+        },
+        {
+          "step": 6,
+          "text": "Add torn tomatoes and return squirrel to pot. Bring to simmer and cook approximately 90 minutes until meat falls from bones easily."
+        },
+        {
+          "step": 7,
+          "text": "Remove squirrel pieces and pull meat from bones. Return meat to pot."
+        },
+        {
+          "step": 8,
+          "text": "Add sliced sausage and greens; cook about 10 minutes until greens are tender (collards need 15-20 minutes)."
+        },
+        {
+          "step": 9,
+          "text": "Season to taste and serve with crusty bread."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [
+        "Chicken, turkey, or rabbit can substitute for squirrel",
+        "Better the next day like most stews"
+      ],
+      "tags": [
+        "squirrel",
+        "stew",
+        "cajun",
+        "wild game",
+        "paprika",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "turtle-sauce-piquante-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cajun Turtle Sauce Piquante",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Turtle Sauce Piquante",
+      "description": "A Cajun tomato-based stew with snapping turtle, one of the few Cajun dishes that commonly has tomato in it.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "ingredients": [
+        {
+          "item": "snapping turtle meat",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": "cut into small dice"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "flour",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "diced (part of the holy trinity)"
+        },
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "diced"
+        },
+        {
+          "item": "green bell pepper",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "diced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "white wine",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "crushed tomatoes",
+          "quantity": "1",
+          "unit": "can (28 oz)"
+        },
+        {
+          "item": "hot water or stock",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "Cajun seasoning",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "hot sauce (Tabasco)",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "salt and black pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "green onions",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "sliced, for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make a blonde roux: Melt butter in a Dutch oven over medium heat. Add flour and cook, stirring constantly, until it turns the color of peanut butter (10-15 minutes). Do not let it get darker."
+        },
+        {
+          "step": 2,
+          "text": "Add the holy trinity (onion, celery, bell pepper) and cook until softened, about 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add garlic and cook 1 minute."
+        },
+        {
+          "step": 4,
+          "text": "Add white wine and scrape up any browned bits."
+        },
+        {
+          "step": 5,
+          "text": "Add crushed tomatoes, hot water, bay leaves, and Cajun seasoning. Stir well."
+        },
+        {
+          "step": 6,
+          "text": "Add diced turtle meat. Bring to a simmer."
+        },
+        {
+          "step": 7,
+          "text": "Cook gently for 1.5-2 hours until turtle is tender. The small dice makes tough turtle meat innocuous."
+        },
+        {
+          "step": 8,
+          "text": "Season with salt, pepper, and hot sauce to taste."
+        },
+        {
+          "step": 9,
+          "text": "Serve over white rice, garnished with green onions. Put hot sauce on the table."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [
+        "Turtle uses a blonde (peanut butter colored) roux and white wine, unlike dark meat which uses chocolate-colored roux and red wine",
+        "Alligator, frog legs, squirrel, or chicken thighs work as alternatives",
+        "Better the day after it's made"
+      ],
+      "tags": [
+        "turtle",
+        "snapping turtle",
+        "cajun",
+        "sauce piquante",
+        "wild game",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "braised-squirrel-aurora-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Braised Squirrel Aurora (Spanish Style)",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Braised Squirrel Aurora",
+      "description": "Spanish-style braised squirrel with almonds and green olives.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1.5 hours",
+      "ingredients": [
+        {
+          "item": "squirrels",
+          "quantity": "2-3",
+          "unit": "",
+          "prep_note": "cut into serving pieces"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "white wine",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chicken or squirrel stock",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "blanched almonds",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "green olives",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "pitted"
+        },
+        {
+          "item": "saffron",
+          "quantity": "1",
+          "unit": "pinch",
+          "prep_note": "optional"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "fingerling potatoes",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "optional, to bulk up"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Season squirrel pieces with salt and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Heat olive oil in a Dutch oven or braiser over medium-high heat. Brown squirrel pieces on all sides. Remove and set aside."
+        },
+        {
+          "step": 3,
+          "text": "Add onion and cook until softened, about 5 minutes. Add garlic and cook 1 minute."
+        },
+        {
+          "step": 4,
+          "text": "Add white wine and scrape up browned bits. Add stock, saffron if using, and bay leaf."
+        },
+        {
+          "step": 5,
+          "text": "Return squirrel to pot. Add almonds and olives."
+        },
+        {
+          "step": 6,
+          "text": "Cover and braise at a gentle simmer for 1-1.5 hours until squirrel is tender."
+        },
+        {
+          "step": 7,
+          "text": "If using potatoes, add them in the last 30 minutes of cooking."
+        },
+        {
+          "step": 8,
+          "text": "Remove bay leaf, adjust seasoning, and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven or braiser",
+      "notes": [
+        "Rabbit or chicken can substitute for squirrel",
+        "The almonds and olives are the defining flavors"
+      ],
+      "tags": [
+        "squirrel",
+        "spanish",
+        "braised",
+        "almonds",
+        "olives",
+        "wild game",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "grilled-doves-la-mancha-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grilled Doves La Mancha",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Grilled Doves La Mancha",
+      "description": "Spanish-style grilled doves with herbs and smoked paprika - the ultimate dove recipe.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "30 minutes plus marinating",
+      "ingredients": [
+        {
+          "item": "doves or pigeons",
+          "quantity": "8-12",
+          "unit": "",
+          "prep_note": "whole, spatchcocked"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "smoked paprika (piment\u00f3n)",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fresh rosemary",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "sherry vinegar",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Spatchcock the doves by cutting out the backbone and pressing flat."
+        },
+        {
+          "step": 2,
+          "text": "Mix olive oil, paprika, garlic, thyme, rosemary, salt, pepper, and sherry vinegar to make a paste."
+        },
+        {
+          "step": 3,
+          "text": "Coat doves thoroughly with the paste. Marinate at least 1 hour or overnight."
+        },
+        {
+          "step": 4,
+          "text": "Heat grill to high. Clean and oil the grates."
+        },
+        {
+          "step": 5,
+          "text": "Grill doves skin-side down first for 3-4 minutes until skin is crispy."
+        },
+        {
+          "step": 6,
+          "text": "Flip and grill another 2-3 minutes. Breast meat should be pink (medium)."
+        },
+        {
+          "step": 7,
+          "text": "Rest 5 minutes before serving."
+        }
+      ],
+      "temperature": "high heat grill",
+      "pan_size": "",
+      "notes": [
+        "Grilling is the best way to get crispy skin without overcooking the breast",
+        "Also works with pigeons, squab, teal, woodcock, rails, quail, or Cornish game hens",
+        "Serve medium (pink inside) - not well done"
+      ],
+      "tags": [
+        "dove",
+        "pigeon",
+        "grilled",
+        "spanish",
+        "smoked paprika",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "grilled-deer-heart-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grilled Deer Heart with Peppers and Onions",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Grilled Deer Heart",
+      "description": "Grilled venison heart served with marinated peppers and onions - a celebration of the hunt.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "deer heart",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cleaned and trimmed"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "red wine vinegar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fresh rosemary",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "bell peppers (mixed colors)",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "sliced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Clean heart by trimming off fat, arteries, and silverskin. Slice into 1/2-inch steaks."
+        },
+        {
+          "step": 2,
+          "text": "Mix olive oil, vinegar, garlic, rosemary, salt, and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Marinate heart slices for 30 minutes to 2 hours."
+        },
+        {
+          "step": 4,
+          "text": "Grill peppers and onions over medium heat until charred and softened. Set aside."
+        },
+        {
+          "step": 5,
+          "text": "Grill heart slices over high heat, 2-3 minutes per side for medium-rare."
+        },
+        {
+          "step": 6,
+          "text": "Let rest 5 minutes. Slice against the grain and serve with peppers and onions."
+        }
+      ],
+      "temperature": "high heat grill",
+      "pan_size": "",
+      "notes": [
+        "Works with elk, moose, antelope, or beef heart",
+        "Elk or moose heart feeds up to 6 people",
+        "Serve medium-rare to medium - overcooking makes it tough"
+      ],
+      "tags": [
+        "venison",
+        "deer heart",
+        "offal",
+        "grilled",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "brunswick-stew-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Brunswick Stew",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Brunswick Stew",
+      "description": "Iconic Southern stew traditionally made with squirrel, though many meats work.",
+      "servings_yield": "10-12 servings",
+      "prep_time": "45 minutes",
+      "cook_time": "3 hours",
+      "ingredients": [
+        {
+          "item": "squirrel or rabbit",
+          "quantity": "2-3",
+          "unit": "",
+          "prep_note": "cut up (or 2 lb chicken)"
+        },
+        {
+          "item": "smoked ham hock",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "bacon",
+          "quantity": "4",
+          "unit": "slices",
+          "prep_note": "diced"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "large",
+          "prep_note": "diced"
+        },
+        {
+          "item": "potatoes",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "peeled and cubed"
+        },
+        {
+          "item": "lima beans or butter beans",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "corn kernels",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "tomatoes",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "chicken or game stock",
+          "quantity": "6",
+          "unit": "cups"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "hot sauce",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "apple cider vinegar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Render bacon in a large pot. Remove and set aside."
+        },
+        {
+          "step": 2,
+          "text": "Brown meat pieces in bacon fat. Remove and set aside."
+        },
+        {
+          "step": 3,
+          "text": "Saut\u00e9 onion until softened."
+        },
+        {
+          "step": 4,
+          "text": "Add stock, ham hock, and browned meat. Simmer 2 hours until meat is very tender."
+        },
+        {
+          "step": 5,
+          "text": "Remove meat and ham hock. Shred all meat and discard bones."
+        },
+        {
+          "step": 6,
+          "text": "Add potatoes, cook 15 minutes. Add beans and corn, cook 15 more minutes."
+        },
+        {
+          "step": 7,
+          "text": "Add tomatoes, Worcestershire, hot sauce, vinegar, and brown sugar."
+        },
+        {
+          "step": 8,
+          "text": "Return shredded meat to pot. Simmer 30 minutes, mashing some potatoes to thicken."
+        },
+        {
+          "step": 9,
+          "text": "Season with salt and pepper. Serve with cornbread."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large pot or Dutch oven",
+      "notes": [
+        "Squirrel is traditional but chicken is common now",
+        "Virginia claims this stew originated there, Georgia disputes this",
+        "Stew should be thick enough to eat with a fork"
+      ],
+      "tags": [
+        "brunswick stew",
+        "squirrel",
+        "southern",
+        "stew",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "wild-hog-bbq-pulled-pork-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Hog BBQ (Pulled Pork)",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Wild Hog BBQ",
+      "description": "Slow-smoked wild hog shoulder for pulled pork - takes longer than domestic pork.",
+      "servings_yield": "12-16 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "10-14 hours",
+      "ingredients": [
+        {
+          "item": "wild hog shoulder",
+          "quantity": "8-10",
+          "unit": "lb",
+          "prep_note": "bone-in"
+        },
+        {
+          "item": "yellow mustard",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "as binder"
+        },
+        {
+          "item": "brown sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "paprika",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion powder",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cayenne",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "apple cider vinegar",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for spritzing"
+        },
+        {
+          "item": "BBQ sauce",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix dry rub ingredients (brown sugar through salt)."
+        },
+        {
+          "step": 2,
+          "text": "Coat shoulder with mustard, then apply rub liberally. Let sit overnight in refrigerator."
+        },
+        {
+          "step": 3,
+          "text": "Set up smoker for 225-250\u00b0F. Use oak, hickory, or fruit wood."
+        },
+        {
+          "step": 4,
+          "text": "Smoke shoulder fat-side up. Spritz with vinegar every hour after first 3 hours."
+        },
+        {
+          "step": 5,
+          "text": "When internal temp reaches 165\u00b0F (usually 6-8 hours), wrap tightly in foil or butcher paper."
+        },
+        {
+          "step": 6,
+          "text": "Continue cooking until internal temp reaches 200-205\u00b0F and probe slides in easily."
+        },
+        {
+          "step": 7,
+          "text": "Rest wrapped for at least 1 hour."
+        },
+        {
+          "step": 8,
+          "text": "Pull meat, discarding fat and bone. Mix with BBQ sauce or serve sauce on the side."
+        }
+      ],
+      "temperature": "225-250\u00b0F smoker",
+      "pan_size": "",
+      "notes": [
+        "Wild hog takes longer than domestic due to less fat",
+        "Internal temp of 200-205\u00b0F is key for proper texture",
+        "Can finish in 300\u00b0F oven if needed"
+      ],
+      "tags": [
+        "wild boar",
+        "bbq",
+        "pulled pork",
+        "smoked",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "roast-snipe-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Snipe",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Roast Snipe",
+      "description": "Simple roast snipe over a bed of sea beans - a rare treat with flavor all out of proportion to its size.",
+      "servings_yield": "2 servings as appetizer, or 1 as main",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "snipe",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "plucked, gutted"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "sea beans or samphire",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "optional, for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 450\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Pat snipe dry and season inside and out with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Rub softened butter over the birds and sprinkle with thyme."
+        },
+        {
+          "step": 4,
+          "text": "Roast in hot oven for 12-15 minutes for medium-rare."
+        },
+        {
+          "step": 5,
+          "text": "Rest 5 minutes before serving."
+        },
+        {
+          "step": 6,
+          "text": "Serve over blanched sea beans or samphire if available."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "roasting pan",
+      "notes": [
+        "One snipe makes a great appetizer, four make a hearty meal",
+        "Snipe has intense flavor despite small size",
+        "Cook medium-rare to medium"
+      ],
+      "tags": [
+        "snipe",
+        "roasted",
+        "wild game",
+        "shorebird",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "fried-snipe-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Jesse's Hot Fried Snipe",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Fried Snipe",
+      "description": "Southern-style fried snipe doused with a hot sauce, honey, butter and garlic glaze.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "snipe",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "split in half"
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "cayenne",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "hot sauce",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak split snipe in buttermilk for at least 30 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Mix flour with salt, pepper, and cayenne."
+        },
+        {
+          "step": 3,
+          "text": "Heat oil to 350\u00b0F in a deep pan or fryer."
+        },
+        {
+          "step": 4,
+          "text": "Dredge snipe in seasoned flour, shaking off excess."
+        },
+        {
+          "step": 5,
+          "text": "Fry until golden and cooked through, about 4-5 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Meanwhile, melt butter with hot sauce, honey, and garlic."
+        },
+        {
+          "step": 7,
+          "text": "Drain fried snipe and immediately toss with the hot butter sauce."
+        },
+        {
+          "step": 8,
+          "text": "Serve immediately."
+        }
+      ],
+      "temperature": "350\u00b0F oil",
+      "pan_size": "deep fryer or heavy pot",
+      "notes": [
+        "Also works with doves and quail",
+        "From Jesse Griffiths' book Afield"
+      ],
+      "tags": [
+        "snipe",
+        "fried",
+        "southern",
+        "wild game",
+        "hot sauce"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "salmis-of-snipe-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salmis of Snipe",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Salmis of Snipe",
+      "description": "A classic French snipe recipe where birds are roasted, sauce made from bones, served with mushrooms.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "snipe",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "plucked and gutted"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "shallots",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "cremini or wild mushrooms",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "red wine",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "game or chicken stock",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "Cognac or brandy",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "toast points",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roast snipe at 450\u00b0F for 10-12 minutes until medium-rare. Let rest."
+        },
+        {
+          "step": 2,
+          "text": "Remove breasts and legs from carcasses. Set meat aside, keeping warm."
+        },
+        {
+          "step": 3,
+          "text": "Chop carcasses and saut\u00e9 in butter over high heat for 5 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Add shallots and mushrooms, cook until mushrooms release liquid."
+        },
+        {
+          "step": 5,
+          "text": "Add wine, stock, thyme, and bay leaf. Simmer 30 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Strain sauce, pressing on solids. Return to pan and reduce by half."
+        },
+        {
+          "step": 7,
+          "text": "Add Cognac and reserved mushrooms. Season with salt and pepper."
+        },
+        {
+          "step": 8,
+          "text": "Arrange snipe pieces on toast points and spoon sauce over."
+        }
+      ],
+      "temperature": "450\u00b0F for roasting",
+      "pan_size": "",
+      "notes": [
+        "Classic French technique called 'salmis'",
+        "The sauce from the bones is the star",
+        "Works with woodcock, dove, or squab"
+      ],
+      "tags": [
+        "snipe",
+        "french",
+        "salmis",
+        "mushrooms",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "roast-woodcock-cumberland-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Woodcock with Cumberland Sauce",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Roast Woodcock",
+      "description": "Classic roast woodcock with Cumberland sauce - the king of game birds.",
+      "servings_yield": "2 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "woodcock",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "plucked, entrails removed (keep livers)"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "toast",
+          "quantity": "2",
+          "unit": "slices",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "red currant jelly",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for Cumberland sauce"
+        },
+        {
+          "item": "port wine",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "orange zest",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Dijon mustard",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "ginger",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": "ground"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 450\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Season woodcock inside and out with salt and pepper. Rub with butter."
+        },
+        {
+          "step": 3,
+          "text": "Roast for 15-18 minutes for medium-rare (internal 130\u00b0F)."
+        },
+        {
+          "step": 4,
+          "text": "Meanwhile, make Cumberland sauce: Heat currant jelly with port, citrus zest and juice, mustard, and ginger until combined."
+        },
+        {
+          "step": 5,
+          "text": "If you saved the livers, mash them on toast as a base."
+        },
+        {
+          "step": 6,
+          "text": "Rest woodcock 5 minutes, then serve on toast with Cumberland sauce."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "roasting pan",
+      "notes": [
+        "Many consider woodcock the king of game birds",
+        "Traditionally served on toast spread with the bird's liver",
+        "Cook medium-rare - the meat should be pink"
+      ],
+      "tags": [
+        "woodcock",
+        "roasted",
+        "british",
+        "cumberland sauce",
+        "wild game",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pan-seared-woodcock-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pan-Seared Woodcock with Mushrooms",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Pan-Seared Woodcock",
+      "description": "Simple pan-seared woodcock served with roasted mushrooms and Brussels sprouts.",
+      "servings_yield": "2 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "woodcock",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "breasts and legs separated"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "cremini mushrooms",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "Brussels sprouts",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "halved"
+        },
+        {
+          "item": "shallot",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "white wine or vermouth",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Roast mushrooms and Brussels sprouts at 400\u00b0F with 2 tbsp butter until browned, about 20 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Season woodcock pieces with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Heat remaining butter in a skillet over medium-high heat."
+        },
+        {
+          "step": 4,
+          "text": "Sear woodcock breasts skin-side down for 2 minutes. Flip and cook 1-2 more minutes for medium-rare."
+        },
+        {
+          "step": 5,
+          "text": "Remove breasts. Add legs and cook 4-5 minutes total."
+        },
+        {
+          "step": 6,
+          "text": "Remove legs. Add shallot, cook 30 seconds. Add wine and thyme, scraping pan."
+        },
+        {
+          "step": 7,
+          "text": "Serve woodcock over roasted vegetables with pan sauce."
+        }
+      ],
+      "temperature": "400\u00b0F for vegetables",
+      "pan_size": "cast iron skillet",
+      "notes": [
+        "Breasts cook faster than legs - cook separately",
+        "Woodcock has a strong, gamey flavor in a good way"
+      ],
+      "tags": [
+        "woodcock",
+        "pan-seared",
+        "mushrooms",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pheasant-mushrooms-cream-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pheasant with Mushrooms and Cream",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Pheasant with Mushrooms and Cream",
+      "description": "Simple, homey pheasant breasts with fresh mushrooms, cream and brandy.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "pheasant breasts",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "boneless"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "shallots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "brandy",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "heavy cream",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh tarragon",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Season pheasant breasts with salt and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Heat butter in a large skillet over medium-high heat."
+        },
+        {
+          "step": 3,
+          "text": "Sear pheasant breasts for 3-4 minutes per side until golden. Remove and keep warm."
+        },
+        {
+          "step": 4,
+          "text": "Add shallots and mushrooms to pan. Cook until mushrooms are browned, about 5 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Add brandy and carefully ignite to burn off alcohol (or just let it reduce)."
+        },
+        {
+          "step": 6,
+          "text": "Add cream and tarragon. Simmer until sauce thickens slightly, about 5 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Return pheasant to pan, spooning sauce over. Cook 2-3 more minutes."
+        },
+        {
+          "step": 8,
+          "text": "Slice pheasant and serve with mushroom cream sauce."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Also works with grouse, chicken, or turkey breast",
+        "Don't overcook - pheasant dries out easily"
+      ],
+      "tags": [
+        "pheasant",
+        "mushrooms",
+        "cream",
+        "french",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "fried-pheasant-pickle-brine-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pickle-Brined Fried Pheasant",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Fried Pheasant",
+      "description": "Pheasant brined in pickle juice then fried - tangy, tender, and crispy.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes plus brining",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "pheasant",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut into pieces"
+        },
+        {
+          "item": "pickle juice",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "from dill pickles"
+        },
+        {
+          "item": "buttermilk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "1.5",
+          "unit": "cups"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "paprika",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for frying"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brine pheasant pieces in pickle juice for 4-24 hours in refrigerator."
+        },
+        {
+          "step": 2,
+          "text": "Remove from brine and soak in buttermilk for 30 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Mix flour, cornstarch, salt, pepper, paprika, and garlic powder."
+        },
+        {
+          "step": 4,
+          "text": "Heat oil to 325\u00b0F - lower than typical fried chicken to account for leaner meat."
+        },
+        {
+          "step": 5,
+          "text": "Dredge pheasant pieces in flour mixture."
+        },
+        {
+          "step": 6,
+          "text": "Fry in batches for 12-15 minutes, turning occasionally, until golden and cooked through."
+        },
+        {
+          "step": 7,
+          "text": "Drain on wire rack and season with salt while hot."
+        }
+      ],
+      "temperature": "325\u00b0F oil",
+      "pan_size": "Dutch oven or deep fryer",
+      "notes": [
+        "Lower frying temperature prevents drying out lean game birds",
+        "Also works great with grouse and partridge",
+        "The pickle brine adds flavor and tenderizes"
+      ],
+      "tags": [
+        "pheasant",
+        "fried",
+        "pickle brine",
+        "southern",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "duck-confit-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Duck or Goose Confit",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Duck Confit",
+      "description": "Classic French duck confit - legs slowly cooked in duck fat until meltingly tender.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes plus curing",
+      "cook_time": "3-4 hours",
+      "ingredients": [
+        {
+          "item": "duck or goose legs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "crumbled"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "duck fat",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "or enough to cover"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix salt, pepper, thyme, bay leaves, and garlic. Rub generously over duck legs."
+        },
+        {
+          "step": 2,
+          "text": "Place legs in a container, cover, and refrigerate 24-48 hours."
+        },
+        {
+          "step": 3,
+          "text": "Rinse legs and pat dry thoroughly."
+        },
+        {
+          "step": 4,
+          "text": "Preheat oven to 250\u00b0F."
+        },
+        {
+          "step": 5,
+          "text": "Place legs in a single layer in an oven-safe pot. Cover completely with duck fat."
+        },
+        {
+          "step": 6,
+          "text": "Cook uncovered for 3-4 hours until meat is very tender and pulls easily from bone."
+        },
+        {
+          "step": 7,
+          "text": "Let cool in fat. Store submerged in fat in refrigerator for up to 3 months."
+        },
+        {
+          "step": 8,
+          "text": "To serve, remove legs from fat and crisp skin in a hot skillet."
+        }
+      ],
+      "temperature": "250\u00b0F (120\u00b0C)",
+      "pan_size": "Dutch oven or deep baking dish",
+      "notes": [
+        "Skin-on specklebelly and Canada goose legs are the gold standard",
+        "Do NOT make confit from breasts - they become livery",
+        "Stored in fat, confit keeps for months"
+      ],
+      "tags": [
+        "duck",
+        "goose",
+        "confit",
+        "french",
+        "preserved",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "goose-breast-orange-greek-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Goose Breast with Orange (Greek Style)",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Goose Breast with Orange",
+      "description": "Duck l'orange with a Greek twist using ouzo - works beautifully with goose.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "goose breasts",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "skin scored"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "orange juice",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "fresh"
+        },
+        {
+          "item": "orange zest",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "ouzo",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "honey",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chicken or game stock",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "cold"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Score goose breast skin in a crosshatch pattern. Season with salt and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Place breasts skin-side down in a cold pan. Turn heat to medium."
+        },
+        {
+          "step": 3,
+          "text": "Render fat slowly for 10-12 minutes until skin is very crispy."
+        },
+        {
+          "step": 4,
+          "text": "Flip and cook 3-4 more minutes for medium-rare (130\u00b0F internal)."
+        },
+        {
+          "step": 5,
+          "text": "Remove breasts and rest. Pour off most fat."
+        },
+        {
+          "step": 6,
+          "text": "Add orange juice, zest, ouzo, honey, and stock to pan. Reduce by half."
+        },
+        {
+          "step": 7,
+          "text": "Remove from heat and whisk in cold butter to make glossy sauce."
+        },
+        {
+          "step": 8,
+          "text": "Slice goose breast against the grain and serve with sauce."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "cast iron skillet",
+      "notes": [
+        "Start skin-side down in a COLD pan for crispiest skin",
+        "Goose and duck should be served medium-rare like steak",
+        "Ouzo adds anise flavor - substitute Pernod or skip if unavailable"
+      ],
+      "tags": [
+        "goose",
+        "duck",
+        "orange sauce",
+        "greek",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "german-rabbit-stew-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "German Rabbit Stew with Lemon",
+      "category": "main dishes",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - German Rabbit Stew",
+      "description": "A light, brothy German rabbit stew with lemon, bay leaves, capers and sour cream.",
+      "servings_yield": "4-6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "1.5 hours",
+      "ingredients": [
+        {
+          "item": "rabbit",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "cut into pieces"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "chicken or rabbit stock",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "white wine",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "lemon zest",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "capers",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Season rabbit pieces with salt and pepper."
+        },
+        {
+          "step": 2,
+          "text": "Brown rabbit in butter over medium-high heat. Remove and set aside."
+        },
+        {
+          "step": 3,
+          "text": "Saut\u00e9 onion until softened, about 5 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Add stock, wine, bay leaves, and lemon zest. Return rabbit to pot."
+        },
+        {
+          "step": 5,
+          "text": "Simmer covered for 1-1.5 hours until rabbit is tender."
+        },
+        {
+          "step": 6,
+          "text": "Remove rabbit. Add lemon juice and capers to broth."
+        },
+        {
+          "step": 7,
+          "text": "Temper sour cream with a little hot broth, then stir into pot."
+        },
+        {
+          "step": 8,
+          "text": "Return rabbit, garnish with parsley. Serve with roasted potatoes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [
+        "Different from hasenpfeffer - this is light and brothy",
+        "Rabbits are mild white meat, hares are strongly flavored red meat",
+        "Knockout dish with roasted potatoes"
+      ],
+      "tags": [
+        "rabbit",
+        "german",
+        "stew",
+        "lemon",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "siberian-bear-pelmeni-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Siberian Bear Pelmeni",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Russian dumplings traditionally made with bear meat",
+      "description": "Traditional Siberian dumplings with bear meat and lots of onion. The original pelmeni were made by bear hunters and frozen in the snow for the trail.",
+      "servings_yield": "about 50 dumplings",
+      "prep_time": "1 hour",
+      "cook_time": "8 minutes",
+      "ingredients": [
+        {
+          "item": "bear meat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "ground (or pork/beef)"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "finely minced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt pork or fatback",
+          "quantity": "2",
+          "unit": "oz",
+          "prep_note": "minced"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "buttermilk or whey",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "sour cream",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "fresh dill",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped, for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make the dough: Mix flour with egg yolks, buttermilk, and water. Knead until smooth. Let rest 30 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Make the filling: Combine ground bear meat with onion, garlic, salt pork, salt, and pepper. Mix well."
+        },
+        {
+          "step": 3,
+          "text": "Roll dough thin and cut into 3-inch rounds."
+        },
+        {
+          "step": 4,
+          "text": "Place a small spoonful of filling in center of each round."
+        },
+        {
+          "step": 5,
+          "text": "Fold in half and pinch edges to seal, then bring corners together to form the classic pelmeni shape."
+        },
+        {
+          "step": 6,
+          "text": "Bring a large pot of salted water to a boil."
+        },
+        {
+          "step": 7,
+          "text": "Boil pelmeni for 6-8 minutes to ensure bear meat is fully cooked."
+        },
+        {
+          "step": 8,
+          "text": "Serve with sour cream mixed with dill and black pepper."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large pot",
+      "notes": [
+        "Use a lot of onion - it's a defining feature of these dumplings",
+        "Can substitute pork or beef for bear",
+        "Traditionally made with sourdough using whey"
+      ],
+      "tags": [
+        "bear",
+        "russian",
+        "dumplings",
+        "wild game",
+        "unusual"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "chinese-red-braised-bear-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chinese Red Braised Pork or Bear",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Classic Chinese dish adapted for wild game",
+      "description": "Sweet-savory braised fatty meat with star anise and dark soy sauce. Works beautifully with fat wild pigs or bear belly.",
+      "servings_yield": "4-6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "2-3 hours",
+      "ingredients": [
+        {
+          "item": "bear belly or pork belly",
+          "quantity": "2",
+          "unit": "lb"
+        },
+        {
+          "item": "rock sugar or brown sugar",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "water",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for sugar"
+        },
+        {
+          "item": "dark soy sauce",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "light soy sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Shaoxing wine or dry sherry",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "star anise",
+          "quantity": "3",
+          "unit": "whole"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "smashed"
+        },
+        {
+          "item": "ginger",
+          "quantity": "2",
+          "unit": "inches",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "scallions",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "cut into 2-inch pieces"
+        },
+        {
+          "item": "water or stock",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring a large pot of water to boil. Boil the whole slab of belly for 5 minutes. Remove and let cool."
+        },
+        {
+          "step": 2,
+          "text": "Cut the meat into 2-inch cubes."
+        },
+        {
+          "step": 3,
+          "text": "Mix sugar with 3 tablespoons water until dissolved."
+        },
+        {
+          "step": 4,
+          "text": "In a wok or Dutch oven, heat the sugar syrup over medium heat until it turns amber, about 5 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Add the par-cooked meat and turn to coat with the caramelized sugar."
+        },
+        {
+          "step": 6,
+          "text": "Add garlic, ginger, and scallions. Stir for 1 minute."
+        },
+        {
+          "step": 7,
+          "text": "Add both soy sauces, wine, star anise, and enough water to barely cover the meat."
+        },
+        {
+          "step": 8,
+          "text": "Bring to a boil, then reduce to a gentle simmer."
+        },
+        {
+          "step": 9,
+          "text": "Simmer for 90 minutes for pork, up to 3 hours for wild hog or bear, until meat is very tender."
+        },
+        {
+          "step": 10,
+          "text": "Serve over steamed jasmine rice."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "wok or Dutch oven",
+      "notes": [
+        "Dark soy sauce has a slight molasses sweetness different from regular soy",
+        "Wild game may take longer than domestic pork",
+        "Any fatty cut works - shoulder is also good"
+      ],
+      "tags": [
+        "bear",
+        "wild boar",
+        "chinese",
+        "braised",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "french-fried-frog-legs-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "French Fried Frog Legs",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - French-style fried frog legs with butter sauce",
+      "description": "Classic French preparation of frog legs, lightly fried in clarified butter and served with garlic parsley butter sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes plus 1 hour marinating",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "frog legs",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": "about 12-16 pairs"
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "for soaking"
+        },
+        {
+          "item": "clarified butter or ghee",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "for frying"
+        },
+        {
+          "item": "unsalted butter",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fresh parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for dredging"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak frog legs in milk in the refrigerator for 1 hour. (Skip for store-bought legs.)"
+        },
+        {
+          "step": 2,
+          "text": "Remove legs from milk, pat dry, and season with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Dredge legs lightly in flour, shaking off excess."
+        },
+        {
+          "step": 4,
+          "text": "Heat clarified butter in a large skillet over medium-high heat until you see a wisp of smoke (about 340\u00b0F)."
+        },
+        {
+          "step": 5,
+          "text": "Add frog legs and cook 3-4 minutes per side until golden brown and cooked through."
+        },
+        {
+          "step": 6,
+          "text": "Remove legs to a warm platter."
+        },
+        {
+          "step": 7,
+          "text": "Add regular butter to the pan, then garlic. Saut\u00e9 30 seconds."
+        },
+        {
+          "step": 8,
+          "text": "Add parsley and lemon juice, swirl to combine."
+        },
+        {
+          "step": 9,
+          "text": "Pour sauce over frog legs and serve immediately."
+        }
+      ],
+      "temperature": "340\u00b0F oil temperature",
+      "pan_size": "large skillet",
+      "notes": [
+        "Frog legs taste like a combination of chicken breast, shrimp, and crab",
+        "Use clarified butter to fry - higher smoke point",
+        "Good fresh ingredients are key - no wilty parsley"
+      ],
+      "tags": [
+        "frog",
+        "french",
+        "fried",
+        "wild game",
+        "unusual"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "chinese-stir-fried-frog-legs-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chinese Stir-Fried Frog Legs",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - An amalgam of General Tso's, kung pao, and black bean styles",
+      "description": "Battered and fried frog legs tossed in a sweet-spicy sauce with vegetables. A fusion of Chinese-American classics.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "frog legs",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": "separated"
+        },
+        {
+          "item": "egg yolks",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for marinade"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "for frying"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "ginger",
+          "quantity": "1",
+          "unit": "inch",
+          "prep_note": "minced"
+        },
+        {
+          "item": "shallot",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "bamboo shoots",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "wood ear mushrooms",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "sliced, optional"
+        },
+        {
+          "item": "red bell pepper",
+          "quantity": "1/2",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "chile bean sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "rice vinegar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chicken stock",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "sesame oil",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Whisk egg yolks with 2 tbsp soy sauce. Marinate frog legs while prepping other ingredients."
+        },
+        {
+          "step": 2,
+          "text": "Mix sauce ingredients: chile bean sauce, 2 tbsp soy sauce, vinegar, sugar, stock, and 1 tbsp cornstarch."
+        },
+        {
+          "step": 3,
+          "text": "Remove frog legs from marinade and dust with remaining cornstarch."
+        },
+        {
+          "step": 4,
+          "text": "Heat oil to 350\u00b0F. Fry frog legs in batches until golden, 3-5 minutes. Drain."
+        },
+        {
+          "step": 5,
+          "text": "Pour off all but 2 tbsp oil from wok."
+        },
+        {
+          "step": 6,
+          "text": "Get wok very hot. Add garlic, ginger, and shallot. Stir-fry 30 seconds."
+        },
+        {
+          "step": 7,
+          "text": "Add bamboo shoots, mushrooms, bell pepper, and fried frog legs. Stir-fry 2 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Add sauce, toss to coat. Cook until sauce thickens, 1-2 minutes."
+        },
+        {
+          "step": 9,
+          "text": "Drizzle with sesame oil and serve over steamed rice."
+        }
+      ],
+      "temperature": "350\u00b0F oil temperature",
+      "pan_size": "wok",
+      "notes": [
+        "Best eaten with chopsticks - meat slides right off the bones",
+        "Wood ear mushrooms add meaty texture but can be omitted",
+        "Find frog legs in Asian market freezer sections"
+      ],
+      "tags": [
+        "frog",
+        "chinese",
+        "stir-fry",
+        "wild game",
+        "unusual"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "roast-chukar-partridge-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Chukar or Partridge",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Brined and roasted small game birds",
+      "description": "Simple brined and roasted chukar partridge. The overnight brine keeps these lean birds juicy and gives you wiggle room during roasting.",
+      "servings_yield": "2 servings",
+      "prep_time": "15 minutes plus overnight brine",
+      "cook_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "chukars or Hungarian partridges",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "plucked whole"
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for brine"
+        },
+        {
+          "item": "hot water",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "dried thyme",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "rosemary",
+          "quantity": "1",
+          "unit": "sprig"
+        },
+        {
+          "item": "sage leaves",
+          "quantity": "5",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "cloves",
+          "quantity": "2",
+          "unit": "whole"
+        },
+        {
+          "item": "lemon",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "celery stalks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "for roasting rack"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make brine: Pour hot water over salt, stir to dissolve. Add bay leaf, thyme, rosemary, sage, and cloves. Cool to room temperature."
+        },
+        {
+          "step": 2,
+          "text": "Submerge birds in brine, cover, and refrigerate up to 8 hours."
+        },
+        {
+          "step": 3,
+          "text": "Remove birds from brine, pat dry. Let sit uncovered in fridge several hours to dry the skin, or at room temperature 20 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Preheat oven to 450\u00b0F."
+        },
+        {
+          "step": 5,
+          "text": "Stuff each bird cavity with a lemon quarter. Lightly salt exterior."
+        },
+        {
+          "step": 6,
+          "text": "Lay celery stalks in a cast-iron pan to keep birds off the bottom."
+        },
+        {
+          "step": 7,
+          "text": "Place birds on celery and roast 20-25 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Check temperature - breast meat should be 150-155\u00b0F, no higher. Pink is good."
+        },
+        {
+          "step": 9,
+          "text": "Rest 5 minutes before serving."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "cast-iron pan or roasting pan",
+      "notes": [
+        "Never let breast meat exceed 155\u00b0F or it will be dry",
+        "Works for quail, small grouse, and Cornish game hens too",
+        "Only for plucked birds - don't use this recipe if skinned"
+      ],
+      "tags": [
+        "chukar",
+        "partridge",
+        "game bird",
+        "roasted",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "venison-steak-diane-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Steak Diane",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Classic sauce for venison medallions",
+      "description": "Seared venison medallions with a rich brandy, mustard, and Worcestershire sauce. Named for Diana, goddess of the hunt.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "venison medallions",
+          "quantity": "1.5",
+          "unit": "lb",
+          "prep_note": "deer, elk, or moose backstrap"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "shallots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "minced"
+        },
+        {
+          "item": "mushrooms",
+          "quantity": "8",
+          "unit": "oz",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "2",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "brandy",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "Dijon mustard",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "beef or game stock",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "heavy cream",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "optional"
+        },
+        {
+          "item": "parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Pat venison dry and season generously with salt and pepper. Let sit 10 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Melt 2 tbsp butter in a heavy pan over medium-high heat."
+        },
+        {
+          "step": 3,
+          "text": "Sear venison, turning every minute, until nicely browned and medium-rare. Remove to rest."
+        },
+        {
+          "step": 4,
+          "text": "Add remaining butter to pan with shallots and mushrooms. Saut\u00e9 until starting to brown."
+        },
+        {
+          "step": 5,
+          "text": "Add garlic and saut\u00e9 30 seconds."
+        },
+        {
+          "step": 6,
+          "text": "Turn off heat and add brandy. Turn heat back to medium - this prevents flare-ups."
+        },
+        {
+          "step": 7,
+          "text": "Cook until brandy is almost evaporated."
+        },
+        {
+          "step": 8,
+          "text": "Add mustard, tomato paste, Worcestershire, and stock. Simmer 2 minutes."
+        },
+        {
+          "step": 9,
+          "text": "Add cream if using. Taste and adjust seasoning."
+        },
+        {
+          "step": 10,
+          "text": "Slice venison and serve with sauce. Garnish with parsley."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "heavy-bottomed skillet",
+      "notes": [
+        "Steak Diane originated with Escoffier and was named for the goddess of the hunt",
+        "Works with any venison - deer, elk, moose, caribou, antelope",
+        "Don't overcook venison - medium-rare is best"
+      ],
+      "tags": [
+        "venison",
+        "deer",
+        "elk",
+        "moose",
+        "steak",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sharp-tailed-grouse-rosehip-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roast Sharp-tailed Grouse with Rose Hip Glaze",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Prairies bird with prairies garnish",
+      "description": "Sharp-tailed grouse roasted with a rose hip jelly glaze. The dark meat should be served pink, like doves.",
+      "servings_yield": "2 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "15-20 minutes",
+      "ingredients": [
+        {
+          "item": "sharp-tailed grouse",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "plucked whole"
+        },
+        {
+          "item": "rose hip jelly",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "butter",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "softened"
+        },
+        {
+          "item": "red wine vinegar",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Preheat oven to 450\u00b0F."
+        },
+        {
+          "step": 2,
+          "text": "Season grouse inside and out with salt and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Mix rose hip jelly with butter and vinegar to make glaze."
+        },
+        {
+          "step": 4,
+          "text": "Brush grouse liberally with glaze."
+        },
+        {
+          "step": 5,
+          "text": "Roast for 15-20 minutes, basting with glaze halfway through."
+        },
+        {
+          "step": 6,
+          "text": "Breast meat should be pink - about 135-140\u00b0F internal temperature."
+        },
+        {
+          "step": 7,
+          "text": "Rest 5 minutes before serving."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "roasting pan",
+      "notes": [
+        "Sharp-tailed grouse are red meat and should be served pink like doves",
+        "Substitute currant jelly or crabapple jelly if no rose hip",
+        "From a cooking standpoint, these are essentially giant doves"
+      ],
+      "tags": [
+        "grouse",
+        "game bird",
+        "roasted",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "venison-liver-onions-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Venison Liver and Onions",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Classic preparation with double-soak method",
+      "description": "Deer liver and onions done right, with a double-soak method to tame any off-flavors. Best with livers from young animals.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes plus soaking time",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        {
+          "item": "deer liver",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "sliced 1/2 inch thick"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "for brine"
+        },
+        {
+          "item": "water",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "for brine"
+        },
+        {
+          "item": "milk or buttermilk",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "for soaking"
+        },
+        {
+          "item": "onions",
+          "quantity": "2",
+          "unit": "large",
+          "prep_note": "sliced thin"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "for dredging"
+        },
+        {
+          "item": "salt and pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "chopped"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "First soak: Dissolve salt in water. Soak liver slices for 30 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Second soak: Drain and soak liver in milk for 1 hour or overnight."
+        },
+        {
+          "step": 3,
+          "text": "Melt 2 tbsp butter in a large skillet over medium heat."
+        },
+        {
+          "step": 4,
+          "text": "Add onions and cook slowly until caramelized, 15-20 minutes. Remove and keep warm."
+        },
+        {
+          "step": 5,
+          "text": "Remove liver from milk, pat dry, and season with salt and pepper."
+        },
+        {
+          "step": 6,
+          "text": "Dredge liver slices in flour, shaking off excess."
+        },
+        {
+          "step": 7,
+          "text": "Add remaining butter to pan over medium-high heat."
+        },
+        {
+          "step": 8,
+          "text": "Sear liver quickly, about 2 minutes per side for medium. Don't overcook."
+        },
+        {
+          "step": 9,
+          "text": "Serve liver topped with caramelized onions and fresh thyme."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Double soak (brine then dairy) removes off-flavors",
+        "Works with elk, pronghorn, caribou, or any large mammal liver",
+        "Best with livers from young animals"
+      ],
+      "tags": [
+        "venison",
+        "liver",
+        "organ meat",
+        "classic",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "braised-venison-tongue-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Braised Venison Tongue",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Slow braised deer or elk tongue",
+      "description": "Tongue braised low and slow until tender, then peeled and sliced. Makes excellent tacos de lengua.",
+      "servings_yield": "4-6 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "3 hours",
+      "ingredients": [
+        {
+          "item": "venison tongues",
+          "quantity": "2-3",
+          "unit": "",
+          "prep_note": "deer or elk"
+        },
+        {
+          "item": "beef or game stock",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "carrot",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chunked"
+        },
+        {
+          "item": "celery",
+          "quantity": "2",
+          "unit": "stalks"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "whole"
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "4",
+          "unit": "sprigs"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "black peppercorns",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place tongues in a pot with stock, vegetables, and aromatics."
+        },
+        {
+          "step": 2,
+          "text": "Add enough water to cover if needed."
+        },
+        {
+          "step": 3,
+          "text": "Bring to a simmer, cover, and place in 350\u00b0F oven."
+        },
+        {
+          "step": 4,
+          "text": "Braise until a knife inserts easily, about 2-3 hours depending on size."
+        },
+        {
+          "step": 5,
+          "text": "Let tongues cool in the braising liquid until cool enough to handle."
+        },
+        {
+          "step": 6,
+          "text": "Peel the outer membrane off the tongues - it should slip off easily."
+        },
+        {
+          "step": 7,
+          "text": "Slice and serve warm, or dice for tacos."
+        },
+        {
+          "step": 8,
+          "text": "Strain and reserve braising liquid for reheating or as a sauce base."
+        }
+      ],
+      "temperature": "350\u00b0F (175\u00b0C)",
+      "pan_size": "Dutch oven",
+      "notes": [
+        "Peel the membrane when tongue is warm - it comes off easily",
+        "Great for tacos de lengua with cilantro and onion",
+        "Can be served cold sliced, or reheated in braising liquid"
+      ],
+      "tags": [
+        "venison",
+        "tongue",
+        "organ meat",
+        "braised",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "peppered-dove-breasts-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Peppered Dove Breasts (Doves au Poivre)",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - French classic adapted for dove",
+      "description": "Dove breasts seared in butter with an easy pan sauce of shallots, brandy, cream, and peppercorns. Simple, fast, and delicious.",
+      "servings_yield": "4 servings",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "item": "dove breasts",
+          "quantity": "16",
+          "unit": "",
+          "prep_note": "boneless"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "divided"
+        },
+        {
+          "item": "shallot",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "minced"
+        },
+        {
+          "item": "brandy",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chicken or game stock",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "heavy cream",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "freshly coarse-ground"
+        },
+        {
+          "item": "green peppercorns",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "brined, optional"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Salt dove breasts well and keep refrigerated until ready to cook."
+        },
+        {
+          "step": 2,
+          "text": "Heat 3 tbsp butter in a skillet over medium-high heat."
+        },
+        {
+          "step": 3,
+          "text": "Sear dove breasts 2 minutes on one side only. Remove to rest."
+        },
+        {
+          "step": 4,
+          "text": "Add shallot to pan and saut\u00e9 1 minute."
+        },
+        {
+          "step": 5,
+          "text": "Turn off heat and add brandy. Turn heat back to medium."
+        },
+        {
+          "step": 6,
+          "text": "Add stock and both peppers. Simmer 2 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Add cream and simmer until slightly thickened."
+        },
+        {
+          "step": 8,
+          "text": "Swirl in remaining 1 tbsp butter."
+        },
+        {
+          "step": 9,
+          "text": "Spoon sauce over dove breasts and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet",
+      "notes": [
+        "Pepper is the dominant flavor - use freshly ground",
+        "Green peppercorns found near capers in most stores",
+        "Dove breast should be pink inside"
+      ],
+      "tags": [
+        "dove",
+        "french",
+        "game bird",
+        "pan sauce",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "turkish-roast-pigeon-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Turkish Roast Pigeon with Bulgur",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Middle Eastern stuffed pigeon",
+      "description": "Turkish-style roast pigeon stuffed with spiced bulgur wheat and walnuts. The Middle East cooks the best pigeon.",
+      "servings_yield": "2-4 servings",
+      "prep_time": "45 minutes plus brining",
+      "cook_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "pigeons or squab",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "plucked whole"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "for brine"
+        },
+        {
+          "item": "water",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "for brine"
+        },
+        {
+          "item": "bulgur wheat",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chicken stock",
+          "quantity": "1.5",
+          "unit": "cups"
+        },
+        {
+          "item": "walnuts",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "small",
+          "prep_note": "diced"
+        },
+        {
+          "item": "olive oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "cardamom",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "allspice",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "fresh mint",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "celery stalks",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "for roasting rack"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Brine pigeons: dissolve salt in water, submerge birds, refrigerate 6-12 hours."
+        },
+        {
+          "step": 2,
+          "text": "Make stuffing: Bring stock to simmer with cinnamon, cardamom, allspice, and 1 tsp salt. Add bulgur, cover, simmer 15 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, heat oil and fry onions and walnuts until colored."
+        },
+        {
+          "step": 4,
+          "text": "Combine cooked bulgur with onion-walnut mixture. Cool slightly, then add mint and lemon juice."
+        },
+        {
+          "step": 5,
+          "text": "Remove pigeons from brine, pat dry, and stuff loosely with bulgur mixture."
+        },
+        {
+          "step": 6,
+          "text": "Preheat oven to 350\u00b0F."
+        },
+        {
+          "step": 7,
+          "text": "Place celery stalks in pan, lay pigeons breast-side down on celery. Roast 25 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Turn birds over and roast 10 more minutes."
+        },
+        {
+          "step": 9,
+          "text": "Increase heat to 500\u00b0F and roast 10 minutes to brown and crisp."
+        },
+        {
+          "step": 10,
+          "text": "Serve on remaining bulgur with lemon juice and fleur de sel."
+        }
+      ],
+      "temperature": "350\u00b0F rising to 500\u00b0F",
+      "pan_size": "cast-iron pan or roasting pan",
+      "notes": [
+        "Brining keeps lean wild pigeons from drying out",
+        "Can substitute ptarmigan, sharp-tailed grouse, or Cornish hens",
+        "Goes well with raki or medium-bodied red wine"
+      ],
+      "tags": [
+        "pigeon",
+        "turkish",
+        "middle eastern",
+        "bulgur",
+        "stuffed",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "pigeon-tortellini-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pigeon Tortellini",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Stuffed pasta with ground pigeon",
+      "description": "Morsels of pasta stuffed with ground pigeon, sweet wine, herbs, and roasted garlic, served with a juniper butter sauce.",
+      "servings_yield": "4 servings",
+      "prep_time": "1 hour",
+      "cook_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "pigeon meat",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "ground or finely chopped"
+        },
+        {
+          "item": "roasted garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "mashed"
+        },
+        {
+          "item": "Marsala or sweet wine",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "fresh rosemary",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "fresh sage",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "minced"
+        },
+        {
+          "item": "Parmesan cheese",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "grated"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "egg",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "for filling"
+        },
+        {
+          "item": "fresh pasta sheets",
+          "quantity": "1",
+          "unit": "lb"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp",
+          "prep_note": "for sauce"
+        },
+        {
+          "item": "juniper berries",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "chicken stock",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make filling: Mix ground pigeon with roasted garlic, wine, herbs, Parmesan, salt, pepper, and egg."
+        },
+        {
+          "step": 2,
+          "text": "Cut pasta into 3-inch squares."
+        },
+        {
+          "step": 3,
+          "text": "Place small spoonful of filling in center of each square."
+        },
+        {
+          "step": 4,
+          "text": "Fold corner to corner to make triangle, pressing edges to seal."
+        },
+        {
+          "step": 5,
+          "text": "Wrap around finger and pinch corners together to form tortellini shape."
+        },
+        {
+          "step": 6,
+          "text": "Bring large pot of salted water to boil."
+        },
+        {
+          "step": 7,
+          "text": "Meanwhile, make sauce: Melt butter with juniper berries, add stock, simmer 5 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Cook tortellini until they float, about 3-4 minutes."
+        },
+        {
+          "step": 9,
+          "text": "Toss with juniper butter sauce and extra Parmesan."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large pot and saucepan",
+      "notes": [
+        "Can substitute dove, pheasant, or duck for pigeon",
+        "Juniper adds a piney, gin-like note to the butter",
+        "Can make tortellini ahead and freeze"
+      ],
+      "tags": [
+        "pigeon",
+        "pasta",
+        "italian",
+        "stuffed",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "sichuan-crispy-carp-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sichuan Crispy Fried Carp",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - When life gives you carp, think East",
+      "description": "Chinese-style whole fried carp - crispy and delicious. Carp is prized in Asia, and this is an excellent way to prepare it.",
+      "servings_yield": "2-4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "item": "whole carp",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "2-3 lb, cleaned and scaled"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for deep frying"
+        },
+        {
+          "item": "green onions",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "fresh ginger",
+          "quantity": "1",
+          "unit": "inch",
+          "prep_note": "minced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "3",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "Chinese cooking wine",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "rice vinegar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried red chiles",
+          "quantity": "4-6",
+          "unit": ""
+        },
+        {
+          "item": "Sichuan peppercorns",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "chicken stock",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Score the fish in a crosshatch pattern on both sides, cutting to the bone."
+        },
+        {
+          "step": 2,
+          "text": "Pat fish very dry and dust heavily with cornstarch, getting into all the cuts."
+        },
+        {
+          "step": 3,
+          "text": "Heat oil in wok or deep pot to 375\u00b0F."
+        },
+        {
+          "step": 4,
+          "text": "Carefully lower fish into oil and fry until golden and crispy, about 8-10 minutes. Keep oil temperature up."
+        },
+        {
+          "step": 5,
+          "text": "Remove fish to a platter."
+        },
+        {
+          "step": 6,
+          "text": "Pour off all but 2 tbsp oil. Add ginger, garlic, chiles, and Sichuan peppercorns. Stir-fry 30 seconds."
+        },
+        {
+          "step": 7,
+          "text": "Add wine, soy sauce, vinegar, sugar, and stock. Simmer 2 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Pour sauce over fish and top with green onions."
+        }
+      ],
+      "temperature": "375\u00b0F oil temperature",
+      "pan_size": "wok or large pot",
+      "notes": [
+        "Works with any whole fish that fits in a wok",
+        "Scoring helps the fish cook evenly and get crispy",
+        "Carp is prized in Asian cuisines"
+      ],
+      "tags": [
+        "carp",
+        "fish",
+        "chinese",
+        "fried",
+        "sichuan"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "catfish-etouffee-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Catfish \u00c9touff\u00e9e (Smothered Catfish)",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Cajun smothered catfish",
+      "description": "Cajun smothered catfish in a rich tomato and pepper sauce. A wonderful way to celebrate this fish.",
+      "servings_yield": "4 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "ingredients": [
+        {
+          "item": "catfish fillets",
+          "quantity": "1.5",
+          "unit": "lb",
+          "prep_note": "cut into chunks"
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "diced"
+        },
+        {
+          "item": "celery",
+          "quantity": "2",
+          "unit": "stalks",
+          "prep_note": "diced"
+        },
+        {
+          "item": "green bell pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "diced tomatoes",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "fish or chicken stock",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "Cajun seasoning",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "green onions",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "fresh parsley",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "steamed rice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Melt butter in a large skillet over medium heat."
+        },
+        {
+          "step": 2,
+          "text": "Add onion, celery, and bell pepper. Saut\u00e9 until soft, about 8 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add garlic and saut\u00e9 1 minute."
+        },
+        {
+          "step": 4,
+          "text": "Stir in flour and cook 2 minutes, stirring constantly."
+        },
+        {
+          "step": 5,
+          "text": "Add tomato paste and tomatoes. Cook 3 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Pour in stock and add Cajun seasoning and cayenne. Simmer 10 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Add catfish chunks and simmer gently until fish is cooked, about 8-10 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Stir in green onions and parsley."
+        },
+        {
+          "step": 9,
+          "text": "Serve over steamed rice."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large skillet or Dutch oven",
+      "notes": [
+        "Can add small shrimp or crawfish 5 minutes before end",
+        "Don't stir too vigorously or fish will break up",
+        "Use any fresh catfish - wild or farmed"
+      ],
+      "tags": [
+        "catfish",
+        "cajun",
+        "etouffee",
+        "southern",
+        "fish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "turkey-carnitas-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Turkey Carnitas",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Braised and crisped turkey for tacos",
+      "description": "The perfect solution for tough wild turkey legs. Braised until tender, then shredded and crisped in lard for tacos.",
+      "servings_yield": "8 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "2-4 hours",
+      "ingredients": [
+        {
+          "item": "wild turkey legs and thighs",
+          "quantity": "3-4",
+          "unit": "lb"
+        },
+        {
+          "item": "turkey or chicken stock",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to cover"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "garlic",
+          "quantity": "6",
+          "unit": "cloves",
+          "prep_note": "smashed"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "dried oregano",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cumin",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lard or vegetable oil",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": "for crisping"
+        },
+        {
+          "item": "corn tortillas",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "lime wedges",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "white onion",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "diced, for serving"
+        },
+        {
+          "item": "cilantro",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "chopped, for serving"
+        },
+        {
+          "item": "salsa verde",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place turkey pieces in a large Dutch oven with stock, onion, garlic, bay leaves, oregano, cumin, and salt."
+        },
+        {
+          "step": 2,
+          "text": "Add enough water to cover the meat."
+        },
+        {
+          "step": 3,
+          "text": "Bring to a simmer, then cook gently until meat is very tender - 90 minutes for domestic, up to 4 hours for old wild tom."
+        },
+        {
+          "step": 4,
+          "text": "Remove turkey and let cool. Reserve cooking liquid."
+        },
+        {
+          "step": 5,
+          "text": "Shred meat off the bones, discarding tendons and cartilage."
+        },
+        {
+          "step": 6,
+          "text": "When ready to serve, heat lard in a large skillet over high heat."
+        },
+        {
+          "step": 7,
+          "text": "Add shredded meat and let sit without stirring until one side is crispy and browned."
+        },
+        {
+          "step": 8,
+          "text": "Stir and repeat if desired for more crispy bits."
+        },
+        {
+          "step": 9,
+          "text": "Serve in warm tortillas with lime, onion, cilantro, and salsa."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [
+        "The shredded meat keeps for a week in the fridge before crisping",
+        "Also works with pheasant, old chicken, or guinea hen",
+        "Crisp only the portion you're serving"
+      ],
+      "tags": [
+        "wild turkey",
+        "mexican",
+        "tacos",
+        "braised",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "bbq-turkey-legs-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "BBQ Turkey Legs with Maple-Bourbon Sauce",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Barbecued wild turkey thighs",
+      "description": "Slow-smoked turkey legs with a homemade maple-bourbon barbecue sauce. Thighs work better than drumsticks since they have fewer tough tendons.",
+      "servings_yield": "4 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "3 hours",
+      "ingredients": [
+        {
+          "item": "turkey thighs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "wild or domestic"
+        },
+        {
+          "item": "dry rub",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "your favorite"
+        },
+        {
+          "item": "ketchup",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "maple syrup",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "bourbon",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "apple cider vinegar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "smoked paprika",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic powder",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Coat turkey thighs with dry rub and refrigerate for at least 2 hours or overnight."
+        },
+        {
+          "step": 2,
+          "text": "Make the sauce: Combine ketchup, maple syrup, bourbon, vinegar, Worcestershire, paprika, garlic powder, and cayenne in a saucepan. Simmer 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Set up smoker or grill for indirect heat at 275\u00b0F."
+        },
+        {
+          "step": 4,
+          "text": "Smoke thighs until internal temperature reaches 165\u00b0F, about 2-3 hours."
+        },
+        {
+          "step": 5,
+          "text": "During the last 30 minutes, brush with barbecue sauce every 10 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Let rest 10 minutes before serving with extra sauce."
+        }
+      ],
+      "temperature": "275\u00b0F (135\u00b0C)",
+      "pan_size": "smoker or grill",
+      "notes": [
+        "Thighs are preferred over drumsticks - fewer tendons",
+        "Can also be done in oven at 275\u00b0F with liquid smoke",
+        "Works with store-bought or wild turkey"
+      ],
+      "tags": [
+        "wild turkey",
+        "bbq",
+        "smoked",
+        "bourbon",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "andouille-sausage-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Homemade Andouille Sausage",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Cajun smoked sausage",
+      "description": "A heavily seasoned Cajun sausage, almost always smoked. Can be made with any meat - pork, venison, bear, or beef.",
+      "servings_yield": "5 lb sausage",
+      "prep_time": "1 hour",
+      "cook_time": "3-4 hours smoking",
+      "ingredients": [
+        {
+          "item": "pork shoulder or venison",
+          "quantity": "4",
+          "unit": "lb",
+          "prep_note": "cut into chunks"
+        },
+        {
+          "item": "pork fat or bacon",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "cut into chunks"
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic",
+          "quantity": "8",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "paprika",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried thyme",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "item": "powdered milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ice water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "hog casings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "soaked in water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chill meat and fat in freezer until very cold but not frozen, about 30 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Grind meat and fat through coarse die (6-7mm)."
+        },
+        {
+          "step": 3,
+          "text": "Mix ground meat with all seasonings and powdered milk."
+        },
+        {
+          "step": 4,
+          "text": "Add ice water and mix thoroughly until the mixture is tacky and binds together."
+        },
+        {
+          "step": 5,
+          "text": "Stuff into hog casings, twisting into 6-inch links."
+        },
+        {
+          "step": 6,
+          "text": "Let sausages dry uncovered in refrigerator overnight."
+        },
+        {
+          "step": 7,
+          "text": "Set up smoker with pecan or other hardwood at 175-200\u00b0F."
+        },
+        {
+          "step": 8,
+          "text": "Smoke until internal temperature reaches 150\u00b0F, about 3-4 hours."
+        },
+        {
+          "step": 9,
+          "text": "Fully cook before eating by grilling, pan-frying, or adding to gumbo."
+        }
+      ],
+      "temperature": "175-200\u00b0F smoking",
+      "pan_size": "smoker",
+      "notes": [
+        "Can use venison, bear, beef, or any meat",
+        "Pecan is traditional wood for smoking andouille",
+        "Smoked sausages can be frozen after smoking and before final cooking"
+      ],
+      "tags": [
+        "sausage",
+        "andouille",
+        "cajun",
+        "smoked",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "boudin-sausage-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Louisiana Boudin",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Cajun rice and meat sausage",
+      "description": "A cooked sausage with meat, liver, rice, and Cajun seasonings. A Louisiana favorite that's loosely stuffed into casings.",
+      "servings_yield": "about 4 lb boudin",
+      "prep_time": "1 hour",
+      "cook_time": "2 hours",
+      "ingredients": [
+        {
+          "item": "pork shoulder or wild game",
+          "quantity": "1.5",
+          "unit": "lb",
+          "prep_note": "cubed"
+        },
+        {
+          "item": "pork or duck liver",
+          "quantity": "0.5",
+          "unit": "lb"
+        },
+        {
+          "item": "pork fat or bacon",
+          "quantity": "0.5",
+          "unit": "lb",
+          "prep_note": "cubed"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "2",
+          "unit": "stalks",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green bell pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "garlic",
+          "quantity": "6",
+          "unit": "cloves",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "4",
+          "unit": "tbsp"
+        },
+        {
+          "item": "Cajun seasoning",
+          "quantity": "3-5",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cooked white rice",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "long-grain"
+        },
+        {
+          "item": "fresh parsley",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "green onions",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "hog casings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "soaked in water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place meat, liver, fat, onion, celery, pepper, garlic, and bay leaf in a pot. Cover with water."
+        },
+        {
+          "step": 2,
+          "text": "Simmer until meat is very tender, about 1.5 hours. Reserve cooking liquid."
+        },
+        {
+          "step": 3,
+          "text": "Remove bay leaf. Grind everything through coarse die."
+        },
+        {
+          "step": 4,
+          "text": "Add ground mixture to a large bowl with salt and Cajun seasoning."
+        },
+        {
+          "step": 5,
+          "text": "Add cooked rice, parsley, and green onions."
+        },
+        {
+          "step": 6,
+          "text": "Add up to 4 cups reserved cooking liquid and mix 3-5 minutes until cohesive but still loose."
+        },
+        {
+          "step": 7,
+          "text": "Stuff loosely into hog casings, twist into 8-inch links."
+        },
+        {
+          "step": 8,
+          "text": "Poach in salted water at 165-170\u00b0F for 10 minutes."
+        },
+        {
+          "step": 9,
+          "text": "Serve immediately, or grill until casing is crispy."
+        }
+      ],
+      "temperature": "165-170\u00b0F poaching",
+      "pan_size": "large pot",
+      "notes": [
+        "Everything is cooked before stuffing - a 'cooked sausage'",
+        "Can also be formed into balls and fried (boudin balls)",
+        "Best grilled so casing gets crispy",
+        "Works with duck, turkey, venison, or pork"
+      ],
+      "tags": [
+        "sausage",
+        "boudin",
+        "cajun",
+        "louisiana",
+        "rice",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "venison-sausage-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Country-Style Venison Sausage",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Rich sausage with bay and garlic",
+      "description": "A rich country-style venison sausage where ground bay leaves and garlic are the dominant flavors. Especially good for grilling.",
+      "servings_yield": "5 lb sausage",
+      "prep_time": "45 minutes",
+      "cook_time": "varies",
+      "ingredients": [
+        {
+          "item": "venison",
+          "quantity": "3.5",
+          "unit": "lb",
+          "prep_note": "cubed, very cold"
+        },
+        {
+          "item": "pork fat or bacon",
+          "quantity": "1.5",
+          "unit": "lb",
+          "prep_note": "cubed, very cold"
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "6",
+          "unit": "",
+          "prep_note": "ground to powder"
+        },
+        {
+          "item": "garlic",
+          "quantity": "8",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried sage",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried thyme",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "red pepper flakes",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "ice water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "hog casings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "soaked in water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Grind bay leaves to powder in a spice grinder."
+        },
+        {
+          "step": 2,
+          "text": "Mix all seasonings together."
+        },
+        {
+          "step": 3,
+          "text": "Grind very cold venison and fat through coarse die."
+        },
+        {
+          "step": 4,
+          "text": "Add seasonings and ice water to ground meat."
+        },
+        {
+          "step": 5,
+          "text": "Mix by hand or with paddle attachment until mixture is tacky, about 2 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Fry a small patty to test seasoning. Adjust salt if needed."
+        },
+        {
+          "step": 7,
+          "text": "Stuff into hog casings, twisting into 5-6 inch links."
+        },
+        {
+          "step": 8,
+          "text": "Refrigerate overnight uncovered to dry casings."
+        },
+        {
+          "step": 9,
+          "text": "Grill, pan-fry, or use in other recipes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "Keep meat and fat very cold for best texture",
+        "Bay leaves must be ground to powder - whole bay leaf bits are unpleasant",
+        "Especially good on the grill"
+      ],
+      "tags": [
+        "sausage",
+        "venison",
+        "country style",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "polish-duck-sausage-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Polish Duck Sausages",
+      "category": "main dishes",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Fine-grained emulsified sausage",
+      "description": "A fine-grained, almost emulsified sausage like a real Polish kielbasa, but with duck as the dominant meat. Snow goose would be perfect here too.",
+      "servings_yield": "5 lb sausage",
+      "prep_time": "1 hour",
+      "cook_time": "1 hour poaching",
+      "ingredients": [
+        {
+          "item": "duck meat",
+          "quantity": "3",
+          "unit": "lb",
+          "prep_note": "from legs and thighs"
+        },
+        {
+          "item": "pork fat or bacon",
+          "quantity": "1.5",
+          "unit": "lb"
+        },
+        {
+          "item": "pork shoulder",
+          "quantity": "0.5",
+          "unit": "lb",
+          "prep_note": "optional, for binding"
+        },
+        {
+          "item": "kosher salt",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic",
+          "quantity": "6",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "black pepper",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "marjoram",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "mustard seeds",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "ground"
+        },
+        {
+          "item": "caraway seeds",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "powdered milk",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "ice water",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "hog casings",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "soaked in water"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chill all meat and fat in freezer until very firm but not frozen."
+        },
+        {
+          "step": 2,
+          "text": "Grind meat and fat through fine die (4mm)."
+        },
+        {
+          "step": 3,
+          "text": "Put ground meat in mixer with paddle. Add all seasonings and powdered milk."
+        },
+        {
+          "step": 4,
+          "text": "Mix on low while adding ice water. Continue until mixture becomes sticky and emulsified, about 5 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Stuff into hog casings, twisting into 6-inch links."
+        },
+        {
+          "step": 6,
+          "text": "Poach in 170\u00b0F water until internal temperature reaches 150\u00b0F, about 45 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Chill in ice water to stop cooking."
+        },
+        {
+          "step": 8,
+          "text": "Grill or pan-fry before serving."
+        }
+      ],
+      "temperature": "170\u00b0F poaching",
+      "pan_size": "large pot",
+      "notes": [
+        "Fine grind and emulsification create the smooth kielbasa texture",
+        "Snow goose works perfectly",
+        "Marjoram is essential for Polish flavor"
+      ],
+      "tags": [
+        "sausage",
+        "duck",
+        "polish",
+        "kielbasa",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
       },
       "image_refs": []
     }

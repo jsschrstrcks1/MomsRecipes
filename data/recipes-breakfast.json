@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "breakfast",
-    "count": 50,
+    "count": 49,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -439,114 +439,6 @@
           "carbs_g": 10,
           "cholesterol_mg": 203,
           "sodium_mg": 354
-        },
-        "source": "Better Homes and Gardens cookbook nutrition analysis",
-        "assumptions": []
-      }
-    },
-    {
-      "id": "cheese-strata",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cheese Strata",
-      "category": "breakfast",
-      "attribution": "",
-      "source_note": "Church cookbook",
-      "description": "Make-ahead breakfast casserole with bread and cheese.",
-      "servings_yield": "8-10 servings",
-      "prep_time": "20 minutes + overnight",
-      "cook_time": "",
-      "ingredients": [
-        {
-          "item": "stale bread",
-          "quantity": "8",
-          "unit": "slices",
-          "prep_note": "Arnolds or Pepperidge Farm"
-        },
-        {
-          "item": "sharp grated cheese",
-          "quantity": "1 1/2",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "eggs",
-          "quantity": "6",
-          "unit": "",
-          "prep_note": "beaten"
-        },
-        {
-          "item": "milk",
-          "quantity": "2 1/2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "brown sugar",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "dry mustard",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "salt",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "Worcestershire",
-          "quantity": "1/2",
-          "unit": "tsp",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Cut crusts from bread; butter both sides. Break up bread. Put in baking dish (9x12 inches), then add 1/2 the cheese."
-        },
-        {
-          "step": 2,
-          "text": "Reheat. To eggs, add milk, brown sugar, dry mustard, salt and Worcestershire."
-        },
-        {
-          "step": 3,
-          "text": "Recipe continues on next page."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "9x12 inch baking dish",
-      "notes": [
-        "Make ahead - refrigerate overnight before baking"
-      ],
-      "tags": [
-        "breakfast",
-        "casserole",
-        "cheese",
-        "make-ahead"
-      ],
-      "confidence": {
-        "overall": "medium",
-        "flags": [
-          "partial recipe - continues on next page"
-        ]
-      },
-      "image_refs": [],
-      "nutrition": {
-        "status": "complete",
-        "per_serving": {
-          "calories": 260,
-          "fat_g": 14,
-          "protein_g": 15,
-          "carbs_g": 19,
-          "cholesterol_mg": 673,
-          "sodium_mg": 213
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []

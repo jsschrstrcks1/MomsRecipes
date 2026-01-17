@@ -3270,93 +3270,6 @@
       }
     },
     {
-      "id": "tomato-juice-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Tomato Juice",
-      "category": "beverages",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 198",
-      "description": "Homemade tomato juice for canning or freezing",
-      "servings_yield": "5 pints (twenty 1/2-cup servings)",
-      "prep_time": "",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "ripe tomatoes",
-          "quantity": "8",
-          "unit": "lb",
-          "prep_note": ""
-        },
-        {
-          "item": "lemon juice",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": "per pint jar or 2 tablespoons per quart jar"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Thoroughly wash 8 pounds ripe but firm tomatoes. Remove stems. Core and cut into pieces; drain."
-        },
-        {
-          "step": 2,
-          "text": "Place tomatoes in an 8- or 10-quart kettle. Cover and simmer about 15 minutes or till soft, stirring often. Press tomatoes through a food mill or sieve. Discard solids."
-        },
-        {
-          "step": 3,
-          "text": "Return tomato juice to the kettle and bring to boiling, stirring often. Boil gently, uncovered, for 5 minutes."
-        },
-        {
-          "step": 4,
-          "text": "Boiling-Water Canning: Add 1 tablespoon lemon juice to each hot, clean pint jar or 2 tablespoons lemon juice to each quart jar. If desired, add 1/2 teaspoon salt to each pint or 1/2 teaspoon salt to each quart jar."
-        },
-        {
-          "step": 5,
-          "text": "Pour hot juice into jars, leaving a 1/2-inch headspace. Process pints for 35 minutes, quarts for 40 minutes."
-        },
-        {
-          "step": 6,
-          "text": "Freezing: Cool tomato juice. Pour into wide-top freezer containers, leaving a 1/2-inch headspace. Seal, label, and freeze."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "8- or 10-quart kettle",
-      "notes": [
-        "Add lemon juice to ensure safe acidity for canning"
-      ],
-      "tags": [
-        "beverages",
-        "tomato",
-        "canning",
-        "freezing",
-        "preserving"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5359 Large.jpeg",
-        "IMG_5359 Large 2.jpeg"
-      ],
-      "nutrition": {
-        "status": "partial",
-        "per_serving": {
-          "calories": 51,
-          "fat_g": 0.6,
-          "protein_g": 2.6,
-          "carbs_g": 11.2
-        },
-        "missing_inputs": [],
-        "assumptions": [
-          "Based on 2/2 ingredients (100% coverage)"
-        ]
-      }
-    },
-    {
       "id": "tomato-juice-cocktail-bhg",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
@@ -3487,6 +3400,93 @@
         "missing_inputs": [],
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
+        ]
+      }
+    },
+    {
+      "id": "tomato-juice-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Tomato Juice",
+      "category": "beverages",
+      "attribution": "Better Homes and Gardens New Cook Book",
+      "source_note": "Cookbook page 198",
+      "description": "Homemade tomato juice for canning or freezing",
+      "servings_yield": "5 pints (twenty 1/2-cup servings)",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "ripe tomatoes",
+          "quantity": "8",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "per pint jar or 2 tablespoons per quart jar"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thoroughly wash 8 pounds ripe but firm tomatoes. Remove stems. Core and cut into pieces; drain."
+        },
+        {
+          "step": 2,
+          "text": "Place tomatoes in an 8- or 10-quart kettle. Cover and simmer about 15 minutes or till soft, stirring often. Press tomatoes through a food mill or sieve. Discard solids."
+        },
+        {
+          "step": 3,
+          "text": "Return tomato juice to the kettle and bring to boiling, stirring often. Boil gently, uncovered, for 5 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Boiling-Water Canning: Add 1 tablespoon lemon juice to each hot, clean pint jar or 2 tablespoons lemon juice to each quart jar. If desired, add 1/2 teaspoon salt to each pint or 1/2 teaspoon salt to each quart jar."
+        },
+        {
+          "step": 5,
+          "text": "Pour hot juice into jars, leaving a 1/2-inch headspace. Process pints for 35 minutes, quarts for 40 minutes."
+        },
+        {
+          "step": 6,
+          "text": "Freezing: Cool tomato juice. Pour into wide-top freezer containers, leaving a 1/2-inch headspace. Seal, label, and freeze."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "8- or 10-quart kettle",
+      "notes": [
+        "Add lemon juice to ensure safe acidity for canning"
+      ],
+      "tags": [
+        "beverages",
+        "tomato",
+        "canning",
+        "freezing",
+        "preserving"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5359 Large.jpeg",
+        "IMG_5359 Large 2.jpeg"
+      ],
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 51,
+          "fat_g": 0.6,
+          "protein_g": 2.6,
+          "carbs_g": 11.2
+        },
+        "missing_inputs": [],
+        "assumptions": [
+          "Based on 2/2 ingredients (100% coverage)"
         ]
       }
     },

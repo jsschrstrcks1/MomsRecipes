@@ -1,378 +1,10 @@
 {
   "meta": {
     "category": "basics",
-    "count": 8,
+    "count": 7,
     "parent_collection": "mommom"
   },
   "recipes": [
-    {
-      "id": "sourdough-starter",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Sourdough Starter",
-      "category": "basics",
-      "attribution": "",
-      "source_note": "Bread machine recipe book, page 25",
-      "description": "Homemade sourdough starter for bread machine baking.",
-      "servings_yield": "About 2+ cups starter",
-      "prep_time": "15 minutes",
-      "cook_time": "",
-      "total_time": "2-3 days to develop",
-      "ingredients": [
-        {
-          "item": "active dry yeast",
-          "quantity": "2 1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "warm water",
-          "quantity": "16",
-          "unit": "oz",
-          "prep_note": ""
-        },
-        {
-          "item": "all-purpose flour",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a 2 or 3 quart glass bowl, using a wooden or nylon spoon, mix yeast and warm water; let stand 10 minutes."
-        },
-        {
-          "step": 2,
-          "text": "Add flour; mix until thick batter forms. Batter need not be smooth."
-        },
-        {
-          "step": 3,
-          "text": "Cover loosely with cheesecloth, lightweight kitchen towel or plastic wrap; let stand in warm place for 24 hours."
-        },
-        {
-          "step": 4,
-          "text": "Stir; cover loosely. Place starter in a warm place for 2 to 3 days or until it bubbles and smells sour; stir once a day."
-        },
-        {
-          "step": 5,
-          "text": "Cover loosely with plastic wrap or plastic cover; refrigerate."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "2-3 quart glass bowl",
-      "notes": [
-        "To replenish starter: After using a portion, replenish with equal amounts of flour and warm water. Let stand in warm place until bubbly (3-5 hours), then refrigerate.",
-        "If not used at the end of one week, remove 1 cup starter and discard; then replenish with equal amounts of flour and warm water."
-      ],
-      "tags": [
-        "sourdough",
-        "starter",
-        "basics",
-        "bread making"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [],
-      "nutrition": {
-        "status": "insufficient_data",
-        "per_serving": {},
-        "missing_inputs": [
-          "Not a recipe - reference/tip content"
-        ],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "cherry-filling",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Cherry Filling",
-      "category": "basics",
-      "attribution": "",
-      "source_note": "Better Homes and Gardens cookbook, page 43",
-      "description": "A tart cherry filling for coffee cakes.",
-      "servings_yield": "",
-      "prep_time": "5 minutes",
-      "cook_time": "7 minutes",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "fresh or frozen unsweetened pitted tart red cherries",
-          "quantity": "1-1/2",
-          "unit": "cups",
-          "prep_note": ""
-        },
-        {
-          "item": "lemon juice",
-          "quantity": "1",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "sugar",
-          "quantity": "1/2",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "cornstarch",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Bring 1-1/2 cups fresh or frozen unsweetened pitted tart red cherries to boiling; reduce heat."
-        },
-        {
-          "step": 2,
-          "text": "Cover and simmer for 5 minutes. Stir in 1 tablespoon lemon juice."
-        },
-        {
-          "step": 3,
-          "text": "Combine 1/2 cup sugar and 2 tablespoons cornstarch; add to cherry mixture."
-        },
-        {
-          "step": 4,
-          "text": "Cook and stir till bubbly. Cook and stir 2 minutes more. Cool completely."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [],
-      "tags": [
-        "filling",
-        "cherry"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5208 Large.jpeg"
-      ],
-      "conversions": {
-        "has_conversions": false
-      },
-      "nutrition": {
-        "status": "insufficient_data",
-        "per_serving": {},
-        "missing_inputs": [
-          "Not a recipe - reference/tip content"
-        ],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "streusel-topping-chocolate-bread",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Streusel Topping (for Chocolate Swirl Bread)",
-      "category": "basics",
-      "attribution": "",
-      "source_note": "Better Homes and Gardens cookbook, page 45",
-      "description": "A crumb topping with chocolate and nuts for Chocolate Swirl Bread.",
-      "servings_yield": "",
-      "prep_time": "5 minutes",
-      "cook_time": "",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "all-purpose flour",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "sugar",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "ground cinnamon",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "chopped nuts",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "chocolate pieces",
-          "quantity": "1/4",
-          "unit": "cup",
-          "prep_note": "remaining from bread"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Stir together 1/4 cup all-purpose flour, 1/4 cup sugar, and 1 teaspoon ground cinnamon."
-        },
-        {
-          "step": 2,
-          "text": "Cut in 1/4 cup margarine or butter."
-        },
-        {
-          "step": 3,
-          "text": "Stir in 1/4 cup chopped nuts and the remaining chocolate pieces."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "",
-      "notes": [],
-      "tags": [
-        "topping",
-        "streusel",
-        "chocolate"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5211 Large.jpeg"
-      ],
-      "conversions": {
-        "has_conversions": false
-      },
-      "nutrition": {
-        "status": "insufficient_data",
-        "per_serving": {},
-        "missing_inputs": [
-          "Not a recipe - reference/tip content"
-        ],
-        "assumptions": []
-      }
-    },
-    {
-      "id": "apple-raisin-sauce",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Apple-Raisin Sauce",
-      "category": "basics",
-      "attribution": "",
-      "source_note": "Better Homes and Gardens cookbook, page 72",
-      "description": "A warm apple sauce to serve with Puffed Oven Pancake.",
-      "servings_yield": "2 cups",
-      "prep_time": "",
-      "cook_time": "10 minutes",
-      "total_time": "",
-      "ingredients": [
-        {
-          "item": "large cooking apples",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "peeled, cored, and thinly sliced"
-        },
-        {
-          "item": "apple juice or water",
-          "quantity": "3/4",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "raisins",
-          "quantity": "1/3",
-          "unit": "cup",
-          "prep_note": ""
-        },
-        {
-          "item": "sugar",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "ground cinnamon",
-          "quantity": "1/4",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cornstarch",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "cold water",
-          "quantity": "2",
-          "unit": "tbsp",
-          "prep_note": ""
-        },
-        {
-          "item": "margarine or butter",
-          "quantity": "1",
-          "unit": "tsp",
-          "prep_note": ""
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a skillet combine 2 large cooking apples, peeled, cored, and thinly sliced; 3/4 cup apple juice or water; 1/3 cup raisins; 2 tablespoons sugar; and 1/4 teaspoon ground cinnamon."
-        },
-        {
-          "step": 2,
-          "text": "Simmer, covered, till apples are just tender."
-        },
-        {
-          "step": 3,
-          "text": "Stir together 2 tablespoons cornstarch and 2 tablespoons cold water. Add to apple mixture."
-        },
-        {
-          "step": 4,
-          "text": "Cook and stir till thickened and bubbly. Cook and stir 2 minutes more."
-        },
-        {
-          "step": 5,
-          "text": "Stir in 1 teaspoon margarine or butter. Keep warm."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "skillet",
-      "notes": [],
-      "tags": [
-        "sauce",
-        "apple",
-        "breakfast"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5238 Large.jpeg"
-      ],
-      "conversions": {
-        "has_conversions": false
-      },
-      "nutrition": {
-        "status": "insufficient_data",
-        "per_serving": {},
-        "missing_inputs": [
-          "Not a recipe - reference/tip content"
-        ],
-        "assumptions": []
-      }
-    },
     {
       "id": "cream-cheese-frosting",
       "collection": "mommom",
@@ -748,6 +380,293 @@
       },
       "image_refs": [
         "IMG_5255 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [
+          "Not a recipe - reference/tip content"
+        ],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "cherry-filling",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cherry Filling",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 43",
+      "description": "A tart cherry filling for coffee cakes.",
+      "servings_yield": "",
+      "prep_time": "5 minutes",
+      "cook_time": "7 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "fresh or frozen unsweetened pitted tart red cherries",
+          "quantity": "1-1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Bring 1-1/2 cups fresh or frozen unsweetened pitted tart red cherries to boiling; reduce heat."
+        },
+        {
+          "step": 2,
+          "text": "Cover and simmer for 5 minutes. Stir in 1 tablespoon lemon juice."
+        },
+        {
+          "step": 3,
+          "text": "Combine 1/2 cup sugar and 2 tablespoons cornstarch; add to cherry mixture."
+        },
+        {
+          "step": 4,
+          "text": "Cook and stir till bubbly. Cook and stir 2 minutes more. Cool completely."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "filling",
+        "cherry"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5208 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [
+          "Not a recipe - reference/tip content"
+        ],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "streusel-topping-chocolate-bread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Streusel Topping (for Chocolate Swirl Bread)",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 45",
+      "description": "A crumb topping with chocolate and nuts for Chocolate Swirl Bread.",
+      "servings_yield": "",
+      "prep_time": "5 minutes",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped nuts",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chocolate pieces",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "remaining from bread"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stir together 1/4 cup all-purpose flour, 1/4 cup sugar, and 1 teaspoon ground cinnamon."
+        },
+        {
+          "step": 2,
+          "text": "Cut in 1/4 cup margarine or butter."
+        },
+        {
+          "step": 3,
+          "text": "Stir in 1/4 cup chopped nuts and the remaining chocolate pieces."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [],
+      "tags": [
+        "topping",
+        "streusel",
+        "chocolate"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5211 Large.jpeg"
+      ],
+      "conversions": {
+        "has_conversions": false
+      },
+      "nutrition": {
+        "status": "insufficient_data",
+        "per_serving": {},
+        "missing_inputs": [
+          "Not a recipe - reference/tip content"
+        ],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "apple-raisin-sauce",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple-Raisin Sauce",
+      "category": "basics",
+      "attribution": "",
+      "source_note": "Better Homes and Gardens cookbook, page 72",
+      "description": "A warm apple sauce to serve with Puffed Oven Pancake.",
+      "servings_yield": "2 cups",
+      "prep_time": "",
+      "cook_time": "10 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "large cooking apples",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "peeled, cored, and thinly sliced"
+        },
+        {
+          "item": "apple juice or water",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "ground cinnamon",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a skillet combine 2 large cooking apples, peeled, cored, and thinly sliced; 3/4 cup apple juice or water; 1/3 cup raisins; 2 tablespoons sugar; and 1/4 teaspoon ground cinnamon."
+        },
+        {
+          "step": 2,
+          "text": "Simmer, covered, till apples are just tender."
+        },
+        {
+          "step": 3,
+          "text": "Stir together 2 tablespoons cornstarch and 2 tablespoons cold water. Add to apple mixture."
+        },
+        {
+          "step": 4,
+          "text": "Cook and stir till thickened and bubbly. Cook and stir 2 minutes more."
+        },
+        {
+          "step": 5,
+          "text": "Stir in 1 teaspoon margarine or butter. Keep warm."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "skillet",
+      "notes": [],
+      "tags": [
+        "sauce",
+        "apple",
+        "breakfast"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5238 Large.jpeg"
       ],
       "conversions": {
         "has_conversions": false

@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "soups",
-    "count": 57,
+    "count": 61,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -1770,6 +1770,162 @@
       }
     },
     {
+      "id": "seafood-stew-mommom",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Seafood Stew",
+      "category": "soups",
+      "attribution": "Donny Willison",
+      "source_note": "MomMom's cookbook, page 46 - printed community cookbook",
+      "description": "A hearty stew with salt pork, potatoes, shrimp, and whitefish in a tomato base.",
+      "servings_yield": "6 servings",
+      "prep_time": "25 minutes",
+      "cook_time": "55 minutes",
+      "total_time": "1 hour 20 minutes",
+      "ingredients": [
+        {
+          "item": "salt pork",
+          "quantity": "1/4",
+          "unit": "cup or 1/4 lb",
+          "prep_note": "diced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "green pepper",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "celery",
+          "quantity": "3/4",
+          "unit": "cup",
+          "prep_note": "finely chopped"
+        },
+        {
+          "item": "raw potatoes",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "diced"
+        },
+        {
+          "item": "Italian tomatoes",
+          "quantity": "1",
+          "unit": "28 oz can",
+          "prep_note": "peeled, in juice, chopped"
+        },
+        {
+          "item": "ocean scallops",
+          "quantity": "3/4",
+          "unit": "lb",
+          "prep_note": "cut in half"
+        },
+        {
+          "item": "salt",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "black pepper",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": "freshly ground"
+        },
+        {
+          "item": "ground thyme",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "Tabasco",
+          "quantity": "",
+          "unit": "to taste",
+          "prep_note": "if desired"
+        },
+        {
+          "item": "medium raw shrimp",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "deveined"
+        },
+        {
+          "item": "boneless whitefish",
+          "quantity": "1/4",
+          "unit": "lb",
+          "prep_note": "diced"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepot, cook salt pork until crisp. Remove pork and reserve."
+        },
+        {
+          "step": 2,
+          "text": "Add onion, green pepper, and celery and saute about 5 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add reserved pork, potatoes, tomatoes, and seasonings."
+        },
+        {
+          "step": 4,
+          "text": "Cover and simmer 45 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Add shrimp, fish, and scallops and simmer 10 minutes longer."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large saucepot",
+      "notes": [],
+      "tags": [
+        "seafood",
+        "stew",
+        "soup"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [],
+      "page_continuation": {
+        "continues_from": "",
+        "continues_to": ""
+      },
+      "nutrition": {
+        "status": "partial",
+        "per_serving": {
+          "calories": 283,
+          "fat_g": 4.6,
+          "protein_g": 24.4,
+          "carbs_g": 36.7
+        },
+        "missing_inputs": [
+          "Not in database: bay leaves"
+        ],
+        "assumptions": [
+          "Inferred 0.25 for black pepper (standard quantity)",
+          "Assumed 1 unit for Tabasco",
+          "Based on 13/14 ingredients (93% coverage)"
+        ]
+      }
+    },
+    {
       "id": "pasta-fagiola",
       "collection": "mommom",
       "collection_display": "MomMom Baker",
@@ -1931,162 +2087,6 @@
           "Inferred 1.0 for grated Parmesan cheese (standard quantity)",
           "Estimated 4 servings based on total calories",
           "Based on 15/15 ingredients (100% coverage)"
-        ]
-      }
-    },
-    {
-      "id": "seafood-stew-mommom",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Seafood Stew",
-      "category": "soups",
-      "attribution": "Donny Willison",
-      "source_note": "MomMom's cookbook, page 46 - printed community cookbook",
-      "description": "A hearty stew with salt pork, potatoes, shrimp, and whitefish in a tomato base.",
-      "servings_yield": "6 servings",
-      "prep_time": "25 minutes",
-      "cook_time": "55 minutes",
-      "total_time": "1 hour 20 minutes",
-      "ingredients": [
-        {
-          "item": "salt pork",
-          "quantity": "1/4",
-          "unit": "cup or 1/4 lb",
-          "prep_note": "diced"
-        },
-        {
-          "item": "onion",
-          "quantity": "1 1/2",
-          "unit": "cups",
-          "prep_note": "finely chopped"
-        },
-        {
-          "item": "green pepper",
-          "quantity": "3",
-          "unit": "cups",
-          "prep_note": "finely chopped"
-        },
-        {
-          "item": "celery",
-          "quantity": "3/4",
-          "unit": "cup",
-          "prep_note": "finely chopped"
-        },
-        {
-          "item": "raw potatoes",
-          "quantity": "2",
-          "unit": "cups",
-          "prep_note": "diced"
-        },
-        {
-          "item": "Italian tomatoes",
-          "quantity": "1",
-          "unit": "28 oz can",
-          "prep_note": "peeled, in juice, chopped"
-        },
-        {
-          "item": "ocean scallops",
-          "quantity": "3/4",
-          "unit": "lb",
-          "prep_note": "cut in half"
-        },
-        {
-          "item": "salt",
-          "quantity": "2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "black pepper",
-          "quantity": "",
-          "unit": "to taste",
-          "prep_note": "freshly ground"
-        },
-        {
-          "item": "ground thyme",
-          "quantity": "2",
-          "unit": "tsp",
-          "prep_note": ""
-        },
-        {
-          "item": "bay leaves",
-          "quantity": "2",
-          "unit": "",
-          "prep_note": "crushed"
-        },
-        {
-          "item": "Tabasco",
-          "quantity": "",
-          "unit": "to taste",
-          "prep_note": "if desired"
-        },
-        {
-          "item": "medium raw shrimp",
-          "quantity": "1/4",
-          "unit": "lb",
-          "prep_note": "deveined"
-        },
-        {
-          "item": "boneless whitefish",
-          "quantity": "1/4",
-          "unit": "lb",
-          "prep_note": "diced"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "In a large saucepot, cook salt pork until crisp. Remove pork and reserve."
-        },
-        {
-          "step": 2,
-          "text": "Add onion, green pepper, and celery and saute about 5 minutes."
-        },
-        {
-          "step": 3,
-          "text": "Add reserved pork, potatoes, tomatoes, and seasonings."
-        },
-        {
-          "step": 4,
-          "text": "Cover and simmer 45 minutes."
-        },
-        {
-          "step": 5,
-          "text": "Add shrimp, fish, and scallops and simmer 10 minutes longer."
-        }
-      ],
-      "temperature": "",
-      "pan_size": "large saucepot",
-      "notes": [],
-      "tags": [
-        "seafood",
-        "stew",
-        "soup"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [],
-      "page_continuation": {
-        "continues_from": "",
-        "continues_to": ""
-      },
-      "nutrition": {
-        "status": "partial",
-        "per_serving": {
-          "calories": 283,
-          "fat_g": 4.6,
-          "protein_g": 24.4,
-          "carbs_g": 36.7
-        },
-        "missing_inputs": [
-          "Not in database: bay leaves"
-        ],
-        "assumptions": [
-          "Inferred 0.25 for black pepper (standard quantity)",
-          "Assumed 1 unit for Tabasco",
-          "Based on 13/14 ingredients (93% coverage)"
         ]
       }
     },
@@ -6168,6 +6168,622 @@
         "traditional",
         "foxfire",
         "appalachian"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "creole-turtle-soup-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creole Turtle Soup",
+      "category": "soups",
+      "attribution": "Hank Shaw / Hunter Angler Gardener Cook",
+      "source_note": "From honest-food.net - Creole Turtle Soup",
+      "description": "Classic New Orleans-style turtle soup with sherry and hard-boiled eggs.",
+      "servings_yield": "8-10 servings",
+      "prep_time": "45 minutes",
+      "cook_time": "2.5 hours",
+      "ingredients": [
+        {
+          "item": "turtle meat",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": "diced small"
+        },
+        {
+          "item": "butter",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "diced"
+        },
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "diced"
+        },
+        {
+          "item": "green bell pepper",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "6",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "tomato paste",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "crushed tomatoes",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "beef or turtle stock",
+          "quantity": "8",
+          "unit": "cups"
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "plus more for serving"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "item": "fresh thyme",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "hard-boiled eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "chopped, for garnish"
+        },
+        {
+          "item": "lemon",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "sliced thin, for garnish"
+        },
+        {
+          "item": "parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": "chopped, for garnish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Make a dark roux: Melt butter in a large pot over medium heat. Add flour and cook, stirring constantly, until it turns the color of milk chocolate (20-30 minutes)."
+        },
+        {
+          "step": 2,
+          "text": "Add onion, celery, and bell pepper. Cook until softened, about 10 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add garlic and tomato paste. Cook 2 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Add crushed tomatoes, stock, sherry, Worcestershire, bay leaves, thyme, and cayenne."
+        },
+        {
+          "step": 5,
+          "text": "Add turtle meat and bring to a simmer."
+        },
+        {
+          "step": 6,
+          "text": "Simmer gently for 2 hours until turtle is very tender."
+        },
+        {
+          "step": 7,
+          "text": "Remove bay leaves. Season with salt and pepper to taste."
+        },
+        {
+          "step": 8,
+          "text": "Serve in bowls, garnished with chopped hard-boiled eggs, thin lemon slices, and parsley. Pass extra sherry at the table."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large pot",
+      "notes": [
+        "A Commander's Palace classic",
+        "Pass sherry at the table for diners to add more",
+        "Snapping turtle is traditional"
+      ],
+      "tags": [
+        "turtle",
+        "soup",
+        "creole",
+        "new orleans",
+        "sherry",
+        "unusual protein"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "grouse-wild-rice-soup-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Grouse Soup with Wild Rice",
+      "category": "soups",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Forest flavors in a bowl",
+      "description": "The essence of the forest in a bowl - grouse meat with wild rice, porcini mushrooms, and chestnuts or acorns.",
+      "servings_yield": "6-8 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "1.5 hours",
+      "ingredients": [
+        {
+          "item": "grouse carcasses",
+          "quantity": "2-3",
+          "unit": "",
+          "prep_note": "with meat reserved"
+        },
+        {
+          "item": "game or chicken broth",
+          "quantity": "3",
+          "unit": "quarts"
+        },
+        {
+          "item": "wild rice",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "grouse meat",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "dried porcini mushrooms",
+          "quantity": "1",
+          "unit": "oz"
+        },
+        {
+          "item": "chestnuts or acorns",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "cooked and chopped"
+        },
+        {
+          "item": "chard or spinach",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "carrots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "diced"
+        },
+        {
+          "item": "celery",
+          "quantity": "2",
+          "unit": "stalks",
+          "prep_note": "diced"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Place grouse carcasses, dried mushrooms, onion, carrots, and celery in a large pot with broth."
+        },
+        {
+          "step": 2,
+          "text": "Simmer for 1 hour to extract flavor."
+        },
+        {
+          "step": 3,
+          "text": "Strain broth through a fine strainer lined with paper towel. You need 2-3 quarts."
+        },
+        {
+          "step": 4,
+          "text": "Chop the rehydrated mushrooms and reserve."
+        },
+        {
+          "step": 5,
+          "text": "Bring strained broth to a simmer. Add salt and wild rice."
+        },
+        {
+          "step": 6,
+          "text": "Cook at a slow boil. True wild rice cooks in about 25 minutes; cultivated takes longer."
+        },
+        {
+          "step": 7,
+          "text": "When rice is nearly done, add grouse meat, chestnuts, mushrooms, and greens."
+        },
+        {
+          "step": 8,
+          "text": "Simmer 5 minutes more and serve."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large soup pot",
+      "notes": [
+        "For non-hunters: use turkey or chicken thighs, cultivated wild rice, and chestnuts",
+        "Real foraged wild rice cooks faster than cultivated",
+        "Save grouse carcasses in freezer until you have enough"
+      ],
+      "tags": [
+        "grouse",
+        "soup",
+        "wild rice",
+        "mushrooms",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "turkey-leg-stew-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Southwestern Turkey Leg Stew",
+      "category": "soups",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - New Mexican stew with chicos",
+      "description": "A classic New Mexican stew with dried corn (chicos), chiles, and braised turkey legs. The perfect use for tough wild turkey drumsticks.",
+      "servings_yield": "6 servings",
+      "prep_time": "30 minutes plus soaking",
+      "cook_time": "3 hours",
+      "ingredients": [
+        {
+          "item": "turkey legs",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "wild or domestic"
+        },
+        {
+          "item": "dried chicos or posole corn",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "soaked overnight"
+        },
+        {
+          "item": "dried New Mexico chiles",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": "stemmed and seeded"
+        },
+        {
+          "item": "chicken or turkey stock",
+          "quantity": "6",
+          "unit": "cups"
+        },
+        {
+          "item": "onion",
+          "quantity": "1",
+          "unit": "large",
+          "prep_note": "diced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "4",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "cumin",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "oregano",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "lime wedges",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "cilantro",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "radishes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sliced, for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Soak chicos or posole in water overnight. Drain."
+        },
+        {
+          "step": 2,
+          "text": "Toast dried chiles in a dry pan until fragrant. Cover with hot water and soak 20 minutes. Blend smooth."
+        },
+        {
+          "step": 3,
+          "text": "In a large pot, brown turkey legs on all sides. Remove and set aside."
+        },
+        {
+          "step": 4,
+          "text": "Saut\u00e9 onion until soft, add garlic, cumin, and oregano."
+        },
+        {
+          "step": 5,
+          "text": "Add chile puree, stock, corn, and turkey legs."
+        },
+        {
+          "step": 6,
+          "text": "Simmer until turkey is fall-off-the-bone tender and corn is soft, 2-3 hours."
+        },
+        {
+          "step": 7,
+          "text": "Remove turkey, shred meat, discard bones and tendons."
+        },
+        {
+          "step": 8,
+          "text": "Return meat to pot. Season with salt."
+        },
+        {
+          "step": 9,
+          "text": "Serve with lime, cilantro, and radishes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large soup pot",
+      "notes": [
+        "Chicos are dried roasted corn used in New Mexican cooking",
+        "Can substitute hominy if chicos unavailable",
+        "The long cooking time tenderizes even old wild turkey"
+      ],
+      "tags": [
+        "wild turkey",
+        "stew",
+        "southwestern",
+        "new mexico",
+        "wild game"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": []
+    },
+    {
+      "id": "turkey-gumbo-hf",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Wild Turkey Gumbo",
+      "category": "soups",
+      "attribution": "Honest Food / Hank Shaw",
+      "source_note": "From honest-food.net - Classic Louisiana gumbo with turkey",
+      "description": "One of the great uses for turkey drumsticks - a rich gumbo with andouille sausage and seafood. Uses turkey legs, thighs, and wings.",
+      "servings_yield": "8-10 servings",
+      "prep_time": "45 minutes",
+      "cook_time": "3 hours",
+      "ingredients": [
+        {
+          "item": "turkey legs and thighs",
+          "quantity": "3",
+          "unit": "lb"
+        },
+        {
+          "item": "andouille sausage",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "shrimp",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "peeled (or crawfish)"
+        },
+        {
+          "item": "vegetable oil",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "flour",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "onion",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "diced"
+        },
+        {
+          "item": "celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "diced"
+        },
+        {
+          "item": "green bell pepper",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "diced"
+        },
+        {
+          "item": "garlic",
+          "quantity": "6",
+          "unit": "cloves",
+          "prep_note": "minced"
+        },
+        {
+          "item": "turkey or chicken stock",
+          "quantity": "8",
+          "unit": "cups"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "thyme",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "fresh"
+        },
+        {
+          "item": "cayenne pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "okra",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": "sliced, optional"
+        },
+        {
+          "item": "fil\u00e9 powder",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "green onions",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "cooked rice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Simmer turkey in stock until tender, 2-3 hours. Remove turkey, reserve stock. Shred meat when cool."
+        },
+        {
+          "step": 2,
+          "text": "Make roux: Heat oil in a large pot over medium heat. Whisk in flour."
+        },
+        {
+          "step": 3,
+          "text": "Cook roux, stirring constantly, until dark chocolate brown, 30-45 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Add onion, celery, and bell pepper (the 'trinity'). Cook 10 minutes."
+        },
+        {
+          "step": 5,
+          "text": "Add garlic and cook 1 minute."
+        },
+        {
+          "step": 6,
+          "text": "Add reserved stock, bay leaves, thyme, and cayenne. Simmer 30 minutes."
+        },
+        {
+          "step": 7,
+          "text": "Add andouille sausage and cook 15 minutes."
+        },
+        {
+          "step": 8,
+          "text": "Add okra if using and cook 10 minutes."
+        },
+        {
+          "step": 9,
+          "text": "Add shredded turkey and shrimp. Cook until shrimp are pink, about 5 minutes."
+        },
+        {
+          "step": 10,
+          "text": "Remove from heat, stir in fil\u00e9 powder if using. Top with green onions."
+        },
+        {
+          "step": 11,
+          "text": "Serve over rice."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "large Dutch oven",
+      "notes": [
+        "Never boil gumbo after adding fil\u00e9 or it becomes stringy",
+        "Turkey breast doesn't work well - use dark meat",
+        "Can use any smoked sausage if andouille unavailable"
+      ],
+      "tags": [
+        "wild turkey",
+        "gumbo",
+        "cajun",
+        "louisiana",
+        "wild game"
       ],
       "confidence": {
         "overall": "high",

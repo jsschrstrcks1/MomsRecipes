@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "canning",
-    "count": 17,
+    "count": 16,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -1047,111 +1047,6 @@
         "missing_inputs": [],
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
-        ]
-      }
-    },
-    {
-      "id": "tomato-juice-cocktail-bhg",
-      "collection": "mommom",
-      "collection_display": "MomMom Baker",
-      "title": "Tomato Juice Cocktail",
-      "category": "canning",
-      "attribution": "Better Homes and Gardens New Cook Book",
-      "source_note": "Cookbook page 199",
-      "description": "Start with the smaller amount of horseradish and add more until you get just the zest you like.",
-      "servings_yield": "About 5 pints",
-      "ingredients": [
-        {
-          "item": "tomatoes",
-          "quantity": "8",
-          "unit": "lb"
-        },
-        {
-          "item": "chopped celery",
-          "quantity": "1",
-          "unit": "cup"
-        },
-        {
-          "item": "chopped onion",
-          "quantity": "\u00bd",
-          "unit": "cup"
-        },
-        {
-          "item": "lemon juice",
-          "quantity": "\u00bc",
-          "unit": "cup"
-        },
-        {
-          "item": "sugar",
-          "quantity": "1",
-          "unit": "tbsp"
-        },
-        {
-          "item": "Worcestershire sauce",
-          "quantity": "1",
-          "unit": "tbsp"
-        },
-        {
-          "item": "prepared horseradish",
-          "quantity": "1 to 2",
-          "unit": "tsp"
-        },
-        {
-          "item": "salt",
-          "quantity": "1",
-          "unit": "tsp"
-        },
-        {
-          "item": "bottled hot pepper sauce",
-          "quantity": "\u00bc",
-          "unit": "tsp"
-        }
-      ],
-      "instructions": [
-        {
-          "step": 1,
-          "text": "Thoroughly wash tomatoes. Remove stems. Cut tomatoes into pieces. In an 8- or 10-quart kettle or Dutch oven combine cut tomatoes, celery, and onion. Bring to boiling; cook 15 minutes, stirring often."
-        },
-        {
-          "step": 2,
-          "text": "Press tomato mixture through a food mill or sieve to extract juice; measure 12 cups juice. Discard solids. Return juice to kettle; add lemon juice, sugar, Worcestershire sauce, prepared horseradish, salt, and bottled hot pepper sauce. Bring to boiling."
-        },
-        {
-          "step": 3,
-          "text": "Pour hot juice into hot, clean pint jars, leaving \u00bd-inch headspace. Adjust lids. Process in a boiling-water canner for 35 minutes (start timing when water returns to boil)."
-        }
-      ],
-      "notes": [
-        "Pressure Canning: Pour hot juice into hot, clean pint jars, leaving \u00bd-inch headspace. Process for 15 minutes at 10 pounds pressure.",
-        "Freezing: Cool juice for 15 minutes. Pour into wide-top freezer containers, leaving a \u00bd-inch headspace. Seal, label, and freeze."
-      ],
-      "tags": [
-        "canning",
-        "tomato",
-        "juice",
-        "beverage"
-      ],
-      "confidence": {
-        "overall": "high",
-        "flags": []
-      },
-      "image_refs": [
-        "IMG_5360 Large.jpeg"
-      ],
-      "nutrition": {
-        "status": "partial",
-        "per_serving": {
-          "calories": 78,
-          "fat_g": 0.7,
-          "protein_g": 3.1,
-          "carbs_g": 17.6
-        },
-        "missing_inputs": [],
-        "assumptions": [
-          "Inferred 1.0 for chopped onion (standard quantity)",
-          "Assumed 1 unit for lemon juice",
-          "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
-          "Based on 9/9 ingredients (100% coverage)"
         ]
       }
     },
