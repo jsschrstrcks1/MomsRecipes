@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "tips",
-    "count": 92,
+    "count": 112,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -1976,6 +1976,448 @@
         "missing_inputs": [],
         "assumptions": [
           "Informational content without specific recipe"
+        ]
+      }
+    },
+    {
+      "id": "broiling-meat-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broiling Meat Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 257",
+      "content": "Broiling Meat Guide - Place meat on the unheated rack of a broiler pan. Broil 3 to 4 inches from heat for cuts less than 1 1/2 inches thick, broil 3 inches from the heat. For cuts 1 1/2 inches or thicker, broil 4 to 5 inches from the heat.\n\nBEEF:\n- Flank steak (3/4 inch): Medium 12-14 min\n- Steak (chuck blade, top round): 1 inch - Rare 12-14 min, Medium 16-20 min, Well-done 22-26 min; 1 1/2 inch - Rare 18-22 min, Medium 25-30 min, Well-done 31-36 min\n- Steak (top loin, porterhouse, T-bone, sirloin, rib eye): 1 inch - Rare 8-12 min, Medium 13-17 min, Well-done 18-22 min; 1 1/2 inch - Rare 14-18 min, Medium 19-23 min, Well-done 23-28 min\n\nVEAL:\n- Loin/Rib Chop (3/4 inch): Well-done 8-10 min\n\nLAMB:\n- Chop (1 inch): Rare 8-10 min, Medium 10-12 min, Well-done 14-16 min\n\nPORK:\n- Blade steak (3/4 inch): Well-done 12-14 min\n- Canadian-style bacon (1/4 inch): Heated 3-5 min\n\nMISCELLANEOUS:\n- Chop (3/4 to 1 inch): Well-done 12-14 min, Well-done 24-28 min\n- Ham slice (1 inch): Heated 14-18 min\n- Bratwurst, fresh: Well-done 10-12 min\n- Frankfurters: Heated 3-5 min\n- Ground-meat patties (beef, lamb, pork) (3/4 inch, 4 to a pound): Medium/Well-done 12-14 min, 15-18 min",
+      "image_refs": [
+        "IMG_5417 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "direct-grilling-meat-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Direct-Grilling Meat Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 256",
+      "content": "Direct-Grilling Meat Guide - Test for desired coal temperature. Place meat on grill rack, uncovered, directly over preheated coals. Grill for time given, turning once halfway through.\n\nGuide includes cooking times for various cuts of beef, veal, lamb, pork, and ground meats at different thicknesses and doneness levels. For steaks: \n- 1-inch thick: Rare 8-12 min, Medium 12-15 min\n- 1 1/2-inch thick: Rare 14-18 min, Medium 18-22 min\n\nFor hamburgers: 3/4-inch patties grill 10-13 minutes for medium.",
+      "image_refs": [
+        "IMG_5416 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-rice-and-grains-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Rice and Grains Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 277",
+      "content": "Cooking Rice and Grains Guide:\n\nOATS, steel cut (1 cup): 2 1/2 cups water, simmer 20-25 minutes. Yield: 2 3/4 cups\n\nRICE, brown (1 cup): 2 cups water, simmer about 35 minutes, let stand covered for 5 minutes. Yield: 2 2/3 cups\n\nRICE, long grain (1 cup): 2 cups water, simmer about 15 minutes, let stand covered for 5 minutes. Yield: 3 cups\n\nRICE, quick cooking (1 cup): 1 cup water, add to boiling water, remove from heat, let stand covered for 5 minutes. Yield: 2 cups\n\nRICE, wild (1 cup): 2 cups water, rinse rice well, add to boiling water, simmer about 40 minutes, drain if necessary. Yield: 2 1/2 cups\n\nRYE BERRIES (1 cup): 3 cups water, add to cold water, bring to boiling, cover and simmer about 1 hour, drain. Or for quicker cooking, soak berries in 3 cups water in refrigerator for 6 to 24 hours, do not drain, bring to boiling, reduce heat, cover and simmer for 30 minutes. Yield: 2 1/2 cups\n\nWHEAT, cracked (2/3 cup): 1 1/2 cups water, add to cold water, bring to boiling, cover and simmer for 12 to 15 minutes, let stand covered for 5 minutes. Yield: 2 cups\n\nWHEAT BERRIES (3/4 cup): 2 1/2 cups water, add to cold water, bring to boiling, cover and simmer for 45 to 60 minutes, drain. Or for quicker cooking, see rye berries above. Yield: 2 cups",
+      "image_refs": [
+        "IMG_5438 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-fresh-vegetables-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Fresh Vegetables Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 413",
+      "content": "Cooking Fresh Vegetables Guide - Includes preparation and cooking times for range-top, oven, and microwave methods.\n\nARTICHOKES: Wash, trim stems. Cut 1 inch off top, snip sharp tips. Brush with lemon. Range-top: Cook covered in boiling salted water 20-30 min. Microwave: 5-7 min per artichoke.\n\nASPARAGUS: Wash, scrape off scales. Break off woody bases. Range-top: Cook covered in small amount boiling salted water 4-8 min. Microwave: 3-5 min per pound.\n\nBEANS (green, wax): Wash, remove ends. Leave whole or cut. Range-top: Cook covered 15-20 min. Oven: 350\u00b0F for 45-60 min. Microwave: 8-12 min per pound.\n\nBEETS: Cut off tops, leave 1 inch stem. Scrub. Range-top: Cook covered 35-50 min. Oven: Wrap in foil, 375\u00b0F for 1-1 1/4 hours.\n\nBROCCOLI: Wash, remove outer leaves and tough stem. Cut into spears. Range-top: Cook covered 10-15 min. Microwave: 5-7 min per pound.\n\nBRUSSELS SPROUTS: Trim stems, remove wilted leaves. Range-top: Cook covered 10-15 min. Microwave: 4-6 min per pound.",
+      "image_refs": [
+        "IMG_5572 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "sausage-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Sausage Identification Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 236",
+      "content": "Visual guide to common sausage varieties:\n\nTop row (left to right): Frankfurter, knockwurst, bratwurst (fresh), Sage sausage, smoked bratwurst\n\nSecond row: Liver sausage, braunschweiger, fully cooked bratwurst, blood sausage\n\nThird row: Bologna, Polish sausage, cooked salami\n\nFourth row: Cervelat, Genoa salami, pepperoni link and slices\n\nBottom row: Hard salami, summer sausage\n\nNote: Bratwurst, pork link, chorizo, Boudin (shown in column) are fresh/smoked varieties. Italian sausage comes in hot and mild varieties.",
+      "image_refs": [
+        "IMG_5396 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "identifying-hams-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Identifying Hams Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 235",
+      "content": "Ham Identification Guide:\n\nFULLY COOKED HAM: The most popular kind of ham is fully cooked ham. It is ready to eat when you buy it. If you want to serve the ham hot, just heat it to 140\u00b0F (see page 255).\n\nCOOK-BEFORE-EATING HAM: Hams labeled cook-before-eating are not completely cooked during processing. They should be cooked to 160\u00b0F before eating.\n\nCOUNTRY HAMS: Country or country-style hams are distinctively flavored and usually require soaking. They are cured and may or may not be smoked, and are usually aged.\n\nOther notes: Hams generally are available in boneless, bone-in (full shank or butt portion), spiral sliced, or canned forms. Follow package directions for best results. Turkey ham is available as a leaner alternative. Key ham types include that is smoked and cured to taste like pork ham. It's available in large pieces or as cold cuts. To serve it hot, heat it to 140\u00b0F.",
+      "image_refs": [
+        "IMG_5395 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "pasta-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pasta Identification Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, pages 264-265",
+      "content": "Visual guide to pasta varieties:\n\nROW 1: Acini di pepe, Alphabets, Bean threads, Bow ties (tiny), Bow ties (farfalle), Capellini, Capellini (nested), Cavatelli\n\nROW 2: Chow mein noodles, Couscous, Ditalini (thimbles), Egg roll wrappers, Fettuccine, Gemelli, Kluski, Lasagna\n\nROW 3: Linguine, Macaroni (elbow), Macaroni (four-color), Mafalda, Manicotti, Mostaccioli, Noodles (fine), Noodles (medium)\n\nROW 4: Noodles (spinach), Noodles (whole wheat), Noodles (wide), Orzo (rosamarina), Ravioli, Rice sticks, Rigatoni, Rings\n\nROW 5: Rotini, Rotini (tricolor), Shells (jumbo), Shells (large), Shells (medium), Shells (small), Spaetzle, Spaghetti\n\nROW 6: Spaghetti (thin), Spaghetti (twisted), Stars, Tortellini, Vermicelli (nested), Wagon wheels (ruote), Wonton skins, Ziti",
+      "image_refs": [
+        "IMG_5425 Large.jpeg",
+        "IMG_5426 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "rice-and-grains-identification-guide-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Rice and Grains Identification Guide",
+      "category": "tips",
+      "subcategory": "identification-guides",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 271",
+      "content": "Visual guide to rice and grain varieties:\n\nRICE: Wild rice, Brown rice, Long grain rice, Medium grain rice, Quick cooking rice\n\nGRAINS: Wheat berries, Wheat bran, Wheat germ (toasted), Whole wheat flour, Wheat (cracked), Rye berries, Rye flour, Hominy grits, Bulgur, Barley (pearl), Barley (quick cooking), 100% bran cereal, Cornmeal (white), Cornmeal (yellow), Buckwheat flour, Buckwheat groats, Oats (rolled quick), Oats (rolled regular), Farina",
+      "image_refs": [
+        "IMG_5432 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-pasta-times-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Pasta Times Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 278",
+      "content": "Cooking Pasta Guide:\n\nIn a large saucepan or Dutch oven bring water (about 3 quarts water for 4 to 8 ounces of pasta) to boiling. If desired, add 1 teaspoon salt and 1 tablespoon olive oil or cooking oil to help keep the pasta separated. Add the pasta a little at a time so the water does not stop boiling. Hold at long pasta, such as spaghetti, at one end and dip the other end into the water. As the pasta softens, gently curl it around the pan and down into the water. Reduce the heat slightly and boil, uncovered, for the time specified or till the pasta is al dente (tender but still firm). Stir occasionally. Test often for doneness near the end of the cooking time. Drain in a colander.\n\nHOMEMADE PASTA COOKING TIMES:\nBow ties (tiny): 2 to 3 minutes | Bow ties (farfalle): 2 to 3 minutes | Fettuccine: 1 1/2 to 2 minutes | Lasagna: 2 to 3 minutes | Linguine: 1 1/2 to 2 minutes | Manicotti: 2 to 3 minutes | Noodles: 1 1/2 to 2 minutes | Ravioli: 6 to 8 minutes | Spaetzle: 5 to 10 minutes | Tagliatelle: 1 1/2 to 2 minutes | Tortellini: 8 to 10 minutes | Tripolini: 2 to 3 minutes\n\nPACKAGED PASTA COOKING TIMES:\nAcini di pepe: 5 to 6 min | Alphabets: 5 to 8 min | Bow ties (tiny): 5 to 6 min | Bow ties (farfalle): 10 min | Capellini: 5 to 6 min | Cavatelli: 12 min | Ditalini: 7 to 9 min | Fettuccine: 8 to 10 min | Gemelli: 10 min | Lasagna: 10 to 12 min | Linguine: 8 to 10 min | Macaroni (elbow): 10 min | Mafalda: 10 to 12 min | Manicotti: 18 min | Mostaccioli: 14 min | Noodles: 6 to 8 min | Orzo: 5 to 8 min | Rigatoni: 15 min | Rings: 8 to 10 min | Rotini: 8 to 10 min | Shells (jumbo): 23 to 25 min | Shells (large): 12 to 14 min | Shells (small): 8 to 9 min | Spaetzle: 10 to 12 min | Spaghetti: 10 to 12 min | Spaghetti (thin): 8 to 10 min | Spaghetti (twisted): 15 min | Stars: 5 to 8 min | Tortellini: 15 min | Vermicelli: 5 to 7 min | Wagon wheels: 12 min | Ziti: 14 to 15 min\n\n*If homemade pasta is dried or frozen, allow a few more minutes.",
+      "image_refs": [
+        "IMG_5439 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "defrosting-poultry-microwave-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Defrosting Poultry in the Microwave Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 326",
+      "content": "Defrosting Poultry in the Microwave:\n\nPlace whole bird, unwrapped, breast side down, in a baking dish. Remove the metal clamp, if present, and the giblets packet as soon as possible. Place poultry pieces, unwrapped, in a baking dish.\n\nDefrost on 30% power (medium-low) for the time specified. After half of the defrosting time, turn whole bird breast side up. (Or, separate, rearrange, and turn pieces over, putting icy parts near the dish edges.) If some areas thaw faster, shield them with small pieces of foil (check your owner's manual to see if foil is allowed in your oven). If the poultry starts to cook on the edges, immediately remove it from the oven and place it in cold water for the specified standing time. (Some birds and roasts need additional defrosting time after standing, as indicated.) Poultry must be completely thawed before cooking. It should feel soft and moist but still cold.\n\nDEFROSTING TIMES:\nChicken, broiler-fryer, cut up (2\u00bd to 3 lb): 15-17 min defrost, 10 min standing\nChicken, broiler-fryer, whole (2\u00bd to 3 lb): 20-25 min defrost, 30 min standing\nChicken, roasting, whole (3\u00bd to 4 lb): 25-30 min defrost, 30 min standing\nChicken breasts, whole (one 12 oz or two 12 oz): 6-7 min / 12-14 min defrost, 15 min standing\nChicken drumsticks (2 or 6): 5-7 min / 10-12 min defrost, 5 min standing\nChicken pieces, \u00be inch thick (1 lb): 8-12 min defrost\nCornish game hen, whole (one 1 to 1\u00bd lb or two 1 to 1\u00bd lb): 8-10 min / 12-15 min defrost, 30 min standing\nDuckling, domestic, whole (4 to 5 lb): 25 min defrost, 30 min standing*\nTurkey, ground raw (1 lb): 10-12 min defrost, 5 min standing\nTurkey, whole (8 lb or 10 lb): 25 min / 30 min defrost, 30 min standing*\nTurkey breast half (3 to 4 lb): 20-25 min defrost, 40-45 min standing\nTurkey breast tenderloin steaks (four 4-oz steaks): 8-10 min defrost\nTurkey drumstick (one 1-lb drumstick): 9-11 min defrost\nTurkey roast, boneless (3 to 3\u00bd lb): 20-25 min defrost, 15 min standing*\n\n*Note: After standing, defrost these birds for additional time: 4- to 5-pound duckling, 10 to 15 minutes; 3- to 3\u00bd-pound turkey roast, 10 to 15 minutes; 10-pound turkey, 30 minutes; 8-pound turkey, 20 minutes. Turn halfway through both defrosting cycles. Let stand approximately as long as the first standing time.",
+      "image_refs": [
+        "IMG_5489 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-fresh-vegetables-chart-2-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Fresh Vegetables Chart (Continued)",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 414",
+      "content": "Cooking Fresh Vegetables Guide (Continued):\n\nCABBAGE: Remove wilted outer leaves. Cut into wedges or coarsely shred. Range-top: Cook covered in small amount boiling salted water. Wedges 10-12 min, shredded 5-7 min. Microwave: Wedges 9-11 min, shredded 5-7 min per pound.\n\nCARROTS: Wash, trim, peel. Leave tiny carrots whole; cut up others. Range-top: Cook covered 7-9 min for slices, 15-20 min for whole. Microwave: 5-7 min per pound.\n\nCAULIFLOWER: Wash, remove leaves and woody stem. Leave whole or break into flowerets. Range-top: Cook covered. Whole 15-20 min, flowerets 8-10 min. Microwave: Whole 9-11 min, flowerets 7-10 min per pound.\n\nCELERY: Remove leaves. Slice or cut into 1-inch pieces. Range-top: Cook covered 9-11 min. Microwave: 7-9 min per pound.\n\nCORN ON THE COB: Remove husks and silk. Range-top: Cook covered in boiling salted water 5-7 min. Microwave: 3-5 min per ear.\n\nEGGPLANT: Wash, peel if desired. Cut into 1/2-inch cubes. Range-top: Cook covered 4-6 min. Microwave: 5-6 min per pound.\n\nKOHLRABI: Cut off leaves. Wash, peel, cube or slice. Range-top: Cook covered 25-30 min. Microwave: 5-7 min per pound.\n\nMUSHROOMS: Wipe with damp towel or wash. Leave whole or slice. Range-top: Cook in butter 4-5 min. Microwave: 2-3 min per cup.\n\nOKRA: Wash, cut off stems. Cut into 1/2-inch slices. Range-top: Cook covered 8-15 min. Microwave: 4-6 min per pound.\n\nONIONS: Peel. Cook small whole, or quarter or slice larger ones. Range-top: Cook covered. Small 15-20 min, larger 12-15 min. Microwave: 3-5 min per cup.\n\nPARSNIPS: Wash, peel, cut into 1/4-inch slices. Range-top: Cook covered 10-12 min. Microwave: 4-6 min per pound.\n\nPEAS: Shell just before cooking. Range-top: Cook covered 10-12 min. Microwave: 4-6 min per pound.",
+      "image_refs": [
+        "IMG_5573 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "food-safety-storage-tips-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Food Safety and Storage Tips",
+      "category": "tips",
+      "subcategory": "food-safety",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 422",
+      "content": "Food Safety and Storage Guidelines:\n\nSAFE FOOD HANDLING:\n- Wash hands thoroughly before handling food and after handling raw meat, poultry, or fish\n- Keep hot foods hot (above 140\u00b0F) and cold foods cold (below 40\u00b0F)\n- Never leave perishable foods at room temperature for more than 2 hours\n- Thaw frozen foods in the refrigerator, not on the counter\n- Use separate cutting boards for raw meat and other foods\n- Cook foods to proper internal temperatures\n\nREFRIGERATOR STORAGE (35-40\u00b0F):\n- Fresh meat: 2-4 days\n- Ground meat: 1-2 days\n- Fresh poultry: 1-2 days\n- Fresh fish: 1-2 days\n- Cooked meat/poultry: 3-4 days\n- Hard cheese: 3-4 weeks\n- Milk: 1 week after sell-by date\n- Eggs: 3-5 weeks\n\nFREEZER STORAGE (0\u00b0F or below):\n- Fresh meat (steaks, roasts): 6-12 months\n- Ground meat: 3-4 months\n- Fresh poultry: 9-12 months\n- Fresh fish: 3-6 months\n- Cooked meat dishes: 2-3 months\n- Bread: 3 months\n- Cakes, unfrosted: 4-6 months",
+      "image_refs": [
+        "IMG_5580 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "measuring-techniques-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Measuring Techniques",
+      "category": "tips",
+      "subcategory": "cooking-basics",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 435",
+      "content": "Measuring Techniques for Accurate Results:\n\nDRY INGREDIENTS:\n- Use nested measuring cups for dry ingredients\n- Spoon flour into cup (don't pack) and level with straight edge\n- Pack brown sugar firmly into cup\n- Sift powdered sugar if lumpy before measuring\n\nLIQUID INGREDIENTS:\n- Use glass or clear plastic measuring cups with pour spouts\n- Place cup on level surface and read at eye level\n- For sticky liquids (honey, molasses), coat cup with oil first\n\nSHORTENING AND BUTTER:\n- Pack shortening firmly into dry measuring cup, level off\n- Use water displacement method: To measure 1/2 cup shortening, fill 2-cup measure with 1 1/2 cups water, add shortening until water reaches 2-cup mark\n- Butter/margarine: 1 stick = 1/2 cup = 8 tablespoons\n\nMEASURING SPOONS:\n- Fill measuring spoon to top, level with straight edge\n- For liquids, fill to top of spoon\n- \"Rounded\" spoon: as much above rim as in bowl\n- \"Heaping\" spoon: as much as spoon will hold\n\nEQUIVALENTS:\n- 3 teaspoons = 1 tablespoon\n- 4 tablespoons = 1/4 cup\n- 16 tablespoons = 1 cup\n- 2 cups = 1 pint\n- 4 cups = 1 quart",
+      "image_refs": [
+        "IMG_5590 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "crockery-cooker-techniques-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Crockery-Cooker Techniques",
+      "category": "tips",
+      "subcategory": "cooking-basics",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 443",
+      "content": "Crockery-Cooker (Slow Cooker) Techniques:\n\nWith an electric crockery cooker, it's easy to work home-style meals into your busy life-style. Start the cooker early in the day to have dinner ready when you get home.\n\nTYPES OF COOKERS:\nThere are two main types of crockery cookers available. The recipes for this book were tested in cookers that have a continuous slow-cooking cycle. You can identify this type of crockery cooker by the fixed settings on the heat control: low, high, and sometimes automatic (shifts from high to low heat on its own).\n\nAnother type of cooker has a dial indicating temperatures in degrees. With this type of cooker, the heating element cycles on and off. Our recipes will not work in these cookers.\n\nTIPS FOR USE:\n- Do some of the chopping and measuring of ingredients ahead, if possible. Assemble the ingredients in a bowl, cover, and refrigerate till it's time to begin cooking. (If your cooker has a removable liner, assemble and refrigerate the food in the liner rather than in a bowl.)\n- Keep the lid securely on the crockery cooker during cooking and be sure the food doesn't push up on the lid. Because crockery cooking depends on the heat that builds up in the cooker itself, resist the temptation to take a quick peek or stir frequently.\n- To protect the crockery liner, avoid subjecting it to sudden temperature changes. For instance, do not preheat the cooker and then add food.\n\nADJUSTING THE HEAT:\nIf your coals are too hot, raise the grill rack, spread the coals farther apart, close the air vents halfway, or remove some of the hot briquettes.\n\nSPEED UP CLEANUP:\n- Clean the grill rack as soon as possible after cooking\n- Cover both sides of the rack with wet paper towels and let stand while you eat\n- For gas grills, clean the inside by first turning the gas burners on high, close the hood and let the grill burn about 15 minutes",
+      "image_refs": [
+        "IMG_5598 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "vegetables-nutrition-analysis-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetables Nutrition Analysis Chart",
+      "category": "tips",
+      "subcategory": "nutrition-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, pages 388-389",
+      "content": "Nutrition Analysis for Vegetable Recipes - Per Serving with Percent U.S. RDA:\n\nSample entries from the chart:\n- Acorn Squash Boats (p. 412): 4 servings, 249 cal, 10g protein, 41g carbs\n- Baked Beans (p. 394): 10 servings, 282 cal, 11g protein, 44g carbs\n- Broccoli Oriental (p. 395): 3 servings, 139 cal, 5g protein, 14g carbs\n- Cheesy Scalloped Potatoes (p. 403): 4 servings, 291 cal, 10g protein, 32g carbs\n- Corn on the Cob (p. 399): 4 servings, 66 cal, 2g protein, 15g carbs\n- Creamed Peas and New Potatoes (p. 409): 4 servings, 207 cal, 7g protein, 36g carbs\n- Eggplant Parmigiana (p. 399): 4 servings, 315 cal, 16g protein, 23g carbs\n- French Fries (p. 404): 4 servings, 285 cal, 3g protein, 38g carbs\n- Mashed Potatoes (p. 402): 4 servings, 153 cal, 2g protein, 25g carbs\n- Ratatouille (p. 408): 4 servings, 168 cal, 6g protein, 12g carbs\n- Scalloped Potatoes (p. 403): 4 servings, 212 cal, 5g protein, 32g carbs\n- Twice-Baked Potatoes (p. 403): 4 servings, 223 cal, 4g protein, 38g carbs\n\nChart includes columns for: Servings per Recipe, Calories, Protein (g), Carbohydrates (g), Fat (g), Cholesterol (mg), Sodium (mg), Potassium (mg), and Percent U.S. RDA for Protein, Vitamin A, Vitamin C, Thiamine, Riboflavin, Niacin, Calcium, Iron.",
+      "image_refs": [
+        "IMG_5547 Large.jpeg",
+        "IMG_5548 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "broiling-grilling-poultry-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Broiling and Direct-Grilling Poultry Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 327",
+      "content": "Broiling and Direct-Grilling Poultry Guide:\n\nRemove the skin from the poultry, if desired. Rinse and pat dry with paper towels. If desired, sprinkle with salt and pepper.\n\nTO BROIL: Remove the broiler pan and preheat the broiler for 5 to 10 minutes. Arrange the poultry on the unheated rack of the broiler pan with the bone side up. If desired, brush with cooking oil. Place the pan under the broiler so the surface of the poultry is 4 to 5 inches from the heat. (Chicken and Cornish game hen halves should be 5 to 6 inches from the heat.) Turn the pieces over when browned on one side, usually after half of the broiling time. Chicken halves and meaty pieces should be turned after 20 minutes. Brush again with oil. The poultry is done when the meat is tender (the dark meat will not become tender as quickly as the white meat) and no longer pink. Brush with a sauce the last five minutes of cooking, if desired.\n\nTO GRILL DIRECT: Test for desired temperature of the coals (see \"Grilling Techniques,\" page 442). Place poultry on the grill rack, bone side up, directly over the preheated coals. (For ground turkey patties, use a grill basket.) Grill, uncovered, for the specified time or till tender and no longer pink. Turn the poultry over after half of the grilling time. During the last 10 minutes, brush often with a sauce, if desired.\n\nCOOKING TIMES TABLE:\n| Type of Bird | Weight | Broiling Time | Coal Temp | Grilling Time |\n|--------------|--------|---------------|-----------|---------------|\n| Chicken, broiler-fryer, half | 1 1/4 to 1 1/2 lb | 28-32 min | Medium | 40-50 min |\n| Chicken breast, skinned and boned | 4-5 oz | 12-15 min | Medium-hot | 15-18 min |\n| Chicken breast halves, thighs, drumsticks | 2-2 1/2 lb total | 25-35 min | Medium | 35-45 min |\n| Chicken kabobs (boneless breast, 2x1/2-inch strips) | 1 lb | 8-10 min | Medium-hot | 8-10 min |\n| Cornish game hen half | 1/2-3/4 lb | 30-40 min | Medium-hot | 45-50 min |\n| Turkey breast steak or slice | 2 oz | 6-8 min | - | Not recommended |\n| Turkey breast tenderloin steak | 4-6 oz | 8-10 min | Medium | 12-15 min |\n| Turkey drumstick | 1/2-1 1/2 lb | Not recommended | Medium | 3/4-1 1/4 hours |\n| Turkey hindquarter | 2-4 lb | Not recommended | Medium | 1 1/4-1 1/2 hours |\n| Turkey patties (ground raw turkey) | 3/4 inch thick | 10-12 min | Medium-hot | 15-18 min |\n| Turkey thigh | 1-1 1/2 lb | Not recommended | Medium | 50-60 min |",
+      "image_refs": [
+        "IMG_5490 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "roasting-indirect-grilling-poultry-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Roasting and Indirect-Grilling Poultry Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 328",
+      "content": "Roasting and Indirect-Grilling Poultry Guide:\n\nTO ROAST: Prepare the bird according to the directions given in Stuffed and Roasted Bird, page 320.\n\nTO GRILL INDIRECT: Prepare unstuffed poultry as for roasting (grilling a stuffed bird is not recommended). In a covered grill arrange medium-hot coals around a drip pan. Test for medium heat above the pan (see \"Grilling Techniques,\" page 442). Place the poultry, breast side up, on the grill rack over the drip pan but not over the preheated coals. Lower the grill hood. Grill for the time specified. Add more coals to maintain heat as necessary.\n\nTO SMOKE: Soak wood chunks or chips in enough water to cover for one hour. Prepare grill for indirect grilling, adding one inch of water to the drip pan. Drain chunks or chips and place on top of preheated coals. Grill as for indirect grilling, adding more chunks or chips every 15 to 20 minutes and more water to drip pan as necessary.\n\nCOOKING TIMES TABLE:\n| Type of Bird | Weight | Oven Temp | Roasting Time | Indirect-Grilling Time |\n|--------------|--------|-----------|---------------|------------------------|\n| Capon | 5-7 lb | 325\u00b0 | 1 3/4-2 1/4 hours | Not recommended |\n| Chicken, broiler-fryer, whole | 2 1/4-3 lb | 375\u00b0 | 1-1 1/4 hours | 1-1 1/4 hours |\n| | 3 1/2-4 lb | 375\u00b0 | 1 1/4-1 3/4 hours | 1 1/2-1 3/4 hours |\n| | 4 1/2-5 lb | 375\u00b0 | 1 1/2-2 hours | 1 3/4-2 hours |\n| Chicken, roasting, whole | 5-6 lb | 325\u00b0 | 1 3/4-2 1/4 hours | Not recommended |\n| Cornish game hen | 1-1 1/2 lb | 375\u00b0 | 1-1 1/4 hours | 1-1 1/4 hours |\n| Duckling, domestic | 3-5 lb | 375\u00b0 | 1 3/4-2 1/4 hours | Not recommended |\n| Goose, domestic | 7-8 lb | 350\u00b0 | 2-2 1/2 hours | Not recommended |\n| | 8-10 lb | 350\u00b0 | 2 1/2-3 hours | Not recommended |\n| | 10-12 lb | 350\u00b0 | 3-3 1/2 hours | Not recommended |\n| Pheasant | 2-3 lb | 350\u00b0 | 1 1/2-1 3/4 hours | 1-1 1/2 hours |\n\nNote: Birds vary in size, shape, and tenderness. Use these times as general guides.",
+      "image_refs": [
+        "IMG_5491 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "cooking-fresh-vegetables-chart-3-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cooking Fresh Vegetables Chart (Page 3)",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 415",
+      "content": "Cooking Fresh Vegetables Guide (Continued - Page 415):\n\nOKRA (1/2 pound): Wash, cut off stems. Range-top: Cook covered in small amount boiling salted water for 8-15 minutes or till tender. Microwave: Place in casserole with 2 tablespoons water. Micro-cook covered on 100% power (high) for 4-6 minutes or till tender, stirring once.\n\nONIONS (1 large, 1 cup chopped): Peel and chop. Range-top: Cook in 2 tablespoons margarine or butter over medium heat till tender but not brown, stirring often. Microwave: Place in casserole with 2 tablespoons water, margarine, or butter. Micro-cook covered on 100% power (high) for 3-4 minutes or till tender, stirring once.\n\nPARSNIPS (3/4 pound): Wash, trim, and peel or scrub. Cut into 1/4-inch-thick slices. Range-top: Cook covered in small amount boiling salted water for 7-9 minutes or till tender. (Or steam for 8-10 minutes.) Microwave: Place in casserole with 2 tablespoons water. Micro-cook covered on 100% power (high) for 4-6 minutes or till tender, stirring once.\n\nPEA PODS (1/2 pound): Remove tips and strings; wash. Range-top: Cook covered in small amount boiling salted water for 2-4 minutes or till crisp-tender. (Or steam for 2-4 minutes.) Microwave: Place in casserole with 2 tablespoons water. Micro-cook covered on 100% power (high) for 3-5 minutes or till crisp-tender.\n\nPEAS, GREEN (2 pounds): Shell and wash. Range-top: Cook covered in small amount boiling salted water for 10-12 minutes or till tender. (Or steam for 12-15 minutes.) Microwave: Place in casserole with 2 tablespoons water. Micro-cook covered on 100% power (high) for 6-8 minutes or till tender, stirring once.\n\nPOTATOES (1 pound): Wash and peel. Remove any eyes or green areas. Cut into quarters or cube. Range-top: Cook covered in small amount boiling salted water for 20-25 minutes or till tender. (Or steam about 20 minutes.) Microwave: Place in casserole with 2 tablespoons water. Micro-cook covered on 100% power (high) for 8-10 minutes or till tender, stirring once.\n\nPOTATOES, SWEET (1 to 1 1/2 pounds): Wash and peel. Cut off woody portions and ends. Cut into quarters or cube. (For micro-cooking, cut into quarters.) Range-top: Cook covered in enough boiling salted water to cover for 25-35 minutes or till tender. Microwave: Place in casserole with 1/2 cup water. Micro-cook covered on 100% power (high) for 10-13 minutes or till tender, stirring once.",
+      "image_refs": [
+        "IMG_5574 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "micro-cooking-poultry-chart-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Micro-Cooking Poultry Chart",
+      "category": "tips",
+      "subcategory": "cooking-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 330",
+      "content": "Micro-Cooking Poultry Guide:\n\nTo micro-cook a whole bird, rinse thoroughly and pat the bird dry. Tie the legs to the tail and twist the wing tips under the back. Place the bird, breast side down, on a rack in a baking dish. Brush with melted margarine or butter. Cover with waxed paper. Micro-cook on the power specified and for the time given or till done. After half of the cooking time, turn the bird breast side up and brush again with melted margarine or butter. (If desired, insert a temperature probe into the thigh, not touching the bone.)\n\nThe bird is done when the drumsticks move easily in their sockets, the temperature is 185\u00b0 in several spots, no pink remains, and the juices run clear. If the wing and leg tips or other areas are done before the rest, shield these areas with small pieces of foil (check your owner's manual to see if foil is allowed in your oven). Let cooked birds weighing more than 2 pounds stand, covered with foil, for 15 minutes.\n\nTo micro-cook poultry parts, rinse thoroughly and pat dry. Arrange in a baking dish with meaty portions toward edges of dish, tucking under thin boneless portions. If pieces are crowded in the dish, omit the neck, back, and wings. Cover with waxed paper. (Or, for skinless poultry, cover with a lid or vented clear plastic wrap.) Micro-cook on the power level specified and for the time given or till done, rearranging, stirring, and turning pieces over after half of the cooking time.\n\nCOOKING TIMES TABLE:\n| Type of Bird | Amount | Power Level | Cooking Time |\n|--------------|--------|-------------|--------------|\n| Chicken, broiler-fryer, cut up | One 2 1/2-3 lb bird | 100% (high) | 12-17 minutes |\n| Chicken, broiler-fryer, whole | One 2 1/2-3 lb bird | 50% (medium) | 32-37 minutes |\n| Chicken breasts, halved | Two 12-oz breasts | 100% (high) | 8-10 minutes |\n| | Two 16-oz breasts | 100% (high) | 8-11 minutes |\n| Chicken breast, whole | One 12-oz breast | 100% (high) | 5-7 minutes |\n| | Two 12-oz breasts | 100% (high) | 13-15 minutes |\n| Chicken drumsticks | 2 drumsticks | 100% (high) | 3-5 minutes |\n| | 6 drumsticks | 100% (high) | 8-10 minutes |\n| Chicken pieces | 1 pound | 100% (high) | 3-5 minutes |\n| Cornish game hen, whole | One 1-1 1/2 lb bird | 100% (high) | 7-10 minutes |\n| | Two 1-1 1/2 lb birds | 100% (high) | 13-18 minutes |\n| Turkey, ground raw | 1 pound | 100% (high) | 5-7 minutes |\n| Turkey breast half | One 3-4 lb half | 50% (medium) | 40-55 minutes |\n| Turkey breast tenderloin steaks | Four 4-oz steaks | 100% (high) | 6-8 minutes |\n| Turkey drumstick | One 1-lb drumstick | 100% (high) | 7-9 minutes |\n| Turkey roast, boneless | One 3-3 1/2 lb roast | 50% (medium) | 50-60 minutes |\n| Turkey thigh | One 1 1/4-lb thigh | 100% (high) | 11-13 minutes |",
+      "image_refs": [
+        "IMG_5493 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
+        ]
+      }
+    },
+    {
+      "id": "salads-nutrition-analysis-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Salads Nutrition Analysis Chart",
+      "category": "tips",
+      "subcategory": "nutrition-charts",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 332",
+      "content": "Nutrition Analysis for Salad Recipes - Per Serving with Percent U.S. RDA:\n\nSample entries from the chart include:\n- Apricot Nectar Dressing (p. 358): 16 servings, 39 cal\n- Basil Mayonnaise (p. 306): 8 servings, 407 cal\n- Bean and Sausage Bowl (p. 338): 4 servings, 330 cal\n- Bratwurst and Pasta Salad (p. 339): 4 servings, 564 cal, 19g protein\n- Caesar Salad (p. 342): 6 servings, 103 cal\n- Chef's Salad (p. 334): 4 servings, 438 cal, 18g protein\n- Chicken Salad (p. 340): 4 servings, 291 cal, 17g protein\n- Coleslaw (p. 346): 16 servings, 129 cal\n- Crab Louis (p. 340): 4 servings, 404 cal, 11g protein\n- Creamy French Dressing (p. 357): 22 servings, 75 cal\n- Creamy Potato Salad (p. 346): 12 servings, 278 cal\n- Five-Cup Salad (p. 351): 6 servings, 211 cal\n- Fruity Pasta Salad (p. 348): 6 servings, 123 cal\n- German-Style Potato Salad (p. 347): 4 servings, 284 cal\n\nChart includes columns for: Servings per Recipe, Calories, Protein (g), Carbohydrates (g), Fat (g), Cholesterol (mg), Sodium (mg), Potassium (mg), and Percent U.S. RDA for Protein, Vitamin A, Vitamin C, Thiamine, Riboflavin, Niacin, Calcium, Iron.",
+      "image_refs": [
+        "IMG_5494 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_applicable",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": [
+          "Reference content"
         ]
       }
     }
