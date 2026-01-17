@@ -23,8 +23,25 @@ OPTIONAL_FIELDS = ['attribution', 'source_note', 'description', 'servings_yield'
                    'conversions', 'nutrition', 'variant_of', 'variant_notes', 'canonical_id',
                    'frosting', 'oven_directions']
 
-VALID_CATEGORIES = ['appetizers', 'beverages', 'breads', 'breakfast', 'desserts',
-                    'mains', 'salads', 'sides', 'soups', 'snacks']
+VALID_CATEGORIES = [
+    # Core recipe categories
+    'appetizers', 'beverages', 'breads', 'breakfast', 'desserts',
+    'mains', 'main-dishes', 'main dishes',
+    'salads', 'sides', 'side-dishes', 'side dishes',
+    'soups', 'snacks',
+    # Specific food types
+    'cakes', 'candy', 'cookies', 'frostings',
+    'eggs', 'fish', 'shellfish', 'meat', 'pasta', 'legumes',
+    'vegetables', 'grains', 'dairy',
+    'sauces', 'condiments', 'sandwiches',
+    # Preservation
+    'preserves', 'canning',
+    # Reference/non-recipe entries
+    'basics', 'reference', 'tips', 'techniques', 'remedies',
+]
+
+# Categories that don't require ingredients/instructions (non-recipe entries)
+NON_RECIPE_CATEGORIES = ['reference', 'tips', 'techniques', 'basics']
 
 VALID_CONFIDENCE = ['high', 'medium', 'low']
 
@@ -58,9 +75,14 @@ class RecipeValidator:
     def validate_recipe(self, recipe):
         """Validate a single recipe."""
         recipe_id = recipe.get('id', 'UNKNOWN')
+        category = recipe.get('category', '')
+        is_non_recipe = category in NON_RECIPE_CATEGORIES
 
         # Check required fields
         for field in REQUIRED_FIELDS:
+            # Skip ingredients/instructions requirement for non-recipe categories
+            if is_non_recipe and field in ('ingredients', 'instructions'):
+                continue
             if field not in recipe or not recipe[field]:
                 self.error(recipe_id, f"Missing required field: {field}")
 
