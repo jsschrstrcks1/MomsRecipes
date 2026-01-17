@@ -95,6 +95,53 @@ python scripts/image_safeguards.py mark "Moms Recipes - 2.jpeg" skipped "Not a r
 
 ---
 
+## PDF Processing
+
+### CRITICAL: Large PDFs can crash AI sessions
+
+**SIZE LIMITS** for Claude's PDF reading:
+| Metric | Soft Limit | Hard Limit | Action |
+|--------|------------|------------|--------|
+| File size | 10 MB | 50 MB | Extract text |
+| Page count | 100 pages | 500 pages | Use page ranges or extract |
+| Page dimensions | - | 2000px | May affect embedded images |
+
+**ALWAYS validate PDFs first:**
+```bash
+python scripts/pdf_safeguards.py validate
+```
+
+### PDF Status Commands
+```bash
+# Check all PDFs in data/
+python scripts/pdf_safeguards.py validate
+
+# View current status
+python scripts/pdf_safeguards.py status
+
+# Get detailed info on a specific PDF
+python scripts/pdf_safeguards.py info "Foxfire-Book-2.pdf"
+
+# Extract text from oversized PDF
+python scripts/pdf_safeguards.py extract "Foxfire-Book-2.pdf"
+
+# Mark PDF as processed
+python scripts/pdf_safeguards.py mark "foxfire-three.pdf" processed
+```
+
+### Workflow for Large PDFs (like Foxfire volumes)
+1. **Validate**: `python scripts/pdf_safeguards.py validate`
+2. **If oversized**: Extract text with `python scripts/pdf_safeguards.py extract <file>`
+3. **Process**: Work with the `.txt` file instead of the raw PDF
+4. **Example**: `FoxfireVol1.txt.html` was used instead of reading the PDF directly
+
+### Current PDF Status
+- `Foxfire-Book-2.pdf` (18MB) - LARGE, text extraction recommended
+- `foxfire-three.pdf` (17MB) - LARGE, text extraction recommended
+- `FoxfireVol1.txt.html` - Already extracted, recipes processed
+
+---
+
 ## Recipe Schema
 
 ```json
@@ -166,7 +213,8 @@ MomsRecipes/
 ├── scripts/
 │   ├── validate-recipes.py  # Recipe validation
 │   ├── process_images.py    # Image resizing for AI
-│   ├── image_safeguards.py  # Broken image detection
+│   ├── image_safeguards.py  # Image size/broken detection
+│   ├── pdf_safeguards.py    # PDF size validation & text extraction
 │   └── optimize_images.py   # JPEG optimization
 └── ebook/
     ├── book.html            # Print-optimized HTML
