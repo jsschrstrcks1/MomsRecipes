@@ -1,6 +1,6 @@
 {
   "created": "2026-01-17T17:18:28.371273",
-  "last_updated": "2026-01-17T17:18:28.406295",
+  "last_updated": "2026-01-17T18:14:53.042802",
   "limits": {
     "max_file_size_mb": 10,
     "max_file_size_hard_mb": 50,
@@ -14,41 +14,98 @@
       "path": "Foxfire-Book-2.pdf",
       "file_size": 18839202,
       "file_size_mb": 17.966463088989258,
-      "page_count": null,
-      "has_text": null,
-      "max_page_width": null,
-      "max_page_height": null,
-      "status": "large",
-      "error": "No PDF library available (install pymupdf or pypdf)",
-      "validated_at": "2026-01-17T17:18:28.405673",
+      "page_count": 405,
+      "has_text": true,
+      "max_page_width": 418,
+      "max_page_height": 648,
+      "status": "processed",
+      "error": null,
+      "validated_at": "2026-01-17T18:09:08.328489",
       "recommendations": [
-        "File exceeds 10MB soft limit. Consider text extraction for better performance."
-      ]
+        "File exceeds 10MB soft limit. Consider text extraction for better performance.",
+        "PDF has 405 pages (>100). Consider processing in page ranges."
+      ],
+      "text_file": "Foxfire-Book-2.txt",
+      "status_updated": "2026-01-17T18:14:53.042784"
     },
     "foxfire-three.pdf": {
       "filename": "foxfire-three.pdf",
       "path": "foxfire-three.pdf",
       "file_size": 17082902,
       "file_size_mb": 16.29152488708496,
-      "page_count": null,
-      "has_text": null,
-      "max_page_width": null,
-      "max_page_height": null,
-      "status": "large",
-      "error": "No PDF library available (install pymupdf or pypdf)",
-      "validated_at": "2026-01-17T17:18:28.406044",
+      "page_count": 506,
+      "has_text": true,
+      "max_page_width": 438,
+      "max_page_height": 652,
+      "status": "processed",
+      "error": null,
+      "validated_at": "2026-01-17T18:09:08.414103",
       "recommendations": [
-        "File exceeds 10MB soft limit. Consider text extraction for better performance."
-      ]
+        "File exceeds 10MB soft limit. Consider text extraction for better performance.",
+        "PDF has 506 pages (>500). Text extraction required."
+      ],
+      "text_file": "foxfire-three.txt",
+      "status_updated": "2026-01-17T18:14:52.758182"
+    },
+    "Foxfire 6 PDF.pdf": {
+      "filename": "Foxfire 6 PDF.pdf",
+      "path": "Foxfire 6 PDF.pdf",
+      "file_size": 1122145,
+      "file_size_mb": 1.0701608657836914,
+      "page_count": 28,
+      "has_text": true,
+      "max_page_width": 595,
+      "max_page_height": 841,
+      "status": "valid",
+      "error": null,
+      "validated_at": "2026-01-17T18:09:08.247828",
+      "recommendations": []
+    },
+    "Foxfire-Book-4.pdf": {
+      "filename": "Foxfire-Book-4.pdf",
+      "path": "Foxfire-Book-4.pdf",
+      "file_size": 14050160,
+      "file_size_mb": 13.399276733398438,
+      "page_count": 486,
+      "has_text": true,
+      "max_page_width": 522,
+      "max_page_height": 756,
+      "status": "extracted",
+      "error": null,
+      "validated_at": "2026-01-17T18:09:08.366239",
+      "recommendations": [
+        "File exceeds 10MB soft limit. Consider text extraction for better performance.",
+        "PDF has 486 pages (>100). Consider processing in page ranges."
+      ],
+      "text_file": "Foxfire-Book-4.txt",
+      "status_updated": "2026-01-17T18:14:52.474133"
+    },
+    "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.pdf": {
+      "filename": "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.pdf",
+      "path": "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.pdf",
+      "file_size": 21473338,
+      "file_size_mb": 20.47857093811035,
+      "page_count": 516,
+      "has_text": true,
+      "max_page_width": 505,
+      "max_page_height": 780,
+      "status": "extracted",
+      "error": null,
+      "validated_at": "2026-01-17T18:09:08.389841",
+      "recommendations": [
+        "File exceeds 10MB soft limit. Consider text extraction for better performance.",
+        "PDF has 516 pages (>500). Text extraction required."
+      ],
+      "text_file": "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.txt"
     }
   },
   "stats": {
-    "total": 2,
-    "valid": 0,
-    "large": 2,
+    "total": 5,
+    "valid": 1,
+    "large": 0,
     "oversized": 0,
     "broken": 0,
-    "extracted": 0,
-    "processed": 0
+    "extracted": 2,
+    "processed": 2
   }
 }
