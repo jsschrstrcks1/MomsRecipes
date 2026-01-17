@@ -1,6 +1,6 @@
 {
   "created": "2026-01-17T17:18:28.371273",
-  "last_updated": "2026-01-17T18:14:53.042802",
+  "last_updated": "2026-01-17T18:56:54.698020",
   "limits": {
     "max_file_size_mb": 10,
     "max_file_size_hard_mb": 50,
@@ -56,10 +56,12 @@
       "has_text": true,
       "max_page_width": 595,
       "max_page_height": 841,
-      "status": "valid",
+      "status": "skipped",
       "error": null,
       "validated_at": "2026-01-17T18:09:08.247828",
-      "recommendations": []
+      "recommendations": [],
+      "status_updated": "2026-01-17T18:56:54.698007",
+      "notes": "Not the real book - just a Bookey promotional summary"
     },
     "Foxfire-Book-4.pdf": {
       "filename": "Foxfire-Book-4.pdf",
@@ -70,7 +72,7 @@
       "has_text": true,
       "max_page_width": 522,
       "max_page_height": 756,
-      "status": "extracted",
+      "status": "processed",
       "error": null,
       "validated_at": "2026-01-17T18:09:08.366239",
       "recommendations": [
@@ -78,7 +80,7 @@
         "PDF has 486 pages (>100). Consider processing in page ranges."
       ],
       "text_file": "Foxfire-Book-4.txt",
-      "status_updated": "2026-01-17T18:14:52.474133"
+      "status_updated": "2026-01-17T18:56:31.562742"
     },
     "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.pdf": {
       "filename": "_OceanofPDF.com_Foxfire_7_-_Eliot_Wigginton.pdf",
@@ -101,11 +103,11 @@
   },
   "stats": {
     "total": 5,
-    "valid": 1,
+    "valid": 0,
     "large": 0,
     "oversized": 0,
     "broken": 0,
-    "extracted": 2,
-    "processed": 2
+    "extracted": 1,
+    "processed": 3
   }
 }
