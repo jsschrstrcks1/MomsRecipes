@@ -196,8 +196,13 @@ python scripts/pdf_safeguards.py mark "foxfire-three.pdf" processed
 
 ```
 MomsRecipes/
-├── CLAUDE.md                 # This file
+├── CLAUDE.md                 # This file - AI assistant context
+├── MAINTENANCE.md            # Routine maintenance procedures
+├── DATA_SCHEMA.md            # Recipe JSON schema reference
+├── SCRIPTS.md                # Script documentation
+├── TROUBLESHOOTING.md        # Common issues and fixes
 ├── README.md                 # Setup instructions
+├── requirements.txt          # Python dependencies
 ├── index.html                # Home page
 ├── recipe.html               # Recipe detail page
 ├── styles.css                # Stylesheet
@@ -206,16 +211,21 @@ MomsRecipes/
 │   ├── *.jpeg               # Original recipe images (OVERSIZED!)
 │   ├── processed/           # AI-friendly versions (≤2000px) - USE THESE!
 │   │   └── *.jpeg
-│   ├── recipes.json         # All recipes for this collection
+│   ├── recipes.json         # All recipes for this collection (~2700+)
+│   ├── recipes-index.json   # Search/browse index (generated)
+│   ├── recipes-{category}.json # Category shards (generated)
 │   ├── collections.json     # Collection metadata
-│   ├── processed_images.json # OCR tracking log
-│   └── image_manifest.json  # Image validation status
+│   ├── foraging_tips.json   # Foraging tips and safety rules
+│   ├── image_manifest.json  # Image validation status
+│   └── pdf_manifest.json    # PDF validation status
 ├── scripts/
 │   ├── validate-recipes.py  # Recipe validation
 │   ├── process_images.py    # Image resizing for AI
 │   ├── image_safeguards.py  # Image size/broken detection
 │   ├── pdf_safeguards.py    # PDF size validation & text extraction
-│   └── optimize_images.py   # JPEG optimization
+│   ├── optimize_images.py   # JPEG optimization
+│   ├── create_shards.py     # Generate category shards
+│   └── add_*.py             # Recipe ingestion scripts (37+)
 └── ebook/
     ├── book.html            # Print-optimized HTML
     └── print.css            # Print stylesheet
@@ -257,6 +267,75 @@ This checks:
 - Reasonable ingredient quantities
 - Temperature sanity
 - Image references exist
+
+---
+
+## Routine Maintenance
+
+> **Full documentation:** See [MAINTENANCE.md](MAINTENANCE.md) for complete procedures.
+
+### When User Asks for Maintenance
+
+If a user asks you to "do maintenance" or "check the repository health", perform these tasks:
+
+#### Quick Health Check
+```bash
+# 1. Validate recipes
+python scripts/validate-recipes.py
+
+# 2. Check shard freshness
+python3 -c "
+import json
+m = len(json.load(open('data/recipes.json'))['recipes'])
+i = len(json.load(open('data/recipes-index.json'))['recipes'])
+print(f'Master: {m}, Index: {i}')
+print('STALE - regenerate shards' if m != i else 'OK')
+"
+
+# 3. Check image status
+python scripts/image_safeguards.py status
+
+# 4. Count processing logs
+ls data/processing_log_*.json 2>/dev/null | wc -l
+```
+
+#### Common Maintenance Tasks
+
+| Task | Command | When |
+|------|---------|------|
+| Validate recipes | `python scripts/validate-recipes.py` | Before every commit |
+| Regenerate shards | `python scripts/create_shards.py` | After bulk recipe additions |
+| Process new images | `python scripts/process_images.py` | After adding images |
+| Validate images | `python scripts/image_safeguards.py validate` | After processing |
+| Optimize images | `python scripts/optimize_images.py` | Monthly |
+| Clean old logs | `find data -name "processing_log_*.json" -mtime +30 -delete` | Monthly |
+
+#### After Bulk Recipe Additions (10+ recipes)
+
+1. Run validation: `python scripts/validate-recipes.py`
+2. Regenerate shards: `python scripts/create_shards.py`
+3. Commit with descriptive message
+4. Push to branch
+
+### Related Documentation
+
+| Document | Contents |
+|----------|----------|
+| [MAINTENANCE.md](MAINTENANCE.md) | Complete maintenance procedures, schedules, checklists |
+| [SCRIPTS.md](SCRIPTS.md) | All scripts with usage examples |
+| [DATA_SCHEMA.md](DATA_SCHEMA.md) | Recipe JSON schema, field definitions |
+| [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | Common errors and solutions |
+| [requirements.txt](requirements.txt) | Python dependencies |
+
+### Current Recipe Sources
+
+| Source | Batches | Recipes | Notes |
+|--------|---------|---------|-------|
+| MomMom's Cards | - | ~800 | Original family recipes |
+| Eat the Weeds | 1-12 | ~157 | Wild edibles, foraging |
+| Honest Food | 1-5 | ~45 | Wild game, unusual meats |
+| Foxfire Books | Multiple | ~35 | Appalachian heritage |
+| BHG Cookbooks | 1 | Various | Better Homes & Gardens |
 
 ---
 

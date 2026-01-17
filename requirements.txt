@@ -1,0 +1,17 @@
+# MomsRecipes Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Image Processing
+# Required for: process_images.py, image_safeguards.py, optimize_images.py
+Pillow>=9.0.0
+
+# PDF Processing (choose one)
+# Required for: pdf_safeguards.py
+# Option 1: PyMuPDF (preferred - better text extraction)
+PyMuPDF>=1.21.0
+
+# Option 2: pypdf (lighter weight alternative)
+# pypdf>=3.0.0
+
+# Note: All other scripts use Python standard library only
+# (json, pathlib, datetime, re, argparse, os, sys)
