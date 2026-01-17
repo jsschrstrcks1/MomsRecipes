@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "mains",
-    "count": 226,
+    "count": 231,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -27027,6 +27027,617 @@
       },
       "image_refs": [
         "IMG_5477 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "stewed-chicken-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Stewed Chicken",
+      "category": "mains",
+      "subcategory": "chicken",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 315",
+      "description": "Use this chicken and its broth in recipes that call for cooked chicken or broth.",
+      "servings_yield": "5 1/2 cups broth and 2 1/2 cups chopped meat",
+      "prep_time": "15 minutes",
+      "cook_time": "40 minutes",
+      "total_time": "55 minutes",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2 1/2 to 3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "celery with leaves",
+          "quantity": "3",
+          "unit": "stalks",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "carrots",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "large onion",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "quartered"
+        },
+        {
+          "item": "sprigs parsley",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried thyme, sage, or basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "6",
+          "unit": "cups",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin chicken, if desired. Rinse. In a 4 1/2-quart Dutch oven combine chicken; celery; carrots; onion; parsley; salt; thyme, sage, or basil; pepper; and bay leaves. Add water. Bring to boiling; reduce heat. Cover and simmer for 40 minutes."
+        },
+        {
+          "step": 2,
+          "text": "Remove chicken. Strain broth through a large sieve lined with 2 layers of cheesecloth. Discard solids. If using broth while hot, skim off fat. (Or, if storing broth for later use, chill broth in a bowl for 6 hours. Lift off fat. Pour broth into airtight containers, discarding residue in the bottom of the bowl. Seal containers. Chill up to 2 days or freeze up to 3 months.)"
+        },
+        {
+          "step": 3,
+          "text": "When chicken is cool enough to handle, remove meat from bones; discard skin and bones. Chop meat and use immediately. (Or, if storing meat for later use, place in airtight containers; seal. Chill up to 3 days or freeze up to 3 months.) Makes about 5 1/2 cups broth and 2 1/2 cups chopped meat."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "4 1/2-quart Dutch oven",
+      "notes": [
+        "Use the broth and meat in soups, casseroles, and other recipes calling for cooked chicken"
+      ],
+      "tags": [
+        "chicken",
+        "basic",
+        "broth",
+        "stewed"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5478 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "chicken-and-noodles-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken and Noodles",
+      "category": "mains",
+      "subcategory": "chicken",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 315",
+      "description": "Hearty homestyle chicken and noodles with vegetables.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "35 minutes",
+      "ingredients": [
+        {
+          "item": "Stewed Chicken",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": "prepared"
+        },
+        {
+          "item": "hot broth from Stewed Chicken",
+          "quantity": "4",
+          "unit": "cups",
+          "prep_note": "(freeze remaining broth for another use)"
+        },
+        {
+          "item": "dried Homemade Pasta or packaged noodles",
+          "quantity": "6",
+          "unit": "oz",
+          "prep_note": "(2 1/2 cups) or one 8-oz package frozen noodles"
+        },
+        {
+          "item": "carrots",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "thinly sliced"
+        },
+        {
+          "item": "celery",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": "chopped"
+        },
+        {
+          "item": "dried thyme, sage, or basil",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare Stewed Chicken as directed, except pour 4 cups of the hot broth into the Dutch oven. (Freeze remaining broth for another use.) Bring to boiling."
+        },
+        {
+          "step": 2,
+          "text": "Add noodles, carrots, celery, onion, thyme/sage/basil, salt, and pepper. Return to boiling; reduce heat."
+        },
+        {
+          "step": 3,
+          "text": "Cover and simmer for 10 to 15 minutes or till noodles and vegetables are tender."
+        },
+        {
+          "step": 4,
+          "text": "Slowly stir cold water into flour. Add to broth. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Stir in the chopped chicken. Heat through. Serves 6."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "Dutch oven",
+      "notes": [],
+      "tags": [
+        "chicken",
+        "noodles",
+        "comfort-food",
+        "homestyle"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5478 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "chicken-and-dumplings-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken and Dumplings",
+      "category": "mains",
+      "subcategory": "chicken",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 315",
+      "description": "Old-fashioned goodness ready to eat in an hour.",
+      "servings_yield": "6 servings",
+      "prep_time": "20 minutes",
+      "cook_time": "40 minutes",
+      "total_time": "1 hour",
+      "ingredients": [
+        {
+          "item": "broiler-fryer chicken",
+          "quantity": "2 1/2 to 3",
+          "unit": "lb",
+          "prep_note": "cut up"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "poultry seasoning or dried sage or thyme",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced carrot",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced celery",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "water",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "Dumplings for Stew",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": "(see recipe, page 378)"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cold water",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Skin chicken, if desired. Rinse. In a 4 1/2-quart Dutch oven combine chicken, onion, poultry seasoning, salt, and pepper. Add 3 cups water. Bring to boiling; reduce heat. Cover and simmer for 25 minutes. Add carrot and celery. Simmer, covered, for 10 minutes more."
+        },
+        {
+          "step": 2,
+          "text": "Prepare Dumplings for Stew, omitting the herb. Drop from a tablespoon into six mounds directly onto chicken (do not drop batter into liquid). Cover; simmer about 12 minutes or till a toothpick inserted into dumplings comes out clean. Using a slotted spoon, transfer chicken, dumplings, and vegetables to a platter; cover."
+        },
+        {
+          "step": 3,
+          "text": "For gravy, skim fat from broth; discard fat. Measure 2 cups broth into the Dutch oven. Slowly stir cold water into flour. Stir into broth. Cook and stir till bubbly. Cook and stir 1 minute more. Season to taste with salt and pepper. Serve gravy over chicken and dumplings. Serves 6."
+        },
+        {
+          "step": 4,
+          "text": "Microwave directions: Skin chicken, if desired. Rinse. In a 3-quart casserole combine chicken, onion, poultry seasoning, salt, pepper, and 2 1/2 cups water. Micro-cook, covered, on 100% power (high) for 10 minutes, stirring once. Add carrot and celery. Cook, covered, on 50% power (medium) for 15 to 20 minutes or till chicken is no longer pink and vegetables are tender, stirring once. Prepare and drop Dumplings for Stew as above. Cook, covered, on high for 4 to 5 minutes or till a toothpick inserted into dumplings comes out clean. Transfer chicken, dumplings, and vegetables to a platter; cover. Skim fat from broth; discard. Measure 2 cups broth into the same casserole. Slowly stir cold water into flour; stir into broth in casserole. Cook, uncovered, on high for 5 to 6 minutes or till thickened and bubbly, stirring every minute. Cook 1 minute more. Season; serve as above."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "4 1/2-quart Dutch oven",
+      "notes": [
+        "Microwave directions included"
+      ],
+      "tags": [
+        "chicken",
+        "dumplings",
+        "comfort-food",
+        "classic",
+        "southern"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5478 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "chicken-potpies-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken Potpies",
+      "category": "mains",
+      "subcategory": "chicken",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 316",
+      "description": "Use pastry, crumbs, or biscuits to top these tasty main-course pies.",
+      "servings_yield": "6 servings",
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "45 minutes",
+      "ingredients": [
+        {
+          "item": "Pastry for Double-Crust Pie",
+          "quantity": "1",
+          "unit": "recipe",
+          "prep_note": "(see recipe, page 294)"
+        },
+        {
+          "item": "frozen peas and carrots",
+          "quantity": "10",
+          "unit": "oz package",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped fresh mushrooms",
+          "quantity": "1/2",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "dried sage, marjoram, or thyme",
+          "quantity": "1/2",
+          "unit": "tsp",
+          "prep_note": "crushed"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "2/3",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "3",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare pastry; set aside. Cook peas and carrots according to package directions; drain. In a saucepan cook onion and mushrooms in margarine or butter till tender. Stir in flour, salt, sage, marjoram, or thyme; and pepper. Add chicken broth and milk all at once. Cook and stir till thickened and bubbly. Stir in drained peas and carrots, chicken or turkey, parsley, and pimiento; heat till bubbly. Pour chicken mixture into six 10-ounce round casseroles. (Or, use a 12x7 1/2x2-inch baking dish.)"
+        },
+        {
+          "step": 2,
+          "text": "Roll pastry into a 15x10-inch rectangle. Cut into six 5-inch circles and place atop the 10-ounce casseroles. (Or, roll pastry into a 13x9-inch rectangle. Place over the 12x7 1/2x2-inch baking dish.) Flute edges of pastry and cut slits in the top for steam to escape. Bake in a 450\u00b0 oven for 12 to 15 minutes or till pastry is golden brown. Makes 6 servings."
+        }
+      ],
+      "temperature": "450\u00b0F (230\u00b0C)",
+      "pan_size": "six 10-ounce casseroles or 12x7 1/2x2-inch baking dish",
+      "notes": [
+        "Herb-Crumb-Topped Chicken Potpies: Prepare as above, except omit pastry. Stir together 1 cup herb-seasoned stuffing croutons and 2 tablespoons melted margarine or butter. Sprinkle atop chicken mixture in casseroles or dish.",
+        "Biscuit-Topped Chicken Potpies: Prepare as above, except omit pastry. Cut 1 package (6) refrigerated biscuits into quarters and arrange atop bubbly chicken mixture in casseroles or dish. Bake in a 400\u00b0 oven about 15 minutes or till biscuits are golden."
+      ],
+      "tags": [
+        "chicken",
+        "potpie",
+        "comfort-food",
+        "classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5479 Large.jpeg"
+      ],
+      "nutrition": {
+        "status": "not_calculated",
+        "per_serving": {},
+        "missing_inputs": [],
+        "assumptions": []
+      }
+    },
+    {
+      "id": "chicken-a-la-king-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chicken \u00e0 la King",
+      "category": "mains",
+      "subcategory": "chicken",
+      "attribution": "Better Homes and Gardens",
+      "source_note": "Better Homes and Gardens New Cook Book, page 316",
+      "description": "A great way to use leftover chicken or turkey.",
+      "servings_yield": "4 servings",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "ingredients": [
+        {
+          "item": "margarine or butter",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "sliced fresh mushrooms or mushroom stems and pieces",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": "or one 4-ounce can, drained"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1 1/2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chicken broth",
+          "quantity": "1",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "cubed cooked chicken or turkey",
+          "quantity": "2",
+          "unit": "cups",
+          "prep_note": ""
+        },
+        {
+          "item": "chopped pimiento",
+          "quantity": "1/4",
+          "unit": "cup",
+          "prep_note": ""
+        },
+        {
+          "item": "dry sherry",
+          "quantity": "2",
+          "unit": "tbsp",
+          "prep_note": "optional"
+        },
+        {
+          "item": "toast points or baked patty shells",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": "or 4 baked patty shells"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan melt margarine. If using fresh mushrooms, add mushrooms and cook till tender. Stir in flour, 1/2 teaspoon salt, and 1/4 teaspoon pepper. Add milk and chicken broth all at once. Cook and stir till thickened and bubbly. Cook and stir for 1 minute more."
+        },
+        {
+          "step": 2,
+          "text": "Add canned mushrooms, if using. Stir in chicken or turkey, pimiento, and, if desired, dry sherry. Heat through. Spoon atop toast points. Serves 4."
+        },
+        {
+          "step": 3,
+          "text": "Microwave directions: Do not use fresh mushrooms. In a 2-quart casserole micro-cook margarine, uncovered, on 100% power (high) for 30 to 45 seconds or till melted. Stir in flour, salt, and pepper. Add milk and 1/2 cup chicken broth all at once. Stir to combine. Cook, uncovered, on high for 5 to 7 minutes or till thickened and bubbly, stirring every minute till mixture starts to thicken, then every 30 seconds. Stir in canned mushrooms, chicken or turkey, pimiento, and, if desired, sherry. Cook, covered, on high for 2 to 4 minutes or till heated through; stir once. Serve as above. Do not micro-cook recipes below."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "saucepan",
+      "notes": [
+        "Cheesy Chicken \u00e0 la King: Prepare as above, except add 1 cup shredded American or process Swiss cheese to the thickened mixture before adding the chicken or turkey. Stir till cheese melts.",
+        "Curried Chicken \u00e0 la King: Prepare as above, except add 1 teaspoon curry powder to melted margarine or butter; cook for 1 minute. Omit dry sherry. If desired, add 1 tablespoon chutney with chicken or turkey.",
+        "Herbed Chicken \u00e0 la King: Prepare as above, except cook 2 tablespoons finely chopped green pepper or sliced green onion; 1 clove garlic, minced; and 1/2 teaspoon dried basil, crushed, in melted margarine or butter till tender."
+      ],
+      "tags": [
+        "chicken",
+        "classic",
+        "creamy",
+        "quick"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5479 Large.jpeg"
       ],
       "nutrition": {
         "status": "not_calculated",
