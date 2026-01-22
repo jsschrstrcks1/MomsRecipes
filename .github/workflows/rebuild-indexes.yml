@@ -1,0 +1,36 @@
+name: Rebuild Indexes
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/**', 'scripts/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate recipes
+        run: python scripts/validate-recipes.py
+
+      - name: Rebuild indexes
+        run: |
+          python scripts/build-ingredient-index.py
+          # Add other scripts as needed (e.g., build_shards.py, build-pagefind.py)
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Rebuild indexes [skip ci]"
+          git push
