@@ -389,3 +389,27 @@ To clean up sessions you no longer need:
 ```
 
 From the session picker, navigate to a session and delete it to keep your session list manageable.
+
+---
+
+## Multi-LLM Integration
+
+This repository has access to the multi-LLM orchestrator system. External models (GPT, Gemini, Grok) serve as **consultants only** — Claude remains lead author and decision-maker.
+
+### Available Skills
+
+| Skill | Usage | Purpose |
+|-------|-------|---------|
+| `/consult` | `/consult gpt structure "review this recipe format"` | Quick single-model second opinion |
+| `/orchestrate` | `/orchestrate recipe "MomMom's chocolate cake variations"` | Full multi-model pipeline |
+| Cognitive Memory | Automatic on session start | Cross-session knowledge persistence |
+
+### Mode: `recipe`
+- **Lead:** GPT (generation)
+- **Pipeline:** Generate (GPT) → Expand (Gemini) → Safety Check (Claude) → Creative Variation (Grok)
+- **Memory scope:** `/recipes/momsrecipes`
+- **Orchestrator:** `/home/user/ken/orchestrator/`
+
+### Context Boundaries
+- **SEND:** Recipe requirements, ingredient lists, dietary constraints
+- **NEVER SEND:** Family attribution details, site analytics, personal details
