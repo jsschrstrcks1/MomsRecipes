@@ -1,391 +1,141 @@
-# MomMom's Kitchen - AI Assistant Context
+# MomMom's Kitchen — AI Assistant Context
 
-## Project Mission & Values
+**Version:** 2.0 (lean hub)
+**Last updated:** 2026-05-01
 
-This is a labor of love being performed by a Reformed Baptist family. Our ethos is **Soli Deo Gloria** (Glory to God Alone).
+> **Soli Deo Gloria.** A labor of love by a Reformed Baptist family. Real
+> people will eat from these recipes — accuracy matters more than speed.
 
-This repository is a **standalone collection** containing MomMom Baker's recipes - family recipes passed down through generations.
-
-**Accuracy is more important than speed.** There are hundreds of real people that will be impacted by these recipes. They matter deeply to this family.
-
----
-
-## Standalone Collection Architecture
-
-This repo is part of a multi-repo Family Recipe Archive:
-
-```
-MomsRecipes/           (THIS REPO - MomMom Baker)
-GrandmasRecipes/       (Grandma Baker - separate repo)
-GrannysRecipes/        (Granny Hudson - separate repo)
-ReferenceRecipes/      (Reference cookbooks - separate repo)
-FamilyRecipeHub/       (aggregator with cross-collection features)
-```
-
-### This Repository Contains ONLY:
-- MomMom Baker's recipe images (`data/*.jpeg`)
-- MomMom Baker's recipe data (`data/recipes.json`)
-- A standalone website for browsing this collection
-- Collection-specific processing scripts
-
-### Collection Info
-```json
-{
-  "id": "mommom",
-  "display_name": "MomMom Baker",
-  "description": "Family recipes passed down through generations"
-}
-```
+This repo is a **standalone collection** holding **MomMom Baker's recipes**. It
+is part of the multi-repo Family Recipe Archive (Grandma, Granny, Reference).
 
 ---
 
-## OCR Correction Guidelines
+## Quick Start (read first)
 
-### Common OCR Errors to Watch For
-- `l` ↔ `1` (lowercase L vs number one)
-- `O` ↔ `0` (letter O vs zero)
-- `rn` ↔ `m` (r-n combination vs letter m)
-- `cl` ↔ `d` (c-l combination vs letter d)
-- `tsp` vs `tbsp` (critical for measurements!)
+1. **Image API limit is 2000 px.** Always read from `data/processed/`, not `data/`.
+2. **PDF API limit is 100 pages / 50 MB.** Use `scripts/pdf_safeguards.py` for big books.
+3. **Never invent** ingredients, steps, temperatures, times, or yields.
+4. **Mark unclear text `[UNCLEAR]`.** Don't guess.
+5. **Run `python scripts/validate-recipes.py`** before every commit.
+6. **Every recipe must have `"collection": "mommom"`.**
 
-### Measurement Standardization
-| Original | Standardized |
-|----------|-------------|
-| teaspoon, t, t. | tsp |
-| tablespoon, T, Tbsp, Tbs | tbsp |
-| cup, c, C | cup |
-| ounce, oz | oz |
-| pound, lb, # | lb |
-
-### Temperature Format
-Prefer dual format: `350°F (175°C)`
+When sources conflict: accuracy → preservation → fidelity → readability.
 
 ---
 
-## Image Processing
+## Essential Reading
 
-### CRITICAL: MomMom's images are iPhone photos (4032x3024px)
+### Standards (extracted)
 
-**API LIMIT**: Claude's API rejects images >2000px in any dimension.
+| File | What it covers |
+|---|---|
+| [`.claude/standards/OCR_STANDARDS.md`](.claude/standards/OCR_STANDARDS.md) | OCR error patterns, measurement standardization, temperature format |
+| [`.claude/standards/IMAGE_WORKFLOW.md`](.claude/standards/IMAGE_WORKFLOW.md) | Image processing, 2000 px limit, manifest commands |
+| [`.claude/standards/PDF_WORKFLOW.md`](.claude/standards/PDF_WORKFLOW.md) | PDF size limits, text extraction, Foxfire workflow |
+| [`.claude/standards/RECIPE_SCHEMA.md`](.claude/standards/RECIPE_SCHEMA.md) | Full recipe JSON schema with conversion + nutrition fields |
+| [`.claude/standards/SESSION_MANAGEMENT.md`](.claude/standards/SESSION_MANAGEMENT.md) | Resuming sessions, naming, picker shortcuts |
 
-**ALWAYS use processed images:**
-```
-CORRECT:   data/processed/*.jpeg  (resized to ≤2000px)
-WRONG:     data/*.jpeg            (original 4032x3024px - TOO LARGE!)
-```
+### Operations
 
-**Before processing images, run:**
-```bash
-python scripts/process_images.py
-python scripts/image_safeguards.py validate
-```
-
-### Image Status Commands
-```bash
-# Check manifest status
-python scripts/image_safeguards.py status
-
-# Get next unprocessed image
-python scripts/image_safeguards.py next
-
-# Mark image as processed/skipped
-python scripts/image_safeguards.py mark "Moms Recipes - 1.jpeg" processed
-python scripts/image_safeguards.py mark "Moms Recipes - 2.jpeg" skipped "Not a recipe"
-```
+| File | What it covers |
+|---|---|
+| [`MAINTENANCE.md`](MAINTENANCE.md) | Routine maintenance schedules and checklists |
+| [`SCRIPTS.md`](SCRIPTS.md) | Every script with usage examples |
+| [`DATA_SCHEMA.md`](DATA_SCHEMA.md) | Recipe JSON schema (canonical) |
+| [`TROUBLESHOOTING.md`](TROUBLESHOOTING.md) | Common errors and fixes |
+| [`requirements.txt`](requirements.txt) | Python dependencies |
 
 ---
 
-## PDF Processing
-
-### CRITICAL: Large PDFs can crash AI sessions
-
-**SIZE LIMITS** for Claude's PDF reading:
-| Metric | Soft Limit | Hard Limit | Action |
-|--------|------------|------------|--------|
-| File size | 10 MB | 50 MB | Extract text |
-| Page count | 100 pages | 500 pages | Use page ranges or extract |
-| Page dimensions | - | 2000px | May affect embedded images |
-
-**ALWAYS validate PDFs first:**
-```bash
-python scripts/pdf_safeguards.py validate
-```
-
-### PDF Status Commands
-```bash
-# Check all PDFs in data/
-python scripts/pdf_safeguards.py validate
-
-# View current status
-python scripts/pdf_safeguards.py status
-
-# Get detailed info on a specific PDF
-python scripts/pdf_safeguards.py info "Foxfire-Book-2.pdf"
-
-# Extract text from oversized PDF
-python scripts/pdf_safeguards.py extract "Foxfire-Book-2.pdf"
-
-# Mark PDF as processed
-python scripts/pdf_safeguards.py mark "foxfire-three.pdf" processed
-```
-
-### Workflow for Large PDFs (like Foxfire volumes)
-1. **Validate**: `python scripts/pdf_safeguards.py validate`
-2. **If oversized**: Extract text with `python scripts/pdf_safeguards.py extract <file>`
-3. **Process**: Work with the `.txt` file instead of the raw PDF
-4. **Example**: `FoxfireVol1.txt.html` was used instead of reading the PDF directly
-
-### Current PDF Status
-- `Foxfire-Book-2.pdf` (18MB) - LARGE, text extraction recommended
-- `foxfire-three.pdf` (17MB) - LARGE, text extraction recommended
-- `FoxfireVol1.txt.html` - Already extracted, recipes processed
-
----
-
-## Recipe Schema
-
-```json
-{
-  "id": "stable-slug-like-chicken-casserole",
-  "collection": "mommom",
-  "collection_display": "MomMom Baker",
-  "title": "",
-  "category": "desserts",
-  "attribution": "",
-  "source_note": "e.g., handwritten card, magazine clipping",
-  "description": "1-2 sentences, only if supported by text",
-  "servings_yield": "",
-  "prep_time": "",
-  "cook_time": "",
-  "total_time": "",
-  "ingredients": [
-    {"item": "", "quantity": "", "unit": "", "prep_note": ""}
-  ],
-  "instructions": [
-    {"step": 1, "text": ""}
-  ],
-  "temperature": "",
-  "pan_size": "",
-  "notes": [""],
-  "tags": ["dessert", "holiday", "casserole"],
-  "confidence": {
-    "overall": "high|medium|low",
-    "flags": []
-  },
-  "image_refs": ["Moms Recipes - 1.jpeg"],
-
-  "conversions": {
-    "has_conversions": true,
-    "conversion_assumptions": [],
-    "ingredients_metric": [],
-    "temperature_c": ""
-  },
-
-  "nutrition": {
-    "status": "complete|partial|insufficient_data",
-    "per_serving": {},
-    "missing_inputs": [],
-    "assumptions": []
-  }
-}
-```
-
----
-
-## Project Structure
+## Repository at a Glance
 
 ```
 MomsRecipes/
-├── CLAUDE.md                 # This file - AI assistant context
+├── CLAUDE.md                 # This hub
 ├── MAINTENANCE.md            # Routine maintenance procedures
-├── DATA_SCHEMA.md            # Recipe JSON schema reference
-├── SCRIPTS.md                # Script documentation
-├── TROUBLESHOOTING.md        # Common issues and fixes
-├── README.md                 # Setup instructions
-├── requirements.txt          # Python dependencies
-├── index.html                # Home page
-├── recipe.html               # Recipe detail page
-├── styles.css                # Stylesheet
-├── script.js                 # Client-side rendering
+├── DATA_SCHEMA.md            # Canonical recipe schema
+├── SCRIPTS.md                # Script catalogue
+├── TROUBLESHOOTING.md        # Known issues + fixes
+├── README.md                 # Public-facing overview
+├── requirements.txt          # Python deps
+├── index.html / recipe.html  # Static site
+├── styles.css / script.js    # Site bundle
 ├── data/
-│   ├── *.jpeg               # Original recipe images (OVERSIZED!)
-│   ├── processed/           # AI-friendly versions (≤2000px) - USE THESE!
-│   │   └── *.jpeg
-│   ├── recipes.json         # All recipes for this collection (~2700+)
-│   ├── recipes-index.json   # Search/browse index (generated)
-│   ├── recipes-{category}.json # Category shards (generated)
-│   ├── collections.json     # Collection metadata
-│   ├── foraging_tips.json   # Foraging tips and safety rules
-│   ├── image_manifest.json  # Image validation status
-│   └── pdf_manifest.json    # PDF validation status
+│   ├── *.jpeg                # Originals (4032×3024 — DO NOT read directly)
+│   ├── processed/            # AI-safe ≤2000 px copies — USE THESE
+│   ├── recipes.json          # ~2,700+ recipes
+│   ├── recipes-index.json    # Generated browse index
+│   ├── recipes-{cat}.json    # Generated category shards
+│   ├── collections.json      # Collection metadata
+│   ├── foraging_tips.json    # Foraging tips & safety rules
+│   ├── image_manifest.json   # Image validation status
+│   └── pdf_manifest.json     # PDF validation status
 ├── scripts/
-│   ├── validate-recipes.py  # Recipe validation
-│   ├── process_images.py    # Image resizing for AI
-│   ├── image_safeguards.py  # Image size/broken detection
-│   ├── pdf_safeguards.py    # PDF size validation & text extraction
-│   ├── optimize_images.py   # JPEG optimization
-│   ├── create_shards.py     # Generate category shards
-│   └── add_*.py             # Recipe ingestion scripts (37+)
+│   ├── validate-recipes.py
+│   ├── process_images.py     # Resize for AI
+│   ├── image_safeguards.py   # Manifest + size detection
+│   ├── pdf_safeguards.py     # PDF size + text extraction
+│   ├── optimize_images.py    # JPEG optimization
+│   ├── create_shards.py      # Regenerate category shards
+│   └── add_*.py              # Recipe ingestion scripts (37+)
+├── .claude/standards/        # Extracted reference files (see above)
 └── ebook/
-    ├── book.html            # Print-optimized HTML
-    └── print.css            # Print stylesheet
+    ├── book.html             # Print-optimized
+    └── print.css
 ```
-
----
-
-## Quality Checklist
-
-- [ ] Cross-check ingredient quantities against instructions
-- [ ] Flag implausible amounts (e.g., "4 cups salt" is probably an OCR error)
-- [ ] Preserve original voice where possible
-- [ ] Verify temperatures are reasonable (most baking: 300-425°F)
-- [ ] Check that liquid-to-dry ratios make sense
 
 ---
 
 ## Non-Negotiable Rules
 
-1. **Do NOT invent** ingredients, steps, temperatures, times, or yields
-2. If anything is **unreadable or ambiguous**, mark it as `[UNCLEAR]`
-3. **Preserve original intent**, but normalize spelling and formatting
-4. **Keep family names/attributions** if present
-5. **Never discard a scan reference** - keep all image_refs
-6. **All recipes must have** `"collection": "mommom"`
+1. Do NOT invent ingredients, steps, temperatures, times, or yields.
+2. Mark unreadable / ambiguous text as `[UNCLEAR]` — never guess.
+3. Preserve original intent; normalize only spelling and formatting.
+4. Keep family names and attributions.
+5. Never discard a `image_refs` reference, even on merged duplicates.
+6. Every recipe must have `"collection": "mommom"`.
+7. Never read images >2000 px directly — use `data/processed/`.
+8. Never load a PDF >100 pages or >50 MB without first running `pdf_safeguards.py`.
 
 ---
 
-## Validation
-
-Run before committing:
-```bash
-python scripts/validate-recipes.py
-```
-
-This checks:
-- Required fields present
-- Valid category values
-- Reasonable ingredient quantities
-- Temperature sanity
-- Image references exist
-
----
-
-## Routine Maintenance
-
-> **Full documentation:** See [MAINTENANCE.md](MAINTENANCE.md) for complete procedures.
-
-### When User Asks for Maintenance
-
-If a user asks you to "do maintenance" or "check the repository health", perform these tasks:
-
-#### Quick Health Check
-```bash
-# 1. Validate recipes
-python scripts/validate-recipes.py
-
-# 2. Check shard freshness
-python3 -c "
-import json
-m = len(json.load(open('data/recipes.json'))['recipes'])
-i = len(json.load(open('data/recipes-index.json'))['recipes'])
-print(f'Master: {m}, Index: {i}')
-print('STALE - regenerate shards' if m != i else 'OK')
-"
-
-# 3. Check image status
-python scripts/image_safeguards.py status
-
-# 4. Count processing logs
-ls data/processing_log_*.json 2>/dev/null | wc -l
-```
-
-#### Common Maintenance Tasks
-
-| Task | Command | When |
-|------|---------|------|
-| Validate recipes | `python scripts/validate-recipes.py` | Before every commit |
-| Regenerate shards | `python scripts/create_shards.py` | After bulk recipe additions |
-| Process new images | `python scripts/process_images.py` | After adding images |
-| Validate images | `python scripts/image_safeguards.py validate` | After processing |
-| Optimize images | `python scripts/optimize_images.py` | Monthly |
-| Clean old logs | `find data -name "processing_log_*.json" -mtime +30 -delete` | Monthly |
-
-#### After Bulk Recipe Additions (10+ recipes)
-
-1. Run validation: `python scripts/validate-recipes.py`
-2. Regenerate shards: `python scripts/create_shards.py`
-3. Commit with descriptive message
-4. Push to branch
-
-### Related Documentation
-
-| Document | Contents |
-|----------|----------|
-| [MAINTENANCE.md](MAINTENANCE.md) | Complete maintenance procedures, schedules, checklists |
-| [SCRIPTS.md](SCRIPTS.md) | All scripts with usage examples |
-| [DATA_SCHEMA.md](DATA_SCHEMA.md) | Recipe JSON schema, field definitions |
-| [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | Common errors and solutions |
-| [requirements.txt](requirements.txt) | Python dependencies |
-
-### Current Recipe Sources
+## Recipe Sources
 
 | Source | Batches | Recipes | Notes |
-|--------|---------|---------|-------|
-| MomMom's Cards | - | ~800 | Original family recipes |
-| Eat the Weeds | 1-12 | ~157 | Wild edibles, foraging |
-| Honest Food | 1-5 | ~45 | Wild game, unusual meats |
+|---|---|---|---|
+| MomMom's Cards | — | ~800 | Original family recipes |
+| Eat the Weeds | 1–12 | ~157 | Wild edibles, foraging |
+| Honest Food | 1–5 | ~45 | Wild game, unusual meats |
 | Foxfire Books | Multiple | ~35 | Appalachian heritage |
 | BHG Cookbooks | 1 | Various | Better Homes & Gardens |
 
 ---
 
-## Claude Code Session Management
+## Maintenance Cheat Sheet
 
-### Resuming Previous Sessions
-
-When returning to work on this project, you can resume previous Claude Code sessions:
-
-**From the command line:**
 ```bash
-# Resume most recent session
-claude --continue
+# Quick health check
+python scripts/validate-recipes.py
+python scripts/image_safeguards.py status
+ls data/processing_log_*.json 2>/dev/null | wc -l
 
-# Resume a specific named session
-claude --resume recipe-ocr-batch
-
-# Browse all sessions interactively
-claude --resume
+# After bulk recipe additions (10+)
+python scripts/validate-recipes.py
+python scripts/create_shards.py
 ```
 
-**Inside an active session:**
-```
-/resume          # Open session picker to switch sessions
-/rename task-name  # Name the current session for easy resuming later
-```
+Full procedures live in [`MAINTENANCE.md`](MAINTENANCE.md).
 
-### Session Picker Shortcuts
+---
 
-| Key | Action |
-|-----|--------|
-| `↑` `↓` | Navigate sessions |
-| `Enter` | Select session |
-| `P` | Preview session content |
-| `R` | Rename session |
-| `/` | Search sessions |
-| `Esc` | Exit picker |
+## Version History
 
-### Best Practices for This Project
+| Version | Date | Changes |
+|---|---|---|
+| 2.0 | 2026-05-01 | Lean hub restructure. Extracted OCR / image / PDF / schema / session subfiles into `.claude/standards/`. CLAUDE.md cut from ~391 lines to ~120. |
+| 1.x | 2026-01..03 | Original monolithic context file. |
 
-1. **Name sessions by task**: `/rename ocr-batch-42` or `/rename foxfire-extraction`
-2. **Use descriptive names**: Include the image range or PDF being processed
-3. **Continue quickly**: Use `claude --continue` when returning to finish a task
-4. **Preview before resuming**: Press `P` in the picker to verify you're resuming the right session
+---
 
-### Deleting Old Sessions
-
-To clean up sessions you no longer need:
-```
-/delete          # Delete current or selected session
-```
-
-From the session picker, navigate to a session and delete it to keep your session list manageable.
+*"She looketh well to the ways of her household, and eateth not the bread of idleness."* — Proverbs 31:27
