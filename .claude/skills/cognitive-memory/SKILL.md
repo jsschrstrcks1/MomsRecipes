@@ -1,6 +1,7 @@
 ---
 name: cognitive-memory
 description: "Cross-repository cognitive memory system with semantic search. Persists knowledge across sessions using TF-IDF recall, memory versioning, knowledge graph edges, and confidence decay. Memory is cognition, not storage."
+description: Cross-repository cognitive memory system. Persists knowledge across sessions using encode, consolidate, recall, extract, and forget operations. Memory is cognition, not storage.
 trigger:
   - keyword: [memory, remember, recall, forget, "what do we know", "last session", "previous session", "what was", "do you remember"]
   - intent: ["recalling past context", "storing new knowledge", "resolving contradictions", "session continuity"]
@@ -35,6 +36,28 @@ At the beginning of every session, recall relevant memories:
 ```bash
 python3 /home/user/ken/orchestrator/memory_ops.py recall "" --domain recipes --limit 10
 python3 /home/user/ken/orchestrator/memory_ops.py tree --domain recipes
+---
+
+# Cognitive Memory System
+
+> Memory as stewardship: what we remember shapes how we serve.
+
+## Overview
+
+This skill provides persistent cognitive memory across Claude Code sessions. It is NOT a database — it is a reasoning layer that encodes selectively, consolidates contradictions, recalls adaptively, and forgets intentionally.
+
+**Memory store:** `/home/user/.memory/memory.json`
+**Configuration:** `/home/user/.memory/memory-config.json`
+**Operations script:** `/home/user/.memory/memory_ops.py`
+**Archive:** `/home/user/.memory/archive/`
+
+## Session Start Protocol
+
+At the beginning of every session, recall relevant memories for this repository:
+
+```bash
+python3 /home/user/.memory/memory_ops.py recall "" --scope /momsrecipes --limit 10
+python3 /home/user/.memory/memory_ops.py tree /momsrecipes
 ```
 
 Present a brief summary to the user:
@@ -54,6 +77,21 @@ python3 /home/user/ken/orchestrator/memory_ops.py encode recipes <type> "content
 **Types:** insight, decision, pattern, fact, preference
 
 **Importance → confidence mapping:**
+## Five Cognitive Operations
+
+### 1. REMEMBER — When you learn something new
+
+```bash
+python3 /home/user/.memory/memory_ops.py remember "FACT" \
+  --scope /momsrecipes/DOMAIN \
+  --categories CAT1 CAT2 \
+  --importance 0.0-1.0 \
+  --confidence high|medium|low \
+  --source-type session|user|notebook|document \
+  --source-ref "SOURCE"
+```
+
+**Importance guidelines:**
 - 0.9: Critical decisions, corrections, structural changes
 - 0.7: Important observations, verified facts
 - 0.5: General notes, routine work
@@ -105,6 +143,29 @@ Shows memory count, types, edge connections, and version chains per domain.
 
 ```bash
 python3 /home/user/ken/orchestrator/memory_ops.py forget <id> --domain recipes
+### 2. RECALL — When you need past context
+
+```bash
+python3 /home/user/.memory/memory_ops.py recall "QUERY" --scope /momsrecipes
+```
+
+**Trust but verify:** If recall confidence is "low", say so. Don't present uncertain memories as facts.
+
+### 3. EXTRACT — After processing large content
+
+Decompose large outputs into atomic facts. Each fact gets its own REMEMBER call with appropriate scope, importance, and confidence.
+
+### 4. TREE — To see what we know
+
+```bash
+python3 /home/user/.memory/memory_ops.py tree /momsrecipes
+```
+
+### 5. FORGET — To keep memory useful
+
+```bash
+python3 /home/user/.memory/memory_ops.py forget --scope /momsrecipes --older-than 90 --dry-run
+python3 /home/user/.memory/memory_ops.py forget --scope /momsrecipes --older-than 90
 ```
 
 ## What Memory Is NOT
