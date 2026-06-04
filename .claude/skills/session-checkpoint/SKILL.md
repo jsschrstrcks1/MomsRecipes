@@ -1,5 +1,7 @@
 ---
 name: session-checkpoint
+description: "Enforces atomic commits, checkpoint summaries, rate-limit recovery, and safe resume patterns. Writes session state to cognitive-memory so interrupted sessions can restart cleanly."
+version: 1.0.0
 description: "Enforces atomic commits, checkpoint summaries, rate-limit recovery, and safe resume patterns. Writes session pulses + cognitive memory so interrupted sessions can restart cleanly."
 version: 2.0.0
 ---
@@ -10,6 +12,25 @@ version: 2.0.0
 
 ## Why This Skill Exists
 
+Claude Code makes multiple API calls per step. Large files + multi-file edits can exhaust per-minute token budgets. When a rate limit fires mid-session, work-in-progress can be lost. This skill prevents that.
+
+## Session Startup Protocol
+
+### 1. Identify the single target file
+Do not load all files simultaneously. Load only what the task requires.
+
+### 2. Write a session intent to memory
+
+```bash
+python3 /home/user/ken/orchestrator/memory_ops.py encode recipes insight \
+  "Session intent: [task description]. Target: [files]. Expected: [outcome]." \
+  --tags session,intent,checkpoint
+```
+
+### 3. Recall prior session state
+
+```bash
+python3 /home/user/ken/orchestrator/memory_ops.py recall "session checkpoint" --domain recipes --limit 5
 Claude Code makes many API calls per step. Large edits can exhaust per-minute token budgets, and a rate-limit kill in the middle of a multi-file change loses uncommitted work silently. This skill prevents that with two complementary mechanisms:
 
 1. **Cognitive memory checkpoints** — narrative state for the next session.
@@ -57,6 +78,10 @@ python3 /home/user/ken/orchestrator/memory_ops.py recall "session checkpoint" --
 
 ## Checkpoint Protocol (During Work)
 
+After every logical unit of work, encode to memory:
+
+```bash
+python3 /home/user/ken/orchestrator/memory_ops.py encode recipes insight \
 After every logical unit of work do **both**:
 
 **A. Beat the pulse** — refreshes the at-risk-files snapshot.
@@ -74,6 +99,7 @@ python3 /home/user/ken/orchestrator/memory_ops.py encode ken insight \
   --tags session,checkpoint
 ```
 
+### When to checkpoint:
 ### When to checkpoint
 
 - After completing a function or block edit
@@ -86,6 +112,20 @@ python3 /home/user/ken/orchestrator/memory_ops.py encode ken insight \
 When you see `Rate limit reached` or HTTP 429:
 
 1. **Stop.** Do not retry immediately.
+2. **Encode recovery state to memory:**
+
+```bash
+python3 /home/user/ken/orchestrator/memory_ops.py encode recipes decision \
+  "RATE LIMIT RECOVERY: Interrupted at [step]. File: [name]. Last clean: [state]. Next step: [action]. Do NOT: [incomplete work]." \
+  --tags session,recovery,rate-limit --protected
+```
+
+3. **Wait 60 seconds** for per-minute limits to reset.
+4. **On resume**, recall the recovery memory first:
+
+```bash
+python3 /home/user/ken/orchestrator/memory_ops.py recall "rate limit recovery" --domain recipes --limit 3
+```
 2. **Beat one final time** with the recovery state in `--action`:
 
    ```bash
@@ -124,6 +164,10 @@ When you see `Rate limit reached` or HTTP 429:
 5. Keep responses short — the context window is shared with skills
 
 ## End of Session
+
+1. Encode final checkpoint to memory (protected)
+2. List deferred issues in a separate memory
+3. Confirm all touched files are consistent
 
 1. Write/update `HANDOFF.md` if work is incomplete (per the format in CLAUDE.md).
 2. Encode the final checkpoint to cognitive memory (use `--protected` if it's foundational).

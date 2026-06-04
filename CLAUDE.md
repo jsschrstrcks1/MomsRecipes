@@ -138,4 +138,40 @@ Full procedures live in [`MAINTENANCE.md`](MAINTENANCE.md).
 
 ---
 
+From the session picker, navigate to a session and delete it to keep your session list manageable.
+
+---
+
+## Multi-LLM Integration
+
+This repository has access to the multi-LLM orchestrator system. External models (GPT, Gemini, Grok) serve as **consultants only** — Claude remains lead author and decision-maker.
+
+### Available Skills
+
+| Skill | Usage | Purpose |
+|-------|-------|---------|
+| `/consult` | `/consult gpt structure "review this recipe format"` | Quick single-model second opinion |
+| `/orchestrate` | `/orchestrate recipe "MomMom's chocolate cake variations"` | Full multi-model pipeline |
+| Cognitive Memory | Automatic on session start | Cross-session knowledge persistence |
+
+### Mode: `recipe`
+- **Lead:** GPT (generation)
+- **Pipeline:** Generate (GPT) → Expand (Gemini) → Safety Check (Claude) → Creative Variation (Grok)
+- **Memory scope:** `/recipes/momsrecipes`
+- **Orchestrator:** `/home/user/ken/orchestrator/`
+
+### First-Time Setup (Per Session)
+
+Before first use of `/consult` or `/orchestrate` in a session, install dependencies:
+
+```bash
+bash /home/user/ken/orchestrator/bootstrap-env.sh 2>/dev/null
+pip3 install -q -r /home/user/ken/orchestrator/requirements.txt
+```
+
+This is silent when already installed. If `/consult` or `/orchestrate` fails with `ModuleNotFoundError`, run this command first.
+
+### Context Boundaries
+- **SEND:** Recipe requirements, ingredient lists, dietary constraints
+- **NEVER SEND:** Family attribution details, site analytics, personal details
 *"She looketh well to the ways of her household, and eateth not the bread of idleness."* — Proverbs 31:27
