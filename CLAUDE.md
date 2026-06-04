@@ -1,13 +1,21 @@
 # MomMom's Kitchen — AI Assistant Context
 
-**Version:** 2.0 (lean hub)
-**Last updated:** 2026-05-01
+**Version:** 2.1 (lean hub + skills index)
+**Last updated:** 2026-05-10
 
 > **Soli Deo Gloria.** A labor of love by a Reformed Baptist family. Real
 > people will eat from these recipes — accuracy matters more than speed.
 
 This repo is a **standalone collection** holding **MomMom Baker's recipes**. It
 is part of the multi-repo Family Recipe Archive (Grandma, Granny, Reference).
+
+---
+
+## Skills
+
+Full skill catalog (16 skills, the standard household kit) is documented in [`SKILLS.md`](SKILLS.md) — human-facing index with activation modes, trigger keywords, and the script-based recipe-domain logic.
+
+**Read SKILLS.md at session start.** Recipe-transcription and recipe-validation logic in this repo runs through `scripts/` (37+ ingestion scripts, plus `validate-recipes.py`, `process_images.py`, `pdf_safeguards.py`, `image_safeguards.py`, `optimize_images.py`, `create_shards.py`) rather than as packaged skills.
 
 ---
 
@@ -25,6 +33,12 @@ When sources conflict: accuracy → preservation → fidelity → readability.
 ---
 
 ## Essential Reading
+
+### Skills index
+
+| File | What it covers |
+|---|---|
+| [`SKILLS.md`](SKILLS.md) | **Skills index — read at session start** |
 
 ### Standards (extracted)
 
@@ -52,13 +66,14 @@ When sources conflict: accuracy → preservation → fidelity → readability.
 
 ```
 MomsRecipes/
-├── CLAUDE.md                 # This hub
-├── MAINTENANCE.md            # Routine maintenance procedures
-├── DATA_SCHEMA.md            # Canonical recipe schema
-├── SCRIPTS.md                # Script catalogue
-├── TROUBLESHOOTING.md        # Known issues + fixes
-├── README.md                 # Public-facing overview
-├── requirements.txt          # Python deps
+├── SKILLS.md                  # Skills index (NEW)
+├── CLAUDE.md                  # This hub
+├── MAINTENANCE.md             # Routine maintenance procedures
+├── DATA_SCHEMA.md             # Canonical recipe schema
+├── SCRIPTS.md                 # Script catalogue
+├── TROUBLESHOOTING.md         # Known issues + fixes
+├── README.md                  # Public-facing overview
+├── requirements.txt           # Python deps
 ├── index.html / recipe.html  # Static site
 ├── styles.css / script.js    # Site bundle
 ├── data/
@@ -79,7 +94,9 @@ MomsRecipes/
 │   ├── optimize_images.py    # JPEG optimization
 │   ├── create_shards.py      # Regenerate category shards
 │   └── add_*.py              # Recipe ingestion scripts (37+)
-├── .claude/standards/        # Extracted reference files (see above)
+├── .claude/
+│   ├── standards/            # Extracted reference files (see above)
+│   └── skills/               # 16 skills (see SKILLS.md)
 └── ebook/
     ├── book.html             # Print-optimized
     └── print.css
@@ -133,6 +150,7 @@ Full procedures live in [`MAINTENANCE.md`](MAINTENANCE.md).
 
 | Version | Date | Changes |
 |---|---|---|
+| 2.1 | 2026-05-10 | Added `SKILLS.md` skill index. CLAUDE.md references it. |
 | 2.0 | 2026-05-01 | Lean hub restructure. Extracted OCR / image / PDF / schema / session subfiles into `.claude/standards/`. CLAUDE.md cut from ~391 lines to ~120. |
 | 1.x | 2026-01..03 | Original monolithic context file. |
 
@@ -175,3 +193,31 @@ This is silent when already installed. If `/consult` or `/orchestrate` fails wit
 - **SEND:** Recipe requirements, ingredient lists, dietary constraints
 - **NEVER SEND:** Family attribution details, site analytics, personal details
 *"She looketh well to the ways of her household, and eateth not the bread of idleness."* — Proverbs 31:27
+
+---
+
+## Cognitive Memory — Slice 6 Observation Capture
+
+To enable always-on cognitive memory observation capture in this repo, register the canonical hook (lives in `ken`) in `.claude/settings.json`:
+
+```json
+"env": {
+  "MEMORY_OBSERVATIONS_ENABLED": "true",
+  "MEMORY_AUTO_OBSERVE_ENABLED": "true"
+},
+"hooks": {
+  "PostToolUse": [
+    {
+      "matcher": "*",
+      "hooks": [
+        {"type": "command",
+         "command": "/home/user/ken/.claude/hooks/observe-tool-use.sh"}
+      ]
+    }
+  ]
+}
+```
+
+Hook is **fail-closed**: any error → exit 0, never blocks the tool call. Args SHA256-hashed via `_compute_args_hash` before disk; raw values never persisted. Errors → `/tmp/observe-hook.err`. Surface candidates: call `memory_ops.extract_candidates_from_observations(session_id)` after a session.
+
+Setup memory: id `5a9c8ae1` (recall via `python3 /home/user/ken/orchestrator/memory_ops.py recall "Slice 6 always-on cognitive memory observation capture"`). Currently active in `ken/.claude/settings.json` (commit `ca78cad`); per-repo activation is opt-in via the absolute-path reference above.
