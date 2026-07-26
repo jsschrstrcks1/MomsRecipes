@@ -4,10 +4,7 @@
       "Read:*",
       "Edit:*",
       "Write:*",
-      "Bash:python scripts/*"
-      "Edit:*",
-      "Write:*",
-      "Read:*",
+      "Bash:python scripts/*",
       "Bash:*"
     ],
     "defaultMode": "acceptEdits"
@@ -31,7 +28,9 @@
           {
             "type": "command",
             "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/image-safety-check.sh"
-    "PreToolUse": [
+          }
+        ]
+      },
       {
         "matcher": "Write|Edit|MultiEdit",
         "hooks": [
@@ -48,6 +47,26 @@
           {
             "type": "command",
             "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-pulse-scan.sh"
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $CLAUDE_PROJECT_DIR/.claude/hooks/memory-directives-inject.sh",
+            "timeout": 30
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $CLAUDE_PROJECT_DIR/.claude/hooks/memory-autopersist.sh",
+            "timeout": 60
           }
         ]
       }
