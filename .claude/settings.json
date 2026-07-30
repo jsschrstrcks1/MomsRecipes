@@ -60,6 +60,15 @@
             "timeout": 30
           }
         ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $CLAUDE_PROJECT_DIR/.claude/hooks/reasoning-log-inject.sh",
+            "timeout": 30
+          }
+        ]
       }
     ],
     "Stop": [
@@ -68,6 +77,15 @@
           {
             "type": "command",
             "command": "bash $CLAUDE_PROJECT_DIR/.claude/hooks/memory-autopersist.sh",
+            "timeout": 60
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash $CLAUDE_PROJECT_DIR/.claude/hooks/reasoning-log-persist.sh",
             "timeout": 60
           }
         ]
