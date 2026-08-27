@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "desserts",
-    "count": 454,
+    "count": 463,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -46506,6 +46506,838 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "american-cookery-1796-pumpkin-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pompkin Pudding No. 1 (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 55",
+      "description": "One of the earliest published pumpkin pie recipes from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "pumpkin",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": "stewed and strained"
+        },
+        {
+          "item": "cream",
+          "quantity": "3",
+          "unit": "pints",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "9",
+          "unit": "",
+          "prep_note": "beaten"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "mace",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "ginger",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "One quart stewed and strained pumpkin, 3 pints cream, 9 beaten eggs, sugar, mace, nutmeg and ginger."
+        },
+        {
+          "step": 2,
+          "text": "Laid into paste No. 7 or 3, and with a dough spur, cross and chequer it."
+        },
+        {
+          "step": 3,
+          "text": "Bake in dishes three quarters of an hour."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "This is one of the earliest published pumpkin pie recipes in America.",
+        "The word 'pompkin' was common spelling in 1796.",
+        "From American Cookery (1796), the first American cookbook."
+      ],
+      "tags": [
+        "dessert",
+        "pudding",
+        "pie",
+        "pumpkin",
+        "historical",
+        "1796",
+        "american-classic",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5960.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-pumpkin-pudding-2",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pompkin Pudding No. 2 (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 55",
+      "description": "A simpler pumpkin pie variation from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "pumpkin",
+          "quantity": "1",
+          "unit": "pint",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "4",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "allspice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "ginger",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "One quart of milk, 1 pint pumpkin, 4 eggs, molasses, allspice and ginger in a crust."
+        },
+        {
+          "step": 2,
+          "text": "Bake 1 hour."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "dessert",
+        "pudding",
+        "pie",
+        "pumpkin",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5960.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-apple-pie",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Apple Pie (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 52",
+      "description": "Traditional apple pie recipe from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "apples",
+          "quantity": "3",
+          "unit": "pints",
+          "prep_note": "stewed and strained"
+        },
+        {
+          "item": "lemon peel",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": "fresh, grated"
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "mace",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "rose-water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Stew and strain the apples."
+        },
+        {
+          "step": 2,
+          "text": "To every three pints, grate the peel of a fresh lemon, add cinnamon, mace, rose-water and sugar to your taste."
+        },
+        {
+          "step": 3,
+          "text": "Bake in paste No. 3."
+        },
+        {
+          "step": 4,
+          "text": "Every species of fruit such as peas, plums, raspberries, black berries may be only sweetened, without spices\u2014and bake in paste No. 3."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "dessert",
+        "pie",
+        "apple",
+        "fruit",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5955.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-indian-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "A Nice Indian Pudding No. 1 (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 53",
+      "description": "Traditional Indian pudding (cornmeal pudding) from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "milk",
+          "quantity": "3",
+          "unit": "pints",
+          "prep_note": "scalded"
+        },
+        {
+          "item": "Indian meal",
+          "quantity": "7",
+          "unit": "spoons",
+          "prep_note": "fine cornmeal"
+        },
+        {
+          "item": "eggs",
+          "quantity": "7",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "raisins",
+          "quantity": "0.5",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "spice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "sugar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "3 pints scalded milk, 7 spoons fine Indian meal, stir well together while hot, let stand till cooled."
+        },
+        {
+          "step": 2,
+          "text": "Add 7 eggs, half pound raisins, 4 ounces butter, spice and sugar."
+        },
+        {
+          "step": 3,
+          "text": "Bake one and half hour."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "dessert",
+        "pudding",
+        "cornmeal",
+        "historical",
+        "1796",
+        "american-classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5957.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-rice-pudding",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "A Rice Pudding No. 1 (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 52",
+      "description": "Traditional rice pudding from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "rice",
+          "quantity": "0.25",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "stick",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "0.5",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "rose-water",
+          "quantity": "4",
+          "unit": "spoons",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "8",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for puff paste dish"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "One quarter of a pound rice, a stick of cinnamon, to a quart of milk (stirred often to keep from burning)."
+        },
+        {
+          "step": 2,
+          "text": "Boil quick, cool and add half a nutmeg, 4 spoons rose-water, 8 eggs."
+        },
+        {
+          "step": 3,
+          "text": "Butter or puff paste a dish and pour the above composition into it."
+        },
+        {
+          "step": 4,
+          "text": "Bake one and half hour."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "dessert",
+        "pudding",
+        "rice",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5956.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cookies (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 63",
+      "description": "One of the earliest published cookie recipes in America, from the first American cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "boiled slowly in half pint water"
+        },
+        {
+          "item": "pearl ash",
+          "quantity": "2",
+          "unit": "tsp",
+          "prep_note": "dissolved in milk"
+        },
+        {
+          "item": "flour",
+          "quantity": "2.5",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": ""
+        },
+        {
+          "item": "coriander seed",
+          "quantity": "2",
+          "unit": "spoons",
+          "prep_note": "finely powdered"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "One pound sugar boiled slowly in half pint water, scum well and cool."
+        },
+        {
+          "step": 2,
+          "text": "Add two tea spoons pearl ash dissolved in milk, then two and half pounds flour, rub in 4 ounces butter, and two large spoons of finely powdered coriander seed, wet with above."
+        },
+        {
+          "step": 3,
+          "text": "Make roles half an inch thick and cut to the shape you please."
+        },
+        {
+          "step": 4,
+          "text": "Bake fifteen or twenty minutes in a slack oven\u2014good three weeks."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "This is one of the earliest published cookie recipes in America.",
+        "Pearl ash (potassium carbonate) was an early leavening agent.",
+        "From American Cookery (1796), the first American cookbook."
+      ],
+      "tags": [
+        "dessert",
+        "cookies",
+        "baking",
+        "historical",
+        "1796",
+        "american-classic"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5971.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-christmas-cookies",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Christmas Cookey (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 63",
+      "description": "Historic Christmas cookie recipe from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "flour",
+          "quantity": "3",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "coriander seed",
+          "quantity": "1",
+          "unit": "tsp",
+          "prep_note": "fine powdered"
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1.5",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "pearl ash",
+          "quantity": "3",
+          "unit": "tsp",
+          "prep_note": "dissolved in milk"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "To three pound flour, sprinkle a tea cup of fine powdered coriander seed, rub in one pound butter."
+        },
+        {
+          "step": 2,
+          "text": "Add one and half pound sugar, dissolve three tea spoons of pearl ash in a tea cup of milk."
+        },
+        {
+          "step": 3,
+          "text": "Kneed all together well, roll three quarters of an inch thick, and cut or stamp into shape and size you please."
+        },
+        {
+          "step": 4,
+          "text": "Bake slowly fifteen or twenty minutes; though hard and dry at first, if put into an earthern pot, and dry cellar, or damp room, they will be finer, softer and better when six months old."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "dessert",
+        "cookies",
+        "christmas",
+        "holiday",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5971.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-gingerbread",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Molasses Gingerbread (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 64",
+      "description": "Traditional molasses gingerbread from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cinnamon",
+          "quantity": "1",
+          "unit": "tbsp",
+          "prep_note": ""
+        },
+        {
+          "item": "allspice",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "or some coriander"
+        },
+        {
+          "item": "pearl ash",
+          "quantity": "4",
+          "unit": "tsp",
+          "prep_note": "dissolved in half pint water"
+        },
+        {
+          "item": "flour",
+          "quantity": "4",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "molasses",
+          "quantity": "1",
+          "unit": "quart",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "4",
+          "unit": "oz",
+          "prep_note": "in summer rub in the butter, if in winter warm the butter and molasses"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "One table spoon of cinnamon, some coriander or allspice, put to four tea spoons pearl ash dissolved in half pint water."
+        },
+        {
+          "step": 2,
+          "text": "Add four pound flour, one quart molasses, four ounces butter (if in summer rub in the butter, if in winter warm the butter and molasses and pour to the spiced flour)."
+        },
+        {
+          "step": 3,
+          "text": "Knead well 'till stiff, the more the better, the lighter and whiter it will be."
+        },
+        {
+          "step": 4,
+          "text": "Bake brisk fifteen minutes; don't scorch."
+        },
+        {
+          "step": 5,
+          "text": "Before it is put in, wash it with whites and sugar beat together."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "dessert",
+        "gingerbread",
+        "molasses",
+        "spiced",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5972.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-pound-cake",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pound Cake (1796)",
+      "category": "desserts",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 64",
+      "description": "Traditional pound cake from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "butter",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "flour",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "10",
+          "unit": "",
+          "prep_note": "or one pound"
+        },
+        {
+          "item": "rose water",
+          "quantity": "1",
+          "unit": "gill",
+          "prep_note": ""
+        },
+        {
+          "item": "spices",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to your taste"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "One pound sugar, one pound butter, one pound flour, one pound or ten eggs."
+        },
+        {
+          "step": 2,
+          "text": "Add rose water one gill, spices to your taste."
+        },
+        {
+          "step": 3,
+          "text": "Watch it well, it will bake in a slow oven in 15 minutes."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "dessert",
+        "cake",
+        "pound-cake",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5973.PNG",
+        "The First American Cookbook/IMG_5974.PNG"
+      ]
     }
   ]
 }

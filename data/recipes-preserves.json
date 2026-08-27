@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "preserves",
-    "count": 86,
+    "count": 89,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -6865,6 +6865,296 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "american-cookery-1796-preserved-quinces",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "For Preserving Quinces (1796)",
+      "category": "preserves",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), pages 66-67",
+      "description": "Historic quince preserving recipe from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "quinces",
+          "quantity": "1",
+          "unit": "peck",
+          "prep_note": "pared, cored"
+        },
+        {
+          "item": "frost grapes",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": "parings and cores"
+        },
+        {
+          "item": "water",
+          "quantity": "3",
+          "unit": "quarts",
+          "prep_note": ""
+        },
+        {
+          "item": "sugar",
+          "quantity": "1.25",
+          "unit": "lb",
+          "prep_note": "per pound of quince"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Take a peck of Quinces, pare them, take out the core with a sharp knife."
+        },
+        {
+          "step": 2,
+          "text": "If you wish to have them whole, boil parings and cores with two pound frost grapes in 3 quarts water, boil the liquor an hour and an half, or till it is thick."
+        },
+        {
+          "step": 3,
+          "text": "Strain it through a coarse hair sieve, add one and a quarter pound sugar to every pound of quince."
+        },
+        {
+          "step": 4,
+          "text": "Put the sugar into the syrup, scald and skim it till it is clear."
+        },
+        {
+          "step": 5,
+          "text": "Put the quinces into the syrup, hang them over a gentle fire for five hours, then put them in a stone pot for use, set them in a dry cool place."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "preserves",
+        "quince",
+        "fruit",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5977.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-pickled-cucumbers",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "To Pickle Cucumbers (1796)",
+      "category": "preserves",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), pages 73-74",
+      "description": "Historic cucumber pickle recipe from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "cucumbers",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "small, fresh gathered, free from spots"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for brine, strong enough to bear an egg"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "white wine vinegar",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "the best"
+        },
+        {
+          "item": "cloves",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "sliced"
+        },
+        {
+          "item": "mace",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "nutmeg",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "white pepper corns",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "long pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "ginger",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "races of"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Let your cucumbers be small, fresh gathered, and free from spots."
+        },
+        {
+          "step": 2,
+          "text": "Then make a pickle of salt and water, strong enough to bear an egg."
+        },
+        {
+          "step": 3,
+          "text": "Boil the pickle and skim it well, and then pour it upon your cucumbers, and stive them down for twenty four hours."
+        },
+        {
+          "step": 4,
+          "text": "Then strain them out into a cullender, and dry them well with a cloth."
+        },
+        {
+          "step": 5,
+          "text": "Take the best white wine vinegar, with cloves, sliced mace, nutmeg, white pepper corns, long pepper, and races of ginger (as much as you please), boil them up together."
+        },
+        {
+          "step": 6,
+          "text": "Then clap the cucumbers in, with a few vine leaves, and a little salt, and as soon as they begin to turn their colour, put them into jars, stive them down close, and when cold, tie on a bladder and leather."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "preserves",
+        "pickles",
+        "cucumber",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5985.PNG",
+        "The First American Cookbook/IMG_5986.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-currant-jelly",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Currant Jelly (1796)",
+      "category": "preserves",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 71",
+      "description": "Historic currant jelly recipe from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "currants",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "stripped from stalks"
+        },
+        {
+          "item": "sugar",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "per pint of juice"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Having stripped the currants from the stalks, put them in a stone jar, stop it close."
+        },
+        {
+          "step": 2,
+          "text": "Set it in a kettle of boiling water, half way the jar, let it boil half an hour."
+        },
+        {
+          "step": 3,
+          "text": "Take it out and strain the juice through a coarse hair sieve."
+        },
+        {
+          "step": 4,
+          "text": "To a pint of juice put a pound of sugar, set it over a fine quick fire in a preserving pan, or a bell-metal skillet."
+        },
+        {
+          "step": 5,
+          "text": "Keep stirring it all the time till the sugar be melted, then skim the scum off as fast as it rises."
+        },
+        {
+          "step": 6,
+          "text": "When the jelly is very clear and fine, pour it into earthen or china cups, when cold, cut white papers just the bigness of the top of the pot, and lay on the jelly."
+        },
+        {
+          "step": 7,
+          "text": "Dip those papers in brandy, then cover the top of the pot and prick it full of holes, set it in a dry place; you may put some into glasses for present use."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "preserves",
+        "jelly",
+        "currant",
+        "fruit",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5983.PNG"
+      ]
     }
   ]
 }

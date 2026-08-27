@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "salads",
-    "count": 75,
+    "count": 82,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -5216,7 +5216,8 @@
         "creamy"
       ],
       "image_refs": [
-        "IMG_5506 Large.jpeg"
+        "IMG_5506 Large.jpeg",
+        "IMG_5515 Large.jpeg"
       ],
       "confidence": {
         "overall": "high",
@@ -8121,6 +8122,631 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "cherry-apple-salad-mold-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cherry-Apple Salad Mold",
+      "category": "salads",
+      "source_note": "Better Homes & Gardens New Cook Book, page 352",
+      "description": "A gelatin salad mold with cherries, apples, celery, and walnuts in cherry gelatin.",
+      "servings_yield": "4 to 5 side-dish servings",
+      "ingredients": [
+        {
+          "item": "frozen unsweetened pitted dark sweet cherries",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "apple cider or apple juice",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "cherry-flavored gelatin",
+          "quantity": "1",
+          "unit": "3-ounce package"
+        },
+        {
+          "item": "applesauce",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "soft-style cream cheese",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Let cherries stand at room temperature while preparing gelatin mixture."
+        },
+        {
+          "step": 2,
+          "text": "In a saucepan bring 1 1/2 cups apple cider to boiling; remove from heat. Add gelatin; stir till dissolved. Chill till partially set."
+        },
+        {
+          "step": 3,
+          "text": "Halve partially thawed cherries. Stir cherries, applesauce, celery, and nuts into gelatin mixture."
+        },
+        {
+          "step": 4,
+          "text": "Pour into a 3- or 3 1/2-cup mold. Chill till firm. Unmold onto a lettuce-lined plate, if desired."
+        },
+        {
+          "step": 5,
+          "text": "For sauce, stir enough apple cider or apple juice (3 to 4 tablespoons) into cream cheese to make a sauce of spooning consistency. Pass sauce with salad."
+        }
+      ],
+      "tags": [
+        "salad",
+        "gelatin",
+        "mold",
+        "cherries",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5514 Large.jpeg"
+      ]
+    },
+    {
+      "id": "creamy-fruit-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Creamy Fruit Salad",
+      "category": "salads",
+      "source_note": "Better Homes & Gardens New Cook Book, page 352",
+      "description": "A creamy gelatin salad with mandarin oranges, banana, and walnuts in a sour cream base.",
+      "servings_yield": "8 side-dish servings",
+      "ingredients": [
+        {
+          "item": "mandarin orange sections",
+          "quantity": "1",
+          "unit": "11-ounce can"
+        },
+        {
+          "item": "lemon-flavored gelatin",
+          "quantity": "1",
+          "unit": "3-ounce package"
+        },
+        {
+          "item": "beaten eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1",
+          "unit": "8-ounce carton"
+        },
+        {
+          "item": "cream cheese, cubed and softened",
+          "quantity": "1",
+          "unit": "3-ounce package"
+        },
+        {
+          "item": "medium banana, sliced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "chopped walnuts",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain orange sections, reserving syrup. Add enough orange juice to syrup to measure 1 cup."
+        },
+        {
+          "step": 2,
+          "text": "In a medium saucepan bring mixture to boiling. Remove from heat. Add gelatin; stir till dissolved."
+        },
+        {
+          "step": 3,
+          "text": "Gradually stir about 1 cup of the hot mixture into eggs. Return mixture to saucepan. Cook and stir till nearly bubbly; reduce heat. Cook and stir for 1 to 2 minutes more, but do not boil."
+        },
+        {
+          "step": 4,
+          "text": "Remove from heat. Add sour cream and cream cheese. Beat till smooth. Chill till partially set."
+        },
+        {
+          "step": 5,
+          "text": "Fold in oranges, banana, and nuts. Transfer to a 10x6x2-inch dish. Chill till firm."
+        }
+      ],
+      "tags": [
+        "salad",
+        "gelatin",
+        "fruit",
+        "creamy",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5514 Large.jpeg"
+      ]
+    },
+    {
+      "id": "berry-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Berry Salad",
+      "category": "salads",
+      "source_note": "Better Homes & Gardens New Cook Book, page 352",
+      "description": "A gelatin salad with strawberries and raspberries in strawberry or raspberry-flavored gelatin.",
+      "servings_yield": "8 side-dish servings",
+      "ingredients": [
+        {
+          "item": "frozen sliced strawberries, thawed",
+          "quantity": "1",
+          "unit": "10-ounce package"
+        },
+        {
+          "item": "frozen red raspberries, thawed",
+          "quantity": "1",
+          "unit": "10-ounce package"
+        },
+        {
+          "item": "strawberry- or raspberry-flavored gelatin",
+          "quantity": "1",
+          "unit": "6-ounce package"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "1 1/4",
+          "unit": "cups"
+        },
+        {
+          "item": "cranberry juice cocktail or apple juice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Drain berries; reserve syrup from each. Dissolve gelatin in boiling water."
+        },
+        {
+          "step": 2,
+          "text": "Stir in reserved syrup, cranberry juice cocktail or apple juice, and lemon juice."
+        },
+        {
+          "step": 3,
+          "text": "Chill till partially set (the consistency of unbeaten egg whites). Fold in berries."
+        },
+        {
+          "step": 4,
+          "text": "Pour into a 5- or 5 1/2-cup mold. Cover; chill till firm."
+        },
+        {
+          "step": 5,
+          "text": "Unmold onto a plate lined with leaf lettuce."
+        }
+      ],
+      "tags": [
+        "salad",
+        "gelatin",
+        "berries",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5514 Large.jpeg"
+      ]
+    },
+    {
+      "id": "beef-asparagus-salad-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beef-Asparagus Salads",
+      "category": "salads",
+      "source_note": "Better Homes & Gardens New Cook Book, page 336",
+      "description": "A great way to use leftover beef. Main-dish salad with beef, asparagus, tomatoes, and mushrooms.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "olive oil or salad oil",
+          "quantity": "1/3",
+          "unit": "cup"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "dry sherry or red wine vinegar",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "lemon-pepper seasoning",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "sliced cooked beef or turkey",
+          "quantity": "12",
+          "unit": "oz",
+          "prep_note": "cut into thin strips"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "asparagus spears",
+          "quantity": "3/4",
+          "unit": "pound"
+        },
+        {
+          "item": "leaf lettuce",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "small tomatoes, sliced",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "medium cucumber, thinly sliced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "For marinade, in a screw-top jar combine oil, lemon juice, sherry or vinegar, and lemon-pepper seasoning. Cover and shake well."
+        },
+        {
+          "step": 2,
+          "text": "In a mixing bowl combine beef or turkey and onion. Add marinade. Toss lightly to coat. Let stand at room temperature for 20 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Meanwhile, cook asparagus in boiling salted water for 10 to 15 minutes or till nearly tender. Drain asparagus. Rinse with cold water. Let stand, covered with cold water."
+        },
+        {
+          "step": 4,
+          "text": "Drain beef and onion, reserving 3 tablespoons of the marinade for Basil Mayonnaise."
+        },
+        {
+          "step": 5,
+          "text": "For salads, line 4 salad plates with lettuce. Cut tomatoes in half and arrange around edge of each plate. Arrange one-fourth of the cucumber, mushrooms, asparagus spears, and beef mixture in center of each plate. Serve with Basil Mayonnaise."
+        }
+      ],
+      "notes": [
+        "Basil Mayonnaise: Mix together 1/2 cup mayonnaise or salad dressing, 3 tablespoons reserved marinade, and 1 tablespoon snipped fresh basil or 1 teaspoon dried basil, crushed."
+      ],
+      "tags": [
+        "salad",
+        "beef",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5498 Large.jpeg"
+      ]
+    },
+    {
+      "id": "marinated-steak-salads-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Marinated Steak Salads",
+      "category": "salads",
+      "source_note": "Better Homes & Gardens New Cook Book, page 336",
+      "description": "The steak marinates in a tangy herb-flavored dressing after you cook it.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "boneless beef sirloin steak",
+          "quantity": "1",
+          "unit": "pound",
+          "prep_note": "cut 1 inch thick"
+        },
+        {
+          "item": "frozen artichoke hearts, thawed",
+          "quantity": "1",
+          "unit": "9-ounce package"
+        },
+        {
+          "item": "cherry tomatoes, halved",
+          "quantity": "10",
+          "unit": ""
+        },
+        {
+          "item": "medium carrot, thinly bias sliced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "green onions, sliced",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "olive oil or salad oil",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "red wine vinegar",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "finely shredded lemon peel",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried thyme, crushed",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "garlic salt",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried marjoram, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "cracked black pepper",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "torn salad greens",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced fresh mushrooms",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Slash fat edges of steak at 1-inch intervals, being careful not to cut into meat. Place steak on the unheated rack of a broiler pan. Broil 3 inches from the heat for 6 minutes. Turn steak. Broil to desired doneness (allow 6 to 9 minutes more for medium). Cool slightly; cut into thin slices. Place steak slices in a plastic bag; place bag in a bowl."
+        },
+        {
+          "step": 2,
+          "text": "Cut any large artichoke hearts in half. Add artichoke hearts, cherry tomatoes, carrot, and green onions to the plastic bag. Set aside."
+        },
+        {
+          "step": 3,
+          "text": "For marinade, in a screw-top jar combine olive oil, vinegar, lemon peel and juice, thyme, garlic salt, marjoram, and pepper. Cover and shake well. Pour marinade over steak and vegetables in the bag. Seal bag. Marinate in the refrigerator for 6 to 24 hours, turning bag occasionally."
+        },
+        {
+          "step": 4,
+          "text": "For salad, toss together greens and mushrooms. Place greens and mushrooms on 4 salad plates. Drain steak and vegetables, reserving marinade, if desired. Arrange steak and vegetables over greens on plates. Drizzle with reserved marinade, if desired."
+        }
+      ],
+      "tags": [
+        "salad",
+        "beef",
+        "steak",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5498 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cranberry-relish-ring-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cranberry Relish Ring",
+      "category": "salads",
+      "source_note": "Better Homes & Gardens New Cook Book, page 354",
+      "description": "A festive cranberry gelatin mold with pineapple and orange.",
+      "servings_yield": "12 side-dish servings",
+      "ingredients": [
+        {
+          "item": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "cherry-flavored gelatin",
+          "quantity": "1",
+          "unit": "3-ounce package"
+        },
+        {
+          "item": "raspberry-flavored gelatin",
+          "quantity": "1",
+          "unit": "3-ounce package"
+        },
+        {
+          "item": "boiling water",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "lemon-lime carbonated beverage",
+          "quantity": "1",
+          "unit": "12-ounce can"
+        },
+        {
+          "item": "crushed pineapple",
+          "quantity": "1",
+          "unit": "8 1/4-ounce can"
+        },
+        {
+          "item": "small orange, quartered and seeded",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "cranberries",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Dissolve sugar and gelatins in boiling water. Add carbonated beverage and undrained pineapple."
+        },
+        {
+          "step": 2,
+          "text": "Chill till partially set (the consistency of unbeaten egg whites). Using a food processor or food grinder with a coarse blade, grind unpeeled orange and cranberries. Fold cranberry mixture into gelatin."
+        },
+        {
+          "step": 3,
+          "text": "Pour into a 6 1/2-cup ring mold or a 12x7 1/2x2-inch dish. Chill till firm."
+        }
+      ],
+      "notes": [
+        "Shortcut Cranberry Relish Ring: Prepare as above, except reduce sugar to 1/4 cup and substitute two 10-ounce packages frozen cranberry-orange relish, thawed, for the ground orange and cranberries."
+      ],
+      "tags": [
+        "salad",
+        "gelatin",
+        "cranberry",
+        "holiday",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5516 Large.jpeg"
+      ]
+    },
+    {
+      "id": "frozen-black-cherry-cups-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Frozen Black Cherry Cups",
+      "category": "salads",
+      "source_note": "Better Homes & Gardens New Cook Book, page 354",
+      "description": "Frozen fruit salad cups with pineapple, cherries, banana, and pecans.",
+      "servings_yield": "12 side-dish servings",
+      "ingredients": [
+        {
+          "item": "crushed pineapple, drained",
+          "quantity": "1",
+          "unit": "8 1/4-ounce can"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1",
+          "unit": "8-ounce carton"
+        },
+        {
+          "item": "vanilla yogurt",
+          "quantity": "1",
+          "unit": "8-ounce carton"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "pitted dark sweet cherries, drained",
+          "quantity": "1",
+          "unit": "16-ounce can"
+        },
+        {
+          "item": "medium banana, peeled and coarsely chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "toasted pecans, chopped",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Combine pineapple, sour cream, yogurt, and lemon juice. Gently stir in cherries, banana, and pecans."
+        },
+        {
+          "step": 2,
+          "text": "Spoon into 12 paper bake cups in muffin pans. Cover and freeze for 2 to 24 hours."
+        },
+        {
+          "step": 3,
+          "text": "To serve, let stand at room temperature about 20 minutes to thaw slightly. Remove paper bake cups. Place on lettuce-lined salad plates."
+        }
+      ],
+      "tags": [
+        "salad",
+        "frozen",
+        "fruit",
+        "cherries",
+        "side-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5516 Large.jpeg"
+      ]
     }
   ]
 }

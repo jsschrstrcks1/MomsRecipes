@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "soups",
-    "count": 61,
+    "count": 69,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -6790,6 +6790,821 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "vegetable-beef-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Vegetable-Beef Soup",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 374",
+      "description": "A hearty beef soup with vegetables including corn, tomatoes, potatoes, and green beans.",
+      "servings_yield": "6 main-dish servings",
+      "ingredients": [
+        {
+          "item": "beef shank crosscuts",
+          "quantity": "3",
+          "unit": "pounds"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "salt",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried oregano, crushed",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried marjoram, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "frozen whole kernel corn",
+          "quantity": "1",
+          "unit": "10-ounce package"
+        },
+        {
+          "item": "chopped, peeled tomatoes (or canned)",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "cubed, peeled potatoes",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "fresh or frozen cut green beans",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced carrots",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "sliced celery",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large Dutch oven or kettle combine meat, bay leaves, salt, oregano, marjoram, pepper, and 8 cups water. Bring to boiling; reduce heat. Cover and simmer for 2 hours. Remove meat."
+        },
+        {
+          "step": 2,
+          "text": "When cool enough to handle, cut meat off bones and coarsely chop. Discard bones. Strain broth through a large sieve or colander lined with 2 layers of cheesecloth. Skim fat and return broth to kettle."
+        },
+        {
+          "step": 3,
+          "text": "Stir in meat, corn, tomatoes, potatoes, beans, carrots, celery, and onion. Return to boiling; reduce heat. Cover and simmer about 30 minutes or till vegetables are crisp-tender. Discard bay leaves."
+        }
+      ],
+      "notes": [
+        "Shortcut version: substitute 1 pound beef stew meat cut into 1/2-inch cubes for the beef shank crosscuts"
+      ],
+      "tags": [
+        "soup",
+        "beef",
+        "vegetables",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5535 Large.jpeg"
+      ]
+    },
+    {
+      "id": "chili-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Chili",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 376",
+      "description": "Thick, hearty, and packed with flavor. A classic chili with ground beef, tomatoes, and kidney beans.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "3/4",
+          "unit": "pound"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "item": "tomatoes, cut up",
+          "quantity": "1",
+          "unit": "16-ounce can"
+        },
+        {
+          "item": "dark red kidney beans, drained",
+          "quantity": "1",
+          "unit": "16-ounce can"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "8-ounce can"
+        },
+        {
+          "item": "chili powder",
+          "quantity": "2 to 3",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan cook ground beef, onion, green pepper, and garlic till meat is brown. Drain fat."
+        },
+        {
+          "step": 2,
+          "text": "Stir in undrained tomatoes, kidney beans, tomato sauce, chili powder, basil, salt, and pepper."
+        },
+        {
+          "step": 3,
+          "text": "Bring to boiling; reduce heat. Cover; simmer for 20 minutes."
+        }
+      ],
+      "notes": [
+        "Microwave directions: In a 2-quart casserole combine beef, onion, green pepper, and garlic. Micro-cook, covered, on 100% power (high) for 6 to 9 minutes or till meat is no longer pink and vegetables are tender, stirring once. Drain. Stir in remaining ingredients. Cook, covered, on high for 9 to 11 minutes or till heated through, stirring twice."
+      ],
+      "tags": [
+        "soup",
+        "chili",
+        "beef",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5537 Large.jpeg"
+      ]
+    },
+    {
+      "id": "barley-beef-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Barley-Beef Soup",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 376",
+      "description": "Hearty beef and barley soup with vegetables.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "beef or lamb stew meat, cut into 1-inch cubes",
+          "quantity": "3/4",
+          "unit": "pound"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "water",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "instant beef bouillon granules",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "item": "dried rosemary or basil, crushed",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "frozen mixed vegetables",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "parsnips or potatoes, cut into 1/2-inch cubes",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "tomatoes, cut up",
+          "quantity": "1",
+          "unit": "7 1/2-ounce can"
+        },
+        {
+          "item": "quick-cooking barley",
+          "quantity": "1/4",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large Dutch oven brown half of the meat in hot oil. Drain fat. Add water, onion, celery, bouillon granules, garlic, rosemary, bay leaf, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boiling; reduce heat. Cover; simmer for 1 hour for beef (45 minutes for lamb)."
+        },
+        {
+          "step": 3,
+          "text": "Stir in frozen vegetables, parsnips, undrained tomatoes, and barley. Return to boiling; reduce heat. Cover; simmer 15 minutes or till tender. Discard bay leaf."
+        }
+      ],
+      "notes": [
+        "Substitute 1/4 cup pearl barley; add with water."
+      ],
+      "tags": [
+        "soup",
+        "beef",
+        "barley",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5537 Large.jpeg"
+      ]
+    },
+    {
+      "id": "mulligatawny-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Mulligatawny",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 378",
+      "description": "A curried chicken soup with vegetables, apple, and rice. Indian-inspired comfort food.",
+      "servings_yield": "3 main-dish servings",
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "quantity": "2 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "tomatoes, cut up",
+          "quantity": "1",
+          "unit": "7 1/2-ounce can"
+        },
+        {
+          "item": "chopped celery",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "peeled cooking apple, chopped",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped carrot",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "curry powder",
+          "quantity": "1 to 1 1/2",
+          "unit": "tsp"
+        },
+        {
+          "item": "lemon juice",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "cubed, cooked chicken",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "hot cooked rice",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a saucepan mix broth, undrained tomatoes, celery, apple, carrot, onion, parsley, curry powder, lemon juice, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boiling; reduce heat. Cover; simmer 15 minutes, stirring often."
+        },
+        {
+          "step": 3,
+          "text": "Stir in chicken; heat through. Serve with rice and, if desired, flaked coconut."
+        }
+      ],
+      "notes": [
+        "Microwave directions: In a 2-quart casserole mix all ingredients but chicken and rice. Micro-cook, covered, on 100% power (high) for 12 to 15 minutes or till tender; stir once. Add chicken. Cook, uncovered, on high for 1 to 2 minutes more. Serve with rice."
+      ],
+      "tags": [
+        "soup",
+        "chicken",
+        "curry",
+        "indian",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5539 Large.jpeg"
+      ]
+    },
+    {
+      "id": "herbed-lamb-stew-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Herbed Lamb Stew",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 375",
+      "description": "A hearty lamb or pork stew with vegetables and sour cream.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "lamb or pork stew meat, cut into 3/4-inch cubes",
+          "quantity": "1",
+          "unit": "pound"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "beef broth",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "dry red wine or beef broth",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "item": "dried marjoram, crushed",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "item": "peeled potatoes, cut into 1/2-inch cubes",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "sliced carrots",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "celery, cut into 1/2-inch slices",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "dairy sour cream",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "3",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large saucepan brown meat, half at a time, in hot oil. Drain fat. Return all meat to pan. Add broth, wine, garlic, marjoram, bay leaf, 1/4 teaspoon salt, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 2,
+          "text": "Bring to boiling; reduce heat. Cover; simmer 20 minutes or till nearly tender. Stir in potatoes, carrots, celery, and onion. Return to boiling; reduce heat. Cover; simmer about 30 minutes or till tender."
+        },
+        {
+          "step": 3,
+          "text": "Discard bay leaf. Mix sour cream and flour. Stir 1/2 cup of the hot liquid into sour cream mixture. Return to pan. Cook and stir till bubbly. Cook and stir 1 minute."
+        }
+      ],
+      "notes": [
+        "Microwave directions available in original source"
+      ],
+      "tags": [
+        "stew",
+        "lamb",
+        "pork",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5536 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cioppino-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cioppino",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 379",
+      "description": "California-born, this stew combines three kinds of fish and seafood in a tomato broth.",
+      "servings_yield": "5 main-dish servings",
+      "ingredients": [
+        {
+          "item": "fresh or frozen fish fillets",
+          "quantity": "1",
+          "unit": "pound"
+        },
+        {
+          "item": "chopped green pepper",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "tomatoes, cut up",
+          "quantity": "1",
+          "unit": "16-ounce can"
+        },
+        {
+          "item": "tomato sauce",
+          "quantity": "1",
+          "unit": "8-ounce can"
+        },
+        {
+          "item": "dry white or red wine",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "snipped parsley",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dried oregano, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried basil, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "minced clams",
+          "quantity": "1",
+          "unit": "6 1/2-ounce can"
+        },
+        {
+          "item": "shrimp, rinsed and drained",
+          "quantity": "1",
+          "unit": "4 1/2-ounce can"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Thaw fish, if frozen. Cut fish into 1-inch pieces. In a large saucepan cook green pepper, onion, and garlic in hot oil till tender."
+        },
+        {
+          "step": 2,
+          "text": "Add tomatoes, tomato sauce, wine, parsley, oregano, basil, salt, and dash pepper. Bring to boiling; reduce heat. Cover and simmer 20 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add fish, undrained clams, and shrimp. Bring just to boiling; reduce heat. Cover and simmer 5 to 7 minutes or till fish flakes easily with a fork."
+        }
+      ],
+      "tags": [
+        "soup",
+        "seafood",
+        "fish",
+        "italian",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5540 Large.jpeg"
+      ]
+    },
+    {
+      "id": "new-england-clam-chowder-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "New England Clam Chowder",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 379",
+      "description": "Serve this creamy chowder as a main dish or a side dish.",
+      "servings_yield": "4 main-dish servings or 6 to 8 side-dish servings",
+      "ingredients": [
+        {
+          "item": "shucked clams or two 6 1/2-ounce cans minced clams",
+          "quantity": "1",
+          "unit": "pint"
+        },
+        {
+          "item": "bacon, halved",
+          "quantity": "2",
+          "unit": "slices"
+        },
+        {
+          "item": "potatoes, finely chopped and peeled",
+          "quantity": "2 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "instant chicken bouillon granules",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried thyme, crushed",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "milk",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "light cream",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Chop shucked clams, reserving juice; set clams aside. Strain clam juice to remove bits of shell. (Or, drain canned clams, reserving juice.) If necessary, add water to clam juice to equal 1 cup. Set clam-juice mixture aside."
+        },
+        {
+          "step": 2,
+          "text": "In a large saucepan cook bacon till crisp. Remove bacon, reserving 1 tablespoon drippings. Drain bacon on paper towels; crumble. Set aside."
+        },
+        {
+          "step": 3,
+          "text": "In the same saucepan combine reserved bacon drippings, reserved clam juice, potatoes, onion, bouillon granules, Worcestershire sauce, thyme, and pepper. Bring to boiling; reduce heat. Cover and simmer about 10 minutes or till potatoes are tender."
+        },
+        {
+          "step": 4,
+          "text": "With the back of a fork, mash potatoes slightly against the side of the pan. Combine milk, cream, and flour till smooth. Add to potato mixture. Cook and stir till slightly thickened and bubbly. Stir in clams. Return to boiling; reduce heat. Cook 1 to 2 minutes more. Sprinkle each serving with some of the crumbled bacon."
+        }
+      ],
+      "notes": [
+        "Fish Chowder: Prepare as above, except substitute 1 pound fresh or frozen fish steaks, cut 3/4 inch thick, for clams."
+      ],
+      "tags": [
+        "soup",
+        "chowder",
+        "clams",
+        "seafood",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5540 Large.jpeg"
+      ]
+    },
+    {
+      "id": "ham-and-bean-soup-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Ham and Bean Soup",
+      "category": "soups",
+      "source_note": "Better Homes & Gardens New Cook Book, page 377",
+      "description": "Classic ham and navy bean soup.",
+      "servings_yield": "4 main-dish servings",
+      "ingredients": [
+        {
+          "item": "dry navy beans",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "water",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "item": "smoked pork hocks or meaty ham bone",
+          "quantity": "1 to 1 1/2",
+          "unit": "pounds"
+        },
+        {
+          "item": "sliced celery",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "dried thyme, crushed",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "salt",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "bay leaf",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Rinse beans. In a large saucepan combine beans and water. Bring to boiling; reduce heat. Simmer for 2 minutes. Remove from heat. Cover and let stand for 1 hour. (Or, skip boiling the water and soak beans overnight in a covered pan.)"
+        },
+        {
+          "step": 2,
+          "text": "Drain and rinse beans. In the same pan combine beans, 4 cups fresh water, pork, celery, onion, thyme, salt, pepper, and bay leaf. Bring to boiling; reduce heat. Cover; simmer about 1 hour or till beans are tender."
+        },
+        {
+          "step": 3,
+          "text": "Remove meat. When cool enough to handle, cut meat off bones and coarsely chop. Discard bones and bay leaf. Slightly mash beans in saucepan. Return the meat to saucepan. Heat through."
+        }
+      ],
+      "notes": [
+        "Shortcut Ham and Bean Soup: Prepare as above, except omit dry beans. In a large saucepan combine 3 cups water, pork, celery, onion, thyme, salt, pepper, and bay leaf. Cover and simmer for 45 minutes. When cool enough to handle, cut meat off bones and coarsely chop. Discard bones and bay leaf. Return meat to saucepan. Stir in one 15-ounce can undrained navy or great northern beans. Heat through."
+      ],
+      "tags": [
+        "soup",
+        "ham",
+        "beans",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5538 Large.jpeg"
+      ]
     }
   ]
 }

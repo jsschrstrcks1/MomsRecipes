@@ -2,6 +2,31 @@
 
 # Reasoning Log
 
+## 2026-08-27 — CI rebuild step fixed + 91 missing recipes resharded (patron syl, HLS audit0827-mom-ci-missing-script + audit0827-mom-91-recipes-unsharded)
+
+**Asked.** Ken: "go" — work the audit board. This repo's P0/P1 pair: the Rebuild Indexes
+workflow invokes scripts/build-ingredient-index.py, which does not exist here, so the job
+fails at that step — and because it fails, the shards were never rebuilt after 2026-01-17,
+leaving 91 recipes present in data/recipes.json but absent from every shard, list, and search.
+
+**Weighed.** Options for the workflow: port Allrecipes' ingredient-index builder, or point
+the step at the script this repo actually has. Chose the latter — create_shards.py is the
+script whose absence from the workflow caused the observable damage, and nothing in this
+repo consumes an ingredient index (that gap is Allrecipes' finding). Ran the validator first
+(warnings only, no errors), then create_shards.py from repo root.
+
+**Decided.** Workflow step now runs scripts/create_shards.py. Regenerated: index 2,644,
+shard sum 2,644, master-minus-shards = 0, and the two probe recipes from the audit
+(direct-grilling-meat-guide-bhg, broiling-meat-guide-bhg) verified present. Nine new
+category shards appeared (frostings, sandwiches, dairy, charcuterie, ...) because those
+categories post-date the last shard run.
+
+**Unsure.** The workflow fix is verified only by YAML syntax and by running the same command
+locally — the Actions run itself will prove it on the next push to main. The index meta
+date mirrors the master's 2026-01-23 stamp rather than today; that is how the script works
+and I left it (the master file was not touched).
+
+
 **For Ken. A running record of *how* and *why* — not just *what*.**
 
 You asked for a live stream of consciousness: when you ask me a question or hand me a

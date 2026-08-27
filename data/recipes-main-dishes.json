@@ -1,7 +1,7 @@
 {
   "meta": {
     "category": "main-dishes",
-    "count": 265,
+    "count": 273,
     "parent_collection": "mommom"
   },
   "recipes": [
@@ -10677,7 +10677,8 @@
         "flags": []
       },
       "image_refs": [
-        "IMG_5392 Large 2.jpeg"
+        "IMG_5392 Large 2.jpeg",
+        "IMG_5392 Large.jpeg"
       ],
       "nutrition": {
         "status": "partial",
@@ -11183,7 +11184,8 @@
         "flags": []
       },
       "image_refs": [
-        "IMG_5394 Large 2.jpeg"
+        "IMG_5394 Large 2.jpeg",
+        "IMG_5394 Large.jpeg"
       ],
       "nutrition": {
         "status": "partial",
@@ -29770,6 +29772,745 @@
         "flags": []
       },
       "image_refs": []
+    },
+    {
+      "id": "beef-bourguignonne-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Beef Bourguignonne",
+      "category": "main-dishes",
+      "source_note": "Better Homes & Gardens New Cook Book, page 374",
+      "description": "A classic French stew flavored with burgundy wine, mushrooms, and pearl onions.",
+      "servings_yield": "6 main-dish servings",
+      "ingredients": [
+        {
+          "item": "boneless beef chuck roast, cut into 3/4-inch cubes",
+          "quantity": "1",
+          "unit": "pound"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "chopped onion",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "garlic, minced",
+          "quantity": "1",
+          "unit": "clove"
+        },
+        {
+          "item": "burgundy",
+          "quantity": "1 1/2",
+          "unit": "cups"
+        },
+        {
+          "item": "beef broth",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "item": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "dried thyme, crushed",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "dried marjoram, crushed",
+          "quantity": "3/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "item": "medium carrots, cut into 3/4-inch pieces",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "item": "pearl onions or frozen whole onions",
+          "quantity": "1/2",
+          "unit": "pound"
+        },
+        {
+          "item": "all-purpose flour",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "water",
+          "quantity": "1/4",
+          "unit": "cup"
+        },
+        {
+          "item": "bacon, crisp-cooked, drained, and crumbled",
+          "quantity": "2",
+          "unit": "slices"
+        },
+        {
+          "item": "hot cooked noodles",
+          "quantity": "3",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large Dutch oven or kettle cook half of the meat in 1 tablespoon of the hot oil till meat is brown. Remove from pan and add remaining oil, remaining meat, the chopped onion, and garlic. Cook till meat is brown and onion is tender. Drain fat. Return all meat to Dutch oven."
+        },
+        {
+          "step": 2,
+          "text": "Stir in burgundy, beef broth, bay leaves, thyme, marjoram, 1/2 teaspoon salt, and 1/4 teaspoon pepper. Bring to boiling; reduce heat. Cover and simmer for 45 minutes."
+        },
+        {
+          "step": 3,
+          "text": "Add mushrooms, carrots, and pearl onions. Return to boiling; reduce heat. Cover and cook for 25 to 30 minutes more or till tender."
+        },
+        {
+          "step": 4,
+          "text": "Combine flour and water. Stir into meat mixture. Cook and stir till thickened and bubbly. Cook and stir 1 minute more. Discard bay leaves."
+        },
+        {
+          "step": 5,
+          "text": "Stir in bacon. Serve with noodles and, if desired, garnish with parsley."
+        }
+      ],
+      "notes": [
+        "Crockery-cooker directions available in original source"
+      ],
+      "tags": [
+        "stew",
+        "beef",
+        "french",
+        "wine",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5535 Large.jpeg"
+      ]
+    },
+    {
+      "id": "pork-kebabs-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pork Kebabs",
+      "category": "main-dishes",
+      "source_note": "Better Homes & Gardens New Cook Book, page 233",
+      "description": "Partially freeze pork for easier slicing. Grilled pork with vegetables on skewers.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "fresh ears of corn, cut into 1-inch pieces",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "item": "boneless pork, cut into 1-inch cubes",
+          "quantity": "1",
+          "unit": "pound"
+        },
+        {
+          "item": "green sweet red pepper, cut into pieces",
+          "quantity": "1",
+          "unit": "large"
+        },
+        {
+          "item": "taco sauce",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "item": "lime juice",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "margarine or butter, melted",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Cook corn in boiling water for 5 minutes. Drain."
+        },
+        {
+          "step": 2,
+          "text": "On 4 long skewers alternately thread pork, corn, and pepper pieces."
+        },
+        {
+          "step": 3,
+          "text": "Combine taco sauce and lime juice; set aside. Combine margarine and salt; brush onto kabobs."
+        },
+        {
+          "step": 4,
+          "text": "Grill directly over medium-hot coals, turning and brushing with margarine mixture, for 15 to 18 minutes. Broil 4 to 5 inches from the heat for 15 to 18 minutes or till meat is no longer pink. Serve with taco sauce."
+        }
+      ],
+      "tags": [
+        "pork",
+        "kebabs",
+        "grilling",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5393 Large.jpeg"
+      ]
+    },
+    {
+      "id": "pork-chow-mein-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Pork Chow Mein",
+      "category": "main-dishes",
+      "source_note": "Better Homes & Gardens New Cook Book, page 233",
+      "description": "Classic Chinese-American stir-fry served over noodles.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "boneless pork, cut into 1-inch pieces",
+          "quantity": "1",
+          "unit": "pound"
+        },
+        {
+          "item": "cooking oil",
+          "quantity": "1/2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "celery, thinly bias-sliced",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "item": "fresh mushrooms",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "fresh bean sprouts",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "item": "bamboo shoots, drained",
+          "quantity": "1",
+          "unit": "8-ounce can"
+        },
+        {
+          "item": "sliced water chestnuts, drained",
+          "quantity": "1",
+          "unit": "8-ounce can"
+        },
+        {
+          "item": "green onions, bias-sliced into 1-inch pieces",
+          "quantity": "10",
+          "unit": ""
+        },
+        {
+          "item": "soy sauce",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "item": "dry sherry or water",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "cornstarch",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "item": "instant chicken bouillon",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "item": "pepper",
+          "quantity": "1/4",
+          "unit": "tsp"
+        },
+        {
+          "item": "grated gingerroot",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "item": "hot cooked rice",
+          "quantity": "2 to 3",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "In a large skillet brown half of the pork in hot oil. Brown remaining pork with onion rings and garlic. Return all pork to skillet."
+        },
+        {
+          "step": 2,
+          "text": "Stir in undrained tomatoes, bouillon granules, thyme, and 1/4 teaspoon pepper."
+        },
+        {
+          "step": 3,
+          "text": "Cover. Simmer 45 minutes or till tender."
+        },
+        {
+          "step": 4,
+          "text": "Skim fat, if necessary. Combine flour and 1/4 cup cold water; stir into pork mixture. Cook and stir till thickened and bubbly. Cook and stir for 1 minute more. Serve over noodles."
+        }
+      ],
+      "tags": [
+        "pork",
+        "chinese",
+        "stir-fry",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5393 Large.jpeg"
+      ]
+    },
+    {
+      "id": "cheesy-chicken-kiev-bhg",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Cheesy Chicken Kiev",
+      "category": "main-dishes",
+      "source_note": "Better Homes & Gardens New Cook Book, page 304",
+      "description": "A variation of Chicken Kiev with cheese instead of butter filling.",
+      "servings_yield": "4 servings",
+      "ingredients": [
+        {
+          "item": "whole large chicken breasts, skinned, boned, halved",
+          "quantity": "2",
+          "unit": "",
+          "prep_note": "about 2 pounds total"
+        },
+        {
+          "item": "caraway cheese, Gruy\u00e8re, blue cheese, Camembert, Brie, or cheddar",
+          "quantity": "4",
+          "unit": "sticks",
+          "prep_note": "2x1/2-inch sticks, rind removed if needed"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Prepare as for Chicken Kiev, except substitute the cheese sticks for the butter in the chicken rolls."
+        }
+      ],
+      "notes": [
+        "See Chicken Kiev recipe for full preparation method"
+      ],
+      "tags": [
+        "chicken",
+        "cheese",
+        "main-dish"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": []
+      },
+      "image_refs": [
+        "IMG_5465 Large.jpeg"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-roast-beef",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "To Roast Beef (1796)",
+      "category": "main-dishes",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 44",
+      "description": "Historical method for roasting beef from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "beef",
+          "quantity": "",
+          "unit": "lb",
+          "prep_note": "any cut suitable for roasting"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for basting"
+        },
+        {
+          "item": "water",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for basting"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "The general rules are, to have a brisk hot fire, to hang down rather than to spit, to baste with salt and water."
+        },
+        {
+          "step": 2,
+          "text": "Allow one quarter of an hour to every pound of beef, though tender beef will require less, while old tough beef will require more roasting."
+        },
+        {
+          "step": 3,
+          "text": "Pricking with a fork will determine whether done or not; rare done is the healthiest and the taste of this age."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "main-dish",
+        "beef",
+        "roast",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5943.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-roast-mutton",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "To Roast Mutton (1796)",
+      "category": "main-dishes",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), page 45",
+      "description": "Historical method for roasting mutton from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "mutton",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "breast, leg, chine, or saddle"
+        },
+        {
+          "item": "horseradish",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "scraped, for garnish"
+        },
+        {
+          "item": "potatoes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "beans",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        },
+        {
+          "item": "colliflowers",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "for serving"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "If a breast let it be cauled; if a leg, shuffed or not; let it be done more gently than beef, and done more."
+        },
+        {
+          "step": 2,
+          "text": "The chine, saddle or leg require more fire and longer time than the breast."
+        },
+        {
+          "step": 3,
+          "text": "Garnish with scraped horseradish, and serve with potatoes, beans, colliflowers, water-cresses, or boiled onion, caper sauce, mashed turnip, or lettuce."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "main-dish",
+        "mutton",
+        "lamb",
+        "roast",
+        "historical",
+        "1796"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5944.PNG"
+      ]
+    },
+    {
+      "id": "american-cookery-1796-stuffed-turkey",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "To Stuff and Roast a Turkey (1796)",
+      "category": "main-dishes",
+      "attribution": "Amelia Simmons",
+      "source_note": "American Cookery by Amelia Simmons (1796), pages 45-46",
+      "description": "Historical recipe for stuffed roast turkey from America's first cookbook.",
+      "servings_yield": "",
+      "prep_time": "",
+      "cook_time": "",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "turkey",
+          "quantity": "1",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "wheat bread",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "soft"
+        },
+        {
+          "item": "beef suet",
+          "quantity": "3",
+          "unit": "oz",
+          "prep_note": "or butter"
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "sweet thyme",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "a little"
+        },
+        {
+          "item": "sweet marjoram",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "pepper",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "salt",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "to taste"
+        },
+        {
+          "item": "wine",
+          "quantity": "1",
+          "unit": "gill",
+          "prep_note": "optional"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Grate a wheat loaf, one quarter of a pound butter, one quarter of a pound salt pork, finely chopped, 2 eggs, a little sweet marjoram, summer savory, parsley and sage, pepper and salt (if the pork be not sufficient), fill the bird and sew up."
+        },
+        {
+          "step": 2,
+          "text": "Hang down to a steady solid fire, basting frequently with salt and water, and roast until a steam emits from the breast."
+        },
+        {
+          "step": 3,
+          "text": "Put one third of a pound of butter into the gravy, dust flour over the bird and baste with the gravy."
+        },
+        {
+          "step": 4,
+          "text": "Serve up with boiled onions and cranberry sauce, mangoes, pickles or celery."
+        },
+        {
+          "step": 5,
+          "text": "The same will answer for all Wild Fowl. Water Fowls require onions."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "From American Cookery (1796), the first American cookbook. Language updated from 18th century spelling."
+      ],
+      "tags": [
+        "main-dish",
+        "turkey",
+        "poultry",
+        "stuffing",
+        "roast",
+        "historical",
+        "1796",
+        "holiday"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "historical-recipe",
+          "18th-century"
+        ]
+      },
+      "image_refs": [
+        "The First American Cookbook/IMG_5944.PNG",
+        "The First American Cookbook/IMG_5946.PNG"
+      ]
+    },
+    {
+      "id": "spicy-meatballs-jean-shu",
+      "collection": "mommom",
+      "collection_display": "MomMom Baker",
+      "title": "Spicy Meatballs",
+      "category": "main-dishes",
+      "attribution": "Jean Shu",
+      "source_note": "Handwritten recipe card - FAMILY RECIPE",
+      "description": "Sweet and tangy meatballs with a homemade BBQ-style sauce, perfect for slow cooking.",
+      "servings_yield": "",
+      "prep_time": "20 minutes",
+      "cook_time": "30-45 minutes",
+      "total_time": "",
+      "ingredients": [
+        {
+          "item": "ground beef",
+          "quantity": "2",
+          "unit": "lb",
+          "prep_note": ""
+        },
+        {
+          "item": "sausage",
+          "quantity": "1",
+          "unit": "lb",
+          "prep_note": "crumbled"
+        },
+        {
+          "item": "Stovetop stuffing mix",
+          "quantity": "1",
+          "unit": "package",
+          "prep_note": ""
+        },
+        {
+          "item": "eggs",
+          "quantity": "3",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "onion flakes",
+          "quantity": "",
+          "unit": "",
+          "prep_note": ""
+        },
+        {
+          "item": "milk",
+          "quantity": "",
+          "unit": "",
+          "prep_note": "enough to moisten"
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "text": "Mix ground beef, crumbled sausage, stuffing mix, eggs, onion flakes, and enough milk to moisten. Form into meatballs."
+        },
+        {
+          "step": 2,
+          "text": "Bake meatballs until browned."
+        },
+        {
+          "step": 3,
+          "text": "For sauce: Combine 1 cup sugar, 1/2 cup vinegar, 1/4 cup water, and 1 tsp paprika. Boil together 5 minutes."
+        },
+        {
+          "step": 4,
+          "text": "Mix 2 tsp cornstarch in 1 tbsp cold water. Add to sauce and cook until clear, remove from heat."
+        },
+        {
+          "step": 5,
+          "text": "Add BBQ sauce to taste for basting."
+        },
+        {
+          "step": 6,
+          "text": "Simmer meatballs in sauce for 1/2 hour, or use crock pot."
+        }
+      ],
+      "temperature": "",
+      "pan_size": "",
+      "notes": [
+        "HANDWRITTEN FAMILY RECIPE - PRESERVE IMAGE",
+        "Can be made in crock pot for convenience"
+      ],
+      "tags": [
+        "main-dish",
+        "meatballs",
+        "appetizer",
+        "crock-pot",
+        "party-food",
+        "handwritten"
+      ],
+      "confidence": {
+        "overall": "high",
+        "flags": [
+          "handwritten-family-recipe"
+        ]
+      },
+      "image_refs": [
+        "FBC Jasmine Cook Book/IMG_5626.jpeg"
+      ]
     }
   ]
 }
