@@ -1107,7 +1107,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 287)"
         ]
-      }
+      },
+      "variant_of": "pecan-pie"
     },
     {
       "id": "surprise-cake-mommom",
@@ -2824,7 +2825,8 @@
           "Assumed 1 unit for cherries",
           "Estimated 12 servings based on total calories"
         ]
-      }
+      },
+      "variant_of": "banana-split-cake-fbc-jasmine"
     },
     {
       "id": "chocolate-eclair-cake",
@@ -4884,7 +4886,10 @@
           "Estimated 8 servings based on total calories",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sour-cream-coffee-cake-fbc-jasmine"
+      ]
     },
     {
       "id": "festive-fruitcake",
@@ -10281,7 +10286,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pecan-crunch"
     },
     {
       "id": "apricot-meringue-strips",
@@ -10403,7 +10409,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "apricot-meringue-strips-bhg"
     },
     {
       "id": "crunchy-snack-bars",
@@ -10543,7 +10550,8 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "crunchy-snack-bars-bhg"
     },
     {
       "id": "peanut-choco-nuggets",
@@ -10686,7 +10694,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "peanut-choco-nuggets-bhg"
     },
     {
       "id": "peanut-butter-candy-tops",
@@ -10909,7 +10918,8 @@
           "Inferred 1.0 for confectioners' sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "almond-lace-rolls-bhg"
     },
     {
       "id": "classic-oatmeal-cookies",
@@ -11044,7 +11054,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "oatmeal-cookies"
     },
     {
       "id": "jolly-santas-cookies",
@@ -11324,7 +11335,8 @@
         "assumptions": [
           "Based on 11/12 ingredients (92% coverage)"
         ]
-      }
+      },
+      "variant_of": "gingerbread-men-bhg"
     },
     {
       "id": "chocolate-fudge-classic",
@@ -11434,7 +11446,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "chocolate-fudge-bhg"
+      ]
     },
     {
       "id": "candy-apples-classic",
@@ -11550,7 +11565,11 @@
         "assumptions": [
           "Based on 5/7 ingredients (71% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "candy-apples",
+        "candy-apples-bhg"
+      ]
     },
     {
       "id": "peanut-brittle-classic",
@@ -11658,7 +11677,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "peanut-brittle-bhg"
     },
     {
       "id": "pumpkin-molasses-cake",
@@ -11790,7 +11810,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 79)"
         ]
-      }
+      },
+      "variant_of": "pumpkin-molasses-cake-bhg"
     },
     {
       "id": "carrot-cake-bhg",
@@ -11898,7 +11919,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "carrot-cake"
     },
     {
       "id": "date-cake",
@@ -12028,7 +12050,8 @@
           "Assumed 1 unit for shortening",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "date-cake-bhg"
     },
     {
       "id": "gingerbread-bhg",
@@ -12152,7 +12175,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "gingerbread"
     },
     {
       "id": "sour-cream-pound-cake",
@@ -12270,7 +12294,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 83)"
         ]
-      }
+      },
+      "variant_of": "sour-cream-pound-cake-bhg"
     },
     {
       "id": "pound-cake-bhg",
@@ -12382,7 +12407,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 83)"
         ]
-      }
+      },
+      "variant_of": "pound-cake"
     },
     {
       "id": "hot-milk-sponge-cake",
@@ -12482,7 +12508,8 @@
           "Inferred 1.0 for milk (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "hot-milk-sponge-cake-bhg"
     },
     {
       "id": "angel-cake",
@@ -12590,7 +12617,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "angel-cake-bhg"
     },
     {
       "id": "chiffon-cake",
@@ -12731,7 +12759,10 @@
           "Assumed 1 unit for cream of tartar",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chiffon-cake-bhg"
+      ]
     },
     {
       "id": "fruitcake-bhg",
@@ -12910,7 +12941,8 @@
           "Assumed 1 unit for ground allspice",
           "Assumed 1 unit for ground cloves"
         ]
-      }
+      },
+      "variant_of": "fruitcake"
     },
     {
       "id": "nut-torte",
@@ -13012,7 +13044,8 @@
           "Inferred 1.0 for sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "nut-torte-bhg"
     },
     {
       "id": "seven-minute-frosting",
@@ -13102,7 +13135,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 87)"
         ]
-      }
+      },
+      "variant_of": "seven-minute-frosting-bhg"
     },
     {
       "id": "fluffy-white-frosting",
@@ -13187,7 +13221,8 @@
           "Assumed 1 unit for cream of tartar",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fluffy-white-frosting-bhg"
     },
     {
       "id": "creamy-white-frosting",
@@ -13275,7 +13310,8 @@
           "Assumed 1 unit for lemon extract, orange extract, or almond extract",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "creamy-white-frosting-bhg"
     },
     {
       "id": "powdered-sugar-icing",
@@ -13355,7 +13391,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 88)"
         ]
-      }
+      },
+      "variant_of": "powdered-sugar-icing-bhg"
     },
     {
       "id": "petits-fours-icing",
@@ -13456,7 +13493,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 88)"
         ]
-      }
+      },
+      "variant_of": "petits-fours-icing-bhg"
     },
     {
       "id": "no-cook-fudge-frosting",
@@ -13547,7 +13585,8 @@
           "Inferred 2 for boiling water (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "no-cook-fudge-frosting-bhg"
     },
     {
       "id": "chocolate-sour-cream-frosting",
@@ -13632,7 +13671,8 @@
           "Inferred 1.0 for dairy sour cream (standard quantity)",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolate-sour-cream-frosting-bhg"
     },
     {
       "id": "chocolate-glaze",
@@ -13714,7 +13754,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolate-glaze-bhg"
     },
     {
       "id": "rocky-road-frosting",
@@ -13822,7 +13863,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 89)"
         ]
-      }
+      },
+      "variant_of": "rocky-road-frosting-bhg"
     },
     {
       "id": "broiled-coconut-topping",
@@ -13912,7 +13954,8 @@
           "Assumed 1 unit for chopped nuts",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "broiled-coconut-topping-bhg"
     },
     {
       "id": "penuche-frosting",
@@ -13995,7 +14038,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "penuche-frosting-bhg"
     },
     {
       "id": "choose-a-fruit-filling",
@@ -14071,7 +14115,8 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "choose-a-fruit-filling-bhg"
     },
     {
       "id": "penuche-candy",
@@ -14183,7 +14228,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "penuche-candy-bhg"
     },
     {
       "id": "saltwater-taffy",
@@ -14295,7 +14341,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "saltwater-taffy-bhg"
+      ]
     },
     {
       "id": "pralines",
@@ -14395,7 +14444,12 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "pralines-bhg",
+        "pralines-fbc",
+        "pralines-fbc-jasmine"
+      ]
     },
     {
       "id": "divinity",
@@ -14511,7 +14565,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "divinity-bhg"
+      ]
     },
     {
       "id": "rocky-road-candy",
@@ -14595,7 +14652,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "rocky-road-candy-bhg"
     },
     {
       "id": "lemon-bars",
@@ -14714,7 +14772,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "lemon-bars-bhg"
     },
     {
       "id": "orange-date-bars",
@@ -14849,7 +14908,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "orange-date-bars-bhg"
     },
     {
       "id": "pumpkin-bars",
@@ -14982,7 +15042,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "pumpkin-bars-bhg"
+      ]
     },
     {
       "id": "peanut-butter-bars",
@@ -15106,7 +15169,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "peanut-butter-bars-bhg"
+      ]
     },
     {
       "id": "chocolate-chip-cookies-bhg",
@@ -15231,7 +15297,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "chocolate-chip-cookies"
+      ]
     },
     {
       "id": "drop-cookies-bhg",
@@ -15345,7 +15414,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "drop-cookies"
     },
     {
       "id": "shortbread-bhg",
@@ -15430,7 +15500,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "shortbread"
     },
     {
       "id": "poached-pears",
@@ -15507,7 +15578,8 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "poached-pears-bhg"
     },
     {
       "id": "applesauce-bhg",
@@ -15588,7 +15660,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "applesauce"
+      ]
     },
     {
       "id": "apple-dumplings",
@@ -15677,7 +15752,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "apple-dumplings-bhg"
     },
     {
       "id": "baked-apples-bhg",
@@ -15780,7 +15856,10 @@
           "Assumed 1 unit for apple juice or water",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "baked-apples"
+      ]
     },
     {
       "id": "fruit-crisp",
@@ -15890,7 +15969,8 @@
           "Assumed 1 unit for vanilla ice cream or light cream",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fruit-crisp-bhg"
     },
     {
       "id": "fruit-cobbler",
@@ -15990,7 +16070,8 @@
         "assumptions": [
           "Based on 7/8 ingredients (88% coverage)"
         ]
-      }
+      },
+      "variant_of": "fruit-cobbler-bhg"
     },
     {
       "id": "cherries-jubilee",
@@ -16065,7 +16146,8 @@
           "Assumed 1 unit for vanilla ice cream",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cherries-jubilee-bhg"
     },
     {
       "id": "bananas-foster",
@@ -16139,7 +16221,8 @@
           "Assumed 1 unit for vanilla ice cream",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "bananas-foster-bhg"
     },
     {
       "id": "fresh-fruit-bowl",
@@ -16241,7 +16324,8 @@
           "Assumed 1 unit for toasted coconut or toasted slivered almonds",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fresh-fruit-bowl-bhg"
     },
     {
       "id": "swedish-fruit-soup",
@@ -16333,7 +16417,8 @@
         "assumptions": [
           "Based on 7/9 ingredients (78% coverage)"
         ]
-      }
+      },
+      "variant_of": "swedish-fruit-soup-bhg"
     },
     {
       "id": "crepes-suzette",
@@ -16430,7 +16515,8 @@
         "assumptions": [
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variant_of": "crepes-suzette-bhg"
     },
     {
       "id": "meringue-shells",
@@ -16515,7 +16601,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "meringue-shells-bhg"
     },
     {
       "id": "chocolate-mousse",
@@ -16628,7 +16715,8 @@
           "Assumed 1 unit for chocolate curls or grated chocolate",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolate-mousse-bhg"
     },
     {
       "id": "chocolate-souffle",
@@ -16722,7 +16810,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolate-souffle-bhg"
     },
     {
       "id": "baked-alaska",
@@ -16806,7 +16895,8 @@
         "assumptions": [
           "Based on 5/6 ingredients (83% coverage)"
         ]
-      }
+      },
+      "variant_of": "baked-alaska-bhg"
     },
     {
       "id": "cheesecake-supreme",
@@ -16928,7 +17018,8 @@
           "Assumed 1 unit for Fruit Sauce",
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cheesecake-supreme-bhg"
     },
     {
       "id": "strawberry-shortcake",
@@ -17016,7 +17107,8 @@
           "Assumed 1 unit for Whipped Cream",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "strawberry-shortcake-bhg"
     },
     {
       "id": "brownie-pudding-cake",
@@ -17114,7 +17206,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "brownie-pudding-cake-bhg"
     },
     {
       "id": "haystacks-carol-willison",
@@ -17192,7 +17285,10 @@
           "Estimated 6 servings based on total calories",
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "haystacks-family"
+      ]
     },
     {
       "id": "holiday-baked-apples",
@@ -17288,7 +17384,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "holiday-baked-apples-family"
+      ]
     },
     {
       "id": "hot-fudge-topping",
@@ -17364,7 +17463,10 @@
           "Estimated 8 servings based on total calories",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "hot-fudge-topping-family"
+      ]
     },
     {
       "id": "peanut-butter-fudge-karen-talbot",
@@ -17452,7 +17554,8 @@
           "Estimated 6 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "peanut-butter-fudge-bhg"
     },
     {
       "id": "lemon-pudding-cake",
@@ -17540,7 +17643,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "lemon-pudding-cake-bhg"
     },
     {
       "id": "chocolate-mousse-cake",
@@ -17634,7 +17738,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolate-mousse-cake-bhg"
     },
     {
       "id": "plum-pudding",
@@ -17782,7 +17887,8 @@
           "Assumed 1 unit for Hard Sauce",
           "Based on 18/18 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "plum-pudding-bhg"
     },
     {
       "id": "vanilla-pudding",
@@ -17861,7 +17967,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "vanilla-pudding-bhg"
     },
     {
       "id": "cream-puffs",
@@ -17934,7 +18041,8 @@
           "Inferred 1.0 for Powdered sugar (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cream-puffs-bhg"
     },
     {
       "id": "chocolate-pots-de-creme",
@@ -18010,7 +18118,8 @@
           "Assumed 1 unit for Whipped cream",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolate-pots-de-creme-bhg"
     },
     {
       "id": "cream-cheese-hearts",
@@ -18090,7 +18199,8 @@
           "Assumed 1 unit for Fruit Sauce or fresh fruit",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cream-cheese-hearts-bhg"
     },
     {
       "id": "baked-custards",
@@ -18165,7 +18275,8 @@
           "Assumed 1 unit for ground nutmeg or cinnamon",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "baked-custards-bhg"
     },
     {
       "id": "bread-pudding-bhg",
@@ -18266,7 +18377,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "bread-pudding"
     },
     {
       "id": "stirred-custard",
@@ -18334,7 +18446,8 @@
           "Assumed 1 unit for Sponge cake or fresh fruit",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "stirred-custard-bhg"
     },
     {
       "id": "stirred-rice-pudding",
@@ -18426,7 +18539,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "stirred-rice-pudding-bhg"
     },
     {
       "id": "trifle",
@@ -18520,7 +18634,8 @@
           "Inferred 1.0 for Hot-Milk Sponge Cake (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "trifle-bhg"
     },
     {
       "id": "no-cook-vanilla-ice-cream",
@@ -18587,7 +18702,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "no-cook-vanilla-ice-cream-bhg"
     },
     {
       "id": "vanilla-ice-cream-cooked",
@@ -18685,7 +18801,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "vanilla-ice-cream-bhg"
     },
     {
       "id": "lemon-sherbet",
@@ -18771,7 +18888,8 @@
         "assumptions": [
           "Based on 5/6 ingredients (83% coverage)"
         ]
-      }
+      },
+      "variant_of": "lemon-sherbet-bhg"
     },
     {
       "id": "fruit-ice",
@@ -18839,7 +18957,8 @@
           "Assumed 1 unit for Orange juice",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fruit-ice-bhg"
     },
     {
       "id": "choose-a-fruit-frozen-yogurt",
@@ -18896,7 +19015,8 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "choose-a-fruit-frozen-yogurt-bhg"
     },
     {
       "id": "mocha-toffee-squares",
@@ -18990,7 +19110,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "mocha-toffee-squares-bhg"
     },
     {
       "id": "frosty-strawberry-squares",
@@ -19081,7 +19202,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "frosty-strawberry-squares-bhg"
     },
     {
       "id": "ice-cream-torte",
@@ -19192,7 +19314,8 @@
         "assumptions": [
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variant_of": "ice-cream-torte-bhg"
     },
     {
       "id": "chocolaty-velvet-ice-cream",
@@ -19256,7 +19379,8 @@
           "Used standard can size (1.25 cups) for sweetened condensed milk",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolaty-velvet-ice-cream-bhg"
     },
     {
       "id": "caramel-sauce",
@@ -19323,7 +19447,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "caramel-sauce-bhg"
     },
     {
       "id": "rhubarb-sauce",
@@ -19382,7 +19507,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "rhubarb-sauce-bhg"
     },
     {
       "id": "vanilla-sauce",
@@ -19446,7 +19572,8 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "vanilla-sauce-bhg"
     },
     {
       "id": "whiskey-sauce",
@@ -19510,7 +19637,8 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "whiskey-sauce-bhg"
     },
     {
       "id": "whipped-cream",
@@ -19565,7 +19693,8 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "whipped-cream-bhg"
     },
     {
       "id": "hard-sauce",
@@ -19622,7 +19751,8 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "hard-sauce-bhg"
     },
     {
       "id": "candy-apples",
@@ -19726,7 +19856,8 @@
         "assumptions": [
           "Based on 5/7 ingredients (71% coverage)"
         ]
-      }
+      },
+      "variant_of": "candy-apples-classic"
     },
     {
       "id": "macadamia-meltaways",
@@ -19824,7 +19955,10 @@
         "assumptions": [
           "Based on 4/5 ingredients (80% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "macadamia-meltaways-bhg"
+      ]
     },
     {
       "id": "poppy-seed-pinwheels",
@@ -19941,7 +20075,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "poppy-seed-pinwheels-bhg"
+      ]
     },
     {
       "id": "filbert-cookie-rafts",
@@ -20044,7 +20181,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "filbert-cookie-rafts-bhg"
+      ]
     },
     {
       "id": "christmas-tree-cookies",
@@ -20186,7 +20326,10 @@
         "assumptions": [
           "Based on 7/9 ingredients (78% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "christmas-tree-cookies-bhg"
+      ]
     },
     {
       "id": "frosted-snowmen",
@@ -20328,7 +20471,10 @@
         "assumptions": [
           "Based on 10/11 ingredients (91% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "frosted-snowmen-bhg"
+      ]
     },
     {
       "id": "cookie-chalets",
@@ -20493,7 +20639,10 @@
           "Assumed 1 unit for cinnamon red-hot candies",
           "Based on 14/14 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cookie-chalets-bhg"
+      ]
     },
     {
       "id": "applesauce",
@@ -20561,7 +20710,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "applesauce-bhg"
     },
     {
       "id": "baked-apples",
@@ -20640,7 +20790,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "baked-apples-bhg"
     },
     {
       "id": "holiday-baked-apples-family",
@@ -20716,7 +20867,8 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "holiday-baked-apples"
     },
     {
       "id": "hot-fudge-topping-family",
@@ -20784,7 +20936,8 @@
           "Based on 4/4 ingredients (100% coverage)"
         ]
       },
-      "servings_yield": "6-8 servings"
+      "servings_yield": "6-8 servings",
+      "variant_of": "hot-fudge-topping"
     },
     {
       "id": "bread-pudding",
@@ -20875,7 +21028,10 @@
           "Assumed 1 unit for Whiskey Sauce",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "bread-pudding-bhg"
+      ]
     },
     {
       "id": "vanilla-ice-cream",
@@ -20946,7 +21102,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "vanilla-ice-cream-bhg"
     },
     {
       "id": "hot-fudge-sauce",
@@ -21008,7 +21165,8 @@
           "Used standard can size (1.5 cups) for evaporated milk",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "hot-fudge-sauce-bhg"
     },
     {
       "id": "mince-apple-pie",
@@ -22212,7 +22370,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 287)"
         ]
-      }
+      },
+      "variants": [
+        "pecan-pie-mommom"
+      ]
     },
     {
       "id": "brown-sugar-and-rhubarb-pie",
@@ -22421,7 +22582,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 288)"
         ]
-      }
+      },
+      "variants": [
+        "lemon-meringue-pie-gahb"
+      ]
     },
     {
       "id": "key-lime-pie",
@@ -24137,7 +24301,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "crunchy-snack-bars"
+      ]
     },
     {
       "id": "apricot-meringue-strips-bhg",
@@ -24268,7 +24435,10 @@
           "Estimated 6 servings based on total calories",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "apricot-meringue-strips"
+      ]
     },
     {
       "id": "peanut-choco-nuggets-bhg",
@@ -24384,7 +24554,10 @@
           "Inferred 1.0 for confectioners' sugar (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "peanut-choco-nuggets"
+      ]
     },
     {
       "id": "peanut-butter-candy-tops-bhg",
@@ -24608,7 +24781,10 @@
           "Inferred 1.0 for confectioners' sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "almond-lace-rolls"
+      ]
     },
     {
       "id": "filbert-cookie-rafts-bhg",
@@ -24711,7 +24887,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 5/6 ingredients (83% coverage)"
         ]
-      }
+      },
+      "variant_of": "filbert-cookie-rafts"
     },
     {
       "id": "poppy-seed-pinwheels-bhg",
@@ -24822,7 +24999,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for poppy seeds"
         ]
-      }
+      },
+      "variant_of": "poppy-seed-pinwheels"
     },
     {
       "id": "frosted-snowmen-bhg",
@@ -24963,7 +25141,8 @@
           "Assumed 1 unit for cream of tartar",
           "Based on 10/11 ingredients (91% coverage)"
         ]
-      }
+      },
+      "variant_of": "frosted-snowmen"
     },
     {
       "id": "jolly-santas-bhg",
@@ -25183,7 +25362,11 @@
           "Inferred 2 for creamy peanut butter (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "peanut-butter-fudge-karen-talbot",
+        "peanut-butter-fudge-family"
+      ]
     },
     {
       "id": "chocolate-marshmallow-fudge-bhg",
@@ -25386,7 +25569,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "peanut-brittle-classic"
+      ]
     },
     {
       "id": "poached-pears-bhg",
@@ -25461,7 +25647,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "poached-pears"
+      ]
     },
     {
       "id": "apple-dumplings-bhg",
@@ -25550,7 +25739,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "apple-dumplings"
+      ]
     },
     {
       "id": "fruit-crisp-bhg",
@@ -25658,7 +25850,10 @@
           "Assumed 1 unit for vanilla ice cream or light cream (optional)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fruit-crisp"
+      ]
     },
     {
       "id": "fruit-cobbler-bhg",
@@ -25755,7 +25950,10 @@
         "assumptions": [
           "Based on 7/8 ingredients (88% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fruit-cobbler"
+      ]
     },
     {
       "id": "cherries-jubilee-bhg",
@@ -25832,7 +26030,10 @@
           "Assumed 1 unit for vanilla ice cream",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cherries-jubilee"
+      ]
     },
     {
       "id": "fresh-fruit-bowl-bhg",
@@ -25934,7 +26135,10 @@
           "Assumed 1 unit for toasted coconut or toasted slivered almonds (optional)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fresh-fruit-bowl"
+      ]
     },
     {
       "id": "bananas-foster-bhg",
@@ -26010,7 +26214,10 @@
           "Assumed 1 unit for vanilla ice cream",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "bananas-foster"
+      ]
     },
     {
       "id": "swedish-fruit-soup-bhg",
@@ -26104,7 +26311,10 @@
         "assumptions": [
           "Based on 7/9 ingredients (78% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "swedish-fruit-soup"
+      ]
     },
     {
       "id": "crepes-suzette-bhg",
@@ -26202,7 +26412,10 @@
         "assumptions": [
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "crepes-suzette"
+      ]
     },
     {
       "id": "meringue-shells-bhg",
@@ -26289,7 +26502,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "meringue-shells"
+      ]
     },
     {
       "id": "chocolate-mousse-bhg",
@@ -26399,7 +26615,10 @@
           "Assumed 1 unit for chocolate curls or grated chocolate (optional)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chocolate-mousse"
+      ]
     },
     {
       "id": "chocolate-souffle-bhg",
@@ -26495,7 +26714,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chocolate-souffle"
+      ]
     },
     {
       "id": "baked-alaska-bhg",
@@ -26580,7 +26802,10 @@
         "assumptions": [
           "Based on 5/6 ingredients (83% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "baked-alaska"
+      ]
     },
     {
       "id": "cheesecake-supreme-bhg",
@@ -26701,7 +26926,10 @@
           "Assumed 1 unit for Fruit Sauce (see recipe, page 139) (optional)",
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cheesecake-supreme"
+      ]
     },
     {
       "id": "strawberry-shortcake-bhg",
@@ -26788,7 +27016,10 @@
           "Assumed 1 unit for Whipped Cream (see recipe, page 140)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "strawberry-shortcake"
+      ]
     },
     {
       "id": "brownie-pudding-cake-bhg",
@@ -26887,7 +27118,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "brownie-pudding-cake"
+      ]
     },
     {
       "id": "lemon-pudding-cake-bhg",
@@ -26976,7 +27210,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "lemon-pudding-cake"
+      ]
     },
     {
       "id": "chocolate-mousse-cake-bhg",
@@ -27074,7 +27311,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chocolate-mousse-cake"
+      ]
     },
     {
       "id": "plum-pudding-bhg",
@@ -27218,7 +27458,10 @@
           "Assumed 1 unit for Hard Sauce (see recipe, page 140)",
           "Based on 18/18 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "plum-pudding"
+      ]
     },
     {
       "id": "vanilla-pudding-bhg",
@@ -27302,7 +27545,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "vanilla-pudding"
+      ]
     },
     {
       "id": "cream-puffs-bhg",
@@ -27382,7 +27628,10 @@
           "Inferred 1.0 for powdered sugar (optional) (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cream-puffs"
+      ]
     },
     {
       "id": "chocolate-pots-de-creme-bhg",
@@ -27458,7 +27707,10 @@
           "Assumed 1 unit for whipped cream (optional)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chocolate-pots-de-creme"
+      ]
     },
     {
       "id": "cream-cheese-hearts-bhg",
@@ -27546,7 +27798,10 @@
           "Assumed 1 unit for Fruit Sauce (see recipe, page 139) or fresh fruit",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cream-cheese-hearts"
+      ]
     },
     {
       "id": "baked-custards-bhg",
@@ -27626,7 +27881,10 @@
           "Assumed 1 unit for ground nutmeg or cinnamon (optional)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "baked-custards"
+      ]
     },
     {
       "id": "stirred-rice-pudding-bhg",
@@ -27699,7 +27957,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "stirred-rice-pudding"
+      ]
     },
     {
       "id": "stirred-custard-bhg",
@@ -27773,7 +28034,10 @@
           "Assumed 1 unit for sponge cake or fresh fruit",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "stirred-custard"
+      ]
     },
     {
       "id": "trifle-bhg",
@@ -27872,7 +28136,10 @@
           "Inferred 1.0 for Hot-Milk Sponge Cake (see recipe, page 85) (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "trifle"
+      ]
     },
     {
       "id": "no-cook-vanilla-ice-cream-bhg",
@@ -27946,7 +28213,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "no-cook-vanilla-ice-cream"
+      ]
     },
     {
       "id": "vanilla-ice-cream-bhg",
@@ -28023,7 +28293,11 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "vanilla-ice-cream-cooked",
+        "vanilla-ice-cream"
+      ]
     },
     {
       "id": "lemon-sherbet-bhg",
@@ -28114,7 +28388,10 @@
         "assumptions": [
           "Based on 5/6 ingredients (83% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "lemon-sherbet"
+      ]
     },
     {
       "id": "fruit-ice-bhg",
@@ -28188,7 +28465,10 @@
           "Assumed 1 unit for orange juice",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fruit-ice"
+      ]
     },
     {
       "id": "choose-a-fruit-frozen-yogurt-bhg",
@@ -28248,7 +28528,10 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "choose-a-fruit-frozen-yogurt"
+      ]
     },
     {
       "id": "mocha-toffee-squares-bhg",
@@ -28343,7 +28626,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "mocha-toffee-squares"
+      ]
     },
     {
       "id": "frosty-strawberry-squares-bhg",
@@ -28441,7 +28727,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "frosty-strawberry-squares"
+      ]
     },
     {
       "id": "ice-cream-torte-bhg",
@@ -28536,7 +28825,10 @@
         "assumptions": [
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "ice-cream-torte"
+      ]
     },
     {
       "id": "chocolaty-velvet-ice-cream-bhg",
@@ -28602,7 +28894,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chocolaty-velvet-ice-cream"
+      ]
     },
     {
       "id": "judean-fruit-salad-cwa",
@@ -30791,7 +31086,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "lemon-meringue-pie"
     },
     {
       "id": "miniature-chocolate-eclairs-gahb",
@@ -31797,7 +32093,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variant_of": "ugly-duckling-cake-fbc-jasmine"
     },
     {
       "id": "carrot-walnut-cake-fbc",
@@ -31903,7 +32200,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variant_of": "carrot-walnut-cake-fbc-jasmine"
     },
     {
       "id": "sour-cream-pound-cake-fbc",
@@ -32012,7 +32310,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "sour-cream-pound-cake-bhg"
     },
     {
       "id": "coco-lopez-cake-fbc",
@@ -32092,7 +32391,10 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variants": [
+        "coco-lopez-cake-fbc-jasmine"
+      ]
     },
     {
       "id": "mamie-eisenhower-chocolate-fudge-fbc",
@@ -32179,7 +32481,10 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "6-8 servings"
+      "servings_yield": "6-8 servings",
+      "variants": [
+        "mamie-eisenhower-fudge-fbc-jasmine"
+      ]
     },
     {
       "id": "johns-maple-candy-fbc",
@@ -32249,7 +32554,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "johns-maple-candy-fbc-jasmine"
+      ]
     },
     {
       "id": "english-toffee-fbc",
@@ -32330,7 +32638,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "english-toffee-fbc-jasmine"
+      ]
     },
     {
       "id": "pralines-fbc",
@@ -32408,7 +32719,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "pralines"
     },
     {
       "id": "fudgy-caramel-apples-fbc",
@@ -32490,7 +32802,10 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "6-8 servings"
+      "servings_yield": "6-8 servings",
+      "variants": [
+        "fudgy-caramel-apples-fbc-jasmine"
+      ]
     },
     {
       "id": "double-chocolate-ice-cream-fbc",
@@ -33294,7 +33609,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variant_of": "wacky-cake-whipped-cream-icing-fbc-jasmine"
     },
     {
       "id": "hummingbird-cake-fbc-jasmine",
@@ -33539,7 +33855,10 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variants": [
+        "ugly-duckling-cake-fbc"
+      ]
     },
     {
       "id": "carrot-walnut-cake-fbc-jasmine",
@@ -33655,7 +33974,10 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variants": [
+        "carrot-walnut-cake-fbc"
+      ]
     },
     {
       "id": "carrot-cake-pecans-fbc-jasmine",
@@ -33997,7 +34319,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variant_of": "coco-lopez-cake-fbc"
     },
     {
       "id": "sour-cream-pound-cake-fbc-jasmine",
@@ -34117,7 +34440,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "sour-cream-pound-cake-bhg"
     },
     {
       "id": "watergate-cake-fbc-jasmine",
@@ -34519,7 +34843,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "6-8 servings"
+      "servings_yield": "6-8 servings",
+      "variant_of": "mamie-eisenhower-chocolate-fudge-fbc"
     },
     {
       "id": "johns-maple-candy-fbc-jasmine",
@@ -34587,7 +34912,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "johns-maple-candy-fbc"
     },
     {
       "id": "microwave-fudge-fbc-jasmine",
@@ -34872,7 +35198,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "english-toffee-fbc"
     },
     {
       "id": "pralines-fbc-jasmine",
@@ -34961,7 +35288,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "pralines"
     },
     {
       "id": "taffy-fbc-jasmine",
@@ -35234,7 +35562,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "6-8 servings"
+      "servings_yield": "6-8 servings",
+      "variant_of": "fudgy-caramel-apples-fbc"
     },
     {
       "id": "chocolate-chip-candy-fbc-jasmine",
@@ -36691,6 +37020,9 @@
       },
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5735.jpeg"
+      ],
+      "variants": [
+        "wacky-cake-whipped-cream-icing-fbc"
       ]
     },
     {
@@ -39910,6 +40242,9 @@
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5754.jpeg",
         "FBC Jasmine Cook Book/IMG_5755.jpeg"
+      ],
+      "variants": [
+        "banana-split-cake-mommom"
       ]
     },
     {
@@ -40806,6 +41141,9 @@
       },
       "image_refs": [
         "foxfire-three.txt"
+      ],
+      "variants": [
+        "mulberry-pie-etw"
       ]
     },
     {
@@ -41292,7 +41630,8 @@
       },
       "image_refs": [
         "foxfire-three.txt"
-      ]
+      ],
+      "variant_of": "foxfire-blackberry-flummery"
     },
     {
       "id": "foxfire3-blackberry-roll",
@@ -41388,7 +41727,8 @@
       },
       "image_refs": [
         "foxfire-three.txt"
-      ]
+      ],
+      "variant_of": "foxfire-blackberry-roll"
     },
     {
       "id": "foxfire3-blueberry-cobbler",
@@ -41572,7 +41912,8 @@
       },
       "image_refs": [
         "foxfire-three.txt"
-      ]
+      ],
+      "variant_of": "foxfire-blueberry-crisp"
     },
     {
       "id": "foxfire3-blueberry-dessert",
@@ -43987,7 +44328,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire3-mulberry-pie"
     },
     {
       "id": "hickory-nut-cake-etw",
@@ -44089,7 +44431,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-hickory-nut-cake"
     },
     {
       "id": "hickory-nut-filling-etw",
@@ -44246,7 +44589,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-hickory-nut-pie"
     },
     {
       "id": "hickory-nut-refrigerator-cookies-etw",
@@ -45431,6 +45775,9 @@
       },
       "image_refs": [
         "publicism.info-foxfire-wild-plants"
+      ],
+      "variants": [
+        "foxfire3-blackberry-flummery"
       ]
     },
     {
@@ -45530,6 +45877,9 @@
       },
       "image_refs": [
         "publicism.info-foxfire-wild-plants"
+      ],
+      "variants": [
+        "foxfire3-blackberry-roll"
       ]
     },
     {
@@ -45799,6 +46149,9 @@
       },
       "image_refs": [
         "publicism.info-foxfire-wild-plants"
+      ],
+      "variants": [
+        "foxfire3-blueberry-crisp"
       ]
     },
     {
@@ -46141,7 +46494,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "hickory-nut-cake-etw"
+      ]
     },
     {
       "id": "foxfire-hickory-nut-pie",
@@ -46225,7 +46581,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "hickory-nut-pie-etw"
+      ]
     },
     {
       "id": "foxfire-hazelnut-cookies",

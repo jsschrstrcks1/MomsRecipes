@@ -1,0 +1,3858 @@
+[
+ {
+  "date": "2026-08-30T01:54:21Z",
+  "clusters_linked": 477,
+  "variant_of_added": 508,
+  "variants_entries_added": 508,
+  "conflicts": [],
+  "links": [
+   {
+    "title": "Cheese Bread",
+    "canonical": "cheese-bread-yeast",
+    "members": [
+     "cheese-bread-mommom",
+     "cheese-bread-yeast",
+     "cheese-bread-bhg"
+    ]
+   },
+   {
+    "title": "Crabbies",
+    "canonical": "crabbies",
+    "members": [
+     "crabbies",
+     "crabbies-fbc"
+    ]
+   },
+   {
+    "title": "Zucchini Bread",
+    "canonical": "zucchini-bread",
+    "members": [
+     "zucchini-bread-mommom",
+     "zucchini-bread",
+     "zucchini-bread-bhg"
+    ]
+   },
+   {
+    "title": "Pumpkin Bread",
+    "canonical": "pumpkin-bread",
+    "members": [
+     "pumpkin-bread-mommom",
+     "pumpkin-bread",
+     "pumpkin-bread-bhg"
+    ]
+   },
+   {
+    "title": "Pecan Pie",
+    "canonical": "pecan-pie",
+    "members": [
+     "pecan-pie-mommom",
+     "pecan-pie"
+    ]
+   },
+   {
+    "title": "Coleslaw",
+    "canonical": "coleslaw-bhg",
+    "members": [
+     "coleslaw-mommom",
+     "coleslaw-bhg"
+    ]
+   },
+   {
+    "title": "Cranberry Salad",
+    "canonical": "cranberry-salad-mommom",
+    "members": [
+     "cranberry-salad-mommom",
+     "cranberry-salad-jello",
+     "cranberry-salad-family"
+    ]
+   },
+   {
+    "title": "Thousand Island Dressing",
+    "canonical": "thousand-island-dressing-bhg",
+    "members": [
+     "thousand-island-dressing-mommom",
+     "thousand-island-dressing-bhg"
+    ]
+   },
+   {
+    "title": "Sweet Potato Casserole",
+    "canonical": "sweet-potato-casserole-mommom",
+    "members": [
+     "sweet-potato-casserole-mommom",
+     "sweet-potato-casserole-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Wild Rice Casserole",
+    "canonical": "wild-rice-casserole",
+    "members": [
+     "wild-rice-casserole",
+     "wild-rice-casserole-fbc"
+    ]
+   },
+   {
+    "title": "Scalloped Potatoes",
+    "canonical": "scalloped-potatoes-bhg",
+    "members": [
+     "scalloped-potatoes-mommom",
+     "scalloped-potatoes-bhg"
+    ]
+   },
+   {
+    "title": "Chicken Divan",
+    "canonical": "chicken-divan-bhg",
+    "members": [
+     "chicken-divan-mommom",
+     "chicken-divan-bhg"
+    ]
+   },
+   {
+    "title": "Impossible Lasagne Pie",
+    "canonical": "impossible-lasagne-pie",
+    "members": [
+     "impossible-lasagne-pie-mommom",
+     "impossible-lasagne-pie"
+    ]
+   },
+   {
+    "title": "Crab Cakes",
+    "canonical": "crab-cakes-bhg",
+    "members": [
+     "crab-cakes-mommom",
+     "crab-cakes",
+     "crab-cakes-bhg"
+    ]
+   },
+   {
+    "title": "Macaroni and Cheese",
+    "canonical": "macaroni-and-cheese",
+    "members": [
+     "macaroni-and-cheese-mommom",
+     "macaroni-and-cheese"
+    ]
+   },
+   {
+    "title": "Banana Split Cake",
+    "canonical": "banana-split-cake-fbc-jasmine",
+    "members": [
+     "banana-split-cake-mommom",
+     "banana-split-cake-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Sour Cream Coffee Cake",
+    "canonical": "sour-cream-coffee-cake-mommom",
+    "members": [
+     "sour-cream-coffee-cake-mommom",
+     "sour-cream-coffee-cake-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Cake Brownies",
+    "canonical": "cake-brownies-bhg",
+    "members": [
+     "cake-brownies",
+     "cake-brownies-bhg"
+    ]
+   },
+   {
+    "title": "Pretzels",
+    "canonical": "pretzels-bhg",
+    "members": [
+     "homemade-pretzels",
+     "soft-pretzels",
+     "pretzels-bhg"
+    ]
+   },
+   {
+    "title": "Corn Fritters",
+    "canonical": "corn-fritters-bhg",
+    "members": [
+     "corn-fritters-mommom",
+     "corn-fritters",
+     "corn-fritters-bhg",
+     "corn-fritters-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Breakfast Pizza",
+    "canonical": "breakfast-pizza-mommom",
+    "members": [
+     "breakfast-pizza-mommom",
+     "breakfast-pizza",
+     "breakfast-pizza-bhg"
+    ]
+   },
+   {
+    "title": "Cheese Strata",
+    "canonical": "cheese-strata-bhg",
+    "members": [
+     "cheese-strata",
+     "cheese-strata-bhg"
+    ]
+   },
+   {
+    "title": "Biscuits",
+    "canonical": "biscuits",
+    "members": [
+     "handwritten-biscuits",
+     "biscuits",
+     "biscuits-bhg"
+    ]
+   },
+   {
+    "title": "Spoon Bread",
+    "canonical": "spoon-bread-bhg",
+    "members": [
+     "spoon-bread",
+     "spoon-bread-bhg"
+    ]
+   },
+   {
+    "title": "Sourdough Starter",
+    "canonical": "sourdough-starter",
+    "members": [
+     "sourdough-starter",
+     "sourdough-starter-bhg"
+    ]
+   },
+   {
+    "title": "Pecan Crunch",
+    "canonical": "pecan-crunch",
+    "members": [
+     "pecan-crunch-bars",
+     "pecan-crunch"
+    ]
+   },
+   {
+    "title": "Apricot Meringue Strips",
+    "canonical": "apricot-meringue-strips-bhg",
+    "members": [
+     "apricot-meringue-strips",
+     "apricot-meringue-strips-bhg"
+    ]
+   },
+   {
+    "title": "Crunchy Snack Bars",
+    "canonical": "crunchy-snack-bars-bhg",
+    "members": [
+     "crunchy-snack-bars",
+     "crunchy-snack-bars-bhg"
+    ]
+   },
+   {
+    "title": "Peanut-Choco Nuggets",
+    "canonical": "peanut-choco-nuggets-bhg",
+    "members": [
+     "peanut-choco-nuggets",
+     "peanut-choco-nuggets-bhg"
+    ]
+   },
+   {
+    "title": "Almond Lace Rolls",
+    "canonical": "almond-lace-rolls-bhg",
+    "members": [
+     "almond-lace-rolls",
+     "almond-lace-rolls-bhg"
+    ]
+   },
+   {
+    "title": "Oatmeal Cookies",
+    "canonical": "oatmeal-cookies",
+    "members": [
+     "classic-oatmeal-cookies",
+     "oatmeal-cookies-bhg",
+     "oatmeal-cookies"
+    ]
+   },
+   {
+    "title": "Coconut Macaroons",
+    "canonical": "coconut-macaroons",
+    "members": [
+     "coconut-macaroons",
+     "coconut-macaroons-bhg"
+    ]
+   },
+   {
+    "title": "Gingerbread Men",
+    "canonical": "gingerbread-men-bhg",
+    "members": [
+     "gingerbread-men-cookies",
+     "gingerbread-men-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Fudge",
+    "canonical": "chocolate-fudge-classic",
+    "members": [
+     "chocolate-fudge-classic",
+     "chocolate-fudge-bhg"
+    ]
+   },
+   {
+    "title": "Candy Apples",
+    "canonical": "candy-apples-classic",
+    "members": [
+     "candy-apples-classic",
+     "candy-apples",
+     "candy-apples-bhg"
+    ]
+   },
+   {
+    "title": "Peanut Brittle",
+    "canonical": "peanut-brittle-bhg",
+    "members": [
+     "peanut-brittle-classic",
+     "peanut-brittle-bhg"
+    ]
+   },
+   {
+    "title": "Pepperoni Bites",
+    "canonical": "pepperoni-bites",
+    "members": [
+     "pepperoni-bites",
+     "pepperoni-bites-bhg"
+    ]
+   },
+   {
+    "title": "Crunchy Party Mix",
+    "canonical": "crunchy-party-mix",
+    "members": [
+     "crunchy-party-mix",
+     "crunchy-party-mix-bhg"
+    ]
+   },
+   {
+    "title": "Toasted Chili Nuts",
+    "canonical": "toasted-chili-nuts",
+    "members": [
+     "toasted-chili-nuts",
+     "toasted-chili-nuts-bhg"
+    ]
+   },
+   {
+    "title": "Nachos",
+    "canonical": "nachos-loaded",
+    "members": [
+     "nachos-loaded",
+     "nachos-bhg"
+    ]
+   },
+   {
+    "title": "Italian-Style Popcorn",
+    "canonical": "italian-style-popcorn",
+    "members": [
+     "italian-style-popcorn",
+     "italian-style-popcorn-bhg"
+    ]
+   },
+   {
+    "title": "Potato Skins",
+    "canonical": "potato-skins-baked",
+    "members": [
+     "potato-skins-baked",
+     "potato-skins-bhg"
+    ]
+   },
+   {
+    "title": "Stuffed Mushrooms",
+    "canonical": "stuffed-mushrooms-cheddar",
+    "members": [
+     "stuffed-mushrooms-cheddar",
+     "stuffed-mushrooms-bhg"
+    ]
+   },
+   {
+    "title": "Creamy Dill Dip",
+    "canonical": "creamy-dill-dip-bhg",
+    "members": [
+     "creamy-dill-dip",
+     "creamy-dill-dip-bhg"
+    ]
+   },
+   {
+    "title": "Sour Cream Fruit Dip",
+    "canonical": "sour-cream-fruit-dip",
+    "members": [
+     "sour-cream-fruit-dip",
+     "sour-cream-fruit-dip-bhg"
+    ]
+   },
+   {
+    "title": "Chili con Queso",
+    "canonical": "chili-con-queso-dip",
+    "members": [
+     "chili-con-queso-dip",
+     "chili-con-queso-bhg"
+    ]
+   },
+   {
+    "title": "Hot Cheese Dip",
+    "canonical": "hot-cheese-dip-beer",
+    "members": [
+     "hot-cheese-dip-beer",
+     "hot-cheese-dip-bhg"
+    ]
+   },
+   {
+    "title": "Guacamole",
+    "canonical": "guacamole-bhg",
+    "members": [
+     "guacamole-classic",
+     "guacamole-bhg",
+     "guacamole-gcb",
+     "guacamole-fbc"
+    ]
+   },
+   {
+    "title": "Cheese and Pesto Spread",
+    "canonical": "cheese-and-pesto-spread",
+    "members": [
+     "cheese-and-pesto-spread",
+     "cheese-and-pesto-spread-bhg"
+    ]
+   },
+   {
+    "title": "Cheddar Cheese Ball",
+    "canonical": "cheddar-cheese-ball-bhg",
+    "members": [
+     "cheddar-cheese-ball",
+     "cheddar-cheese-ball-bhg"
+    ]
+   },
+   {
+    "title": "Feta Cheese Ball",
+    "canonical": "feta-cheese-ball",
+    "members": [
+     "feta-cheese-ball",
+     "feta-cheese-ball-bhg"
+    ]
+   },
+   {
+    "title": "Eight-Layer Spread",
+    "canonical": "eight-layer-spread-bhg",
+    "members": [
+     "eight-layer-spread",
+     "eight-layer-spread-bhg"
+    ]
+   },
+   {
+    "title": "Cream-Cheese-Stuffed Slices",
+    "canonical": "cream-cheese-stuffed-slices",
+    "members": [
+     "cream-cheese-stuffed-slices",
+     "cream-cheese-stuffed-slices-bhg"
+    ]
+   },
+   {
+    "title": "Shrimp-Cucumber Spread",
+    "canonical": "shrimp-cucumber-spread",
+    "members": [
+     "shrimp-cucumber-spread",
+     "shrimp-cucumber-spread-bhg"
+    ]
+   },
+   {
+    "title": "Nutty Cheese Spread",
+    "canonical": "nutty-cheese-spread-bhg",
+    "members": [
+     "nutty-cheese-spread",
+     "nutty-cheese-spread-bhg"
+    ]
+   },
+   {
+    "title": "Curried Chicken Spread",
+    "canonical": "curried-chicken-spread-bhg",
+    "members": [
+     "curried-chicken-spread",
+     "curried-chicken-spread-bhg"
+    ]
+   },
+   {
+    "title": "Avocado Pita Wedges",
+    "canonical": "avocado-pita-wedges-bhg",
+    "members": [
+     "avocado-pita-wedges",
+     "avocado-pita-wedges-bhg"
+    ]
+   },
+   {
+    "title": "Cocktail Meatballs",
+    "canonical": "cocktail-meatballs-sauces",
+    "members": [
+     "cocktail-meatballs-sauces",
+     "cocktail-meatballs-bhg"
+    ]
+   },
+   {
+    "title": "Sweet-and-Sour Franks",
+    "canonical": "sweet-and-sour-franks",
+    "members": [
+     "sweet-and-sour-franks",
+     "sweet-and-sour-franks-bhg"
+    ]
+   },
+   {
+    "title": "Mustard-Glazed Ribs",
+    "canonical": "mustard-glazed-ribs",
+    "members": [
+     "mustard-glazed-ribs",
+     "mustard-glazed-ribs-bhg"
+    ]
+   },
+   {
+    "title": "Barbecue-Style Chicken Wings",
+    "canonical": "barbecue-style-chicken-wings",
+    "members": [
+     "barbecue-style-chicken-wings",
+     "barbecue-style-chicken-wings-bhg"
+    ]
+   },
+   {
+    "title": "Rumaki",
+    "canonical": "rumaki",
+    "members": [
+     "rumaki",
+     "rumaki-bhg"
+    ]
+   },
+   {
+    "title": "Cheese Twists",
+    "canonical": "cheese-twists-savory",
+    "members": [
+     "cheese-twists-savory",
+     "cheese-twists-bhg"
+    ]
+   },
+   {
+    "title": "Pastry-Wrapped Olives",
+    "canonical": "pastry-wrapped-olives",
+    "members": [
+     "pastry-wrapped-olives",
+     "pastry-wrapped-olives-bhg"
+    ]
+   },
+   {
+    "title": "Egg Rolls",
+    "canonical": "egg-rolls-crispy",
+    "members": [
+     "egg-rolls-crispy",
+     "egg-rolls-bhg"
+    ]
+   },
+   {
+    "title": "Wontons",
+    "canonical": "wontons-fried",
+    "members": [
+     "wontons-fried",
+     "wontons-bhg"
+    ]
+   },
+   {
+    "title": "Spinach Phyllo Triangles",
+    "canonical": "spinach-phyllo-triangles",
+    "members": [
+     "spinach-phyllo-triangles",
+     "spinach-phyllo-triangles-bhg"
+    ]
+   },
+   {
+    "title": "Oysters Rockefeller",
+    "canonical": "oysters-rockefeller",
+    "members": [
+     "oysters-rockefeller",
+     "oysters-rockefeller-bhg"
+    ]
+   },
+   {
+    "title": "Shrimp Cocktail",
+    "canonical": "shrimp-cocktail-classic",
+    "members": [
+     "shrimp-cocktail-classic",
+     "shrimp-cocktail-bhg"
+    ]
+   },
+   {
+    "title": "Salmon Mousse",
+    "canonical": "salmon-mousse",
+    "members": [
+     "salmon-mousse",
+     "salmon-mousse-bhg"
+    ]
+   },
+   {
+    "title": "Codfish Balls",
+    "canonical": "codfish-balls",
+    "members": [
+     "codfish-balls",
+     "codfish-balls-bhg"
+    ]
+   },
+   {
+    "title": "Batter-Fried Vegetables",
+    "canonical": "batter-fried-vegetables",
+    "members": [
+     "batter-fried-vegetables",
+     "batter-fried-vegetables-bhg"
+    ]
+   },
+   {
+    "title": "Fried Cheese",
+    "canonical": "fried-cheese-bhg",
+    "members": [
+     "fried-cheese-sticks",
+     "fried-cheese-bhg"
+    ]
+   },
+   {
+    "title": "Stuffed Cherry Tomatoes",
+    "canonical": "stuffed-cherry-tomatoes-bhg",
+    "members": [
+     "stuffed-cherry-tomatoes",
+     "stuffed-cherry-tomatoes-bhg"
+    ]
+   },
+   {
+    "title": "Chicken Liver Pâté",
+    "canonical": "chicken-liver-pate",
+    "members": [
+     "chicken-liver-pate",
+     "chicken-liver-pate-bhg"
+    ]
+   },
+   {
+    "title": "Marinated Cheese And Olives",
+    "canonical": "marinated-cheese-and-olives",
+    "members": [
+     "marinated-cheese-and-olives",
+     "marinated-cheese-and-olives-bhg"
+    ]
+   },
+   {
+    "title": "Lemon and Herb Mushrooms",
+    "canonical": "lemon-and-herb-mushrooms-bhg",
+    "members": [
+     "lemon-and-herb-mushrooms",
+     "lemon-and-herb-mushrooms-bhg"
+    ]
+   },
+   {
+    "title": "Melon and Prosciutto",
+    "canonical": "melon-and-prosciutto",
+    "members": [
+     "melon-and-prosciutto",
+     "melon-and-prosciutto-bhg"
+    ]
+   },
+   {
+    "title": "Eggnog",
+    "canonical": "eggnog-classic",
+    "members": [
+     "eggnog-classic",
+     "eggnog-bhg"
+    ]
+   },
+   {
+    "title": "Hot Chocolate",
+    "canonical": "hot-chocolate-homemade",
+    "members": [
+     "hot-chocolate-homemade",
+     "hot-chocolate-bhg"
+    ]
+   },
+   {
+    "title": "Cocoa Mix",
+    "canonical": "cocoa-mix-homemade",
+    "members": [
+     "cocoa-mix-homemade",
+     "cocoa-mix-bhg"
+    ]
+   },
+   {
+    "title": "Hot Spiced Cider",
+    "canonical": "hot-spiced-cider",
+    "members": [
+     "hot-spiced-cider",
+     "hot-spiced-cider-bhg"
+    ]
+   },
+   {
+    "title": "Hot Buttered Rum",
+    "canonical": "hot-buttered-rum-bhg",
+    "members": [
+     "hot-buttered-rum",
+     "hot-buttered-rum-bhg"
+    ]
+   },
+   {
+    "title": "Glogg",
+    "canonical": "glogg-swedish-punch",
+    "members": [
+     "glogg-swedish-punch",
+     "glogg-bhg"
+    ]
+   },
+   {
+    "title": "Choose-a-Flavor Milk Shakes",
+    "canonical": "choose-a-flavor-milk-shakes",
+    "members": [
+     "choose-a-flavor-milk-shakes",
+     "milk-shakes-bhg"
+    ]
+   },
+   {
+    "title": "Choose-a-Flavor Float",
+    "canonical": "ice-cream-float-bhg",
+    "members": [
+     "choose-a-flavor-float",
+     "ice-cream-float-bhg"
+    ]
+   },
+   {
+    "title": "Orange Breakfast Nog",
+    "canonical": "orange-breakfast-nog",
+    "members": [
+     "orange-breakfast-nog",
+     "orange-breakfast-nog-bhg"
+    ]
+   },
+   {
+    "title": "Fruity Yogurt Sipper",
+    "canonical": "fruity-yogurt-sipper",
+    "members": [
+     "fruity-yogurt-sipper",
+     "fruity-yogurt-sipper-bhg"
+    ]
+   },
+   {
+    "title": "Homemade Soda Pop",
+    "canonical": "homemade-soda-pop",
+    "members": [
+     "homemade-soda-pop",
+     "homemade-soda-pop-bhg"
+    ]
+   },
+   {
+    "title": "Party-Punch Base",
+    "canonical": "party-punch-base",
+    "members": [
+     "party-punch-base",
+     "party-punch-base-bhg"
+    ]
+   },
+   {
+    "title": "Ice-Cream Punch",
+    "canonical": "ice-cream-punch",
+    "members": [
+     "ice-cream-punch",
+     "ice-cream-punch-bhg"
+    ]
+   },
+   {
+    "title": "Slushy Punch",
+    "canonical": "slushy-punch",
+    "members": [
+     "slushy-punch",
+     "slushy-punch-bhg"
+    ]
+   },
+   {
+    "title": "Lemonade or Limeade",
+    "canonical": "lemonade-or-limeade-bhg",
+    "members": [
+     "lemonade-or-limeade",
+     "lemonade-or-limeade-bhg"
+    ]
+   },
+   {
+    "title": "Lime Daiquiris",
+    "canonical": "lime-daiquiris-bhg",
+    "members": [
+     "lime-daiquiris",
+     "lime-daiquiris-bhg"
+    ]
+   },
+   {
+    "title": "Margaritas",
+    "canonical": "margaritas-bhg",
+    "members": [
+     "margaritas",
+     "margaritas-bhg"
+    ]
+   },
+   {
+    "title": "Bloody Marys",
+    "canonical": "bloody-marys",
+    "members": [
+     "bloody-marys",
+     "bloody-marys-bhg"
+    ]
+   },
+   {
+    "title": "Sangria",
+    "canonical": "sangria",
+    "members": [
+     "sangria",
+     "sangria-bhg"
+    ]
+   },
+   {
+    "title": "Wine Spritzer",
+    "canonical": "wine-spritzer",
+    "members": [
+     "wine-spritzer",
+     "wine-spritzer-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate-Cream Liqueur",
+    "canonical": "chocolate-cream-liqueur",
+    "members": [
+     "chocolate-cream-liqueur",
+     "chocolate-cream-liqueur-bhg"
+    ]
+   },
+   {
+    "title": "Grasshoppers",
+    "canonical": "grasshoppers-bhg",
+    "members": [
+     "grasshoppers-cocktail",
+     "grasshoppers-bhg"
+    ]
+   },
+   {
+    "title": "White Bread",
+    "canonical": "white-bread-classic",
+    "members": [
+     "white-bread-classic",
+     "white-bread-bhg"
+    ]
+   },
+   {
+    "title": "French Bread",
+    "canonical": "french-bread-classic",
+    "members": [
+     "french-bread-classic",
+     "french-bread-bhg"
+    ]
+   },
+   {
+    "title": "Rye Bread",
+    "canonical": "rye-bread-bhg",
+    "members": [
+     "rye-bread",
+     "rye-bread-bhg"
+    ]
+   },
+   {
+    "title": "Dark Rye Bread",
+    "canonical": "dark-rye-bread-bhg",
+    "members": [
+     "dark-rye-bread",
+     "dark-rye-bread-bhg"
+    ]
+   },
+   {
+    "title": "Sourdough Bread",
+    "canonical": "sourdough-bread-bhg",
+    "members": [
+     "sourdough-bread",
+     "sourdough-bread-bhg"
+    ]
+   },
+   {
+    "title": "Cherry Sourdough Coffee Cake",
+    "canonical": "cherry-sourdough-coffee-cake-bhg",
+    "members": [
+     "cherry-sourdough-coffee-cake",
+     "cherry-sourdough-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Bacon Sourdough Muffins",
+    "canonical": "bacon-sourdough-muffins-bhg",
+    "members": [
+     "bacon-sourdough-muffins",
+     "bacon-sourdough-muffins-bhg"
+    ]
+   },
+   {
+    "title": "Dill Batter Bread",
+    "canonical": "dill-batter-bread-bhg",
+    "members": [
+     "dill-batter-bread",
+     "dill-batter-bread-bhg"
+    ]
+   },
+   {
+    "title": "Egg Bread",
+    "canonical": "egg-bread-bhg",
+    "members": [
+     "egg-bread",
+     "egg-bread-bhg"
+    ]
+   },
+   {
+    "title": "Cornmeal Bubble Ring",
+    "canonical": "cornmeal-bubble-ring-bhg",
+    "members": [
+     "cornmeal-bubble-ring",
+     "cornmeal-bubble-ring-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Swirl Bread",
+    "canonical": "chocolate-swirl-bread-bhg",
+    "members": [
+     "chocolate-swirl-bread",
+     "chocolate-swirl-bread-bhg"
+    ]
+   },
+   {
+    "title": "Stollen",
+    "canonical": "stollen",
+    "members": [
+     "stollen",
+     "stollen-bhg"
+    ]
+   },
+   {
+    "title": "Apple-Streusel Ladder Loaf",
+    "canonical": "apple-streusel-ladder-loaf",
+    "members": [
+     "apple-streusel-ladder-loaf",
+     "apple-streusel-ladder-loaf-bhg"
+    ]
+   },
+   {
+    "title": "Kuchen",
+    "canonical": "kuchen-bhg",
+    "members": [
+     "kuchen",
+     "kuchen-bhg"
+    ]
+   },
+   {
+    "title": "English Muffins",
+    "canonical": "english-muffins",
+    "members": [
+     "english-muffins",
+     "english-muffins-bhg"
+    ]
+   },
+   {
+    "title": "Pita Bread",
+    "canonical": "pita-bread-bhg",
+    "members": [
+     "pita-bread",
+     "pita-bread-bhg"
+    ]
+   },
+   {
+    "title": "Dinner Rolls",
+    "canonical": "dinner-rolls-bhg",
+    "members": [
+     "dinner-rolls",
+     "dinner-rolls-bhg"
+    ]
+   },
+   {
+    "title": "Wheat and Cottage Cheese Rolls",
+    "canonical": "wheat-and-cottage-cheese-rolls",
+    "members": [
+     "wheat-cottage-cheese-rolls",
+     "wheat-and-cottage-cheese-rolls",
+     "wheat-and-cottage-cheese-rolls-bhg"
+    ]
+   },
+   {
+    "title": "Bagels",
+    "canonical": "bagels-bhg",
+    "members": [
+     "bagels",
+     "bagels-bhg"
+    ]
+   },
+   {
+    "title": "Brioche",
+    "canonical": "brioche-bhg",
+    "members": [
+     "brioche",
+     "brioche-bhg"
+    ]
+   },
+   {
+    "title": "Sweet Rolls",
+    "canonical": "sweet-rolls",
+    "members": [
+     "sweet-rolls",
+     "sweet-rolls-bhg"
+    ]
+   },
+   {
+    "title": "Croissants",
+    "canonical": "croissants",
+    "members": [
+     "croissants",
+     "croissants-bhg"
+    ]
+   },
+   {
+    "title": "Hot Cross Buns",
+    "canonical": "hot-cross-buns-bhg",
+    "members": [
+     "hot-cross-buns",
+     "hot-cross-buns-bhg"
+    ]
+   },
+   {
+    "title": "Yeast Doughnuts",
+    "canonical": "yeast-doughnuts-bhg",
+    "members": [
+     "yeast-doughnuts",
+     "yeast-doughnuts-bhg"
+    ]
+   },
+   {
+    "title": "Cinnamon Crisps",
+    "canonical": "cinnamon-crisps-bhg",
+    "members": [
+     "cinnamon-crisps",
+     "cinnamon-crisps-bhg"
+    ]
+   },
+   {
+    "title": "Banana Bread",
+    "canonical": "banana-bread-bhg",
+    "members": [
+     "banana-bread-quick",
+     "banana-bread-bhg"
+    ]
+   },
+   {
+    "title": "Nut Bread",
+    "canonical": "nut-bread-bhg",
+    "members": [
+     "nut-bread",
+     "nut-bread-bhg"
+    ]
+   },
+   {
+    "title": "Berry-Banana-Walnut Bread",
+    "canonical": "berry-banana-walnut-bread",
+    "members": [
+     "berry-banana-walnut-bread",
+     "berry-banana-walnut-bread-bhg"
+    ]
+   },
+   {
+    "title": "Boston Brown Bread",
+    "canonical": "boston-brown-bread",
+    "members": [
+     "boston-brown-bread",
+     "boston-brown-bread-bhg"
+    ]
+   },
+   {
+    "title": "Coconut-Cherry-Carrot Bread",
+    "canonical": "coconut-cherry-carrot-bread-bhg",
+    "members": [
+     "coconut-cherry-carrot-bread",
+     "coconut-cherry-carrot-bread-bhg"
+    ]
+   },
+   {
+    "title": "Corn Bread",
+    "canonical": "corn-bread-bhg",
+    "members": [
+     "corn-bread",
+     "corn-bread-bhg"
+    ]
+   },
+   {
+    "title": "Muffins",
+    "canonical": "muffins-basic",
+    "members": [
+     "muffins-basic",
+     "muffins-bhg"
+    ]
+   },
+   {
+    "title": "French Breakfast Puffs",
+    "canonical": "french-breakfast-puffs",
+    "members": [
+     "french-breakfast-puffs",
+     "french-breakfast-puffs-bhg"
+    ]
+   },
+   {
+    "title": "Refrigerator Bran Muffins",
+    "canonical": "refrigerator-bran-muffins",
+    "members": [
+     "refrigerator-bran-muffins",
+     "refrigerator-bran-muffins-bhg"
+    ]
+   },
+   {
+    "title": "Honey Wheat Muffins",
+    "canonical": "honey-wheat-muffins",
+    "members": [
+     "honey-wheat-muffins",
+     "honey-wheat-muffins-bhg"
+    ]
+   },
+   {
+    "title": "Any-Fruit Coffee Cake",
+    "canonical": "any-fruit-coffee-cake-bhg",
+    "members": [
+     "any-fruit-coffee-cake",
+     "any-fruit-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Buttermilk Coffee Cake",
+    "canonical": "buttermilk-coffee-cake-bhg",
+    "members": [
+     "buttermilk-coffee-cake",
+     "buttermilk-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Applesauce Coffee Cake",
+    "canonical": "applesauce-coffee-cake",
+    "members": [
+     "applesauce-coffee-cake",
+     "applesauce-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Peanut Butter Coffee Cake",
+    "canonical": "peanut-butter-coffee-cake-bhg",
+    "members": [
+     "peanut-butter-coffee-cake",
+     "peanut-butter-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Date-Orange Coffee Cake",
+    "canonical": "date-orange-coffee-cake-bhg",
+    "members": [
+     "date-orange-coffee-cake",
+     "date-orange-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Streusel Coffee Cake",
+    "canonical": "streusel-coffee-cake-bhg",
+    "members": [
+     "streusel-coffee-cake",
+     "streusel-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Date-Nut Ring",
+    "canonical": "date-nut-ring-bhg",
+    "members": [
+     "date-nut-ring",
+     "date-nut-ring-bhg"
+    ]
+   },
+   {
+    "title": "Cocoa Ripple Ring",
+    "canonical": "cocoa-ripple-ring-bhg",
+    "members": [
+     "cocoa-ripple-ring",
+     "cocoa-ripple-ring-bhg"
+    ]
+   },
+   {
+    "title": "Berry Coffee Cake",
+    "canonical": "berry-coffee-cake-bhg",
+    "members": [
+     "berry-coffee-cake",
+     "berry-coffee-cake-bhg"
+    ]
+   },
+   {
+    "title": "Nutty Sticky Rolls",
+    "canonical": "nutty-sticky-rolls-bhg",
+    "members": [
+     "nutty-sticky-rolls",
+     "nutty-sticky-rolls-bhg"
+    ]
+   },
+   {
+    "title": "Easy Biscuit Mix",
+    "canonical": "easy-biscuit-mix-bhg",
+    "members": [
+     "easy-biscuit-mix",
+     "easy-biscuit-mix-bhg"
+    ]
+   },
+   {
+    "title": "Pecan Biscuit Spirals",
+    "canonical": "pecan-biscuit-spirals-bhg",
+    "members": [
+     "pecan-biscuit-spirals",
+     "pecan-biscuit-spirals-bhg"
+    ]
+   },
+   {
+    "title": "Apple-Cheese Biscuits",
+    "canonical": "apple-cheese-biscuits-bhg",
+    "members": [
+     "apple-cheese-biscuits",
+     "apple-cheese-biscuits-bhg"
+    ]
+   },
+   {
+    "title": "Irish Soda Bread",
+    "canonical": "irish-soda-bread",
+    "members": [
+     "irish-soda-bread",
+     "irish-soda-bread-bhg"
+    ]
+   },
+   {
+    "title": "Oatmeal-Raisin Scones",
+    "canonical": "oatmeal-raisin-scones",
+    "members": [
+     "oatmeal-raisin-scones",
+     "oatmeal-raisin-scones-bhg"
+    ]
+   },
+   {
+    "title": "Cake Doughnuts",
+    "canonical": "cake-doughnuts",
+    "members": [
+     "cake-doughnuts",
+     "cake-doughnuts-bhg",
+     "cake-doughnuts-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Hush Puppies",
+    "canonical": "hush-puppies-bhg",
+    "members": [
+     "hush-puppies",
+     "hush-puppies-bhg",
+     "foxfire-hush-puppies"
+    ]
+   },
+   {
+    "title": "Sopaipillas",
+    "canonical": "sopaipillas-bhg",
+    "members": [
+     "sopaipillas",
+     "sopaipillas-bhg"
+    ]
+   },
+   {
+    "title": "Mexican Doughnut Strips",
+    "canonical": "mexican-doughnut-strips-bhg",
+    "members": [
+     "mexican-doughnut-strips",
+     "mexican-doughnut-strips-bhg"
+    ]
+   },
+   {
+    "title": "Popovers",
+    "canonical": "popovers",
+    "members": [
+     "popovers",
+     "popovers-bhg"
+    ]
+   },
+   {
+    "title": "French Toast",
+    "canonical": "french-toast-bhg",
+    "members": [
+     "french-toast",
+     "french-toast-bhg"
+    ]
+   },
+   {
+    "title": "Caramel-Nut Pinwheels",
+    "canonical": "caramel-nut-pinwheels-bhg",
+    "members": [
+     "caramel-nut-pinwheels",
+     "caramel-nut-pinwheels-bhg"
+    ]
+   },
+   {
+    "title": "Waffles",
+    "canonical": "waffles",
+    "members": [
+     "waffles",
+     "waffles-bhg"
+    ]
+   },
+   {
+    "title": "Pancakes",
+    "canonical": "pancakes",
+    "members": [
+     "pancakes",
+     "pancakes-bhg"
+    ]
+   },
+   {
+    "title": "Crepes",
+    "canonical": "crepes",
+    "members": [
+     "crepes",
+     "crepes-bhg"
+    ]
+   },
+   {
+    "title": "Puffed Oven Pancake",
+    "canonical": "puffed-oven-pancake",
+    "members": [
+     "puffed-oven-pancake",
+     "puffed-oven-pancake-bhg"
+    ]
+   },
+   {
+    "title": "Pineapple Upside-Down Cake",
+    "canonical": "pineapple-upside-down-cake",
+    "members": [
+     "pineapple-upside-down-cake",
+     "pineapple-upside-down-cake-bhg"
+    ]
+   },
+   {
+    "title": "Busy-Day Cake",
+    "canonical": "busy-day-cake-bhg",
+    "members": [
+     "busy-day-cake",
+     "busy-day-cake-bhg"
+    ]
+   },
+   {
+    "title": "Yellow Cake",
+    "canonical": "yellow-cake-bhg",
+    "members": [
+     "yellow-cake",
+     "yellow-cake-bhg"
+    ]
+   },
+   {
+    "title": "White Cake",
+    "canonical": "white-cake-bhg",
+    "members": [
+     "white-cake",
+     "white-cake-bhg"
+    ]
+   },
+   {
+    "title": "Spice Cake",
+    "canonical": "spice-cake-bhg",
+    "members": [
+     "spice-cake",
+     "spice-cake-bhg"
+    ]
+   },
+   {
+    "title": "Pumpkin-Molasses Cake",
+    "canonical": "pumpkin-molasses-cake-bhg",
+    "members": [
+     "pumpkin-molasses-cake",
+     "pumpkin-molasses-cake-bhg"
+    ]
+   },
+   {
+    "title": "Carrot Cake",
+    "canonical": "carrot-cake",
+    "members": [
+     "carrot-cake-bhg",
+     "carrot-cake"
+    ]
+   },
+   {
+    "title": "Date Cake",
+    "canonical": "date-cake-bhg",
+    "members": [
+     "date-cake",
+     "date-cake-bhg"
+    ]
+   },
+   {
+    "title": "Gingerbread",
+    "canonical": "gingerbread",
+    "members": [
+     "gingerbread-bhg",
+     "gingerbread"
+    ]
+   },
+   {
+    "title": "Banana Cake",
+    "canonical": "banana-cake",
+    "members": [
+     "banana-cake",
+     "banana-cake-bhg"
+    ]
+   },
+   {
+    "title": "German Chocolate Cake",
+    "canonical": "german-chocolate-cake",
+    "members": [
+     "german-chocolate-cake",
+     "german-chocolate-cake-bhg"
+    ]
+   },
+   {
+    "title": "One-Layer Chocolate Cake",
+    "canonical": "one-layer-chocolate-cake-bhg",
+    "members": [
+     "one-layer-chocolate-cake",
+     "one-layer-chocolate-cake-bhg"
+    ]
+   },
+   {
+    "title": "Fudge Cake",
+    "canonical": "fudge-cake-bhg",
+    "members": [
+     "fudge-cake",
+     "fudge-cake-bhg"
+    ]
+   },
+   {
+    "title": "Black Forest Cake",
+    "canonical": "black-forest-cake",
+    "members": [
+     "black-forest-cake",
+     "black-forest-cake-bhg"
+    ]
+   },
+   {
+    "title": "Devil's Food Cake",
+    "canonical": "devils-food-cake-bhg",
+    "members": [
+     "devils-food-cake",
+     "devils-food-cake-bhg"
+    ]
+   },
+   {
+    "title": "Sour Cream Pound Cake",
+    "canonical": "sour-cream-pound-cake-bhg",
+    "members": [
+     "sour-cream-pound-cake",
+     "sour-cream-pound-cake-bhg",
+     "sour-cream-pound-cake-fbc",
+     "sour-cream-pound-cake-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Pound Cake",
+    "canonical": "pound-cake",
+    "members": [
+     "pound-cake-bhg",
+     "pound-cake"
+    ]
+   },
+   {
+    "title": "Sponge Cake",
+    "canonical": "sponge-cake-bhg",
+    "members": [
+     "sponge-cake",
+     "sponge-cake-bhg"
+    ]
+   },
+   {
+    "title": "Hot-Milk Sponge Cake",
+    "canonical": "hot-milk-sponge-cake-bhg",
+    "members": [
+     "hot-milk-sponge-cake",
+     "hot-milk-sponge-cake-bhg"
+    ]
+   },
+   {
+    "title": "Angel Cake",
+    "canonical": "angel-cake-bhg",
+    "members": [
+     "angel-cake",
+     "angel-cake-bhg"
+    ]
+   },
+   {
+    "title": "Chiffon Cake",
+    "canonical": "chiffon-cake",
+    "members": [
+     "chiffon-cake",
+     "chiffon-cake-bhg"
+    ]
+   },
+   {
+    "title": "Jelly Roll",
+    "canonical": "jelly-roll-bhg",
+    "members": [
+     "jelly-roll",
+     "jelly-roll-bhg"
+    ]
+   },
+   {
+    "title": "Fruitcake",
+    "canonical": "fruitcake",
+    "members": [
+     "fruitcake-bhg",
+     "fruitcake"
+    ]
+   },
+   {
+    "title": "Nut Torte",
+    "canonical": "nut-torte-bhg",
+    "members": [
+     "nut-torte",
+     "nut-torte-bhg"
+    ]
+   },
+   {
+    "title": "Seven-Minute Frosting",
+    "canonical": "seven-minute-frosting-bhg",
+    "members": [
+     "seven-minute-frosting",
+     "seven-minute-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Fluffy White Frosting",
+    "canonical": "fluffy-white-frosting-bhg",
+    "members": [
+     "fluffy-white-frosting",
+     "fluffy-white-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Creamy White Frosting",
+    "canonical": "creamy-white-frosting-bhg",
+    "members": [
+     "creamy-white-frosting",
+     "creamy-white-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Powdered Sugar Icing",
+    "canonical": "powdered-sugar-icing-bhg",
+    "members": [
+     "powdered-sugar-icing",
+     "powdered-sugar-icing-bhg"
+    ]
+   },
+   {
+    "title": "Cream Cheese Frosting",
+    "canonical": "cream-cheese-frosting",
+    "members": [
+     "cream-cheese-frosting",
+     "cream-cheese-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Petits Fours Icing",
+    "canonical": "petits-fours-icing-bhg",
+    "members": [
+     "petits-fours-icing",
+     "petits-fours-icing-bhg"
+    ]
+   },
+   {
+    "title": "Butter Frosting",
+    "canonical": "butter-frosting",
+    "members": [
+     "butter-frosting",
+     "butter-frosting-bhg"
+    ]
+   },
+   {
+    "title": "No-Cook Fudge Frosting",
+    "canonical": "no-cook-fudge-frosting-bhg",
+    "members": [
+     "no-cook-fudge-frosting",
+     "no-cook-fudge-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate-Sour-Cream Frosting",
+    "canonical": "chocolate-sour-cream-frosting-bhg",
+    "members": [
+     "chocolate-sour-cream-frosting",
+     "chocolate-sour-cream-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Glaze",
+    "canonical": "chocolate-glaze-bhg",
+    "members": [
+     "chocolate-glaze",
+     "chocolate-glaze-bhg"
+    ]
+   },
+   {
+    "title": "Rocky Road Frosting",
+    "canonical": "rocky-road-frosting-bhg",
+    "members": [
+     "rocky-road-frosting",
+     "rocky-road-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Coconut-Pecan Frosting",
+    "canonical": "coconut-pecan-frosting",
+    "members": [
+     "coconut-pecan-frosting",
+     "coconut-pecan-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Broiled Coconut Topping",
+    "canonical": "broiled-coconut-topping-bhg",
+    "members": [
+     "broiled-coconut-topping",
+     "broiled-coconut-topping-bhg"
+    ]
+   },
+   {
+    "title": "Penuche Frosting",
+    "canonical": "penuche-frosting-bhg",
+    "members": [
+     "penuche-frosting",
+     "penuche-frosting-bhg"
+    ]
+   },
+   {
+    "title": "Choose-a-Fruit Filling",
+    "canonical": "choose-a-fruit-filling-bhg",
+    "members": [
+     "choose-a-fruit-filling",
+     "choose-a-fruit-filling-bhg"
+    ]
+   },
+   {
+    "title": "Lemon Filling",
+    "canonical": "lemon-filling",
+    "members": [
+     "lemon-filling",
+     "lemon-filling-bhg"
+    ]
+   },
+   {
+    "title": "Opera Fudge",
+    "canonical": "opera-fudge-bhg",
+    "members": [
+     "opera-fudge",
+     "opera-fudge-bhg"
+    ]
+   },
+   {
+    "title": "Old-Time Fudge",
+    "canonical": "old-time-fudge-bhg",
+    "members": [
+     "old-time-fudge",
+     "old-time-fudge-bhg"
+    ]
+   },
+   {
+    "title": "Remarkable Fudge",
+    "canonical": "remarkable-fudge-bhg",
+    "members": [
+     "remarkable-fudge",
+     "remarkable-fudge-bhg"
+    ]
+   },
+   {
+    "title": "Penuche",
+    "canonical": "penuche-candy-bhg",
+    "members": [
+     "penuche-candy",
+     "penuche",
+     "penuche-candy-bhg"
+    ]
+   },
+   {
+    "title": "Caramels",
+    "canonical": "caramels-bhg",
+    "members": [
+     "caramels",
+     "caramels-bhg"
+    ]
+   },
+   {
+    "title": "Caramel Apples",
+    "canonical": "caramel-apples-bhg",
+    "members": [
+     "caramel-apples",
+     "caramel-apples-bhg"
+    ]
+   },
+   {
+    "title": "Saltwater Taffy",
+    "canonical": "saltwater-taffy",
+    "members": [
+     "saltwater-taffy",
+     "saltwater-taffy-bhg"
+    ]
+   },
+   {
+    "title": "Pralines",
+    "canonical": "pralines",
+    "members": [
+     "pralines",
+     "pralines-bhg",
+     "pralines-fbc",
+     "pralines-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Divinity",
+    "canonical": "divinity",
+    "members": [
+     "divinity",
+     "divinity-bhg"
+    ]
+   },
+   {
+    "title": "Nut Brittle",
+    "canonical": "nut-brittle-bhg",
+    "members": [
+     "nut-brittle",
+     "nut-brittle-bhg"
+    ]
+   },
+   {
+    "title": "Toffee Butter Crunch",
+    "canonical": "toffee-butter-crunch-bhg",
+    "members": [
+     "toffee-butter-crunch",
+     "toffee-butter-crunch-bhg"
+    ]
+   },
+   {
+    "title": "Glazed Nuts",
+    "canonical": "glazed-nuts-bhg",
+    "members": [
+     "glazed-nuts",
+     "glazed-nuts-bhg"
+    ]
+   },
+   {
+    "title": "Caramel Corn",
+    "canonical": "caramel-corn-bhg",
+    "members": [
+     "caramel-corn",
+     "caramel-corn-pat-groen",
+     "caramel-corn-family",
+     "caramel-corn-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate-Covered Cherries",
+    "canonical": "chocolate-covered-cherries-bhg",
+    "members": [
+     "chocolate-covered-cherries",
+     "chocolate-covered-cherries-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate-Dipped Fruit",
+    "canonical": "chocolate-dipped-fruit-bhg",
+    "members": [
+     "chocolate-dipped-fruit",
+     "chocolate-dipped-fruit-bhg"
+    ]
+   },
+   {
+    "title": "Fondant",
+    "canonical": "fondant-bhg",
+    "members": [
+     "fondant",
+     "fondant-bhg"
+    ]
+   },
+   {
+    "title": "Truffles",
+    "canonical": "truffles-bhg",
+    "members": [
+     "truffles",
+     "truffles-bhg"
+    ]
+   },
+   {
+    "title": "Peanut Butter Balls",
+    "canonical": "peanut-butter-balls-bhg",
+    "members": [
+     "peanut-butter-balls",
+     "peanut-butter-balls-bhg"
+    ]
+   },
+   {
+    "title": "Peanut Clusters",
+    "canonical": "peanut-clusters-bhg",
+    "members": [
+     "peanut-clusters",
+     "peanut-clusters-bhg"
+    ]
+   },
+   {
+    "title": "Rocky Road",
+    "canonical": "rocky-road-candy-bhg",
+    "members": [
+     "rocky-road-candy",
+     "rocky-road",
+     "rocky-road-candy-bhg"
+    ]
+   },
+   {
+    "title": "Caramel Snappers",
+    "canonical": "caramel-snappers-bhg",
+    "members": [
+     "caramel-snappers",
+     "caramel-snappers-bhg"
+    ]
+   },
+   {
+    "title": "Cream Cheese Mints",
+    "canonical": "cream-cheese-mints-bhg",
+    "members": [
+     "cream-cheese-mints",
+     "cream-cheese-mints-bhg"
+    ]
+   },
+   {
+    "title": "Lemon Bars",
+    "canonical": "lemon-bars-bhg",
+    "members": [
+     "lemon-bars",
+     "lemon-bars-cookies",
+     "lemon-bars-bhg"
+    ]
+   },
+   {
+    "title": "Crispy Cereal Squares",
+    "canonical": "crispy-cereal-squares-bhg",
+    "members": [
+     "crispy-cereal-squares",
+     "crispy-cereal-squares-bhg"
+    ]
+   },
+   {
+    "title": "Granola Bars",
+    "canonical": "granola-bars-bhg",
+    "members": [
+     "granola-bars",
+     "granola-bars-bhg"
+    ]
+   },
+   {
+    "title": "Fruit-Filled Oatmeal Bars",
+    "canonical": "fruit-filled-oatmeal-bars-bhg",
+    "members": [
+     "fruit-filled-oatmeal-bars",
+     "fruit-filled-oatmeal-bars-bhg"
+    ]
+   },
+   {
+    "title": "Orange-Date Bars",
+    "canonical": "orange-date-bars-bhg",
+    "members": [
+     "orange-date-bars",
+     "orange-date-bars-bhg"
+    ]
+   },
+   {
+    "title": "Pumpkin Bars",
+    "canonical": "pumpkin-bars",
+    "members": [
+     "pumpkin-bars",
+     "pumpkin-bars-bhg"
+    ]
+   },
+   {
+    "title": "Peanut Butter Bars",
+    "canonical": "peanut-butter-bars",
+    "members": [
+     "peanut-butter-bars",
+     "peanut-butter-bars-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Revel Bars",
+    "canonical": "chocolate-revel-bars-bhg",
+    "members": [
+     "chocolate-revel-bars",
+     "chocolate-revel-bars-bhg"
+    ]
+   },
+   {
+    "title": "Fudge Brownies",
+    "canonical": "fudge-brownies-bhg",
+    "members": [
+     "fudge-brownies",
+     "fudge-brownies-bhg"
+    ]
+   },
+   {
+    "title": "Buttermilk Brownies",
+    "canonical": "buttermilk-brownies-bhg",
+    "members": [
+     "buttermilk-brownies",
+     "buttermilk-brownies-bhg"
+    ]
+   },
+   {
+    "title": "Toffee Bars",
+    "canonical": "toffee-bars-bhg",
+    "members": [
+     "toffee-bars",
+     "toffee-bars-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Chip Cookies",
+    "canonical": "chocolate-chip-cookies-bhg",
+    "members": [
+     "chocolate-chip-cookies-bhg",
+     "chocolate-chip-cookies"
+    ]
+   },
+   {
+    "title": "Fudge Ecstasies",
+    "canonical": "fudge-ecstasies-bhg",
+    "members": [
+     "fudge-ecstasies",
+     "fudge-ecstasies-bhg"
+    ]
+   },
+   {
+    "title": "Drop Cookies",
+    "canonical": "drop-cookies",
+    "members": [
+     "drop-cookies-bhg",
+     "drop-cookies"
+    ]
+   },
+   {
+    "title": "Hermits",
+    "canonical": "hermits-bhg",
+    "members": [
+     "hermits",
+     "hermits-bhg"
+    ]
+   },
+   {
+    "title": "Ranger Cookies",
+    "canonical": "ranger-cookies-bhg",
+    "members": [
+     "ranger-cookies",
+     "ranger-cookies-bhg"
+    ]
+   },
+   {
+    "title": "Santa's Whiskers",
+    "canonical": "santas-whiskers-bhg",
+    "members": [
+     "santas-whiskers",
+     "santas-whiskers-bhg"
+    ]
+   },
+   {
+    "title": "Date Pinwheel Cookies",
+    "canonical": "date-pinwheel-cookies-bhg",
+    "members": [
+     "date-pinwheel-cookies",
+     "date-pinwheel-cookies-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate-Coconut Pinwheels",
+    "canonical": "chocolate-coconut-pinwheels-bhg",
+    "members": [
+     "chocolate-coconut-pinwheels",
+     "chocolate-coconut-pinwheels-bhg"
+    ]
+   },
+   {
+    "title": "Tiny Tarts",
+    "canonical": "tiny-tarts-bhg",
+    "members": [
+     "tiny-tarts",
+     "tiny-tarts-bhg"
+    ]
+   },
+   {
+    "title": "Brandy Snaps",
+    "canonical": "brandy-snaps-bhg",
+    "members": [
+     "brandy-snaps",
+     "brandy-snaps-bhg"
+    ]
+   },
+   {
+    "title": "Jam Thumbprints",
+    "canonical": "jam-thumbprints-bhg",
+    "members": [
+     "jam-thumbprints",
+     "jam-thumbprints-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Crinkles",
+    "canonical": "chocolate-crinkles-bhg",
+    "members": [
+     "chocolate-crinkles",
+     "chocolate-crinkles-bhg"
+    ]
+   },
+   {
+    "title": "Shortbread",
+    "canonical": "shortbread",
+    "members": [
+     "shortbread-bhg",
+     "shortbread"
+    ]
+   },
+   {
+    "title": "Poached Pears",
+    "canonical": "poached-pears-bhg",
+    "members": [
+     "poached-pears",
+     "poached-pears-bhg"
+    ]
+   },
+   {
+    "title": "Applesauce",
+    "canonical": "applesauce-bhg",
+    "members": [
+     "applesauce-bhg",
+     "applesauce"
+    ]
+   },
+   {
+    "title": "Apple Dumplings",
+    "canonical": "apple-dumplings-bhg",
+    "members": [
+     "apple-dumplings",
+     "apple-dumplings-bhg"
+    ]
+   },
+   {
+    "title": "Baked Apples",
+    "canonical": "baked-apples-bhg",
+    "members": [
+     "baked-apples-bhg",
+     "baked-apples"
+    ]
+   },
+   {
+    "title": "Fruit Crisp",
+    "canonical": "fruit-crisp-bhg",
+    "members": [
+     "fruit-crisp",
+     "fruit-crisp-bhg"
+    ]
+   },
+   {
+    "title": "Fruit Cobbler",
+    "canonical": "fruit-cobbler-bhg",
+    "members": [
+     "fruit-cobbler",
+     "fruit-cobbler-bhg"
+    ]
+   },
+   {
+    "title": "Cherries Jubilee",
+    "canonical": "cherries-jubilee-bhg",
+    "members": [
+     "cherries-jubilee",
+     "cherries-jubilee-bhg"
+    ]
+   },
+   {
+    "title": "Bananas Foster",
+    "canonical": "bananas-foster-bhg",
+    "members": [
+     "bananas-foster",
+     "bananas-foster-bhg"
+    ]
+   },
+   {
+    "title": "Fresh-Fruit Bowl",
+    "canonical": "fresh-fruit-bowl-bhg",
+    "members": [
+     "fresh-fruit-bowl",
+     "fresh-fruit-bowl-bhg"
+    ]
+   },
+   {
+    "title": "Swedish Fruit Soup",
+    "canonical": "swedish-fruit-soup-bhg",
+    "members": [
+     "swedish-fruit-soup",
+     "swedish-fruit-soup-bhg"
+    ]
+   },
+   {
+    "title": "Crepes Suzette",
+    "canonical": "crepes-suzette-bhg",
+    "members": [
+     "crepes-suzette",
+     "crepes-suzette-bhg"
+    ]
+   },
+   {
+    "title": "Meringue Shells",
+    "canonical": "meringue-shells-bhg",
+    "members": [
+     "meringue-shells",
+     "meringue-shells-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Mousse",
+    "canonical": "chocolate-mousse-bhg",
+    "members": [
+     "chocolate-mousse",
+     "chocolate-mousse-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Soufflé",
+    "canonical": "chocolate-souffle-bhg",
+    "members": [
+     "chocolate-souffle",
+     "chocolate-souffle-bhg"
+    ]
+   },
+   {
+    "title": "Baked Alaska",
+    "canonical": "baked-alaska-bhg",
+    "members": [
+     "baked-alaska",
+     "baked-alaska-bhg"
+    ]
+   },
+   {
+    "title": "Cheesecake Supreme",
+    "canonical": "cheesecake-supreme-bhg",
+    "members": [
+     "cheesecake-supreme",
+     "cheesecake-supreme-bhg"
+    ]
+   },
+   {
+    "title": "Strawberry Shortcake",
+    "canonical": "strawberry-shortcake-bhg",
+    "members": [
+     "strawberry-shortcake",
+     "strawberry-shortcake-bhg"
+    ]
+   },
+   {
+    "title": "Brownie Pudding Cake",
+    "canonical": "brownie-pudding-cake-bhg",
+    "members": [
+     "brownie-pudding-cake",
+     "brownie-pudding-cake-bhg"
+    ]
+   },
+   {
+    "title": "Haystacks",
+    "canonical": "haystacks-carol-willison",
+    "members": [
+     "haystacks-carol-willison",
+     "haystacks-family"
+    ]
+   },
+   {
+    "title": "Holiday Baked Apples",
+    "canonical": "holiday-baked-apples",
+    "members": [
+     "holiday-baked-apples",
+     "holiday-baked-apples-family"
+    ]
+   },
+   {
+    "title": "Hot Fudge Topping",
+    "canonical": "hot-fudge-topping",
+    "members": [
+     "hot-fudge-topping",
+     "hot-fudge-topping-family"
+    ]
+   },
+   {
+    "title": "Peanut Sauce",
+    "canonical": "peanut-sauce-pat-groen",
+    "members": [
+     "peanut-sauce-pat-groen",
+     "peanut-sauce-family"
+    ]
+   },
+   {
+    "title": "Peanut Butter Fudge",
+    "canonical": "peanut-butter-fudge-bhg",
+    "members": [
+     "peanut-butter-fudge-karen-talbot",
+     "peanut-butter-fudge-family",
+     "peanut-butter-fudge-bhg"
+    ]
+   },
+   {
+    "title": "Lemon Pudding Cake",
+    "canonical": "lemon-pudding-cake-bhg",
+    "members": [
+     "lemon-pudding-cake",
+     "lemon-pudding-cake-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate-Mousse Cake",
+    "canonical": "chocolate-mousse-cake-bhg",
+    "members": [
+     "chocolate-mousse-cake",
+     "chocolate-mousse-cake-bhg"
+    ]
+   },
+   {
+    "title": "Plum Pudding",
+    "canonical": "plum-pudding-bhg",
+    "members": [
+     "plum-pudding",
+     "plum-pudding-bhg"
+    ]
+   },
+   {
+    "title": "Vanilla Pudding",
+    "canonical": "vanilla-pudding-bhg",
+    "members": [
+     "vanilla-pudding",
+     "vanilla-pudding-bhg"
+    ]
+   },
+   {
+    "title": "Cream Puffs",
+    "canonical": "cream-puffs-bhg",
+    "members": [
+     "cream-puffs",
+     "cream-puffs-bhg"
+    ]
+   },
+   {
+    "title": "Chocolate Pots de Crème",
+    "canonical": "chocolate-pots-de-creme-bhg",
+    "members": [
+     "chocolate-pots-de-creme",
+     "chocolate-pots-de-creme-bhg"
+    ]
+   },
+   {
+    "title": "Cream Cheese Hearts",
+    "canonical": "cream-cheese-hearts-bhg",
+    "members": [
+     "cream-cheese-hearts",
+     "cream-cheese-hearts-bhg"
+    ]
+   },
+   {
+    "title": "Baked Custards",
+    "canonical": "baked-custards-bhg",
+    "members": [
+     "baked-custards",
+     "baked-custards-bhg"
+    ]
+   },
+   {
+    "title": "Bread Pudding",
+    "canonical": "bread-pudding",
+    "members": [
+     "bread-pudding-bhg",
+     "bread-pudding"
+    ]
+   },
+   {
+    "title": "Stirred Custard",
+    "canonical": "stirred-custard-bhg",
+    "members": [
+     "stirred-custard",
+     "stirred-custard-bhg"
+    ]
+   },
+   {
+    "title": "Stirred Rice Pudding",
+    "canonical": "stirred-rice-pudding-bhg",
+    "members": [
+     "stirred-rice-pudding",
+     "stirred-rice-pudding-bhg"
+    ]
+   },
+   {
+    "title": "Trifle",
+    "canonical": "trifle-bhg",
+    "members": [
+     "trifle",
+     "trifle-bhg"
+    ]
+   },
+   {
+    "title": "No-Cook Vanilla Ice Cream",
+    "canonical": "no-cook-vanilla-ice-cream-bhg",
+    "members": [
+     "no-cook-vanilla-ice-cream",
+     "no-cook-vanilla-ice-cream-bhg"
+    ]
+   },
+   {
+    "title": "Vanilla Ice Cream",
+    "canonical": "vanilla-ice-cream-bhg",
+    "members": [
+     "vanilla-ice-cream-cooked",
+     "vanilla-ice-cream",
+     "vanilla-ice-cream-bhg"
+    ]
+   },
+   {
+    "title": "Lemon Sherbet",
+    "canonical": "lemon-sherbet-bhg",
+    "members": [
+     "lemon-sherbet",
+     "lemon-sherbet-bhg"
+    ]
+   },
+   {
+    "title": "Fruit Ice",
+    "canonical": "fruit-ice-bhg",
+    "members": [
+     "fruit-ice",
+     "fruit-ice-bhg"
+    ]
+   },
+   {
+    "title": "Choose-a-Fruit Frozen Yogurt",
+    "canonical": "choose-a-fruit-frozen-yogurt-bhg",
+    "members": [
+     "choose-a-fruit-frozen-yogurt",
+     "choose-a-fruit-frozen-yogurt-bhg"
+    ]
+   },
+   {
+    "title": "Mocha Toffee Squares",
+    "canonical": "mocha-toffee-squares-bhg",
+    "members": [
+     "mocha-toffee-squares",
+     "mocha-toffee-squares-bhg"
+    ]
+   },
+   {
+    "title": "Frosty Strawberry Squares",
+    "canonical": "frosty-strawberry-squares-bhg",
+    "members": [
+     "frosty-strawberry-squares",
+     "frosty-strawberry-squares-bhg"
+    ]
+   },
+   {
+    "title": "Ice-Cream Torte",
+    "canonical": "ice-cream-torte-bhg",
+    "members": [
+     "ice-cream-torte",
+     "ice-cream-torte-bhg"
+    ]
+   },
+   {
+    "title": "Chocolaty Velvet Ice Cream",
+    "canonical": "chocolaty-velvet-ice-cream-bhg",
+    "members": [
+     "chocolaty-velvet-ice-cream",
+     "chocolaty-velvet-ice-cream-bhg"
+    ]
+   },
+   {
+    "title": "Fruit Sauce",
+    "canonical": "fruit-sauce-bhg",
+    "members": [
+     "fruit-sauce-dessert",
+     "fruit-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Orange Sauce",
+    "canonical": "orange-sauce-bhg",
+    "members": [
+     "orange-sauce",
+     "orange-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Caramel Sauce",
+    "canonical": "caramel-sauce-bhg",
+    "members": [
+     "caramel-sauce",
+     "caramel-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Hot Fudge Sauce",
+    "canonical": "hot-fudge-sauce-bhg",
+    "members": [
+     "hot-fudge-sauce-bhg",
+     "hot-fudge-sauce"
+    ]
+   },
+   {
+    "title": "Rhubarb Sauce",
+    "canonical": "rhubarb-sauce-bhg",
+    "members": [
+     "rhubarb-sauce",
+     "rhubarb-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Vanilla Sauce",
+    "canonical": "vanilla-sauce-bhg",
+    "members": [
+     "vanilla-sauce",
+     "vanilla-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Whiskey Sauce",
+    "canonical": "whiskey-sauce-bhg",
+    "members": [
+     "whiskey-sauce",
+     "whiskey-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Whipped Cream",
+    "canonical": "whipped-cream-bhg",
+    "members": [
+     "whipped-cream",
+     "whipped-cream-bhg"
+    ]
+   },
+   {
+    "title": "Hard Sauce",
+    "canonical": "hard-sauce-bhg",
+    "members": [
+     "hard-sauce",
+     "hard-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Creamy Poached Eggs",
+    "canonical": "creamy-poached-eggs-bhg",
+    "members": [
+     "creamy-poached-eggs",
+     "creamy-poached-eggs-bhg"
+    ]
+   },
+   {
+    "title": "Poached Eggs",
+    "canonical": "poached-eggs-bhg",
+    "members": [
+     "poached-eggs",
+     "poached-eggs-bhg"
+    ]
+   },
+   {
+    "title": "Huevos Rancheros",
+    "canonical": "huevos-rancheros-bhg",
+    "members": [
+     "huevos-rancheros",
+     "huevos-rancheros-bhg"
+    ]
+   },
+   {
+    "title": "Soft-Cooked Eggs and Hard-Cooked Eggs",
+    "canonical": "soft-hard-cooked-eggs",
+    "members": [
+     "soft-hard-cooked-eggs",
+     "soft-cooked-hard-cooked-eggs-bhg"
+    ]
+   },
+   {
+    "title": "Deviled Eggs",
+    "canonical": "deviled-eggs-bhg",
+    "members": [
+     "deviled-eggs",
+     "deviled-eggs-bhg"
+    ]
+   },
+   {
+    "title": "Fried Eggs",
+    "canonical": "fried-eggs-bhg",
+    "members": [
+     "fried-eggs",
+     "fried-eggs-bhg"
+    ]
+   },
+   {
+    "title": "Baked Eggs",
+    "canonical": "baked-eggs-bhg",
+    "members": [
+     "baked-eggs",
+     "baked-eggs-bhg"
+    ]
+   },
+   {
+    "title": "Egg-Salad Sandwiches",
+    "canonical": "egg-salad-sandwiches-bhg",
+    "members": [
+     "egg-salad-sandwiches",
+     "egg-salad-sandwiches-bhg"
+    ]
+   },
+   {
+    "title": "Asparagus-Egg Casserole",
+    "canonical": "asparagus-egg-casserole",
+    "members": [
+     "asparagus-egg-casserole",
+     "asparagus-egg-casserole-bhg"
+    ]
+   },
+   {
+    "title": "Scrambled Eggs",
+    "canonical": "scrambled-eggs-bhg",
+    "members": [
+     "scrambled-eggs",
+     "scrambled-eggs-bhg"
+    ]
+   },
+   {
+    "title": "Farmer's Breakfast",
+    "canonical": "farmers-breakfast-bhg",
+    "members": [
+     "farmers-breakfast",
+     "farmers-breakfast-bhg"
+    ]
+   },
+   {
+    "title": "Scrambled-Egg Casserole",
+    "canonical": "scrambled-egg-casserole-bhg",
+    "members": [
+     "scrambled-egg-casserole",
+     "scrambled-egg-casserole-bhg"
+    ]
+   },
+   {
+    "title": "Eggs in a Puff",
+    "canonical": "eggs-in-a-puff-bhg",
+    "members": [
+     "eggs-in-a-puff",
+     "eggs-in-a-puff-bhg"
+    ]
+   },
+   {
+    "title": "Egg-Pita Sandwiches",
+    "canonical": "egg-pita-sandwiches-bhg",
+    "members": [
+     "egg-pita-sandwiches",
+     "egg-pita-sandwiches-bhg"
+    ]
+   },
+   {
+    "title": "French Omelet",
+    "canonical": "french-omelet-bhg",
+    "members": [
+     "french-omelet",
+     "french-omelet-bhg"
+    ]
+   },
+   {
+    "title": "Denver Omelet",
+    "canonical": "denver-omelet-bhg",
+    "members": [
+     "denver-omelet",
+     "denver-omelet-bhg"
+    ]
+   },
+   {
+    "title": "Puffy Omelet",
+    "canonical": "puffy-omelet-bhg",
+    "members": [
+     "puffy-omelet",
+     "puffy-omelet-bhg"
+    ]
+   },
+   {
+    "title": "Frittata",
+    "canonical": "frittata-bhg",
+    "members": [
+     "frittata",
+     "frittata-bhg"
+    ]
+   },
+   {
+    "title": "Cheese Soufflé",
+    "canonical": "cheese-souffle-bhg",
+    "members": [
+     "cheese-souffle",
+     "cheese-souffle-bhg"
+    ]
+   },
+   {
+    "title": "Vegetable Soufflé",
+    "canonical": "vegetable-souffle-bhg",
+    "members": [
+     "vegetable-souffle",
+     "vegetable-souffle-bhg"
+    ]
+   },
+   {
+    "title": "Spinach Puff",
+    "canonical": "spinach-puff-bhg",
+    "members": [
+     "spinach-puff",
+     "spinach-puff-bhg"
+    ]
+   },
+   {
+    "title": "Choose-a-Flavor Quiche",
+    "canonical": "choose-a-flavor-quiche-bhg",
+    "members": [
+     "choose-a-flavor-quiche",
+     "choose-a-flavor-quiche-bhg"
+    ]
+   },
+   {
+    "title": "Spinach-Egg Casserole",
+    "canonical": "spinach-egg-casserole-bhg",
+    "members": [
+     "spinach-egg-casserole",
+     "spinach-egg-casserole-bhg"
+    ]
+   },
+   {
+    "title": "Cheesy Brunch Roll-Ups",
+    "canonical": "cheesy-brunch-roll-ups-bhg",
+    "members": [
+     "cheesy-brunch-roll-ups",
+     "cheesy-brunch-roll-ups-bhg"
+    ]
+   },
+   {
+    "title": "Fettuccine with Cheese Sauce",
+    "canonical": "fettuccine-with-cheese-sauce-bhg",
+    "members": [
+     "fettuccine-with-cheese-sauce",
+     "fettuccine-with-cheese-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Cheese Fondue",
+    "canonical": "cheese-fondue-bhg",
+    "members": [
+     "cheese-fondue",
+     "cheese-fondue-bhg"
+    ]
+   },
+   {
+    "title": "Creamy Cheese Fondue",
+    "canonical": "creamy-cheese-fondue-bhg",
+    "members": [
+     "creamy-cheese-fondue",
+     "creamy-cheese-fondue-bhg"
+    ]
+   },
+   {
+    "title": "Cheese-Stuffed Manicotti",
+    "canonical": "cheese-stuffed-manicotti-bhg",
+    "members": [
+     "cheese-stuffed-manicotti",
+     "cheese-stuffed-manicotti-bhg"
+    ]
+   },
+   {
+    "title": "Venison Pot Roast",
+    "canonical": "venison-pot-roast",
+    "members": [
+     "venison-pot-roast",
+     "foxfire-venison-pot-roast"
+    ]
+   },
+   {
+    "title": "Veal Marsala",
+    "canonical": "veal-marsala-bhg",
+    "members": [
+     "veal-marsala",
+     "veal-marsala-bhg"
+    ]
+   },
+   {
+    "title": "Beef Fajitas",
+    "canonical": "beef-fajitas-bhg",
+    "members": [
+     "beef-fajitas",
+     "beef-fajitas-bhg"
+    ]
+   },
+   {
+    "title": "Tomato Juice Cocktail",
+    "canonical": "tomato-juice-cocktail",
+    "members": [
+     "tomato-juice-cocktail",
+     "tomato-juice-cocktail-bhg"
+    ]
+   },
+   {
+    "title": "Welsh Rarebit Breakfast",
+    "canonical": "welsh-rarebit-breakfast-bhg",
+    "members": [
+     "welsh-rarebit-breakfast",
+     "welsh-rarebit-breakfast-bhg"
+    ]
+   },
+   {
+    "title": "Meatless Red Beans and Rice",
+    "canonical": "meatless-red-beans-and-rice-bhg",
+    "members": [
+     "meatless-red-beans-and-rice",
+     "meatless-red-beans-and-rice-bhg"
+    ]
+   },
+   {
+    "title": "Meatless Tacos",
+    "canonical": "meatless-tacos-bhg",
+    "members": [
+     "meatless-tacos",
+     "meatless-tacos-bhg"
+    ]
+   },
+   {
+    "title": "Garbanzo Sandwich Spread",
+    "canonical": "garbanzo-sandwich-spread",
+    "members": [
+     "garbanzo-sandwich-spread",
+     "garbanzo-sandwich-spread-bhg"
+    ]
+   },
+   {
+    "title": "Fried-Rice Supper",
+    "canonical": "fried-rice-supper",
+    "members": [
+     "fried-rice-supper",
+     "fried-rice-supper-bhg"
+    ]
+   },
+   {
+    "title": "Bean and Cheese Burritos",
+    "canonical": "bean-and-cheese-burritos-bhg",
+    "members": [
+     "bean-and-cheese-burritos",
+     "bean-and-cheese-burritos-bhg"
+    ]
+   },
+   {
+    "title": "Marinated Salmon Steaks",
+    "canonical": "marinated-salmon-steaks-bhg",
+    "members": [
+     "marinated-salmon-steaks",
+     "marinated-salmon-steaks-bhg"
+    ]
+   },
+   {
+    "title": "Herbed Sauce for Fish",
+    "canonical": "herbed-sauce-for-fish",
+    "members": [
+     "herbed-sauce-for-fish",
+     "herbed-sauce-for-fish-bhg"
+    ]
+   },
+   {
+    "title": "Halibut with Sherry Sauce",
+    "canonical": "halibut-with-sherry-sauce-bhg",
+    "members": [
+     "halibut-with-sherry-sauce",
+     "halibut-with-sherry-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Teriyaki Shark",
+    "canonical": "teriyaki-shark-bhg",
+    "members": [
+     "teriyaki-shark",
+     "teriyaki-shark-bhg"
+    ]
+   },
+   {
+    "title": "Swordfish Kabobs",
+    "canonical": "swordfish-kabobs",
+    "members": [
+     "swordfish-kabobs",
+     "swordfish-kabobs-bhg"
+    ]
+   },
+   {
+    "title": "Sweet-and-Sour Fish Kabobs",
+    "canonical": "sweet-and-sour-fish-kabobs-bhg",
+    "members": [
+     "sweet-and-sour-fish-kabobs",
+     "sweet-and-sour-fish-kabobs-bhg"
+    ]
+   },
+   {
+    "title": "Fish with Beer-Cheese Sauce",
+    "canonical": "fish-with-beer-cheese-sauce-bhg",
+    "members": [
+     "fish-with-beer-cheese-sauce",
+     "fish-with-beer-cheese-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Citrus Baked Halibut",
+    "canonical": "citrus-baked-halibut-bhg",
+    "members": [
+     "citrus-baked-halibut",
+     "citrus-baked-halibut-bhg"
+    ]
+   },
+   {
+    "title": "Broccoli-Stuffed Sole",
+    "canonical": "broccoli-stuffed-sole-bhg",
+    "members": [
+     "broccoli-stuffed-sole",
+     "broccoli-stuffed-sole-bhg"
+    ]
+   },
+   {
+    "title": "Baked Fish with Mushrooms",
+    "canonical": "baked-fish-with-mushrooms-bhg",
+    "members": [
+     "baked-fish-with-mushrooms",
+     "baked-fish-with-mushrooms-bhg"
+    ]
+   },
+   {
+    "title": "Wild-Rice-Stuffed Fish",
+    "canonical": "wild-rice-stuffed-fish",
+    "members": [
+     "wild-rice-stuffed-fish",
+     "wild-rice-stuffed-fish-bhg"
+    ]
+   },
+   {
+    "title": "Fish en Papillote",
+    "canonical": "fish-en-papillote-bhg",
+    "members": [
+     "fish-en-papillote",
+     "fish-en-papillote-bhg"
+    ]
+   },
+   {
+    "title": "Chilled Salmon Steaks",
+    "canonical": "chilled-salmon-steaks-bhg",
+    "members": [
+     "chilled-salmon-steaks",
+     "chilled-salmon-steaks-bhg"
+    ]
+   },
+   {
+    "title": "Poached Fish with Dill Sauce",
+    "canonical": "poached-fish-with-dill-sauce-bhg",
+    "members": [
+     "poached-fish-with-dill-sauce",
+     "poached-fish-with-dill-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Vegetable-Topped Fillets",
+    "canonical": "vegetable-topped-fillets",
+    "members": [
+     "vegetable-topped-fillets",
+     "vegetable-topped-fillets-bhg"
+    ]
+   },
+   {
+    "title": "Trout Amandine",
+    "canonical": "trout-amandine-bhg",
+    "members": [
+     "trout-amandine",
+     "trout-amandine-bhg"
+    ]
+   },
+   {
+    "title": "Pan-Fried Fish",
+    "canonical": "pan-fried-fish-bhg",
+    "members": [
+     "pan-fried-fish",
+     "pan-fried-fish-bhg"
+    ]
+   },
+   {
+    "title": "Sweet-and-Sour Stir-Fried Fish",
+    "canonical": "sweet-and-sour-stir-fried-fish-bhg",
+    "members": [
+     "sweet-and-sour-stir-fried-fish",
+     "sweet-and-sour-stir-fried-fish-bhg"
+    ]
+   },
+   {
+    "title": "Fish and Chips",
+    "canonical": "fish-and-chips-bhg",
+    "members": [
+     "fish-and-chips",
+     "fish-and-chips-bhg"
+    ]
+   },
+   {
+    "title": "Creamed Tuna",
+    "canonical": "creamed-tuna-bhg",
+    "members": [
+     "creamed-tuna",
+     "creamed-tuna-bhg"
+    ]
+   },
+   {
+    "title": "Tuna-Noodle Casserole",
+    "canonical": "tuna-noodle-casserole-bhg",
+    "members": [
+     "tuna-noodle-casserole",
+     "tuna-noodle-casserole-bhg"
+    ]
+   },
+   {
+    "title": "Tuna-Broccoli Crepes",
+    "canonical": "tuna-broccoli-crepes-bhg",
+    "members": [
+     "tuna-broccoli-crepes",
+     "tuna-broccoli-crepes-bhg"
+    ]
+   },
+   {
+    "title": "Tuna-Biscuit Casseroles",
+    "canonical": "tuna-biscuit-casseroles-bhg",
+    "members": [
+     "tuna-biscuit-casseroles",
+     "tuna-biscuit-casseroles-bhg"
+    ]
+   },
+   {
+    "title": "Salmon Loaf",
+    "canonical": "salmon-loaf-bhg",
+    "members": [
+     "salmon-loaf",
+     "salmon-loaf-bhg"
+    ]
+   },
+   {
+    "title": "Salmon-Pasta Skillet",
+    "canonical": "salmon-pasta-skillet-bhg",
+    "members": [
+     "salmon-pasta-skillet",
+     "salmon-pasta-skillet-bhg"
+    ]
+   },
+   {
+    "title": "Macadamia Meltaways",
+    "canonical": "macadamia-meltaways",
+    "members": [
+     "macadamia-meltaways",
+     "macadamia-meltaways-bhg"
+    ]
+   },
+   {
+    "title": "Poppy-Seed Pinwheels",
+    "canonical": "poppy-seed-pinwheels",
+    "members": [
+     "poppy-seed-pinwheels",
+     "poppy-seed-pinwheels-bhg"
+    ]
+   },
+   {
+    "title": "Filbert Cookie Rafts",
+    "canonical": "filbert-cookie-rafts",
+    "members": [
+     "filbert-cookie-rafts",
+     "filbert-cookie-rafts-bhg"
+    ]
+   },
+   {
+    "title": "Christmas Tree Cookies",
+    "canonical": "christmas-tree-cookies",
+    "members": [
+     "christmas-tree-cookies",
+     "christmas-tree-cookies-bhg"
+    ]
+   },
+   {
+    "title": "Frosted Snowmen",
+    "canonical": "frosted-snowmen",
+    "members": [
+     "frosted-snowmen",
+     "frosted-snowmen-bhg"
+    ]
+   },
+   {
+    "title": "Cookie Chalets",
+    "canonical": "cookie-chalets",
+    "members": [
+     "cookie-chalets",
+     "cookie-chalets-bhg"
+    ]
+   },
+   {
+    "title": "Cranberry Muffins",
+    "canonical": "cranberry-muffins",
+    "members": [
+     "cranberry-muffins",
+     "cranberry-muffins-etw"
+    ]
+   },
+   {
+    "title": "Buttermilk Biscuits",
+    "canonical": "buttermilk-biscuits",
+    "members": [
+     "buttermilk-biscuits",
+     "buttermilk-biscuits-gahb"
+    ]
+   },
+   {
+    "title": "Dijon-Mustard Fillets",
+    "canonical": "dijon-mustard-fillets-bhg",
+    "members": [
+     "dijon-mustard-fillets",
+     "dijon-mustard-fillets-bhg"
+    ]
+   },
+   {
+    "title": "Hot Tuna Sandwich Cups",
+    "canonical": "hot-tuna-sandwich-cups-bhg",
+    "members": [
+     "hot-tuna-sandwich-cups",
+     "hot-tuna-sandwich-cups-bhg"
+    ]
+   },
+   {
+    "title": "Crab Mornay",
+    "canonical": "crab-mornay-bhg",
+    "members": [
+     "crab-mornay",
+     "crab-mornay-bhg"
+    ]
+   },
+   {
+    "title": "Deviled Crab",
+    "canonical": "deviled-crab-bhg",
+    "members": [
+     "deviled-crab",
+     "deviled-crab-bhg"
+    ]
+   },
+   {
+    "title": "Shrimp Creole",
+    "canonical": "shrimp-creole-bhg",
+    "members": [
+     "shrimp-creole",
+     "shrimp-creole-bhg"
+    ]
+   },
+   {
+    "title": "Shrimp Chow Mein",
+    "canonical": "shrimp-chow-mein-bhg",
+    "members": [
+     "shrimp-chow-mein",
+     "shrimp-chow-mein-bhg"
+    ]
+   },
+   {
+    "title": "Shrimp in Garlic Butter",
+    "canonical": "shrimp-in-garlic-butter-bhg",
+    "members": [
+     "shrimp-in-garlic-butter",
+     "shrimp-in-garlic-butter-bhg"
+    ]
+   },
+   {
+    "title": "French-Fried Shrimp",
+    "canonical": "french-fried-shrimp-bhg",
+    "members": [
+     "french-fried-shrimp",
+     "french-fried-shrimp-bhg"
+    ]
+   },
+   {
+    "title": "Linguine with White Clam Sauce",
+    "canonical": "linguine-white-clam-sauce-bhg",
+    "members": [
+     "linguine-with-white-clam-sauce",
+     "linguine-white-clam-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Crawfish Étouffée",
+    "canonical": "crawfish-etouffee-bhg",
+    "members": [
+     "crawfish-etouffee",
+     "crawfish-etouffee-bhg"
+    ]
+   },
+   {
+    "title": "Oysters au Gratin",
+    "canonical": "oysters-au-gratin-bhg",
+    "members": [
+     "oysters-au-gratin",
+     "oysters-au-gratin-bhg"
+    ]
+   },
+   {
+    "title": "Creole Stuffed Roast",
+    "canonical": "creole-stuffed-roast-bhg",
+    "members": [
+     "creole-stuffed-roast",
+     "creole-stuffed-roast-bhg"
+    ]
+   },
+   {
+    "title": "Harvest Pot Roast",
+    "canonical": "harvest-pot-roast-pork-bhg",
+    "members": [
+     "harvest-pot-roast",
+     "harvest-pot-roast-pork-bhg"
+    ]
+   },
+   {
+    "title": "Roast Pork with Mushroom-Butter Sauce",
+    "canonical": "roast-pork-mushroom-butter-sauce-bhg",
+    "members": [
+     "roast-pork-with-mushroom-butter-sauce",
+     "roast-pork-mushroom-butter-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Pork with Apple-Nutmeg Sauce",
+    "canonical": "pork-apple-nutmeg-sauce-bhg",
+    "members": [
+     "pork-with-apple-nutmeg-sauce",
+     "pork-apple-nutmeg-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Barbecue-Style Ribs",
+    "canonical": "barbecue-style-ribs-bhg",
+    "members": [
+     "barbecue-style-ribs",
+     "barbecue-style-ribs-bhg"
+    ]
+   },
+   {
+    "title": "Braised Steaks Italian",
+    "canonical": "braised-steaks-italian-bhg",
+    "members": [
+     "braised-steaks-italian",
+     "braised-steaks-italian-bhg"
+    ]
+   },
+   {
+    "title": "Corn-Stuffed Pork Chops",
+    "canonical": "corn-stuffed-pork-chops-bhg",
+    "members": [
+     "corn-stuffed-pork-chops",
+     "corn-stuffed-pork-chops-bhg"
+    ]
+   },
+   {
+    "title": "Lobster Newburg",
+    "canonical": "lobster-newburg-bhg",
+    "members": [
+     "lobster-newburg",
+     "lobster-newburg-bhg"
+    ]
+   },
+   {
+    "title": "Boiled Lobster",
+    "canonical": "boiled-lobster-bhg",
+    "members": [
+     "boiled-lobster",
+     "boiled-lobster-bhg"
+    ]
+   },
+   {
+    "title": "Catsup",
+    "canonical": "catsup-bhg",
+    "members": [
+     "catsup",
+     "catsup-bhg"
+    ]
+   },
+   {
+    "title": "Beef Stroganoff",
+    "canonical": "beef-stroganoff-bhg",
+    "members": [
+     "beef-stroganoff",
+     "beef-stroganoff-bhg"
+    ]
+   },
+   {
+    "title": "Beef Teriyaki Kabobs",
+    "canonical": "beef-teriyaki-kabobs-bhg",
+    "members": [
+     "beef-teriyaki-kabobs",
+     "beef-teriyaki-kabobs-bhg"
+    ]
+   },
+   {
+    "title": "Ginger-Beef Stir-Fry",
+    "canonical": "ginger-beef-stir-fry-bhg",
+    "members": [
+     "ginger-beef-stir-fry",
+     "ginger-beef-stir-fry-bhg"
+    ]
+   },
+   {
+    "title": "Spinach-Stuffed Lamb Roast",
+    "canonical": "spinach-stuffed-lamb-roast-bhg",
+    "members": [
+     "spinach-stuffed-lamb-roast",
+     "spinach-stuffed-lamb-roast-bhg"
+    ]
+   },
+   {
+    "title": "Herb-Rubbed Leg of Lamb",
+    "canonical": "herb-rubbed-leg-of-lamb-bhg",
+    "members": [
+     "herb-rubbed-leg-of-lamb",
+     "herb-rubbed-leg-of-lamb-bhg"
+    ]
+   },
+   {
+    "title": "Currant-Glazed Rack of Lamb",
+    "canonical": "currant-glazed-rack-of-lamb-bhg",
+    "members": [
+     "currant-glazed-rack-of-lamb",
+     "currant-glazed-rack-of-lamb-bhg"
+    ]
+   },
+   {
+    "title": "Curried Lamb",
+    "canonical": "curried-lamb-bhg",
+    "members": [
+     "curried-lamb",
+     "curried-lamb-bhg"
+    ]
+   },
+   {
+    "title": "Saucy Lamb Shanks",
+    "canonical": "saucy-lamb-shanks-bhg",
+    "members": [
+     "saucy-lamb-shanks",
+     "saucy-lamb-shanks-bhg"
+    ]
+   },
+   {
+    "title": "Vegetable-Lamb Skillet",
+    "canonical": "vegetable-lamb-skillet-bhg",
+    "members": [
+     "vegetable-lamb-skillet",
+     "vegetable-lamb-skillet-bhg"
+    ]
+   },
+   {
+    "title": "Dill Pickles",
+    "canonical": "dill-pickles-bhg",
+    "members": [
+     "dill-pickles",
+     "dill-pickles-bhg"
+    ]
+   },
+   {
+    "title": "Bread 'n' Butter Pickles",
+    "canonical": "bread-n-butter-pickles-bhg",
+    "members": [
+     "bread-n-butter-pickles",
+     "bread-n-butter-pickles-bhg"
+    ]
+   },
+   {
+    "title": "Mustard Pickles",
+    "canonical": "mustard-pickles-bhg",
+    "members": [
+     "mustard-pickles",
+     "mustard-pickles-bhg"
+    ]
+   },
+   {
+    "title": "Corn Relish",
+    "canonical": "corn-relish-bhg",
+    "members": [
+     "corn-relish",
+     "corn-relish-bhg"
+    ]
+   },
+   {
+    "title": "Vegetable Relish",
+    "canonical": "vegetable-relish-bhg",
+    "members": [
+     "vegetable-relish",
+     "vegetable-relish-bhg"
+    ]
+   },
+   {
+    "title": "Fruit-Juice Jelly",
+    "canonical": "fruit-juice-jelly-bhg",
+    "members": [
+     "fruit-juice-jelly",
+     "fruit-juice-jelly-bhg"
+    ]
+   },
+   {
+    "title": "Peach Jam",
+    "canonical": "peach-jam-bhg",
+    "members": [
+     "peach-jam",
+     "peach-jam-bhg"
+    ]
+   },
+   {
+    "title": "Orange Marmalade",
+    "canonical": "orange-marmalade-bhg",
+    "members": [
+     "orange-marmalade",
+     "orange-marmalade-bhg"
+    ]
+   },
+   {
+    "title": "Grape Jam",
+    "canonical": "grape-jam-bhg",
+    "members": [
+     "grape-jam",
+     "grape-jam-bhg"
+    ]
+   },
+   {
+    "title": "Rhubarb-Raspberry Jam",
+    "canonical": "rhubarb-raspberry-jam-bhg",
+    "members": [
+     "rhubarb-raspberry-jam",
+     "rhubarb-raspberry-jam-bhg"
+    ]
+   },
+   {
+    "title": "Berry Freezer Jam",
+    "canonical": "berry-freezer-jam-bhg",
+    "members": [
+     "berry-freezer-jam",
+     "berry-freezer-jam-bhg"
+    ]
+   },
+   {
+    "title": "Harvest Applesauce",
+    "canonical": "harvest-applesauce-bhg",
+    "members": [
+     "harvest-applesauce",
+     "harvest-applesauce-bhg"
+    ]
+   },
+   {
+    "title": "Apple Butter",
+    "canonical": "apple-butter-bhg",
+    "members": [
+     "apple-butter",
+     "apple-butter-bhg",
+     "foxfire-apple-butter"
+    ]
+   },
+   {
+    "title": "Lemon Meringue Pie",
+    "canonical": "lemon-meringue-pie",
+    "members": [
+     "lemon-meringue-pie",
+     "lemon-meringue-pie-gahb"
+    ]
+   },
+   {
+    "title": "Cranberry Sauce",
+    "canonical": "cranberry-sauce-bhg",
+    "members": [
+     "cranberry-sauce-bhg",
+     "cranberry-sauce-etw"
+    ]
+   },
+   {
+    "title": "Bacon and Onion Bratwursts",
+    "canonical": "bacon-onion-bratwursts-bhg",
+    "members": [
+     "bacon-and-onion-bratwursts-bhg",
+     "bacon-onion-bratwursts-bhg"
+    ]
+   },
+   {
+    "title": "Create-Your-Own Meat Loaf",
+    "canonical": "create-your-own-meat-loaf-bhg",
+    "members": [
+     "create-your-own-meat-loaf-bhg",
+     "create-your-own-meat-loaf"
+    ]
+   },
+   {
+    "title": "Swedish Meatballs",
+    "canonical": "swedish-meatballs",
+    "members": [
+     "swedish-meatballs-bhg",
+     "swedish-meatballs"
+    ]
+   },
+   {
+    "title": "Spaghetti Sauce",
+    "canonical": "spaghetti-sauce",
+    "members": [
+     "spaghetti-sauce-bhg",
+     "spaghetti-sauce"
+    ]
+   },
+   {
+    "title": "Porcupine Meatballs",
+    "canonical": "porcupine-meatballs",
+    "members": [
+     "porcupine-meatballs-bhg",
+     "porcupine-meatballs"
+    ]
+   },
+   {
+    "title": "Hamburgers",
+    "canonical": "hamburgers",
+    "members": [
+     "hamburgers-bhg",
+     "hamburgers"
+    ]
+   },
+   {
+    "title": "Stuffed Burgers",
+    "canonical": "stuffed-burgers",
+    "members": [
+     "stuffed-burgers-bhg",
+     "stuffed-burgers"
+    ]
+   },
+   {
+    "title": "Garden Burgers",
+    "canonical": "garden-burgers",
+    "members": [
+     "garden-burgers-bhg",
+     "garden-burgers"
+    ]
+   },
+   {
+    "title": "Tacos",
+    "canonical": "tacos",
+    "members": [
+     "tacos-bhg",
+     "tacos"
+    ]
+   },
+   {
+    "title": "Sloppy Joes",
+    "canonical": "sloppy-joes",
+    "members": [
+     "sloppy-joes-bhg",
+     "sloppy-joes"
+    ]
+   },
+   {
+    "title": "Lasagna",
+    "canonical": "lasagna-bhg",
+    "members": [
+     "lasagna-bhg",
+     "lasagna-meat"
+    ]
+   },
+   {
+    "title": "Tomato Juice",
+    "canonical": "tomato-juice-canning-bhg",
+    "members": [
+     "tomato-juice-bhg",
+     "tomato-juice-canning-bhg"
+    ]
+   },
+   {
+    "title": "How Much Meat to Buy Guide",
+    "canonical": "how-much-meat-to-buy-bhg",
+    "members": [
+     "how-much-meat-to-buy-bhg",
+     "how-much-meat-to-buy-guide-bhg"
+    ]
+   },
+   {
+    "title": "Beef Pot Roast",
+    "canonical": "beef-pot-roast-classic-bhg",
+    "members": [
+     "beef-pot-roast-bhg",
+     "beef-pot-roast-classic-bhg"
+    ]
+   },
+   {
+    "title": "Pan Gravy for Roasted Meat",
+    "canonical": "pan-gravy-roasted-meat-bhg",
+    "members": [
+     "pan-gravy-for-roasted-meat-bhg",
+     "pan-gravy-roasted-meat-bhg"
+    ]
+   },
+   {
+    "title": "Steak and Spinach Pinwheels",
+    "canonical": "steak-spinach-pinwheels-bhg",
+    "members": [
+     "steak-and-spinach-pinwheels-bhg",
+     "steak-spinach-pinwheels-bhg"
+    ]
+   },
+   {
+    "title": "Lamb Chops with Herb Sauce",
+    "canonical": "lamb-chops-herb-sauce-bhg",
+    "members": [
+     "lamb-chops-with-herb-sauce-bhg",
+     "lamb-chops-herb-sauce-bhg"
+    ]
+   },
+   {
+    "title": "Pork and Ham Identification Guide - Part 2",
+    "canonical": "pork-ham-identification-guide-bhg",
+    "members": [
+     "pork-ham-identification-guide-bhg",
+     "pork-ham-identification-guide-part2-bhg"
+    ]
+   },
+   {
+    "title": "Chicken Salad",
+    "canonical": "chicken-salad-bhg",
+    "members": [
+     "chicken-salad-bhg",
+     "chicken-salad-ancients"
+    ]
+   },
+   {
+    "title": "Spicy Meatballs",
+    "canonical": "spicy-meatballs-jean-shu",
+    "members": [
+     "spicy-meatballs-jasmine",
+     "spicy-meatballs-jean-shu"
+    ]
+   },
+   {
+    "title": "Onion-Soup-Based Swedish Meatball Sauce",
+    "canonical": "swedish-meatball-sauce-sash",
+    "members": [
+     "onion-soup-swedish-meatball-sauce-jasmine",
+     "onion-soup-swedish-meatball-sauce-fbc",
+     "swedish-meatball-sauce-sash"
+    ]
+   },
+   {
+    "title": "Conch Fritters: Bahamian Style",
+    "canonical": "conch-fritters-bahamian-style-jasmine",
+    "members": [
+     "conch-fritters-bahamian-style-jasmine",
+     "conch-fritters-bahamian-fbc"
+    ]
+   },
+   {
+    "title": "Fireside Coffee Mix",
+    "canonical": "fireside-coffee-mix-fbc-jasmine",
+    "members": [
+     "fireside-coffee-mix-fbc",
+     "fireside-coffee-mix-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Orange Julius",
+    "canonical": "orange-julius-fbc",
+    "members": [
+     "orange-julius-fbc",
+     "orange-julius-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Hungarian Bread Dumplings a la Matt Kubick",
+    "canonical": "hungarian-bread-dumplings-fbc-jasmine",
+    "members": [
+     "hungarian-bread-dumplings-fbc",
+     "hungarian-bread-dumplings-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Broccoli Bread Quiche",
+    "canonical": "broccoli-bread-quiche-fbc-jasmine",
+    "members": [
+     "broccoli-bread-quiche-fbc",
+     "broccoli-bread-quiche-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Vegetable Pie",
+    "canonical": "vegetable-pie-fbc",
+    "members": [
+     "vegetable-pie-fbc",
+     "vegetable-pie-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Turkish Pancakes",
+    "canonical": "turkish-pancakes-fbc-jasmine",
+    "members": [
+     "turkish-pancakes-fbc",
+     "turkish-pancakes-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Broccoli Cheddar Rolls",
+    "canonical": "broccoli-cheddar-rolls-fbc",
+    "members": [
+     "broccoli-cheddar-rolls-fbc",
+     "broccoli-cheddar-rolls-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Ugly Duckling Cake",
+    "canonical": "ugly-duckling-cake-fbc-jasmine",
+    "members": [
+     "ugly-duckling-cake-fbc",
+     "ugly-duckling-cake-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Carrot Walnut Cake",
+    "canonical": "carrot-walnut-cake-fbc-jasmine",
+    "members": [
+     "carrot-walnut-cake-fbc",
+     "carrot-walnut-cake-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Coco Lopez Cake",
+    "canonical": "coco-lopez-cake-fbc",
+    "members": [
+     "coco-lopez-cake-fbc",
+     "coco-lopez-cake-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Mamie Eisenhower Chocolate Fudge",
+    "canonical": "mamie-eisenhower-chocolate-fudge-fbc",
+    "members": [
+     "mamie-eisenhower-chocolate-fudge-fbc",
+     "mamie-eisenhower-fudge-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "John's Maple Candy",
+    "canonical": "johns-maple-candy-fbc",
+    "members": [
+     "johns-maple-candy-fbc",
+     "johns-maple-candy-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "English Toffee",
+    "canonical": "english-toffee-fbc",
+    "members": [
+     "english-toffee-fbc",
+     "english-toffee-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Creamy Crabmeat Casserole",
+    "canonical": "creamy-crabmeat-casserole-fbc",
+    "members": [
+     "creamy-crabmeat-casserole-fbc",
+     "creamy-crabmeat-casserole-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Wild Rice-Sausage Casserole",
+    "canonical": "wild-rice-sausage-casserole-fbc-jasmine",
+    "members": [
+     "wild-rice-sausage-casserole-fbc",
+     "wild-rice-sausage-casserole-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Spinach Casserole",
+    "canonical": "spinach-casserole-fbc",
+    "members": [
+     "spinach-casserole-fbc",
+     "spinach-artichoke-casserole-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Zucchini Casserole",
+    "canonical": "zucchini-casserole-fbc",
+    "members": [
+     "zucchini-casserole-fbc",
+     "zucchini-casserole-stuffing-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Fudgy Caramel Apples",
+    "canonical": "fudgy-caramel-apples-fbc",
+    "members": [
+     "fudgy-caramel-apples-fbc",
+     "fudgy-caramel-apples-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Baked Eggs in Sour Cream",
+    "canonical": "baked-eggs-sour-cream-fbc-jasmine",
+    "members": [
+     "baked-eggs-sour-cream-fbc-jasmine",
+     "baked-eggs-in-sour-cream-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Wacky Cake with Whipped Cream Icing",
+    "canonical": "wacky-cake-whipped-cream-icing-fbc-jasmine",
+    "members": [
+     "wacky-cake-whipped-cream-icing-fbc",
+     "wacky-cake-whipped-cream-icing-fbc-jasmine"
+    ]
+   },
+   {
+    "title": "Brunswick Stew",
+    "canonical": "foxfire-brunswick-stew",
+    "members": [
+     "foxfire-brunswick-stew",
+     "brunswick-stew-hf"
+    ]
+   },
+   {
+    "title": "Sassafras Jelly",
+    "canonical": "foxfire-4-sassafras-jelly",
+    "members": [
+     "foxfire2-sassafras-jelly",
+     "foxfire-4-sassafras-jelly"
+    ]
+   },
+   {
+    "title": "Mulberry Pie",
+    "canonical": "foxfire3-mulberry-pie",
+    "members": [
+     "foxfire3-mulberry-pie",
+     "mulberry-pie-etw"
+    ]
+   },
+   {
+    "title": "Blackberry Syrup",
+    "canonical": "foxfire-blackberry-syrup",
+    "members": [
+     "foxfire3-blackberry-syrup",
+     "foxfire-blackberry-syrup"
+    ]
+   },
+   {
+    "title": "Blackberry Flummery",
+    "canonical": "foxfire-blackberry-flummery",
+    "members": [
+     "foxfire3-blackberry-flummery",
+     "foxfire-blackberry-flummery"
+    ]
+   },
+   {
+    "title": "Blackberry Roll",
+    "canonical": "foxfire-blackberry-roll",
+    "members": [
+     "foxfire3-blackberry-roll",
+     "foxfire-blackberry-roll"
+    ]
+   },
+   {
+    "title": "Blackberry Cordial",
+    "canonical": "foxfire-blackberry-cordial",
+    "members": [
+     "foxfire3-blackberry-cordial",
+     "foxfire-blackberry-cordial"
+    ]
+   },
+   {
+    "title": "Blueberry Crisp",
+    "canonical": "foxfire-blueberry-crisp",
+    "members": [
+     "foxfire3-blueberry-crisp",
+     "foxfire-blueberry-crisp"
+    ]
+   },
+   {
+    "title": "Sumac and Elderberry Jelly",
+    "canonical": "foxfire3-sumac-elderberry-jelly",
+    "members": [
+     "foxfire3-sumac-elderberry-jelly",
+     "appalachian-sumac-elderberry-jelly"
+    ]
+   },
+   {
+    "title": "Elderberry-Apple-Orange Jam",
+    "canonical": "foxfire3-elderberry-apple-orange-jam",
+    "members": [
+     "foxfire3-elderberry-apple-orange-jam",
+     "appalachian-elderberry-apple-orange-jam"
+    ]
+   },
+   {
+    "title": "Fig Preserves",
+    "canonical": "foxfire-fig-preserves",
+    "members": [
+     "foxfire3-fig-preserves",
+     "foxfire-fig-preserves"
+    ]
+   },
+   {
+    "title": "Appalachian Cottage Cheese",
+    "canonical": "foxfire4-cottage-cheese",
+    "members": [
+     "foxfire4-cottage-cheese",
+     "foxfire-4-cottage-cheese"
+    ]
+   },
+   {
+    "title": "Dandelion Wine",
+    "canonical": "foxfire2-dandelion-wine",
+    "members": [
+     "foxfire2-dandelion-wine",
+     "dandelion-wine-etw"
+    ]
+   },
+   {
+    "title": "Elderberry Wine",
+    "canonical": "foxfire-elderberry-wine",
+    "members": [
+     "appalachian-elderberry-wine",
+     "elderberry-wine-etw",
+     "foxfire-elderberry-wine"
+    ]
+   },
+   {
+    "title": "Maypop Jelly",
+    "canonical": "foxfire-maypop-jelly",
+    "members": [
+     "maypop-jelly-etw",
+     "foxfire-maypop-jelly"
+    ]
+   },
+   {
+    "title": "Hickory Nut Cake",
+    "canonical": "foxfire-hickory-nut-cake",
+    "members": [
+     "hickory-nut-cake-etw",
+     "foxfire-hickory-nut-cake"
+    ]
+   },
+   {
+    "title": "Hickory Nut Pie",
+    "canonical": "foxfire-hickory-nut-pie",
+    "members": [
+     "hickory-nut-pie-etw",
+     "foxfire-hickory-nut-pie"
+    ]
+   },
+   {
+    "title": "Sautéed Banana Tree Stem",
+    "canonical": "sauteed-banana-tree-stem-etw",
+    "members": [
+     "banana-tree-stem-sauteed-etw",
+     "sauteed-banana-tree-stem-etw"
+    ]
+   },
+   {
+    "title": "Cattail Pollen Flapjacks",
+    "canonical": "foxfire-cattail-flapjacks",
+    "members": [
+     "foxfire-cattail-flapjacks",
+     "foxfire-cattail-pollen-flapjacks"
+    ]
+   }
+  ]
+ }
+]

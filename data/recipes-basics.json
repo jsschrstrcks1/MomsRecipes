@@ -88,7 +88,10 @@
           "Not a recipe - reference/tip content"
         ],
         "assumptions": []
-      }
+      },
+      "variants": [
+        "cream-cheese-frosting-bhg"
+      ]
     },
     {
       "id": "butter-frosting",
@@ -186,7 +189,10 @@
           "Not a recipe - reference/tip content"
         ],
         "assumptions": []
-      }
+      },
+      "variants": [
+        "butter-frosting-bhg"
+      ]
     },
     {
       "id": "coconut-pecan-frosting",
@@ -284,7 +290,10 @@
           "Not a recipe - reference/tip content"
         ],
         "assumptions": []
-      }
+      },
+      "variants": [
+        "coconut-pecan-frosting-bhg"
+      ]
     },
     {
       "id": "lemon-filling",
@@ -391,7 +400,10 @@
           "Not a recipe - reference/tip content"
         ],
         "assumptions": []
-      }
+      },
+      "variants": [
+        "lemon-filling-bhg"
+      ]
     },
     {
       "id": "cherry-filling",

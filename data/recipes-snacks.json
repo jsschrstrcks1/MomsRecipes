@@ -204,7 +204,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pretzels-bhg"
     },
     {
       "id": "pizza-biscuit-wreath",
@@ -1054,7 +1055,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 9)"
         ]
-      }
+      },
+      "variants": [
+        "pepperoni-bites-bhg"
+      ]
     },
     {
       "id": "crunchy-party-mix",
@@ -1179,7 +1183,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 10)"
         ]
-      }
+      },
+      "variants": [
+        "crunchy-party-mix-bhg"
+      ]
     },
     {
       "id": "toasted-chili-nuts",
@@ -1282,7 +1289,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 10)"
         ]
-      }
+      },
+      "variants": [
+        "toasted-chili-nuts-bhg"
+      ]
     },
     {
       "id": "nachos-loaded",
@@ -1402,7 +1412,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 10)"
         ]
-      }
+      },
+      "variants": [
+        "nachos-bhg"
+      ]
     },
     {
       "id": "italian-style-popcorn",
@@ -1492,7 +1505,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 11)"
         ]
-      }
+      },
+      "variants": [
+        "italian-style-popcorn-bhg"
+      ]
     },
     {
       "id": "potato-skins-baked",
@@ -1601,7 +1617,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 11)"
         ]
-      }
+      },
+      "variants": [
+        "potato-skins-bhg"
+      ]
     },
     {
       "id": "stuffed-mushrooms-cheddar",
@@ -1707,7 +1726,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 11)"
         ]
-      }
+      },
+      "variants": [
+        "stuffed-mushrooms-bhg"
+      ]
     },
     {
       "id": "creamy-dill-dip",
@@ -1803,7 +1825,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 12)"
         ]
-      }
+      },
+      "variant_of": "creamy-dill-dip-bhg"
     },
     {
       "id": "sour-cream-fruit-dip",
@@ -1886,7 +1909,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 12)"
         ]
-      }
+      },
+      "variants": [
+        "sour-cream-fruit-dip-bhg"
+      ]
     },
     {
       "id": "chili-con-queso-dip",
@@ -2008,7 +2034,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 12)"
         ]
-      }
+      },
+      "variants": [
+        "chili-con-queso-bhg"
+      ]
     },
     {
       "id": "hot-cheese-dip-beer",
@@ -2131,7 +2160,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 12)"
         ]
-      }
+      },
+      "variants": [
+        "hot-cheese-dip-bhg"
+      ]
     },
     {
       "id": "guacamole-classic",
@@ -2245,7 +2277,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 13)"
         ]
-      }
+      },
+      "variant_of": "guacamole-bhg"
     },
     {
       "id": "cheese-and-pesto-spread",
@@ -2370,7 +2403,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 13)"
         ]
-      }
+      },
+      "variants": [
+        "cheese-and-pesto-spread-bhg"
+      ]
     },
     {
       "id": "cheddar-cheese-ball",
@@ -2492,7 +2528,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 14)"
         ]
-      }
+      },
+      "variant_of": "cheddar-cheese-ball-bhg"
     },
     {
       "id": "feta-cheese-ball",
@@ -2590,7 +2627,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 14)"
         ]
-      }
+      },
+      "variants": [
+        "feta-cheese-ball-bhg"
+      ]
     },
     {
       "id": "eight-layer-spread",
@@ -2714,7 +2754,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 14)"
         ]
-      }
+      },
+      "variant_of": "eight-layer-spread-bhg"
     },
     {
       "id": "cream-cheese-stuffed-slices",
@@ -2826,7 +2867,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cream-cheese-stuffed-slices-bhg"
+      ]
     },
     {
       "id": "shrimp-cucumber-spread",
@@ -2937,7 +2981,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 15)"
         ]
-      }
+      },
+      "variants": [
+        "shrimp-cucumber-spread-bhg"
+      ]
     },
     {
       "id": "nutty-cheese-spread",
@@ -3040,7 +3087,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 15)"
         ]
-      }
+      },
+      "variant_of": "nutty-cheese-spread-bhg"
     },
     {
       "id": "curried-chicken-spread",
@@ -3150,7 +3198,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 15)"
         ]
-      }
+      },
+      "variant_of": "curried-chicken-spread-bhg"
     },
     {
       "id": "avocado-pita-wedges",
@@ -3257,7 +3306,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 15)"
         ]
-      }
+      },
+      "variant_of": "avocado-pita-wedges-bhg"
     },
     {
       "id": "cocktail-meatballs-sauces",
@@ -3373,7 +3423,10 @@
           "Inferred 1 for pepper (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cocktail-meatballs-bhg"
+      ]
     },
     {
       "id": "sweet-and-sour-franks",
@@ -3480,7 +3533,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 16)"
         ]
-      }
+      },
+      "variants": [
+        "sweet-and-sour-franks-bhg"
+      ]
     },
     {
       "id": "barbecue-style-chicken-wings",
@@ -3583,7 +3639,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 17)"
         ]
-      }
+      },
+      "variants": [
+        "barbecue-style-chicken-wings-bhg"
+      ]
     },
     {
       "id": "rumaki",
@@ -3710,7 +3769,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 17)"
         ]
-      }
+      },
+      "variants": [
+        "rumaki-bhg"
+      ]
     },
     {
       "id": "cheese-twists-savory",
@@ -3836,7 +3898,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 7)"
         ]
-      }
+      },
+      "variants": [
+        "cheese-twists-bhg"
+      ]
     },
     {
       "id": "pastry-wrapped-olives",
@@ -3929,7 +3994,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 17)"
         ]
-      }
+      },
+      "variants": [
+        "pastry-wrapped-olives-bhg"
+      ]
     },
     {
       "id": "egg-rolls-crispy",
@@ -4021,7 +4089,10 @@
         "assumptions": [
           "Based on 2/3 ingredients (67% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "egg-rolls-bhg"
+      ]
     },
     {
       "id": "wontons-fried",
@@ -4114,7 +4185,10 @@
         "assumptions": [
           "Based on 1/3 ingredients (33% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "wontons-bhg"
+      ]
     },
     {
       "id": "crab-filling-egg-rolls",
@@ -4653,7 +4727,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 19)"
         ]
-      }
+      },
+      "variants": [
+        "spinach-phyllo-triangles-bhg"
+      ]
     },
     {
       "id": "oysters-rockefeller",
@@ -4781,7 +4858,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 20)"
         ]
-      }
+      },
+      "variants": [
+        "oysters-rockefeller-bhg"
+      ]
     },
     {
       "id": "shrimp-cocktail-classic",
@@ -4865,7 +4945,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 20)"
         ]
-      }
+      },
+      "variants": [
+        "shrimp-cocktail-bhg"
+      ]
     },
     {
       "id": "salmon-mousse",
@@ -5000,7 +5083,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 20)"
         ]
-      }
+      },
+      "variants": [
+        "salmon-mousse-bhg"
+      ]
     },
     {
       "id": "codfish-balls",
@@ -5122,7 +5208,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 20)"
         ]
-      }
+      },
+      "variants": [
+        "codfish-balls-bhg"
+      ]
     },
     {
       "id": "batter-fried-vegetables",
@@ -5228,7 +5317,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 21)"
         ]
-      }
+      },
+      "variants": [
+        "batter-fried-vegetables-bhg"
+      ]
     },
     {
       "id": "fried-cheese-sticks",
@@ -5337,7 +5429,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 21)"
         ]
-      }
+      },
+      "variant_of": "fried-cheese-bhg"
     },
     {
       "id": "stuffed-cherry-tomatoes",
@@ -5441,7 +5534,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 21)"
         ]
-      }
+      },
+      "variant_of": "stuffed-cherry-tomatoes-bhg"
     },
     {
       "id": "chicken-liver-pate",
@@ -5559,7 +5653,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 22)"
         ]
-      }
+      },
+      "variants": [
+        "chicken-liver-pate-bhg"
+      ]
     },
     {
       "id": "marinated-cheese-and-olives",
@@ -5677,7 +5774,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 22)"
         ]
-      }
+      },
+      "variants": [
+        "marinated-cheese-and-olives-bhg"
+      ]
     },
     {
       "id": "lemon-and-herb-mushrooms",
@@ -5805,7 +5905,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 22)"
         ]
-      }
+      },
+      "variant_of": "lemon-and-herb-mushrooms-bhg"
     },
     {
       "id": "melon-and-prosciutto",
@@ -5882,7 +5983,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 22)"
         ]
-      }
+      },
+      "variants": [
+        "melon-and-prosciutto-bhg"
+      ]
     },
     {
       "id": "caramel-corn-pat-groen",
@@ -5982,7 +6086,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "caramel-corn-bhg"
     },
     {
       "id": "people-chow",
@@ -6142,7 +6247,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "creamy-cheese-fondue-bhg"
     },
     {
       "id": "garbanzo-sandwich-spread",
@@ -6251,7 +6357,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "garbanzo-sandwich-spread-bhg"
+      ]
     },
     {
       "id": "caramel-corn-family",
@@ -6330,7 +6439,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "caramel-corn-bhg"
     },
     {
       "id": "peanut-butter-popcorn-fbc",

@@ -106,7 +106,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 76)"
         ]
-      }
+      },
+      "variants": [
+        "pineapple-upside-down-cake-bhg"
+      ]
     },
     {
       "id": "busy-day-cake",
@@ -235,7 +238,8 @@
           "Assumed 1 unit for whipped cream and fresh fruit",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "busy-day-cake-bhg"
     },
     {
       "id": "yellow-cake",
@@ -348,7 +352,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 77)"
         ]
-      }
+      },
+      "variant_of": "yellow-cake-bhg"
     },
     {
       "id": "white-cake",
@@ -471,7 +476,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 78)"
         ]
-      }
+      },
+      "variant_of": "white-cake-bhg"
     },
     {
       "id": "spice-cake",
@@ -623,7 +629,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 78)"
         ]
-      }
+      },
+      "variant_of": "spice-cake-bhg"
     },
     {
       "id": "banana-cake",
@@ -750,7 +757,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "banana-cake-bhg"
+      ]
     },
     {
       "id": "german-chocolate-cake",
@@ -897,7 +907,10 @@
           "Assumed 1 unit for Coconut-Pecan Frosting",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "german-chocolate-cake-bhg"
+      ]
     },
     {
       "id": "one-layer-chocolate-cake",
@@ -1028,7 +1041,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "one-layer-chocolate-cake-bhg"
     },
     {
       "id": "fudge-cake",
@@ -1162,7 +1176,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fudge-cake-bhg"
     },
     {
       "id": "black-forest-cake",
@@ -1277,7 +1292,10 @@
           "Assumed 1 unit for chocolate shavings",
           "Based on 3/5 ingredients (60% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "black-forest-cake-bhg"
+      ]
     },
     {
       "id": "devils-food-cake",
@@ -1395,7 +1413,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "devils-food-cake-bhg"
     },
     {
       "id": "sponge-cake",
@@ -1530,7 +1549,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 84)"
         ]
-      }
+      },
+      "variant_of": "sponge-cake-bhg"
     },
     {
       "id": "jelly-roll",
@@ -1670,7 +1690,8 @@
           "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variant_of": "jelly-roll-bhg"
     },
     {
       "id": "apricot-upside-down-cake",
@@ -2317,7 +2338,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "carrot-cake-bhg"
+      ]
     },
     {
       "id": "gingerbread",
@@ -2449,7 +2473,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "gingerbread-bhg"
+      ]
     },
     {
       "id": "pound-cake",
@@ -2581,7 +2608,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 83)"
         ]
-      }
+      },
+      "variants": [
+        "pound-cake-bhg"
+      ]
     },
     {
       "id": "pumpkin-cake-roll",
@@ -2899,7 +2929,10 @@
           "Assumed 1 unit for brandy or fruit juice",
           "Based on 17/17 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fruitcake-bhg"
+      ]
     },
     {
       "id": "pineapple-upside-down-cake-bhg",
@@ -2999,7 +3032,8 @@
         "assumptions": [
           "Based on 4/5 ingredients (80% coverage)"
         ]
-      }
+      },
+      "variant_of": "pineapple-upside-down-cake"
     },
     {
       "id": "busy-day-cake-bhg",
@@ -3113,7 +3147,10 @@
           "Inferred 2 for Broiled Coconut Topping or whipped cream and fresh fruit (optional) (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "busy-day-cake"
+      ]
     },
     {
       "id": "yellow-cake-bhg",
@@ -3219,7 +3256,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "yellow-cake"
+      ]
     },
     {
       "id": "white-cake-bhg",
@@ -3335,7 +3375,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "white-cake"
+      ]
     },
     {
       "id": "spice-cake-bhg",
@@ -3476,7 +3519,10 @@
         "assumptions": [
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "spice-cake"
+      ]
     },
     {
       "id": "pumpkin-molasses-cake-bhg",
@@ -3609,7 +3655,10 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pumpkin-molasses-cake"
+      ]
     },
     {
       "id": "date-cake-bhg",
@@ -3740,7 +3789,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "date-cake"
+      ]
     },
     {
       "id": "banana-cake-bhg",
@@ -3855,7 +3907,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "banana-cake"
     },
     {
       "id": "german-chocolate-cake-bhg",
@@ -3989,7 +4042,8 @@
           "Assumed 1 unit for Coconut-Pecan Frosting",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "german-chocolate-cake"
     },
     {
       "id": "one-layer-chocolate-cake-bhg",
@@ -4107,7 +4161,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "one-layer-chocolate-cake"
+      ]
     },
     {
       "id": "fudge-cake-bhg",
@@ -4226,7 +4283,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fudge-cake"
+      ]
     },
     {
       "id": "black-forest-cake-bhg",
@@ -4339,7 +4399,8 @@
           "Assumed 1 unit for chocolate shavings (optional)",
           "Based on 3/5 ingredients (60% coverage)"
         ]
-      }
+      },
+      "variant_of": "black-forest-cake"
     },
     {
       "id": "devils-food-cake-bhg",
@@ -4449,7 +4510,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "devils-food-cake"
+      ]
     },
     {
       "id": "sour-cream-pound-cake-bhg",
@@ -4571,7 +4635,12 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sour-cream-pound-cake",
+        "sour-cream-pound-cake-fbc",
+        "sour-cream-pound-cake-fbc-jasmine"
+      ]
     },
     {
       "id": "sponge-cake-bhg",
@@ -4709,7 +4778,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sponge-cake"
+      ]
     },
     {
       "id": "hot-milk-sponge-cake-bhg",
@@ -4810,7 +4882,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "hot-milk-sponge-cake"
+      ]
     },
     {
       "id": "angel-cake-bhg",
@@ -4925,7 +5000,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "angel-cake"
+      ]
     },
     {
       "id": "chiffon-cake-bhg",
@@ -5051,7 +5129,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chiffon-cake"
     },
     {
       "id": "jelly-roll-bhg",
@@ -5191,7 +5270,10 @@
           "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "jelly-roll"
+      ]
     },
     {
       "id": "nut-torte-bhg",
@@ -5304,7 +5386,10 @@
           "Inferred 2 for Chocolate Butter Frosting (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "nut-torte"
+      ]
     }
   ]
 }

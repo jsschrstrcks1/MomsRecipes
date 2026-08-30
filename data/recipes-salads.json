@@ -13,7 +13,6 @@
       "category": "salads",
       "attribution": "Georgeanne Brennan",
       "source_note": "Magazine clipping - from 'Down to Earth'",
-      "variant_of": "carrot-date-salad-gorgonzola",
       "variant_notes": "Same recipe found in both Grandma and MomMom's collections - likely shared clipping",
       "description": "A unique salad with grated carrots and dates in a creamy Gorgonzola dressing.",
       "servings_yield": "2-3 servings",
@@ -443,7 +442,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "coleslaw-bhg"
     },
     {
       "id": "cranberry-salad-mommom",
@@ -568,7 +568,11 @@
           "Estimated 8 servings based on total calories",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cranberry-salad-jello",
+        "cranberry-salad-family"
+      ]
     },
     {
       "id": "broccoli-mushroom-salad",
@@ -2630,7 +2634,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "coleslaw-mommom"
+      ]
     },
     {
       "id": "tabbouleh-bhg",
@@ -3060,7 +3067,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cranberry-salad-mommom"
     },
     {
       "id": "bean-sausage-bowl-bhg",
@@ -3899,7 +3907,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chicken-salad-ancients"
+      ]
     },
     {
       "id": "avocado-shrimp-salad-bhg",
@@ -6971,7 +6982,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "chicken-salad-bhg"
     },
     {
       "id": "juliuth-icthus-salad-ancients",

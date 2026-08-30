@@ -103,7 +103,8 @@
         "assumptions": [
           "Based on 7/8 ingredients (88% coverage)"
         ]
-      }
+      },
+      "variant_of": "meatless-red-beans-and-rice-bhg"
     },
     {
       "id": "meatless-tacos",
@@ -203,7 +204,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "meatless-tacos-bhg"
     },
     {
       "id": "bean-and-cheese-burritos",
@@ -293,7 +295,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "bean-and-cheese-burritos-bhg"
     },
     {
       "id": "meatless-tacos-bhg",
@@ -395,7 +398,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "meatless-tacos"
+      ]
     },
     {
       "id": "garbanzo-sandwich-spread-bhg",
@@ -485,7 +491,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "garbanzo-sandwich-spread"
     },
     {
       "id": "fried-rice-supper-bhg",
@@ -592,7 +599,8 @@
           "Inferred 0.25 for ground red pepper (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fried-rice-supper"
     },
     {
       "id": "bean-and-cheese-burritos-bhg",
@@ -680,7 +688,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "bean-and-cheese-burritos"
+      ]
     }
   ]
 }

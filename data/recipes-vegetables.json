@@ -3204,7 +3204,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "scalloped-potatoes-mommom"
+      ]
     },
     {
       "id": "twice-baked-potatoes-bhg",
@@ -6306,7 +6309,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "banana-tree-stem-sauteed-etw"
+      ]
     },
     {
       "id": "roasted-bulrush-roots-etw",

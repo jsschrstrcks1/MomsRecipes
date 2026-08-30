@@ -447,7 +447,10 @@
           "Assumed 1 unit for paprika",
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chicken-divan-mommom"
+      ]
     },
     {
       "id": "chicken-asparagus-stacks-bhg",
@@ -1504,7 +1507,8 @@
           "Assumed 1 unit for Dijon-style mustard",
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variant_of": "bacon-onion-bratwursts-bhg"
     },
     {
       "id": "apple-stuffed-sausage-patties-bhg",
@@ -1788,7 +1792,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "create-your-own-meat-loaf"
+      ]
     },
     {
       "id": "swedish-meatballs-bhg",
@@ -1905,7 +1912,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for ground allspice or nutmeg"
         ]
-      }
+      },
+      "variant_of": "swedish-meatballs"
     },
     {
       "id": "spaghetti-sauce-bhg",
@@ -2018,7 +2026,8 @@
           "Assumed 1 unit for dried oregano, crushed",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "spaghetti-sauce"
     },
     {
       "id": "porcupine-meatballs-bhg",
@@ -2108,7 +2117,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "porcupine-meatballs"
     },
     {
       "id": "hamburgers-bhg",
@@ -2209,7 +2219,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "hamburgers"
     },
     {
       "id": "cheese-strata-bhg",
@@ -2324,7 +2335,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "cheese-strata"
+      ]
     },
     {
       "id": "cheese-stuffed-manicotti-bhg",
@@ -2482,7 +2496,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "cheese-stuffed-manicotti"
+      ]
     },
     {
       "id": "fettuccine-with-cheese-sauce-bhg",
@@ -2641,7 +2658,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "fettuccine-with-cheese-sauce"
+      ]
     },
     {
       "id": "stuffed-burgers-bhg",
@@ -2724,7 +2744,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "stuffed-burgers"
     },
     {
       "id": "garden-burgers-bhg",
@@ -2818,7 +2839,8 @@
           "Assumed 1 unit for lettuce",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "garden-burgers"
     },
     {
       "id": "tacos-bhg",
@@ -2911,7 +2933,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "tacos"
     },
     {
       "id": "sloppy-joes-bhg",
@@ -3019,7 +3042,8 @@
           "Inferred 0.25 for bottled hot pepper sauce (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sloppy-joes"
     },
     {
       "id": "lasagna-bhg",
@@ -3156,7 +3180,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "lasagna-meat"
+      ]
     },
     {
       "id": "crab-mornay-bhg",
@@ -3284,7 +3311,10 @@
           "Assumed 1 unit for paprika",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "crab-mornay"
+      ]
     },
     {
       "id": "deviled-crab-bhg",
@@ -3421,7 +3451,10 @@
           "Assumed 1 unit for sliced almonds",
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "deviled-crab"
+      ]
     },
     {
       "id": "crab-cakes-bhg",
@@ -3542,7 +3575,11 @@
           "Estimated 4 servings based on total calories",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "crab-cakes-mommom",
+        "crab-cakes"
+      ]
     },
     {
       "id": "shrimp-creole-bhg",
@@ -3719,7 +3756,10 @@
         "assumptions": [
           "Based on 17/17 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "shrimp-creole"
+      ]
     },
     {
       "id": "shrimp-chow-mein-bhg",
@@ -3879,7 +3919,10 @@
           "Estimated 6 servings based on total calories",
           "Based on 13/14 ingredients (93% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "shrimp-chow-mein"
+      ]
     },
     {
       "id": "shrimp-in-garlic-butter-bhg",
@@ -3968,7 +4011,10 @@
           "Estimated 4 servings based on total calories",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "shrimp-in-garlic-butter"
+      ]
     },
     {
       "id": "french-fried-shrimp-bhg",
@@ -4117,7 +4163,10 @@
           "Estimated 6 servings based on total calories",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "french-fried-shrimp"
+      ]
     },
     {
       "id": "meatless-red-beans-and-rice-bhg",
@@ -4235,7 +4284,10 @@
         "assumptions": [
           "Based on 7/8 ingredients (88% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "meatless-red-beans-and-rice"
+      ]
     },
     {
       "id": "cider-caraway-pot-roast-bhg",
@@ -4663,7 +4715,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "beef-pot-roast-classic-bhg"
     },
     {
       "id": "beef-wellington-bhg",
@@ -5686,7 +5739,8 @@
         "assumptions": [
           "Based on 4/5 ingredients (80% coverage)"
         ]
-      }
+      },
+      "variant_of": "steak-spinach-pinwheels-bhg"
     },
     {
       "id": "london-broil-bhg",
@@ -6170,7 +6224,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "veal-marsala"
+      ]
     },
     {
       "id": "beef-fajitas-bhg",
@@ -6306,7 +6363,10 @@
           "Inferred 1.0 for Shredded cheddar or Monterey Jack cheese (standard quantity)",
           "Based on 10/11 ingredients (91% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "beef-fajitas"
+      ]
     },
     {
       "id": "beef-stroganoff-bhg",
@@ -6415,7 +6475,10 @@
           "Assumed 1 unit for hot cooked noodles",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "beef-stroganoff"
+      ]
     },
     {
       "id": "beef-teriyaki-kabobs-bhg",
@@ -6526,7 +6589,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "beef-teriyaki-kabobs"
+      ]
     },
     {
       "id": "ginger-beef-stir-fry-bhg",
@@ -6670,7 +6736,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "ginger-beef-stir-fry"
+      ]
     },
     {
       "id": "spinach-stuffed-lamb-roast-bhg",
@@ -6774,7 +6843,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "spinach-stuffed-lamb-roast"
+      ]
     },
     {
       "id": "herb-rubbed-leg-of-lamb-bhg",
@@ -6896,7 +6968,10 @@
           "Assumed 1 unit for Mint jelly",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "herb-rubbed-leg-of-lamb"
+      ]
     },
     {
       "id": "currant-glazed-rack-of-lamb-bhg",
@@ -6981,7 +7056,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "currant-glazed-rack-of-lamb"
+      ]
     },
     {
       "id": "curried-lamb-bhg",
@@ -7101,7 +7179,10 @@
           "Assumed 1 unit for hot cooked rice",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "curried-lamb"
+      ]
     },
     {
       "id": "vegetable-lamb-skillet-bhg",
@@ -7220,7 +7301,10 @@
           "Assumed 1 unit for pitted ripe olives",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "vegetable-lamb-skillet"
+      ]
     },
     {
       "id": "saucy-lamb-shanks-bhg",
@@ -7342,7 +7426,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "saucy-lamb-shanks"
+      ]
     },
     {
       "id": "lamb-chops-with-herb-sauce-bhg",
@@ -7451,7 +7538,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "lamb-chops-herb-sauce-bhg"
     },
     {
       "id": "lamb-chops-honey-mustard-glaze-bhg",
@@ -7793,7 +7881,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "creole-stuffed-roast"
+      ]
     },
     {
       "id": "rib-crown-roast-pork-bhg",
@@ -8025,7 +8116,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "harvest-pot-roast"
+      ]
     },
     {
       "id": "roast-pork-mushroom-butter-sauce-bhg",
@@ -8135,7 +8229,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "roast-pork-with-mushroom-butter-sauce"
+      ]
     },
     {
       "id": "pork-apple-nutmeg-sauce-bhg",
@@ -8235,7 +8332,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pork-with-apple-nutmeg-sauce"
+      ]
     },
     {
       "id": "citrus-glazed-pork-ribs-bhg",
@@ -8440,7 +8540,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "barbecue-style-ribs"
+      ]
     },
     {
       "id": "braised-steaks-italian-bhg",
@@ -8564,7 +8667,10 @@
         "assumptions": [
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "braised-steaks-italian"
+      ]
     },
     {
       "id": "linguine-white-clam-sauce-bhg",
@@ -8692,7 +8798,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "linguine-with-white-clam-sauce"
+      ]
     },
     {
       "id": "linguine-red-clam-sauce-bhg",
@@ -9204,7 +9313,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "crawfish-etouffee"
+      ]
     },
     {
       "id": "fried-seafood-bhg",
@@ -9432,7 +9544,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "oysters-au-gratin"
+      ]
     },
     {
       "id": "citrus-ginger-pot-roast-bhg",
@@ -9780,7 +9895,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "beef-pot-roast-bhg"
+      ]
     },
     {
       "id": "barbecue-style-pot-roast-bhg",
@@ -9988,7 +10106,10 @@
         "assumptions": [
           "Based on 4/5 ingredients (80% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "steak-and-spinach-pinwheels-bhg"
+      ]
     },
     {
       "id": "lamb-chops-herb-sauce-bhg",
@@ -10106,7 +10227,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "lamb-chops-with-herb-sauce-bhg"
+      ]
     },
     {
       "id": "rib-crown-roast-pork-stuffed-bhg",
@@ -10351,7 +10475,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "corn-stuffed-pork-chops"
+      ]
     },
     {
       "id": "mexican-pork-chops-bhg",
@@ -11727,7 +11854,10 @@
           "Assumed 1 unit for parsley sprigs",
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "lobster-newburg"
+      ]
     },
     {
       "id": "boiled-lobster-bhg",
@@ -11814,7 +11944,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "boiled-lobster"
+      ]
     },
     {
       "id": "corn-dogs-bhg",
@@ -12260,7 +12393,10 @@
           "Assumed 1 unit for Dijon-style mustard",
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "bacon-and-onion-bratwursts-bhg"
+      ]
     },
     {
       "id": "submarine-sandwich-bhg",
@@ -17267,7 +17403,8 @@
           "handwritten recipe - some quantities unclear"
         ]
       },
-      "servings_yield": "4 servings"
+      "servings_yield": "4 servings",
+      "variant_of": "spicy-meatballs-jean-shu"
     },
     {
       "id": "chicken-pot-pie-gahb",
@@ -17655,7 +17792,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "4-6 servings"
+      "servings_yield": "4-6 servings",
+      "variant_of": "broccoli-bread-quiche-fbc-jasmine"
     },
     {
       "id": "vegetable-pie-fbc",
@@ -17769,7 +17907,10 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "4-6 servings"
+      "servings_yield": "4-6 servings",
+      "variants": [
+        "vegetable-pie-fbc-jasmine"
+      ]
     },
     {
       "id": "creamy-crabmeat-casserole-fbc",
@@ -17896,7 +18037,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "creamy-crabmeat-casserole-fbc-jasmine"
+      ]
     },
     {
       "id": "wild-rice-casserole-fbc",
@@ -17970,7 +18114,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "4-6 servings"
+      "servings_yield": "4-6 servings",
+      "variant_of": "wild-rice-casserole"
     },
     {
       "id": "wild-rice-sausage-casserole-fbc",
@@ -18092,7 +18237,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "wild-rice-sausage-casserole-fbc-jasmine"
     },
     {
       "id": "ham-muffins-fbc-jasmine",
@@ -18434,7 +18580,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "4-6 servings"
+      "servings_yield": "4-6 servings",
+      "variant_of": "vegetable-pie-fbc"
     },
     {
       "id": "creamy-crabmeat-casserole-fbc-jasmine",
@@ -18566,7 +18713,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "creamy-crabmeat-casserole-fbc"
     },
     {
       "id": "wild-rice-casserole-shrimp-fbc-jasmine",
@@ -18863,7 +19011,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "wild-rice-sausage-casserole-fbc"
+      ]
     },
     {
       "id": "lively-shrimp-casserole-fbc-jasmine",
@@ -25759,7 +25910,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-brunswick-stew"
     },
     {
       "id": "wild-hog-bbq-pulled-pork-hf",
@@ -30510,6 +30662,9 @@
       },
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5626.jpeg"
+      ],
+      "variants": [
+        "spicy-meatballs-jasmine"
       ]
     }
   ]

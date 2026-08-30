@@ -442,7 +442,11 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "breakfast-pizza",
+        "breakfast-pizza-bhg"
+      ]
     },
     {
       "id": "easy-cheesy-scrambled-eggs-microwave",
@@ -912,7 +916,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "creamy-poached-eggs"
+      ]
     },
     {
       "id": "poached-eggs-bhg",
@@ -1002,7 +1009,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "poached-eggs"
+      ]
     },
     {
       "id": "eggs-benedict-bhg",
@@ -2162,7 +2172,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "turkish-pancakes-fbc-jasmine"
     },
     {
       "id": "basic-crepe-fbc",
@@ -2443,7 +2454,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "broccoli-bread-quiche-fbc"
+      ]
     },
     {
       "id": "baked-apple-pancake-fbc-jasmine",
@@ -2767,7 +2781,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "turkish-pancakes-fbc"
+      ]
     },
     {
       "id": "basic-crepe-fbc-jasmine",
@@ -3251,7 +3268,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "sour-cream-coffee-cake-mommom"
     },
     {
       "id": "scalloped-eggs-fbc-jasmine",
@@ -3738,7 +3756,10 @@
         "flags": [
           "Recipe instructions partially visible"
         ]
-      }
+      },
+      "variants": [
+        "baked-eggs-in-sour-cream-fbc-jasmine"
+      ]
     },
     {
       "id": "quick-easy-lemon-coffee-cake-fbc-jasmine",
@@ -4043,7 +4064,8 @@
       },
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5724.jpeg"
-      ]
+      ],
+      "variant_of": "baked-eggs-sour-cream-fbc-jasmine"
     },
     {
       "id": "skillet-orange-coffee-cake-fbc-jasmine",
@@ -4289,7 +4311,8 @@
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5728.jpeg",
         "FBC Jasmine Cook Book/IMG_5730.jpeg"
-      ]
+      ],
+      "variant_of": "cake-doughnuts"
     },
     {
       "id": "grandmas-fry-cakes-fbc-jasmine",

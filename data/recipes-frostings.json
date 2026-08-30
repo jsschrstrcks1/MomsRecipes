@@ -92,7 +92,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "seven-minute-frosting"
+      ]
     },
     {
       "id": "fluffy-white-frosting-bhg",
@@ -164,7 +167,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fluffy-white-frosting"
+      ]
     },
     {
       "id": "creamy-white-frosting-bhg",
@@ -241,7 +247,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "creamy-white-frosting"
+      ]
     },
     {
       "id": "cream-cheese-frosting-bhg",
@@ -321,7 +330,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cream-cheese-frosting"
     },
     {
       "id": "powdered-sugar-icing-bhg",
@@ -392,7 +402,10 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "powdered-sugar-icing"
+      ]
     },
     {
       "id": "petits-fours-icing-bhg",
@@ -497,7 +510,10 @@
           "Inferred 1.0 for sifted powdered sugar (standard quantity)",
           "Based on 5/6 ingredients (83% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "petits-fours-icing"
+      ]
     },
     {
       "id": "butter-frosting-bhg",
@@ -591,7 +607,8 @@
           "Inferred 1.0 for milk (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "butter-frosting"
     },
     {
       "id": "no-cook-fudge-frosting-bhg",
@@ -673,7 +690,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "no-cook-fudge-frosting"
+      ]
     },
     {
       "id": "chocolate-sour-cream-frosting-bhg",
@@ -751,7 +771,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chocolate-sour-cream-frosting"
+      ]
     },
     {
       "id": "chocolate-glaze-bhg",
@@ -825,7 +848,10 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "chocolate-glaze"
+      ]
     },
     {
       "id": "rocky-road-frosting-bhg",
@@ -922,7 +948,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "rocky-road-frosting"
+      ]
     },
     {
       "id": "coconut-pecan-frosting-bhg",
@@ -1009,7 +1038,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "coconut-pecan-frosting"
     },
     {
       "id": "broiled-coconut-topping-bhg",
@@ -1091,7 +1121,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "broiled-coconut-topping"
+      ]
     },
     {
       "id": "penuche-frosting-bhg",
@@ -1174,7 +1207,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "penuche-frosting"
+      ]
     },
     {
       "id": "choose-a-fruit-filling-bhg",
@@ -1253,7 +1289,10 @@
         "assumptions": [
           "Based on 3/3 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "choose-a-fruit-filling"
+      ]
     },
     {
       "id": "lemon-filling-bhg",
@@ -1351,7 +1390,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "lemon-filling"
     }
   ]
 }

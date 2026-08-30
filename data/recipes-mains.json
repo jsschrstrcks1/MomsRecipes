@@ -4727,7 +4727,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 319)"
         ]
-      }
+      },
+      "variant_of": "chicken-divan-bhg"
     },
     {
       "id": "chicken-chuluga",
@@ -5710,7 +5711,8 @@
           "Estimated 6 servings based on total calories",
           "Based on 11/12 ingredients (92% coverage)"
         ]
-      }
+      },
+      "variant_of": "impossible-lasagne-pie"
     },
     {
       "id": "italian-stir-fry",
@@ -5973,7 +5975,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 179)"
         ]
-      }
+      },
+      "variant_of": "crab-cakes-bhg"
     },
     {
       "id": "flamboyant-flounder-for-two",
@@ -7793,7 +7796,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "macaroni-and-cheese"
     },
     {
       "id": "pasta-pinwheels",
@@ -9802,7 +9806,10 @@
         "assumptions": [
           "Based on 11/12 ingredients (92% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "impossible-lasagne-pie-mommom"
+      ]
     },
     {
       "id": "grilled-meat-tacos-partial",
@@ -11001,7 +11008,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 16)"
         ]
-      }
+      },
+      "variants": [
+        "mustard-glazed-ribs-bhg"
+      ]
     },
     {
       "id": "soft-hard-cooked-eggs",
@@ -11067,7 +11077,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "soft-cooked-hard-cooked-eggs-bhg"
+      ]
     },
     {
       "id": "egg-salad-sandwiches",
@@ -11169,7 +11182,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "egg-salad-sandwiches-bhg"
     },
     {
       "id": "asparagus-egg-casserole",
@@ -11318,7 +11332,10 @@
         "assumptions": [
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "asparagus-egg-casserole-bhg"
+      ]
     },
     {
       "id": "spinach-egg-casserole",
@@ -11431,7 +11448,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "spinach-egg-casserole-bhg"
     },
     {
       "id": "cheesy-brunch-roll-ups",
@@ -11568,7 +11586,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "cheesy-brunch-roll-ups-bhg"
     },
     {
       "id": "cheese-stuffed-manicotti",
@@ -11730,7 +11749,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "cheese-stuffed-manicotti-bhg"
     },
     {
       "id": "venison-pot-roast",
@@ -11839,7 +11859,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "foxfire-venison-pot-roast"
+      ]
     },
     {
       "id": "marinated-venison-chops",
@@ -12510,7 +12533,10 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fried-rice-supper-bhg"
+      ]
     },
     {
       "id": "dijon-mustard-fish-fillets",
@@ -12738,7 +12764,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "swordfish-kabobs-bhg"
+      ]
     },
     {
       "id": "blackened-thai-catfish",
@@ -13350,7 +13379,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 171)"
         ]
-      }
+      },
+      "variants": [
+        "wild-rice-stuffed-fish-bhg"
+      ]
     },
     {
       "id": "vegetable-topped-fillets",
@@ -13466,7 +13498,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "vegetable-topped-fillets-bhg"
+      ]
     },
     {
       "id": "hot-tuna-cups",
@@ -16664,7 +16699,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "create-your-own-meat-loaf-bhg"
     },
     {
       "id": "swedish-meatballs",
@@ -16790,7 +16826,10 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "swedish-meatballs-bhg"
+      ]
     },
     {
       "id": "spaghetti-and-meatballs",
@@ -17035,7 +17074,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "porcupine-meatballs-bhg"
+      ]
     },
     {
       "id": "hamburgers",
@@ -17147,7 +17189,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "hamburgers-bhg"
+      ]
     },
     {
       "id": "german-style-burgers",
@@ -17337,7 +17382,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "stuffed-burgers-bhg"
+      ]
     },
     {
       "id": "garden-burgers",
@@ -17457,7 +17505,10 @@
           "Assumed 1 unit for lettuce",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "garden-burgers-bhg"
+      ]
     },
     {
       "id": "glazed-ham-patties",
@@ -17670,7 +17721,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "tacos-bhg"
+      ]
     },
     {
       "id": "burritos",
@@ -17886,7 +17940,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sloppy-joes-bhg"
+      ]
     },
     {
       "id": "lasagna-meat",
@@ -18040,7 +18097,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "lasagna-bhg"
     },
     {
       "id": "pizza-homemade",
@@ -18533,6 +18591,9 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
+      ],
+      "variants": [
+        "brunswick-stew-hf"
       ]
     },
     {
@@ -20306,7 +20367,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "venison-pot-roast"
     },
     {
       "id": "foxfire-roasted-quail",

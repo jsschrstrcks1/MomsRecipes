@@ -861,7 +861,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "thousand-island-dressing-bhg"
     },
     {
       "id": "boston-baked-beans-mommom",
@@ -1542,7 +1543,10 @@
           "Estimated 8 servings based on total calories",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sweet-potato-casserole-fbc-jasmine"
+      ]
     },
     {
       "id": "green-rice",
@@ -1874,7 +1878,10 @@
           "Assumed 1.5 cup can for water",
           "Used standard can size (1.5 cups) for milk"
         ]
-      }
+      },
+      "variants": [
+        "wild-rice-casserole-fbc"
+      ]
     },
     {
       "id": "potatoes-deluxe",
@@ -2104,7 +2111,8 @@
           "Estimated 8 servings based on total calories",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "scalloped-potatoes-bhg"
     },
     {
       "id": "stuffed-baked-potatoes-mommom",
@@ -3085,7 +3093,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 69)"
         ]
-      }
+      },
+      "variant_of": "corn-fritters-bhg"
     },
     {
       "id": "mexican-nopales",
@@ -3371,7 +3380,8 @@
           "Inferred 2 for egg whites (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "spoon-bread-bhg"
     },
     {
       "id": "strawberry-jam-bread-machine",
@@ -4550,7 +4560,8 @@
           "Estimated 6 servings based on total calories",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cranberry-salad-mommom"
     },
     {
       "id": "cranberry-orange-pecan-butter-roll",
@@ -6456,7 +6467,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "hungarian-bread-dumplings-fbc"
+      ]
     },
     {
       "id": "spinach-squares-fbc-jasmine",
@@ -6988,7 +7002,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "spinach-casserole-fbc"
     },
     {
       "id": "zucchini-casserole-stuffing-fbc-jasmine",
@@ -7077,7 +7092,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "zucchini-casserole-fbc"
     },
     {
       "id": "sweet-potato-casserole-fbc-jasmine",
@@ -7188,7 +7204,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "sweet-potato-casserole-mommom"
     },
     {
       "id": "corn-fritters-fbc-jasmine",
@@ -7301,7 +7318,8 @@
       },
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5727.jpeg"
-      ]
+      ],
+      "variant_of": "corn-fritters-bhg"
     },
     {
       "id": "foxfire-leather-breeches-beans",
@@ -7889,7 +7907,8 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
-      ]
+      ],
+      "variant_of": "apple-butter-bhg"
     },
     {
       "id": "foxfire-sauerkraut",
@@ -9574,7 +9593,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "sauteed-banana-tree-stem-etw"
     },
     {
       "id": "banana-flower-stir-fry-etw",
@@ -10598,7 +10618,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire4-cottage-cheese"
     },
     {
       "id": "foxfire-4-quick-cheese",

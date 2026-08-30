@@ -1298,7 +1298,10 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variants": [
+        "how-much-meat-to-buy-guide-bhg"
+      ]
     },
     {
       "id": "meat-thermometer-guide-bhg",
@@ -1481,7 +1484,10 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variants": [
+        "pork-ham-identification-guide-part2-bhg"
+      ]
     },
     {
       "id": "checking-pork-doneness-guide-bhg",
@@ -2330,7 +2336,8 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variant_of": "how-much-meat-to-buy-bhg"
     },
     {
       "id": "lamb-identification-guide-bhg",
@@ -2453,7 +2460,8 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variant_of": "pork-ham-identification-guide-bhg"
     },
     {
       "id": "nutrition-analysis-fish-shellfish-bhg",

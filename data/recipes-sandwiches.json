@@ -86,7 +86,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "egg-salad-sandwiches"
+      ]
     },
     {
       "id": "egg-pita-sandwiches-bhg",
@@ -184,7 +187,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "egg-pita-sandwiches"
+      ]
     },
     {
       "id": "reuben-sandwiches-bhg",

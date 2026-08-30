@@ -69,7 +69,8 @@
       },
       "image_refs": [
         "Foxfire-Book-2.txt"
-      ]
+      ],
+      "variant_of": "foxfire-4-sassafras-jelly"
     },
     {
       "id": "foxfire2-rhubarb-jelly",
@@ -401,7 +402,8 @@
       },
       "image_refs": [
         "foxfire-three.txt"
-      ]
+      ],
+      "variant_of": "foxfire-blackberry-syrup"
     },
     {
       "id": "foxfire3-blackberry-jelly",
@@ -547,6 +549,9 @@
       },
       "image_refs": [
         "foxfire-three.txt"
+      ],
+      "variants": [
+        "appalachian-sumac-elderberry-jelly"
       ]
     },
     {
@@ -1340,6 +1345,9 @@
       },
       "image_refs": [
         "foxfire-three.txt"
+      ],
+      "variants": [
+        "appalachian-elderberry-apple-orange-jam"
       ]
     },
     {
@@ -2493,7 +2501,8 @@
       },
       "image_refs": [
         "foxfire-three.txt"
-      ]
+      ],
+      "variant_of": "foxfire-fig-preserves"
     },
     {
       "id": "foxfire3-crabapple-jelly",
@@ -3515,7 +3524,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire3-sumac-elderberry-jelly"
     },
     {
       "id": "appalachian-elderberry-jam",
@@ -3653,7 +3663,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire3-elderberry-apple-orange-jam"
     },
     {
       "id": "dandelion-blossom-syrup-etw",
@@ -4285,7 +4296,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-maypop-jelly"
     },
     {
       "id": "daylily-jelly-etw",
@@ -5493,6 +5505,9 @@
       },
       "image_refs": [
         "publicism.info-foxfire-wild-plants"
+      ],
+      "variants": [
+        "maypop-jelly-etw"
       ]
     },
     {
@@ -6009,6 +6024,9 @@
       },
       "image_refs": [
         "publicism.info-foxfire-wild-plants"
+      ],
+      "variants": [
+        "foxfire3-blackberry-syrup"
       ]
     },
     {
@@ -6172,6 +6190,9 @@
       },
       "image_refs": [
         "publicism.info-foxfire-wild-plants"
+      ],
+      "variants": [
+        "foxfire3-fig-preserves"
       ]
     },
     {
@@ -6496,7 +6517,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "cranberry-sauce-bhg"
     },
     {
       "id": "spiced-cranberries-etw",

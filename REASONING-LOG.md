@@ -31,6 +31,24 @@ Newest entries go at the top.
 
 ---
 
+## 2026-08-30 — Variant linking, phase 2 (syl)
+
+**Asked:** Link same-dish recipes to a canonical primary per operator law 990f37e1.
+
+**Weighed:** Clusters = identical normalized title; canonical election human-centric
+(family collection — everything here is mommom — then completeness, then named source);
+additive-only linking, existing links never rewritten. Validator reports 50 pre-existing
+errors (empty-instruction reference guides etc.) — identical count on HEAD before this
+change, so not introduced here and deliberately not "fixed" in a linking pass.
+
+**Decided:** 477 clusters linked: 508 variant_of + 508 variants entries. One PRE-EXISTING
+dangling variant_of removed (carrot-date-salad-gorgonzola-mommom pointed at an id that
+has never existed in this store). Integrity: 0 cycles, 0 broken refs, 0 one-directional
+links. Report: admin/VARIANTS-LINKED.json. Shards + index regenerated.
+
+**Unsure:** Canonical election is mechanical; the report lists every cluster for
+re-election by hand where family preference differs.
+
 ## 2026-08-30 — Exact-duplicate removal, phase 1 (syl)
 
 **Asked:** Operator campaign across the recipe repos: duplicates are forbidden (remove),

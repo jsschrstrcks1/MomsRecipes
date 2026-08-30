@@ -118,7 +118,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "fettuccine-with-cheese-sauce-bhg"
     },
     {
       "id": "macaroni-and-cheese",
@@ -217,7 +218,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "macaroni-and-cheese-mommom"
+      ]
     }
   ]
 }

@@ -84,7 +84,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "veal-marsala-bhg"
     },
     {
       "id": "beef-fajitas",
@@ -198,7 +199,8 @@
           "Assumed 1 unit for avocado dip, chunked avocado, or Guacamole",
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "beef-fajitas-bhg"
     },
     {
       "id": "creole-stuffed-roast",
@@ -283,7 +285,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "creole-stuffed-roast-bhg"
     },
     {
       "id": "rice-stuffed-rib-crown-roast",
@@ -480,7 +483,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "harvest-pot-roast-pork-bhg"
     },
     {
       "id": "roast-pork-with-mushroom-butter-sauce",
@@ -576,7 +580,8 @@
           "Inferred 2 for Mushroom-Butter Sauce (standard quantity)",
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variant_of": "roast-pork-mushroom-butter-sauce-bhg"
     },
     {
       "id": "pork-with-apple-nutmeg-sauce",
@@ -666,7 +671,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pork-apple-nutmeg-sauce-bhg"
     },
     {
       "id": "citrus-glazed-ribs",
@@ -824,7 +830,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "barbecue-style-ribs-bhg"
     },
     {
       "id": "braised-steaks-italian",
@@ -894,7 +901,8 @@
         "assumptions": [
           "Based on 3/4 ingredients (75% coverage)"
         ]
-      }
+      },
+      "variant_of": "braised-steaks-italian-bhg"
     },
     {
       "id": "corn-stuffed-pork-chops",
@@ -988,7 +996,8 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "corn-stuffed-pork-chops-bhg"
     },
     {
       "id": "beef-stroganoff",
@@ -1079,7 +1088,8 @@
           "Assumed 1 unit for hot cooked noodles",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "beef-stroganoff-bhg"
     },
     {
       "id": "beef-teriyaki-kabobs",
@@ -1159,7 +1169,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "beef-teriyaki-kabobs-bhg"
     },
     {
       "id": "ginger-beef-stir-fry",
@@ -1259,7 +1270,8 @@
           "Assumed 1.5 cup can for bamboo shoots, drained",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "ginger-beef-stir-fry-bhg"
     },
     {
       "id": "spinach-stuffed-lamb-roast",
@@ -1347,7 +1359,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "spinach-stuffed-lamb-roast-bhg"
     },
     {
       "id": "herb-rubbed-leg-of-lamb",
@@ -1437,7 +1450,8 @@
           "Assumed 1 unit for Mint jelly",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "herb-rubbed-leg-of-lamb-bhg"
     },
     {
       "id": "currant-glazed-rack-of-lamb",
@@ -1501,7 +1515,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "currant-glazed-rack-of-lamb-bhg"
     },
     {
       "id": "curried-lamb",
@@ -1590,7 +1605,8 @@
           "Assumed 1 unit for hot cooked rice",
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variant_of": "curried-lamb-bhg"
     },
     {
       "id": "saucy-lamb-shanks",
@@ -1684,7 +1700,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "saucy-lamb-shanks-bhg"
     },
     {
       "id": "vegetable-lamb-skillet",
@@ -1769,7 +1786,8 @@
           "Used standard can size (0.75 cups) for sliced pitted ripe olives",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "vegetable-lamb-skillet-bhg"
     }
   ]
 }

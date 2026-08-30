@@ -2998,7 +2998,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "hungarian-bread-dumplings-fbc-jasmine"
     },
     {
       "id": "spinach-casserole-fbc",
@@ -3082,7 +3083,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "spinach-artichoke-casserole-fbc-jasmine"
+      ]
     },
     {
       "id": "zucchini-casserole-fbc",
@@ -3163,7 +3167,10 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variants": [
+        "zucchini-casserole-stuffing-fbc-jasmine"
+      ]
     },
     {
       "id": "foxfire2-fried-milkweed",

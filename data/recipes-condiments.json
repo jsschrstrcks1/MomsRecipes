@@ -392,7 +392,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "thousand-island-dressing-mommom"
+      ]
     },
     {
       "id": "vinaigrette-bhg",
@@ -1133,7 +1136,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "catsup"
+      ]
     },
     {
       "id": "dill-pickles-bhg",
@@ -1242,7 +1248,10 @@
           "Estimated 4 servings based on total calories",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "dill-pickles"
+      ]
     },
     {
       "id": "bread-n-butter-pickles-bhg",
@@ -1373,7 +1382,10 @@
           "Estimated 12 servings based on total calories",
           "Based on 9/10 ingredients (90% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "bread-n-butter-pickles"
+      ]
     },
     {
       "id": "corn-relish-bhg",
@@ -1503,7 +1515,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "corn-relish"
+      ]
     },
     {
       "id": "vegetable-relish-bhg",
@@ -1648,7 +1663,10 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "vegetable-relish"
+      ]
     },
     {
       "id": "fruit-juice-jelly-bhg",
@@ -1736,7 +1754,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fruit-juice-jelly"
+      ]
     },
     {
       "id": "peach-jam-bhg",
@@ -1836,7 +1857,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "peach-jam"
+      ]
     },
     {
       "id": "grape-jam-bhg",
@@ -1920,7 +1944,10 @@
         "assumptions": [
           "Based on 2/2 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "grape-jam"
+      ]
     },
     {
       "id": "orange-marmalade-bhg",
@@ -2033,7 +2060,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "orange-marmalade"
+      ]
     },
     {
       "id": "rhubarb-raspberry-jam-bhg",
@@ -2130,7 +2160,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "rhubarb-raspberry-jam"
+      ]
     },
     {
       "id": "berry-freezer-jam-bhg",
@@ -2230,7 +2263,10 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "berry-freezer-jam"
+      ]
     },
     {
       "id": "harvest-applesauce-bhg",
@@ -2328,7 +2364,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "harvest-applesauce"
+      ]
     },
     {
       "id": "apple-butter-bhg",
@@ -2432,7 +2471,11 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "apple-butter",
+        "foxfire-apple-butter"
+      ]
     },
     {
       "id": "foxfire-4-sassafras-jelly",
@@ -2514,7 +2557,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "foxfire2-sassafras-jelly"
+      ]
     }
   ]
 }

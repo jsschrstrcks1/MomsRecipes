@@ -281,7 +281,8 @@
           "Assumed 1 unit for squeeze margarine",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cheese-bread-yeast"
     },
     {
       "id": "cinnamon-bread-mommom",
@@ -1513,7 +1514,8 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "zucchini-bread"
     },
     {
       "id": "sticky-buns-mommom",
@@ -2034,7 +2036,8 @@
           "Used standard can size (1.875 cups) for pumpkin",
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pumpkin-bread"
     },
     {
       "id": "bisquick-muffins",
@@ -2448,7 +2451,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 66)"
         ]
-      }
+      },
+      "variant_of": "biscuits"
     },
     {
       "id": "holiday-brandy-bread",
@@ -4489,7 +4493,10 @@
           "Estimated 4 servings based on total calories",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sourdough-starter-bhg"
+      ]
     },
     {
       "id": "pumpernickel-bread-machine",
@@ -7586,7 +7593,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "white-bread-bhg"
+      ]
     },
     {
       "id": "french-bread-classic",
@@ -7711,7 +7721,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 39)"
         ]
-      }
+      },
+      "variants": [
+        "french-bread-bhg"
+      ]
     },
     {
       "id": "cheese-bread-yeast",
@@ -7835,7 +7848,11 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cheese-bread-mommom",
+        "cheese-bread-bhg"
+      ]
     },
     {
       "id": "rye-bread",
@@ -7973,7 +7990,8 @@
           "Assumed 1 unit for cornmeal",
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variant_of": "rye-bread-bhg"
     },
     {
       "id": "dark-rye-bread",
@@ -8148,7 +8166,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 41)"
         ]
-      }
+      },
+      "variant_of": "dark-rye-bread-bhg"
     },
     {
       "id": "sourdough-bread",
@@ -8277,7 +8296,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sourdough-bread-bhg"
     },
     {
       "id": "cherry-sourdough-coffee-cake",
@@ -8388,7 +8408,8 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cherry-sourdough-coffee-cake-bhg"
     },
     {
       "id": "bacon-sourdough-muffins",
@@ -8486,7 +8507,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "bacon-sourdough-muffins-bhg"
     },
     {
       "id": "dill-batter-bread",
@@ -8584,7 +8606,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 43)"
         ]
-      }
+      },
+      "variant_of": "dill-batter-bread-bhg"
     },
     {
       "id": "egg-bread",
@@ -8693,7 +8716,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 44)"
         ]
-      }
+      },
+      "variant_of": "egg-bread-bhg"
     },
     {
       "id": "cornmeal-bubble-ring",
@@ -8821,7 +8845,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cornmeal-bubble-ring-bhg"
     },
     {
       "id": "chocolate-swirl-bread",
@@ -8971,7 +8996,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chocolate-swirl-bread-bhg"
     },
     {
       "id": "stollen",
@@ -9151,7 +9177,10 @@
         "assumptions": [
           "Based on 15/15 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "stollen-bhg"
+      ]
     },
     {
       "id": "apple-streusel-ladder-loaf",
@@ -9300,7 +9329,10 @@
           "Inferred 1.0 for milk (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "apple-streusel-ladder-loaf-bhg"
+      ]
     },
     {
       "id": "fruit-studded-bread-julekage",
@@ -9642,7 +9674,8 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "kuchen-bhg"
     },
     {
       "id": "english-muffins",
@@ -9778,7 +9811,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 48)"
         ]
-      }
+      },
+      "variants": [
+        "english-muffins-bhg"
+      ]
     },
     {
       "id": "pita-bread",
@@ -9901,7 +9937,8 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pita-bread-bhg"
     },
     {
       "id": "soft-pretzels",
@@ -10046,7 +10083,8 @@
           "Inferred 1 for sesame seed, poppy seed, or coarse salt (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pretzels-bhg"
     },
     {
       "id": "dinner-rolls",
@@ -10175,7 +10213,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 50)"
         ]
-      }
+      },
+      "variant_of": "dinner-rolls-bhg"
     },
     {
       "id": "wheat-cottage-cheese-rolls",
@@ -10278,7 +10317,8 @@
           "Inferred 2 for margarine or butter (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "wheat-and-cottage-cheese-rolls"
     },
     {
       "id": "bagels",
@@ -10383,7 +10423,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 52)"
         ]
-      }
+      },
+      "variant_of": "bagels-bhg"
     },
     {
       "id": "brioche",
@@ -10526,7 +10567,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 52)"
         ]
-      }
+      },
+      "variant_of": "brioche-bhg"
     },
     {
       "id": "sweet-rolls",
@@ -10639,7 +10681,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sweet-rolls-bhg"
+      ]
     },
     {
       "id": "croissants",
@@ -10812,7 +10857,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 54)"
         ]
-      }
+      },
+      "variants": [
+        "croissants-bhg"
+      ]
     },
     {
       "id": "hot-cross-buns",
@@ -10941,7 +10989,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for currants or raisins"
         ]
-      }
+      },
+      "variant_of": "hot-cross-buns-bhg"
     },
     {
       "id": "yeast-doughnuts",
@@ -11057,7 +11106,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Inferred 2 for cooking oil (standard quantity)"
         ]
-      }
+      },
+      "variant_of": "yeast-doughnuts-bhg"
     },
     {
       "id": "cinnamon-crisps",
@@ -11205,7 +11255,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 55)"
         ]
-      }
+      },
+      "variant_of": "cinnamon-crisps-bhg"
     },
     {
       "id": "banana-bread-quick",
@@ -11322,7 +11373,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 56)"
         ]
-      }
+      },
+      "variant_of": "banana-bread-bhg"
     },
     {
       "id": "zucchini-bread",
@@ -11460,7 +11512,11 @@
           "Assumed 1 unit for ground nutmeg",
           "Inferred 2 for cooking oil (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "zucchini-bread-mommom",
+        "zucchini-bread-bhg"
+      ]
     },
     {
       "id": "nut-bread",
@@ -11585,7 +11641,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "nut-bread-bhg"
     },
     {
       "id": "pumpkin-bread",
@@ -11742,7 +11799,11 @@
         "assumptions": [
           "Based on 14/14 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pumpkin-bread-mommom",
+        "pumpkin-bread-bhg"
+      ]
     },
     {
       "id": "berry-banana-walnut-bread",
@@ -11877,7 +11938,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "berry-banana-walnut-bread-bhg"
+      ]
     },
     {
       "id": "boston-brown-bread",
@@ -12033,7 +12097,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 58)"
         ]
-      }
+      },
+      "variants": [
+        "boston-brown-bread-bhg"
+      ]
     },
     {
       "id": "coconut-cherry-carrot-bread",
@@ -12165,7 +12232,8 @@
           "Inferred 2 for cooking oil (standard quantity)",
           "Inferred 1.0 for milk (standard quantity)"
         ]
-      }
+      },
+      "variant_of": "coconut-cherry-carrot-bread-bhg"
     },
     {
       "id": "corn-bread",
@@ -12278,7 +12346,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 59)"
         ]
-      }
+      },
+      "variant_of": "corn-bread-bhg"
     },
     {
       "id": "muffins-basic",
@@ -12389,7 +12458,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "muffins-bhg"
+      ]
     },
     {
       "id": "french-breakfast-puffs",
@@ -12532,7 +12604,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 60)"
         ]
-      }
+      },
+      "variants": [
+        "french-breakfast-puffs-bhg"
+      ]
     },
     {
       "id": "refrigerator-bran-muffins",
@@ -12680,7 +12755,10 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "refrigerator-bran-muffins-bhg"
+      ]
     },
     {
       "id": "honey-wheat-muffins",
@@ -12803,7 +12881,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "honey-wheat-muffins-bhg"
+      ]
     },
     {
       "id": "any-fruit-coffee-cake",
@@ -12969,7 +13050,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 62)"
         ]
-      }
+      },
+      "variant_of": "any-fruit-coffee-cake-bhg"
     },
     {
       "id": "buttermilk-coffee-cake",
@@ -13107,7 +13189,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 63)"
         ]
-      }
+      },
+      "variant_of": "buttermilk-coffee-cake-bhg"
     },
     {
       "id": "applesauce-coffee-cake",
@@ -13245,7 +13328,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 63)"
         ]
-      }
+      },
+      "variants": [
+        "applesauce-coffee-cake-bhg"
+      ]
     },
     {
       "id": "peanut-butter-coffee-cake",
@@ -13393,7 +13479,8 @@
         "assumptions": [
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "peanut-butter-coffee-cake-bhg"
     },
     {
       "id": "date-orange-coffee-cake",
@@ -13546,7 +13633,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 64)"
         ]
-      }
+      },
+      "variant_of": "date-orange-coffee-cake-bhg"
     },
     {
       "id": "streusel-coffee-cake",
@@ -13692,7 +13780,8 @@
           "Inferred 2 for cooking oil (standard quantity)",
           "Assumed 1 unit for raisins or semisweet chocolate pieces"
         ]
-      }
+      },
+      "variant_of": "streusel-coffee-cake-bhg"
     },
     {
       "id": "date-nut-ring",
@@ -13826,7 +13915,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 64)"
         ]
-      }
+      },
+      "variant_of": "date-nut-ring-bhg"
     },
     {
       "id": "cocoa-ripple-ring",
@@ -13915,7 +14005,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 65)"
         ]
-      }
+      },
+      "variant_of": "cocoa-ripple-ring-bhg"
     },
     {
       "id": "berry-coffee-cake",
@@ -13996,7 +14087,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 65)"
         ]
-      }
+      },
+      "variant_of": "berry-coffee-cake-bhg"
     },
     {
       "id": "nutty-sticky-rolls",
@@ -14112,7 +14204,8 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "nutty-sticky-rolls-bhg"
     },
     {
       "id": "biscuits",
@@ -14227,7 +14320,11 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 66)"
         ]
-      }
+      },
+      "variants": [
+        "handwritten-biscuits",
+        "biscuits-bhg"
+      ]
     },
     {
       "id": "easy-biscuit-mix",
@@ -14312,7 +14409,8 @@
           "Inferred 1.0 for sugar (standard quantity)",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "easy-biscuit-mix-bhg"
     },
     {
       "id": "pecan-biscuit-spirals",
@@ -14427,7 +14525,8 @@
           "Assumed 1 unit for finely chopped pecans",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pecan-biscuit-spirals-bhg"
     },
     {
       "id": "apple-cheese-biscuits",
@@ -14529,7 +14628,8 @@
           "Inferred 1.0 for shredded cheddar cheese (standard quantity)",
           "Inferred 2 for margarine or butter (standard quantity)"
         ]
-      }
+      },
+      "variant_of": "apple-cheese-biscuits-bhg"
     },
     {
       "id": "irish-soda-bread",
@@ -14643,7 +14743,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "irish-soda-bread-bhg"
+      ]
     },
     {
       "id": "oatmeal-raisin-scones",
@@ -14775,7 +14878,10 @@
           "Inferred 1.0 for milk (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "oatmeal-raisin-scones-bhg"
+      ]
     },
     {
       "id": "cake-doughnuts",
@@ -14923,7 +15029,11 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 68)"
         ]
-      }
+      },
+      "variants": [
+        "cake-doughnuts-bhg",
+        "cake-doughnuts-fbc-jasmine"
+      ]
     },
     {
       "id": "corn-fritters",
@@ -15008,7 +15118,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 69)"
         ]
-      }
+      },
+      "variant_of": "corn-fritters-bhg"
     },
     {
       "id": "hush-puppies",
@@ -15100,7 +15211,8 @@
           "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "hush-puppies-bhg"
     },
     {
       "id": "sopaipillas",
@@ -15180,7 +15292,8 @@
           "Assumed 1 unit for honey",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sopaipillas-bhg"
     },
     {
       "id": "mexican-doughnut-strips",
@@ -15260,7 +15373,8 @@
           "Inferred 1.0 for sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "mexican-doughnut-strips-bhg"
     },
     {
       "id": "popovers",
@@ -15363,7 +15477,10 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "popovers-bhg"
+      ]
     },
     {
       "id": "french-toast",
@@ -15472,7 +15589,8 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 70)"
         ]
-      }
+      },
+      "variant_of": "french-toast-bhg"
     },
     {
       "id": "caramel-nut-pinwheels",
@@ -15553,7 +15671,8 @@
           "Assumed 1 unit for chopped pecans or walnuts",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "caramel-nut-pinwheels-bhg"
     },
     {
       "id": "waffles",
@@ -15666,7 +15785,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "waffles-bhg"
+      ]
     },
     {
       "id": "pancakes",
@@ -15775,7 +15897,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pancakes-bhg"
+      ]
     },
     {
       "id": "crepes",
@@ -15876,7 +16001,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 72)"
         ]
-      }
+      },
+      "variants": [
+        "crepes-bhg"
+      ]
     },
     {
       "id": "puffed-oven-pancake",
@@ -15982,7 +16110,10 @@
           "Inferred 1.0 for powdered sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "puffed-oven-pancake-bhg"
+      ]
     },
     {
       "id": "orange-rye-bread",
@@ -17713,7 +17844,11 @@
           "Inferred 1.0 for milk (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "wheat-cottage-cheese-rolls",
+        "wheat-and-cottage-cheese-rolls-bhg"
+      ]
     },
     {
       "id": "light-rye-bagels",
@@ -19176,7 +19311,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 60)"
         ]
-      }
+      },
+      "variants": [
+        "cranberry-muffins-etw"
+      ]
     },
     {
       "id": "rhubarb-strawberry-coffee-cake",
@@ -19398,7 +19536,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 66)"
         ]
-      }
+      },
+      "variants": [
+        "buttermilk-biscuits-gahb"
+      ]
     },
     {
       "id": "homemade-biscuits-mommom",
@@ -19619,7 +19760,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "white-bread-classic"
     },
     {
       "id": "french-bread-bhg",
@@ -19719,7 +19861,8 @@
           "Assumed 1 unit for cornmeal",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "french-bread-classic"
     },
     {
       "id": "cheese-bread-bhg",
@@ -19817,7 +19960,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cheese-bread-yeast"
     },
     {
       "id": "whole-wheat-bread-bhg",
@@ -20038,7 +20182,10 @@
           "Assumed 1 unit for cornmeal",
           "Based on 8/9 ingredients (89% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "rye-bread"
+      ]
     },
     {
       "id": "dark-rye-bread-bhg",
@@ -20187,7 +20334,10 @@
           "Assumed 1 unit for unsweetened chocolate",
           "Based on 12/14 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "dark-rye-bread"
+      ]
     },
     {
       "id": "sourdough-starter-bhg",
@@ -20278,7 +20428,8 @@
           "Assumed 1 unit for warm water",
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sourdough-starter"
     },
     {
       "id": "sourdough-bread-bhg",
@@ -20383,7 +20534,10 @@
           "Assumed 1 unit for baking soda",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sourdough-bread"
+      ]
     },
     {
       "id": "cherry-sourdough-coffee-cake-bhg",
@@ -20525,7 +20679,10 @@
           "Inferred 2 for margarine or butter (standard quantity)",
           "Assumed 1 unit for Sourdough Starter"
         ]
-      }
+      },
+      "variants": [
+        "cherry-sourdough-coffee-cake"
+      ]
     },
     {
       "id": "bacon-sourdough-muffins-bhg",
@@ -20652,7 +20809,10 @@
           "Assumed 1 unit for Sourdough Starter",
           "Inferred 2 for cooking oil (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "bacon-sourdough-muffins"
+      ]
     },
     {
       "id": "dill-batter-bread-bhg",
@@ -20771,7 +20931,10 @@
           "Assumed 1 unit for toasted wheat germ",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "dill-batter-bread"
+      ]
     },
     {
       "id": "egg-bread-bhg",
@@ -20879,7 +21042,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "egg-bread"
+      ]
     },
     {
       "id": "cornmeal-bubble-ring-bhg",
@@ -20993,7 +21159,10 @@
           "Assumed 1 unit for yellow cornmeal",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cornmeal-bubble-ring"
+      ]
     },
     {
       "id": "chocolate-swirl-bread-bhg",
@@ -21140,7 +21309,10 @@
           "Inferred 1.0 for evaporated milk (standard quantity)",
           "Assumed 1 unit for ground cinnamon"
         ]
-      }
+      },
+      "variants": [
+        "chocolate-swirl-bread"
+      ]
     },
     {
       "id": "stollen-bhg",
@@ -21297,7 +21469,8 @@
           "Assumed 1 unit for diced mixed candied fruits and peels",
           "Assumed 1 unit for chopped blanched almonds"
         ]
-      }
+      },
+      "variant_of": "stollen"
     },
     {
       "id": "apple-streusel-ladder-loaf-bhg",
@@ -21433,7 +21606,8 @@
           "Assumed 1 unit for slivered almonds",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "apple-streusel-ladder-loaf"
     },
     {
       "id": "fruit-studded-bread-bhg",
@@ -21742,7 +21916,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "kuchen"
+      ]
     },
     {
       "id": "english-muffins-bhg",
@@ -21849,7 +22026,8 @@
           "Assumed 1 unit for cornmeal",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "english-muffins"
     },
     {
       "id": "pita-bread-bhg",
@@ -21952,7 +22130,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pita-bread"
+      ]
     },
     {
       "id": "pretzels-bhg",
@@ -22099,7 +22280,11 @@
           "Inferred 1 for sesame seed, poppy seed, or coarse salt (standard quantity)",
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "homemade-pretzels",
+        "soft-pretzels"
+      ]
     },
     {
       "id": "dinner-rolls-bhg",
@@ -22212,7 +22397,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "dinner-rolls"
+      ]
     },
     {
       "id": "wheat-and-cottage-cheese-rolls-bhg",
@@ -22321,7 +22509,8 @@
           "Inferred 2 for margarine or butter (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "wheat-and-cottage-cheese-rolls"
     },
     {
       "id": "bagels-bhg",
@@ -22424,7 +22613,10 @@
           "Inferred 1.0 for sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "bagels"
+      ]
     },
     {
       "id": "brioche-bhg",
@@ -22551,7 +22743,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Inferred 1.0 for milk (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "brioche"
+      ]
     },
     {
       "id": "sweet-rolls-bhg",
@@ -22662,7 +22857,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sweet-rolls"
     },
     {
       "id": "croissants-bhg",
@@ -22793,7 +22989,8 @@
           "Inferred 1 for salt (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "croissants"
     },
     {
       "id": "hot-cross-buns-bhg",
@@ -22924,7 +23121,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Assumed 1 unit for currants or raisins"
         ]
-      }
+      },
+      "variants": [
+        "hot-cross-buns"
+      ]
     },
     {
       "id": "yeast-doughnuts-bhg",
@@ -23042,7 +23242,10 @@
           "Inferred 1 for salt (standard quantity)",
           "Inferred 2 for cooking oil (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "yeast-doughnuts"
+      ]
     },
     {
       "id": "cinnamon-crisps-bhg",
@@ -23183,7 +23386,10 @@
           "Inferred 1.0 for packed brown sugar (standard quantity)",
           "Inferred 2 for margarine or butter (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "cinnamon-crisps"
+      ]
     },
     {
       "id": "banana-bread-bhg",
@@ -23309,7 +23515,10 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "banana-bread-quick"
+      ]
     },
     {
       "id": "zucchini-bread-bhg",
@@ -23441,7 +23650,8 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "zucchini-bread"
     },
     {
       "id": "nut-bread-bhg",
@@ -23562,7 +23772,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "nut-bread"
+      ]
     },
     {
       "id": "pumpkin-bread-bhg",
@@ -23709,7 +23922,8 @@
         "assumptions": [
           "Based on 14/14 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pumpkin-bread"
     },
     {
       "id": "berry-banana-walnut-bread-bhg",
@@ -23840,7 +24054,8 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "berry-banana-walnut-bread"
     },
     {
       "id": "boston-brown-bread-bhg",
@@ -23976,7 +24191,8 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "boston-brown-bread"
     },
     {
       "id": "coconut-cherry-carrot-bread-bhg",
@@ -24103,7 +24319,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "coconut-cherry-carrot-bread"
+      ]
     },
     {
       "id": "spoon-bread-bhg",
@@ -24212,7 +24431,10 @@
           "Inferred 2 for margarine or butter (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "spoon-bread"
+      ]
     },
     {
       "id": "corn-bread-bhg",
@@ -24321,7 +24543,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "corn-bread"
+      ]
     },
     {
       "id": "muffins-bhg",
@@ -24421,7 +24646,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "muffins-basic"
     },
     {
       "id": "french-breakfast-puffs-bhg",
@@ -24544,7 +24770,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "french-breakfast-puffs"
     },
     {
       "id": "refrigerator-bran-muffins-bhg",
@@ -24674,7 +24901,8 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "refrigerator-bran-muffins"
     },
     {
       "id": "honey-wheat-muffins-bhg",
@@ -24785,7 +25013,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "honey-wheat-muffins"
     },
     {
       "id": "any-fruit-coffee-cake-bhg",
@@ -24916,7 +25145,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "any-fruit-coffee-cake"
+      ]
     },
     {
       "id": "buttermilk-coffee-cake-bhg",
@@ -25041,7 +25273,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "buttermilk-coffee-cake"
+      ]
     },
     {
       "id": "applesauce-coffee-cake-bhg",
@@ -25167,7 +25402,8 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "applesauce-coffee-cake"
     },
     {
       "id": "peanut-butter-coffee-cake-bhg",
@@ -25311,7 +25547,10 @@
         "assumptions": [
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "peanut-butter-coffee-cake"
+      ]
     },
     {
       "id": "date-orange-coffee-cake-bhg",
@@ -25452,7 +25691,10 @@
         "assumptions": [
           "Based on 14/14 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "date-orange-coffee-cake"
+      ]
     },
     {
       "id": "streusel-coffee-cake-bhg",
@@ -25588,7 +25830,10 @@
         "assumptions": [
           "Based on 13/13 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "streusel-coffee-cake"
+      ]
     },
     {
       "id": "date-nut-ring-bhg",
@@ -25719,7 +25964,10 @@
         "assumptions": [
           "Based on 11/11 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "date-nut-ring"
+      ]
     },
     {
       "id": "cocoa-ripple-ring-bhg",
@@ -25836,7 +26084,10 @@
           "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "cocoa-ripple-ring"
+      ]
     },
     {
       "id": "berry-coffee-cake-bhg",
@@ -25943,7 +26194,10 @@
           "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "berry-coffee-cake"
+      ]
     },
     {
       "id": "nutty-sticky-rolls-bhg",
@@ -26087,7 +26341,10 @@
         "assumptions": [
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "nutty-sticky-rolls"
+      ]
     },
     {
       "id": "biscuits-bhg",
@@ -26201,7 +26458,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "biscuits"
     },
     {
       "id": "easy-biscuit-mix-bhg",
@@ -26288,7 +26546,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "easy-biscuit-mix"
+      ]
     },
     {
       "id": "pecan-biscuit-spirals-bhg",
@@ -26412,7 +26673,10 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pecan-biscuit-spirals"
+      ]
     },
     {
       "id": "apple-cheese-biscuits-bhg",
@@ -26525,7 +26789,10 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "apple-cheese-biscuits"
+      ]
     },
     {
       "id": "irish-soda-bread-bhg",
@@ -26635,7 +26902,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "irish-soda-bread"
     },
     {
       "id": "oatmeal-raisin-scones-bhg",
@@ -26766,7 +27034,8 @@
           "Inferred 1.0 for milk (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "oatmeal-raisin-scones"
     },
     {
       "id": "cake-doughnuts-bhg",
@@ -26905,7 +27174,8 @@
           "Inferred 1.0 for Chocolate Glaze or sugar (optional) (standard quantity)",
           "Based on 12/12 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cake-doughnuts"
     },
     {
       "id": "corn-fritters-bhg",
@@ -27007,7 +27277,12 @@
           "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "corn-fritters-mommom",
+        "corn-fritters",
+        "corn-fritters-fbc-jasmine"
+      ]
     },
     {
       "id": "hush-puppies-bhg",
@@ -27117,7 +27392,11 @@
           "Inferred 2 for shortening or cooking oil for deep-fat frying (standard quantity)",
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "hush-puppies",
+        "foxfire-hush-puppies"
+      ]
     },
     {
       "id": "sopaipillas-bhg",
@@ -27221,7 +27500,10 @@
           "Assumed 1 unit for honey",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "sopaipillas"
+      ]
     },
     {
       "id": "mexican-doughnut-strips-bhg",
@@ -27323,7 +27605,10 @@
           "Inferred 1.0 for sugar (standard quantity)",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "mexican-doughnut-strips"
+      ]
     },
     {
       "id": "popovers-bhg",
@@ -27426,7 +27711,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "popovers"
     },
     {
       "id": "french-toast-bhg",
@@ -27524,7 +27810,10 @@
           "Inferred 2 for margarine, butter, or cooking oil (standard quantity)",
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "french-toast"
+      ]
     },
     {
       "id": "caramel-nut-pinwheels-bhg",
@@ -27615,7 +27904,10 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "caramel-nut-pinwheels"
+      ]
     },
     {
       "id": "waffles-bhg",
@@ -27717,7 +28009,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "waffles"
     },
     {
       "id": "pancakes-bhg",
@@ -27814,7 +28107,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "pancakes"
     },
     {
       "id": "crepes-bhg",
@@ -27902,7 +28196,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "crepes"
     },
     {
       "id": "puffed-oven-pancake-bhg",
@@ -28006,7 +28301,8 @@
           "Inferred 1.0 for powdered sugar (standard quantity)",
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "puffed-oven-pancake"
     },
     {
       "id": "southwestern-corn-bread-gcb",
@@ -29170,7 +29466,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "buttermilk-biscuits"
     },
     {
       "id": "butter-crescents-gahb",
@@ -29637,7 +29934,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "broccoli-cheddar-rolls-fbc"
     },
     {
       "id": "bacon-pepper-bread-fbc-jasmine",
@@ -30165,7 +30463,8 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
-      ]
+      ],
+      "variant_of": "hush-puppies-bhg"
     },
     {
       "id": "foxfire-light-bread",
@@ -32183,6 +32482,9 @@
       },
       "image_refs": [
         "publicism.info-foxfire-wild-plants"
+      ],
+      "variants": [
+        "foxfire-cattail-pollen-flapjacks"
       ]
     },
     {
@@ -32387,7 +32689,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "cranberry-muffins"
     },
     {
       "id": "poplar-bark-bread-etw",
@@ -32545,7 +32848,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-cattail-flapjacks"
     },
     {
       "id": "bear-fat-biscuits-hf",
