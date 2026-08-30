@@ -3,9 +3,9 @@
     "title": "Baker-Hudson Family Recipes",
     "description": "A family collection of treasured recipes from Grandma Baker, MomMom Baker, and Granny Hudson - preserved with love",
     "created": "2026-01-05",
-    "last_updated": "2026-01-17",
+    "last_updated": "2026-01-23",
     "version": "3.1.0",
-    "total_recipes": 2553,
+    "total_recipes": 2642,
     "sharded": true,
     "shard_strategy": "by_category",
     "shard_count": 36
@@ -24,12 +24,12 @@
     {
       "category": "beverages",
       "file": "recipes-beverages.json",
-      "count": 122
+      "count": 123
     },
     {
       "category": "breads",
       "file": "recipes-breads.json",
-      "count": 280
+      "count": 281
     },
     {
       "category": "breakfast",
@@ -44,7 +44,7 @@
     {
       "category": "candy",
       "file": "recipes-candy.json",
-      "count": 46
+      "count": 45
     },
     {
       "category": "canning",
@@ -74,7 +74,7 @@
     {
       "category": "desserts",
       "file": "recipes-desserts.json",
-      "count": 454
+      "count": 463
     },
     {
       "category": "eggs",
@@ -104,7 +104,7 @@
     {
       "category": "main-dishes",
       "file": "recipes-main-dishes.json",
-      "count": 265
+      "count": 273
     },
     {
       "category": "mains",
@@ -124,12 +124,12 @@
     {
       "category": "preserves",
       "file": "recipes-preserves.json",
-      "count": 86
+      "count": 89
     },
     {
       "category": "reference",
       "file": "recipes-reference.json",
-      "count": 57
+      "count": 109
     },
     {
       "category": "remedies",
@@ -139,7 +139,7 @@
     {
       "category": "salads",
       "file": "recipes-salads.json",
-      "count": 75
+      "count": 82
     },
     {
       "category": "sandwiches",
@@ -149,7 +149,7 @@
     {
       "category": "sauces",
       "file": "recipes-sauces.json",
-      "count": 46
+      "count": 47
     },
     {
       "category": "shellfish",
@@ -174,7 +174,7 @@
     {
       "category": "soups",
       "file": "recipes-soups.json",
-      "count": 61
+      "count": 69
     },
     {
       "category": "techniques",
@@ -9634,24 +9634,6 @@
       "canonical_id": null
     },
     {
-      "id": "whole-wheat-bread",
-      "title": "Whole Wheat Bread",
-      "category": "breads",
-      "tags": [
-        "bread",
-        "yeast bread",
-        "whole wheat",
-        "healthy"
-      ],
-      "collection": "mommom",
-      "description": "Fiber-filled bread with whole grains",
-      "servings_yield": "2 loaves (32 servings)",
-      "total_time": "40 to 45 minutes",
-      "attribution": "",
-      "variant_of": null,
-      "canonical_id": null
-    },
-    {
       "id": "rye-bread",
       "title": "Rye Bread",
       "category": "breads",
@@ -15711,7 +15693,8 @@
         "no-bake",
         "chocolate",
         "butterscotch",
-        "family recipe"
+        "family recipe",
+        "candy"
       ],
       "collection": "mommom",
       "description": "",
@@ -28607,24 +28590,6 @@
       "servings_yield": "Makes 4 servings",
       "total_time": "",
       "attribution": "Better Homes and Gardens New Cook Book",
-      "variant_of": null,
-      "canonical_id": null
-    },
-    {
-      "id": "haystacks-candy",
-      "title": "Haystacks",
-      "category": "candy",
-      "tags": [
-        "candy",
-        "no-bake",
-        "chocolate",
-        "butterscotch"
-      ],
-      "collection": "mommom",
-      "description": "",
-      "servings_yield": "",
-      "total_time": "",
-      "attribution": "Carol Willison",
       "variant_of": null,
       "canonical_id": null
     },
@@ -46947,6 +46912,1687 @@
       "servings_yield": "1 pie",
       "total_time": "30-35 minutes",
       "attribution": "Foxfire 4 - Mrs. Parker",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "direct-grilling-meat-guide-bhg",
+      "title": "Direct-Grilling Meat Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "grilling",
+        "meat",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for direct-grilling various cuts of beef, veal, lamb, pork, and miscellaneous meats ",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broiling-meat-guide-bhg",
+      "title": "Broiling Meat Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "broiling",
+        "meat",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for broiling various cuts of beef, veal, lamb, pork, and miscellaneous meats with ti",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "micro-cooking-meat-cubes-guide-bhg",
+      "title": "Micro-Cooking Meat Cubes, Bacon, and Ham Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "microwave",
+        "meat",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for microwave cooking beef, pork, and lamb cubes, bacon, and fully cooked ham with p",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "micro-cooking-ground-meat-guide-bhg",
+      "title": "Micro-Cooking Meatballs, Patties, and Sausages Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "microwave",
+        "meat",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for microwave cooking meatballs, meat ring, patties, ground meat, and sausages with ",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "roasting-indirect-grilling-meat-guide-bhg",
+      "title": "Roasting and Indirect-Grilling Meat Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "roasting",
+        "grilling",
+        "meat",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for roasting and indirect-grilling beef, lamb, pork, veal, and ham with weights, don",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "defrosting-poultry-microwave-guide-bhg",
+      "title": "Defrosting Poultry in the Microwave Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "microwave",
+        "poultry",
+        "defrosting"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for microwave defrosting various poultry types including chicken, turkey, duckling, ",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "broiling-grilling-poultry-guide-bhg",
+      "title": "Broiling and Direct-Grilling Poultry Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "broiling",
+        "grilling",
+        "poultry",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for broiling and direct-grilling chicken, turkey, and Cornish game hen with timing a",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "roasting-indirect-grilling-poultry-guide-bhg",
+      "title": "Roasting and Indirect-Grilling Poultry Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "roasting",
+        "grilling",
+        "poultry",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for roasting and indirect-grilling capon, chicken, Cornish game hen, duckling, goose",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cooking-fresh-vegetables-guide-bhg",
+      "title": "Cooking Fresh Vegetables Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "vegetables",
+        "cooking-times",
+        "microwave"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for preparing and cooking fresh vegetables via range-top, oven, and microwave method",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "food-storage-times-guide-bhg",
+      "title": "Maximum Food-Storage Times Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "food-safety",
+        "storage",
+        "freezing",
+        "refrigeration"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for refrigerator and freezer storage times for meats, poultry, fish, eggs, cheese, a",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cooking-techniques-guide-bhg",
+      "title": "Basic Cooking Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "techniques",
+        "basics"
+      ],
+      "collection": "mommom",
+      "description": "Reference guide explaining basic cooking techniques: simmering, boiling, poaching, steaming, stir-fr",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cooking-rice-grains-guide-bhg",
+      "title": "Cooking Rice and Grains Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "rice",
+        "grains",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for cooking various rice and grain types including oats, brown rice, wild rice, rye ",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "panbroiling-panfrying-meat-guide-bhg",
+      "title": "Panbroiling and Panfrying Meat Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "panfrying",
+        "panbroiling",
+        "meat",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for panbroiling and panfrying various cuts of beef, veal, lamb, pork, bacon, ham, an",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "shopping-tips-guide-bhg",
+      "title": "Shopping Tips Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "shopping",
+        "tips",
+        "budget"
+      ],
+      "collection": "mommom",
+      "description": "Guide to efficient grocery shopping including making lists, reading labels, timesaving strategies, a",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "meal-planning-guide-bhg",
+      "title": "Meal Planning Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "meal-planning",
+        "tips"
+      ],
+      "collection": "mommom",
+      "description": "Guide to meal planning including seven steps to nutritious meals, meals that sparkle, solving the ti",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "egg-techniques-guide-bhg",
+      "title": "Egg Handling and Whipping Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "techniques",
+        "eggs",
+        "baking"
+      ],
+      "collection": "mommom",
+      "description": "Techniques for separating eggs, beating eggs (slightly, to soft peaks, to stiff peaks), beating yolk",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cherry-apple-salad-mold-bhg",
+      "title": "Cherry-Apple Salad Mold",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "gelatin",
+        "mold",
+        "cherries",
+        "side-dish"
+      ],
+      "collection": "mommom",
+      "description": "A gelatin salad mold with cherries, apples, celery, and walnuts in cherry gelatin.",
+      "servings_yield": "4 to 5 side-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "creamy-fruit-salad-bhg",
+      "title": "Creamy Fruit Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "gelatin",
+        "fruit",
+        "creamy",
+        "side-dish"
+      ],
+      "collection": "mommom",
+      "description": "A creamy gelatin salad with mandarin oranges, banana, and walnuts in a sour cream base.",
+      "servings_yield": "8 side-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "berry-salad-bhg",
+      "title": "Berry Salad",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "gelatin",
+        "berries",
+        "side-dish"
+      ],
+      "collection": "mommom",
+      "description": "A gelatin salad with strawberries and raspberries in strawberry or raspberry-flavored gelatin.",
+      "servings_yield": "8 side-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "beef-bourguignonne-bhg",
+      "title": "Beef Bourguignonne",
+      "category": "main-dishes",
+      "tags": [
+        "stew",
+        "beef",
+        "french",
+        "wine",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "A classic French stew flavored with burgundy wine, mushrooms, and pearl onions.",
+      "servings_yield": "6 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "vegetable-beef-soup-bhg",
+      "title": "Vegetable-Beef Soup",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "beef",
+        "vegetables",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "A hearty beef soup with vegetables including corn, tomatoes, potatoes, and green beans.",
+      "servings_yield": "6 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "organizing-kitchen-guide-bhg",
+      "title": "Organizing Your Kitchen Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "organization",
+        "kitchen",
+        "tips"
+      ],
+      "collection": "mommom",
+      "description": "Guide to kitchen organization including stockpiling staples, which form to buy (fresh/canned/frozen)",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "basics-good-eating-guide-bhg",
+      "title": "The Basics of Good Eating Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "health"
+      ],
+      "collection": "mommom",
+      "description": "Nutrition guide covering the role of nutrients including protein, carbohydrates, fats, vitamins (A, ",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "nutrition-analysis-guide-bhg",
+      "title": "Nutrition Analysis Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "health"
+      ],
+      "collection": "mommom",
+      "description": "Guide explaining how to read and use the nutrition analysis charts in the cookbook, including inform",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "basic-food-groups-guide-bhg",
+      "title": "The Basic Food Groups Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "food-groups"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart showing the basic food groups (Vegetables & Fruits, Breads & Cereals, Milk & Cheese,",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "calorie-tally-guide-bhg",
+      "title": "Calorie Tally Reference",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "calories"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive calorie chart for 250+ common foods organized alphabetically, including vegetables, fr",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "seasoning-guide-bhg",
+      "title": "Seasoning Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "seasonings",
+        "herbs",
+        "spices"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive guide matching herbs and spices with foods. Lists which foods pair well with each seas",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "food-preparation-techniques-guide-bhg",
+      "title": "Food Preparation Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "techniques",
+        "preparation"
+      ],
+      "collection": "mommom",
+      "description": "Step-by-step techniques for melting chocolate, sifting powdered sugar, sectioning citrus, juicing ci",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "grilling-techniques-guide-bhg",
+      "title": "Grilling Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "grilling",
+        "techniques",
+        "outdoor-cooking"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive grilling guide covering types of grills, grilling options, preparing the firebox, addi",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "crockery-cooker-techniques-guide-bhg",
+      "title": "Crockery-Cooker Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "slow-cooker",
+        "crockery",
+        "techniques"
+      ],
+      "collection": "mommom",
+      "description": "Guide to using electric crockery cookers (slow cookers) including types of cookers and tips for effi",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cooking-terms-glossary-bhg",
+      "title": "Cooking Terms Glossary",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "glossary",
+        "terms",
+        "definitions"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive glossary of cooking terms from al dente to whip, including baste, blanch, braise, cris",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "high-altitude-cooking-guide-bhg",
+      "title": "Cooking at High Altitudes Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "high-altitude",
+        "baking",
+        "adjustments"
+      ],
+      "collection": "mommom",
+      "description": "Guide to high-altitude cooking adjustments for baking cakes, cookies, yeast doughs, and range-top co",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cutting-techniques-guide-bhg",
+      "title": "Cutting Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "techniques",
+        "cutting",
+        "knife-skills"
+      ],
+      "collection": "mommom",
+      "description": "Illustrated guide to cutting techniques: cubing, dicing, chopping, finely chopping, slicing, bias-sl",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "preparation-techniques-guide-bhg",
+      "title": "Preparation Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "techniques",
+        "preparation"
+      ],
+      "collection": "mommom",
+      "description": "Illustrated guide covering: using fresh herbs, peeling tomatoes, toasting nuts/seeds/coconut, dissol",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "microwave-techniques-guide-bhg",
+      "title": "Microwave Techniques Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "microwave",
+        "techniques"
+      ],
+      "collection": "mommom",
+      "description": "Guide to microwave cooking techniques: covering, venting, stirring, rearranging, turning the dish, t",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "microwave-basics-guide-bhg",
+      "title": "Microwave Basics Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "microwave",
+        "basics"
+      ],
+      "collection": "mommom",
+      "description": "Guide to microwave cooking basics including cookware selection, variable power settings, hot spots, ",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "common-ingredients-guide-bhg",
+      "title": "Common Ingredients Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "ingredients",
+        "substitutions"
+      ],
+      "collection": "mommom",
+      "description": "Reference guide explaining common recipe ingredients including types of flour, sugar varieties, cook",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "equipment-tips-guide-bhg",
+      "title": "Equipment Tips Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "equipment",
+        "tips",
+        "substitutions"
+      ],
+      "collection": "mommom",
+      "description": "Guide to using kitchen equipment including blender, food processor, kitchen thermometers (meat and c",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "micro-cooking-poultry-guide-bhg",
+      "title": "Micro-Cooking Poultry Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "microwave",
+        "poultry",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for microwave cooking chicken, Cornish game hen, turkey, and other poultry with amou",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "chili-bhg",
+      "title": "Chili",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "chili",
+        "beef",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "Thick, hearty, and packed with flavor. A classic chili with ground beef, tomatoes, and kidney beans.",
+      "servings_yield": "4 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "barley-beef-soup-bhg",
+      "title": "Barley-Beef Soup",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "beef",
+        "barley",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "Hearty beef and barley soup with vegetables.",
+      "servings_yield": "4 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "mulligatawny-bhg",
+      "title": "Mulligatawny",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "chicken",
+        "curry",
+        "indian",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "A curried chicken soup with vegetables, apple, and rice. Indian-inspired comfort food.",
+      "servings_yield": "3 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pork-kebabs-bhg",
+      "title": "Pork Kebabs",
+      "category": "main-dishes",
+      "tags": [
+        "pork",
+        "kebabs",
+        "grilling",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "Partially freeze pork for easier slicing. Grilled pork with vegetables on skewers.",
+      "servings_yield": "4 servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pork-chow-mein-bhg",
+      "title": "Pork Chow Mein",
+      "category": "main-dishes",
+      "tags": [
+        "pork",
+        "chinese",
+        "stir-fry",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "Classic Chinese-American stir-fry served over noodles.",
+      "servings_yield": "4 servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sausage-identification-guide-bhg",
+      "title": "Sausage Identification Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "sausage",
+        "meat",
+        "identification"
+      ],
+      "collection": "mommom",
+      "description": "Visual guide to sausage types: frankfurters, knockwurst, smoked sausage, bratwurst, Italian sausage,",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "pasta-identification-guide-bhg",
+      "title": "Pasta Identification Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "pasta",
+        "identification"
+      ],
+      "collection": "mommom",
+      "description": "Visual guide to 40+ pasta shapes including: acini di pepe, alphabets, bean threads, bow ties, capell",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "rice-grains-identification-guide-bhg",
+      "title": "Rice and Grains Identification Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "rice",
+        "grains",
+        "identification"
+      ],
+      "collection": "mommom",
+      "description": "Visual guide to rice and grains: wheat berries, rice (wild, brown, long grain, medium grain, quick c",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cooking-pasta-guide-bhg",
+      "title": "Cooking Pasta Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "pasta",
+        "cooking-times"
+      ],
+      "collection": "mommom",
+      "description": "Reference chart for cooking times of homemade and packaged pasta. Includes instructions for cooking ",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "poultry-handling-guide-bhg",
+      "title": "Poultry Handling and Cutting Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "poultry",
+        "food-safety",
+        "techniques"
+      ],
+      "collection": "mommom",
+      "description": "Guide to safe poultry handling, storage, thawing, and step-by-step instructions for cutting up a who",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cheesy-chicken-kiev-bhg",
+      "title": "Cheesy Chicken Kiev",
+      "category": "main-dishes",
+      "tags": [
+        "chicken",
+        "cheese",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "A variation of Chicken Kiev with cheese instead of butter filling.",
+      "servings_yield": "4 servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "salads-nutrition-analysis-bhg",
+      "title": "Salads Nutrition Analysis Chart",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "salads"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive nutrition analysis for 100+ salad recipes showing per-serving calories, protein, carbo",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "greens-identification-guide-bhg",
+      "title": "Salad Greens Identification Guide",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "greens",
+        "salads",
+        "identification"
+      ],
+      "collection": "mommom",
+      "description": "Visual guide to 24 salad greens: arugula, beet greens, Belgian endive, bok choy, Boston lettuce, Chi",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "beef-asparagus-salad-bhg",
+      "title": "Beef-Asparagus Salads",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "beef",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "A great way to use leftover beef. Main-dish salad with beef, asparagus, tomatoes, and mushrooms.",
+      "servings_yield": "4 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "marinated-steak-salads-bhg",
+      "title": "Marinated Steak Salads",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "beef",
+        "steak",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "The steak marinates in a tangy herb-flavored dressing after you cook it.",
+      "servings_yield": "4 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cranberry-relish-ring-bhg",
+      "title": "Cranberry Relish Ring",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "gelatin",
+        "cranberry",
+        "holiday",
+        "side-dish"
+      ],
+      "collection": "mommom",
+      "description": "A festive cranberry gelatin mold with pineapple and orange.",
+      "servings_yield": "12 side-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "frozen-black-cherry-cups-bhg",
+      "title": "Frozen Black Cherry Cups",
+      "category": "salads",
+      "tags": [
+        "salad",
+        "frozen",
+        "fruit",
+        "cherries",
+        "side-dish"
+      ],
+      "collection": "mommom",
+      "description": "Frozen fruit salad cups with pineapple, cherries, banana, and pecans.",
+      "servings_yield": "12 side-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "sauces-relishes-nutrition-analysis-bhg",
+      "title": "Sauces and Relishes Nutrition Analysis Chart",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "sauces",
+        "relishes"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive nutrition analysis for 60+ sauce and relish recipes showing per-serving calories, prot",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "soups-stews-nutrition-analysis-bhg",
+      "title": "Soups and Stews Nutrition Analysis Chart",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "soups",
+        "stews"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive nutrition analysis for 60+ soup and stew recipes showing per-serving calories, protein",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "herbed-lamb-stew-bhg",
+      "title": "Herbed Lamb Stew",
+      "category": "soups",
+      "tags": [
+        "stew",
+        "lamb",
+        "pork",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "A hearty lamb or pork stew with vegetables and sour cream.",
+      "servings_yield": "4 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "vegetables-nutrition-analysis-bhg",
+      "title": "Vegetables Nutrition Analysis Chart",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "nutrition",
+        "vegetables"
+      ],
+      "collection": "mommom",
+      "description": "Comprehensive nutrition analysis for 100+ vegetable recipes showing per-serving calories, protein, c",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "cioppino-bhg",
+      "title": "Cioppino",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "seafood",
+        "fish",
+        "italian",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "California-born, this stew combines three kinds of fish and seafood in a tomato broth.",
+      "servings_yield": "5 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "new-england-clam-chowder-bhg",
+      "title": "New England Clam Chowder",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "chowder",
+        "clams",
+        "seafood",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "Serve this creamy chowder as a main dish or a side dish.",
+      "servings_yield": "4 main-dish servings or 6 to 8 side-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "ham-and-bean-soup-bhg",
+      "title": "Ham and Bean Soup",
+      "category": "soups",
+      "tags": [
+        "soup",
+        "ham",
+        "beans",
+        "main-dish"
+      ],
+      "collection": "mommom",
+      "description": "Classic ham and navy bean soup.",
+      "servings_yield": "4 main-dish servings",
+      "total_time": "",
+      "attribution": "",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-selecting-meat-guide",
+      "title": "Directions for Selecting Meat (1796)",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "guide",
+        "historical",
+        "meat-selection",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical guide to selecting quality beef, mutton, lamb, veal, and pork from America's first cookbo",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-making-bacon",
+      "title": "To Make the Best Bacon (1796)",
+      "category": "reference",
+      "tags": [
+        "preservation",
+        "bacon",
+        "curing",
+        "smoking",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical method for curing bacon from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-selecting-fish-guide",
+      "title": "Directions for Selecting Fish (1796)",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "guide",
+        "historical",
+        "fish-selection",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical guide to selecting quality fish from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-selecting-poultry-guide",
+      "title": "Directions for Selecting Poultry (1796)",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "guide",
+        "historical",
+        "poultry-selection",
+        "game-birds",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical guide to selecting quality poultry and game birds from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-selecting-vegetables-guide",
+      "title": "Directions for Selecting Vegetables (1796)",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "guide",
+        "historical",
+        "vegetable-selection",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical guide to selecting quality vegetables from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-herbs-guide",
+      "title": "Herbs Useful in Cookery (1796)",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "guide",
+        "historical",
+        "herbs",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical guide to culinary herbs and their uses from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-roast-beef",
+      "title": "To Roast Beef (1796)",
+      "category": "main-dishes",
+      "tags": [
+        "main-dish",
+        "beef",
+        "roast",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical method for roasting beef from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-roast-mutton",
+      "title": "To Roast Mutton (1796)",
+      "category": "main-dishes",
+      "tags": [
+        "main-dish",
+        "mutton",
+        "lamb",
+        "roast",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historical method for roasting mutton from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-stuffed-turkey",
+      "title": "To Stuff and Roast a Turkey (1796)",
+      "category": "main-dishes",
+      "tags": [
+        "main-dish",
+        "turkey",
+        "poultry",
+        "stuffing",
+        "roast",
+        "historical",
+        "1796",
+        "holiday"
+      ],
+      "collection": "mommom",
+      "description": "Historical recipe for stuffed roast turkey from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-johny-cake",
+      "title": "Johny Cake, or Hoe Cake (1796)",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "cornmeal",
+        "johnny-cake",
+        "historical",
+        "1796",
+        "american-classic"
+      ],
+      "collection": "mommom",
+      "description": "America's original Johnny Cake recipe from the first American cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-indian-slapjack",
+      "title": "Indian Slapjack (1796)",
+      "category": "breads",
+      "tags": [
+        "bread",
+        "pancake",
+        "cornmeal",
+        "breakfast",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Early American pancake recipe from the first American cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-pumpkin-pudding",
+      "title": "Pompkin Pudding No. 1 (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "pudding",
+        "pie",
+        "pumpkin",
+        "historical",
+        "1796",
+        "american-classic",
+        "holiday"
+      ],
+      "collection": "mommom",
+      "description": "One of the earliest published pumpkin pie recipes from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-pumpkin-pudding-2",
+      "title": "Pompkin Pudding No. 2 (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "pudding",
+        "pie",
+        "pumpkin",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "A simpler pumpkin pie variation from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-apple-pie",
+      "title": "Apple Pie (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "pie",
+        "apple",
+        "fruit",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Traditional apple pie recipe from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-indian-pudding",
+      "title": "A Nice Indian Pudding No. 1 (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "pudding",
+        "cornmeal",
+        "historical",
+        "1796",
+        "american-classic"
+      ],
+      "collection": "mommom",
+      "description": "Traditional Indian pudding (cornmeal pudding) from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-rice-pudding",
+      "title": "A Rice Pudding No. 1 (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "pudding",
+        "rice",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Traditional rice pudding from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-cookies",
+      "title": "Cookies (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cookies",
+        "baking",
+        "historical",
+        "1796",
+        "american-classic"
+      ],
+      "collection": "mommom",
+      "description": "One of the earliest published cookie recipes in America, from the first American cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-christmas-cookies",
+      "title": "Christmas Cookey (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cookies",
+        "christmas",
+        "holiday",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historic Christmas cookie recipe from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-gingerbread",
+      "title": "Molasses Gingerbread (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "gingerbread",
+        "molasses",
+        "spiced",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Traditional molasses gingerbread from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-pound-cake",
+      "title": "Pound Cake (1796)",
+      "category": "desserts",
+      "tags": [
+        "dessert",
+        "cake",
+        "pound-cake",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Traditional pound cake from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-spruce-beer",
+      "title": "For Brewing Spruce Beer (1796)",
+      "category": "beverages",
+      "tags": [
+        "beverage",
+        "beer",
+        "spruce",
+        "brewing",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historic spruce beer recipe from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-emptins",
+      "title": "Emptins (Homemade Yeast) (1796)",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "yeast",
+        "baking",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historic recipe for making emptins (homemade yeast) from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-glossary",
+      "title": "Glossary of 18th Century Cooking Terms (1796)",
+      "category": "reference",
+      "tags": [
+        "reference",
+        "glossary",
+        "historical",
+        "terminology",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Glossary of historical cooking terms from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-preserved-quinces",
+      "title": "For Preserving Quinces (1796)",
+      "category": "preserves",
+      "tags": [
+        "preserves",
+        "quince",
+        "fruit",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historic quince preserving recipe from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-pickled-cucumbers",
+      "title": "To Pickle Cucumbers (1796)",
+      "category": "preserves",
+      "tags": [
+        "preserves",
+        "pickles",
+        "cucumber",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historic cucumber pickle recipe from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "american-cookery-1796-currant-jelly",
+      "title": "Currant Jelly (1796)",
+      "category": "preserves",
+      "tags": [
+        "preserves",
+        "jelly",
+        "currant",
+        "fruit",
+        "historical",
+        "1796"
+      ],
+      "collection": "mommom",
+      "description": "Historic currant jelly recipe from America's first cookbook.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Amelia Simmons",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "spicy-meatballs-jean-shu",
+      "title": "Spicy Meatballs",
+      "category": "main-dishes",
+      "tags": [
+        "main-dish",
+        "meatballs",
+        "appetizer",
+        "crock-pot",
+        "party-food",
+        "handwritten"
+      ],
+      "collection": "mommom",
+      "description": "Sweet and tangy meatballs with a homemade BBQ-style sauce, perfect for slow cooking.",
+      "servings_yield": "",
+      "total_time": "30-45 minutes",
+      "attribution": "Jean Shu",
+      "variant_of": null,
+      "canonical_id": null
+    },
+    {
+      "id": "swedish-meatball-sauce-sash",
+      "title": "Onion-Soup-Based Swedish Meatball Sauce",
+      "category": "sauces",
+      "tags": [
+        "sauce",
+        "meatballs",
+        "swedish",
+        "handwritten-notes"
+      ],
+      "collection": "mommom",
+      "description": "Creamy Swedish meatball sauce using onion soup mix, with family modifications noted.",
+      "servings_yield": "",
+      "total_time": "",
+      "attribution": "Sash (handwritten notes)",
       "variant_of": null,
       "canonical_id": null
     }

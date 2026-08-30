@@ -31,6 +31,32 @@ Newest entries go at the top.
 
 ---
 
+## 2026-08-30 — Exact-duplicate removal, phase 1 (syl)
+
+**Asked:** Operator campaign across the recipe repos: duplicates are forbidden (remove),
+variants are OK (link to a canonical primary; tabs with provenance in the readers).
+
+**Weighed:** Law 990f37e1/c865b442: duplicate = EXACT same recipe, key name+source. The
+shared tool (scripts/dedup_exact_duplicates.py, dry-run default) keys on
+title+ingredients+instructions+notes — notes included after a near-miss in
+Grandmasrecipes where two different reference-guide pages share a title and 0
+ingredients. First apply here rewrote the master with literal unicode against the file's
+escaped (ensure_ascii) convention — ~3,400 lines of formatting churn; caught on diff
+review, master rewritten back to its convention, and the tool now sniffs and preserves
+the existing escape style. A second miss the same hour: a trailing `cd` in a compound
+shell command left the session in Allrecipes, and this repo's commit initially landed
+THERE (wrong log, wrong message, pushed); rewound on that branch (mine alone) and
+recommitted correctly — recorded here because the household has paid for the
+cd-in-compound-command hazard before.
+
+**Decided:** Removed 2 byte-identical twins: haystacks-candy (= haystacks-family, same
+attribution) and whole-wheat-bread (= whole-wheat-bread-bhg, empty vs BHG attribution).
+2644 → 2642. Removed records preserved whole in admin/MERGED-AWAY.json; shards + index
+regenerated with scripts/create_shards.py; validate-recipes exit 0. One keeper gained a
+merged tag list; no other records edited.
+
+**Unsure:** Nothing material — both pairs verified identical before applying.
+
 ## 2026-08-11 — rysn: household sync of soli-deo-gloria (a link that resolved in only one repo)
 
 **Asked.** Propagate the canonical `soli-deo-gloria` change made in the household SSOT. This repo's
