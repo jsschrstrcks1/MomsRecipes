@@ -5969,7 +5969,10 @@
           "Inferred 1 for pepper (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "crab-filling-egg-rolls"
+      ]
     },
     {
       "id": "pork-and-shrimp-filling-bhg",
@@ -6065,7 +6068,10 @@
           "Inferred 1.0 for sliced green onion (standard quantity)",
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pork-and-shrimp-filling"
+      ]
     },
     {
       "id": "ham-orange-filling-bhg",
@@ -6156,7 +6162,10 @@
           "Assumed 1 unit for finely chopped broccoli",
           "Assumed 1 unit for finely shredded orange peel"
         ]
-      }
+      },
+      "variants": [
+        "ham-orange-filling"
+      ]
     },
     {
       "id": "vegetable-filling-bhg",
@@ -6263,7 +6272,10 @@
           "Inferred 1 for pepper (standard quantity)",
           "Inferred 2 for garlic powder (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "vegetable-filling-egg-rolls"
+      ]
     },
     {
       "id": "spinach-phyllo-triangles-bhg",
@@ -8890,7 +8902,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "cocktail-meatballs-sauces"
     },
     {
       "id": "chile-cheese-squares-gcb",

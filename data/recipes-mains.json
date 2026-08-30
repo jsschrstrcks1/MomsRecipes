@@ -1771,7 +1771,10 @@
           "Estimated 6 servings based on total calories",
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "karens-chicken-casserole"
+      ]
     },
     {
       "id": "roast-duck-and-duck-sauce",
@@ -3652,7 +3655,8 @@
           "Estimated 8 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chicken-casserole-mommom"
     },
     {
       "id": "lattice-top-chicken",
@@ -12392,7 +12396,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "macaroni-and-cheese"
     },
     {
       "id": "fried-rice-supper",
@@ -18914,7 +18919,8 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
-      ]
+      ],
+      "variant_of": "foxfire-liver-pudding"
     },
     {
       "id": "foxfire-sausage",
@@ -20596,7 +20602,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "foxfire-liver-mush"
+      ]
     },
     {
       "id": "foxfire-brains-and-eggs",

@@ -1679,7 +1679,10 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variants": [
+        "nutrition-analysis-breads-2-bhg"
+      ]
     },
     {
       "id": "nutrition-analysis-breads-2-bhg",
@@ -1716,7 +1719,8 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variant_of": "nutrition-analysis-breads-bhg"
     },
     {
       "id": "nutrition-analysis-cakes-bhg",
@@ -1791,7 +1795,10 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variants": [
+        "nutrition-analysis-cookies-2-bhg"
+      ]
     },
     {
       "id": "nutrition-analysis-cookies-2-bhg",
@@ -1829,7 +1836,8 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variant_of": "nutrition-analysis-cookies-bhg"
     },
     {
       "id": "nutrition-analysis-desserts-bhg",

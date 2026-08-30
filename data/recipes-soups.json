@@ -1112,7 +1112,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "french-onion-soup-scratch"
     },
     {
       "id": "french-onion-soup-scratch",
@@ -1260,7 +1261,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "french-onion-soup-quick"
+      ]
     },
     {
       "id": "hamburger-soup-mommom",

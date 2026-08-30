@@ -8974,7 +8974,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-elderberry-wine"
     },
     {
       "id": "walnut-liquor-etw",
@@ -9892,7 +9893,8 @@
       ],
       "variants": [
         "appalachian-elderberry-wine",
-        "elderberry-wine-etw"
+        "elderberry-wine-etw",
+        "elderberry-wine-gallon-etw"
       ]
     },
     {

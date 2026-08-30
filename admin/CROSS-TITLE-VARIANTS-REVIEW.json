@@ -1,0 +1,492 @@
+[
+ {
+  "date": "2026-08-30T11:33:43Z",
+  "linked": [
+   {
+    "core": "baked beans",
+    "canonical": "baked-beans-bhg",
+    "linked": [
+     {
+      "id": "karens-baked-beans",
+      "title": "Karen's Baked Beans"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "blackberry cobbler",
+    "canonical": "foxfire-blackberry-cobbler",
+    "linked": [
+     {
+      "id": "foxfire3-blackberry-cobbler",
+      "title": "Blackberry Cobbler (Foxfire 3)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "bleached apple pie",
+    "canonical": "foxfire-4-bleached-apple-pie",
+    "linked": [
+     {
+      "id": "foxfire4-bleached-apple-pie",
+      "title": "Mrs. Parker's Bleached Apple Pie"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "carrot cake",
+    "canonical": "carrot-cake",
+    "linked": [
+     {
+      "id": "carrot-cake-safflower-oil-fbc-jasmine",
+      "title": "Carrot Cake (Safflower Oil Version)"
+     }
+    ],
+    "already": [
+     "carrot-cake-bhg"
+    ]
+   },
+   {
+    "core": "chicken casserole",
+    "canonical": "chicken-casserole-mommom",
+    "linked": [
+     {
+      "id": "karens-chicken-casserole",
+      "title": "Karen's Chicken Casserole"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "cinnamon rolls",
+    "canonical": "cinnamon-rolls",
+    "linked": [
+     {
+      "id": "cinnamon-rolls-bread-machine",
+      "title": "Cinnamon Rolls (Bread Machine Dough)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "cocktail meatballs",
+    "canonical": "cocktail-meatballs-sauces",
+    "linked": [
+     {
+      "id": "mrs-mondragons-cocktail-meatballs-gcb",
+      "title": "Mrs. Mondragon's Cocktail Meatballs"
+     }
+    ],
+    "already": [
+     "cocktail-meatballs-bhg"
+    ]
+   },
+   {
+    "core": "corn bread",
+    "canonical": "corn-bread-bhg",
+    "linked": [
+     {
+      "id": "aunt-jemima-corn-bread",
+      "title": "Corn Bread (Aunt Jemima)"
+     }
+    ],
+    "already": [
+     "corn-bread"
+    ]
+   },
+   {
+    "core": "crab filling",
+    "canonical": "crab-filling-bhg",
+    "linked": [
+     {
+      "id": "crab-filling-egg-rolls",
+      "title": "Crab Filling (for Egg Rolls or Wontons)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "cranberry nut bread",
+    "canonical": "cranberry-nut-bread",
+    "linked": [
+     {
+      "id": "connies-cranberry-nut-bread",
+      "title": "Connie's Cranberry Nut Bread (Bread Machine Quick Bread)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "crepes",
+    "canonical": "crepes",
+    "linked": [
+     {
+      "id": "crepes-egg-sausage-fbc-jasmine",
+      "title": "Crepes (Egg and Sausage)"
+     },
+     {
+      "id": "crepes-fruit-fbc-jasmine",
+      "title": "Crepes (Fruit)"
+     }
+    ],
+    "already": [
+     "crepes-bhg"
+    ]
+   },
+   {
+    "core": "egg bread",
+    "canonical": "egg-bread-bhg",
+    "linked": [
+     {
+      "id": "methuselahs-egg-bread-cwa",
+      "title": "Methuselah's Egg Bread"
+     }
+    ],
+    "already": [
+     "egg-bread"
+    ]
+   },
+   {
+    "core": "elderberry wine",
+    "canonical": "foxfire-elderberry-wine",
+    "linked": [
+     {
+      "id": "elderberry-wine-gallon-etw",
+      "title": "Elderberry Wine (1 Gallon)"
+     }
+    ],
+    "already": [
+     "appalachian-elderberry-wine",
+     "elderberry-wine-etw"
+    ]
+   },
+   {
+    "core": "english muffins",
+    "canonical": "english-muffins",
+    "linked": [
+     {
+      "id": "cassies-english-muffins",
+      "title": "Cassie's English Muffins (Bread Machine Dough)"
+     }
+    ],
+    "already": [
+     "english-muffins-bhg"
+    ]
+   },
+   {
+    "core": "fast fish fix-ups",
+    "canonical": "fast-fish-fix-ups-bhg",
+    "linked": [
+     {
+      "id": "fast-fish-fix-ups",
+      "title": "Fast Fish Fix-Ups (Quick Sauces)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "french onion soup",
+    "canonical": "french-onion-soup-scratch",
+    "linked": [
+     {
+      "id": "french-onion-soup-quick",
+      "title": "French Onion Soup (Quick)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "fruit-studded bread",
+    "canonical": "fruit-studded-bread-bhg",
+    "linked": [
+     {
+      "id": "fruit-studded-bread-julekage",
+      "title": "Fruit-Studded Bread (Julekage)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "ham-orange filling",
+    "canonical": "ham-orange-filling-bhg",
+    "linked": [
+     {
+      "id": "ham-orange-filling",
+      "title": "Ham-Orange Filling (for Egg Rolls or Wontons)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "leather breeches beans",
+    "canonical": "foxfire-leather-breeches-beans",
+    "linked": [
+     {
+      "id": "foxfire2-leather-breeches-beans",
+      "title": "Aunt Arie's Leather Breeches Beans"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "liver pudding",
+    "canonical": "foxfire-liver-pudding",
+    "linked": [
+     {
+      "id": "foxfire-liver-mush",
+      "title": "Liver Pudding (Liver Mush)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "macaroni and cheese",
+    "canonical": "macaroni-and-cheese",
+    "linked": [
+     {
+      "id": "macaroni-and-cheese-bhg",
+      "title": "Macaroni and Cheese (BHG)"
+     }
+    ],
+    "already": [
+     "macaroni-and-cheese-mommom"
+    ]
+   },
+   {
+    "core": "nut bread",
+    "canonical": "nut-bread-bhg",
+    "linked": [
+     {
+      "id": "nut-bread-machine",
+      "title": "Nut Bread (Bread Machine Quick Bread)"
+     }
+    ],
+    "already": [
+     "nut-bread"
+    ]
+   },
+   {
+    "core": "nutrition analysis - breads",
+    "canonical": "nutrition-analysis-breads-bhg",
+    "linked": [
+     {
+      "id": "nutrition-analysis-breads-2-bhg",
+      "title": "Nutrition Analysis - Breads (Pages 35-36)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "nutrition analysis - cookies",
+    "canonical": "nutrition-analysis-cookies-bhg",
+    "linked": [
+     {
+      "id": "nutrition-analysis-cookies-2-bhg",
+      "title": "Nutrition Analysis - Cookies (Page 103)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "orange marmalade",
+    "canonical": "orange-marmalade-bhg",
+    "linked": [
+     {
+      "id": "orange-marmalade-bread-machine",
+      "title": "Orange Marmalade (Bread Machine)"
+     }
+    ],
+    "already": [
+     "orange-marmalade"
+    ]
+   },
+   {
+    "core": "peanut brittle",
+    "canonical": "peanut-brittle-bhg",
+    "linked": [
+     {
+      "id": "peters-peanut-brittle",
+      "title": "Peter's Peanut Brittle"
+     }
+    ],
+    "already": [
+     "peanut-brittle-classic"
+    ]
+   },
+   {
+    "core": "pork and shrimp filling",
+    "canonical": "pork-and-shrimp-filling-bhg",
+    "linked": [
+     {
+      "id": "pork-and-shrimp-filling",
+      "title": "Pork and Shrimp Filling (for Egg Rolls or Wontons)"
+     }
+    ],
+    "already": []
+   },
+   {
+    "core": "pound cake",
+    "canonical": "pound-cake",
+    "linked": [
+     {
+      "id": "grandmas-pound-cake-fbc-jasmine",
+      "title": "Grandma's Pound Cake"
+     },
+     {
+      "id": "american-cookery-1796-pound-cake",
+      "title": "Pound Cake (1796)"
+     }
+    ],
+    "already": [
+     "pound-cake-bhg"
+    ]
+   },
+   {
+    "core": "rye bread",
+    "canonical": "rye-bread-bhg",
+    "linked": [
+     {
+      "id": "foxfire-rye-bread",
+      "title": "Rye Bread (Biscuit Style)"
+     }
+    ],
+    "already": [
+     "rye-bread"
+    ]
+   },
+   {
+    "core": "sassafras jelly",
+    "canonical": "foxfire-4-sassafras-jelly",
+    "linked": [
+     {
+      "id": "foxfire4-sassafras-jelly",
+      "title": "Pearl's Sassafras Jelly"
+     }
+    ],
+    "already": [
+     "foxfire2-sassafras-jelly"
+    ]
+   },
+   {
+    "core": "sourdough bread",
+    "canonical": "sourdough-bread-bhg",
+    "linked": [
+     {
+      "id": "sourdough-bread-machine",
+      "title": "Sourdough Bread (Bread Machine)"
+     }
+    ],
+    "already": [
+     "sourdough-bread"
+    ]
+   },
+   {
+    "core": "sweet potato casserole",
+    "canonical": "sweet-potato-casserole-mommom",
+    "linked": [
+     {
+      "id": "florences-sweet-potato-casserole",
+      "title": "Florence's Sweet Potato Casserole"
+     }
+    ],
+    "already": [
+     "sweet-potato-casserole-fbc-jasmine"
+    ]
+   },
+   {
+    "core": "vegetable filling",
+    "canonical": "vegetable-filling-bhg",
+    "linked": [
+     {
+      "id": "vegetable-filling-egg-rolls",
+      "title": "Vegetable Filling (for Egg Rolls or Wontons)"
+     }
+    ],
+    "already": []
+   }
+  ],
+  "deferred_for_review": [
+   {
+    "core": "carrot casserole",
+    "members": [
+     {
+      "id": "ethelyns-carrot-casserole",
+      "title": "Ethelyn's Carrot Casserole",
+      "attribution": "Rosemary Weis",
+      "reason": "ingredient overlap below threshold vs canonical carrot-casserole-mommom"
+     }
+    ]
+   },
+   {
+    "core": "cheese cake",
+    "members": [
+     {
+      "id": "cheese-cake-lemon-jello-fbc-jasmine",
+      "title": "Cheese Cake (Lemon Jello)",
+      "attribution": "FBC Jasmine"
+     },
+     {
+      "id": "cheese-cake-philadelphia-fbc-jasmine",
+      "title": "Cheese Cake (Philadelphia Cream Cheese)",
+      "attribution": "FBC Jasmine"
+     }
+    ]
+   },
+   {
+    "core": "fruit salad",
+    "members": [
+     {
+      "id": "cindy-baker-fruit-salad",
+      "title": "Cindy's Fruit Salad (Ambrosia)",
+      "attribution": "Mrs Cindy Baker",
+      "reason": "ingredient overlap below threshold vs canonical fruit-salad-mommom"
+     }
+    ]
+   },
+   {
+    "core": "hawthorn jelly",
+    "members": [
+     {
+      "id": "hawthorn-jelly-no-cook-etw",
+      "title": "Hawthorn Jelly (No-Cook Method)",
+      "attribution": "Eat the Weeds - Green Deane"
+     },
+     {
+      "id": "hawthorn-jelly-gibbons-etw",
+      "title": "Hawthorn Jelly (Euell Gibbons' Recipe)",
+      "attribution": "Eat the Weeds - Green Deane (from Euell Gibbons)"
+     }
+    ]
+   },
+   {
+    "core": "pottage",
+    "members": [
+     {
+      "id": "jacobs-pottage",
+      "title": "Jacob's Pottage",
+      "attribution": "Evelyn Hoeldtke"
+     },
+     {
+      "id": "esaus-pottage-cwa",
+      "title": "Esau's Pottage",
+      "attribution": "Cooking With the Ancients"
+     }
+    ]
+   },
+   {
+    "core": "sponge cake",
+    "members": [
+     {
+      "id": "saras-sponge-cake-ancients",
+      "title": "Sara's Sponge Cake",
+      "attribution": "Cooking With the Ancients",
+      "reason": "ingredient overlap below threshold vs canonical sponge-cake-bhg"
+     }
+    ]
+   }
+  ],
+  "conflicts": []
+ }
+]

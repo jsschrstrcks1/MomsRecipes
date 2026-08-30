@@ -9104,7 +9104,8 @@
           "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cinnamon-rolls"
     },
     {
       "id": "choco-banana-spread",
@@ -25571,7 +25572,8 @@
         "assumptions": []
       },
       "variants": [
-        "peanut-brittle-classic"
+        "peanut-brittle-classic",
+        "peters-peanut-brittle"
       ]
     },
     {
@@ -33462,7 +33464,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "crepes"
     },
     {
       "id": "wacky-cake-whipped-cream-icing-fbc",
@@ -34243,7 +34246,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variant_of": "carrot-cake"
     },
     {
       "id": "coco-lopez-cake-fbc-jasmine",
@@ -36773,7 +36777,8 @@
       },
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5733.jpeg"
-      ]
+      ],
+      "variant_of": "pound-cake"
     },
     {
       "id": "twinkie-cake-fbc-jasmine",
@@ -40661,6 +40666,9 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
+      ],
+      "variants": [
+        "foxfire3-blackberry-cobbler"
       ]
     },
     {
@@ -41532,7 +41540,8 @@
       },
       "image_refs": [
         "foxfire-three.txt"
-      ]
+      ],
+      "variant_of": "foxfire-blackberry-cobbler"
     },
     {
       "id": "foxfire3-blackberry-flummery",
@@ -43743,7 +43752,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-4-bleached-apple-pie"
     },
     {
       "id": "foxfire4-fried-apple-pies",
@@ -46864,7 +46874,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "foxfire4-bleached-apple-pie"
+      ]
     },
     {
       "id": "american-cookery-1796-pumpkin-pudding",
@@ -47696,7 +47709,8 @@
       "image_refs": [
         "The First American Cookbook/IMG_5973.PNG",
         "The First American Cookbook/IMG_5974.PNG"
-      ]
+      ],
+      "variant_of": "pound-cake"
     }
   ]
 }

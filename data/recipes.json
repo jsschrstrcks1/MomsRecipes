@@ -7022,7 +7022,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "french-onion-soup-scratch"
     },
     {
       "id": "french-onion-soup-scratch",
@@ -7170,7 +7171,10 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variants": [
+        "french-onion-soup-quick"
+      ]
     },
     {
       "id": "hamburger-soup-mommom",
@@ -7798,7 +7802,8 @@
           "Estimated 12 servings based on total calories",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "baked-beans-bhg"
     },
     {
       "id": "broccoli-salad-mommom",
@@ -10108,7 +10113,8 @@
         ]
       },
       "variants": [
-        "sweet-potato-casserole-fbc-jasmine"
+        "sweet-potato-casserole-fbc-jasmine",
+        "florences-sweet-potato-casserole"
       ]
     },
     {
@@ -10882,7 +10888,8 @@
           "Estimated 4 servings based on total calories",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sweet-potato-casserole-mommom"
     },
     {
       "id": "fall-medley",
@@ -13195,7 +13202,10 @@
           "Estimated 6 servings based on total calories",
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "karens-chicken-casserole"
+      ]
     },
     {
       "id": "roast-duck-and-duck-sauce",
@@ -15076,7 +15086,8 @@
           "Estimated 8 servings based on total calories",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "chicken-casserole-mommom"
     },
     {
       "id": "lattice-top-chicken",
@@ -36321,7 +36332,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sourdough-bread-bhg"
     },
     {
       "id": "sourdough-starter",
@@ -37808,7 +37820,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cranberry-nut-bread"
     },
     {
       "id": "chocolate-banana-bread-machine",
@@ -38055,7 +38068,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "nut-bread-bhg"
     },
     {
       "id": "dads-favorite-apricot-nut-bread",
@@ -38821,7 +38835,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "english-muffins"
     },
     {
       "id": "debras-butter-rolls",
@@ -39281,7 +39296,8 @@
           "Inferred 1.0 for Powdered Sugar Glaze (standard quantity)",
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cinnamon-rolls"
     },
     {
       "id": "jims-pizza-crust",
@@ -40091,7 +40107,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "orange-marmalade-bhg"
     },
     {
       "id": "frozen-berry-jam-bread-machine",
@@ -41351,7 +41368,8 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "corn-bread-bhg"
     },
     {
       "id": "seasoned-corn-meal-coating",
@@ -47987,7 +48005,8 @@
         ]
       },
       "variants": [
-        "cocktail-meatballs-bhg"
+        "cocktail-meatballs-bhg",
+        "mrs-mondragons-cocktail-meatballs-gcb"
       ]
     },
     {
@@ -48995,7 +49014,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "crab-filling-bhg"
     },
     {
       "id": "pork-and-shrimp-filling",
@@ -49096,7 +49116,8 @@
         "assumptions": [
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variant_of": "pork-and-shrimp-filling-bhg"
     },
     {
       "id": "ham-orange-filling",
@@ -49191,7 +49212,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "ham-orange-filling-bhg"
     },
     {
       "id": "vegetable-filling-egg-rolls",
@@ -49301,7 +49323,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "vegetable-filling-bhg"
     },
     {
       "id": "spinach-phyllo-triangles",
@@ -55137,7 +55160,8 @@
           "Assumed 1 unit for candied cherries",
           "Based on 17/17 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fruit-studded-bread-bhg"
     },
     {
       "id": "kuchen",
@@ -55419,7 +55443,8 @@
         ]
       },
       "variants": [
-        "english-muffins-bhg"
+        "english-muffins-bhg",
+        "cassies-english-muffins"
       ]
     },
     {
@@ -61609,7 +61634,9 @@
         ]
       },
       "variants": [
-        "crepes-bhg"
+        "crepes-bhg",
+        "crepes-egg-sausage-fbc-jasmine",
+        "crepes-fruit-fbc-jasmine"
       ]
     },
     {
@@ -73539,7 +73566,8 @@
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
       },
-      "servings_yield": "Makes about 1 pound"
+      "servings_yield": "Makes about 1 pound",
+      "variant_of": "peanut-brittle-bhg"
     },
     {
       "id": "peanut-butter-fudge-karen-talbot",
@@ -80039,7 +80067,8 @@
         },
         "source": "Better Homes and Gardens cookbook nutrition analysis",
         "assumptions": []
-      }
+      },
+      "variant_of": "macaroni-and-cheese"
     },
     {
       "id": "welsh-rarebit-breakfast",
@@ -83793,7 +83822,8 @@
           "Not in database: Note: Choose one of the three sauce recipes below"
         ],
         "assumptions": []
-      }
+      },
+      "variant_of": "fast-fish-fix-ups-bhg"
     },
     {
       "id": "salmon-pasta-skillet",
@@ -87186,7 +87216,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 53)"
         ]
-      }
+      },
+      "variants": [
+        "cinnamon-rolls-bread-machine"
+      ]
     },
     {
       "id": "filled-croissants",
@@ -87555,7 +87588,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 57)"
         ]
-      }
+      },
+      "variants": [
+        "connies-cranberry-nut-bread"
+      ]
     },
     {
       "id": "apricot-nut-bread",
@@ -89018,7 +89054,8 @@
         ]
       },
       "variants": [
-        "carrot-cake-bhg"
+        "carrot-cake-bhg",
+        "carrot-cake-safflower-oil-fbc-jasmine"
       ]
     },
     {
@@ -89288,7 +89325,9 @@
         ]
       },
       "variants": [
-        "pound-cake-bhg"
+        "pound-cake-bhg",
+        "grandmas-pound-cake-fbc-jasmine",
+        "american-cookery-1796-pound-cake"
       ]
     },
     {
@@ -90708,7 +90747,8 @@
         "assumptions": []
       },
       "variants": [
-        "macaroni-and-cheese-mommom"
+        "macaroni-and-cheese-mommom",
+        "macaroni-and-cheese-bhg"
       ]
     },
     {
@@ -110574,7 +110614,10 @@
         "assumptions": [
           "Based on 8/8 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "karens-baked-beans"
+      ]
     },
     {
       "id": "shortcut-baked-beans-bhg",
@@ -124907,7 +124950,8 @@
         ]
       },
       "variants": [
-        "orange-marmalade"
+        "orange-marmalade",
+        "orange-marmalade-bread-machine"
       ]
     },
     {
@@ -130521,7 +130565,10 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variants": [
+        "nutrition-analysis-breads-2-bhg"
+      ]
     },
     {
       "id": "nutrition-analysis-breads-2-bhg",
@@ -130558,7 +130605,8 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variant_of": "nutrition-analysis-breads-bhg"
     },
     {
       "id": "nutrition-analysis-cakes-bhg",
@@ -130633,7 +130681,10 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variants": [
+        "nutrition-analysis-cookies-2-bhg"
+      ]
     },
     {
       "id": "nutrition-analysis-cookies-2-bhg",
@@ -130671,7 +130722,8 @@
         "assumptions": [
           "Reference/informational content - no food to analyze"
         ]
-      }
+      },
+      "variant_of": "nutrition-analysis-cookies-bhg"
     },
     {
       "id": "nutrition-analysis-desserts-bhg",
@@ -135123,7 +135175,8 @@
         "assumptions": []
       },
       "variants": [
-        "peanut-brittle-classic"
+        "peanut-brittle-classic",
+        "peters-peanut-brittle"
       ]
     },
     {
@@ -138566,7 +138619,10 @@
           "Inferred 1 for pepper (standard quantity)",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "crab-filling-egg-rolls"
+      ]
     },
     {
       "id": "pork-and-shrimp-filling-bhg",
@@ -138662,7 +138718,10 @@
           "Inferred 1.0 for sliced green onion (standard quantity)",
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "pork-and-shrimp-filling"
+      ]
     },
     {
       "id": "ham-orange-filling-bhg",
@@ -138753,7 +138812,10 @@
           "Assumed 1 unit for finely chopped broccoli",
           "Assumed 1 unit for finely shredded orange peel"
         ]
-      }
+      },
+      "variants": [
+        "ham-orange-filling"
+      ]
     },
     {
       "id": "vegetable-filling-bhg",
@@ -138860,7 +138922,10 @@
           "Inferred 1 for pepper (standard quantity)",
           "Inferred 2 for garlic powder (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "vegetable-filling-egg-rolls"
+      ]
     },
     {
       "id": "spinach-phyllo-triangles-bhg",
@@ -142644,7 +142709,8 @@
         ]
       },
       "variants": [
-        "rye-bread"
+        "rye-bread",
+        "foxfire-rye-bread"
       ]
     },
     {
@@ -142996,7 +143062,8 @@
         ]
       },
       "variants": [
-        "sourdough-bread"
+        "sourdough-bread",
+        "sourdough-bread-machine"
       ]
     },
     {
@@ -143504,7 +143571,8 @@
         ]
       },
       "variants": [
-        "egg-bread"
+        "egg-bread",
+        "methuselahs-egg-bread-cwa"
       ]
     },
     {
@@ -144234,7 +144302,10 @@
           "Assumed 1 unit for vanilla",
           "Inferred 1.0 for milk (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "fruit-studded-bread-julekage"
+      ]
     },
     {
       "id": "kuchen-bhg",
@@ -146288,7 +146359,8 @@
         ]
       },
       "variants": [
-        "nut-bread"
+        "nut-bread",
+        "nut-bread-machine"
       ]
     },
     {
@@ -147059,7 +147131,8 @@
         "assumptions": []
       },
       "variants": [
-        "corn-bread"
+        "corn-bread",
+        "aunt-jemima-corn-bread"
       ]
     },
     {
@@ -168795,7 +168868,10 @@
         "assumptions": [
           "Based on 1/1 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variants": [
+        "fast-fish-fix-ups"
+      ]
     },
     {
       "id": "lobster-newburg-bhg",
@@ -175202,7 +175278,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "cocktail-meatballs-sauces"
     },
     {
       "id": "red-chile-sauce-gcb",
@@ -183917,7 +183994,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "1 loaf (12-16 slices)"
+      "servings_yield": "1 loaf (12-16 slices)",
+      "variant_of": "egg-bread-bhg"
     },
     {
       "id": "sweet-anise-challah-cwa",
@@ -196778,7 +196856,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "crepes"
     },
     {
       "id": "crepes-fruit-fbc-jasmine",
@@ -196849,7 +196928,8 @@
       "confidence": {
         "overall": "high",
         "flags": []
-      }
+      },
+      "variant_of": "crepes"
     },
     {
       "id": "pineapple-brunch-cake-fbc-jasmine",
@@ -198531,7 +198611,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "12 servings"
+      "servings_yield": "12 servings",
+      "variant_of": "carrot-cake"
     },
     {
       "id": "coco-lopez-cake-fbc-jasmine",
@@ -203703,7 +203784,8 @@
       },
       "image_refs": [
         "FBC Jasmine Cook Book/IMG_5733.jpeg"
-      ]
+      ],
+      "variant_of": "pound-cake"
     },
     {
       "id": "twinkie-cake-fbc-jasmine",
@@ -207506,6 +207588,9 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
+      ],
+      "variants": [
+        "foxfire2-leather-breeches-beans"
       ]
     },
     {
@@ -208849,6 +208934,9 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
+      ],
+      "variants": [
+        "foxfire3-blackberry-cobbler"
       ]
     },
     {
@@ -209562,7 +209650,8 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
-      ]
+      ],
+      "variant_of": "foxfire-liver-pudding"
     },
     {
       "id": "foxfire-sausage",
@@ -211500,7 +211589,8 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
-      ]
+      ],
+      "variant_of": "rye-bread-bhg"
     },
     {
       "id": "foxfire-molasses-cookies",
@@ -213838,7 +213928,8 @@
       },
       "image_refs": [
         "foxfire-three.txt"
-      ]
+      ],
+      "variant_of": "foxfire-blackberry-cobbler"
     },
     {
       "id": "foxfire3-blackberry-syrup",
@@ -218118,7 +218209,8 @@
       },
       "image_refs": [
         "Foxfire-Book-2.txt"
-      ]
+      ],
+      "variant_of": "foxfire-leather-breeches-beans"
     },
     {
       "id": "foxfire2-ada-kelly-cornbread",
@@ -220990,7 +221082,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-4-sassafras-jelly"
     },
     {
       "id": "foxfire4-bleached-apple-pie",
@@ -221078,7 +221171,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-4-bleached-apple-pie"
     },
     {
       "id": "foxfire4-fried-apple-pies",
@@ -229995,7 +230089,8 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variant_of": "foxfire-elderberry-wine"
     },
     {
       "id": "walnut-liquor-etw",
@@ -240945,7 +241040,8 @@
       ],
       "variants": [
         "appalachian-elderberry-wine",
-        "elderberry-wine-etw"
+        "elderberry-wine-etw",
+        "elderberry-wine-gallon-etw"
       ]
     },
     {
@@ -245030,7 +245126,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "foxfire-liver-mush"
+      ]
     },
     {
       "id": "foxfire-brains-and-eggs",
@@ -251591,7 +251690,8 @@
       },
       "image_refs": [],
       "variants": [
-        "foxfire2-sassafras-jelly"
+        "foxfire2-sassafras-jelly",
+        "foxfire4-sassafras-jelly"
       ]
     },
     {
@@ -251675,7 +251775,10 @@
         "overall": "high",
         "flags": []
       },
-      "image_refs": []
+      "image_refs": [],
+      "variants": [
+        "foxfire4-bleached-apple-pie"
+      ]
     },
     {
       "id": "direct-grilling-meat-guide-bhg",
@@ -256485,7 +256588,8 @@
       "image_refs": [
         "The First American Cookbook/IMG_5973.PNG",
         "The First American Cookbook/IMG_5974.PNG"
-      ]
+      ],
+      "variant_of": "pound-cake"
     },
     {
       "id": "american-cookery-1796-spruce-beer",

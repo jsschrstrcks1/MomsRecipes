@@ -3425,7 +3425,8 @@
         ]
       },
       "variants": [
-        "cocktail-meatballs-bhg"
+        "cocktail-meatballs-bhg",
+        "mrs-mondragons-cocktail-meatballs-gcb"
       ]
     },
     {
@@ -4304,7 +4305,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "crab-filling-bhg"
     },
     {
       "id": "pork-and-shrimp-filling",
@@ -4405,7 +4407,8 @@
         "assumptions": [
           "Based on 6/7 ingredients (86% coverage)"
         ]
-      }
+      },
+      "variant_of": "pork-and-shrimp-filling-bhg"
     },
     {
       "id": "ham-orange-filling",
@@ -4500,7 +4503,8 @@
         "assumptions": [
           "Based on 7/7 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "ham-orange-filling-bhg"
     },
     {
       "id": "vegetable-filling-egg-rolls",
@@ -4610,7 +4614,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "vegetable-filling-bhg"
     },
     {
       "id": "spinach-phyllo-triangles",

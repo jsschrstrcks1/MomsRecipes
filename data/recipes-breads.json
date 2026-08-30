@@ -4390,7 +4390,8 @@
         "assumptions": [
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sourdough-bread-bhg"
     },
     {
       "id": "sourdough-starter",
@@ -5877,7 +5878,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "cranberry-nut-bread"
     },
     {
       "id": "chocolate-banana-bread-machine",
@@ -6124,7 +6126,8 @@
         "assumptions": [
           "Based on 9/9 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "nut-bread-bhg"
     },
     {
       "id": "dads-favorite-apricot-nut-bread",
@@ -6890,7 +6893,8 @@
         "assumptions": [
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "english-muffins"
     },
     {
       "id": "debras-butter-rolls",
@@ -7467,7 +7471,8 @@
         "assumptions": [
           "Based on 5/5 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "corn-bread-bhg"
     },
     {
       "id": "white-bread-classic",
@@ -9531,7 +9536,8 @@
           "Assumed 1 unit for candied cherries",
           "Based on 17/17 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "fruit-studded-bread-bhg"
     },
     {
       "id": "kuchen",
@@ -9813,7 +9819,8 @@
         ]
       },
       "variants": [
-        "english-muffins-bhg"
+        "english-muffins-bhg",
+        "cassies-english-muffins"
       ]
     },
     {
@@ -16003,7 +16010,9 @@
         ]
       },
       "variants": [
-        "crepes-bhg"
+        "crepes-bhg",
+        "crepes-egg-sausage-fbc-jasmine",
+        "crepes-fruit-fbc-jasmine"
       ]
     },
     {
@@ -18468,7 +18477,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 53)"
         ]
-      }
+      },
+      "variants": [
+        "cinnamon-rolls-bread-machine"
+      ]
     },
     {
       "id": "filled-croissants",
@@ -18837,7 +18849,10 @@
         "assumptions": [
           "From Better Homes and Gardens cookbook nutrition analysis (p. 57)"
         ]
-      }
+      },
+      "variants": [
+        "connies-cranberry-nut-bread"
+      ]
     },
     {
       "id": "apricot-nut-bread",
@@ -20184,7 +20199,8 @@
         ]
       },
       "variants": [
-        "rye-bread"
+        "rye-bread",
+        "foxfire-rye-bread"
       ]
     },
     {
@@ -20536,7 +20552,8 @@
         ]
       },
       "variants": [
-        "sourdough-bread"
+        "sourdough-bread",
+        "sourdough-bread-machine"
       ]
     },
     {
@@ -21044,7 +21061,8 @@
         ]
       },
       "variants": [
-        "egg-bread"
+        "egg-bread",
+        "methuselahs-egg-bread-cwa"
       ]
     },
     {
@@ -21774,7 +21792,10 @@
           "Assumed 1 unit for vanilla",
           "Inferred 1.0 for milk (standard quantity)"
         ]
-      }
+      },
+      "variants": [
+        "fruit-studded-bread-julekage"
+      ]
     },
     {
       "id": "kuchen-bhg",
@@ -23774,7 +23795,8 @@
         ]
       },
       "variants": [
-        "nut-bread"
+        "nut-bread",
+        "nut-bread-machine"
       ]
     },
     {
@@ -24545,7 +24567,8 @@
         "assumptions": []
       },
       "variants": [
-        "corn-bread"
+        "corn-bread",
+        "aunt-jemima-corn-bread"
       ]
     },
     {
@@ -28693,7 +28716,8 @@
         "overall": "high",
         "flags": []
       },
-      "servings_yield": "1 loaf (12-16 slices)"
+      "servings_yield": "1 loaf (12-16 slices)",
+      "variant_of": "egg-bread-bhg"
     },
     {
       "id": "sweet-anise-challah-cwa",
@@ -30922,7 +30946,8 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
-      ]
+      ],
+      "variant_of": "rye-bread-bhg"
     },
     {
       "id": "foxfire3-persimmon-bread",

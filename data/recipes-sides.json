@@ -453,7 +453,8 @@
           "Estimated 12 servings based on total calories",
           "Based on 10/10 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "baked-beans-bhg"
     },
     {
       "id": "broccoli-casserole-mommom",
@@ -1545,7 +1546,8 @@
         ]
       },
       "variants": [
-        "sweet-potato-casserole-fbc-jasmine"
+        "sweet-potato-casserole-fbc-jasmine",
+        "florences-sweet-potato-casserole"
       ]
     },
     {
@@ -2319,7 +2321,8 @@
           "Estimated 4 servings based on total calories",
           "Based on 6/6 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "sweet-potato-casserole-mommom"
     },
     {
       "id": "fall-medley",
@@ -3594,7 +3597,8 @@
         "assumptions": [
           "Based on 4/4 ingredients (100% coverage)"
         ]
-      }
+      },
+      "variant_of": "orange-marmalade-bhg"
     },
     {
       "id": "frozen-berry-jam-bread-machine",
@@ -7385,6 +7389,9 @@
       },
       "image_refs": [
         "FoxfireVol1.txt.html"
+      ],
+      "variants": [
+        "foxfire2-leather-breeches-beans"
       ]
     },
     {
@@ -9121,7 +9128,8 @@
       },
       "image_refs": [
         "Foxfire-Book-2.txt"
-      ]
+      ],
+      "variant_of": "foxfire-leather-breeches-beans"
     },
     {
       "id": "foxfire3-mint-with-peas",
