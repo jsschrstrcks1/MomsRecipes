@@ -2,6 +2,25 @@
 
 # Reasoning Log
 
+## 2026-08-30 — Auth gate now greets MomMom's family with MomMom's name (patron syl, HLS audit0827-mom-auth-gate-wrong-name)
+
+**Asked.** Round 5 board work under Ken's standing "go": the gate on this site rendered
+"Grandma's Kitchen" and asked "What is Grandma's last name?" — copy-paste residue from the
+Grandmasrecipes template, on both index.html and recipe.html.
+
+**Weighed.** Two strings per page are display copy; two are load-bearing and were left
+strictly alone: AUTH_KEY 'grandmas-kitchen-auth' (its own comment says the exact key is
+shared for cross-site auth — renaming it would log every family member out of the whole
+site family) and CORRECT_ANSWER 'Baker' (MomMom Baker's answer is the same word, so the
+question stays truthful with MomMom's name in it).
+
+**Decided.** Four edits total: h1 → "MomMom's Kitchen", label → "What is MomMom's last
+name?", on both pages. Verified by grep: zero "Grandma's Kitchen" / "Grandma's last name"
+remain; AUTH_KEY and CORRECT_ANSWER byte-identical to before.
+
+**Unsure.** Nothing material. The gate remains the plaintext-answer mechanism tracked
+separately as audit0827-xrepo-baker-secret — deliberately not touched here.
+
 ## 2026-08-27 — CI rebuild step fixed + 91 missing recipes resharded (patron syl, HLS audit0827-mom-ci-missing-script + audit0827-mom-91-recipes-unsharded)
 
 **Asked.** Ken: "go" — work the audit board. This repo's P0/P1 pair: the Rebuild Indexes
