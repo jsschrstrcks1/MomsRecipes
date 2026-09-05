@@ -8,6 +8,16 @@ You asked for a live stream of consciousness: when you ask me a question or hand
 task, you want to see how I reached the conclusion and why I made the calls I made. This
 file is that record.
 
+## 2026-09-05 — reconcile root and arming stack (codex)
+
+**Asked.** Complete Moms source integration on repaired onboarding, preserving original root/arming branch history and recipe content; no deployment or merge to main.
+
+**Weighed.** Repaired onboarding `29cf840d` and original root/arming tip `0240311` diverged only additively in this log. Preserved both entries and merged the existing stack rather than recreating its provenance. Grandma main `5c289f9e` contains the reviewed arming report correction: configured/executable is observable; a downstream guard chain running is not established by configuration. Moms settings contain no existing observe registration requiring a repair in this slice.
+
+**Decided.** Adopted that exact arming script, three isolated arming tests, and protected the SessionStart registration (removal regression now checks four names). Twelve tests passed; shell syntax, required-hooks checker and diff checks passed. Settings gain only the existing stack's SessionStart arming registration; recipe data/scripts unchanged. Recipe validator still exits 1 with baseline 49 errors, 413 warnings, 2642 recipes. No broad green claim.
+
+**Unsure.** Awaiting independent source review and installed-session verification. Root discovery can require explicit environment roots on this Mac. Arming checks configuration and executable entry points, not downstream behavior; custom paths are preserved and explicitly unevaluated. Legacy stamp overrides still require deliberate v2 migration. No live deployment or HLS completion was performed.
+
 ## 2026-09-05 — adopt reviewed bootstrap integrity repair (codex)
 
 **Asked.** Adopt the stale onboarding safely under parent task `hh-dangerous-command-guard-parity`, preserving recipe content and existing settings.
@@ -17,6 +27,16 @@ file is that record.
 **Decided.** Used an isolated Moms worktree with explicit canonical posture root. Nine isolated tests passed (eight adoption cases plus registration-removal control/three removals). Settings, data, and scripts remain unchanged. Recipe validation independently returned the same baseline and adoption result: 49 errors, 413 warnings, 2642 recipes, exit 1; this is not a green recipe-validation claim. Added the v2 transition instructions and protected registration names.
 
 **Unsure.** Source repair is not deployment or full stacked reconciliation. Root discovery and arming branches still require review; known arming-report defects remain separate. The protection checker matches command substrings in working-tree settings, not matcher semantics or the staged index. Default v2 state must be re-earned; explicit overrides cannot share state with legacy writers. Local signing secrets remain an honest friction-grade limit, not an independent trust boundary.
+
+## 2026-09-03 — .household-root: the doctrine and runtime roots, discoverable by reading (open-claw-stuff #3098)
+
+**Asked.** Household loop (patron yumi): make this repo able to say where Sophos is from here.
+
+**Weighed.** Hooks fire unevenly across repos (this one registers few), so the discovery file exists precisely for the case where no hook runs — it is read, not executed. The generator writes layouts, never a machine path (UL-173/UL-337). Alternative of hand-writing the file: rejected, the generator is the SSOT and its output is what the household tests pin.
+
+**Decided.** Generated `.household-root` with `admin/write-household-root-file.mjs`; verified it names both roots, instructs fail-loud on non-resolution, and carries no absolute machine path. Stacked on this repo's open hook branch.
+
+**Unsure.** On this Mac the runtime clone is `~/ocs-work`, not `open-claw-stuff`, so the sibling/ancestor steps in the file do not find it by name here and a reader must say so — the standing naming mismatch (open-claw-stuff #2993), not something this file can fix.
 
 ## 2026-09-03 — onboard the loud-bootstrap hook set (open-claw-stuff #3093)
 
