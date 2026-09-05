@@ -8,6 +8,16 @@ You asked for a live stream of consciousness: when you ask me a question or hand
 task, you want to see how I reached the conclusion and why I made the calls I made. This
 file is that record.
 
+## 2026-09-05 — adopt reviewed bootstrap integrity repair (codex)
+
+**Asked.** Adopt the stale onboarding safely under parent task `hh-dangerous-command-guard-parity`, preserving recipe content and existing settings.
+
+**Weighed.** Fresh origin onboarding is `1e398020`; canonical repair `35be2379` (merged through PR3308) binds nested evidence, refuses invalid disk reads, keeps verification read-only, and handles missing-parent symlinks. Adopted its complete trio instead of mixing old and new stamp formats. Grandma `6c8aec68` supplies the removal-regression pattern and three protected command names.
+
+**Decided.** Used an isolated Moms worktree with explicit canonical posture root. Nine isolated tests passed (eight adoption cases plus registration-removal control/three removals). Settings, data, and scripts remain unchanged. Recipe validation independently returned the same baseline and adoption result: 49 errors, 413 warnings, 2642 recipes, exit 1; this is not a green recipe-validation claim. Added the v2 transition instructions and protected registration names.
+
+**Unsure.** Source repair is not deployment or full stacked reconciliation. Root discovery and arming branches still require review; known arming-report defects remain separate. The protection checker matches command substrings in working-tree settings, not matcher semantics or the staged index. Default v2 state must be re-earned; explicit overrides cannot share state with legacy writers. Local signing secrets remain an honest friction-grade limit, not an independent trust boundary.
+
 ## 2026-09-03 — onboard the loud-bootstrap hook set (open-claw-stuff #3093)
 
 **Asked.** Household loop (patron yumi): close the guard gap the distribution check reports for this repo.
