@@ -8,6 +8,16 @@ You asked for a live stream of consciousness: when you ask me a question or hand
 task, you want to see how I reached the conclusion and why I made the calls I made. This
 file is that record.
 
+## 2026-09-06 — merge train: land PR #66 with the CURRENT canonical loud-bootstrap hooks
+
+**Asked.** Ken (2026-09-05): "merge them careful not clever" — land the open yumi PRs, this repo's hook rollout stack included.
+
+**Weighed.** The PR's copies of the loud-bootstrap hooks were a 2026-09-03 snapshot of a canonical branch that has since changed on open-claw-stuff main (household markers adopted, the read-order guard's own secret made fail-closed, the stamp hook's parallel-read merge). Merging the snapshot as-is would install a guard that matches no canonical commit. The household's own tool for this, admin/onboard-loud-bootstrap.mjs, copies the CURRENT canonical trio and is idempotent.
+
+**Decided.** Merge the PR (its intent is exactly "resync from canonical"), then run onboard-loud-bootstrap from open-claw-stuff main on the merged tree so the trio is byte-identical to canonical, and gate the result on an INERT live probe of this repo's guard: an unstamped Write inside the repo is denied (exit 2), an outside Write allowed, and any drift from canonical is refused rather than reported clean.
+
+**Unsure.** Synced copies drift again the moment canonical moves; the named limit of spec §5.2 stands. This repo's reasoning-log guard reads .git/COMMIT_EDITMSG, which does not exist in a git worktree, so the [no-reasoning] opt-out is invisible here — registered as a finding rather than worked around; this entry is the honest record instead.
+
 ## 2026-09-05 — reconcile root and arming stack (codex)
 
 **Asked.** Complete Moms source integration on repaired onboarding, preserving original root/arming branch history and recipe content; no deployment or merge to main.
