@@ -1,0 +1,136 @@
+{
+  "repo_label": "MomsRecipes (MomMom's Kitchen)",
+  "data_file": "data/recipes.json",
+  "image_dir": "data",
+  "required_fields": [
+    "id",
+    "title",
+    "ingredients",
+    "instructions",
+    "category"
+  ],
+  "optional_fields": [
+    "attribution",
+    "source_note",
+    "description",
+    "servings_yield",
+    "prep_time",
+    "cook_time",
+    "total_time",
+    "temperature",
+    "pan_size",
+    "notes",
+    "tags",
+    "confidence",
+    "image_refs",
+    "page_continuation",
+    "conversions",
+    "nutrition",
+    "variant_of",
+    "variant_notes",
+    "canonical_id",
+    "frosting",
+    "oven_directions"
+  ],
+  "valid_categories": [
+    "appetizers",
+    "beverages",
+    "breads",
+    "breakfast",
+    "desserts",
+    "mains",
+    "main-dishes",
+    "main dishes",
+    "salads",
+    "sides",
+    "side-dishes",
+    "side dishes",
+    "soups",
+    "snacks",
+    "cakes",
+    "candy",
+    "cookies",
+    "frostings",
+    "eggs",
+    "fish",
+    "shellfish",
+    "meat",
+    "pasta",
+    "legumes",
+    "vegetables",
+    "grains",
+    "dairy",
+    "sauces",
+    "condiments",
+    "sandwiches",
+    "preserves",
+    "canning",
+    "basics",
+    "reference",
+    "tips",
+    "techniques",
+    "remedies"
+  ],
+  "valid_confidence": [
+    "high",
+    "medium",
+    "low"
+  ],
+  "ingredient_optional_categories": [
+    "reference",
+    "tips",
+    "techniques",
+    "basics"
+  ],
+  "empty_instructions_ok_categories": [],
+  "warn_missing_nutrition": false,
+  "sanity_limits": {
+    "salt": {
+      "max_cups": 0.5,
+      "max_tbsp": 3,
+      "max_tsp": 6
+    },
+    "sugar": {
+      "max_cups": 6
+    },
+    "flour": {
+      "max_cups": 10
+    },
+    "butter": {
+      "max_cups": 4
+    },
+    "baking soda": {
+      "max_tsp": 4
+    },
+    "baking powder": {
+      "max_tbsp": 4
+    }
+  },
+  "sanity_match": "substring",
+  "sanity_skip_quantity_over": null,
+  "quantity_parse": "simple",
+  "sanity_skip_item_substrings": [],
+  "limit_overrides": [],
+  "temperature_mode": "plain",
+  "temp_min": 200,
+  "temp_max": 550,
+  "temp_min_low": null,
+  "cheese_temp_min": null,
+  "cheese_temp_max": null,
+  "low_temp_categories": [],
+  "low_temp_tags": [],
+  "low_temp_title_terms": [],
+  "low_temp_title_id_keywords": [],
+  "image_skip_urls": false,
+  "image_extensions": [
+    ""
+  ],
+  "meta_count_fields": [
+    "total_recipes"
+  ],
+  "declared_unused": {},
+  "_notes": [
+    "Values copied from MomsRecipes HEAD scripts/validate-recipes.py (e3537b4).",
+    "ingredient_optional_categories is the fork's NON_RECIPE_CATEGORIES: it waives required ingredients/instructions only; an empty instructions list still errors (empty_instructions_ok_categories is empty)."
+  ]
+}
